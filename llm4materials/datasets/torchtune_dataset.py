@@ -11,10 +11,11 @@ from torch.utils.data import Dataset
 from torchtune.data._utils import truncate
 from torchtune.datasets._packed import PackedDataset
 from torchtune.modules.tokenizers import ModelTokenizer
-
+from ase.io import read
 from pathlib import Path
 from glob import glob 
 import ase.io
+import os
 from llm4materials.encoders.cartesian import Cartesian
 
 class TextCompletionDataset(Dataset):
@@ -62,8 +63,21 @@ class TextCompletionDataset(Dataset):
         # TO-DO
         # read the data source and return a list of ase Atoms object
 
+        _data = []
+
+        # Iterate over all files in the given source directory
+        for root, _, files in os.walk(source):
+            for file in files:
+                if file.endswith(".cif"):
+                    file_path = os.path.join(root, file)
+                    try:
+                        # Read the CIF file and append the Atoms object to the list
+                        atoms_object = read(file_path)
+                        _data.append(atoms_object)
+                    except Exception as e:
+                        print(f"Error reading {file_path}: {e}")
+        
         return _data
-        # raise NotImplementedError
 
     def __len__(self):
         return len(self._data)
