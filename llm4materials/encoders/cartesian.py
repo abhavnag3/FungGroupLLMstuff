@@ -50,21 +50,21 @@ class Cartesian:
         # given a Cartesian string representation 
         # return an Atoms object
         lines = string.strip().split("\n") #seperate each line in the string
-        lattice_lengths = list(map(float, lines[0].split()))
+        lattice_lengths = list(map(float, lines[0].split())) #get lattice_lengths
         lattice_angles = list(map(float, lines[1].split()))
 
         cell = Cell.fromcellpar(lattice_lengths + lattice_angles)
         atom_symb = []
         atom_pos = []
 
-        for i in range(2, len(lines), 2):
+        for i in range(2, len(lines), 2): #loop over string and seperate from symbols and positions
             symbol = lines[i]
             coords = list(map(float, lines[i + 1].split()))
             atom_symb.append(symbol)
             atom_pos.append(coords)
         
         atoms = Atoms(symbols = atom_symb, scaled_positions=atom_pos, cell=cell, pbc = True)
-        return atoms
+        return atoms #tested and works in notebook
 
         
     
