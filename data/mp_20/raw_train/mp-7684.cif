@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tl3AsSe3
+_chemical_formula_sum              "Tl3 As1 Se3"
+_cell_length_a       6.40151
+_cell_length_b       6.40151
+_cell_length_c       6.40151
+_cell_angle_alpha    106.685
+_cell_angle_beta     106.685
+_cell_angle_gamma    106.685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.55490  0.15199  0.15199  1.0000
+  Tl  Tl2       1.0  0.15199  0.55490  0.15199  1.0000
+  Tl  Tl3       1.0  0.15199  0.15199  0.55490  1.0000
+  As  As1       1.0  0.69908  0.69908  0.69908  1.0000
+  Se  Se1       1.0  0.72025  0.09054  0.72025  1.0000
+  Se  Se2       1.0  0.72025  0.72025  0.09054  1.0000
+  Se  Se3       1.0  0.09054  0.72025  0.72025  1.0000

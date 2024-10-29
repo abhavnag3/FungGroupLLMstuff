@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       BaCo2P2O8
+_chemical_formula_sum              "Ba1 Co2 P2 O8"
+_cell_length_a       4.76793
+_cell_length_b       4.87179
+_cell_length_c       8.51757
+_cell_angle_alpha    90.4085
+_cell_angle_beta     106.115
+_cell_angle_gamma    119.224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.32755  0.14923  0.50507  1.0000
+  Co  Co2       1.0  0.67245  0.85077  0.49493  1.0000
+  P   P1        1.0  0.14318  0.57103  0.71882  1.0000
+  P   P2        1.0  0.85682  0.42897  0.28118  1.0000
+  O   O1        1.0  0.91180  0.14917  0.34133  1.0000
+  O   O2        1.0  0.27479  0.63547  0.90867  1.0000
+  O   O3        1.0  0.72521  0.36453  0.09133  1.0000
+  O   O4        1.0  0.59537  0.44486  0.35136  1.0000
+  O   O5        1.0  0.08820  0.85083  0.65867  1.0000
+  O   O6        1.0  0.79762  0.24354  0.65968  1.0000
+  O   O7        1.0  0.20238  0.75646  0.34032  1.0000
+  O   O8        1.0  0.40463  0.55514  0.64864  1.0000

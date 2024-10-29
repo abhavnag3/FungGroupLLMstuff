@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb4Na2Mn2O8
+_chemical_formula_sum              "Rb4 Na2 Mn2 O8"
+_cell_length_a       6.08635
+_cell_length_b       6.07124
+_cell_length_c       7.97168
+_cell_angle_alpha    87.168
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.75000  0.11757  0.82739  1.0000
+  Rb  Rb2       1.0  0.25000  0.88243  0.17261  1.0000
+  Rb  Rb3       1.0  0.25000  0.30500  0.48393  1.0000
+  Rb  Rb4       1.0  0.75000  0.69500  0.51607  1.0000
+  Na  Na1       1.0  0.75000  0.61623  0.03422  1.0000
+  Na  Na2       1.0  0.25000  0.38377  0.96578  1.0000
+  Mn  Mn1       1.0  0.25000  0.80512  0.74458  1.0000
+  Mn  Mn2       1.0  0.75000  0.19488  0.25542  1.0000
+  O   O1        1.0  0.52270  0.33062  0.17083  1.0000
+  O   O2        1.0  0.02270  0.66938  0.82917  1.0000
+  O   O3        1.0  0.47730  0.66938  0.82917  1.0000
+  O   O4        1.0  0.97729  0.33062  0.17083  1.0000
+  O   O5        1.0  0.75000  0.20401  0.46977  1.0000
+  O   O6        1.0  0.75000  0.92701  0.19230  1.0000
+  O   O7        1.0  0.25000  0.79599  0.53023  1.0000
+  O   O8        1.0  0.25000  0.07299  0.80770  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Tl6C3N6
+_chemical_formula_sum              "Tl6 C3 N6"
+_cell_length_a       5.40074
+_cell_length_b       7.08842
+_cell_length_c       10.0589
+_cell_angle_alpha    98.0138
+_cell_angle_beta     97.7339
+_cell_angle_gamma    112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.82536  0.20203  0.95236  1.0000
+  Tl  Tl2       1.0  0.87641  0.06378  0.32588  1.0000
+  Tl  Tl3       1.0  0.12359  0.93622  0.67412  1.0000
+  Tl  Tl4       1.0  0.59052  0.46847  0.31536  1.0000
+  Tl  Tl5       1.0  0.17464  0.79796  0.04764  1.0000
+  Tl  Tl6       1.0  0.40947  0.53153  0.68464  1.0000
+  C   C1        1.0  0.77153  0.22945  0.64228  1.0000
+  C   C2        1.0  0.22847  0.77055  0.35773  1.0000
+  C   C3        1.0  0.50000  0.50000  0.00000  1.0000
+  N   N1        1.0  0.59786  0.24730  0.70603  1.0000
+  N   N2        1.0  0.71301  0.50423  0.06730  1.0000
+  N   N3        1.0  0.40214  0.75270  0.29397  1.0000
+  N   N4        1.0  0.28699  0.49577  0.93270  1.0000
+  N   N5        1.0  0.95386  0.21170  0.58492  1.0000
+  N   N6        1.0  0.04614  0.78830  0.41508  1.0000

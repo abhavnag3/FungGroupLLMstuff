@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       V2Fe2H4O10
+_chemical_formula_sum              "V2 Fe2 H4 O10"
+_cell_length_a       5.56057
+_cell_length_b       5.70973
+_cell_length_c       6.76819
+_cell_angle_alpha    100.493
+_cell_angle_beta     95.0398
+_cell_angle_gamma    107.192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.25794  0.62096  0.75581  1.0000
+  V   V2        1.0  0.74206  0.37904  0.24419  1.0000
+  Fe  Fe1       1.0  0.63622  0.21672  0.69928  1.0000
+  Fe  Fe2       1.0  0.36378  0.78328  0.30072  1.0000
+  H   H1        1.0  0.08003  0.11332  0.70391  1.0000
+  H   H2        1.0  0.91997  0.88668  0.29609  1.0000
+  H   H3        1.0  0.87398  0.85033  0.71180  1.0000
+  H   H4        1.0  0.12602  0.14967  0.28820  1.0000
+  O   O1        1.0  0.64737  0.63881  0.33059  1.0000
+  O   O2        1.0  0.62349  0.26225  0.99379  1.0000
+  O   O3        1.0  0.37651  0.73775  0.00621  1.0000
+  O   O4        1.0  0.35263  0.36119  0.66941  1.0000
+  O   O5        1.0  0.37783  0.86161  0.61793  1.0000
+  O   O6        1.0  0.90871  0.03390  0.73759  1.0000
+  O   O7        1.0  0.07515  0.47083  0.27839  1.0000
+  O   O8        1.0  0.92485  0.52917  0.72161  1.0000
+  O   O9        1.0  0.09129  0.96610  0.26241  1.0000
+  O   O10       1.0  0.62217  0.13839  0.38207  1.0000

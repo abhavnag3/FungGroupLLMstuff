@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Cl4O12
+_chemical_formula_sum              "Ba2 Cl4 O12"
+_cell_length_a       9.04401
+_cell_length_b       7.83362
+_cell_length_c       7.19232
+_cell_angle_alpha    73.8724
+_cell_angle_beta     56.3129
+_cell_angle_gamma    49.8146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75232  0.24768  0.24768  1.0000
+  Ba  Ba2       1.0  0.00232  0.49768  0.49768  1.0000
+  Cl  Cl1       1.0  0.40766  0.63311  0.98997  1.0000
+  Cl  Cl2       1.0  0.96926  0.98997  0.63311  1.0000
+  Cl  Cl3       1.0  0.26003  0.28074  0.84234  1.0000
+  Cl  Cl4       1.0  0.61689  0.84234  0.28074  1.0000
+  O   O1        1.0  0.21413  0.87723  0.04727  1.0000
+  O   O2        1.0  0.86136  0.04727  0.87723  1.0000
+  O   O3        1.0  0.20272  0.38864  0.03587  1.0000
+  O   O4        1.0  0.37277  0.03587  0.38864  1.0000
+  O   O5        1.0  0.32297  0.39664  0.63935  1.0000
+  O   O6        1.0  0.64105  0.63935  0.39664  1.0000
+  O   O7        1.0  0.72308  0.88995  0.34500  1.0000
+  O   O8        1.0  0.04198  0.34500  0.88995  1.0000
+  O   O9        1.0  0.90500  0.20802  0.52692  1.0000
+  O   O10       1.0  0.36005  0.52692  0.20802  1.0000
+  O   O11       1.0  0.85336  0.92703  0.60895  1.0000
+  O   O12       1.0  0.61065  0.60895  0.92703  1.0000

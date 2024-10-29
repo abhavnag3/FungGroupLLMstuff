@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Sr3Li4Sb4
+_chemical_formula_sum              "Sr3 Li4 Sb4"
+_cell_length_a       9.12749
+_cell_length_b       9.12749
+_cell_length_c       9.12749
+_cell_angle_alpha    149.174
+_cell_angle_beta     131.171
+_cell_angle_gamma    58.8668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.62990  0.62990  0.00000  1.0000
+  Sr  Sr2       1.0  0.00000  0.50000  0.50000  1.0000
+  Sr  Sr3       1.0  0.37010  0.37010  0.00000  1.0000
+  Li  Li1       1.0  0.98358  0.17728  0.80630  1.0000
+  Li  Li2       1.0  0.37098  0.17728  0.19370  1.0000
+  Li  Li3       1.0  0.62902  0.82272  0.80630  1.0000
+  Li  Li4       1.0  0.01642  0.82272  0.19370  1.0000
+  Sb  Sb1       1.0  0.78641  0.28641  0.50000  1.0000
+  Sb  Sb2       1.0  0.21359  0.71359  0.50000  1.0000
+  Sb  Sb3       1.0  0.30882  0.00000  0.30882  1.0000
+  Sb  Sb4       1.0  0.69118  0.00000  0.69118  1.0000

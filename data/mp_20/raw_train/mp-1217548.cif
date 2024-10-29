@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       TbFe11Re
+_chemical_formula_sum              "Tb1 Fe11 Re1"
+_cell_length_a       4.67785
+_cell_length_b       6.46718
+_cell_length_c       6.46718
+_cell_angle_alpha    97.9856
+_cell_angle_beta     111.202
+_cell_angle_gamma    68.7978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.00562  0.99438  0.00562  1.0000
+  Fe  Fe1       1.0  0.72853  0.77148  0.22853  1.0000
+  Fe  Fe2       1.0  0.27098  0.22902  0.77098  1.0000
+  Fe  Fe3       1.0  0.49838  0.77719  0.77395  1.0000
+  Fe  Fe4       1.0  0.49838  0.22605  0.22281  1.0000
+  Fe  Fe5       1.0  0.50042  0.99897  0.49997  1.0000
+  Fe  Fe6       1.0  0.00058  0.99897  0.49997  1.0000
+  Fe  Fe7       1.0  0.50042  0.50003  0.00103  1.0000
+  Fe  Fe8       1.0  0.00058  0.50003  0.00103  1.0000
+  Fe  Fe9       1.0  0.36016  0.63984  0.36016  1.0000
+  Fe  Fe10      1.0  0.99910  0.36012  0.35832  1.0000
+  Fe  Fe11      1.0  0.99910  0.64168  0.63989  1.0000
+  Re  Re1       1.0  0.63777  0.36223  0.63777  1.0000

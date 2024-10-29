@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca10Cu10
+_chemical_formula_sum              "Ca10 Cu10"
+_cell_length_a       4.23317
+_cell_length_b       5.81806
+_cell_length_c       19.3108
+_cell_angle_alpha    85.6521
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.25000  0.34371  0.12845  1.0000
+  Ca  Ca2       1.0  0.75000  0.65629  0.87155  1.0000
+  Ca  Ca3       1.0  0.25000  0.53976  0.32837  1.0000
+  Ca  Ca4       1.0  0.75000  0.46024  0.67163  1.0000
+  Ca  Ca5       1.0  0.25000  0.24181  0.52817  1.0000
+  Ca  Ca6       1.0  0.75000  0.75819  0.47182  1.0000
+  Ca  Ca7       1.0  0.25000  0.94603  0.72835  1.0000
+  Ca  Ca8       1.0  0.75000  0.05397  0.27165  1.0000
+  Ca  Ca9       1.0  0.25000  0.14470  0.92819  1.0000
+  Ca  Ca10      1.0  0.75000  0.85530  0.07182  1.0000
+  Cu  Cu1       1.0  0.25000  0.80903  0.18774  1.0000
+  Cu  Cu2       1.0  0.75000  0.19097  0.81226  1.0000
+  Cu  Cu3       1.0  0.25000  0.04433  0.38773  1.0000
+  Cu  Cu4       1.0  0.75000  0.95567  0.61227  1.0000
+  Cu  Cu5       1.0  0.25000  0.74658  0.58779  1.0000
+  Cu  Cu6       1.0  0.75000  0.25342  0.41221  1.0000
+  Cu  Cu7       1.0  0.25000  0.41245  0.78776  1.0000
+  Cu  Cu8       1.0  0.75000  0.58755  0.21224  1.0000
+  Cu  Cu9       1.0  0.25000  0.61032  0.98771  1.0000
+  Cu  Cu10      1.0  0.75000  0.38968  0.01229  1.0000

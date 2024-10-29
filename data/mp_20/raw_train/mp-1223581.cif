@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       K8Sb2Te
+_chemical_formula_sum              "K8 Sb2 Te1"
+_cell_length_a       10.3562
+_cell_length_b       10.3562
+_cell_length_c       10.3562
+_cell_angle_alpha    132.01
+_cell_angle_beta     132.01
+_cell_angle_gamma    70.2135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.88441  0.38739  0.03927  1.0000
+  K   K2        1.0  0.61261  0.65188  0.49702  1.0000
+  K   K3        1.0  0.34812  0.84514  0.96073  1.0000
+  K   K4        1.0  0.15486  0.11559  0.50298  1.0000
+  K   K5        1.0  0.15486  0.65188  0.03927  1.0000
+  K   K6        1.0  0.88441  0.84514  0.49702  1.0000
+  K   K7        1.0  0.61261  0.11559  0.96073  1.0000
+  K   K8        1.0  0.34812  0.38739  0.50298  1.0000
+  Sb  Sb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Sb  Sb2       1.0  0.25000  0.75000  0.50000  1.0000
+  Te  Te1       1.0  0.00000  0.00000  0.00000  1.0000

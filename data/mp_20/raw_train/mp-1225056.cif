@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaFeBi2O6
+_chemical_formula_sum              "Ga1 Fe1 Bi2 O6"
+_cell_length_a       3.75007
+_cell_length_b       5.93418
+_cell_length_c       6.11172
+_cell_angle_alpha    76.7789
+_cell_angle_beta     88.3696
+_cell_angle_gamma    88.6778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.54274  0.00794  0.55318  1.0000
+  Fe  Fe1       1.0  0.54859  0.52253  0.06646  1.0000
+  Bi  Bi1       1.0  0.00153  0.00525  0.00245  1.0000
+  Bi  Bi2       1.0  0.00367  0.49641  0.50483  1.0000
+  O   O1        1.0  0.56982  0.80070  0.37060  1.0000
+  O   O2        1.0  0.57163  0.30651  0.88010  1.0000
+  O   O3        1.0  0.04256  0.07884  0.62347  1.0000
+  O   O4        1.0  0.04348  0.57287  0.12055  1.0000
+  O   O5        1.0  0.54496  0.32756  0.37232  1.0000
+  O   O6        1.0  0.54761  0.83018  0.87144  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy4Cu4S8
+_chemical_formula_sum              "Dy4 Cu4 S8"
+_cell_length_a       3.95831
+_cell_length_b       6.25358
+_cell_length_c       13.4779
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.25000  0.00234  0.63313  1.0000
+  Dy  Dy2       1.0  0.75000  0.50234  0.86687  1.0000
+  Dy  Dy3       1.0  0.75000  0.99766  0.36687  1.0000
+  Dy  Dy4       1.0  0.25000  0.49766  0.13313  1.0000
+  Cu  Cu1       1.0  0.25000  0.37530  0.45286  1.0000
+  Cu  Cu2       1.0  0.75000  0.62470  0.54714  1.0000
+  Cu  Cu3       1.0  0.25000  0.12470  0.95286  1.0000
+  Cu  Cu4       1.0  0.75000  0.87530  0.04714  1.0000
+  S   S1        1.0  0.75000  0.24749  0.53832  1.0000
+  S   S2        1.0  0.75000  0.76315  0.70505  1.0000
+  S   S3        1.0  0.25000  0.75251  0.46168  1.0000
+  S   S4        1.0  0.75000  0.25251  0.03832  1.0000
+  S   S5        1.0  0.25000  0.23685  0.29495  1.0000
+  S   S6        1.0  0.25000  0.74749  0.96168  1.0000
+  S   S7        1.0  0.25000  0.26315  0.79495  1.0000
+  S   S8        1.0  0.75000  0.73685  0.20505  1.0000

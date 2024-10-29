@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2Bi6Cl4O8
+_chemical_formula_sum              "Li2 Bi6 Cl4 O8"
+_cell_length_a       6.80068
+_cell_length_b       6.80068
+_cell_length_c       10.9775
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    132.198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.21159  0.78841  0.75000  1.0000
+  Li  Li2       1.0  0.78841  0.21159  0.25000  1.0000
+  Bi  Bi1       1.0  0.34283  0.65717  0.00636  1.0000
+  Bi  Bi2       1.0  0.85440  0.14560  0.75000  1.0000
+  Bi  Bi3       1.0  0.14560  0.85440  0.25000  1.0000
+  Bi  Bi4       1.0  0.65717  0.34283  0.99364  1.0000
+  Bi  Bi5       1.0  0.34283  0.65717  0.49364  1.0000
+  Bi  Bi6       1.0  0.65717  0.34283  0.50636  1.0000
+  Cl  Cl1       1.0  0.48636  0.51364  0.75000  1.0000
+  Cl  Cl2       1.0  0.51364  0.48636  0.25000  1.0000
+  Cl  Cl3       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl4       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.00394  0.48850  0.87630  1.0000
+  O   O2        1.0  0.99606  0.51150  0.12370  1.0000
+  O   O3        1.0  0.51150  0.99606  0.87630  1.0000
+  O   O4        1.0  0.48850  0.00394  0.12370  1.0000
+  O   O5        1.0  0.99606  0.51150  0.37630  1.0000
+  O   O6        1.0  0.00394  0.48850  0.62370  1.0000
+  O   O7        1.0  0.48850  0.00394  0.37630  1.0000
+  O   O8        1.0  0.51150  0.99606  0.62370  1.0000

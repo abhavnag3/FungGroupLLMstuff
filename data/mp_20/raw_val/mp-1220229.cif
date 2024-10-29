@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Pr2Zn6As6
+_chemical_formula_sum              "Pr2 Zn6 As6"
+_cell_length_a       4.21507
+_cell_length_b       4.21519
+_cell_length_c       20.6589
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.99813  0.00055  0.50002  1.0000
+  Pr  Pr2       1.0  0.99813  0.00055  0.99998  1.0000
+  Zn  Zn1       1.0  0.66638  0.33465  0.12824  1.0000
+  Zn  Zn2       1.0  0.33377  0.66790  0.87170  1.0000
+  Zn  Zn3       1.0  0.33377  0.66790  0.62830  1.0000
+  Zn  Zn4       1.0  0.66638  0.33465  0.37176  1.0000
+  Zn  Zn5       1.0  0.63260  0.35826  0.75000  1.0000
+  Zn  Zn6       1.0  0.27559  0.63430  0.25000  1.0000
+  As  As1       1.0  0.66645  0.33428  0.58695  1.0000
+  As  As2       1.0  0.33297  0.66799  0.41308  1.0000
+  As  As3       1.0  0.33297  0.66799  0.08692  1.0000
+  As  As4       1.0  0.66645  0.33428  0.91305  1.0000
+  As  As5       1.0  0.29720  0.69549  0.75000  1.0000
+  As  As6       1.0  0.60211  0.29732  0.25000  1.0000

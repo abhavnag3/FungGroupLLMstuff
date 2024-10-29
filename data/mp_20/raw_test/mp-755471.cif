@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Lu4Cr4O12
+_chemical_formula_sum              "Lu4 Cr4 O12"
+_cell_length_a       5.2114
+_cell_length_b       5.56341
+_cell_length_c       7.57531
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.02274  0.92729  0.75000  1.0000
+  Lu  Lu2       1.0  0.47726  0.42729  0.75000  1.0000
+  Lu  Lu3       1.0  0.52274  0.57271  0.25000  1.0000
+  Lu  Lu4       1.0  0.97726  0.07271  0.25000  1.0000
+  Cr  Cr1       1.0  0.00000  0.50000  0.00000  1.0000
+  Cr  Cr2       1.0  0.00000  0.50000  0.50000  1.0000
+  Cr  Cr3       1.0  0.50000  0.00000  0.00000  1.0000
+  Cr  Cr4       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.12581  0.45035  0.25000  1.0000
+  O   O2        1.0  0.18790  0.19359  0.56359  1.0000
+  O   O3        1.0  0.18790  0.19359  0.93641  1.0000
+  O   O4        1.0  0.31211  0.69359  0.56359  1.0000
+  O   O5        1.0  0.31211  0.69359  0.93641  1.0000
+  O   O6        1.0  0.37419  0.95035  0.25000  1.0000
+  O   O7        1.0  0.62581  0.04965  0.75000  1.0000
+  O   O8        1.0  0.68790  0.30640  0.06359  1.0000
+  O   O9        1.0  0.68790  0.30640  0.43640  1.0000
+  O   O10       1.0  0.81210  0.80641  0.06359  1.0000
+  O   O11       1.0  0.81210  0.80641  0.43640  1.0000
+  O   O12       1.0  0.87419  0.54965  0.75000  1.0000

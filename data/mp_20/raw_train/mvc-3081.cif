@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn2Mo2F10
+_chemical_formula_sum              "Zn2 Mo2 F10"
+_cell_length_a       5.54971
+_cell_length_b       5.54971
+_cell_length_c       7.91994
+_cell_angle_alpha    69.2581
+_cell_angle_beta     69.2581
+_cell_angle_gamma    74.2951
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.49557  0.50443  0.75000  1.0000
+  Zn  Zn2       1.0  0.50443  0.49557  0.25000  1.0000
+  Mo  Mo1       1.0  0.00000  0.00000  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.11323  0.88677  0.25000  1.0000
+  F   F2        1.0  0.88677  0.11323  0.75000  1.0000
+  F   F3        1.0  0.69992  0.77604  0.14283  1.0000
+  F   F4        1.0  0.22396  0.30008  0.35718  1.0000
+  F   F5        1.0  0.67500  0.28133  0.45449  1.0000
+  F   F6        1.0  0.71867  0.32500  0.04551  1.0000
+  F   F7        1.0  0.32500  0.71867  0.54551  1.0000
+  F   F8        1.0  0.28133  0.67500  0.95449  1.0000
+  F   F9        1.0  0.77604  0.69992  0.64282  1.0000
+  F   F10       1.0  0.30008  0.22396  0.85718  1.0000

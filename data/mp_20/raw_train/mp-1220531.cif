@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       NdV2Fe10
+_chemical_formula_sum              "Nd1 V2 Fe10"
+_cell_length_a       4.67705
+_cell_length_b       6.49151
+_cell_length_c       6.49151
+_cell_angle_alpha    97.2654
+_cell_angle_beta     111.115
+_cell_angle_gamma    68.8848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.00000  0.00000  0.00000  1.0000
+  V   V1        1.0  0.00000  0.35956  0.35956  1.0000
+  V   V2        1.0  0.00000  0.64044  0.64044  1.0000
+  Fe  Fe1       1.0  0.72945  0.77055  0.22945  1.0000
+  Fe  Fe2       1.0  0.27055  0.22945  0.77055  1.0000
+  Fe  Fe3       1.0  0.50000  0.76826  0.76826  1.0000
+  Fe  Fe4       1.0  0.50000  0.23174  0.23174  1.0000
+  Fe  Fe5       1.0  0.50000  0.00000  0.50000  1.0000
+  Fe  Fe6       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe7       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe8       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe9       1.0  0.64006  0.35995  0.64006  1.0000
+  Fe  Fe10      1.0  0.35995  0.64006  0.35995  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TbAl3Ag
+_chemical_formula_sum              "Tb1 Al3 Ag1"
+_cell_length_a       4.19155
+_cell_length_b       4.18542
+_cell_length_c       6.38376
+_cell_angle_alpha    70.8636
+_cell_angle_beta     70.8345
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.00016  0.00016  0.99968  1.0000
+  Al  Al1       1.0  0.24939  0.74939  0.50121  1.0000
+  Al  Al2       1.0  0.60972  0.60972  0.78056  1.0000
+  Al  Al3       1.0  0.39015  0.39015  0.21969  1.0000
+  Ag  Ag1       1.0  0.75057  0.25057  0.49886  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       RbTi3FeO8
+_chemical_formula_sum              "Rb1 Ti3 Fe1 O8"
+_cell_length_a       7.39639
+_cell_length_b       7.39639
+_cell_length_c       10.2759
+_cell_angle_alpha    46.4544
+_cell_angle_beta     46.4544
+_cell_angle_gamma    23.557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.00094  0.00094  0.99991  1.0000
+  Ti  Ti1       1.0  0.84447  0.84447  0.82487  1.0000
+  Ti  Ti2       1.0  0.66397  0.66397  0.48138  1.0000
+  Ti  Ti3       1.0  0.33355  0.33355  0.51645  1.0000
+  Fe  Fe1       1.0  0.14894  0.14894  0.18575  1.0000
+  O   O1        1.0  0.33451  0.33451  0.70562  1.0000
+  O   O2        1.0  0.66690  0.66690  0.29689  1.0000
+  O   O3        1.0  0.95536  0.95537  0.37872  1.0000
+  O   O4        1.0  0.04145  0.04145  0.62518  1.0000
+  O   O5        1.0  0.35068  0.35068  0.94192  1.0000
+  O   O6        1.0  0.65976  0.65976  0.04057  1.0000
+  O   O7        1.0  0.70590  0.70590  0.63949  1.0000
+  O   O8        1.0  0.29357  0.29357  0.36325  1.0000

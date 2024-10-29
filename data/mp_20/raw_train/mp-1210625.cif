@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Lu4Zn4Pt4
+_chemical_formula_sum              "Lu4 Zn4 Pt4"
+_cell_length_a       4.17782
+_cell_length_b       6.78576
+_cell_length_c       8.0269
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.25000  0.53121  0.18230  1.0000
+  Lu  Lu2       1.0  0.75000  0.46879  0.81769  1.0000
+  Lu  Lu3       1.0  0.75000  0.96879  0.68231  1.0000
+  Lu  Lu4       1.0  0.25000  0.03121  0.31770  1.0000
+  Zn  Zn1       1.0  0.25000  0.64420  0.56235  1.0000
+  Zn  Zn2       1.0  0.75000  0.35580  0.43765  1.0000
+  Zn  Zn3       1.0  0.75000  0.85580  0.06235  1.0000
+  Zn  Zn4       1.0  0.25000  0.14420  0.93765  1.0000
+  Pt  Pt1       1.0  0.25000  0.75512  0.87775  1.0000
+  Pt  Pt2       1.0  0.75000  0.24488  0.12225  1.0000
+  Pt  Pt3       1.0  0.75000  0.74488  0.37776  1.0000
+  Pt  Pt4       1.0  0.25000  0.25512  0.62225  1.0000

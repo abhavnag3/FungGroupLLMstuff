@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Sr9Mn2N8
+_chemical_formula_sum              "Sr9 Mn2 N8"
+_cell_length_a       10.5028
+_cell_length_b       5.20799
+_cell_length_c       8.41548
+_cell_angle_alpha    90
+_cell_angle_beta     68.7186
+_cell_angle_gamma    75.6447
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.50000  0.50000  1.0000
+  Sr  Sr2       1.0  0.08318  0.95841  0.75582  1.0000
+  Sr  Sr3       1.0  0.91682  0.04159  0.24418  1.0000
+  Sr  Sr4       1.0  0.65122  0.67439  0.45450  1.0000
+  Sr  Sr5       1.0  0.34878  0.32561  0.54550  1.0000
+  Sr  Sr6       1.0  0.82856  0.58572  0.98940  1.0000
+  Sr  Sr7       1.0  0.17144  0.41428  0.01060  1.0000
+  Sr  Sr8       1.0  0.39338  0.80331  0.16993  1.0000
+  Sr  Sr9       1.0  0.60662  0.19669  0.83007  1.0000
+  Mn  Mn1       1.0  0.38066  0.80967  0.80211  1.0000
+  Mn  Mn2       1.0  0.61934  0.19033  0.19789  1.0000
+  N   N1        1.0  0.22656  0.88672  0.98257  1.0000
+  N   N2        1.0  0.77343  0.11328  0.01743  1.0000
+  N   N3        1.0  0.36904  0.81548  0.60508  1.0000
+  N   N4        1.0  0.63096  0.18452  0.39492  1.0000
+  N   N5        1.0  0.54231  0.72884  0.82351  1.0000
+  N   N6        1.0  0.45769  0.27115  0.17649  1.0000
+  N   N7        1.0  0.92542  0.53729  0.24346  1.0000
+  N   N8        1.0  0.07458  0.46271  0.75654  1.0000

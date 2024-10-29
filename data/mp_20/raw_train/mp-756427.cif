@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li10Sb2S8
+_chemical_formula_sum              "Li10 Sb2 S8"
+_cell_length_a       7.30966
+_cell_length_b       7.30966
+_cell_length_c       7.92021
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    117.464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.12071  0.24338  0.30703  1.0000
+  Li  Li2       1.0  0.24338  0.12071  0.80703  1.0000
+  Li  Li3       1.0  0.15633  0.41481  0.01670  1.0000
+  Li  Li4       1.0  0.41481  0.15633  0.51670  1.0000
+  Li  Li5       1.0  0.85883  0.14117  0.69803  1.0000
+  Li  Li6       1.0  0.14117  0.85883  0.19803  1.0000
+  Li  Li7       1.0  0.84367  0.58518  0.51670  1.0000
+  Li  Li8       1.0  0.58518  0.84367  0.01670  1.0000
+  Li  Li9       1.0  0.87929  0.75662  0.80703  1.0000
+  Li  Li10      1.0  0.75662  0.87929  0.30703  1.0000
+  Sb  Sb1       1.0  0.66603  0.33397  0.09483  1.0000
+  Sb  Sb2       1.0  0.33397  0.66603  0.59483  1.0000
+  S   S1        1.0  0.01588  0.50334  0.76648  1.0000
+  S   S2        1.0  0.50334  0.01588  0.26648  1.0000
+  S   S3        1.0  0.97834  0.02166  0.02994  1.0000
+  S   S4        1.0  0.02166  0.97834  0.52994  1.0000
+  S   S5        1.0  0.51896  0.48104  0.71249  1.0000
+  S   S6        1.0  0.48104  0.51896  0.21249  1.0000
+  S   S7        1.0  0.98412  0.49666  0.26648  1.0000
+  S   S8        1.0  0.49666  0.98412  0.76648  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb2Nb2O8
+_chemical_formula_sum              "Tb2 Nb2 O8"
+_cell_length_a       6.64131
+_cell_length_b       6.64131
+_cell_length_c       5.16582
+_cell_angle_alpha    68.7692
+_cell_angle_beta     68.7692
+_cell_angle_gamma    114.425
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.12797  0.87203  0.75000  1.0000
+  Tb  Tb2       1.0  0.87203  0.12797  0.25000  1.0000
+  Nb  Nb1       1.0  0.60873  0.39127  0.75000  1.0000
+  Nb  Nb2       1.0  0.39127  0.60873  0.25000  1.0000
+  O   O1        1.0  0.13015  0.55044  0.15937  1.0000
+  O   O2        1.0  0.44956  0.86985  0.34063  1.0000
+  O   O3        1.0  0.86985  0.44956  0.84063  1.0000
+  O   O4        1.0  0.55044  0.13015  0.65937  1.0000
+  O   O5        1.0  0.71697  0.78245  0.79945  1.0000
+  O   O6        1.0  0.21755  0.28303  0.70055  1.0000
+  O   O7        1.0  0.28303  0.21755  0.20055  1.0000
+  O   O8        1.0  0.78245  0.71697  0.29945  1.0000

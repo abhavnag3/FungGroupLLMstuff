@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Co2Te2Mo2O12
+_chemical_formula_sum              "Co2 Te2 Mo2 O12"
+_cell_length_a       5.11612
+_cell_length_b       5.332
+_cell_length_c       9.18594
+_cell_angle_alpha    90.011
+_cell_angle_beta     89.9965
+_cell_angle_gamma    90.0062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.50001  0.50001  0.52595  1.0000
+  Co  Co2       1.0  0.00001  0.99996  0.47405  1.0000
+  Te  Te1       1.0  0.99996  0.49999  0.26033  1.0000
+  Te  Te2       1.0  0.50004  0.00001  0.73971  1.0000
+  Mo  Mo1       1.0  0.49999  0.99996  0.19801  1.0000
+  Mo  Mo2       1.0  0.99999  0.49999  0.80197  1.0000
+  O   O1        1.0  0.24200  0.81523  0.29969  1.0000
+  O   O2        1.0  0.75793  0.18477  0.29971  1.0000
+  O   O3        1.0  0.74203  0.68482  0.70032  1.0000
+  O   O4        1.0  0.25802  0.31521  0.70032  1.0000
+  O   O5        1.0  0.28127  0.82084  0.60369  1.0000
+  O   O6        1.0  0.71879  0.17919  0.60372  1.0000
+  O   O7        1.0  0.78127  0.67914  0.39634  1.0000
+  O   O8        1.0  0.21873  0.32085  0.39631  1.0000
+  O   O9        1.0  0.66089  0.79137  0.08353  1.0000
+  O   O10       1.0  0.16096  0.70865  0.91643  1.0000
+  O   O11       1.0  0.83907  0.29136  0.91642  1.0000
+  O   O12       1.0  0.33903  0.20865  0.08351  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Fe10C4
+_chemical_formula_sum              "Fe10 C4"
+_cell_length_a       6.22366
+_cell_length_b       6.22366
+_cell_length_c       4.98963
+_cell_angle_alpha    82.942
+_cell_angle_beta     82.942
+_cell_angle_gamma    42.4599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.18177  0.01502  0.58301  1.0000
+  Fe  Fe2       1.0  0.98498  0.81823  0.91699  1.0000
+  Fe  Fe3       1.0  0.20380  0.36758  0.31061  1.0000
+  Fe  Fe4       1.0  0.63242  0.79620  0.18939  1.0000
+  Fe  Fe5       1.0  0.79620  0.63242  0.68939  1.0000
+  Fe  Fe6       1.0  0.36758  0.20380  0.81061  1.0000
+  Fe  Fe7       1.0  0.01502  0.18177  0.08301  1.0000
+  Fe  Fe8       1.0  0.81823  0.98498  0.41699  1.0000
+  Fe  Fe9       1.0  0.56722  0.43278  0.75000  1.0000
+  Fe  Fe10      1.0  0.43278  0.56722  0.25000  1.0000
+  C   C1        1.0  0.20141  0.57247  0.57871  1.0000
+  C   C2        1.0  0.42752  0.79859  0.92129  1.0000
+  C   C3        1.0  0.79859  0.42752  0.42129  1.0000
+  C   C4        1.0  0.57248  0.20141  0.07871  1.0000

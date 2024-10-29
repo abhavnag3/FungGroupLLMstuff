@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       U2MnFeSe6
+_chemical_formula_sum              "U2 Mn1 Fe1 Se6"
+_cell_length_a       3.89132
+_cell_length_b       6.29358
+_cell_length_c       9.34329
+_cell_angle_alpha    90.1761
+_cell_angle_beta     90
+_cell_angle_gamma    71.992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.73722  0.52555  0.25597  1.0000
+  U   U2        1.0  0.26278  0.47445  0.74403  1.0000
+  Mn  Mn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe1       1.0  0.50000  0.00000  0.50000  1.0000
+  Se  Se1       1.0  0.14424  0.71152  0.05355  1.0000
+  Se  Se2       1.0  0.85576  0.28848  0.94645  1.0000
+  Se  Se3       1.0  0.13656  0.72688  0.44939  1.0000
+  Se  Se4       1.0  0.86344  0.27312  0.55061  1.0000
+  Se  Se5       1.0  0.41670  0.16660  0.25265  1.0000
+  Se  Se6       1.0  0.58330  0.83340  0.74735  1.0000

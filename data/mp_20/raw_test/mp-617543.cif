@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Th2In4Br12
+_chemical_formula_sum              "Th2 In4 Br12"
+_cell_length_a       8.68272
+_cell_length_b       8.68272
+_cell_length_c       9.1438
+_cell_angle_alpha    89.4855
+_cell_angle_beta     89.4855
+_cell_angle_gamma    118.259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.06080  0.93920  0.75000  1.0000
+  Th  Th2       1.0  0.93920  0.06080  0.25000  1.0000
+  In  In1       1.0  0.35769  0.66712  0.99716  1.0000
+  In  In2       1.0  0.66712  0.35769  0.49716  1.0000
+  In  In3       1.0  0.64231  0.33288  0.00284  1.0000
+  In  In4       1.0  0.33288  0.64231  0.50284  1.0000
+  Br  Br1       1.0  0.31079  0.29974  0.26519  1.0000
+  Br  Br2       1.0  0.68921  0.70026  0.73481  1.0000
+  Br  Br3       1.0  0.86714  0.09397  0.94398  1.0000
+  Br  Br4       1.0  0.13286  0.90603  0.05602  1.0000
+  Br  Br5       1.0  0.70026  0.68921  0.23481  1.0000
+  Br  Br6       1.0  0.90603  0.13286  0.55602  1.0000
+  Br  Br7       1.0  0.02165  0.57469  0.76800  1.0000
+  Br  Br8       1.0  0.57469  0.02166  0.26800  1.0000
+  Br  Br9       1.0  0.97834  0.42531  0.23200  1.0000
+  Br  Br10      1.0  0.09397  0.86714  0.44398  1.0000
+  Br  Br11      1.0  0.42531  0.97835  0.73200  1.0000
+  Br  Br12      1.0  0.29974  0.31079  0.76519  1.0000

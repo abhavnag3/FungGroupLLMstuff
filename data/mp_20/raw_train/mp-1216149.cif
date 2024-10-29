@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       ZrU10Ti4
+_chemical_formula_sum              "Zr1 U10 Ti4"
+_cell_length_a       2.82637
+_cell_length_b       4.82958
+_cell_length_c       21.1092
+_cell_angle_alpha    96.5286
+_cell_angle_beta     90.0038
+_cell_angle_gamma    90.0024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  1.00000  0.99995  0.99999  1.0000
+  U   U1        1.0  0.50002  0.07010  0.13990  1.0000
+  U   U2        1.0  0.50002  0.66736  0.33525  1.0000
+  U   U3        1.0  0.49999  0.26661  0.53277  1.0000
+  U   U4        1.0  0.49995  0.86485  0.72964  1.0000
+  U   U5        1.0  0.49999  0.46221  0.92548  1.0000
+  U   U6        1.0  0.50001  0.53781  0.07462  1.0000
+  U   U7        1.0  0.50004  0.13500  0.27019  1.0000
+  U   U8        1.0  0.50001  0.73342  0.46741  1.0000
+  U   U9        1.0  0.49998  0.33248  0.66457  1.0000
+  U   U10       1.0  0.49998  0.92981  0.86020  1.0000
+  Ti  Ti1       1.0  0.00002  0.60238  0.20427  1.0000
+  Ti  Ti2       1.0  0.00001  0.20035  0.40159  1.0000
+  Ti  Ti3       1.0  0.99999  0.79960  0.59841  1.0000
+  Ti  Ti4       1.0  0.99998  0.39757  0.79573  1.0000

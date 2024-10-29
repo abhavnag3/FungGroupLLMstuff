@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Bi2Pd4O8
+_chemical_formula_sum              "Bi2 Pd4 O8"
+_cell_length_a       5.78917
+_cell_length_b       6.17571
+_cell_length_c       6.51859
+_cell_angle_alpha    114.889
+_cell_angle_beta     95.7674
+_cell_angle_gamma    111.712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.85915  0.23997  0.64936  1.0000
+  Bi  Bi2       1.0  0.14085  0.76003  0.35064  1.0000
+  Pd  Pd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pd  Pd2       1.0  0.50000  0.50000  0.00000  1.0000
+  Pd  Pd3       1.0  0.50000  0.50000  0.50000  1.0000
+  Pd  Pd4       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.64435  0.39617  0.22832  1.0000
+  O   O2        1.0  0.35565  0.60383  0.77168  1.0000
+  O   O3        1.0  0.83824  0.86015  0.64564  1.0000
+  O   O4        1.0  0.16176  0.13985  0.35436  1.0000
+  O   O5        1.0  0.51902  0.87362  0.24668  1.0000
+  O   O6        1.0  0.48098  0.12638  0.75332  1.0000
+  O   O7        1.0  0.87672  0.64549  0.98891  1.0000
+  O   O8        1.0  0.12328  0.35451  0.01109  1.0000

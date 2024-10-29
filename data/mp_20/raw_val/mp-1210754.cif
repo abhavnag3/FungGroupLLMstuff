@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Lu10Ni4Sb2
+_chemical_formula_sum              "Lu10 Ni4 Sb2"
+_cell_length_a       8.50896
+_cell_length_b       8.50896
+_cell_length_c       8.50896
+_cell_angle_alpha    128.443
+_cell_angle_beta     128.443
+_cell_angle_gamma    75.909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Lu  Lu2       1.0  0.50000  0.50000  0.00000  1.0000
+  Lu  Lu3       1.0  0.79529  0.29529  0.81758  1.0000
+  Lu  Lu4       1.0  0.20471  0.70471  0.18242  1.0000
+  Lu  Lu5       1.0  0.47771  0.97771  0.18242  1.0000
+  Lu  Lu6       1.0  0.29529  0.47771  0.50000  1.0000
+  Lu  Lu7       1.0  0.02229  0.20471  0.50000  1.0000
+  Lu  Lu8       1.0  0.52229  0.02229  0.81758  1.0000
+  Lu  Lu9       1.0  0.70471  0.52229  0.50000  1.0000
+  Lu  Lu10      1.0  0.97771  0.79529  0.50000  1.0000
+  Ni  Ni1       1.0  0.12835  0.62835  0.75670  1.0000
+  Ni  Ni2       1.0  0.87165  0.37165  0.24330  1.0000
+  Ni  Ni3       1.0  0.62835  0.87165  0.50000  1.0000
+  Ni  Ni4       1.0  0.37165  0.12835  0.50000  1.0000
+  Sb  Sb1       1.0  0.25000  0.25000  0.00000  1.0000
+  Sb  Sb2       1.0  0.75000  0.75000  0.00000  1.0000

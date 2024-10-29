@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca2Ni2F8
+_chemical_formula_sum              "Ca2 Ni2 F8"
+_cell_length_a       5.40429
+_cell_length_b       5.40453
+_cell_length_c       6.52949
+_cell_angle_alpha    114.63
+_cell_angle_beta     114.547
+_cell_angle_gamma    89.9954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.25209  0.25079  0.49826  1.0000
+  Ca  Ca2       1.0  0.75234  0.75059  0.49820  1.0000
+  Ni  Ni1       1.0  0.00133  0.50012  0.99745  1.0000
+  Ni  Ni2       1.0  0.50283  0.00160  0.99955  1.0000
+  F   F1        1.0  0.93524  0.43357  0.24698  1.0000
+  F   F2        1.0  0.68644  0.18528  0.74354  1.0000
+  F   F3        1.0  0.06654  0.56541  0.74684  1.0000
+  F   F4        1.0  0.18792  0.06603  0.74775  1.0000
+  F   F5        1.0  0.31683  0.81514  0.25076  1.0000
+  F   F6        1.0  0.43831  0.31584  0.25118  1.0000
+  F   F7        1.0  0.81729  0.93586  0.25016  1.0000
+  F   F8        1.0  0.56593  0.68682  0.74665  1.0000

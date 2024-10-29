@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BaLaZnRuO6
+_chemical_formula_sum              "Ba1 La1 Zn1 Ru1 O6"
+_cell_length_a       5.69471
+_cell_length_b       5.71738
+_cell_length_c       5.72082
+_cell_angle_alpha    90.4312
+_cell_angle_beta     119.351
+_cell_angle_gamma    119.75
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.49946  0.75043  0.24967  1.0000
+  La  La1       1.0  0.48272  0.24989  0.73525  1.0000
+  Zn  Zn1       1.0  0.99290  0.00116  0.99862  1.0000
+  Ru  Ru1       1.0  0.99989  0.50047  0.50143  1.0000
+  O   O1        1.0  0.05067  0.80556  0.32234  1.0000
+  O   O2        1.0  0.48589  0.67947  0.72128  1.0000
+  O   O3        1.0  0.91006  0.26104  0.16757  1.0000
+  O   O4        1.0  0.04755  0.74097  0.78845  1.0000
+  O   O5        1.0  0.51791  0.28686  0.30555  1.0000
+  O   O6        1.0  0.01295  0.22415  0.70984  1.0000

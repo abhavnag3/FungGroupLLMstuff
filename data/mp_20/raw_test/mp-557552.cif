@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr4Cu2F12
+_chemical_formula_sum              "Sr4 Cu2 F12"
+_cell_length_a       8.7873
+_cell_length_b       8.7873
+_cell_length_c       5.80493
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    141.417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.66173  0.33827  0.50000  1.0000
+  Sr  Sr2       1.0  0.16173  0.83827  0.00000  1.0000
+  Sr  Sr3       1.0  0.83827  0.16173  0.00000  1.0000
+  Sr  Sr4       1.0  0.33827  0.66173  0.50000  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.00000  1.0000
+  F   F1        1.0  0.08507  0.24689  0.33298  1.0000
+  F   F2        1.0  0.50500  0.00500  0.25000  1.0000
+  F   F3        1.0  0.99500  0.49500  0.75000  1.0000
+  F   F4        1.0  0.91492  0.75311  0.66702  1.0000
+  F   F5        1.0  0.49500  0.99500  0.75000  1.0000
+  F   F6        1.0  0.75311  0.91492  0.66702  1.0000
+  F   F7        1.0  0.41492  0.25311  0.83298  1.0000
+  F   F8        1.0  0.25311  0.41492  0.83298  1.0000
+  F   F9        1.0  0.00500  0.50500  0.25000  1.0000
+  F   F10       1.0  0.74689  0.58508  0.16702  1.0000
+  F   F11       1.0  0.58508  0.74689  0.16702  1.0000
+  F   F12       1.0  0.24689  0.08507  0.33298  1.0000

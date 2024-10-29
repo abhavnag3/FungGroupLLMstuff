@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Ga4O8
+_chemical_formula_sum              "Li4 Ga4 O8"
+_cell_length_a       5.09411
+_cell_length_b       5.4665
+_cell_length_c       6.45705
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00015  0.58234  0.87562  1.0000
+  Li  Li2       1.0  0.50015  0.91766  0.37562  1.0000
+  Li  Li3       1.0  0.00015  0.08234  0.62438  1.0000
+  Li  Li4       1.0  0.50015  0.41766  0.12438  1.0000
+  Ga  Ga1       1.0  0.00456  0.58107  0.37387  1.0000
+  Ga  Ga2       1.0  0.50456  0.41893  0.62613  1.0000
+  Ga  Ga3       1.0  0.50456  0.91893  0.87387  1.0000
+  Ga  Ga4       1.0  0.00456  0.08107  0.12613  1.0000
+  O   O1        1.0  0.37259  0.06884  0.11246  1.0000
+  O   O2        1.0  0.37259  0.56884  0.38754  1.0000
+  O   O3        1.0  0.87259  0.93116  0.88754  1.0000
+  O   O4        1.0  0.87259  0.43116  0.61246  1.0000
+  O   O5        1.0  0.89591  0.40723  0.13821  1.0000
+  O   O6        1.0  0.39591  0.59277  0.86179  1.0000
+  O   O7        1.0  0.39591  0.09277  0.63821  1.0000
+  O   O8        1.0  0.89591  0.90723  0.36179  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb6Sn8Au2
+_chemical_formula_sum              "Rb6 Sn8 Au2"
+_cell_length_a       6.73914
+_cell_length_b       7.15904
+_cell_length_c       13.5031
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.54846  0.00000  0.00000  1.0000
+  Rb  Rb2       1.0  0.45154  0.50000  0.50000  1.0000
+  Rb  Rb3       1.0  0.82315  0.50000  0.74583  1.0000
+  Rb  Rb4       1.0  0.82315  0.50000  0.25417  1.0000
+  Rb  Rb5       1.0  0.17685  0.00000  0.75417  1.0000
+  Rb  Rb6       1.0  0.17685  0.00000  0.24583  1.0000
+  Sn  Sn1       1.0  0.32368  0.50000  0.88415  1.0000
+  Sn  Sn2       1.0  0.32368  0.50000  0.11585  1.0000
+  Sn  Sn3       1.0  0.03246  0.27707  0.00000  1.0000
+  Sn  Sn4       1.0  0.03246  0.72293  0.00000  1.0000
+  Sn  Sn5       1.0  0.96754  0.77707  0.50000  1.0000
+  Sn  Sn6       1.0  0.96754  0.22293  0.50000  1.0000
+  Sn  Sn7       1.0  0.67632  0.00000  0.38415  1.0000
+  Sn  Sn8       1.0  0.67632  0.00000  0.61585  1.0000
+  Au  Au1       1.0  0.67889  0.50000  0.00000  1.0000
+  Au  Au2       1.0  0.32111  0.00000  0.50000  1.0000

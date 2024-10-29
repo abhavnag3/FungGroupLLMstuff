@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho10Bi2Pt4
+_chemical_formula_sum              "Ho10 Bi2 Pt4"
+_cell_length_a       8.85341
+_cell_length_b       8.85341
+_cell_length_c       8.85341
+_cell_angle_alpha    128.029
+_cell_angle_beta     128.029
+_cell_angle_gamma    76.5788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ho  Ho2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ho  Ho3       1.0  0.79269  0.29269  0.81456  1.0000
+  Ho  Ho4       1.0  0.20731  0.70731  0.18544  1.0000
+  Ho  Ho5       1.0  0.47813  0.97813  0.18544  1.0000
+  Ho  Ho6       1.0  0.29269  0.47813  0.50000  1.0000
+  Ho  Ho7       1.0  0.02187  0.20731  0.50000  1.0000
+  Ho  Ho8       1.0  0.52187  0.02187  0.81456  1.0000
+  Ho  Ho9       1.0  0.70731  0.52187  0.50000  1.0000
+  Ho  Ho10      1.0  0.97813  0.79269  0.50000  1.0000
+  Bi  Bi1       1.0  0.25000  0.25000  0.00000  1.0000
+  Bi  Bi2       1.0  0.75000  0.75000  0.00000  1.0000
+  Pt  Pt1       1.0  0.13756  0.63756  0.77513  1.0000
+  Pt  Pt2       1.0  0.86244  0.36244  0.22487  1.0000
+  Pt  Pt3       1.0  0.63756  0.86244  0.50000  1.0000
+  Pt  Pt4       1.0  0.36244  0.13756  0.50000  1.0000

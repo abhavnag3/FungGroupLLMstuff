@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb2Fe2O8
+_chemical_formula_sum              "Nb2 Fe2 O8"
+_cell_length_a       3.89819
+_cell_length_b       6.64281
+_cell_length_c       6.76669
+_cell_angle_alpha    106.898
+_cell_angle_beta     90
+_cell_angle_gamma    107.062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.10055  0.20785  0.22972  1.0000
+  Nb  Nb2       1.0  0.89270  0.79215  0.77028  1.0000
+  Fe  Fe1       1.0  0.19763  0.39761  0.81362  1.0000
+  Fe  Fe2       1.0  0.80002  0.60239  0.18638  1.0000
+  O   O1        1.0  0.25447  0.51187  0.14492  1.0000
+  O   O2        1.0  0.74260  0.48813  0.85508  1.0000
+  O   O3        1.0  0.36127  0.72726  0.79710  1.0000
+  O   O4        1.0  0.63401  0.27274  0.20290  1.0000
+  O   O5        1.0  0.04793  0.10705  0.86447  1.0000
+  O   O6        1.0  0.94088  0.89295  0.13553  1.0000
+  O   O7        1.0  0.14010  0.27522  0.51196  1.0000
+  O   O8        1.0  0.86489  0.72478  0.48804  1.0000

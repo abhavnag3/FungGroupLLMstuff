@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Te4O12
+_chemical_formula_sum              "Sr4 Te4 O12"
+_cell_length_a       7.2772
+_cell_length_b       6.93023
+_cell_length_c       8.80831
+_cell_angle_alpha    53.3204
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.62759  0.13640  0.13200  1.0000
+  Sr  Sr2       1.0  0.12759  0.86360  0.36800  1.0000
+  Sr  Sr3       1.0  0.37241  0.86360  0.86800  1.0000
+  Sr  Sr4       1.0  0.87241  0.13640  0.63200  1.0000
+  Te  Te1       1.0  0.83039  0.62989  0.10551  1.0000
+  Te  Te2       1.0  0.33039  0.37011  0.39449  1.0000
+  Te  Te3       1.0  0.16961  0.37011  0.89450  1.0000
+  Te  Te4       1.0  0.66961  0.62989  0.60550  1.0000
+  O   O1        1.0  0.81871  0.91076  0.47981  1.0000
+  O   O2        1.0  0.31871  0.08924  0.02019  1.0000
+  O   O3        1.0  0.18129  0.08924  0.52019  1.0000
+  O   O4        1.0  0.68129  0.91076  0.97981  1.0000
+  O   O5        1.0  0.90611  0.60618  0.32189  1.0000
+  O   O6        1.0  0.40610  0.39382  0.17811  1.0000
+  O   O7        1.0  0.09390  0.39382  0.67811  1.0000
+  O   O8        1.0  0.59389  0.60618  0.82189  1.0000
+  O   O9        1.0  0.03113  0.77931  0.93840  1.0000
+  O   O10       1.0  0.53113  0.22069  0.56160  1.0000
+  O   O11       1.0  0.96887  0.22069  0.06160  1.0000
+  O   O12       1.0  0.46887  0.77931  0.43840  1.0000

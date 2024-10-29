@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Tb2Al6Si4Au
+_chemical_formula_sum              "Tb2 Al6 Si4 Au1"
+_cell_length_a       17.0176
+_cell_length_b       17.0176
+_cell_length_c       17.0176
+_cell_angle_alpha    14.2159
+_cell_angle_beta     14.2159
+_cell_angle_gamma    14.2159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.56555  0.56555  0.56555  1.0000
+  Tb  Tb2       1.0  0.43445  0.43445  0.43445  1.0000
+  Al  Al1       1.0  0.94790  0.94790  0.94790  1.0000
+  Al  Al2       1.0  0.05210  0.05210  0.05210  1.0000
+  Al  Al3       1.0  0.18543  0.18543  0.18543  1.0000
+  Al  Al4       1.0  0.81457  0.81457  0.81457  1.0000
+  Al  Al5       1.0  0.31695  0.31695  0.31695  1.0000
+  Al  Al6       1.0  0.68305  0.68305  0.68305  1.0000
+  Si  Si1       1.0  0.73404  0.73404  0.73404  1.0000
+  Si  Si2       1.0  0.13526  0.13526  0.13526  1.0000
+  Si  Si3       1.0  0.26596  0.26596  0.26596  1.0000
+  Si  Si4       1.0  0.86474  0.86474  0.86474  1.0000
+  Au  Au1       1.0  0.00000  0.00000  0.00000  1.0000

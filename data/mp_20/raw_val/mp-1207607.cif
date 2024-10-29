@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       YScSi2O7
+_chemical_formula_sum              "Y1 Sc1 Si2 O7"
+_cell_length_a       5.54438
+_cell_length_b       5.54438
+_cell_length_c       4.74217
+_cell_angle_alpha    82.7929
+_cell_angle_beta     82.7929
+_cell_angle_gamma    104.876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.99885  0.00115  0.00000  1.0000
+  Sc  Sc1       1.0  0.38466  0.61535  0.00000  1.0000
+  Si  Si1       1.0  0.47932  0.07972  0.41182  1.0000
+  Si  Si2       1.0  0.92028  0.52068  0.58818  1.0000
+  O   O1        1.0  0.59447  0.89878  0.21272  1.0000
+  O   O2        1.0  0.10122  0.40553  0.78728  1.0000
+  O   O3        1.0  0.72894  0.27106  0.50000  1.0000
+  O   O4        1.0  0.08295  0.68663  0.28233  1.0000
+  O   O5        1.0  0.31337  0.91705  0.71767  1.0000
+  O   O6        1.0  0.32437  0.24031  0.22321  1.0000
+  O   O7        1.0  0.75969  0.67563  0.77678  1.0000

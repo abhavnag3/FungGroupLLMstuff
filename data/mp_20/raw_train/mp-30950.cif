@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr12Ge4O4
+_chemical_formula_sum              "Sr12 Ge4 O4"
+_cell_length_a       7.19562
+_cell_length_b       7.20463
+_cell_length_c       10.1844
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.22211  0.77749  0.96854  1.0000
+  Sr  Sr2       1.0  0.27789  0.27749  0.53146  1.0000
+  Sr  Sr3       1.0  0.72211  0.72251  0.03146  1.0000
+  Sr  Sr4       1.0  0.77789  0.22251  0.46854  1.0000
+  Sr  Sr5       1.0  0.22211  0.77749  0.53146  1.0000
+  Sr  Sr6       1.0  0.27789  0.27749  0.96854  1.0000
+  Sr  Sr7       1.0  0.72211  0.72251  0.46854  1.0000
+  Sr  Sr8       1.0  0.77789  0.22251  0.03146  1.0000
+  Sr  Sr9       1.0  0.93930  0.49136  0.75000  1.0000
+  Sr  Sr10      1.0  0.56070  0.99136  0.75000  1.0000
+  Sr  Sr11      1.0  0.43930  0.00864  0.25000  1.0000
+  Sr  Sr12      1.0  0.06070  0.50864  0.25000  1.0000
+  Ge  Ge1       1.0  0.00507  0.02077  0.75000  1.0000
+  Ge  Ge2       1.0  0.49493  0.52077  0.75000  1.0000
+  Ge  Ge3       1.0  0.50507  0.47923  0.25000  1.0000
+  Ge  Ge4       1.0  0.99493  0.97923  0.25000  1.0000
+  O   O1        1.0  0.50000  0.00000  0.50000  1.0000
+  O   O2        1.0  0.00000  0.50000  0.00000  1.0000
+  O   O3        1.0  0.00000  0.50000  0.50000  1.0000
+  O   O4        1.0  0.50000  0.00000  0.00000  1.0000

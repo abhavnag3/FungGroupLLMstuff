@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La4Au4O12
+_chemical_formula_sum              "La4 Au4 O12"
+_cell_length_a       4.06924
+_cell_length_b       5.75254
+_cell_length_c       13.2628
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.26449  0.75000  0.08056  1.0000
+  La  La2       1.0  0.26449  0.25000  0.41944  1.0000
+  La  La3       1.0  0.73551  0.25000  0.91944  1.0000
+  La  La4       1.0  0.73551  0.75000  0.58056  1.0000
+  Au  Au1       1.0  0.07285  0.75000  0.82972  1.0000
+  Au  Au2       1.0  0.07285  0.25000  0.67028  1.0000
+  Au  Au3       1.0  0.92715  0.25000  0.17028  1.0000
+  Au  Au4       1.0  0.92715  0.75000  0.32972  1.0000
+  O   O1        1.0  0.17245  0.50000  0.25000  1.0000
+  O   O2        1.0  0.82755  0.00000  0.75000  1.0000
+  O   O3        1.0  0.82755  0.50000  0.75000  1.0000
+  O   O4        1.0  0.17245  0.00000  0.25000  1.0000
+  O   O5        1.0  0.74380  0.49608  0.07814  1.0000
+  O   O6        1.0  0.74380  0.50392  0.42186  1.0000
+  O   O7        1.0  0.25620  0.99608  0.92186  1.0000
+  O   O8        1.0  0.25620  0.00392  0.57814  1.0000
+  O   O9        1.0  0.74380  0.99608  0.42186  1.0000
+  O   O10       1.0  0.74380  0.00392  0.07814  1.0000
+  O   O11       1.0  0.25620  0.49608  0.57814  1.0000
+  O   O12       1.0  0.25620  0.50392  0.92186  1.0000

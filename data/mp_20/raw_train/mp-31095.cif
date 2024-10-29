@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Er4Fe2Si4
+_chemical_formula_sum              "Er4 Fe2 Si4"
+_cell_length_a       5.58527
+_cell_length_b       5.58527
+_cell_length_c       9.87514
+_cell_angle_alpha    63.0986
+_cell_angle_beta     63.0986
+_cell_angle_gamma    43.2515
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.81155  0.81156  0.10909  1.0000
+  Er  Er2       1.0  0.18844  0.18845  0.89092  1.0000
+  Er  Er3       1.0  0.00072  0.00072  0.32781  1.0000
+  Er  Er4       1.0  0.99928  0.99928  0.67219  1.0000
+  Fe  Fe1       1.0  0.27129  0.27129  0.37534  1.0000
+  Fe  Fe2       1.0  0.72871  0.72871  0.62466  1.0000
+  Si  Si1       1.0  0.50116  0.50116  0.12646  1.0000
+  Si  Si2       1.0  0.49884  0.49884  0.87353  1.0000
+  Si  Si3       1.0  0.65302  0.65302  0.43649  1.0000
+  Si  Si4       1.0  0.34698  0.34698  0.56351  1.0000

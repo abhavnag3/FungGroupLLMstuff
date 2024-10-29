@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdIn4As4S
+_chemical_formula_sum              "Cd1 In4 As4 S1"
+_cell_length_a       4.35607
+_cell_length_b       4.35607
+_cell_length_c       17.8952
+_cell_angle_alpha    83.0092
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.00023  0.00045  0.99932  1.0000
+  In  In1       1.0  0.60032  0.20065  0.19903  1.0000
+  In  In2       1.0  0.20008  0.40015  0.39977  1.0000
+  In  In3       1.0  0.79992  0.59984  0.60023  1.0000
+  In  In4       1.0  0.39909  0.79818  0.80273  1.0000
+  As  As1       1.0  0.95039  0.90079  0.14882  1.0000
+  As  As2       1.0  0.54991  0.09982  0.35027  1.0000
+  As  As3       1.0  0.14981  0.29962  0.55058  1.0000
+  As  As4       1.0  0.74925  0.49849  0.75226  1.0000
+  S   S1        1.0  0.35101  0.70201  0.94698  1.0000

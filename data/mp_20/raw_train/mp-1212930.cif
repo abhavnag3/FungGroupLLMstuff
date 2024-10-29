@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Er2Ti2Cl2O6
+_chemical_formula_sum              "Er2 Ti2 Cl2 O6"
+_cell_length_a       5.28345
+_cell_length_b       5.28345
+_cell_length_c       9.87049
+_cell_angle_alpha    74.4168
+_cell_angle_beta     74.4168
+_cell_angle_gamma    43.34
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.27879  0.27879  0.20620  1.0000
+  Er  Er2       1.0  0.72121  0.72121  0.79380  1.0000
+  Ti  Ti1       1.0  0.88179  0.88179  0.43009  1.0000
+  Ti  Ti2       1.0  0.11821  0.11821  0.56991  1.0000
+  Cl  Cl1       1.0  0.61513  0.61513  0.09432  1.0000
+  Cl  Cl2       1.0  0.38487  0.38487  0.90568  1.0000
+  O   O1        1.0  0.84796  0.84796  0.25286  1.0000
+  O   O2        1.0  0.15204  0.15204  0.74714  1.0000
+  O   O3        1.0  0.66693  0.66693  0.56456  1.0000
+  O   O4        1.0  0.33307  0.33307  0.43544  1.0000
+  O   O5        1.0  0.92083  0.92083  0.62516  1.0000
+  O   O6        1.0  0.07917  0.07917  0.37484  1.0000

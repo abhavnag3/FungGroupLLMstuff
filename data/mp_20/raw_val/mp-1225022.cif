@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Fe7Ni5P4
+_chemical_formula_sum              "Fe7 Ni5 P4"
+_cell_length_a       4.39215
+_cell_length_b       6.70297
+_cell_length_c       6.71817
+_cell_angle_alpha    84.1816
+_cell_angle_beta     71.4087
+_cell_angle_gamma    71.6131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.69719  0.96786  0.18417  1.0000
+  Fe  Fe2       1.0  0.84525  0.02994  0.81513  1.0000
+  Fe  Fe3       1.0  0.34072  0.81466  0.96852  1.0000
+  Fe  Fe4       1.0  0.12455  0.18309  0.02638  1.0000
+  Fe  Fe5       1.0  0.37776  0.66833  0.60675  1.0000
+  Fe  Fe6       1.0  0.01087  0.60547  0.33119  1.0000
+  Fe  Fe7       1.0  0.94869  0.39506  0.66980  1.0000
+  Ni  Ni1       1.0  0.08188  0.95398  0.39020  1.0000
+  Ni  Ni2       1.0  0.42125  0.04882  0.60926  1.0000
+  Ni  Ni3       1.0  0.96450  0.60936  0.95455  1.0000
+  Ni  Ni4       1.0  0.52821  0.38979  0.05060  1.0000
+  Ni  Ni5       1.0  0.65976  0.33115  0.39436  1.0000
+  P   P1        1.0  0.22761  0.24433  0.33712  1.0000
+  P   P2        1.0  0.80716  0.75380  0.65892  1.0000
+  P   P3        1.0  0.52655  0.66458  0.24668  1.0000
+  P   P4        1.0  0.43804  0.33979  0.75638  1.0000

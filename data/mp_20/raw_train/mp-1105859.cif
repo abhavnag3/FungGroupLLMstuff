@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       CsTi5Se8
+_chemical_formula_sum              "Cs1 Ti5 Se8"
+_cell_length_a       3.74861
+_cell_length_b       9.28066
+_cell_length_c       9.70355
+_cell_angle_alpha    104.457
+_cell_angle_beta     101.137
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ti  Ti1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ti  Ti2       1.0  0.65876  0.00672  0.31753  1.0000
+  Ti  Ti3       1.0  0.34124  0.99328  0.68247  1.0000
+  Ti  Ti4       1.0  0.70973  0.34315  0.41945  1.0000
+  Ti  Ti5       1.0  0.29027  0.65685  0.58055  1.0000
+  Se  Se1       1.0  0.42560  0.82846  0.85120  1.0000
+  Se  Se2       1.0  0.57440  0.17154  0.14880  1.0000
+  Se  Se3       1.0  0.90928  0.16404  0.81855  1.0000
+  Se  Se4       1.0  0.09072  0.83596  0.18145  1.0000
+  Se  Se5       1.0  0.83610  0.50947  0.67219  1.0000
+  Se  Se6       1.0  0.16390  0.49053  0.32781  1.0000
+  Se  Se7       1.0  0.75774  0.83293  0.51547  1.0000
+  Se  Se8       1.0  0.24227  0.16706  0.48453  1.0000

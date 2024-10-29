@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4Co2Ge2O8
+_chemical_formula_sum              "Na4 Co2 Ge2 O8"
+_cell_length_a       5.68555
+_cell_length_b       5.40709
+_cell_length_c       9.02874
+_cell_angle_alpha    53.19
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.32291  0.23950  0.74904  1.0000
+  Na  Na2       1.0  0.17794  0.50003  0.99281  1.0000
+  Na  Na3       1.0  0.82207  0.50003  0.49281  1.0000
+  Na  Na4       1.0  0.67709  0.23950  0.24904  1.0000
+  Co  Co1       1.0  0.18617  0.00179  0.50039  1.0000
+  Co  Co2       1.0  0.81383  0.00179  0.00039  1.0000
+  Ge  Ge1       1.0  0.68500  0.76044  0.74637  1.0000
+  Ge  Ge2       1.0  0.31500  0.76044  0.24637  1.0000
+  O   O1        1.0  0.15342  0.87603  0.04407  1.0000
+  O   O2        1.0  0.20542  0.41415  0.45158  1.0000
+  O   O3        1.0  0.70743  0.06226  0.77223  1.0000
+  O   O4        1.0  0.61803  0.70309  0.22032  1.0000
+  O   O5        1.0  0.38197  0.70309  0.72032  1.0000
+  O   O6        1.0  0.84658  0.87603  0.54407  1.0000
+  O   O7        1.0  0.29257  0.06226  0.27223  1.0000
+  O   O8        1.0  0.79458  0.41415  0.95158  1.0000

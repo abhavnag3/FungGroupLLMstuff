@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfUNb2C4
+_chemical_formula_sum              "Hf1 U1 Nb2 C4"
+_cell_length_a       11.0301
+_cell_length_b       11.0301
+_cell_length_c       11.0301
+_cell_angle_alpha    16.9608
+_cell_angle_beta     16.9608
+_cell_angle_gamma    16.9608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.37058  0.37058  0.37058  1.0000
+  U   U1        1.0  0.12614  0.12614  0.12614  1.0000
+  Nb  Nb1       1.0  0.87951  0.87951  0.87951  1.0000
+  Nb  Nb2       1.0  0.62361  0.62361  0.62361  1.0000
+  C   C1        1.0  0.50626  0.50626  0.50626  1.0000
+  C   C2        1.0  0.25149  0.25149  0.25149  1.0000
+  C   C3        1.0  0.99642  0.99641  0.99641  1.0000
+  C   C4        1.0  0.74599  0.74599  0.74599  1.0000

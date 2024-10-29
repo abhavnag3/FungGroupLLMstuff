@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pr4Ge8Pt4
+_chemical_formula_sum              "Pr4 Ge8 Pt4"
+_cell_length_a       9.71876
+_cell_length_b       9.71876
+_cell_length_c       9.71876
+_cell_angle_alpha    153.469
+_cell_angle_beta     125.527
+_cell_angle_gamma    61.59
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.73797  0.00000  0.73797  1.0000
+  Pr  Pr2       1.0  0.26203  0.00000  0.26203  1.0000
+  Pr  Pr3       1.0  0.29661  0.79661  0.50000  1.0000
+  Pr  Pr4       1.0  0.70339  0.20339  0.50000  1.0000
+  Ge  Ge1       1.0  0.92556  0.42556  0.50000  1.0000
+  Ge  Ge2       1.0  0.07444  0.57444  0.50000  1.0000
+  Ge  Ge3       1.0  0.42530  0.42530  0.00000  1.0000
+  Ge  Ge4       1.0  0.57470  0.57470  0.00000  1.0000
+  Ge  Ge5       1.0  0.35049  0.19897  0.15152  1.0000
+  Ge  Ge6       1.0  0.64951  0.80103  0.84848  1.0000
+  Ge  Ge7       1.0  0.04745  0.19897  0.84848  1.0000
+  Ge  Ge8       1.0  0.95255  0.80103  0.15152  1.0000
+  Pt  Pt1       1.0  0.60384  0.35083  0.25300  1.0000
+  Pt  Pt2       1.0  0.39616  0.64917  0.74700  1.0000
+  Pt  Pt3       1.0  0.09783  0.35083  0.74700  1.0000
+  Pt  Pt4       1.0  0.90217  0.64917  0.25300  1.0000

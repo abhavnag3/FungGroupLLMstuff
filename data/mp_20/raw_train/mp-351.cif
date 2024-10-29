@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si4Ni4
+_chemical_formula_sum              "Si4 Ni4"
+_cell_length_a       3.35013
+_cell_length_b       5.15463
+_cell_length_c       5.58065
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.75000  0.32158  0.91656  1.0000
+  Si  Si2       1.0  0.75000  0.82158  0.58344  1.0000
+  Si  Si3       1.0  0.25000  0.67842  0.08344  1.0000
+  Si  Si4       1.0  0.25000  0.17842  0.41656  1.0000
+  Ni  Ni1       1.0  0.25000  0.00919  0.81196  1.0000
+  Ni  Ni2       1.0  0.25000  0.50919  0.68804  1.0000
+  Ni  Ni3       1.0  0.75000  0.99081  0.18804  1.0000
+  Ni  Ni4       1.0  0.75000  0.49081  0.31196  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Np2O12
+_chemical_formula_sum              "Na6 Np2 O12"
+_cell_length_a       5.99708
+_cell_length_b       5.99708
+_cell_length_c       11.7118
+_cell_angle_alpha    66.9247
+_cell_angle_beta     66.9247
+_cell_angle_gamma    57.5127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.59473  0.34079  0.49767  1.0000
+  Na  Na2       1.0  0.34079  0.59473  0.99767  1.0000
+  Na  Na3       1.0  0.05277  0.77134  0.31611  1.0000
+  Na  Na4       1.0  0.83957  0.61578  0.68550  1.0000
+  Na  Na5       1.0  0.77134  0.05277  0.81611  1.0000
+  Na  Na6       1.0  0.61578  0.83957  0.18550  1.0000
+  Np  Np1       1.0  0.26643  0.01301  0.50080  1.0000
+  Np  Np2       1.0  0.01301  0.26643  0.00080  1.0000
+  O   O1        1.0  0.04898  0.33761  0.39097  1.0000
+  O   O2        1.0  0.48010  0.68486  0.61057  1.0000
+  O   O3        1.0  0.33761  0.04898  0.89097  1.0000
+  O   O4        1.0  0.68486  0.48010  0.11057  1.0000
+  O   O5        1.0  0.59767  0.04807  0.39586  1.0000
+  O   O6        1.0  0.19427  0.23534  0.60881  1.0000
+  O   O7        1.0  0.04807  0.59767  0.89586  1.0000
+  O   O8        1.0  0.23534  0.19427  0.10881  1.0000
+  O   O9        1.0  0.34712  0.78382  0.39092  1.0000
+  O   O10       1.0  0.92599  0.98536  0.60722  1.0000
+  O   O11       1.0  0.78382  0.34712  0.89092  1.0000
+  O   O12       1.0  0.98536  0.92599  0.10722  1.0000

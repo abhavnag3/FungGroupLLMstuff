@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca4V2W2O12
+_chemical_formula_sum              "Ca4 V2 W2 O12"
+_cell_length_a       5.50359
+_cell_length_b       5.67621
+_cell_length_c       7.86924
+_cell_angle_alpha    89.9996
+_cell_angle_beta     90.26
+_cell_angle_gamma    90.0003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.98751  0.05233  0.25221  1.0000
+  Ca  Ca2       1.0  0.51249  0.55233  0.24782  1.0000
+  Ca  Ca3       1.0  0.01249  0.94767  0.74779  1.0000
+  Ca  Ca4       1.0  0.48751  0.44767  0.75218  1.0000
+  V   V1        1.0  0.00000  0.50000  0.50000  1.0000
+  V   V2        1.0  0.50000  1.00000  0.00000  1.0000
+  W   W1        1.0  0.50000  1.00000  0.50000  1.0000
+  W   W2        1.0  0.00000  0.50000  1.00000  1.0000
+  O   O1        1.0  0.68698  0.28432  0.44589  1.0000
+  O   O2        1.0  0.81302  0.78432  0.05411  1.0000
+  O   O3        1.0  0.31301  0.71568  0.55411  1.0000
+  O   O4        1.0  0.18698  0.21568  0.94589  1.0000
+  O   O5        1.0  0.21234  0.19167  0.54705  1.0000
+  O   O6        1.0  0.28765  0.69167  0.95295  1.0000
+  O   O7        1.0  0.78766  0.80833  0.45295  1.0000
+  O   O8        1.0  0.71234  0.30833  0.04704  1.0000
+  O   O9        1.0  0.09738  0.46644  0.23840  1.0000
+  O   O10       1.0  0.40262  0.96644  0.26160  1.0000
+  O   O11       1.0  0.59738  0.03356  0.73840  1.0000
+  O   O12       1.0  0.90263  0.53356  0.76160  1.0000

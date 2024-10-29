@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ce14Ni6
+_chemical_formula_sum              "Ce14 Ni6"
+_cell_length_a       5.98806
+_cell_length_b       9.46263
+_cell_length_c       9.46263
+_cell_angle_alpha    119.872
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.41631  0.33327  0.66673  1.0000
+  Ce  Ce2       1.0  0.91631  0.66673  0.33327  1.0000
+  Ce  Ce3       1.0  0.24302  0.12908  0.87092  1.0000
+  Ce  Ce4       1.0  0.24402  0.74150  0.87041  1.0000
+  Ce  Ce5       1.0  0.24402  0.12959  0.25850  1.0000
+  Ce  Ce6       1.0  0.74302  0.87092  0.12908  1.0000
+  Ce  Ce7       1.0  0.74402  0.25850  0.12959  1.0000
+  Ce  Ce8       1.0  0.74402  0.87041  0.74150  1.0000
+  Ce  Ce9       1.0  0.47158  0.54096  0.45904  1.0000
+  Ce  Ce10      1.0  0.47176  0.91787  0.45879  1.0000
+  Ce  Ce11      1.0  0.47176  0.54121  0.08213  1.0000
+  Ce  Ce12      1.0  0.97157  0.45904  0.54096  1.0000
+  Ce  Ce13      1.0  0.97176  0.08213  0.54121  1.0000
+  Ce  Ce14      1.0  0.97176  0.45879  0.91787  1.0000
+  Ni  Ni1       1.0  0.19890  0.81241  0.18759  1.0000
+  Ni  Ni2       1.0  0.19881  0.37517  0.18739  1.0000
+  Ni  Ni3       1.0  0.19881  0.81261  0.62484  1.0000
+  Ni  Ni4       1.0  0.69890  0.18759  0.81241  1.0000
+  Ni  Ni5       1.0  0.69881  0.62484  0.81261  1.0000
+  Ni  Ni6       1.0  0.69881  0.18739  0.37517  1.0000

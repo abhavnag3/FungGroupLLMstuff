@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4Ta2Ag2S8
+_chemical_formula_sum              "Cs4 Ta2 Ag2 S8"
+_cell_length_a       14.5681
+_cell_length_b       12.9749
+_cell_length_c       7.87892
+_cell_angle_alpha    84.8942
+_cell_angle_beta     62.5115
+_cell_angle_gamma    32.5942
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.67814  0.67814  0.32186  1.0000
+  Cs  Cs2       1.0  0.32186  0.32186  0.67814  1.0000
+  Cs  Cs3       1.0  0.57186  0.57186  0.92814  1.0000
+  Cs  Cs4       1.0  0.92814  0.92814  0.57186  1.0000
+  Ta  Ta1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ta  Ta2       1.0  0.75000  0.75000  0.75000  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.25000  0.25000  0.25000  1.0000
+  S   S1        1.0  0.24610  0.86005  0.56669  1.0000
+  S   S2        1.0  0.32716  0.56669  0.86005  1.0000
+  S   S3        1.0  0.56669  0.32716  0.24610  1.0000
+  S   S4        1.0  0.86005  0.24610  0.32716  1.0000
+  S   S5        1.0  0.38995  0.00390  0.92284  1.0000
+  S   S6        1.0  0.92284  0.68331  0.38995  1.0000
+  S   S7        1.0  0.68331  0.92284  0.00390  1.0000
+  S   S8        1.0  0.00390  0.38995  0.68331  1.0000

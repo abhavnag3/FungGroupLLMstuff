@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li2Yb2Al2F12
+_chemical_formula_sum              "Li2 Yb2 Al2 F12"
+_cell_length_a       5.04574
+_cell_length_b       5.04574
+_cell_length_c       9.57721
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.66667  0.33333  0.75000  1.0000
+  Li  Li2       1.0  0.33333  0.66667  0.25000  1.0000
+  Yb  Yb1       1.0  0.00000  0.00000  0.50000  1.0000
+  Yb  Yb2       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al1       1.0  0.33333  0.66667  0.75000  1.0000
+  Al  Al2       1.0  0.66667  0.33333  0.25000  1.0000
+  F   F1        1.0  0.34151  0.37240  0.85877  1.0000
+  F   F2        1.0  0.62760  0.96911  0.85877  1.0000
+  F   F3        1.0  0.65850  0.03089  0.35877  1.0000
+  F   F4        1.0  0.96911  0.62760  0.35877  1.0000
+  F   F5        1.0  0.37240  0.34151  0.35877  1.0000
+  F   F6        1.0  0.96911  0.34151  0.14123  1.0000
+  F   F7        1.0  0.37240  0.03089  0.14123  1.0000
+  F   F8        1.0  0.65850  0.62760  0.14123  1.0000
+  F   F9        1.0  0.34151  0.96911  0.64123  1.0000
+  F   F10       1.0  0.03089  0.37240  0.64123  1.0000
+  F   F11       1.0  0.62760  0.65850  0.64123  1.0000
+  F   F12       1.0  0.03089  0.65850  0.85877  1.0000

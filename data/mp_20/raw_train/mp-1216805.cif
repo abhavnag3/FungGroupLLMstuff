@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       U2Si2Pt2
+_chemical_formula_sum              "U2 Si2 Pt2"
+_cell_length_a       4.30408
+_cell_length_b       5.63793
+_cell_length_c       5.47728
+_cell_angle_alpha    94.1659
+_cell_angle_beta     113.135
+_cell_angle_gamma    67.5605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.76872  0.67706  0.21451  1.0000
+  U   U2        1.0  0.23128  0.32294  0.78549  1.0000
+  Si  Si1       1.0  0.06348  0.08906  0.21602  1.0000
+  Si  Si2       1.0  0.93652  0.91094  0.78398  1.0000
+  Pt  Pt1       1.0  0.54961  0.27106  0.37029  1.0000
+  Pt  Pt2       1.0  0.45039  0.72894  0.62971  1.0000

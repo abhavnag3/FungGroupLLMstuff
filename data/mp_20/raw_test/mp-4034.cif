@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2Te4Se2
+_chemical_formula_sum              "La2 Te4 Se2"
+_cell_length_a       13.5361
+_cell_length_b       13.5361
+_cell_length_c       4.34632
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    161.581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.18042  0.81958  0.75000  1.0000
+  La  La2       1.0  0.81958  0.18042  0.25000  1.0000
+  Te  Te1       1.0  0.57948  0.42052  0.75000  1.0000
+  Te  Te2       1.0  0.42052  0.57948  0.25000  1.0000
+  Te  Te3       1.0  0.07950  0.92049  0.25000  1.0000
+  Te  Te4       1.0  0.92049  0.07951  0.75000  1.0000
+  Se  Se1       1.0  0.70511  0.29489  0.25000  1.0000
+  Se  Se2       1.0  0.29489  0.70511  0.75000  1.0000

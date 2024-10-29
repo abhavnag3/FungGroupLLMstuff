@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sc12P4
+_chemical_formula_sum              "Sc12 P4"
+_cell_length_a       5.76664
+_cell_length_b       6.79824
+_cell_length_c       8.40918
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.35505  0.67910  0.05057  1.0000
+  Sc  Sc2       1.0  0.14495  0.17910  0.44943  1.0000
+  Sc  Sc3       1.0  0.64495  0.32090  0.55057  1.0000
+  Sc  Sc4       1.0  0.85505  0.82090  0.94943  1.0000
+  Sc  Sc5       1.0  0.64495  0.32090  0.94943  1.0000
+  Sc  Sc6       1.0  0.85505  0.82090  0.55057  1.0000
+  Sc  Sc7       1.0  0.35505  0.67910  0.44943  1.0000
+  Sc  Sc8       1.0  0.14495  0.17910  0.05057  1.0000
+  Sc  Sc9       1.0  0.85997  0.52694  0.25000  1.0000
+  Sc  Sc10      1.0  0.64003  0.02694  0.25000  1.0000
+  Sc  Sc11      1.0  0.14003  0.47306  0.75000  1.0000
+  Sc  Sc12      1.0  0.35997  0.97306  0.75000  1.0000
+  P   P1        1.0  0.07264  0.87565  0.25000  1.0000
+  P   P2        1.0  0.42736  0.37565  0.25000  1.0000
+  P   P3        1.0  0.92736  0.12435  0.75000  1.0000
+  P   P4        1.0  0.57264  0.62435  0.75000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na4Nb4O12
+_chemical_formula_sum              "Na4 Nb4 O12"
+_cell_length_a       5.61527
+_cell_length_b       5.64296
+_cell_length_c       7.8757
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.49680  0.25097  0.00000  1.0000
+  Na  Na2       1.0  0.99680  0.74903  0.50000  1.0000
+  Na  Na3       1.0  0.49199  0.22603  0.50000  1.0000
+  Na  Na4       1.0  0.99199  0.77397  0.00000  1.0000
+  Nb  Nb1       1.0  0.48358  0.74452  0.25348  1.0000
+  Nb  Nb2       1.0  0.48358  0.74452  0.74652  1.0000
+  Nb  Nb3       1.0  0.98358  0.25548  0.24652  1.0000
+  Nb  Nb4       1.0  0.98358  0.25548  0.75348  1.0000
+  O   O1        1.0  0.07572  0.23847  0.00000  1.0000
+  O   O2        1.0  0.57572  0.76153  0.50000  1.0000
+  O   O3        1.0  0.94913  0.25708  0.50000  1.0000
+  O   O4        1.0  0.44913  0.74292  0.00000  1.0000
+  O   O5        1.0  0.79562  0.53517  0.21794  1.0000
+  O   O6        1.0  0.79562  0.53517  0.78206  1.0000
+  O   O7        1.0  0.29562  0.46483  0.28206  1.0000
+  O   O8        1.0  0.29562  0.46483  0.71794  1.0000
+  O   O9        1.0  0.23319  0.96992  0.28300  1.0000
+  O   O10       1.0  0.23319  0.96992  0.71700  1.0000
+  O   O11       1.0  0.73319  0.03008  0.21700  1.0000
+  O   O12       1.0  0.73319  0.03008  0.78300  1.0000

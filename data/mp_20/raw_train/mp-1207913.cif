@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U4Nb4N8
+_chemical_formula_sum              "U4 Nb4 N8"
+_cell_length_a       3.24082
+_cell_length_b       5.67171
+_cell_length_c       11.062
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.25000  0.57743  0.85592  1.0000
+  U   U2        1.0  0.75000  0.42257  0.14408  1.0000
+  U   U3        1.0  0.75000  0.92257  0.35592  1.0000
+  U   U4        1.0  0.25000  0.07743  0.64408  1.0000
+  Nb  Nb1       1.0  0.25000  0.92406  0.10014  1.0000
+  Nb  Nb2       1.0  0.75000  0.07594  0.89986  1.0000
+  Nb  Nb3       1.0  0.75000  0.57594  0.60013  1.0000
+  Nb  Nb4       1.0  0.25000  0.42406  0.39987  1.0000
+  N   N1        1.0  0.25000  0.66105  0.24444  1.0000
+  N   N2        1.0  0.75000  0.33895  0.75556  1.0000
+  N   N3        1.0  0.75000  0.83895  0.74444  1.0000
+  N   N4        1.0  0.25000  0.16105  0.25556  1.0000
+  N   N5        1.0  0.25000  0.76775  0.50299  1.0000
+  N   N6        1.0  0.75000  0.23225  0.49701  1.0000
+  N   N7        1.0  0.75000  0.73225  0.00299  1.0000
+  N   N8        1.0  0.25000  0.26775  0.99701  1.0000

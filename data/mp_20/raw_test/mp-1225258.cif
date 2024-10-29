@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Eu3Si4
+_chemical_formula_sum              "Eu3 Si4"
+_cell_length_a       9.64676
+_cell_length_b       9.64676
+_cell_length_c       9.64676
+_cell_angle_alpha    156.274
+_cell_angle_beta     152.663
+_cell_angle_gamma    36.505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.99589  0.00000  0.99589  1.0000
+  Eu  Eu2       1.0  0.81343  0.31511  0.49832  1.0000
+  Eu  Eu3       1.0  0.18322  0.68490  0.49832  1.0000
+  Si  Si1       1.0  0.63936  0.13827  0.50109  1.0000
+  Si  Si2       1.0  0.36282  0.86173  0.50109  1.0000
+  Si  Si3       1.0  0.41596  0.43532  0.98064  1.0000
+  Si  Si4       1.0  0.54532  0.56468  0.98064  1.0000

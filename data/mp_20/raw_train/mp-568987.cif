@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Na4Be2H8
+_chemical_formula_sum              "Na4 Be2 H8"
+_cell_length_a       4.99307
+_cell_length_b       5.07873
+_cell_length_c       6.8535
+_cell_angle_alpha    81.4771
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000  0.26954  0.02508  1.0000
+  Na  Na2       1.0  0.75000  0.73046  0.97492  1.0000
+  Na  Na3       1.0  0.75000  0.73513  0.47527  1.0000
+  Na  Na4       1.0  0.25000  0.26487  0.52473  1.0000
+  Be  Be1       1.0  0.25000  0.72272  0.22193  1.0000
+  Be  Be2       1.0  0.75000  0.27728  0.77807  1.0000
+  H   H1        1.0  0.75000  0.06174  0.66238  1.0000
+  H   H2        1.0  0.75000  0.18551  0.98666  1.0000
+  H   H3        1.0  0.52077  0.44647  0.73431  1.0000
+  H   H4        1.0  0.25000  0.93825  0.33762  1.0000
+  H   H5        1.0  0.97923  0.44647  0.73431  1.0000
+  H   H6        1.0  0.02077  0.55353  0.26569  1.0000
+  H   H7        1.0  0.47923  0.55353  0.26569  1.0000
+  H   H8        1.0  0.25000  0.81449  0.01334  1.0000

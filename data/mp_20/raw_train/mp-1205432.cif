@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tb4Co14
+_chemical_formula_sum              "Tb4 Co14"
+_cell_length_a       4.96445
+_cell_length_b       4.96445
+_cell_length_c       12.3607
+_cell_angle_alpha    78.4153
+_cell_angle_beta     78.4153
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.05182  0.05182  0.84455  1.0000
+  Tb  Tb2       1.0  0.94818  0.94818  0.15545  1.0000
+  Tb  Tb3       1.0  0.14837  0.14837  0.55490  1.0000
+  Tb  Tb4       1.0  0.85163  0.85163  0.44510  1.0000
+  Co  Co1       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.27852  0.27852  0.16444  1.0000
+  Co  Co3       1.0  0.72148  0.72148  0.83556  1.0000
+  Co  Co4       1.0  0.38848  0.38848  0.83457  1.0000
+  Co  Co5       1.0  0.61152  0.61152  0.16543  1.0000
+  Co  Co6       1.0  0.50000  0.50000  0.00000  1.0000
+  Co  Co7       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co8       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co9       1.0  0.10948  0.60898  0.67256  1.0000
+  Co  Co10      1.0  0.60898  0.60898  0.67256  1.0000
+  Co  Co11      1.0  0.60898  0.10948  0.67256  1.0000
+  Co  Co12      1.0  0.89052  0.39102  0.32744  1.0000
+  Co  Co13      1.0  0.39102  0.39102  0.32744  1.0000
+  Co  Co14      1.0  0.39102  0.89052  0.32744  1.0000

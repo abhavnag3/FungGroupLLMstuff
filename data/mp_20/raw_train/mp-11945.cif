@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm2Al8Ni2
+_chemical_formula_sum              "Sm2 Al8 Ni2"
+_cell_length_a       8.10149
+_cell_length_b       8.10149
+_cell_length_c       6.609
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.682
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.38527  0.61472  0.75000  1.0000
+  Sm  Sm2       1.0  0.61472  0.38527  0.25000  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.50000  1.0000
+  Al  Al2       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al3       1.0  0.57815  0.42185  0.75000  1.0000
+  Al  Al4       1.0  0.42185  0.57815  0.25000  1.0000
+  Al  Al5       1.0  0.80969  0.19032  0.05284  1.0000
+  Al  Al6       1.0  0.19032  0.80968  0.94717  1.0000
+  Al  Al7       1.0  0.19032  0.80968  0.55283  1.0000
+  Al  Al8       1.0  0.80969  0.19032  0.44716  1.0000
+  Ni  Ni1       1.0  0.72547  0.27453  0.75000  1.0000
+  Ni  Ni2       1.0  0.27453  0.72547  0.25000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb4Fe4P4
+_chemical_formula_sum              "Nb4 Fe4 P4"
+_cell_length_a       3.59734
+_cell_length_b       6.15331
+_cell_length_c       6.97595
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000  0.52258  0.17651  1.0000
+  Nb  Nb2       1.0  0.75000  0.47742  0.82349  1.0000
+  Nb  Nb3       1.0  0.75000  0.97742  0.67651  1.0000
+  Nb  Nb4       1.0  0.25000  0.02258  0.32349  1.0000
+  Fe  Fe1       1.0  0.25000  0.64110  0.56203  1.0000
+  Fe  Fe2       1.0  0.75000  0.35890  0.43797  1.0000
+  Fe  Fe3       1.0  0.75000  0.85890  0.06203  1.0000
+  Fe  Fe4       1.0  0.25000  0.14110  0.93797  1.0000
+  P   P1        1.0  0.25000  0.77779  0.88137  1.0000
+  P   P2        1.0  0.75000  0.22221  0.11863  1.0000
+  P   P3        1.0  0.75000  0.72221  0.38137  1.0000
+  P   P4        1.0  0.25000  0.27779  0.61863  1.0000

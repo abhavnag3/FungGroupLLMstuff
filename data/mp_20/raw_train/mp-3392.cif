@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Tl8Hg8
+_chemical_formula_sum              "Ba4 Tl8 Hg8"
+_cell_length_a       11.0926
+_cell_length_b       11.0926
+_cell_length_c       5.20951
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.85206  0.14794  0.00000  1.0000
+  Ba  Ba2       1.0  0.64794  0.64794  0.50000  1.0000
+  Ba  Ba3       1.0  0.35206  0.35206  0.50000  1.0000
+  Ba  Ba4       1.0  0.14794  0.85206  0.00000  1.0000
+  Tl  Tl1       1.0  0.52933  0.85920  0.00000  1.0000
+  Tl  Tl2       1.0  0.47067  0.14080  0.00000  1.0000
+  Tl  Tl3       1.0  0.64080  0.02933  0.50000  1.0000
+  Tl  Tl4       1.0  0.35920  0.97067  0.50000  1.0000
+  Tl  Tl5       1.0  0.85920  0.52933  0.00000  1.0000
+  Tl  Tl6       1.0  0.02933  0.64080  0.50000  1.0000
+  Tl  Tl7       1.0  0.97067  0.35920  0.50000  1.0000
+  Tl  Tl8       1.0  0.14080  0.47067  0.00000  1.0000
+  Hg  Hg1       1.0  0.81247  0.81247  0.00000  1.0000
+  Hg  Hg2       1.0  0.31247  0.68753  0.50000  1.0000
+  Hg  Hg3       1.0  0.68753  0.31247  0.50000  1.0000
+  Hg  Hg4       1.0  0.18753  0.18753  0.00000  1.0000
+  Hg  Hg5       1.0  0.40461  0.59539  0.00000  1.0000
+  Hg  Hg6       1.0  0.09539  0.09539  0.50000  1.0000
+  Hg  Hg7       1.0  0.90461  0.90461  0.50000  1.0000
+  Hg  Hg8       1.0  0.59539  0.40461  0.00000  1.0000

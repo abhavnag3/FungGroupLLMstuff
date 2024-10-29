@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       La2CuGe6
+_chemical_formula_sum              "La2 Cu1 Ge6"
+_cell_length_a       11.3329
+_cell_length_b       11.3329
+_cell_length_c       4.2279
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    158.771
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00173  0.99828  0.00000  1.0000
+  La  La2       1.0  0.67084  0.32916  0.00000  1.0000
+  Cu  Cu1       1.0  0.22760  0.77240  0.50000  1.0000
+  Ge  Ge1       1.0  0.28357  0.71643  0.00000  1.0000
+  Ge  Ge2       1.0  0.39456  0.60544  0.00000  1.0000
+  Ge  Ge3       1.0  0.55298  0.44702  0.50000  1.0000
+  Ge  Ge4       1.0  0.11898  0.88102  0.50000  1.0000
+  Ge  Ge5       1.0  0.89615  0.10385  0.50000  1.0000
+  Ge  Ge6       1.0  0.78459  0.21541  0.50000  1.0000

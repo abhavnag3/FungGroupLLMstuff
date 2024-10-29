@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       LiLa4CuO8
+_chemical_formula_sum              "Li1 La4 Cu1 O8"
+_cell_length_a       7.03221
+_cell_length_b       7.03221
+_cell_length_c       7.5615
+_cell_angle_alpha    74.4325
+_cell_angle_beta     74.4325
+_cell_angle_gamma    31.4877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  La  La1       1.0  0.36151  0.36151  0.30980  1.0000
+  La  La2       1.0  0.36429  0.36429  0.82681  1.0000
+  La  La3       1.0  0.63849  0.63849  0.69020  1.0000
+  La  La4       1.0  0.63571  0.63571  0.17319  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.99893  0.99893  0.25932  1.0000
+  O   O2        1.0  0.00107  0.00107  0.74068  1.0000
+  O   O3        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O4        1.0  0.50000  0.50000  0.50000  1.0000
+  O   O5        1.0  0.18063  0.18063  0.40845  1.0000
+  O   O6        1.0  0.18163  0.18163  0.91010  1.0000
+  O   O7        1.0  0.81937  0.81937  0.59155  1.0000
+  O   O8        1.0  0.81837  0.81837  0.08990  1.0000

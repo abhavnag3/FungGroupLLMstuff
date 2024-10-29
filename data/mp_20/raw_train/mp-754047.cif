@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Rb6Sb2O6
+_chemical_formula_sum              "Rb6 Sb2 O6"
+_cell_length_a       6.9165
+_cell_length_b       6.9165
+_cell_length_c       7.82824
+_cell_angle_alpha    85.8001
+_cell_angle_beta     85.8001
+_cell_angle_gamma    107.925
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.67734  0.67734  0.34664  1.0000
+  Rb  Rb2       1.0  0.80634  0.19366  0.50000  1.0000
+  Rb  Rb3       1.0  0.19366  0.80634  0.50000  1.0000
+  Rb  Rb4       1.0  0.22145  0.77855  0.00000  1.0000
+  Rb  Rb5       1.0  0.77855  0.22145  0.00000  1.0000
+  Rb  Rb6       1.0  0.32266  0.32266  0.65336  1.0000
+  Sb  Sb1       1.0  0.73786  0.73786  0.82837  1.0000
+  Sb  Sb2       1.0  0.26214  0.26214  0.17163  1.0000
+  O   O1        1.0  0.02157  0.02157  0.24513  1.0000
+  O   O2        1.0  0.52497  0.79797  0.69925  1.0000
+  O   O3        1.0  0.79797  0.52497  0.69925  1.0000
+  O   O4        1.0  0.20203  0.47503  0.30075  1.0000
+  O   O5        1.0  0.47503  0.20203  0.30075  1.0000
+  O   O6        1.0  0.97843  0.97843  0.75487  1.0000

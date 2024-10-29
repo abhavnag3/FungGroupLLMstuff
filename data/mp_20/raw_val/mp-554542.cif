@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg6B2O6F6
+_chemical_formula_sum              "Mg6 B2 O6 F6"
+_cell_length_a       8.89948
+_cell_length_b       8.89948
+_cell_length_c       3.141
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.36687  0.02993  0.25000  1.0000
+  Mg  Mg2       1.0  0.02993  0.66306  0.75000  1.0000
+  Mg  Mg3       1.0  0.63313  0.97007  0.75000  1.0000
+  Mg  Mg4       1.0  0.66306  0.63313  0.25000  1.0000
+  Mg  Mg5       1.0  0.97007  0.33694  0.25000  1.0000
+  Mg  Mg6       1.0  0.33694  0.36687  0.75000  1.0000
+  B   B1        1.0  0.33333  0.66667  0.25000  1.0000
+  B   B2        1.0  0.66667  0.33333  0.75000  1.0000
+  O   O1        1.0  0.44917  0.84520  0.25000  1.0000
+  O   O2        1.0  0.84520  0.39603  0.75000  1.0000
+  O   O3        1.0  0.39603  0.55083  0.25000  1.0000
+  O   O4        1.0  0.60398  0.44917  0.75000  1.0000
+  O   O5        1.0  0.55083  0.15480  0.75000  1.0000
+  O   O6        1.0  0.15480  0.60398  0.25000  1.0000
+  F   F1        1.0  0.70069  0.78988  0.75000  1.0000
+  F   F2        1.0  0.21012  0.91081  0.75000  1.0000
+  F   F3        1.0  0.29931  0.21012  0.25000  1.0000
+  F   F4        1.0  0.91081  0.70069  0.25000  1.0000
+  F   F5        1.0  0.78988  0.08919  0.25000  1.0000
+  F   F6        1.0  0.08919  0.29931  0.75000  1.0000

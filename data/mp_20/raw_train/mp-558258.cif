@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Eu4I4O2
+_chemical_formula_sum              "Eu4 I4 O2"
+_cell_length_a       8.13365
+_cell_length_b       8.13365
+_cell_length_c       8.13365
+_cell_angle_alpha    133.366
+_cell_angle_beta     125.298
+_cell_angle_gamma    74.6634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.58206  0.91035  0.67171  1.0000
+  Eu  Eu2       1.0  0.76136  0.58965  0.17171  1.0000
+  Eu  Eu3       1.0  0.23864  0.41035  0.82829  1.0000
+  Eu  Eu4       1.0  0.41794  0.08965  0.32829  1.0000
+  I   I1        1.0  0.99855  0.15010  0.84845  1.0000
+  I   I2        1.0  0.30166  0.65010  0.65155  1.0000
+  I   I3        1.0  0.69834  0.34990  0.34845  1.0000
+  I   I4        1.0  0.00145  0.84990  0.15155  1.0000
+  O   O1        1.0  0.50000  0.75000  0.25000  1.0000
+  O   O2        1.0  0.50000  0.25000  0.75000  1.0000

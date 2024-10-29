@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd4As6I2
+_chemical_formula_sum              "Cd4 As6 I2"
+_cell_length_a       6.51451
+_cell_length_b       6.51451
+_cell_length_c       8.16463
+_cell_angle_alpha    82.9913
+_cell_angle_beta     82.9913
+_cell_angle_gamma    97.3377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.11163  0.40160  0.78570  1.0000
+  Cd  Cd2       1.0  0.59840  0.88837  0.71430  1.0000
+  Cd  Cd3       1.0  0.40160  0.11163  0.28570  1.0000
+  Cd  Cd4       1.0  0.88837  0.59840  0.21430  1.0000
+  As  As1       1.0  0.67184  0.57647  0.52639  1.0000
+  As  As2       1.0  0.57647  0.67184  0.02639  1.0000
+  As  As3       1.0  0.29093  0.70907  0.25000  1.0000
+  As  As4       1.0  0.70907  0.29093  0.75000  1.0000
+  As  As5       1.0  0.32816  0.42353  0.47361  1.0000
+  As  As6       1.0  0.42353  0.32816  0.97361  1.0000
+  I   I1        1.0  0.87277  0.12723  0.25000  1.0000
+  I   I2        1.0  0.12723  0.87277  0.75000  1.0000

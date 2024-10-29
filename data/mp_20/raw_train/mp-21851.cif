@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn4Si4Ir4
+_chemical_formula_sum              "Mn4 Si4 Ir4"
+_cell_length_a       3.87545
+_cell_length_b       6.05524
+_cell_length_c       7.23784
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.75000  0.96868  0.18028  1.0000
+  Mn  Mn2       1.0  0.25000  0.03132  0.81972  1.0000
+  Mn  Mn3       1.0  0.75000  0.46868  0.31972  1.0000
+  Mn  Mn4       1.0  0.25000  0.53132  0.68028  1.0000
+  Si  Si1       1.0  0.25000  0.26747  0.12334  1.0000
+  Si  Si2       1.0  0.75000  0.73253  0.87666  1.0000
+  Si  Si3       1.0  0.25000  0.76747  0.37666  1.0000
+  Si  Si4       1.0  0.75000  0.23253  0.62334  1.0000
+  Ir  Ir1       1.0  0.25000  0.66359  0.06244  1.0000
+  Ir  Ir2       1.0  0.75000  0.33641  0.93756  1.0000
+  Ir  Ir3       1.0  0.25000  0.16359  0.43756  1.0000
+  Ir  Ir4       1.0  0.75000  0.83641  0.56244  1.0000

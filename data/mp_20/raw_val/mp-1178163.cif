@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       In6N2O6
+_chemical_formula_sum              "In6 N2 O6"
+_cell_length_a       6.56267
+_cell_length_b       6.56267
+_cell_length_c       6.56267
+_cell_angle_alpha    119.994
+_cell_angle_beta     119.653
+_cell_angle_gamma    90.3061
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.99131  0.00000  0.99131  1.0000
+  In  In2       1.0  0.39600  0.63395  0.26204  1.0000
+  In  In3       1.0  0.99131  0.50000  0.49131  1.0000
+  In  In4       1.0  0.62809  0.36605  0.76204  1.0000
+  In  In5       1.0  0.50173  0.00287  0.99886  1.0000
+  In  In6       1.0  0.99599  0.99713  0.49886  1.0000
+  N   N1        1.0  0.78758  0.76393  0.52365  1.0000
+  N   N2        1.0  0.75971  0.23607  0.02365  1.0000
+  O   O1        1.0  0.24577  0.76173  0.98405  1.0000
+  O   O2        1.0  0.24654  0.75782  0.51306  1.0000
+  O   O3        1.0  0.75524  0.76651  0.01306  1.0000
+  O   O4        1.0  0.75524  0.24218  0.48873  1.0000
+  O   O5        1.0  0.22232  0.23827  0.48405  1.0000
+  O   O6        1.0  0.24654  0.23349  0.98872  1.0000

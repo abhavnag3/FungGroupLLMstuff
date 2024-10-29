@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cr4OF11
+_chemical_formula_sum              "Cr4 O1 F11"
+_cell_length_a       5.10199
+_cell_length_b       5.33597
+_cell_length_c       8.78074
+_cell_angle_alpha    74.6994
+_cell_angle_beta     89.6804
+_cell_angle_gamma    118.215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.49870  0.98276  0.49172  1.0000
+  Cr  Cr2       1.0  0.99945  0.00094  0.00025  1.0000
+  Cr  Cr3       1.0  0.25055  0.50489  0.25363  1.0000
+  Cr  Cr4       1.0  0.74807  0.49666  0.74761  1.0000
+  O   O1        1.0  0.50102  0.76052  0.38068  1.0000
+  F   F1        1.0  0.99005  0.74790  0.87391  1.0000
+  F   F2        1.0  0.56491  0.75280  0.68294  1.0000
+  F   F3        1.0  0.56705  0.75267  0.06911  1.0000
+  F   F4        1.0  0.00713  0.25249  0.12593  1.0000
+  F   F5        1.0  0.50803  0.24358  0.62185  1.0000
+  F   F6        1.0  0.93354  0.24908  0.81498  1.0000
+  F   F7        1.0  0.43310  0.25097  0.93206  1.0000
+  F   F8        1.0  0.93041  0.25198  0.43672  1.0000
+  F   F9        1.0  0.43361  0.24834  0.31973  1.0000
+  F   F10       1.0  0.06820  0.75063  0.56400  1.0000
+  F   F11       1.0  0.06619  0.75382  0.18487  1.0000

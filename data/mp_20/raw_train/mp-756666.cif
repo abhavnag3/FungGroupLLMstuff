@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba2Ca2I8
+_chemical_formula_sum              "Ba2 Ca2 I8"
+_cell_length_a       10.3177
+_cell_length_b       10.3177
+_cell_length_c       10.3177
+_cell_angle_alpha    133.396
+_cell_angle_beta     133.396
+_cell_angle_gamma    68.0329
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.75000  0.50000  1.0000
+  Ba  Ba2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.75000  0.25000  0.50000  1.0000
+  I   I1        1.0  0.10916  0.16158  0.59933  1.0000
+  I   I2        1.0  0.91158  0.81225  0.55242  1.0000
+  I   I3        1.0  0.25983  0.35916  0.44758  1.0000
+  I   I4        1.0  0.18775  0.74017  0.09933  1.0000
+  I   I5        1.0  0.56225  0.50983  0.40067  1.0000
+  I   I6        1.0  0.49017  0.89084  0.05242  1.0000
+  I   I7        1.0  0.83842  0.43775  0.94758  1.0000
+  I   I8        1.0  0.64084  0.08842  0.90067  1.0000

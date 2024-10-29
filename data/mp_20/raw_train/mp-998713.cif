@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tl2In2Cl6
+_chemical_formula_sum              "Tl2 In2 Cl6"
+_cell_length_a       7.68976
+_cell_length_b       7.75368
+_cell_length_c       8.02958
+_cell_angle_alpha    62.565
+_cell_angle_beta     62.1423
+_cell_angle_gamma    60.8276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.03790  0.05227  0.88036  1.0000
+  Tl  Tl2       1.0  0.54031  0.55680  0.37130  1.0000
+  In  In1       1.0  0.24316  0.24591  0.25637  1.0000
+  In  In2       1.0  0.73566  0.73509  0.77585  1.0000
+  Cl  Cl1       1.0  0.49999  0.95734  0.01712  1.0000
+  Cl  Cl2       1.0  0.95761  0.48816  0.56660  1.0000
+  Cl  Cl3       1.0  0.50582  0.50287  0.01864  1.0000
+  Cl  Cl4       1.0  0.96562  0.95588  0.57618  1.0000
+  Cl  Cl5       1.0  0.48665  0.95376  0.57046  1.0000
+  Cl  Cl6       1.0  0.95728  0.50193  0.01712  1.0000

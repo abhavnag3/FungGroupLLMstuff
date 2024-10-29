@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tb2B4Ir4
+_chemical_formula_sum              "Tb2 B4 Ir4"
+_cell_length_a       7.20082
+_cell_length_b       6.20071
+_cell_length_c       5.49683
+_cell_angle_alpha    75.722
+_cell_angle_beta     56.5652
+_cell_angle_gamma    47.7128
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.50000  0.50000  0.50000  1.0000
+  Tb  Tb2       1.0  0.75000  0.75000  0.75000  1.0000
+  B   B1        1.0  0.18004  0.81996  0.18004  1.0000
+  B   B2        1.0  0.06996  0.43004  0.06996  1.0000
+  B   B3        1.0  0.81996  0.18004  0.81996  1.0000
+  B   B4        1.0  0.43004  0.06996  0.43004  1.0000
+  Ir  Ir1       1.0  0.87315  0.87315  0.12685  1.0000
+  Ir  Ir2       1.0  0.12685  0.12685  0.87315  1.0000
+  Ir  Ir3       1.0  0.37685  0.37685  0.12315  1.0000
+  Ir  Ir4       1.0  0.12315  0.12315  0.37685  1.0000

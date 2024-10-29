@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       YLuCr2O8
+_chemical_formula_sum              "Y1 Lu1 Cr2 O8"
+_cell_length_a       5.94934
+_cell_length_b       5.94934
+_cell_length_c       5.94934
+_cell_angle_alpha    106.065
+_cell_angle_beta     106.065
+_cell_angle_gamma    116.522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00000  0.00000  0.00000  1.0000
+  Lu  Lu1       1.0  0.75000  0.25000  0.50000  1.0000
+  Cr  Cr1       1.0  0.25000  0.75000  0.50000  1.0000
+  Cr  Cr2       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.07121  0.75405  0.68284  1.0000
+  O   O2        1.0  0.07121  0.38837  0.31716  1.0000
+  O   O3        1.0  0.67395  0.86126  0.18731  1.0000
+  O   O4        1.0  0.67395  0.48664  0.81269  1.0000
+  O   O5        1.0  0.61163  0.92879  0.68284  1.0000
+  O   O6        1.0  0.24595  0.92879  0.31716  1.0000
+  O   O7        1.0  0.51336  0.32605  0.18731  1.0000
+  O   O8        1.0  0.13874  0.32605  0.81269  1.0000

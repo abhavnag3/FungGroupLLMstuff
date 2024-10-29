@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sm2Cr2Te2O12
+_chemical_formula_sum              "Sm2 Cr2 Te2 O12"
+_cell_length_a       5.21981
+_cell_length_b       5.22054
+_cell_length_c       10.0865
+_cell_angle_alpha    89.9972
+_cell_angle_beta     90.0014
+_cell_angle_gamma    120.005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sm  Sm2       1.0  0.00000  0.00000  0.50000  1.0000
+  Cr  Cr1       1.0  0.33345  0.66672  0.25000  1.0000
+  Cr  Cr2       1.0  0.66655  0.33328  0.75000  1.0000
+  Te  Te1       1.0  0.33318  0.66659  0.75000  1.0000
+  Te  Te2       1.0  0.66682  0.33341  0.25000  1.0000
+  O   O1        1.0  0.36987  0.35965  0.14186  1.0000
+  O   O2        1.0  0.64044  0.01022  0.14185  1.0000
+  O   O3        1.0  0.98987  0.63021  0.14186  1.0000
+  O   O4        1.0  0.63013  0.64035  0.85814  1.0000
+  O   O5        1.0  0.35956  0.98978  0.85815  1.0000
+  O   O6        1.0  0.01013  0.36979  0.85813  1.0000
+  O   O7        1.0  0.64044  0.63022  0.35815  1.0000
+  O   O8        1.0  0.36987  0.01022  0.35814  1.0000
+  O   O9        1.0  0.98987  0.35967  0.35813  1.0000
+  O   O10       1.0  0.35956  0.36978  0.64185  1.0000
+  O   O11       1.0  0.63013  0.98978  0.64186  1.0000
+  O   O12       1.0  0.01013  0.64033  0.64187  1.0000

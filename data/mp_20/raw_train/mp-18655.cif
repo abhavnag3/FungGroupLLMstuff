@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Si8Rh8
+_chemical_formula_sum              "Ba4 Si8 Rh8"
+_cell_length_a       6.77461
+_cell_length_b       7.74913
+_cell_length_c       7.98334
+_cell_angle_alpha    88.7052
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.38286  0.00284  0.23716  1.0000
+  Ba  Ba2       1.0  0.88286  0.49716  0.76284  1.0000
+  Ba  Ba3       1.0  0.61714  0.99716  0.76284  1.0000
+  Ba  Ba4       1.0  0.11714  0.50284  0.23716  1.0000
+  Si  Si1       1.0  0.42172  0.37243  0.92526  1.0000
+  Si  Si2       1.0  0.92172  0.12757  0.07474  1.0000
+  Si  Si3       1.0  0.57828  0.62757  0.07474  1.0000
+  Si  Si4       1.0  0.07828  0.87243  0.92526  1.0000
+  Si  Si5       1.0  0.64974  0.31463  0.43561  1.0000
+  Si  Si6       1.0  0.14974  0.18537  0.56439  1.0000
+  Si  Si7       1.0  0.35026  0.68537  0.56439  1.0000
+  Si  Si8       1.0  0.85026  0.81463  0.43561  1.0000
+  Rh  Rh1       1.0  0.10382  0.88639  0.62154  1.0000
+  Rh  Rh2       1.0  0.60382  0.61361  0.37846  1.0000
+  Rh  Rh3       1.0  0.89618  0.11361  0.37846  1.0000
+  Rh  Rh4       1.0  0.39618  0.38639  0.62154  1.0000
+  Rh  Rh5       1.0  0.83201  0.82870  0.13828  1.0000
+  Rh  Rh6       1.0  0.33201  0.67130  0.86172  1.0000
+  Rh  Rh7       1.0  0.16799  0.17130  0.86172  1.0000
+  Rh  Rh8       1.0  0.66799  0.32870  0.13828  1.0000

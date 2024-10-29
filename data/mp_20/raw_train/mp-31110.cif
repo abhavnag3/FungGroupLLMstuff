@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm6Ga2O12
+_chemical_formula_sum              "Sm6 Ga2 O12"
+_cell_length_a       7.33408
+_cell_length_b       7.33408
+_cell_length_c       5.56792
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    102.838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.39722  0.60278  0.92299  1.0000
+  Sm  Sm2       1.0  0.60278  0.39722  0.42299  1.0000
+  Sm  Sm3       1.0  0.29903  0.08746  0.96856  1.0000
+  Sm  Sm4       1.0  0.70097  0.91254  0.46856  1.0000
+  Sm  Sm5       1.0  0.91254  0.70097  0.96856  1.0000
+  Sm  Sm6       1.0  0.08746  0.29903  0.46856  1.0000
+  Ga  Ga1       1.0  0.19303  0.80697  0.50118  1.0000
+  Ga  Ga2       1.0  0.80697  0.19303  0.00118  1.0000
+  O   O1        1.0  0.21510  0.78490  0.16990  1.0000
+  O   O2        1.0  0.78490  0.21510  0.66990  1.0000
+  O   O3        1.0  0.04115  0.95886  0.63524  1.0000
+  O   O4        1.0  0.95886  0.04115  0.13524  1.0000
+  O   O5        1.0  0.35467  0.32579  0.69754  1.0000
+  O   O6        1.0  0.64533  0.67421  0.19754  1.0000
+  O   O7        1.0  0.67421  0.64533  0.69754  1.0000
+  O   O8        1.0  0.32579  0.35467  0.19754  1.0000
+  O   O9        1.0  0.89313  0.41813  0.17344  1.0000
+  O   O10       1.0  0.10687  0.58187  0.67344  1.0000
+  O   O11       1.0  0.58187  0.10687  0.17344  1.0000
+  O   O12       1.0  0.41813  0.89313  0.67344  1.0000

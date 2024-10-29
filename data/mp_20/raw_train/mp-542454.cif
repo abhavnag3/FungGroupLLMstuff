@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mo4As6
+_chemical_formula_sum              "Mo4 As6"
+_cell_length_a       6.94341
+_cell_length_b       6.94341
+_cell_length_c       9.72389
+_cell_angle_alpha    56.5674
+_cell_angle_beta     56.5674
+_cell_angle_gamma    27.2006
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.75197  0.75197  0.37167  1.0000
+  Mo  Mo2       1.0  0.24803  0.24803  0.62833  1.0000
+  Mo  Mo3       1.0  0.64947  0.64947  0.13481  1.0000
+  Mo  Mo4       1.0  0.35053  0.35053  0.86519  1.0000
+  As  As1       1.0  0.87273  0.87273  0.04702  1.0000
+  As  As2       1.0  0.12727  0.12727  0.95298  1.0000
+  As  As3       1.0  0.58539  0.58539  0.68559  1.0000
+  As  As4       1.0  0.41461  0.41461  0.31441  1.0000
+  As  As5       1.0  0.89536  0.89536  0.62881  1.0000
+  As  As6       1.0  0.10463  0.10464  0.37119  1.0000

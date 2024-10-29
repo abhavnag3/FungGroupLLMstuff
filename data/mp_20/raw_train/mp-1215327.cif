@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Al4Ir4
+_chemical_formula_sum              "Zr4 Al4 Ir4"
+_cell_length_a       5.34863
+_cell_length_b       5.34863
+_cell_length_c       8.29007
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.33464  0.66536  0.20819  1.0000
+  Zr  Zr2       1.0  0.67023  0.32977  0.32250  1.0000
+  Zr  Zr3       1.0  0.67023  0.32977  0.67750  1.0000
+  Zr  Zr4       1.0  0.33464  0.66536  0.79181  1.0000
+  Al  Al1       1.0  0.99442  0.00558  0.25472  1.0000
+  Al  Al2       1.0  0.99442  0.00558  0.74528  1.0000
+  Al  Al3       1.0  0.82880  0.65522  0.00000  1.0000
+  Al  Al4       1.0  0.34478  0.17120  0.00000  1.0000
+  Ir  Ir1       1.0  0.83049  0.16951  0.00000  1.0000
+  Ir  Ir2       1.0  0.16953  0.33798  0.50000  1.0000
+  Ir  Ir3       1.0  0.66202  0.83047  0.50000  1.0000
+  Ir  Ir4       1.0  0.16620  0.83380  0.50000  1.0000

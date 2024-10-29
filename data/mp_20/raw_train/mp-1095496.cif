@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Er2Ga8Ni2
+_chemical_formula_sum              "Er2 Ga8 Ni2"
+_cell_length_a       7.85145
+_cell_length_b       7.85145
+_cell_length_c       6.59366
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    149.578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.88054  0.11946  0.75000  1.0000
+  Er  Er2       1.0  0.11946  0.88054  0.25000  1.0000
+  Ga  Ga1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.50000  0.50000  1.0000
+  Ga  Ga3       1.0  0.07102  0.92898  0.75000  1.0000
+  Ga  Ga4       1.0  0.92898  0.07102  0.25000  1.0000
+  Ga  Ga5       1.0  0.68496  0.31504  0.94869  1.0000
+  Ga  Ga6       1.0  0.31504  0.68496  0.05131  1.0000
+  Ga  Ga7       1.0  0.68496  0.31504  0.55131  1.0000
+  Ga  Ga8       1.0  0.31504  0.68496  0.44869  1.0000
+  Ni  Ni1       1.0  0.22548  0.77452  0.75000  1.0000
+  Ni  Ni2       1.0  0.77452  0.22548  0.25000  1.0000

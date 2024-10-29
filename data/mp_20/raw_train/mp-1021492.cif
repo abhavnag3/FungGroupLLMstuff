@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Cd4SF6
+_chemical_formula_sum              "Cd4 S1 F6"
+_cell_length_a       12.8121
+_cell_length_b       12.8121
+_cell_length_c       12.8121
+_cell_angle_alpha    17.5238
+_cell_angle_beta     17.5238
+_cell_angle_gamma    17.5238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.79174  0.79174  0.79174  1.0000
+  Cd  Cd2       1.0  0.20826  0.20826  0.20826  1.0000
+  Cd  Cd3       1.0  0.37402  0.37402  0.37402  1.0000
+  Cd  Cd4       1.0  0.62598  0.62598  0.62598  1.0000
+  S   S1        1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.85427  0.85427  0.85427  1.0000
+  F   F2        1.0  0.14573  0.14573  0.14573  1.0000
+  F   F3        1.0  0.56299  0.56299  0.56299  1.0000
+  F   F4        1.0  0.43701  0.43701  0.43701  1.0000
+  F   F5        1.0  0.27036  0.27036  0.27036  1.0000
+  F   F6        1.0  0.72964  0.72964  0.72964  1.0000

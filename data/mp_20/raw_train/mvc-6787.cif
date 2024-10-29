@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Zn2CuWO6
+_chemical_formula_sum              "Zn2 Cu1 W1 O6"
+_cell_length_a       4.99058
+_cell_length_b       5.37712
+_cell_length_c       5.4258
+_cell_angle_alpha    114.94
+_cell_angle_beta     116.118
+_cell_angle_gamma    89.8237
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.28807  0.81928  0.53683  1.0000
+  Zn  Zn2       1.0  0.73012  0.34218  0.52927  1.0000
+  Cu  Cu1       1.0  0.48180  0.48327  0.98336  1.0000
+  W   W1        1.0  0.99156  0.98093  0.98821  1.0000
+  O   O1        1.0  0.69414  0.18759  0.81103  1.0000
+  O   O2        1.0  0.24542  0.73964  0.13269  1.0000
+  O   O3        1.0  0.99860  0.14460  0.37509  1.0000
+  O   O4        1.0  0.34269  0.23433  0.10732  1.0000
+  O   O5        1.0  0.60362  0.67804  0.80457  1.0000
+  O   O6        1.0  0.93523  0.73075  0.57569  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       SrLiLaTi3O9
+_chemical_formula_sum              "Sr1 Li1 La1 Ti3 O9"
+_cell_length_a       5.52989
+_cell_length_b       5.52989
+_cell_length_c       6.78823
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.00000  0.32953  1.0000
+  Li  Li1       1.0  0.33333  0.66667  0.99868  1.0000
+  La  La1       1.0  0.66667  0.33333  0.67125  1.0000
+  Ti  Ti1       1.0  0.33333  0.66667  0.49666  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.83971  1.0000
+  Ti  Ti3       1.0  0.66667  0.33333  0.16308  1.0000
+  O   O1        1.0  0.16515  0.83485  0.66412  1.0000
+  O   O2        1.0  0.83062  0.16938  0.99460  1.0000
+  O   O3        1.0  0.50407  0.49593  0.34165  1.0000
+  O   O4        1.0  0.99186  0.49593  0.34165  1.0000
+  O   O5        1.0  0.66970  0.83485  0.66412  1.0000
+  O   O6        1.0  0.33876  0.16938  0.99460  1.0000
+  O   O7        1.0  0.16515  0.33030  0.66412  1.0000
+  O   O8        1.0  0.83062  0.66124  0.99460  1.0000
+  O   O9        1.0  0.50407  0.00814  0.34165  1.0000

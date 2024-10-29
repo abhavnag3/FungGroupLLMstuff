@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       In5AgTe8
+_chemical_formula_sum              "In5 Ag1 Te8"
+_cell_length_a       7.76525
+_cell_length_b       7.76525
+_cell_length_c       9.17823
+_cell_angle_alpha    89.7722
+_cell_angle_beta     90.2278
+_cell_angle_gamma    72.1986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.49054  0.49055  0.00000  1.0000
+  In  In2       1.0  0.01010  0.01010  0.50000  1.0000
+  In  In3       1.0  0.49956  0.49956  0.50000  1.0000
+  In  In4       1.0  0.01035  0.48906  0.75308  1.0000
+  In  In5       1.0  0.48906  0.01035  0.24692  1.0000
+  Ag  Ag1       1.0  0.99913  0.99913  0.00000  1.0000
+  Te  Te1       1.0  0.61920  0.11192  0.98564  1.0000
+  Te  Te2       1.0  0.11232  0.61882  0.48143  1.0000
+  Te  Te3       1.0  0.11192  0.61920  0.01436  1.0000
+  Te  Te4       1.0  0.61882  0.11232  0.51857  1.0000
+  Te  Te5       1.0  0.11280  0.15361  0.24621  1.0000
+  Te  Te6       1.0  0.62106  0.65153  0.75122  1.0000
+  Te  Te7       1.0  0.15361  0.11280  0.75379  1.0000
+  Te  Te8       1.0  0.65153  0.62106  0.24878  1.0000

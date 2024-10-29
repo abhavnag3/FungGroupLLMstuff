@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K2U2Cu2S6
+_chemical_formula_sum              "K2 U2 Cu2 S6"
+_cell_length_a       7.34637
+_cell_length_b       7.34637
+_cell_length_c       10.2957
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    148.713
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.74338  0.25662  0.25000  1.0000
+  K   K2        1.0  0.25662  0.74338  0.75000  1.0000
+  U   U1        1.0  0.00000  0.00000  0.50000  1.0000
+  U   U2        1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.53273  0.46727  0.75000  1.0000
+  Cu  Cu2       1.0  0.46727  0.53273  0.25000  1.0000
+  S   S1        1.0  0.62240  0.37760  0.56286  1.0000
+  S   S2        1.0  0.37760  0.62240  0.43714  1.0000
+  S   S3        1.0  0.37760  0.62240  0.06286  1.0000
+  S   S4        1.0  0.93861  0.06139  0.75000  1.0000
+  S   S5        1.0  0.06139  0.93861  0.25000  1.0000
+  S   S6        1.0  0.62240  0.37760  0.93714  1.0000

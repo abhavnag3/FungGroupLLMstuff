@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La8In4Si8
+_chemical_formula_sum              "La8 In4 Si8"
+_cell_length_a       4.43877
+_cell_length_b       7.71722
+_cell_length_c       14.9365
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.50000  0.75077  0.03531  1.0000
+  La  La2       1.0  0.50000  0.24923  0.96469  1.0000
+  La  La3       1.0  0.50000  0.25077  0.46469  1.0000
+  La  La4       1.0  0.50000  0.74923  0.53531  1.0000
+  La  La5       1.0  0.50000  0.61210  0.28313  1.0000
+  La  La6       1.0  0.50000  0.38790  0.71688  1.0000
+  La  La7       1.0  0.50000  0.11210  0.21688  1.0000
+  La  La8       1.0  0.50000  0.88790  0.78312  1.0000
+  In  In1       1.0  0.00000  0.93529  0.37623  1.0000
+  In  In2       1.0  0.00000  0.06471  0.62377  1.0000
+  In  In3       1.0  0.00000  0.43529  0.12377  1.0000
+  In  In4       1.0  0.00000  0.56471  0.87623  1.0000
+  Si  Si1       1.0  0.00000  0.55112  0.42401  1.0000
+  Si  Si2       1.0  0.00000  0.44888  0.57599  1.0000
+  Si  Si3       1.0  0.00000  0.05112  0.07599  1.0000
+  Si  Si4       1.0  0.00000  0.94888  0.92401  1.0000
+  Si  Si5       1.0  0.00000  0.82133  0.18342  1.0000
+  Si  Si6       1.0  0.00000  0.17867  0.81658  1.0000
+  Si  Si7       1.0  0.00000  0.32133  0.31658  1.0000
+  Si  Si8       1.0  0.00000  0.67867  0.68342  1.0000

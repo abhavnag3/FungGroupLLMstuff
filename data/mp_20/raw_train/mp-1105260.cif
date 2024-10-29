@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tb8In2Ge8Rh2
+_chemical_formula_sum              "Tb8 In2 Ge8 Rh2"
+_cell_length_a       10.444
+_cell_length_b       10.444
+_cell_length_c       10.3737
+_cell_angle_alpha    75.3
+_cell_angle_beta     75.3
+_cell_angle_gamma    23.6337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.27807  0.27807  0.34483  1.0000
+  Tb  Tb2       1.0  0.72193  0.72193  0.65517  1.0000
+  Tb  Tb3       1.0  0.37108  0.37108  0.99301  1.0000
+  Tb  Tb4       1.0  0.62892  0.62892  0.00699  1.0000
+  Tb  Tb5       1.0  0.37270  0.37270  0.63946  1.0000
+  Tb  Tb6       1.0  0.62730  0.62730  0.36054  1.0000
+  Tb  Tb7       1.0  0.54144  0.54144  0.72661  1.0000
+  Tb  Tb8       1.0  0.45856  0.45856  0.27339  1.0000
+  In  In1       1.0  0.00000  0.00000  0.50000  1.0000
+  In  In2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.06313  0.06313  0.21724  1.0000
+  Ge  Ge2       1.0  0.93687  0.93687  0.78276  1.0000
+  Ge  Ge3       1.0  0.13290  0.13290  0.80925  1.0000
+  Ge  Ge4       1.0  0.86710  0.86710  0.19075  1.0000
+  Ge  Ge5       1.0  0.14481  0.14481  0.54814  1.0000
+  Ge  Ge6       1.0  0.85519  0.85519  0.45186  1.0000
+  Ge  Ge7       1.0  0.80470  0.80470  0.84943  1.0000
+  Ge  Ge8       1.0  0.19530  0.19530  0.15057  1.0000
+  Rh  Rh1       1.0  0.24060  0.24060  0.89376  1.0000
+  Rh  Rh2       1.0  0.75940  0.75940  0.10624  1.0000

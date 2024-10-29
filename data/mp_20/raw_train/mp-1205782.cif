@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Sm3Ag4Ge4
+_chemical_formula_sum              "Sm3 Ag4 Ge4"
+_cell_length_a       4.42149
+_cell_length_b       7.1935
+_cell_length_c       8.47282
+_cell_angle_alpha    115.119
+_cell_angle_beta     105.125
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.87259  0.37259  0.74518  1.0000
+  Sm  Sm2       1.0  0.12741  0.62741  0.25482  1.0000
+  Sm  Sm3       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag1       1.0  0.33117  0.63619  0.66234  1.0000
+  Ag  Ag2       1.0  0.66883  0.36381  0.33766  1.0000
+  Ag  Ag3       1.0  0.33117  0.02616  0.66234  1.0000
+  Ag  Ag4       1.0  0.66883  0.97384  0.33766  1.0000
+  Ge  Ge1       1.0  0.21655  0.21655  0.43310  1.0000
+  Ge  Ge2       1.0  0.78345  0.78345  0.56690  1.0000
+  Ge  Ge3       1.0  0.50000  0.68235  0.00000  1.0000
+  Ge  Ge4       1.0  0.50000  0.31765  0.00000  1.0000

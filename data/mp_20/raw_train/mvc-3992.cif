@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ca4Ni4O10
+_chemical_formula_sum              "Ca4 Ni4 O10"
+_cell_length_a       3.78555
+_cell_length_b       5.35036
+_cell_length_c       10.3145
+_cell_angle_alpha    90.0034
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50000  0.19546  0.87050  1.0000
+  Ca  Ca2       1.0  0.50000  0.80460  0.12943  1.0000
+  Ca  Ca3       1.0  0.50000  0.69535  0.62960  1.0000
+  Ca  Ca4       1.0  0.50000  0.30459  0.37049  1.0000
+  Ni  Ni1       1.0  1.00000  0.22853  0.62587  1.0000
+  Ni  Ni2       1.0  0.00000  0.77149  0.37413  1.0000
+  Ni  Ni3       1.0  0.00000  0.27137  0.12592  1.0000
+  Ni  Ni4       1.0  0.00000  0.72861  0.87410  1.0000
+  O   O1        1.0  0.00000  0.49997  0.49998  1.0000
+  O   O2        1.0  0.00000  0.08003  0.28816  1.0000
+  O   O3        1.0  0.00000  0.58003  0.21181  1.0000
+  O   O4        1.0  0.00000  0.41995  0.78814  1.0000
+  O   O5        1.0  0.50000  0.29021  0.10089  1.0000
+  O   O6        1.0  0.50000  0.70964  0.89913  1.0000
+  O   O7        1.0  0.00000  0.91995  0.71181  1.0000
+  O   O8        1.0  0.50000  0.20982  0.60086  1.0000
+  O   O9        1.0  0.00000  0.00009  0.99999  1.0000
+  O   O10       1.0  0.50000  0.79031  0.39920  1.0000

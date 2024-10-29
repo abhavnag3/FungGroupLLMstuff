@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Na2LiNi3O6
+_chemical_formula_sum              "Na2 Li1 Ni3 O6"
+_cell_length_a       16.1438
+_cell_length_b       10.4546
+_cell_length_c       10.3711
+_cell_angle_alpha    16.6827
+_cell_angle_beta     15.4413
+_cell_angle_gamma    16.3161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00455  0.99620  0.99703  1.0000
+  Na  Na2       1.0  0.32887  0.00359  0.00310  1.0000
+  Li  Li1       1.0  0.66668  0.99982  0.00012  1.0000
+  Ni  Ni1       1.0  0.16663  0.50014  0.49993  1.0000
+  Ni  Ni2       1.0  0.49759  0.50535  0.50082  1.0000
+  Ni  Ni3       1.0  0.83567  0.49484  0.49914  1.0000
+  O   O1        1.0  0.24858  0.26535  0.21379  1.0000
+  O   O2        1.0  0.08467  0.73477  0.78612  1.0000
+  O   O3        1.0  0.57749  0.26775  0.21394  1.0000
+  O   O4        1.0  0.43429  0.71321  0.77793  1.0000
+  O   O5        1.0  0.89901  0.28674  0.22219  1.0000
+  O   O6        1.0  0.75597  0.73223  0.78590  1.0000

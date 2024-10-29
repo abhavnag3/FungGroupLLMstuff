@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na10In2S8
+_chemical_formula_sum              "Na10 In2 S8"
+_cell_length_a       8.8534
+_cell_length_b       6.88395
+_cell_length_c       7.8744
+_cell_angle_alpha    88.9959
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.47998  0.34548  0.66531  1.0000
+  Na  Na2       1.0  0.97998  0.65452  0.33469  1.0000
+  Na  Na3       1.0  0.52002  0.65452  0.33469  1.0000
+  Na  Na4       1.0  0.02002  0.34548  0.66531  1.0000
+  Na  Na5       1.0  0.75000  0.02321  0.53094  1.0000
+  Na  Na6       1.0  0.25000  0.97679  0.46906  1.0000
+  Na  Na7       1.0  0.75000  0.33112  0.16098  1.0000
+  Na  Na8       1.0  0.25000  0.66888  0.83902  1.0000
+  Na  Na9       1.0  0.00000  0.00000  0.00000  1.0000
+  Na  Na10      1.0  0.50000  0.00000  0.00000  1.0000
+  In  In1       1.0  0.25000  0.36141  0.17595  1.0000
+  In  In2       1.0  0.75000  0.63858  0.82405  1.0000
+  S   S1        1.0  0.25000  0.24059  0.87919  1.0000
+  S   S2        1.0  0.75000  0.75941  0.12081  1.0000
+  S   S3        1.0  0.98074  0.76601  0.67180  1.0000
+  S   S4        1.0  0.48074  0.23400  0.32820  1.0000
+  S   S5        1.0  0.01926  0.23400  0.32820  1.0000
+  S   S6        1.0  0.51926  0.76601  0.67180  1.0000
+  S   S7        1.0  0.75000  0.27361  0.82083  1.0000
+  S   S8        1.0  0.25000  0.72639  0.17916  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       LuTiFe11C
+_chemical_formula_sum              "Lu1 Ti1 Fe11 C1"
+_cell_length_a       4.80518
+_cell_length_b       6.47968
+_cell_length_c       6.47968
+_cell_angle_alpha    97.6579
+_cell_angle_beta     111.764
+_cell_angle_gamma    68.2358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00759  0.99241  0.00759  1.0000
+  Ti  Ti1       1.0  0.63430  0.36570  0.63430  1.0000
+  Fe  Fe1       1.0  0.72398  0.77602  0.22398  1.0000
+  Fe  Fe2       1.0  0.27822  0.22178  0.77822  1.0000
+  Fe  Fe3       1.0  0.49801  0.78189  0.77791  1.0000
+  Fe  Fe4       1.0  0.49801  0.22209  0.21811  1.0000
+  Fe  Fe5       1.0  0.50016  0.99765  0.49918  1.0000
+  Fe  Fe6       1.0  0.00137  0.99765  0.49918  1.0000
+  Fe  Fe7       1.0  0.50016  0.50082  0.00235  1.0000
+  Fe  Fe8       1.0  0.00137  0.50082  0.00235  1.0000
+  Fe  Fe9       1.0  0.35564  0.64436  0.35564  1.0000
+  Fe  Fe10      1.0  0.99985  0.35792  0.35762  1.0000
+  Fe  Fe11      1.0  0.99985  0.64238  0.64208  1.0000
+  C   C1        1.0  0.50150  0.99850  0.00150  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg2Zr2N4
+_chemical_formula_sum              "Mg2 Zr2 N4"
+_cell_length_a       4.49404
+_cell_length_b       4.49404
+_cell_length_c       5.61499
+_cell_angle_alpha    113.589
+_cell_angle_beta     113.589
+_cell_angle_gamma    90.0005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.37500  0.12500  0.75000  1.0000
+  Mg  Mg2       1.0  0.62500  0.87500  0.25000  1.0000
+  Zr  Zr1       1.0  0.12500  0.37500  0.25000  1.0000
+  Zr  Zr2       1.0  0.87500  0.62500  0.75000  1.0000
+  N   N1        1.0  0.88380  0.13380  0.76761  1.0000
+  N   N2        1.0  0.11620  0.86620  0.23239  1.0000
+  N   N3        1.0  0.36620  0.61620  0.73239  1.0000
+  N   N4        1.0  0.63380  0.38380  0.26761  1.0000

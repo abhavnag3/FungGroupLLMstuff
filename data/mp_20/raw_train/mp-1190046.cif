@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Sb2AuXe2F12
+_chemical_formula_sum              "Sb2 Au1 Xe2 F12"
+_cell_length_a       5.67729
+_cell_length_b       7.43757
+_cell_length_c       8.23473
+_cell_angle_alpha    91.0253
+_cell_angle_beta     91.1428
+_cell_angle_gamma    98.0677
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.48006  0.72350  0.74202  1.0000
+  Sb  Sb2       1.0  0.51994  0.27650  0.25798  1.0000
+  Au  Au1       1.0  0.00000  0.00000  0.00000  1.0000
+  Xe  Xe1       1.0  0.97820  0.22501  0.73669  1.0000
+  Xe  Xe2       1.0  0.02180  0.77499  0.26331  1.0000
+  F   F1        1.0  0.65322  0.84317  0.94365  1.0000
+  F   F2        1.0  0.34678  0.15683  0.05635  1.0000
+  F   F3        1.0  0.30543  0.61216  0.55822  1.0000
+  F   F4        1.0  0.69458  0.38784  0.44178  1.0000
+  F   F5        1.0  0.20382  0.69748  0.87521  1.0000
+  F   F6        1.0  0.79618  0.30252  0.12479  1.0000
+  F   F7        1.0  0.55785  0.49812  0.81733  1.0000
+  F   F8        1.0  0.44215  0.50188  0.18267  1.0000
+  F   F9        1.0  0.77624  0.76955  0.63488  1.0000
+  F   F10       1.0  0.22376  0.23045  0.36512  1.0000
+  F   F11       1.0  0.41347  0.95977  0.68876  1.0000
+  F   F12       1.0  0.58654  0.04023  0.31124  1.0000

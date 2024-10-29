@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       MgV4S8
+_chemical_formula_sum              "Mg1 V4 S8"
+_cell_length_a       6.98482
+_cell_length_b       6.98527
+_cell_length_c       6.98412
+_cell_angle_alpha    59.9871
+_cell_angle_beta     60.0265
+_cell_angle_gamma    60.0095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.12478  0.12513  0.12506  1.0000
+  V   V1        1.0  0.51483  0.51463  0.51467  1.0000
+  V   V2        1.0  0.51476  0.51472  0.95583  1.0000
+  V   V3        1.0  0.95590  0.51465  0.51475  1.0000
+  V   V4        1.0  0.51476  0.95580  0.51476  1.0000
+  S   S1        1.0  0.75060  0.75047  0.75060  1.0000
+  S   S2        1.0  0.26490  0.26468  0.70565  1.0000
+  S   S3        1.0  0.26479  0.70572  0.26462  1.0000
+  S   S4        1.0  0.70563  0.26481  0.26482  1.0000
+  S   S5        1.0  0.75046  0.24831  0.75078  1.0000
+  S   S6        1.0  0.24857  0.75048  0.75029  1.0000
+  S   S7        1.0  0.26475  0.26485  0.26473  1.0000
+  S   S8        1.0  0.75030  0.75074  0.24842  1.0000

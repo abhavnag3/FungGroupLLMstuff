@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Sb3Te
+_chemical_formula_sum              "Hf2 Sb3 Te1"
+_cell_length_a       3.69229
+_cell_length_b       5.64197
+_cell_length_c       7.94314
+_cell_angle_alpha    86.9889
+_cell_angle_beta     76.5604
+_cell_angle_gamma    109.1
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.03446  0.87971  0.81078  1.0000
+  Hf  Hf2       1.0  0.96815  0.12317  0.18687  1.0000
+  Sb  Sb1       1.0  0.61735  0.76322  0.52852  1.0000
+  Sb  Sb2       1.0  0.38377  0.23820  0.47067  1.0000
+  Sb  Sb3       1.0  0.29149  0.69893  0.11594  1.0000
+  Te  Te1       1.0  0.70478  0.29677  0.88722  1.0000

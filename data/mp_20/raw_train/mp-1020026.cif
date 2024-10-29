@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li2Be2B2O6
+_chemical_formula_sum              "Li2 Be2 B2 O6"
+_cell_length_a       4.6376
+_cell_length_b       4.70672
+_cell_length_c       6.00685
+_cell_angle_alpha    68.0275
+_cell_angle_beta     72.6041
+_cell_angle_gamma    61.1516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.74358  0.13277  0.66196  1.0000
+  Li  Li2       1.0  0.25642  0.86723  0.33804  1.0000
+  Be  Be1       1.0  0.35592  0.72600  0.84588  1.0000
+  Be  Be2       1.0  0.64408  0.27400  0.15412  1.0000
+  B   B1        1.0  0.07053  0.40059  0.77222  1.0000
+  B   B2        1.0  0.92947  0.59941  0.22778  1.0000
+  O   O1        1.0  0.32778  0.09771  0.76134  1.0000
+  O   O2        1.0  0.67222  0.90229  0.23866  1.0000
+  O   O3        1.0  0.12656  0.68715  0.70879  1.0000
+  O   O4        1.0  0.87344  0.31285  0.29120  1.0000
+  O   O5        1.0  0.74305  0.42185  0.84551  1.0000
+  O   O6        1.0  0.25694  0.57815  0.15449  1.0000

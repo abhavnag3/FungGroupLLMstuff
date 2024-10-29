@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Y2FeCo2CuO10
+_chemical_formula_sum              "Ba2 Y2 Fe1 Co2 Cu1 O10"
+_cell_length_a       8.63679
+_cell_length_b       8.63679
+_cell_length_c       8.63679
+_cell_angle_alpha    142.651
+_cell_angle_beta     142.651
+_cell_angle_gamma    53.8496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00302  0.50302  0.50000  1.0000
+  Ba  Ba2       1.0  0.50302  0.00302  0.50000  1.0000
+  Y   Y1        1.0  0.25038  0.75038  0.50000  1.0000
+  Y   Y2        1.0  0.75038  0.25038  0.50000  1.0000
+  Fe  Fe1       1.0  0.37336  0.37336  0.00000  1.0000
+  Co  Co1       1.0  0.13251  0.13251  0.00000  1.0000
+  Co  Co2       1.0  0.63558  0.63558  0.00000  1.0000
+  Cu  Cu1       1.0  0.86443  0.86443  0.00000  1.0000
+  O   O1        1.0  0.49630  0.49630  0.00000  1.0000
+  O   O2        1.0  0.00058  0.00058  0.00000  1.0000
+  O   O3        1.0  0.58798  0.58798  0.49334  1.0000
+  O   O4        1.0  0.09464  0.09464  0.50666  1.0000
+  O   O5        1.0  0.58798  0.09464  0.00000  1.0000
+  O   O6        1.0  0.09464  0.58798  0.00000  1.0000
+  O   O7        1.0  0.40742  0.40742  0.50225  1.0000
+  O   O8        1.0  0.90517  0.90517  0.49776  1.0000
+  O   O9        1.0  0.40742  0.90517  0.00000  1.0000
+  O   O10       1.0  0.90517  0.40742  0.00000  1.0000

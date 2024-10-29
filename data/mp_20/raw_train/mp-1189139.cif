@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Th4Fe14
+_chemical_formula_sum              "Th4 Fe14"
+_cell_length_a       5.12239
+_cell_length_b       5.12239
+_cell_length_c       12.6792
+_cell_angle_alpha    78.346
+_cell_angle_beta     78.346
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.94906  0.94906  0.15282  1.0000
+  Th  Th2       1.0  0.05094  0.05094  0.84718  1.0000
+  Th  Th3       1.0  0.85157  0.85157  0.44527  1.0000
+  Th  Th4       1.0  0.14843  0.14843  0.55473  1.0000
+  Fe  Fe1       1.0  0.50000  0.50000  0.50000  1.0000
+  Fe  Fe2       1.0  0.72241  0.72241  0.83278  1.0000
+  Fe  Fe3       1.0  0.27759  0.27759  0.16722  1.0000
+  Fe  Fe4       1.0  0.61128  0.61128  0.16616  1.0000
+  Fe  Fe5       1.0  0.38872  0.38872  0.83384  1.0000
+  Fe  Fe6       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe7       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe8       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe9       1.0  0.38970  0.38970  0.32921  1.0000
+  Fe  Fe10      1.0  0.89140  0.38970  0.32921  1.0000
+  Fe  Fe11      1.0  0.38970  0.89140  0.32921  1.0000
+  Fe  Fe12      1.0  0.61030  0.61030  0.67080  1.0000
+  Fe  Fe13      1.0  0.10861  0.61030  0.67080  1.0000
+  Fe  Fe14      1.0  0.61030  0.10861  0.67080  1.0000

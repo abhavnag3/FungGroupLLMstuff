@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       K2SnF6
+_chemical_formula_sum              "K2 Sn1 F6"
+_cell_length_a       4.88753
+_cell_length_b       5.97273
+_cell_length_c       5.97273
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.67993  0.66667  0.33333  1.0000
+  K   K2        1.0  0.32007  0.33333  0.66667  1.0000
+  Sn  Sn1       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.77399  0.16190  0.32380  1.0000
+  F   F2        1.0  0.22601  0.83810  0.67620  1.0000
+  F   F3        1.0  0.77399  0.16190  0.83810  1.0000
+  F   F4        1.0  0.22601  0.83810  0.16190  1.0000
+  F   F5        1.0  0.77399  0.67620  0.83810  1.0000
+  F   F6        1.0  0.22601  0.32380  0.16190  1.0000

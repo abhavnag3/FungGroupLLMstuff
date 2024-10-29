@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Lu4Co2Ge4
+_chemical_formula_sum              "Lu4 Co2 Ge4"
+_cell_length_a       5.53499
+_cell_length_b       5.53499
+_cell_length_c       9.97379
+_cell_angle_alpha    64.3056
+_cell_angle_beta     64.3056
+_cell_angle_gamma    44.2056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.18611  0.18611  0.88919  1.0000
+  Lu  Lu2       1.0  0.81389  0.81389  0.11081  1.0000
+  Lu  Lu3       1.0  0.00664  0.00664  0.66712  1.0000
+  Lu  Lu4       1.0  0.99336  0.99336  0.33288  1.0000
+  Co  Co1       1.0  0.27482  0.27482  0.35693  1.0000
+  Co  Co2       1.0  0.72518  0.72518  0.64307  1.0000
+  Ge  Ge1       1.0  0.48546  0.48546  0.87494  1.0000
+  Ge  Ge2       1.0  0.51454  0.51454  0.12506  1.0000
+  Ge  Ge3       1.0  0.34903  0.34903  0.56638  1.0000
+  Ge  Ge4       1.0  0.65097  0.65097  0.43362  1.0000

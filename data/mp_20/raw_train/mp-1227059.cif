@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       CeFe10Re2
+_chemical_formula_sum              "Ce1 Fe10 Re2"
+_cell_length_a       4.68729
+_cell_length_b       6.53113
+_cell_length_c       6.53113
+_cell_angle_alpha    96.3051
+_cell_angle_beta     111.029
+_cell_angle_gamma    68.9709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe1       1.0  0.72036  0.77964  0.22036  1.0000
+  Fe  Fe2       1.0  0.27964  0.22036  0.77964  1.0000
+  Fe  Fe3       1.0  0.50000  0.76830  0.76830  1.0000
+  Fe  Fe4       1.0  0.50000  0.23170  0.23170  1.0000
+  Fe  Fe5       1.0  0.50000  0.00000  0.50000  1.0000
+  Fe  Fe6       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe7       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe8       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe9       1.0  0.64129  0.35871  0.64129  1.0000
+  Fe  Fe10      1.0  0.35871  0.64129  0.35871  1.0000
+  Re  Re1       1.0  0.00000  0.35809  0.35809  1.0000
+  Re  Re2       1.0  0.00000  0.64191  0.64191  1.0000

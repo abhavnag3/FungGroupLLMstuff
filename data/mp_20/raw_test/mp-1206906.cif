@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ce2In4Ru2
+_chemical_formula_sum              "Ce2 In4 Ru2"
+_cell_length_a       4.79529
+_cell_length_b       5.48801
+_cell_length_c       7.74292
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    115.906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.44303  0.88606  0.25000  1.0000
+  Ce  Ce2       1.0  0.55697  0.11394  0.75000  1.0000
+  In  In1       1.0  0.14893  0.29786  0.04635  1.0000
+  In  In2       1.0  0.85107  0.70214  0.95365  1.0000
+  In  In3       1.0  0.85107  0.70214  0.54635  1.0000
+  In  In4       1.0  0.14893  0.29786  0.45365  1.0000
+  Ru  Ru1       1.0  0.67402  0.34803  0.25000  1.0000
+  Ru  Ru2       1.0  0.32598  0.65197  0.75000  1.0000

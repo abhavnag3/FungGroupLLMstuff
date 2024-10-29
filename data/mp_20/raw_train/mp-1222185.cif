@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg3CuSn2S8
+_chemical_formula_sum              "Mg3 Cu1 Sn2 S8"
+_cell_length_a       7.47381
+_cell_length_b       7.47381
+_cell_length_c       7.47381
+_cell_angle_alpha    120.408
+_cell_angle_beta     118.854
+_cell_angle_gamma    90.6453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.98488  0.98488  0.00000  1.0000
+  Mg  Mg2       1.0  0.37551  0.62579  0.25028  1.0000
+  Mg  Mg3       1.0  0.37551  0.12523  0.74972  1.0000
+  Cu  Cu1       1.0  0.76354  0.26354  0.50000  1.0000
+  Sn  Sn1       1.0  0.87363  0.62454  0.24909  1.0000
+  Sn  Sn2       1.0  0.37545  0.62454  0.75091  1.0000
+  S   S1        1.0  0.13181  0.87110  0.73929  1.0000
+  S   S2        1.0  0.13181  0.39252  0.26071  1.0000
+  S   S3        1.0  0.59501  0.86440  0.73061  1.0000
+  S   S4        1.0  0.13378  0.86440  0.26939  1.0000
+  S   S5        1.0  0.62294  0.37441  0.75147  1.0000
+  S   S6        1.0  0.62294  0.87147  0.24853  1.0000
+  S   S7        1.0  0.14027  0.38159  0.75867  1.0000
+  S   S8        1.0  0.62292  0.38159  0.24133  1.0000

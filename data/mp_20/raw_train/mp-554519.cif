@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Gd4TiSe4O4
+_chemical_formula_sum              "Gd4 Ti1 Se4 O4"
+_cell_length_a       8.20491
+_cell_length_b       8.20491
+_cell_length_c       9.77818
+_cell_angle_alpha    62.8885
+_cell_angle_beta     62.8885
+_cell_angle_gamma    26.6161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.52479  0.52479  0.66944  1.0000
+  Gd  Gd2       1.0  0.47521  0.47521  0.33056  1.0000
+  Gd  Gd3       1.0  0.22358  0.22358  0.67407  1.0000
+  Gd  Gd4       1.0  0.77642  0.77642  0.32593  1.0000
+  Ti  Ti1       1.0  0.00000  0.00000  0.00000  1.0000
+  Se  Se1       1.0  0.88448  0.88448  0.63177  1.0000
+  Se  Se2       1.0  0.37854  0.37854  0.01611  1.0000
+  Se  Se3       1.0  0.11552  0.11552  0.36823  1.0000
+  Se  Se4       1.0  0.62146  0.62146  0.98390  1.0000
+  O   O1        1.0  0.31709  0.31709  0.40995  1.0000
+  O   O2        1.0  0.94842  0.94842  0.22057  1.0000
+  O   O3        1.0  0.05158  0.05158  0.77943  1.0000
+  O   O4        1.0  0.68291  0.68292  0.59005  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K6Bi4
+_chemical_formula_sum              "K6 Bi4"
+_cell_length_a       6.85963
+_cell_length_b       6.85963
+_cell_length_c       9.55412
+_cell_angle_alpha    78.8805
+_cell_angle_beta     78.8805
+_cell_angle_gamma    92.0947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.65455  0.76021  0.52080  1.0000
+  K   K2        1.0  0.34545  0.23979  0.47920  1.0000
+  K   K3        1.0  0.23979  0.34545  0.97920  1.0000
+  K   K4        1.0  0.76021  0.65455  0.02080  1.0000
+  K   K5        1.0  0.83618  0.16382  0.75000  1.0000
+  K   K6        1.0  0.16382  0.83618  0.25000  1.0000
+  Bi  Bi1       1.0  0.31402  0.88840  0.84666  1.0000
+  Bi  Bi2       1.0  0.68598  0.11160  0.15334  1.0000
+  Bi  Bi3       1.0  0.11160  0.68598  0.65334  1.0000
+  Bi  Bi4       1.0  0.88840  0.31402  0.34666  1.0000

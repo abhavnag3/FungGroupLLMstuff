@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Nd2Zn15Ge2
+_chemical_formula_sum              "Nd2 Zn15 Ge2"
+_cell_length_a       6.89838
+_cell_length_b       6.89838
+_cell_length_c       6.89838
+_cell_angle_alpha    84.887
+_cell_angle_beta     84.887
+_cell_angle_gamma    84.887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.33357  0.33357  0.33357  1.0000
+  Nd  Nd2       1.0  0.66643  0.66643  0.66643  1.0000
+  Zn  Zn1       1.0  0.00000  0.00000  0.50000  1.0000
+  Zn  Zn2       1.0  0.00000  0.50000  0.00000  1.0000
+  Zn  Zn3       1.0  0.50000  0.00000  0.00000  1.0000
+  Zn  Zn4       1.0  0.69117  0.30883  0.00000  1.0000
+  Zn  Zn5       1.0  0.30883  0.00000  0.69117  1.0000
+  Zn  Zn6       1.0  0.00000  0.69117  0.30883  1.0000
+  Zn  Zn7       1.0  0.30883  0.69117  0.00000  1.0000
+  Zn  Zn8       1.0  0.69117  0.00000  0.30883  1.0000
+  Zn  Zn9       1.0  0.00000  0.30883  0.69117  1.0000
+  Zn  Zn10      1.0  0.17054  0.64841  0.64841  1.0000
+  Zn  Zn11      1.0  0.64841  0.64841  0.17054  1.0000
+  Zn  Zn12      1.0  0.64841  0.17054  0.64841  1.0000
+  Zn  Zn13      1.0  0.35159  0.82946  0.35159  1.0000
+  Zn  Zn14      1.0  0.82946  0.35159  0.35159  1.0000
+  Zn  Zn15      1.0  0.35159  0.35159  0.82946  1.0000
+  Ge  Ge1       1.0  0.09914  0.09914  0.09914  1.0000
+  Ge  Ge2       1.0  0.90086  0.90086  0.90086  1.0000

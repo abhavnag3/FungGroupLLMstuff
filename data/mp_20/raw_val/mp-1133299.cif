@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca2V2Si4O12
+_chemical_formula_sum              "Ca2 V2 Si4 O12"
+_cell_length_a       5.30973
+_cell_length_b       6.79926
+_cell_length_c       6.79926
+_cell_angle_alpha    84.6796
+_cell_angle_beta     78.8688
+_cell_angle_gamma    78.8683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.29766  0.70234  1.0000
+  Ca  Ca2       1.0  0.25000  0.70235  0.29765  1.0000
+  V   V1        1.0  0.74998  0.91032  0.08969  1.0000
+  V   V2        1.0  0.25001  0.08962  0.91039  1.0000
+  Si  Si1       1.0  0.26420  0.19656  0.38183  1.0000
+  Si  Si2       1.0  0.23581  0.61818  0.80345  1.0000
+  Si  Si3       1.0  0.76420  0.38183  0.19654  1.0000
+  Si  Si4       1.0  0.73580  0.80346  0.61817  1.0000
+  O   O1        1.0  0.50276  0.33119  0.36809  1.0000
+  O   O2        1.0  0.99724  0.63191  0.66881  1.0000
+  O   O3        1.0  0.49723  0.66882  0.63190  1.0000
+  O   O4        1.0  0.00277  0.36811  0.33117  1.0000
+  O   O5        1.0  0.17366  0.11968  0.60978  1.0000
+  O   O6        1.0  0.32634  0.39022  0.88033  1.0000
+  O   O7        1.0  0.82635  0.88033  0.39021  1.0000
+  O   O8        1.0  0.67366  0.60979  0.11967  1.0000
+  O   O9        1.0  0.84656  0.21380  0.02993  1.0000
+  O   O10       1.0  0.65344  0.97007  0.78619  1.0000
+  O   O11       1.0  0.34656  0.02993  0.21381  1.0000
+  O   O12       1.0  0.15343  0.78619  0.97007  1.0000

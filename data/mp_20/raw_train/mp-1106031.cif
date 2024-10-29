@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       NaMn3V4O12
+_chemical_formula_sum              "Na1 Mn3 V4 O12"
+_cell_length_a       6.49744
+_cell_length_b       6.49852
+_cell_length_c       6.43701
+_cell_angle_alpha    70.7096
+_cell_angle_beta     70.7439
+_cell_angle_gamma    109.676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  1.00000  1.0000
+  Mn  Mn1       1.0  0.50001  0.00002  0.49997  1.0000
+  Mn  Mn2       1.0  0.49995  0.50000  0.00004  1.0000
+  Mn  Mn3       1.0  0.99997  0.49996  0.50000  1.0000
+  V   V1        1.0  1.00000  0.99999  0.50001  1.0000
+  V   V2        1.0  0.00000  0.50001  0.99999  1.0000
+  V   V3        1.0  0.50002  0.50001  0.50001  1.0000
+  V   V4        1.0  0.50001  0.00001  1.00000  1.0000
+  O   O1        1.0  0.11883  0.80687  0.70004  1.0000
+  O   O2        1.0  0.49247  0.18625  0.69029  1.0000
+  O   O3        1.0  0.50753  0.81375  0.30971  1.0000
+  O   O4        1.0  0.88118  0.19313  0.29996  1.0000
+  O   O5        1.0  0.68794  0.88095  0.81899  1.0000
+  O   O6        1.0  0.69370  0.50751  0.18256  1.0000
+  O   O7        1.0  0.30630  0.49250  0.81745  1.0000
+  O   O8        1.0  0.31206  0.11906  0.18101  1.0000
+  O   O9        1.0  0.19330  0.31197  0.50696  1.0000
+  O   O10       1.0  0.81373  0.30615  0.87661  1.0000
+  O   O11       1.0  0.18628  0.69385  0.12339  1.0000
+  O   O12       1.0  0.80671  0.68802  0.49303  1.0000

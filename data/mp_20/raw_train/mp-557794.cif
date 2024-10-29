@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Yb12Si4O4
+_chemical_formula_sum              "Yb12 Si4 O4"
+_cell_length_a       6.57435
+_cell_length_b       6.58953
+_cell_length_c       9.30523
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.76532  0.23469  0.01601  1.0000
+  Yb  Yb2       1.0  0.23468  0.76531  0.51601  1.0000
+  Yb  Yb3       1.0  0.99891  0.53139  0.25000  1.0000
+  Yb  Yb4       1.0  0.26532  0.26531  0.01601  1.0000
+  Yb  Yb5       1.0  0.23468  0.76531  0.98399  1.0000
+  Yb  Yb6       1.0  0.26532  0.26531  0.48399  1.0000
+  Yb  Yb7       1.0  0.00109  0.46861  0.75000  1.0000
+  Yb  Yb8       1.0  0.49891  0.96861  0.25000  1.0000
+  Yb  Yb9       1.0  0.50109  0.03139  0.75000  1.0000
+  Yb  Yb10      1.0  0.76532  0.23469  0.48399  1.0000
+  Yb  Yb11      1.0  0.73468  0.73469  0.51601  1.0000
+  Yb  Yb12      1.0  0.73468  0.73469  0.98399  1.0000
+  Si  Si1       1.0  0.50625  0.49899  0.25000  1.0000
+  Si  Si2       1.0  0.99375  0.99899  0.75000  1.0000
+  Si  Si3       1.0  0.49375  0.50101  0.75000  1.0000
+  Si  Si4       1.0  0.00625  0.00101  0.25000  1.0000
+  O   O1        1.0  0.00000  0.50000  0.50000  1.0000
+  O   O2        1.0  0.50000  0.00000  0.00000  1.0000
+  O   O3        1.0  0.50000  0.00000  0.50000  1.0000
+  O   O4        1.0  0.00000  0.50000  0.00000  1.0000

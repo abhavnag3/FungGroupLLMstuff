@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Co2Sb2O12
+_chemical_formula_sum              "Sr4 Co2 Sb2 O12"
+_cell_length_a       5.70865
+_cell_length_b       5.75265
+_cell_length_c       9.6425
+_cell_angle_alpha    54.0271
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.49407  0.75234  0.24941  1.0000
+  Sr  Sr2       1.0  0.50593  0.24766  0.75059  1.0000
+  Sr  Sr3       1.0  0.99407  0.24766  0.25059  1.0000
+  Sr  Sr4       1.0  0.00593  0.75234  0.74941  1.0000
+  Co  Co1       1.0  0.00000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.50000  0.00000  1.0000
+  Sb  Sb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sb  Sb2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.00361  0.68912  0.25695  1.0000
+  O   O2        1.0  0.99639  0.31088  0.74305  1.0000
+  O   O3        1.0  0.50361  0.31088  0.24305  1.0000
+  O   O4        1.0  0.49639  0.68912  0.75695  1.0000
+  O   O5        1.0  0.23759  0.22249  0.02939  1.0000
+  O   O6        1.0  0.76241  0.77751  0.97061  1.0000
+  O   O7        1.0  0.73759  0.77751  0.47061  1.0000
+  O   O8        1.0  0.26241  0.22249  0.52939  1.0000
+  O   O9        1.0  0.74569  0.20503  0.02994  1.0000
+  O   O10       1.0  0.25431  0.79497  0.97006  1.0000
+  O   O11       1.0  0.24569  0.79497  0.47006  1.0000
+  O   O12       1.0  0.75431  0.20503  0.52994  1.0000

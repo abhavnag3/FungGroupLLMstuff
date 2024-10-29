@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Al4Rh4
+_chemical_formula_sum              "Zr4 Al4 Rh4"
+_cell_length_a       5.33532
+_cell_length_b       5.33532
+_cell_length_c       8.28078
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.66585  0.33415  0.29059  1.0000
+  Zr  Zr2       1.0  0.33100  0.66900  0.17866  1.0000
+  Zr  Zr3       1.0  0.33100  0.66900  0.82134  1.0000
+  Zr  Zr4       1.0  0.66585  0.33415  0.70941  1.0000
+  Al  Al1       1.0  0.00493  0.99507  0.24422  1.0000
+  Al  Al2       1.0  0.00493  0.99507  0.75578  1.0000
+  Al  Al3       1.0  0.65396  0.83101  0.50000  1.0000
+  Al  Al4       1.0  0.16899  0.34604  0.50000  1.0000
+  Rh  Rh1       1.0  0.16856  0.83144  0.50000  1.0000
+  Rh  Rh2       1.0  0.33861  0.16807  0.00000  1.0000
+  Rh  Rh3       1.0  0.83193  0.66139  0.00000  1.0000
+  Rh  Rh4       1.0  0.83442  0.16558  0.00000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nd12Os4
+_chemical_formula_sum              "Nd12 Os4"
+_cell_length_a       6.53942
+_cell_length_b       7.50943
+_cell_length_c       9.60916
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.32855  0.67435  0.06633  1.0000
+  Nd  Nd2       1.0  0.17145  0.17435  0.43367  1.0000
+  Nd  Nd3       1.0  0.67145  0.32565  0.56633  1.0000
+  Nd  Nd4       1.0  0.82855  0.82565  0.93367  1.0000
+  Nd  Nd5       1.0  0.67145  0.32565  0.93367  1.0000
+  Nd  Nd6       1.0  0.82855  0.82565  0.56633  1.0000
+  Nd  Nd7       1.0  0.32855  0.67435  0.43367  1.0000
+  Nd  Nd8       1.0  0.17145  0.17435  0.06633  1.0000
+  Nd  Nd9       1.0  0.86070  0.54102  0.25000  1.0000
+  Nd  Nd10      1.0  0.63930  0.04102  0.25000  1.0000
+  Nd  Nd11      1.0  0.13930  0.45898  0.75000  1.0000
+  Nd  Nd12      1.0  0.36070  0.95898  0.75000  1.0000
+  Os  Os1       1.0  0.04876  0.88536  0.25000  1.0000
+  Os  Os2       1.0  0.45124  0.38536  0.25000  1.0000
+  Os  Os3       1.0  0.95124  0.11464  0.75000  1.0000
+  Os  Os4       1.0  0.54876  0.61464  0.75000  1.0000

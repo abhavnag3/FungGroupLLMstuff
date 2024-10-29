@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn2Cu4Si2S8
+_chemical_formula_sum              "Mn2 Cu4 Si2 S8"
+_cell_length_a       6.18422
+_cell_length_b       6.41333
+_cell_length_c       7.50746
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.33033  0.15483  0.00000  1.0000
+  Mn  Mn2       1.0  0.83033  0.84517  0.50000  1.0000
+  Cu  Cu1       1.0  0.32056  0.67751  0.74829  1.0000
+  Cu  Cu2       1.0  0.82056  0.32249  0.75171  1.0000
+  Cu  Cu3       1.0  0.32056  0.67751  0.25171  1.0000
+  Cu  Cu4       1.0  0.82056  0.32249  0.24829  1.0000
+  Si  Si1       1.0  0.33084  0.17558  0.50000  1.0000
+  Si  Si2       1.0  0.83084  0.82442  0.00000  1.0000
+  S   S1        1.0  0.98164  0.18765  0.50000  1.0000
+  S   S2        1.0  0.48164  0.81234  0.00000  1.0000
+  S   S3        1.0  0.44999  0.33609  0.26690  1.0000
+  S   S4        1.0  0.94999  0.66391  0.23310  1.0000
+  S   S5        1.0  0.94118  0.14308  0.00000  1.0000
+  S   S6        1.0  0.44118  0.85692  0.50000  1.0000
+  S   S7        1.0  0.44999  0.33609  0.73310  1.0000
+  S   S8        1.0  0.94999  0.66391  0.76690  1.0000

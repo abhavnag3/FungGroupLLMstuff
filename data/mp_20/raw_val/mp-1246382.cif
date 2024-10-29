@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       YMg2Mn3S8
+_chemical_formula_sum              "Y1 Mg2 Mn3 S8"
+_cell_length_a       7.49229
+_cell_length_b       7.49327
+_cell_length_c       7.49409
+_cell_angle_alpha    59.2479
+_cell_angle_beta     59.247
+_cell_angle_gamma    59.2373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.50001  0.50000  0.49998  1.0000
+  Mg  Mg1       1.0  0.87414  0.87406  0.87394  1.0000
+  Mg  Mg2       1.0  0.12587  0.12593  0.12608  1.0000
+  Mn  Mn1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mn  Mn2       1.0  1.00000  0.50007  0.49997  1.0000
+  Mn  Mn3       1.0  0.49996  0.99998  0.49999  1.0000
+  S   S1        1.0  0.73960  0.73952  0.73961  1.0000
+  S   S2        1.0  0.24484  0.24490  0.72061  1.0000
+  S   S3        1.0  0.24476  0.72072  0.24486  1.0000
+  S   S4        1.0  0.72067  0.24479  0.24480  1.0000
+  S   S5        1.0  0.75523  0.27928  0.75514  1.0000
+  S   S6        1.0  0.27934  0.75518  0.75521  1.0000
+  S   S7        1.0  0.26041  0.26046  0.26042  1.0000
+  S   S8        1.0  0.75518  0.75509  0.27941  1.0000

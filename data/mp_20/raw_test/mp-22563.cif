@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Gd2Lu6S12
+_chemical_formula_sum              "Gd2 Lu6 S12"
+_cell_length_a       3.89907
+_cell_length_b       10.899
+_cell_length_c       11.1429
+_cell_angle_alpha    71.0568
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.25000  0.45308  0.19368  1.0000
+  Gd  Gd2       1.0  0.75000  0.54692  0.80632  1.0000
+  Lu  Lu1       1.0  0.75000  0.93780  0.66722  1.0000
+  Lu  Lu2       1.0  0.25000  0.06220  0.33278  1.0000
+  Lu  Lu3       1.0  0.75000  0.18129  0.99844  1.0000
+  Lu  Lu4       1.0  0.25000  0.81871  0.00156  1.0000
+  Lu  Lu5       1.0  0.25000  0.33934  0.58564  1.0000
+  Lu  Lu6       1.0  0.75000  0.66066  0.41436  1.0000
+  S   S1        1.0  0.75000  0.61552  0.03646  1.0000
+  S   S2        1.0  0.25000  0.38448  0.96354  1.0000
+  S   S3        1.0  0.75000  0.97708  0.88767  1.0000
+  S   S4        1.0  0.25000  0.02292  0.11232  1.0000
+  S   S5        1.0  0.75000  0.30472  0.74921  1.0000
+  S   S6        1.0  0.25000  0.69528  0.25078  1.0000
+  S   S7        1.0  0.75000  0.23852  0.22643  1.0000
+  S   S8        1.0  0.25000  0.76148  0.77357  1.0000
+  S   S9        1.0  0.25000  0.58174  0.59450  1.0000
+  S   S10       1.0  0.75000  0.41826  0.40550  1.0000
+  S   S11       1.0  0.25000  0.10458  0.56043  1.0000
+  S   S12       1.0  0.75000  0.89542  0.43957  1.0000

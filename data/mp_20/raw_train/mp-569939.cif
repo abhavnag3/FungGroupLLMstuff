@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ag2Bi4Se6Cl2
+_chemical_formula_sum              "Ag2 Bi4 Se6 Cl2"
+_cell_length_a       4.14931
+_cell_length_b       8.15012
+_cell_length_c       11.3106
+_cell_angle_alpha    75.807
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.75000  0.04711  0.58706  1.0000
+  Ag  Ag2       1.0  0.25000  0.95289  0.41294  1.0000
+  Bi  Bi1       1.0  0.25000  0.80900  0.93425  1.0000
+  Bi  Bi2       1.0  0.75000  0.19100  0.06575  1.0000
+  Bi  Bi3       1.0  0.75000  0.53265  0.65628  1.0000
+  Bi  Bi4       1.0  0.25000  0.46735  0.34373  1.0000
+  Se  Se1       1.0  0.25000  0.79591  0.66550  1.0000
+  Se  Se2       1.0  0.25000  0.95556  0.15014  1.0000
+  Se  Se3       1.0  0.25000  0.30977  0.58789  1.0000
+  Se  Se4       1.0  0.75000  0.69023  0.41211  1.0000
+  Se  Se5       1.0  0.75000  0.20409  0.33450  1.0000
+  Se  Se6       1.0  0.75000  0.04444  0.84986  1.0000
+  Cl  Cl1       1.0  0.25000  0.40336  0.90206  1.0000
+  Cl  Cl2       1.0  0.75000  0.59664  0.09794  1.0000

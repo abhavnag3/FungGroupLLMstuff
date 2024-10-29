@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfSb4Mo
+_chemical_formula_sum              "Hf1 Sb4 Mo1"
+_cell_length_a       3.68123
+_cell_length_b       5.51537
+_cell_length_c       7.63299
+_cell_angle_alpha    87.5351
+_cell_angle_beta     76.0462
+_cell_angle_gamma    109.495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.03758  0.88636  0.81119  1.0000
+  Sb  Sb1       1.0  0.61942  0.76157  0.52273  1.0000
+  Sb  Sb2       1.0  0.39107  0.23513  0.45299  1.0000
+  Sb  Sb3       1.0  0.70074  0.30361  0.90214  1.0000
+  Sb  Sb4       1.0  0.28971  0.69956  0.12014  1.0000
+  Mo  Mo1       1.0  0.96148  0.11377  0.19081  1.0000

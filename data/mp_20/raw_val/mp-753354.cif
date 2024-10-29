@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Eu4O3F7
+_chemical_formula_sum              "Eu4 O3 F7"
+_cell_length_a       5.54381
+_cell_length_b       5.88118
+_cell_length_c       5.72539
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    91.2241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.02569  0.24729  0.27767  1.0000
+  Eu  Eu2       1.0  0.98440  0.75035  0.79578  1.0000
+  Eu  Eu3       1.0  0.51560  0.24965  0.79578  1.0000
+  Eu  Eu4       1.0  0.47431  0.75271  0.27767  1.0000
+  O   O1        1.0  0.25000  0.00000  0.04416  1.0000
+  O   O2        1.0  0.75000  0.00000  0.02196  1.0000
+  O   O3        1.0  0.25000  0.50000  0.99377  1.0000
+  F   F1        1.0  0.25000  0.00000  0.56649  1.0000
+  F   F2        1.0  0.75000  0.00000  0.49007  1.0000
+  F   F3        1.0  0.42797  0.35482  0.39921  1.0000
+  F   F4        1.0  0.07203  0.64518  0.39921  1.0000
+  F   F5        1.0  0.57456  0.65363  0.68541  1.0000
+  F   F6        1.0  0.92544  0.34637  0.68541  1.0000
+  F   F7        1.0  0.75000  0.50000  0.08620  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb5Si6W5
+_chemical_formula_sum              "Nb5 Si6 W5"
+_cell_length_a       5.07616
+_cell_length_b       7.40489
+_cell_length_c       7.42455
+_cell_angle_alpha    96.7752
+_cell_angle_beta     109.99
+_cell_angle_gamma    69.955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.42121  0.85268  0.69510  1.0000
+  Nb  Nb2       1.0  0.58220  0.14231  0.30671  1.0000
+  Nb  Nb3       1.0  0.92184  0.30259  0.14627  1.0000
+  Nb  Nb4       1.0  0.07972  0.69591  0.85535  1.0000
+  Nb  Nb5       1.0  0.72009  0.70463  0.14481  1.0000
+  Si  Si1       1.0  0.24680  0.00279  0.99848  1.0000
+  Si  Si2       1.0  0.74889  0.00279  0.99848  1.0000
+  Si  Si3       1.0  0.33608  0.49827  0.17042  1.0000
+  Si  Si4       1.0  0.66546  0.49719  0.82810  1.0000
+  Si  Si5       1.0  0.83668  0.83102  0.50437  1.0000
+  Si  Si6       1.0  0.16571  0.16908  0.50050  1.0000
+  W   W1        1.0  0.27762  0.29672  0.85195  1.0000
+  W   W2        1.0  0.77779  0.14764  0.70323  1.0000
+  W   W3        1.0  0.21986  0.85702  0.29674  1.0000
+  W   W4        1.0  0.24988  0.49968  0.49974  1.0000
+  W   W5        1.0  0.75018  0.49968  0.49974  1.0000

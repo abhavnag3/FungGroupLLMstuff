@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb5Si6Mo5
+_chemical_formula_sum              "Nb5 Si6 Mo5"
+_cell_length_a       5.04635
+_cell_length_b       7.40478
+_cell_length_c       7.39822
+_cell_angle_alpha    96.4557
+_cell_angle_beta     109.941
+_cell_angle_gamma    70.0775
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.27791  0.29826  0.85408  1.0000
+  Nb  Nb2       1.0  0.77708  0.14638  0.70054  1.0000
+  Nb  Nb3       1.0  0.22429  0.85204  0.30062  1.0000
+  Nb  Nb4       1.0  0.25061  0.49989  0.50057  1.0000
+  Nb  Nb5       1.0  0.75008  0.49989  0.50057  1.0000
+  Si  Si1       1.0  0.25418  0.99668  0.00117  1.0000
+  Si  Si2       1.0  0.75030  0.99668  0.00117  1.0000
+  Si  Si3       1.0  0.33007  0.50177  0.16192  1.0000
+  Si  Si4       1.0  0.66870  0.50386  0.84126  1.0000
+  Si  Si5       1.0  0.83057  0.83565  0.49679  1.0000
+  Si  Si6       1.0  0.16777  0.16359  0.49913  1.0000
+  Mo  Mo1       1.0  0.42406  0.85454  0.70267  1.0000
+  Mo  Mo2       1.0  0.57181  0.14831  0.29193  1.0000
+  Mo  Mo3       1.0  0.92497  0.29634  0.14629  1.0000
+  Mo  Mo4       1.0  0.07395  0.70602  0.85392  1.0000
+  Mo  Mo5       1.0  0.72364  0.70010  0.14739  1.0000

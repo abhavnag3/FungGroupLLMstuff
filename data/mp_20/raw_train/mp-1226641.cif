@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Co2B6Rh12
+_chemical_formula_sum              "Co2 B6 Rh12"
+_cell_length_a       7.49203
+_cell_length_b       7.49203
+_cell_length_c       4.75227
+_cell_angle_alpha    89.8772
+_cell_angle_beta     89.8772
+_cell_angle_gamma    60.114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.45006  0.09233  0.99544  1.0000
+  Co  Co2       1.0  0.09233  0.45006  0.99544  1.0000
+  B   B1        1.0  0.18831  0.18831  0.74119  1.0000
+  B   B2        1.0  0.18484  0.62357  0.73995  1.0000
+  B   B3        1.0  0.62357  0.18484  0.73995  1.0000
+  B   B4        1.0  0.81042  0.81042  0.24066  1.0000
+  B   B5        1.0  0.81175  0.37969  0.23910  1.0000
+  B   B6        1.0  0.37969  0.81175  0.23910  1.0000
+  Rh  Rh1       1.0  0.87266  0.87266  0.83420  1.0000
+  Rh  Rh2       1.0  0.87799  0.25125  0.83352  1.0000
+  Rh  Rh3       1.0  0.25125  0.87799  0.83352  1.0000
+  Rh  Rh4       1.0  0.12794  0.12794  0.32123  1.0000
+  Rh  Rh5       1.0  0.12334  0.74962  0.32885  1.0000
+  Rh  Rh6       1.0  0.74962  0.12334  0.32885  1.0000
+  Rh  Rh7       1.0  0.33272  0.33272  0.50705  1.0000
+  Rh  Rh8       1.0  0.66822  0.66822  0.01104  1.0000
+  Rh  Rh9       1.0  0.54332  0.54332  0.49030  1.0000
+  Rh  Rh10      1.0  0.53990  0.92237  0.49820  1.0000
+  Rh  Rh11      1.0  0.92237  0.53990  0.49820  1.0000
+  Rh  Rh12      1.0  0.44970  0.44971  0.99103  1.0000

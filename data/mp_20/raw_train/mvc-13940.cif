@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MgMoF6
+_chemical_formula_sum              "Mg1 Mo1 F6"
+_cell_length_a       5.61846
+_cell_length_b       5.61846
+_cell_length_c       5.61846
+_cell_angle_alpha    57.4205
+_cell_angle_beta     57.4205
+_cell_angle_gamma    57.4205
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.50000  0.50000  0.50000  1.0000
+  Mo  Mo1       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.66250  0.83813  0.24583  1.0000
+  F   F2        1.0  0.83813  0.24583  0.66251  1.0000
+  F   F3        1.0  0.75417  0.33749  0.16187  1.0000
+  F   F4        1.0  0.16187  0.75417  0.33749  1.0000
+  F   F5        1.0  0.33750  0.16188  0.75417  1.0000
+  F   F6        1.0  0.24583  0.66250  0.83813  1.0000

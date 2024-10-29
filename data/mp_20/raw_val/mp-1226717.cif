@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeTh3Al2
+_chemical_formula_sum              "Ce1 Th3 Al2"
+_cell_length_a       7.76633
+_cell_length_b       6.15166
+_cell_length_c       6.13185
+_cell_angle_alpha    78.4334
+_cell_angle_beta     50.8965
+_cell_angle_gamma    50.67
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.65582  0.34418  0.65582  1.0000
+  Th  Th1       1.0  0.34639  0.65361  0.34639  1.0000
+  Th  Th2       1.0  0.84410  0.84402  0.15598  1.0000
+  Th  Th3       1.0  0.15598  0.15590  0.84410  1.0000
+  Al  Al1       1.0  0.24886  0.25114  0.24886  1.0000
+  Al  Al2       1.0  0.74886  0.75114  0.74886  1.0000

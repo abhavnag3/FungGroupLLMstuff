@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Lu10Ir6
+_chemical_formula_sum              "Lu10 Ir6"
+_cell_length_a       6.08255
+_cell_length_b       8.16416
+_cell_length_c       8.16581
+_cell_angle_alpha    119.993
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.50000  0.33333  0.66668  1.0000
+  Lu  Lu2       1.0  0.50000  0.66664  0.33331  1.0000
+  Lu  Lu3       1.0  0.00000  0.66667  0.33331  1.0000
+  Lu  Lu4       1.0  0.00000  0.33336  0.66668  1.0000
+  Lu  Lu5       1.0  0.75001  0.25826  0.00000  1.0000
+  Lu  Lu6       1.0  0.75000  0.74169  0.74167  1.0000
+  Lu  Lu7       1.0  0.75000  0.00001  0.25833  1.0000
+  Lu  Lu8       1.0  0.25001  0.74174  0.00000  1.0000
+  Lu  Lu9       1.0  0.25000  0.25831  0.25833  1.0000
+  Lu  Lu10      1.0  0.25000  0.99999  0.74167  1.0000
+  Ir  Ir1       1.0  0.75001  0.60916  0.00000  1.0000
+  Ir  Ir2       1.0  0.74999  0.39097  0.39089  1.0000
+  Ir  Ir3       1.0  0.74999  0.00008  0.60911  1.0000
+  Ir  Ir4       1.0  0.25000  0.39083  0.00000  1.0000
+  Ir  Ir5       1.0  0.24999  0.60903  0.60911  1.0000
+  Ir  Ir6       1.0  0.24999  0.99992  0.39089  1.0000

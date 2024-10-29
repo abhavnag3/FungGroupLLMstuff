@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       KNa4Cl5
+_chemical_formula_sum              "K1 Na4 Cl5"
+_cell_length_a       7.17073
+_cell_length_b       7.17073
+_cell_length_c       10.1574
+_cell_angle_alpha    61.8033
+_cell_angle_beta     61.8033
+_cell_angle_gamma    33.4281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.00000  0.00000  0.00000  1.0000
+  Na  Na1       1.0  0.59964  0.59964  0.59765  1.0000
+  Na  Na2       1.0  0.19895  0.19895  0.20389  1.0000
+  Na  Na3       1.0  0.80105  0.80105  0.79611  1.0000
+  Na  Na4       1.0  0.40036  0.40036  0.40235  1.0000
+  Cl  Cl1       1.0  0.20763  0.20763  0.68754  1.0000
+  Cl  Cl2       1.0  0.79237  0.79237  0.31246  1.0000
+  Cl  Cl3       1.0  0.39122  0.39122  0.89007  1.0000
+  Cl  Cl4       1.0  0.00000  0.00000  0.50000  1.0000
+  Cl  Cl5       1.0  0.60878  0.60878  0.10992  1.0000

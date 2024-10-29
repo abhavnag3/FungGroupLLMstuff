@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2Au4
+_chemical_formula_sum              "Ce2 Au4"
+_cell_length_a       5.93681
+_cell_length_b       5.93681
+_cell_length_c       5.93681
+_cell_angle_alpha    133.248
+_cell_angle_beta     107.752
+_cell_angle_gamma    90.5699
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.71532  0.46532  0.25000  1.0000
+  Ce  Ce2       1.0  0.28468  0.53468  0.75000  1.0000
+  Au  Au1       1.0  0.87077  0.83598  0.03479  1.0000
+  Au  Au2       1.0  0.12923  0.16402  0.96521  1.0000
+  Au  Au3       1.0  0.69881  0.16402  0.53479  1.0000
+  Au  Au4       1.0  0.30119  0.83598  0.46521  1.0000

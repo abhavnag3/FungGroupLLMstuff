@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Dy12Ni4Sn2
+_chemical_formula_sum              "Dy12 Ni4 Sn2"
+_cell_length_a       8.41613
+_cell_length_b       8.41613
+_cell_length_c       8.41613
+_cell_angle_alpha    112.938
+_cell_angle_beta     109.904
+_cell_angle_gamma    105.654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.02840  0.73201  0.29639  1.0000
+  Dy  Dy2       1.0  0.97160  0.26799  0.70361  1.0000
+  Dy  Dy3       1.0  0.56439  0.26799  0.29639  1.0000
+  Dy  Dy4       1.0  0.43561  0.73201  0.70361  1.0000
+  Dy  Dy5       1.0  0.67658  0.86725  0.19067  1.0000
+  Dy  Dy6       1.0  0.32342  0.51408  0.19067  1.0000
+  Dy  Dy7       1.0  0.32342  0.13275  0.80934  1.0000
+  Dy  Dy8       1.0  0.67658  0.48592  0.80934  1.0000
+  Dy  Dy9       1.0  0.18383  0.20774  0.39157  1.0000
+  Dy  Dy10      1.0  0.81617  0.20774  0.02391  1.0000
+  Dy  Dy11      1.0  0.18383  0.79226  0.97609  1.0000
+  Dy  Dy12      1.0  0.81617  0.79226  0.60843  1.0000
+  Ni  Ni1       1.0  0.64603  0.50000  0.14603  1.0000
+  Ni  Ni2       1.0  0.35397  0.50000  0.85397  1.0000
+  Ni  Ni3       1.0  0.87780  0.87780  0.00000  1.0000
+  Ni  Ni4       1.0  0.12220  0.12220  0.00000  1.0000
+  Sn  Sn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn2       1.0  0.50000  0.00000  0.50000  1.0000

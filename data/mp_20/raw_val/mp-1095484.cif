@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pr2Al8Ni2
+_chemical_formula_sum              "Pr2 Al8 Ni2"
+_cell_length_a       8.20224
+_cell_length_b       8.20224
+_cell_length_c       6.57186
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.88559  0.11441  0.75000  1.0000
+  Pr  Pr2       1.0  0.11441  0.88559  0.25000  1.0000
+  Al  Al1       1.0  0.50000  0.50000  0.00000  1.0000
+  Al  Al2       1.0  0.50000  0.50000  0.50000  1.0000
+  Al  Al3       1.0  0.07716  0.92283  0.75000  1.0000
+  Al  Al4       1.0  0.92283  0.07716  0.25000  1.0000
+  Al  Al5       1.0  0.69192  0.30808  0.94793  1.0000
+  Al  Al6       1.0  0.30808  0.69192  0.05207  1.0000
+  Al  Al7       1.0  0.69192  0.30808  0.55207  1.0000
+  Al  Al8       1.0  0.30808  0.69192  0.44793  1.0000
+  Ni  Ni1       1.0  0.22304  0.77696  0.75000  1.0000
+  Ni  Ni2       1.0  0.77696  0.22304  0.25000  1.0000

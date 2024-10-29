@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Lu2Ga3Ni
+_chemical_formula_sum              "Lu2 Ga3 Ni1"
+_cell_length_a       5.4444
+_cell_length_b       5.4444
+_cell_length_c       6.89256
+_cell_angle_alpha    51.8438
+_cell_angle_beta     51.8438
+_cell_angle_gamma    46.4041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.54440  0.54440  0.70347  1.0000
+  Lu  Lu2       1.0  0.45159  0.45159  0.29901  1.0000
+  Ga  Ga1       1.0  0.85080  0.85080  0.68878  1.0000
+  Ga  Ga2       1.0  0.82451  0.82451  0.12044  1.0000
+  Ga  Ga3       1.0  0.16201  0.16201  0.90563  1.0000
+  Ni  Ni1       1.0  0.16669  0.16669  0.28267  1.0000

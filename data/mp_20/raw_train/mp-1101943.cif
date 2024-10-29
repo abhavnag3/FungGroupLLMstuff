@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta4Fe4Si4
+_chemical_formula_sum              "Ta4 Fe4 Si4"
+_cell_length_a       6.17542
+_cell_length_b       3.7383
+_cell_length_c       6.98315
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.01585  0.25000  0.31281  1.0000
+  Ta  Ta2       1.0  0.51584  0.25000  0.18719  1.0000
+  Ta  Ta3       1.0  0.98415  0.75000  0.68719  1.0000
+  Ta  Ta4       1.0  0.48416  0.75000  0.81281  1.0000
+  Fe  Fe1       1.0  0.14880  0.25000  0.93543  1.0000
+  Fe  Fe2       1.0  0.64880  0.25000  0.56457  1.0000
+  Fe  Fe3       1.0  0.85121  0.75000  0.06457  1.0000
+  Fe  Fe4       1.0  0.35120  0.75000  0.43543  1.0000
+  Si  Si1       1.0  0.27789  0.25000  0.61520  1.0000
+  Si  Si2       1.0  0.77789  0.25000  0.88480  1.0000
+  Si  Si3       1.0  0.72211  0.75000  0.38480  1.0000
+  Si  Si4       1.0  0.22211  0.75000  0.11520  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K2Ta2Cl12
+_chemical_formula_sum              "K2 Ta2 Cl12"
+_cell_length_a       6.51423
+_cell_length_b       6.95663
+_cell_length_c       12.5422
+_cell_angle_alpha    100.601
+_cell_angle_beta     90
+_cell_angle_gamma    117.918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.88235  0.00000  0.75000  1.0000
+  K   K2        1.0  0.11765  0.00000  0.25000  1.0000
+  Ta  Ta1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ta  Ta2       1.0  0.00000  0.50000  0.50000  1.0000
+  Cl  Cl1       1.0  0.46206  0.16310  0.89543  1.0000
+  Cl  Cl2       1.0  0.53794  0.83689  0.10457  1.0000
+  Cl  Cl3       1.0  0.29896  0.83689  0.60457  1.0000
+  Cl  Cl4       1.0  0.70104  0.16310  0.39543  1.0000
+  Cl  Cl5       1.0  0.37205  0.56994  0.84101  1.0000
+  Cl  Cl6       1.0  0.62795  0.43006  0.15899  1.0000
+  Cl  Cl7       1.0  0.80211  0.43006  0.65899  1.0000
+  Cl  Cl8       1.0  0.19789  0.56994  0.34101  1.0000
+  Cl  Cl9       1.0  0.79871  0.69206  0.46047  1.0000
+  Cl  Cl10      1.0  0.20129  0.30794  0.53953  1.0000
+  Cl  Cl11      1.0  0.10665  0.30794  0.03954  1.0000
+  Cl  Cl12      1.0  0.89335  0.69206  0.96047  1.0000

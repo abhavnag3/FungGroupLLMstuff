@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       YbUTe6
+_chemical_formula_sum              "Yb1 U1 Te6"
+_cell_length_a       12.9314
+_cell_length_b       12.9314
+_cell_length_c       4.39135
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    160.535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.17011  0.82989  0.50000  1.0000
+  U   U1        1.0  0.83024  0.16976  0.00000  1.0000
+  Te  Te1       1.0  0.42519  0.57481  0.00000  1.0000
+  Te  Te2       1.0  0.57065  0.42935  0.50000  1.0000
+  Te  Te3       1.0  0.70934  0.29066  0.00000  1.0000
+  Te  Te4       1.0  0.29961  0.70039  0.50000  1.0000
+  Te  Te5       1.0  0.06978  0.93022  0.00000  1.0000
+  Te  Te6       1.0  0.92509  0.07491  0.50000  1.0000

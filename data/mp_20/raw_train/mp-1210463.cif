@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Cu2F12
+_chemical_formula_sum              "Na6 Cu2 F12"
+_cell_length_a       5.54956
+_cell_length_b       5.76085
+_cell_length_c       7.96898
+_cell_angle_alpha    90
+_cell_angle_beta     89.9069
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.50000  1.0000
+  Na  Na2       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na3       1.0  0.01468  0.44224  0.25530  1.0000
+  Na  Na4       1.0  0.98532  0.55776  0.74470  1.0000
+  Na  Na5       1.0  0.48532  0.94224  0.24470  1.0000
+  Na  Na6       1.0  0.51468  0.05776  0.75530  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.16476  0.72145  0.07034  1.0000
+  F   F2        1.0  0.83524  0.27855  0.92966  1.0000
+  F   F3        1.0  0.33524  0.22145  0.42966  1.0000
+  F   F4        1.0  0.66476  0.77855  0.57034  1.0000
+  F   F5        1.0  0.88383  0.05650  0.22570  1.0000
+  F   F6        1.0  0.11617  0.94350  0.77429  1.0000
+  F   F7        1.0  0.61617  0.55650  0.27430  1.0000
+  F   F8        1.0  0.38383  0.44350  0.72571  1.0000
+  F   F9        1.0  0.28509  0.17560  0.05334  1.0000
+  F   F10       1.0  0.71491  0.82440  0.94666  1.0000
+  F   F11       1.0  0.21491  0.67560  0.44666  1.0000
+  F   F12       1.0  0.78509  0.32440  0.55334  1.0000

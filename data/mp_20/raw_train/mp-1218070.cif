@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ta6CrC3S6
+_chemical_formula_sum              "Ta6 Cr1 C3 S6"
+_cell_length_a       5.73537
+_cell_length_b       5.73537
+_cell_length_c       8.77777
+_cell_angle_alpha    83.7666
+_cell_angle_beta     83.7666
+_cell_angle_gamma    120.05
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.45511  0.78815  0.63486  1.0000
+  Ta  Ta2       1.0  0.12290  0.12290  0.63092  1.0000
+  Ta  Ta3       1.0  0.78815  0.45511  0.63486  1.0000
+  Ta  Ta4       1.0  0.54489  0.21185  0.36514  1.0000
+  Ta  Ta5       1.0  0.21185  0.54489  0.36514  1.0000
+  Ta  Ta6       1.0  0.87710  0.87710  0.36908  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.50000  0.50000  0.50000  1.0000
+  C   C2        1.0  0.16888  0.83112  0.50000  1.0000
+  C   C3        1.0  0.83112  0.16888  0.50000  1.0000
+  S   S1        1.0  0.60765  0.94238  0.17235  1.0000
+  S   S2        1.0  0.27764  0.27764  0.17098  1.0000
+  S   S3        1.0  0.94238  0.60765  0.17235  1.0000
+  S   S4        1.0  0.39235  0.05762  0.82765  1.0000
+  S   S5        1.0  0.05762  0.39235  0.82765  1.0000
+  S   S6        1.0  0.72236  0.72236  0.82902  1.0000

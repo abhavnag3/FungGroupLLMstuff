@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Hf10Mn2Sb4
+_chemical_formula_sum              "Hf10 Mn2 Sb4"
+_cell_length_a       5.58296
+_cell_length_b       8.24551
+_cell_length_c       8.24551
+_cell_angle_alpha    83.4187
+_cell_angle_beta     70.2117
+_cell_angle_gamma    70.2117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.06969  0.12953  0.73109  1.0000
+  Hf  Hf2       1.0  0.93031  0.87047  0.26891  1.0000
+  Hf  Hf3       1.0  0.80078  0.26891  0.12953  1.0000
+  Hf  Hf4       1.0  0.43031  0.26891  0.87047  1.0000
+  Hf  Hf5       1.0  0.19922  0.73109  0.87047  1.0000
+  Hf  Hf6       1.0  0.56969  0.73109  0.12953  1.0000
+  Hf  Hf7       1.0  0.69922  0.87047  0.73109  1.0000
+  Hf  Hf8       1.0  0.30078  0.12953  0.26891  1.0000
+  Hf  Hf9       1.0  0.25000  0.50000  0.50000  1.0000
+  Hf  Hf10      1.0  0.75000  0.50000  0.50000  1.0000
+  Mn  Mn1       1.0  0.25000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.75000  0.00000  0.00000  1.0000
+  Sb  Sb1       1.0  0.16428  0.50000  0.17143  1.0000
+  Sb  Sb2       1.0  0.83571  0.50000  0.82857  1.0000
+  Sb  Sb3       1.0  0.33571  0.82857  0.50000  1.0000
+  Sb  Sb4       1.0  0.66429  0.17143  0.50000  1.0000

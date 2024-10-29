@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I2Cl6
+_chemical_formula_sum              "I2 Cl6"
+_cell_length_a       6.01729
+_cell_length_b       6.23877
+_cell_length_c       8.83966
+_cell_angle_alpha    71.2667
+_cell_angle_beta     84.6122
+_cell_angle_gamma    85.5669
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.82042  0.00057  0.81644  1.0000
+  I   I2        1.0  0.17958  0.99943  0.18356  1.0000
+  Cl  Cl1       1.0  0.44254  0.25796  0.20431  1.0000
+  Cl  Cl2       1.0  0.55746  0.74203  0.79569  1.0000
+  Cl  Cl3       1.0  0.87865  0.73616  0.12498  1.0000
+  Cl  Cl4       1.0  0.12135  0.26384  0.87502  1.0000
+  Cl  Cl5       1.0  0.20898  0.74345  0.44965  1.0000
+  Cl  Cl6       1.0  0.79102  0.25655  0.55035  1.0000

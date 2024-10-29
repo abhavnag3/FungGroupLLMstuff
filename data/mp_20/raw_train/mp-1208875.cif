@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Er2Bi2O12
+_chemical_formula_sum              "Sr4 Er2 Bi2 O12"
+_cell_length_a       5.92616
+_cell_length_b       6.04942
+_cell_length_c       8.45035
+_cell_angle_alpha    90
+_cell_angle_beta     90.0714
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.01118  0.45637  0.25065  1.0000
+  Sr  Sr2       1.0  0.98882  0.54363  0.74935  1.0000
+  Sr  Sr3       1.0  0.48882  0.95637  0.24935  1.0000
+  Sr  Sr4       1.0  0.51118  0.04363  0.75065  1.0000
+  Er  Er1       1.0  0.00000  0.00000  0.50000  1.0000
+  Er  Er2       1.0  0.50000  0.50000  0.00000  1.0000
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.91031  0.03075  0.24465  1.0000
+  O   O2        1.0  0.08968  0.96925  0.75535  1.0000
+  O   O3        1.0  0.58969  0.53075  0.25535  1.0000
+  O   O4        1.0  0.41031  0.46925  0.74465  1.0000
+  O   O5        1.0  0.20080  0.71284  0.04924  1.0000
+  O   O6        1.0  0.79920  0.28716  0.95076  1.0000
+  O   O7        1.0  0.29920  0.21284  0.45076  1.0000
+  O   O8        1.0  0.70080  0.78716  0.54924  1.0000
+  O   O9        1.0  0.28854  0.20289  0.04641  1.0000
+  O   O10       1.0  0.71146  0.79711  0.95359  1.0000
+  O   O11       1.0  0.21146  0.70289  0.45359  1.0000
+  O   O12       1.0  0.78854  0.29711  0.54641  1.0000

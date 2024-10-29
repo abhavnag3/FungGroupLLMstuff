@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn2Sn2Ge4O12
+_chemical_formula_sum              "Zn2 Sn2 Ge4 O12"
+_cell_length_a       7.47637
+_cell_length_b       7.47637
+_cell_length_c       5.67689
+_cell_angle_alpha    76.6864
+_cell_angle_beta     76.6864
+_cell_angle_gamma    88.0648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.75505  0.24495  0.75000  1.0000
+  Zn  Zn2       1.0  0.24495  0.75505  0.25000  1.0000
+  Sn  Sn1       1.0  0.12372  0.87628  0.75000  1.0000
+  Sn  Sn2       1.0  0.87628  0.12372  0.25000  1.0000
+  Ge  Ge1       1.0  0.21461  0.38814  0.72584  1.0000
+  Ge  Ge2       1.0  0.61186  0.78539  0.77416  1.0000
+  Ge  Ge3       1.0  0.78539  0.61186  0.27416  1.0000
+  Ge  Ge4       1.0  0.38814  0.21461  0.22584  1.0000
+  O   O1        1.0  0.38107  0.30365  0.49652  1.0000
+  O   O2        1.0  0.69635  0.61893  0.00348  1.0000
+  O   O3        1.0  0.61893  0.69635  0.50348  1.0000
+  O   O4        1.0  0.30365  0.38107  0.99652  1.0000
+  O   O5        1.0  0.62458  0.18493  0.09846  1.0000
+  O   O6        1.0  0.81507  0.37542  0.40154  1.0000
+  O   O7        1.0  0.37542  0.81507  0.90154  1.0000
+  O   O8        1.0  0.18493  0.62458  0.59846  1.0000
+  O   O9        1.0  0.00663  0.26090  0.82644  1.0000
+  O   O10       1.0  0.73909  0.99337  0.67356  1.0000
+  O   O11       1.0  0.99337  0.73909  0.17356  1.0000
+  O   O12       1.0  0.26090  0.00663  0.32644  1.0000

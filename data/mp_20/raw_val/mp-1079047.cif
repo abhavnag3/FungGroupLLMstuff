@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sm4Co2Ge4
+_chemical_formula_sum              "Sm4 Co2 Ge4"
+_cell_length_a       5.79027
+_cell_length_b       5.79027
+_cell_length_c       10.4229
+_cell_angle_alpha    63.6142
+_cell_angle_beta     63.6142
+_cell_angle_gamma    43.4373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.18799  0.18799  0.88922  1.0000
+  Sm  Sm2       1.0  0.81201  0.81201  0.11078  1.0000
+  Sm  Sm3       1.0  0.00553  0.00553  0.66765  1.0000
+  Sm  Sm4       1.0  0.99447  0.99447  0.33235  1.0000
+  Co  Co1       1.0  0.27483  0.27483  0.36403  1.0000
+  Co  Co2       1.0  0.72517  0.72517  0.63597  1.0000
+  Ge  Ge1       1.0  0.49134  0.49134  0.87493  1.0000
+  Ge  Ge2       1.0  0.50866  0.50866  0.12507  1.0000
+  Ge  Ge3       1.0  0.34423  0.34423  0.56635  1.0000
+  Ge  Ge4       1.0  0.65577  0.65577  0.43365  1.0000

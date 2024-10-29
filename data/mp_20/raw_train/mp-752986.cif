@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4CuNi3O8
+_chemical_formula_sum              "Li4 Cu1 Ni3 O8"
+_cell_length_a       5.5744
+_cell_length_b       5.95081
+_cell_length_c       5.72596
+_cell_angle_alpha    61.9064
+_cell_angle_beta     89.9988
+_cell_angle_gamma    117.926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.49999  0.00000  0.49999  1.0000
+  Li  Li2       1.0  0.99999  0.00001  0.49999  1.0000
+  Li  Li3       1.0  0.50003  0.50009  0.99995  1.0000
+  Li  Li4       1.0  0.99995  0.49993  0.00003  1.0000
+  Cu  Cu1       1.0  0.00011  0.00000  0.00001  1.0000
+  Ni  Ni1       1.0  0.50000  0.49999  0.50001  1.0000
+  Ni  Ni2       1.0  0.00001  0.50002  0.49998  1.0000
+  Ni  Ni3       1.0  0.49995  0.00000  0.00000  1.0000
+  O   O1        1.0  0.72609  0.45216  0.30031  1.0000
+  O   O2        1.0  0.27390  0.54784  0.69968  1.0000
+  O   O3        1.0  0.25307  0.50613  0.26715  1.0000
+  O   O4        1.0  0.74692  0.49387  0.73284  1.0000
+  O   O5        1.0  0.75855  0.00706  0.77354  1.0000
+  O   O6        1.0  0.24854  0.00704  0.77357  1.0000
+  O   O7        1.0  0.75147  0.99296  0.22645  1.0000
+  O   O8        1.0  0.24145  0.99293  0.22641  1.0000

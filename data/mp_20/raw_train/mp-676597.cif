@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba2V2Se6
+_chemical_formula_sum              "Ba2 V2 Se6"
+_cell_length_a       7.03569
+_cell_length_b       7.03569
+_cell_length_c       5.90219
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.366
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.66388  0.33612  0.75495  1.0000
+  Ba  Ba2       1.0  0.33612  0.66388  0.25495  1.0000
+  V   V1        1.0  0.97417  0.02583  0.01324  1.0000
+  V   V2        1.0  0.02583  0.97417  0.51324  1.0000
+  Se  Se1       1.0  0.32997  0.16345  0.24308  1.0000
+  Se  Se2       1.0  0.83656  0.67003  0.24308  1.0000
+  Se  Se3       1.0  0.82928  0.17072  0.27462  1.0000
+  Se  Se4       1.0  0.16345  0.32997  0.74308  1.0000
+  Se  Se5       1.0  0.67003  0.83656  0.74308  1.0000
+  Se  Se6       1.0  0.17072  0.82928  0.77462  1.0000

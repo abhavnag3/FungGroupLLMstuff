@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       BaFe2P2O8
+_chemical_formula_sum              "Ba1 Fe2 P2 O8"
+_cell_length_a       4.92573
+_cell_length_b       4.92328
+_cell_length_c       8.57577
+_cell_angle_alpha    72.1154
+_cell_angle_beta     73.7898
+_cell_angle_gamma    58.6924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00007  0.99991  0.00008  1.0000
+  Fe  Fe1       1.0  0.18049  0.18240  0.49337  1.0000
+  Fe  Fe2       1.0  0.81930  0.81759  0.50662  1.0000
+  P   P1        1.0  0.57868  0.57239  0.27668  1.0000
+  P   P2        1.0  0.42130  0.42763  0.72339  1.0000
+  O   O1        1.0  0.64523  0.63157  0.08717  1.0000
+  O   O2        1.0  0.35512  0.36867  0.91277  1.0000
+  O   O3        1.0  0.56426  0.85088  0.33624  1.0000
+  O   O4        1.0  0.85202  0.23920  0.35097  1.0000
+  O   O5        1.0  0.24960  0.56756  0.33571  1.0000
+  O   O6        1.0  0.43575  0.14882  0.66402  1.0000
+  O   O7        1.0  0.14785  0.76069  0.64904  1.0000
+  O   O8        1.0  0.75033  0.43268  0.66395  1.0000

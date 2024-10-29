@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Pr4Al2Ge12
+_chemical_formula_sum              "Pr4 Al2 Ge12"
+_cell_length_a       6.10744
+_cell_length_b       6.10744
+_cell_length_c       10.8034
+_cell_angle_alpha    82.0908
+_cell_angle_beta     82.0908
+_cell_angle_gamma    92.5223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.83752  0.33378  0.66300  1.0000
+  Pr  Pr2       1.0  0.33378  0.83752  0.66300  1.0000
+  Pr  Pr3       1.0  0.16248  0.66622  0.33700  1.0000
+  Pr  Pr4       1.0  0.66622  0.16249  0.33700  1.0000
+  Al  Al1       1.0  0.79969  0.79969  0.80481  1.0000
+  Al  Al2       1.0  0.20031  0.20031  0.19519  1.0000
+  Ge  Ge1       1.0  0.14669  0.14669  0.43649  1.0000
+  Ge  Ge2       1.0  0.85331  0.85331  0.56351  1.0000
+  Ge  Ge3       1.0  0.36046  0.36046  0.58117  1.0000
+  Ge  Ge4       1.0  0.63954  0.63954  0.41883  1.0000
+  Ge  Ge5       1.0  0.06539  0.49244  0.88566  1.0000
+  Ge  Ge6       1.0  0.49244  0.06539  0.88566  1.0000
+  Ge  Ge7       1.0  0.93461  0.50756  0.11434  1.0000
+  Ge  Ge8       1.0  0.50756  0.93461  0.11434  1.0000
+  Ge  Ge9       1.0  0.06902  0.06902  0.88603  1.0000
+  Ge  Ge10      1.0  0.93097  0.93097  0.11397  1.0000
+  Ge  Ge11      1.0  0.48858  0.48858  0.88568  1.0000
+  Ge  Ge12      1.0  0.51142  0.51142  0.11432  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca2La2Cr4O12
+_chemical_formula_sum              "Ca2 La2 Cr4 O12"
+_cell_length_a       5.47053
+_cell_length_b       5.5382
+_cell_length_c       7.68237
+_cell_angle_alpha    90.0007
+_cell_angle_beta     89.9711
+_cell_angle_gamma    89.9987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.48961  0.45762  0.74943  1.0000
+  Ca  Ca2       1.0  0.98962  0.04237  0.24940  1.0000
+  La  La1       1.0  0.00782  0.96767  0.75030  1.0000
+  La  La2       1.0  0.50782  0.53234  0.25030  1.0000
+  Cr  Cr1       1.0  0.00024  0.49961  0.99951  1.0000
+  Cr  Cr2       1.0  0.00042  0.50021  0.50080  1.0000
+  Cr  Cr3       1.0  0.50025  0.00040  0.49951  1.0000
+  Cr  Cr4       1.0  0.50040  0.99979  0.00080  1.0000
+  O   O1        1.0  0.07209  0.47920  0.24476  1.0000
+  O   O2        1.0  0.57213  0.02083  0.74477  1.0000
+  O   O3        1.0  0.41912  0.98251  0.25582  1.0000
+  O   O4        1.0  0.91914  0.51743  0.75583  1.0000
+  O   O5        1.0  0.21275  0.21829  0.96145  1.0000
+  O   O6        1.0  0.22135  0.21382  0.53839  1.0000
+  O   O7        1.0  0.71277  0.28171  0.46146  1.0000
+  O   O8        1.0  0.72132  0.28618  0.03840  1.0000
+  O   O9        1.0  0.28290  0.70822  0.95812  1.0000
+  O   O10       1.0  0.29366  0.71475  0.54141  1.0000
+  O   O11       1.0  0.78290  0.79178  0.45813  1.0000
+  O   O12       1.0  0.79366  0.78526  0.04141  1.0000

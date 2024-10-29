@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Be2Al2H10
+_chemical_formula_sum              "Be2 Al2 H10"
+_cell_length_a       4.30623
+_cell_length_b       4.77009
+_cell_length_c       6.25391
+_cell_angle_alpha    89.4071
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.22987  0.00198  0.62326  1.0000
+  Be  Be2       1.0  0.72988  0.99802  0.37674  1.0000
+  Al  Al1       1.0  0.99002  0.24301  0.99980  1.0000
+  Al  Al2       1.0  0.49002  0.75699  0.00020  1.0000
+  H   H1        1.0  0.46582  0.11030  0.48495  1.0000
+  H   H2        1.0  0.96582  0.88970  0.51505  1.0000
+  H   H3        1.0  0.32070  0.75955  0.74844  1.0000
+  H   H4        1.0  0.82069  0.24045  0.25156  1.0000
+  H   H5        1.0  0.16183  0.24701  0.74890  1.0000
+  H   H6        1.0  0.66183  0.75299  0.25110  1.0000
+  H   H7        1.0  0.73987  0.00125  0.90160  1.0000
+  H   H8        1.0  0.23987  0.99875  0.09841  1.0000
+  H   H9        1.0  0.73989  0.50107  0.91339  1.0000
+  H   H10       1.0  0.23989  0.49893  0.08661  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ca3C3O9
+_chemical_formula_sum              "Ca3 C3 O9"
+_cell_length_a       5.04084
+_cell_length_b       5.04084
+_cell_length_c       8.74458
+_cell_angle_alpha    89.3545
+_cell_angle_beta     89.3545
+_cell_angle_gamma    59.5967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.34680  0.32310  0.33449  1.0000
+  Ca  Ca2       1.0  0.01680  0.98320  0.00000  1.0000
+  Ca  Ca3       1.0  0.67690  0.65320  0.66551  1.0000
+  C   C1        1.0  0.68936  0.65062  0.16916  1.0000
+  C   C2        1.0  0.34938  0.31064  0.83084  1.0000
+  C   C3        1.0  0.00870  0.99130  0.50000  1.0000
+  O   O1        1.0  0.60914  0.05132  0.83405  1.0000
+  O   O2        1.0  0.09220  0.30985  0.82633  1.0000
+  O   O3        1.0  0.34771  0.56920  0.83254  1.0000
+  O   O4        1.0  0.43080  0.65229  0.16746  1.0000
+  O   O5        1.0  0.00942  0.73326  0.49990  1.0000
+  O   O6        1.0  0.26674  0.99058  0.50010  1.0000
+  O   O7        1.0  0.69015  0.90780  0.17367  1.0000
+  O   O8        1.0  0.94868  0.39086  0.16595  1.0000
+  O   O9        1.0  0.74922  0.25078  0.50000  1.0000

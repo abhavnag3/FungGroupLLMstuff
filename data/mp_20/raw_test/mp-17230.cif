@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb10Ga2Sn4
+_chemical_formula_sum              "Nb10 Ga2 Sn4"
+_cell_length_a       8.01614
+_cell_length_b       8.01614
+_cell_length_c       8.01614
+_cell_angle_alpha    96.0462
+_cell_angle_beta     96.0462
+_cell_angle_gamma    142.124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000  0.75000  0.50000  1.0000
+  Nb  Nb2       1.0  0.75000  0.25000  0.50000  1.0000
+  Nb  Nb3       1.0  0.78242  0.92918  0.71160  1.0000
+  Nb  Nb4       1.0  0.92918  0.21758  0.14676  1.0000
+  Nb  Nb5       1.0  0.07082  0.78242  0.85324  1.0000
+  Nb  Nb6       1.0  0.21758  0.07082  0.28840  1.0000
+  Nb  Nb7       1.0  0.57082  0.71758  0.28840  1.0000
+  Nb  Nb8       1.0  0.42918  0.28242  0.71160  1.0000
+  Nb  Nb9       1.0  0.28242  0.57082  0.85324  1.0000
+  Nb  Nb10      1.0  0.71758  0.42918  0.14676  1.0000
+  Ga  Ga1       1.0  0.75000  0.75000  0.00000  1.0000
+  Ga  Ga2       1.0  0.25000  0.25000  0.00000  1.0000
+  Sn  Sn1       1.0  0.33125  0.83125  0.16250  1.0000
+  Sn  Sn2       1.0  0.83125  0.66875  0.50000  1.0000
+  Sn  Sn3       1.0  0.16875  0.33125  0.50000  1.0000
+  Sn  Sn4       1.0  0.66875  0.16875  0.83750  1.0000

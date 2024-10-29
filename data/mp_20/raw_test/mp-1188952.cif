@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm4Ge10Pt6
+_chemical_formula_sum              "Sm4 Ge10 Pt6"
+_cell_length_a       8.46652
+_cell_length_b       8.46652
+_cell_length_c       8.46652
+_cell_angle_alpha    136.156
+_cell_angle_beta     105.312
+_cell_angle_gamma    90.8418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.59869  0.36918  0.22950  1.0000
+  Sm  Sm2       1.0  0.40131  0.63082  0.77050  1.0000
+  Sm  Sm3       1.0  0.13968  0.86918  0.27049  1.0000
+  Sm  Sm4       1.0  0.86032  0.13082  0.72950  1.0000
+  Ge  Ge1       1.0  0.50000  0.25000  0.75000  1.0000
+  Ge  Ge2       1.0  0.50000  0.75000  0.25000  1.0000
+  Ge  Ge3       1.0  0.22794  0.47794  0.25000  1.0000
+  Ge  Ge4       1.0  0.77206  0.02206  0.25000  1.0000
+  Ge  Ge5       1.0  0.77206  0.52206  0.75000  1.0000
+  Ge  Ge6       1.0  0.22794  0.97794  0.75000  1.0000
+  Ge  Ge7       1.0  0.95001  0.60489  0.34511  1.0000
+  Ge  Ge8       1.0  0.04999  0.39511  0.65489  1.0000
+  Ge  Ge9       1.0  0.25978  0.10489  0.15489  1.0000
+  Ge  Ge10      1.0  0.74022  0.89511  0.84511  1.0000
+  Pt  Pt1       1.0  0.00000  0.75000  0.75000  1.0000
+  Pt  Pt2       1.0  0.00000  0.25000  0.25000  1.0000
+  Pt  Pt3       1.0  0.52749  0.13869  0.38879  1.0000
+  Pt  Pt4       1.0  0.47251  0.86131  0.61121  1.0000
+  Pt  Pt5       1.0  0.74990  0.63869  0.11121  1.0000
+  Pt  Pt6       1.0  0.25010  0.36131  0.88879  1.0000

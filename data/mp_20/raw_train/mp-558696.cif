@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cu4Te4O12
+_chemical_formula_sum              "Cu4 Te4 O12"
+_cell_length_a       9.35622
+_cell_length_b       5.29052
+_cell_length_c       7.5691
+_cell_angle_alpha    51.9351
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.48428  0.62159  0.63995  1.0000
+  Cu  Cu2       1.0  0.01572  0.62159  0.13995  1.0000
+  Cu  Cu3       1.0  0.51572  0.37841  0.36005  1.0000
+  Cu  Cu4       1.0  0.98428  0.37841  0.86005  1.0000
+  Te  Te1       1.0  0.78971  0.83695  0.41034  1.0000
+  Te  Te2       1.0  0.21029  0.16305  0.58966  1.0000
+  Te  Te3       1.0  0.28971  0.16305  0.08966  1.0000
+  Te  Te4       1.0  0.71029  0.83695  0.91034  1.0000
+  O   O1        1.0  0.86217  0.41942  0.64146  1.0000
+  O   O2        1.0  0.39741  0.32167  0.59659  1.0000
+  O   O3        1.0  0.64917  0.84299  0.64965  1.0000
+  O   O4        1.0  0.89741  0.67833  0.90341  1.0000
+  O   O5        1.0  0.14917  0.15701  0.85035  1.0000
+  O   O6        1.0  0.85083  0.84299  0.14965  1.0000
+  O   O7        1.0  0.36217  0.58057  0.85854  1.0000
+  O   O8        1.0  0.13783  0.58058  0.35854  1.0000
+  O   O9        1.0  0.10259  0.32167  0.09658  1.0000
+  O   O10       1.0  0.60259  0.67833  0.40342  1.0000
+  O   O11       1.0  0.63783  0.41942  0.14146  1.0000
+  O   O12       1.0  0.35083  0.15701  0.35035  1.0000

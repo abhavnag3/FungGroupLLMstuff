@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       B8Mo8Ir4
+_chemical_formula_sum              "B8 Mo8 Ir4"
+_cell_length_a       3.25741
+_cell_length_b       7.41216
+_cell_length_c       9.45572
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.50000  0.12456  0.26295  1.0000
+  B   B2        1.0  0.00000  0.61624  0.04025  1.0000
+  B   B3        1.0  0.00000  0.38376  0.95975  1.0000
+  B   B4        1.0  0.00000  0.37544  0.76295  1.0000
+  B   B5        1.0  0.50000  0.11624  0.45975  1.0000
+  B   B6        1.0  0.00000  0.62456  0.23705  1.0000
+  B   B7        1.0  0.50000  0.87544  0.73705  1.0000
+  B   B8        1.0  0.50000  0.88376  0.54025  1.0000
+  Mo  Mo1       1.0  0.50000  0.42786  0.13798  1.0000
+  Mo  Mo2       1.0  0.00000  0.07214  0.63798  1.0000
+  Mo  Mo3       1.0  0.00000  0.68999  0.63050  1.0000
+  Mo  Mo4       1.0  0.50000  0.81001  0.13050  1.0000
+  Mo  Mo5       1.0  0.50000  0.18999  0.86950  1.0000
+  Mo  Mo6       1.0  0.00000  0.31001  0.36950  1.0000
+  Mo  Mo7       1.0  0.50000  0.57214  0.86202  1.0000
+  Mo  Mo8       1.0  0.00000  0.92786  0.36202  1.0000
+  Ir  Ir1       1.0  0.50000  0.62081  0.38883  1.0000
+  Ir  Ir2       1.0  0.00000  0.12081  0.11117  1.0000
+  Ir  Ir3       1.0  0.00000  0.87919  0.88883  1.0000
+  Ir  Ir4       1.0  0.50000  0.37919  0.61117  1.0000

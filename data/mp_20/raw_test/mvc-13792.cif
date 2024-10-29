@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ca4W2N4
+_chemical_formula_sum              "Ca4 W2 N4"
+_cell_length_a       6.09622
+_cell_length_b       6.09622
+_cell_length_c       6.60971
+_cell_angle_alpha    65.6484
+_cell_angle_beta     65.6484
+_cell_angle_gamma    50.2102
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.32206  0.32206  0.62928  1.0000
+  Ca  Ca2       1.0  0.67794  0.67794  0.37072  1.0000
+  Ca  Ca3       1.0  0.97483  0.97483  0.76761  1.0000
+  Ca  Ca4       1.0  0.02517  0.02517  0.23239  1.0000
+  W   W1        1.0  0.64367  0.64367  0.86941  1.0000
+  W   W2        1.0  0.35633  0.35633  0.13059  1.0000
+  N   N1        1.0  0.81682  0.81682  0.61430  1.0000
+  N   N2        1.0  0.18318  0.18318  0.38570  1.0000
+  N   N3        1.0  0.50250  0.50250  0.21822  1.0000
+  N   N4        1.0  0.49750  0.49750  0.78178  1.0000

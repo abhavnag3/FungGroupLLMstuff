@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn2Fe2F10
+_chemical_formula_sum              "Zn2 Fe2 F10"
+_cell_length_a       5.34944
+_cell_length_b       5.34944
+_cell_length_c       7.63556
+_cell_angle_alpha    68.7732
+_cell_angle_beta     68.7732
+_cell_angle_gamma    71.9116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.52660  0.47340  0.25000  1.0000
+  Zn  Zn2       1.0  0.47340  0.52660  0.75000  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.11401  0.88599  0.75000  1.0000
+  F   F2        1.0  0.88599  0.11401  0.25000  1.0000
+  F   F3        1.0  0.72395  0.78167  0.63537  1.0000
+  F   F4        1.0  0.21833  0.27605  0.86463  1.0000
+  F   F5        1.0  0.68722  0.28538  0.95507  1.0000
+  F   F6        1.0  0.71462  0.31278  0.54493  1.0000
+  F   F7        1.0  0.31278  0.71462  0.04493  1.0000
+  F   F8        1.0  0.28538  0.68722  0.45507  1.0000
+  F   F9        1.0  0.78167  0.72395  0.13537  1.0000
+  F   F10       1.0  0.27605  0.21833  0.36463  1.0000

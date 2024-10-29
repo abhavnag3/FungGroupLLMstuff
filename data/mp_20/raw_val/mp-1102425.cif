@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Lu3Cu4Ge4
+_chemical_formula_sum              "Lu3 Cu4 Ge4"
+_cell_length_a       4.11536
+_cell_length_b       6.53852
+_cell_length_c       7.83936
+_cell_angle_alpha    114.647
+_cell_angle_beta     105.217
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00000  0.50000  0.00000  1.0000
+  Lu  Lu2       1.0  0.87060  0.87060  0.74119  1.0000
+  Lu  Lu3       1.0  0.12940  0.12940  0.25881  1.0000
+  Cu  Cu1       1.0  0.66907  0.47764  0.33813  1.0000
+  Cu  Cu2       1.0  0.66907  0.86049  0.33813  1.0000
+  Cu  Cu3       1.0  0.33093  0.13951  0.66187  1.0000
+  Cu  Cu4       1.0  0.33093  0.52236  0.66187  1.0000
+  Ge  Ge1       1.0  0.78555  0.28555  0.57110  1.0000
+  Ge  Ge2       1.0  0.21445  0.71445  0.42890  1.0000
+  Ge  Ge3       1.0  0.50000  0.80772  0.00000  1.0000
+  Ge  Ge4       1.0  0.50000  0.19228  0.00000  1.0000

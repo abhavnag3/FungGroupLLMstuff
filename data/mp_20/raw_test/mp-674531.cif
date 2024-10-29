@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li10Ge2P6
+_chemical_formula_sum              "Li10 Ge2 P6"
+_cell_length_a       7.1569
+_cell_length_b       7.1569
+_cell_length_c       8.54755
+_cell_angle_alpha    72.9305
+_cell_angle_beta     72.9305
+_cell_angle_gamma    48.9218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.41977  0.90003  0.42484  1.0000
+  Li  Li2       1.0  0.42036  0.92234  0.90471  1.0000
+  Li  Li3       1.0  0.74731  0.24611  0.74691  1.0000
+  Li  Li4       1.0  0.75567  0.24105  0.26046  1.0000
+  Li  Li5       1.0  0.92234  0.42036  0.40471  1.0000
+  Li  Li6       1.0  0.09048  0.57101  0.07246  1.0000
+  Li  Li7       1.0  0.90003  0.41977  0.92484  1.0000
+  Li  Li8       1.0  0.24105  0.75567  0.76046  1.0000
+  Li  Li9       1.0  0.57101  0.09048  0.57246  1.0000
+  Li  Li10      1.0  0.24611  0.74731  0.24691  1.0000
+  Ge  Ge1       1.0  0.04167  0.62105  0.62220  1.0000
+  Ge  Ge2       1.0  0.62105  0.04167  0.12220  1.0000
+  P   P1        1.0  0.97028  0.01066  0.00679  1.0000
+  P   P2        1.0  0.69416  0.64990  0.65653  1.0000
+  P   P3        1.0  0.01066  0.97028  0.50679  1.0000
+  P   P4        1.0  0.34597  0.31694  0.31038  1.0000
+  P   P5        1.0  0.64990  0.69416  0.15653  1.0000
+  P   P6        1.0  0.31694  0.34597  0.81038  1.0000

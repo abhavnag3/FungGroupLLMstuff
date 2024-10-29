@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Te4O4F8
+_chemical_formula_sum              "Te4 O4 F8"
+_cell_length_a       8.36548
+_cell_length_b       5.45577
+_cell_length_c       5.69716
+_cell_angle_alpha    83.5747
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.14745  0.48031  0.34781  1.0000
+  Te  Te2       1.0  0.91070  0.87300  0.96475  1.0000
+  Te  Te3       1.0  0.64745  0.51969  0.65219  1.0000
+  Te  Te4       1.0  0.41070  0.12700  0.03525  1.0000
+  O   O1        1.0  0.60562  0.30588  0.94519  1.0000
+  O   O2        1.0  0.85316  0.60579  0.77465  1.0000
+  O   O3        1.0  0.10562  0.69412  0.05481  1.0000
+  O   O4        1.0  0.35316  0.39421  0.22535  1.0000
+  F   F1        1.0  0.33088  0.34101  0.72861  1.0000
+  F   F2        1.0  0.83088  0.65899  0.27139  1.0000
+  F   F3        1.0  0.04637  0.00208  0.70084  1.0000
+  F   F4        1.0  0.76486  0.23317  0.56501  1.0000
+  F   F5        1.0  0.54637  0.99792  0.29916  1.0000
+  F   F6        1.0  0.56947  0.80769  0.84046  1.0000
+  F   F7        1.0  0.26486  0.76683  0.43499  1.0000
+  F   F8        1.0  0.06947  0.19231  0.15954  1.0000

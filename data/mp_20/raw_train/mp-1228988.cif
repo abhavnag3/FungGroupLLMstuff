@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Al5Ag15
+_chemical_formula_sum              "Al5 Ag15"
+_cell_length_a       7.05123
+_cell_length_b       7.05123
+_cell_length_c       7.05123
+_cell_angle_alpha    90.2477
+_cell_angle_beta     90.2477
+_cell_angle_gamma    90.2477
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.68819  0.68819  0.68819  1.0000
+  Al  Al2       1.0  0.19038  0.31720  0.80587  1.0000
+  Al  Al3       1.0  0.31720  0.80587  0.19038  1.0000
+  Al  Al4       1.0  0.80587  0.19038  0.31720  1.0000
+  Al  Al5       1.0  0.05823  0.05823  0.05823  1.0000
+  Ag  Ag1       1.0  0.45265  0.19819  0.13104  1.0000
+  Ag  Ag2       1.0  0.19819  0.13104  0.45265  1.0000
+  Ag  Ag3       1.0  0.13104  0.45265  0.19819  1.0000
+  Ag  Ag4       1.0  0.96123  0.80362  0.36410  1.0000
+  Ag  Ag5       1.0  0.70298  0.87448  0.04143  1.0000
+  Ag  Ag6       1.0  0.63152  0.54227  0.29943  1.0000
+  Ag  Ag7       1.0  0.54227  0.29943  0.63152  1.0000
+  Ag  Ag8       1.0  0.80362  0.36410  0.96123  1.0000
+  Ag  Ag9       1.0  0.87448  0.04143  0.70298  1.0000
+  Ag  Ag10      1.0  0.04143  0.70298  0.87448  1.0000
+  Ag  Ag11      1.0  0.29943  0.63152  0.54227  1.0000
+  Ag  Ag12      1.0  0.36410  0.96123  0.80362  1.0000
+  Ag  Ag13      1.0  0.56464  0.93515  0.43739  1.0000
+  Ag  Ag14      1.0  0.93515  0.43739  0.56464  1.0000
+  Ag  Ag15      1.0  0.43739  0.56464  0.93515  1.0000

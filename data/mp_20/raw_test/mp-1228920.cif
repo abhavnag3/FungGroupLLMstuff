@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs2Fe2Cu2F12
+_chemical_formula_sum              "Cs2 Fe2 Cu2 F12"
+_cell_length_a       7.46944
+_cell_length_b       7.46944
+_cell_length_c       7.46944
+_cell_angle_alpha    121.387
+_cell_angle_beta     119.425
+_cell_angle_gamma    89.3067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.37252  0.62252  0.75000  1.0000
+  Cs  Cs2       1.0  0.62748  0.37748  0.25000  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.00000  0.50000  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu2       1.0  0.00000  0.50000  0.00000  1.0000
+  F   F1        1.0  0.31524  0.06524  0.25000  1.0000
+  F   F2        1.0  0.93220  0.68220  0.25000  1.0000
+  F   F3        1.0  0.32843  0.68698  0.25771  1.0000
+  F   F4        1.0  0.92927  0.07071  0.24229  1.0000
+  F   F5        1.0  0.32843  0.07071  0.64144  1.0000
+  F   F6        1.0  0.92927  0.68698  0.85856  1.0000
+  F   F7        1.0  0.68476  0.93476  0.75000  1.0000
+  F   F8        1.0  0.06780  0.31780  0.75000  1.0000
+  F   F9        1.0  0.67157  0.31301  0.74229  1.0000
+  F   F10       1.0  0.07073  0.92929  0.75771  1.0000
+  F   F11       1.0  0.67157  0.92929  0.35856  1.0000
+  F   F12       1.0  0.07073  0.31301  0.14144  1.0000

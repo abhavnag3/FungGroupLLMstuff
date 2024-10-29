@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Dy4Sc4S12
+_chemical_formula_sum              "Dy4 Sc4 S12"
+_cell_length_a       6.365
+_cell_length_b       7.00208
+_cell_length_c       9.55936
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.04194  0.60417  0.25000  1.0000
+  Dy  Dy2       1.0  0.45806  0.10417  0.25000  1.0000
+  Dy  Dy3       1.0  0.95806  0.39583  0.75000  1.0000
+  Dy  Dy4       1.0  0.54194  0.89583  0.75000  1.0000
+  Sc  Sc1       1.0  0.50000  0.50000  0.50000  1.0000
+  Sc  Sc2       1.0  0.50000  0.50000  0.00000  1.0000
+  Sc  Sc3       1.0  0.00000  0.00000  0.50000  1.0000
+  Sc  Sc4       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.17344  0.31738  0.07081  1.0000
+  S   S2        1.0  0.32655  0.81738  0.07081  1.0000
+  S   S3        1.0  0.67344  0.18262  0.57081  1.0000
+  S   S4        1.0  0.82656  0.68262  0.92919  1.0000
+  S   S5        1.0  0.64463  0.45349  0.25000  1.0000
+  S   S6        1.0  0.35537  0.54651  0.75000  1.0000
+  S   S7        1.0  0.82656  0.68262  0.57081  1.0000
+  S   S8        1.0  0.17344  0.31738  0.42919  1.0000
+  S   S9        1.0  0.32655  0.81738  0.42919  1.0000
+  S   S10       1.0  0.67344  0.18262  0.92919  1.0000
+  S   S11       1.0  0.14463  0.04651  0.75000  1.0000
+  S   S12       1.0  0.85537  0.95349  0.25000  1.0000

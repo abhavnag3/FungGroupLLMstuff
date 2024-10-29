@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ce2V2O8
+_chemical_formula_sum              "Ce2 V2 O8"
+_cell_length_a       5.19159
+_cell_length_b       5.19159
+_cell_length_c       6.73766
+_cell_angle_alpha    112.66
+_cell_angle_beta     112.66
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.62500  0.87500  0.25000  1.0000
+  Ce  Ce2       1.0  0.37500  0.12500  0.75000  1.0000
+  V   V1        1.0  0.12500  0.37500  0.25000  1.0000
+  V   V2        1.0  0.87500  0.62500  0.75000  1.0000
+  O   O1        1.0  0.35892  0.71615  0.41005  1.0000
+  O   O2        1.0  0.05113  0.19390  0.41005  1.0000
+  O   O3        1.0  0.21615  0.55113  0.91005  1.0000
+  O   O4        1.0  0.69390  0.85892  0.91005  1.0000
+  O   O5        1.0  0.64108  0.28385  0.58995  1.0000
+  O   O6        1.0  0.94887  0.80610  0.58995  1.0000
+  O   O7        1.0  0.78385  0.44887  0.08995  1.0000
+  O   O8        1.0  0.30610  0.14108  0.08995  1.0000

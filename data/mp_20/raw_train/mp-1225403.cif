@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Dy2Cu6Se6
+_chemical_formula_sum              "Dy2 Cu6 Se6"
+_cell_length_a       7.7048
+_cell_length_b       7.7048
+_cell_length_c       7.70481
+_cell_angle_alpha    53.9966
+_cell_angle_beta     53.9966
+_cell_angle_gamma    53.9966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.83381  0.83381  0.83381  1.0000
+  Dy  Dy2       1.0  0.16619  0.16619  0.16619  1.0000
+  Cu  Cu1       1.0  0.97788  0.62705  0.26664  1.0000
+  Cu  Cu2       1.0  0.26663  0.97788  0.62705  1.0000
+  Cu  Cu3       1.0  0.62705  0.26664  0.97788  1.0000
+  Cu  Cu4       1.0  0.37295  0.73337  0.02212  1.0000
+  Cu  Cu5       1.0  0.73337  0.02212  0.37295  1.0000
+  Cu  Cu6       1.0  0.02212  0.37295  0.73337  1.0000
+  Se  Se1       1.0  0.73689  0.42026  0.09805  1.0000
+  Se  Se2       1.0  0.42026  0.09805  0.73689  1.0000
+  Se  Se3       1.0  0.09805  0.73689  0.42026  1.0000
+  Se  Se4       1.0  0.90195  0.26311  0.57974  1.0000
+  Se  Se5       1.0  0.57974  0.90195  0.26311  1.0000
+  Se  Se6       1.0  0.26311  0.57974  0.90195  1.0000

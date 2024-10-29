@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nd4Br8
+_chemical_formula_sum              "Nd4 Br8"
+_cell_length_a       4.06211
+_cell_length_b       6.92264
+_cell_length_c       16.2928
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.25000  0.74079  0.99950  1.0000
+  Nd  Nd2       1.0  0.75000  0.25921  0.00050  1.0000
+  Nd  Nd3       1.0  0.75000  0.75921  0.49950  1.0000
+  Nd  Nd4       1.0  0.25000  0.24079  0.50050  1.0000
+  Br  Br1       1.0  0.25000  0.58424  0.61283  1.0000
+  Br  Br2       1.0  0.75000  0.41576  0.38717  1.0000
+  Br  Br3       1.0  0.75000  0.91576  0.11283  1.0000
+  Br  Br4       1.0  0.25000  0.08424  0.88717  1.0000
+  Br  Br5       1.0  0.25000  0.41298  0.11825  1.0000
+  Br  Br6       1.0  0.75000  0.58702  0.88175  1.0000
+  Br  Br7       1.0  0.75000  0.08702  0.61825  1.0000
+  Br  Br8       1.0  0.25000  0.91298  0.38175  1.0000

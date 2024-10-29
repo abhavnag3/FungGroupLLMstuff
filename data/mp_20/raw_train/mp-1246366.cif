@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zr2Cr2Ag2S8
+_chemical_formula_sum              "Zr2 Cr2 Ag2 S8"
+_cell_length_a       7.14491
+_cell_length_b       6.12202
+_cell_length_c       6.56542
+_cell_angle_alpha    92.2163
+_cell_angle_beta     89.9991
+_cell_angle_gamma    90.0003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.76471  0.50001  0.50000  1.0000
+  Zr  Zr2       1.0  0.48364  0.00001  0.50000  1.0000
+  Cr  Cr1       1.0  0.24770  0.50000  0.50001  1.0000
+  Cr  Cr2       1.0  0.00204  0.99997  0.49999  1.0000
+  Ag  Ag1       1.0  0.00636  0.00000  1.00000  1.0000
+  Ag  Ag2       1.0  0.49343  0.99999  1.00000  1.0000
+  S   S1        1.0  0.01529  0.31597  0.28665  1.0000
+  S   S2        1.0  0.49097  0.33760  0.28005  1.0000
+  S   S3        1.0  0.23607  0.81317  0.28206  1.0000
+  S   S4        1.0  0.75874  0.83621  0.27774  1.0000
+  S   S5        1.0  0.23606  0.18682  0.71796  1.0000
+  S   S6        1.0  0.75874  0.16380  0.72225  1.0000
+  S   S7        1.0  0.49096  0.66241  0.71994  1.0000
+  S   S8        1.0  0.01529  0.68402  0.71336  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2V2Si4O12
+_chemical_formula_sum              "Li2 V2 Si4 O12"
+_cell_length_a       6.62471
+_cell_length_b       6.62471
+_cell_length_c       5.36608
+_cell_angle_alpha    74.4192
+_cell_angle_beta     74.4192
+_cell_angle_gamma    83.7345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.74363  0.25637  0.75000  1.0000
+  Li  Li2       1.0  0.25637  0.74363  0.25000  1.0000
+  V   V1        1.0  0.09786  0.90214  0.75000  1.0000
+  V   V2        1.0  0.90214  0.09786  0.25000  1.0000
+  Si  Si1       1.0  0.20841  0.38714  0.73082  1.0000
+  Si  Si2       1.0  0.79160  0.61286  0.26918  1.0000
+  Si  Si3       1.0  0.38714  0.20841  0.23082  1.0000
+  Si  Si4       1.0  0.61286  0.79160  0.76918  1.0000
+  O   O1        1.0  0.20269  0.03201  0.35089  1.0000
+  O   O2        1.0  0.64116  0.64968  0.06607  1.0000
+  O   O3        1.0  0.35031  0.35885  0.43393  1.0000
+  O   O4        1.0  0.35885  0.35031  0.93393  1.0000
+  O   O5        1.0  0.64969  0.64116  0.56607  1.0000
+  O   O6        1.0  0.88486  0.37427  0.33313  1.0000
+  O   O7        1.0  0.79731  0.96799  0.64911  1.0000
+  O   O8        1.0  0.03201  0.20269  0.85089  1.0000
+  O   O9        1.0  0.62573  0.11514  0.16687  1.0000
+  O   O10       1.0  0.11514  0.62573  0.66687  1.0000
+  O   O11       1.0  0.37427  0.88486  0.83313  1.0000
+  O   O12       1.0  0.96799  0.79731  0.14911  1.0000

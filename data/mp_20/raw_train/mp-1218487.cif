@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       SrCa3Sn4O12
+_chemical_formula_sum              "Sr1 Ca3 Sn4 O12"
+_cell_length_a       8.05073
+_cell_length_b       5.63829
+_cell_length_c       5.76841
+_cell_angle_alpha    89.9736
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.48908  0.45775  1.0000
+  Ca  Ca1       1.0  0.00000  0.01354  0.94966  1.0000
+  Ca  Ca2       1.0  0.50000  0.51056  0.55222  1.0000
+  Ca  Ca3       1.0  0.50000  0.99061  0.04745  1.0000
+  Sn  Sn1       1.0  0.25215  0.49957  0.00126  1.0000
+  Sn  Sn2       1.0  0.74727  0.00032  0.50012  1.0000
+  Sn  Sn3       1.0  0.74785  0.49957  0.00126  1.0000
+  Sn  Sn4       1.0  0.25273  0.00032  0.50012  1.0000
+  O   O1        1.0  0.00000  0.60258  0.02198  1.0000
+  O   O2        1.0  0.00000  0.91879  0.54004  1.0000
+  O   O3        1.0  0.50000  0.39787  0.96271  1.0000
+  O   O4        1.0  0.50000  0.10412  0.45773  1.0000
+  O   O5        1.0  0.19930  0.19533  0.19880  1.0000
+  O   O6        1.0  0.79438  0.29491  0.70848  1.0000
+  O   O7        1.0  0.69464  0.79861  0.79684  1.0000
+  O   O8        1.0  0.30468  0.69768  0.29975  1.0000
+  O   O9        1.0  0.30536  0.79861  0.79684  1.0000
+  O   O10       1.0  0.69532  0.69768  0.29975  1.0000
+  O   O11       1.0  0.80070  0.19533  0.19880  1.0000
+  O   O12       1.0  0.20562  0.29491  0.70848  1.0000

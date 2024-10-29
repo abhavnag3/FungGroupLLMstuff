@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Si3Ge
+_chemical_formula_sum              "Tb2 Si3 Ge1"
+_cell_length_a       3.96827
+_cell_length_b       4.00146
+_cell_length_c       8.12957
+_cell_angle_alpha    75.7529
+_cell_angle_beta     75.8735
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.88040  0.63040  0.73921  1.0000
+  Tb  Tb2       1.0  0.12172  0.37172  0.25655  1.0000
+  Si  Si1       1.0  0.46152  0.21152  0.57697  1.0000
+  Si  Si2       1.0  0.54238  0.79238  0.41525  1.0000
+  Si  Si3       1.0  0.69991  0.94991  0.10018  1.0000
+  Ge  Ge1       1.0  0.29408  0.04408  0.91185  1.0000

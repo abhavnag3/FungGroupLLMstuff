@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ce9Pt6
+_chemical_formula_sum              "Ce9 Pt6"
+_cell_length_a       7.58317
+_cell_length_b       7.58317
+_cell_length_c       7.58317
+_cell_angle_alpha    72.3999
+_cell_angle_beta     72.3999
+_cell_angle_gamma    72.3999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ce  Ce2       1.0  0.20705  0.20705  0.20705  1.0000
+  Ce  Ce3       1.0  0.79295  0.79295  0.79295  1.0000
+  Ce  Ce4       1.0  0.38897  0.66125  0.16710  1.0000
+  Ce  Ce5       1.0  0.66125  0.16710  0.38897  1.0000
+  Ce  Ce6       1.0  0.16710  0.38897  0.66125  1.0000
+  Ce  Ce7       1.0  0.61103  0.33875  0.83290  1.0000
+  Ce  Ce8       1.0  0.33875  0.83290  0.61103  1.0000
+  Ce  Ce9       1.0  0.83290  0.61103  0.33875  1.0000
+  Pt  Pt1       1.0  0.04492  0.84108  0.40615  1.0000
+  Pt  Pt2       1.0  0.84108  0.40615  0.04492  1.0000
+  Pt  Pt3       1.0  0.40615  0.04492  0.84108  1.0000
+  Pt  Pt4       1.0  0.95508  0.15892  0.59385  1.0000
+  Pt  Pt5       1.0  0.15892  0.59385  0.95508  1.0000
+  Pt  Pt6       1.0  0.59385  0.95508  0.15892  1.0000

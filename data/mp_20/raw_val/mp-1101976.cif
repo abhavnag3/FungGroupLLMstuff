@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       V4Ni4As4
+_chemical_formula_sum              "V4 Ni4 As4"
+_cell_length_a       6.02455
+_cell_length_b       3.69976
+_cell_length_c       7.12059
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.02683  0.25000  0.32995  1.0000
+  V   V2        1.0  0.52683  0.25000  0.17005  1.0000
+  V   V3        1.0  0.97317  0.75000  0.67005  1.0000
+  V   V4        1.0  0.47317  0.75000  0.82995  1.0000
+  Ni  Ni1       1.0  0.14625  0.25000  0.93650  1.0000
+  Ni  Ni2       1.0  0.64625  0.25000  0.56350  1.0000
+  Ni  Ni3       1.0  0.85375  0.75000  0.06350  1.0000
+  Ni  Ni4       1.0  0.35375  0.75000  0.43650  1.0000
+  As  As1       1.0  0.25993  0.25000  0.62351  1.0000
+  As  As2       1.0  0.75993  0.25000  0.87649  1.0000
+  As  As3       1.0  0.74007  0.75000  0.37649  1.0000
+  As  As4       1.0  0.24007  0.75000  0.12351  1.0000

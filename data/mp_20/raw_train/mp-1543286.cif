@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2Co2F10
+_chemical_formula_sum              "Mg2 Co2 F10"
+_cell_length_a       5.25051
+_cell_length_b       5.25051
+_cell_length_c       7.37035
+_cell_angle_alpha    69.306
+_cell_angle_beta     69.306
+_cell_angle_gamma    72.1481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.52929  0.47071  0.75000  1.0000
+  Mg  Mg2       1.0  0.47071  0.52929  0.25000  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.12941  0.87059  0.25000  1.0000
+  F   F2        1.0  0.87059  0.12942  0.75000  1.0000
+  F   F3        1.0  0.21694  0.26388  0.37433  1.0000
+  F   F4        1.0  0.73612  0.78306  0.12567  1.0000
+  F   F5        1.0  0.70540  0.31859  0.04888  1.0000
+  F   F6        1.0  0.68141  0.29460  0.45112  1.0000
+  F   F7        1.0  0.29460  0.68141  0.95112  1.0000
+  F   F8        1.0  0.31859  0.70540  0.54888  1.0000
+  F   F9        1.0  0.26388  0.21694  0.87433  1.0000
+  F   F10       1.0  0.78306  0.73612  0.62567  1.0000

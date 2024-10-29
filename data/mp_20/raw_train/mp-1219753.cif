@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pr2Nd2Sb8
+_chemical_formula_sum              "Pr2 Nd2 Sb8"
+_cell_length_a       4.43126
+_cell_length_b       4.43126
+_cell_length_c       18.2743
+_cell_angle_alpha    89.7915
+_cell_angle_beta     89.7915
+_cell_angle_gamma    90.0844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.86413  0.86413  0.38934  1.0000
+  Pr  Pr2       1.0  0.13587  0.13587  0.61066  1.0000
+  Nd  Nd1       1.0  0.63876  0.63876  0.88949  1.0000
+  Nd  Nd2       1.0  0.36124  0.36124  0.11051  1.0000
+  Sb  Sb1       1.0  0.62167  0.12834  0.75064  1.0000
+  Sb  Sb2       1.0  0.87166  0.37833  0.24936  1.0000
+  Sb  Sb3       1.0  0.37833  0.87166  0.24936  1.0000
+  Sb  Sb4       1.0  0.12834  0.62167  0.75064  1.0000
+  Sb  Sb5       1.0  0.63312  0.63312  0.56315  1.0000
+  Sb  Sb6       1.0  0.36688  0.36688  0.43685  1.0000
+  Sb  Sb7       1.0  0.86637  0.86637  0.06371  1.0000
+  Sb  Sb8       1.0  0.13364  0.13364  0.93629  1.0000

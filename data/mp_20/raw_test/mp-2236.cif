@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U8Ir8
+_chemical_formula_sum              "U8 Ir8"
+_cell_length_a       10.5602
+_cell_length_b       5.59437
+_cell_length_c       5.64073
+_cell_angle_alpha    80.6194
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.86125  0.34825  0.86263  1.0000
+  U   U2        1.0  0.36125  0.15175  0.13737  1.0000
+  U   U3        1.0  0.86700  0.91247  0.39421  1.0000
+  U   U4        1.0  0.36700  0.58753  0.60579  1.0000
+  U   U5        1.0  0.13875  0.65175  0.13737  1.0000
+  U   U6        1.0  0.63875  0.84825  0.86263  1.0000
+  U   U7        1.0  0.13300  0.08753  0.60579  1.0000
+  U   U8        1.0  0.63300  0.41247  0.39421  1.0000
+  Ir  Ir1       1.0  0.60018  0.33878  0.90886  1.0000
+  Ir  Ir2       1.0  0.10018  0.16122  0.09114  1.0000
+  Ir  Ir3       1.0  0.60364  0.91214  0.35675  1.0000
+  Ir  Ir4       1.0  0.10364  0.58786  0.64325  1.0000
+  Ir  Ir5       1.0  0.39982  0.66122  0.09114  1.0000
+  Ir  Ir6       1.0  0.89982  0.83878  0.90886  1.0000
+  Ir  Ir7       1.0  0.39636  0.08786  0.64325  1.0000
+  Ir  Ir8       1.0  0.89636  0.41214  0.35675  1.0000

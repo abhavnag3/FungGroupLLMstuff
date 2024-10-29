@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn6Cr6P4
+_chemical_formula_sum              "Mn6 Cr6 P4"
+_cell_length_a       6.73806
+_cell_length_b       6.73806
+_cell_length_c       8.99605
+_cell_angle_alpha    48.2855
+_cell_angle_beta     48.2855
+_cell_angle_gamma    38.3554
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.40638  0.93233  0.05254  1.0000
+  Mn  Mn2       1.0  0.06767  0.59362  0.94746  1.0000
+  Mn  Mn3       1.0  0.02219  0.04700  0.60980  1.0000
+  Mn  Mn4       1.0  0.95300  0.97781  0.39020  1.0000
+  Mn  Mn5       1.0  0.36219  0.34240  0.67536  1.0000
+  Mn  Mn6       1.0  0.65760  0.63781  0.32464  1.0000
+  Cr  Cr1       1.0  0.33526  0.87049  0.81988  1.0000
+  Cr  Cr2       1.0  0.12951  0.66474  0.18012  1.0000
+  Cr  Cr3       1.0  0.85257  0.30252  0.02781  1.0000
+  Cr  Cr4       1.0  0.69748  0.14744  0.97218  1.0000
+  Cr  Cr5       1.0  0.98321  0.46103  0.60666  1.0000
+  Cr  Cr6       1.0  0.53897  0.01679  0.39334  1.0000
+  P   P1        1.0  0.53404  0.54485  0.66557  1.0000
+  P   P2        1.0  0.45515  0.46596  0.33443  1.0000
+  P   P3        1.0  0.79674  0.79197  0.75341  1.0000
+  P   P4        1.0  0.20803  0.20326  0.24658  1.0000

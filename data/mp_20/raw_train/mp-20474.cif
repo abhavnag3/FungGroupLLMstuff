@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn2Cu4Ge2S8
+_chemical_formula_sum              "Mn2 Cu4 Ge2 S8"
+_cell_length_a       6.23958
+_cell_length_b       6.50448
+_cell_length_c       7.59316
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50233  0.84090  0.00000  1.0000
+  Mn  Mn2       1.0  0.00233  0.15910  0.50000  1.0000
+  Cu  Cu1       1.0  0.00952  0.67517  0.75120  1.0000
+  Cu  Cu2       1.0  0.00952  0.67517  0.24880  1.0000
+  Cu  Cu3       1.0  0.50952  0.32483  0.25120  1.0000
+  Cu  Cu4       1.0  0.50952  0.32483  0.74880  1.0000
+  Ge  Ge1       1.0  0.50197  0.82647  0.50000  1.0000
+  Ge  Ge2       1.0  0.00197  0.17353  0.00000  1.0000
+  S   S1        1.0  0.37723  0.65900  0.74182  1.0000
+  S   S2        1.0  0.87723  0.34100  0.75818  1.0000
+  S   S3        1.0  0.87723  0.34100  0.24182  1.0000
+  S   S4        1.0  0.37723  0.65900  0.25818  1.0000
+  S   S5        1.0  0.36680  0.18388  0.00000  1.0000
+  S   S6        1.0  0.88680  0.84266  0.00000  1.0000
+  S   S7        1.0  0.86680  0.81612  0.50000  1.0000
+  S   S8        1.0  0.38680  0.15734  0.50000  1.0000

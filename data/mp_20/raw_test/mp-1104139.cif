@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ta5Ni4P4
+_chemical_formula_sum              "Ta5 Ni4 P4"
+_cell_length_a       7.23232
+_cell_length_b       7.23232
+_cell_length_c       7.23232
+_cell_angle_alpha    93.4108
+_cell_angle_beta     93.4108
+_cell_angle_gamma    151.765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.86957  0.19468  0.06425  1.0000
+  Ta  Ta2       1.0  0.13043  0.80532  0.93575  1.0000
+  Ta  Ta3       1.0  0.19468  0.13043  0.32511  1.0000
+  Ta  Ta4       1.0  0.80532  0.86957  0.67489  1.0000
+  Ta  Ta5       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni1       1.0  0.61057  0.08752  0.69809  1.0000
+  Ni  Ni2       1.0  0.38943  0.91248  0.30191  1.0000
+  Ni  Ni3       1.0  0.08752  0.38943  0.47695  1.0000
+  Ni  Ni4       1.0  0.91248  0.61057  0.52305  1.0000
+  P   P1        1.0  0.75838  0.44394  0.20232  1.0000
+  P   P2        1.0  0.24162  0.55606  0.79768  1.0000
+  P   P3        1.0  0.44394  0.24162  0.68556  1.0000
+  P   P4        1.0  0.55606  0.75838  0.31444  1.0000

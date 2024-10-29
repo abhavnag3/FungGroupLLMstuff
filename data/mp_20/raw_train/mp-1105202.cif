@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba4In2Bi2Se10
+_chemical_formula_sum              "Ba4 In2 Bi2 Se10"
+_cell_length_a       9.97105
+_cell_length_b       9.97105
+_cell_length_c       13.4281
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    154.63
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.38682  0.61318  0.14588  1.0000
+  Ba  Ba2       1.0  0.61318  0.38682  0.64588  1.0000
+  Ba  Ba3       1.0  0.62815  0.37185  0.01976  1.0000
+  Ba  Ba4       1.0  0.37185  0.62815  0.51975  1.0000
+  In  In1       1.0  0.94080  0.05920  0.88828  1.0000
+  In  In2       1.0  0.05920  0.94080  0.38828  1.0000
+  Bi  Bi1       1.0  0.28268  0.71732  0.80899  1.0000
+  Bi  Bi2       1.0  0.71732  0.28268  0.30899  1.0000
+  Se  Se1       1.0  0.78346  0.21654  0.66361  1.0000
+  Se  Se2       1.0  0.21654  0.78346  0.16361  1.0000
+  Se  Se3       1.0  0.00339  0.99661  0.05748  1.0000
+  Se  Se4       1.0  0.99661  0.00339  0.55748  1.0000
+  Se  Se5       1.0  0.45412  0.54588  0.77608  1.0000
+  Se  Se6       1.0  0.54588  0.45412  0.27608  1.0000
+  Se  Se7       1.0  0.14178  0.85822  0.83025  1.0000
+  Se  Se8       1.0  0.85822  0.14178  0.33025  1.0000
+  Se  Se9       1.0  0.81253  0.18747  0.96410  1.0000
+  Se  Se10      1.0  0.18747  0.81253  0.46410  1.0000

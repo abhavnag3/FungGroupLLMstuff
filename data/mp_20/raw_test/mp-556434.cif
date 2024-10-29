@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ag2Bi2P4S12
+_chemical_formula_sum              "Ag2 Bi2 P4 S12"
+_cell_length_a       6.50044
+_cell_length_b       7.46078
+_cell_length_c       9.9294
+_cell_angle_alpha    94.9583
+_cell_angle_beta     90.9393
+_cell_angle_gamma    95.5004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.06515  0.01328  0.30343  1.0000
+  Ag  Ag2       1.0  0.93485  0.98672  0.69657  1.0000
+  Bi  Bi1       1.0  0.52909  0.35921  0.77599  1.0000
+  Bi  Bi2       1.0  0.47091  0.64079  0.22401  1.0000
+  P   P1        1.0  0.94259  0.60709  0.07283  1.0000
+  P   P2        1.0  0.44204  0.88433  0.56118  1.0000
+  P   P3        1.0  0.55796  0.11567  0.43882  1.0000
+  P   P4        1.0  0.05741  0.39291  0.92717  1.0000
+  S   S1        1.0  0.17905  0.81278  0.08425  1.0000
+  S   S2        1.0  0.67659  0.73409  0.59434  1.0000
+  S   S3        1.0  0.12731  0.50337  0.75452  1.0000
+  S   S4        1.0  0.32341  0.26591  0.40566  1.0000
+  S   S5        1.0  0.69004  0.69197  0.97839  1.0000
+  S   S6        1.0  0.67207  0.98972  0.26333  1.0000
+  S   S7        1.0  0.82095  0.18722  0.91575  1.0000
+  S   S8        1.0  0.32793  0.01028  0.73667  1.0000
+  S   S9        1.0  0.87269  0.49663  0.24548  1.0000
+  S   S10       1.0  0.30996  0.30804  0.02161  1.0000
+  S   S11       1.0  0.79207  0.25577  0.55327  1.0000
+  S   S12       1.0  0.20792  0.74423  0.44673  1.0000

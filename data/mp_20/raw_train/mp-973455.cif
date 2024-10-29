@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li2Mg4
+_chemical_formula_sum              "Li2 Mg4"
+_cell_length_a       5.73124
+_cell_length_b       5.73124
+_cell_length_c       7.13495
+_cell_angle_alpha    71.7792
+_cell_angle_beta     71.7792
+_cell_angle_gamma    34.7176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.16923  0.16923  0.43552  1.0000
+  Li  Li2       1.0  0.83077  0.83077  0.56448  1.0000
+  Mg  Mg1       1.0  0.48747  0.48746  0.73724  1.0000
+  Mg  Mg2       1.0  0.17032  0.17032  0.89463  1.0000
+  Mg  Mg3       1.0  0.82968  0.82968  0.10537  1.0000
+  Mg  Mg4       1.0  0.51253  0.51253  0.26276  1.0000

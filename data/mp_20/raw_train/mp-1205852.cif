@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tb4Cl6
+_chemical_formula_sum              "Tb4 Cl6"
+_cell_length_a       8.0909
+_cell_length_b       8.0909
+_cell_length_c       10.3588
+_cell_angle_alpha    61.662
+_cell_angle_beta     61.662
+_cell_angle_gamma    27.8087
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.91404  0.91404  0.45042  1.0000
+  Tb  Tb2       1.0  0.08596  0.08596  0.54958  1.0000
+  Tb  Tb3       1.0  0.63778  0.63779  0.20905  1.0000
+  Tb  Tb4       1.0  0.36221  0.36222  0.79095  1.0000
+  Cl  Cl1       1.0  0.83907  0.83907  0.00739  1.0000
+  Cl  Cl2       1.0  0.16093  0.16093  0.99261  1.0000
+  Cl  Cl3       1.0  0.72453  0.72453  0.38292  1.0000
+  Cl  Cl4       1.0  0.27547  0.27547  0.61708  1.0000
+  Cl  Cl5       1.0  0.45551  0.45551  0.23751  1.0000
+  Cl  Cl6       1.0  0.54449  0.54449  0.76249  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4Li4Cl8
+_chemical_formula_sum              "Cs4 Li4 Cl8"
+_cell_length_a       7.8562
+_cell_length_b       7.8562
+_cell_length_c       9.86451
+_cell_angle_alpha    86.8208
+_cell_angle_beta     86.8208
+_cell_angle_gamma    124.164
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.17909  0.36786  0.43442  1.0000
+  Cs  Cs2       1.0  0.63214  0.82091  0.06558  1.0000
+  Cs  Cs3       1.0  0.82091  0.63214  0.56558  1.0000
+  Cs  Cs4       1.0  0.36786  0.17909  0.93442  1.0000
+  Li  Li1       1.0  0.93956  0.54436  0.13461  1.0000
+  Li  Li2       1.0  0.45564  0.06044  0.36539  1.0000
+  Li  Li3       1.0  0.06044  0.45564  0.86539  1.0000
+  Li  Li4       1.0  0.54436  0.93956  0.63461  1.0000
+  Cl  Cl1       1.0  0.39278  0.60722  0.75000  1.0000
+  Cl  Cl2       1.0  0.60722  0.39278  0.25000  1.0000
+  Cl  Cl3       1.0  0.06938  0.33843  0.08921  1.0000
+  Cl  Cl4       1.0  0.66157  0.93062  0.41079  1.0000
+  Cl  Cl5       1.0  0.93062  0.66157  0.91079  1.0000
+  Cl  Cl6       1.0  0.33843  0.06938  0.58921  1.0000
+  Cl  Cl7       1.0  0.18549  0.81451  0.25000  1.0000
+  Cl  Cl8       1.0  0.81451  0.18549  0.75000  1.0000

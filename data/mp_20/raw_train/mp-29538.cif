@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Gd2Cl10
+_chemical_formula_sum              "Ba2 Gd2 Cl10"
+_cell_length_a       10.1293
+_cell_length_b       10.1293
+_cell_length_c       6.93225
+_cell_angle_alpha    89.1002
+_cell_angle_beta     89.1002
+_cell_angle_gamma    148.051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.32777  0.67223  0.75000  1.0000
+  Ba  Ba2       1.0  0.67223  0.32777  0.25000  1.0000
+  Gd  Gd1       1.0  0.07657  0.92343  0.75000  1.0000
+  Gd  Gd2       1.0  0.92343  0.07657  0.25000  1.0000
+  Cl  Cl1       1.0  0.62676  0.37324  0.75000  1.0000
+  Cl  Cl2       1.0  0.37324  0.62676  0.25000  1.0000
+  Cl  Cl3       1.0  0.79065  0.72597  0.09671  1.0000
+  Cl  Cl4       1.0  0.27403  0.20935  0.40329  1.0000
+  Cl  Cl5       1.0  0.80478  0.18081  0.99888  1.0000
+  Cl  Cl6       1.0  0.81919  0.19522  0.50112  1.0000
+  Cl  Cl7       1.0  0.19522  0.81919  0.00112  1.0000
+  Cl  Cl8       1.0  0.18081  0.80478  0.49888  1.0000
+  Cl  Cl9       1.0  0.72597  0.79065  0.59671  1.0000
+  Cl  Cl10      1.0  0.20935  0.27403  0.90329  1.0000

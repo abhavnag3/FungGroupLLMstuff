@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na3LiV4O12
+_chemical_formula_sum              "Na3 Li1 V4 O12"
+_cell_length_a       7.09178
+_cell_length_b       7.09178
+_cell_length_c       5.92494
+_cell_angle_alpha    75.7408
+_cell_angle_beta     75.7408
+_cell_angle_gamma    83.264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.28863  0.71137  0.50000  1.0000
+  Na  Na2       1.0  0.71150  0.28850  0.00000  1.0000
+  Na  Na3       1.0  0.08449  0.91551  0.00000  1.0000
+  Li  Li1       1.0  0.91015  0.08985  0.50000  1.0000
+  V   V1        1.0  0.80205  0.61637  0.50432  1.0000
+  V   V2        1.0  0.38363  0.19795  0.49568  1.0000
+  V   V3        1.0  0.19809  0.37872  0.99994  1.0000
+  V   V4        1.0  0.62128  0.80191  0.00006  1.0000
+  O   O1        1.0  0.65334  0.64382  0.28450  1.0000
+  O   O2        1.0  0.35618  0.34666  0.71550  1.0000
+  O   O3        1.0  0.35179  0.35869  0.21341  1.0000
+  O   O4        1.0  0.64131  0.64821  0.78659  1.0000
+  O   O5        1.0  0.89797  0.38677  0.55977  1.0000
+  O   O6        1.0  0.61323  0.10203  0.44023  1.0000
+  O   O7        1.0  0.10068  0.60543  0.93525  1.0000
+  O   O8        1.0  0.39457  0.89932  0.06475  1.0000
+  O   O9        1.0  0.97338  0.78086  0.41680  1.0000
+  O   O10       1.0  0.21914  0.02662  0.58320  1.0000
+  O   O11       1.0  0.01991  0.22132  0.10553  1.0000
+  O   O12       1.0  0.77868  0.98009  0.89447  1.0000

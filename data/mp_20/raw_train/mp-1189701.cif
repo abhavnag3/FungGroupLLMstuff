@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr4Hg12
+_chemical_formula_sum              "Sr4 Hg12"
+_cell_length_a       9.93122
+_cell_length_b       6.86701
+_cell_length_c       6.79057
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000  0.03309  0.00889  1.0000
+  Sr  Sr2       1.0  0.25000  0.46691  0.50889  1.0000
+  Sr  Sr3       1.0  0.75000  0.96691  0.99111  1.0000
+  Sr  Sr4       1.0  0.75000  0.53309  0.49111  1.0000
+  Hg  Hg1       1.0  0.99016  0.23045  0.73237  1.0000
+  Hg  Hg2       1.0  0.50984  0.26955  0.23237  1.0000
+  Hg  Hg3       1.0  0.49016  0.76955  0.26763  1.0000
+  Hg  Hg4       1.0  0.00984  0.73045  0.76763  1.0000
+  Hg  Hg5       1.0  0.00984  0.76955  0.26763  1.0000
+  Hg  Hg6       1.0  0.49016  0.73045  0.76763  1.0000
+  Hg  Hg7       1.0  0.50984  0.23045  0.73237  1.0000
+  Hg  Hg8       1.0  0.99016  0.26955  0.23237  1.0000
+  Hg  Hg9       1.0  0.25000  0.97158  0.51299  1.0000
+  Hg  Hg10      1.0  0.25000  0.52842  0.01299  1.0000
+  Hg  Hg11      1.0  0.75000  0.02842  0.48701  1.0000
+  Hg  Hg12      1.0  0.75000  0.47158  0.98701  1.0000

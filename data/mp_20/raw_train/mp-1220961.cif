@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na4Pd4F12
+_chemical_formula_sum              "Na4 Pd4 F12"
+_cell_length_a       6.79801
+_cell_length_b       6.90289
+_cell_length_c       7.51818
+_cell_angle_alpha    62.8893
+_cell_angle_beta     105.718
+_cell_angle_gamma    89.2302
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50464  0.75972  0.00178  1.0000
+  Na  Na2       1.0  0.49536  0.24028  0.99821  1.0000
+  Na  Na3       1.0  0.00000  0.50000  0.00000  1.0000
+  Na  Na4       1.0  0.00000  0.50000  0.50000  1.0000
+  Pd  Pd1       1.0  0.52285  0.73983  0.53058  1.0000
+  Pd  Pd2       1.0  0.47715  0.26017  0.46942  1.0000
+  Pd  Pd3       1.0  0.00000  0.00000  0.00000  1.0000
+  Pd  Pd4       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.82829  0.72053  0.57301  1.0000
+  F   F2        1.0  0.17171  0.27947  0.42699  1.0000
+  F   F3        1.0  0.60066  0.57789  0.84294  1.0000
+  F   F4        1.0  0.39934  0.42211  0.15706  1.0000
+  F   F5        1.0  0.46160  0.89029  0.22096  1.0000
+  F   F6        1.0  0.53840  0.10971  0.77904  1.0000
+  F   F7        1.0  0.11209  0.86463  0.84784  1.0000
+  F   F8        1.0  0.11588  0.27929  0.86585  1.0000
+  F   F9        1.0  0.88791  0.13537  0.15216  1.0000
+  F   F10       1.0  0.88412  0.72071  0.13415  1.0000
+  F   F11       1.0  0.22047  0.75322  0.50833  1.0000
+  F   F12       1.0  0.77953  0.24678  0.49167  1.0000

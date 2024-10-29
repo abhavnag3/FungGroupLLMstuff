@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm4Ni4Pb4
+_chemical_formula_sum              "Sm4 Ni4 Pb4"
+_cell_length_a       4.58978
+_cell_length_b       7.33182
+_cell_length_c       7.87051
+_cell_angle_alpha    90.0082
+_cell_angle_beta     90.0404
+_cell_angle_gamma    89.973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.75000  0.98780  0.29813  1.0000
+  Sm  Sm2       1.0  0.25016  0.01217  0.70193  1.0000
+  Sm  Sm3       1.0  0.24996  0.51213  0.79796  1.0000
+  Sm  Sm4       1.0  0.74983  0.48789  0.20192  1.0000
+  Ni  Ni1       1.0  0.75001  0.71246  0.58671  1.0000
+  Ni  Ni2       1.0  0.25001  0.28750  0.41315  1.0000
+  Ni  Ni3       1.0  0.25040  0.78753  0.08676  1.0000
+  Ni  Ni4       1.0  0.74961  0.21259  0.91342  1.0000
+  Pb  Pb1       1.0  0.75032  0.81286  0.91678  1.0000
+  Pb  Pb2       1.0  0.24972  0.18719  0.08315  1.0000
+  Pb  Pb3       1.0  0.24988  0.68711  0.41669  1.0000
+  Pb  Pb4       1.0  0.75011  0.31277  0.58339  1.0000

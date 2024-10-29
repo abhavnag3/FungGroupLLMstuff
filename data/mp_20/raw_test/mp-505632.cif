@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs2Fe2S4
+_chemical_formula_sum              "Cs2 Fe2 S4"
+_cell_length_a       7.4809
+_cell_length_b       7.4809
+_cell_length_c       7.4809
+_cell_angle_alpha    137.494
+_cell_angle_beta     123.269
+_cell_angle_gamma    73.3946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.32778  0.82778  0.50000  1.0000
+  Cs  Cs2       1.0  0.67222  0.17222  0.50000  1.0000
+  Fe  Fe1       1.0  0.00000  0.74665  0.74665  1.0000
+  Fe  Fe2       1.0  0.00000  0.25335  0.25335  1.0000
+  S   S1        1.0  0.24287  0.50000  0.74287  1.0000
+  S   S2        1.0  0.75713  0.50000  0.25713  1.0000
+  S   S3        1.0  0.14194  0.14194  0.00000  1.0000
+  S   S4        1.0  0.85806  0.85806  0.00000  1.0000

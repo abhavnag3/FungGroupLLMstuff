@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cs3HSe2O8
+_chemical_formula_sum              "Cs3 H1 Se2 O8"
+_cell_length_a       6.45329
+_cell_length_b       6.45329
+_cell_length_c       8.67163
+_cell_angle_alpha    71.1717
+_cell_angle_beta     71.1717
+_cell_angle_gamma    60.765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.99921  0.99921  0.00450  1.0000
+  Cs  Cs2       1.0  0.80261  0.80261  0.60763  1.0000
+  Cs  Cs3       1.0  0.19826  0.19826  0.38863  1.0000
+  H   H1        1.0  0.48051  0.48051  0.99750  1.0000
+  Se  Se1       1.0  0.57269  0.57269  0.23167  1.0000
+  Se  Se2       1.0  0.42895  0.42895  0.76197  1.0000
+  O   O1        1.0  0.60292  0.60292  0.02263  1.0000
+  O   O2        1.0  0.39003  0.39003  0.97956  1.0000
+  O   O3        1.0  0.72672  0.30243  0.69276  1.0000
+  O   O4        1.0  0.30243  0.72672  0.69276  1.0000
+  O   O5        1.0  0.27458  0.69743  0.31065  1.0000
+  O   O6        1.0  0.69743  0.27458  0.31065  1.0000
+  O   O7        1.0  0.71180  0.71180  0.26192  1.0000
+  O   O8        1.0  0.28687  0.28687  0.74218  1.0000

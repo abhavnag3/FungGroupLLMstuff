@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ga2PdI8
+_chemical_formula_sum              "Ga2 Pd1 I8"
+_cell_length_a       8.62954
+_cell_length_b       8.62954
+_cell_length_c       8.09923
+_cell_angle_alpha    82.6572
+_cell_angle_beta     82.6572
+_cell_angle_gamma    65.7781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.79016  0.79016  0.33873  1.0000
+  Ga  Ga2       1.0  0.20985  0.20985  0.66127  1.0000
+  Pd  Pd1       1.0  0.00000  0.00000  0.00000  1.0000
+  I   I1        1.0  0.31178  0.91340  0.85151  1.0000
+  I   I2        1.0  0.08660  0.68822  0.14849  1.0000
+  I   I3        1.0  0.82806  0.82806  0.63395  1.0000
+  I   I4        1.0  0.17194  0.17194  0.36605  1.0000
+  I   I5        1.0  0.91340  0.31178  0.85151  1.0000
+  I   I6        1.0  0.68822  0.08660  0.14849  1.0000
+  I   I7        1.0  0.61929  0.61929  0.31126  1.0000
+  I   I8        1.0  0.38071  0.38071  0.68874  1.0000

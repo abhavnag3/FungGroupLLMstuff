@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2Al2Si2
+_chemical_formula_sum              "La2 Al2 Si2"
+_cell_length_a       7.98149
+_cell_length_b       7.98149
+_cell_length_c       7.98149
+_cell_angle_alpha    148.561
+_cell_angle_beta     148.561
+_cell_angle_gamma    45.058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.62502  0.12502  0.50000  1.0000
+  La  La2       1.0  0.87502  0.87502  0.00000  1.0000
+  Al  Al1       1.0  0.45829  0.45829  0.00000  1.0000
+  Al  Al2       1.0  0.20829  0.70829  0.50000  1.0000
+  Si  Si1       1.0  0.04169  0.54169  0.50000  1.0000
+  Si  Si2       1.0  0.29169  0.29169  0.00000  1.0000

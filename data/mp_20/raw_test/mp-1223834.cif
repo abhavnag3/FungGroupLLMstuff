@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Hf2AlSi
+_chemical_formula_sum              "Hf2 Al1 Si1"
+_cell_length_a       5.38526
+_cell_length_b       5.38526
+_cell_length_c       3.82768
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    138.906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.85382  0.14618  0.50000  1.0000
+  Hf  Hf2       1.0  0.14667  0.85333  0.00000  1.0000
+  Al  Al1       1.0  0.57834  0.42166  0.50000  1.0000
+  Si  Si1       1.0  0.42117  0.57883  0.00000  1.0000

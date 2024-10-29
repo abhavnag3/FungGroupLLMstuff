@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tm2Ga3Ni
+_chemical_formula_sum              "Tm2 Ga3 Ni1"
+_cell_length_a       5.49945
+_cell_length_b       5.49945
+_cell_length_c       6.99871
+_cell_angle_alpha    51.5729
+_cell_angle_beta     51.5729
+_cell_angle_gamma    46.2836
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.54286  0.54286  0.70541  1.0000
+  Tm  Tm2       1.0  0.45215  0.45215  0.29821  1.0000
+  Ga  Ga1       1.0  0.85118  0.85118  0.68757  1.0000
+  Ga  Ga2       1.0  0.82416  0.82416  0.12037  1.0000
+  Ga  Ga3       1.0  0.16266  0.16266  0.90579  1.0000
+  Ni  Ni1       1.0  0.16698  0.16698  0.28264  1.0000

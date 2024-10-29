@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cs4Se2
+_chemical_formula_sum              "Cs4 Se2"
+_cell_length_a       6.49944
+_cell_length_b       6.49944
+_cell_length_c       8.75899
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    130.658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.48419  0.51581  0.45862  1.0000
+  Cs  Cs2       1.0  0.51581  0.48419  0.95862  1.0000
+  Cs  Cs3       1.0  0.80768  0.19232  0.17715  1.0000
+  Cs  Cs4       1.0  0.19232  0.80768  0.67715  1.0000
+  Se  Se1       1.0  0.12054  0.87946  0.23923  1.0000
+  Se  Se2       1.0  0.87946  0.12054  0.73923  1.0000

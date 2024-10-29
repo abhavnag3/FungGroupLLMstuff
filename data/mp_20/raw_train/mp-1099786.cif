@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ca4Co4O10
+_chemical_formula_sum              "Ca4 Co4 O10"
+_cell_length_a       8.56472
+_cell_length_b       8.56472
+_cell_length_c       8.56472
+_cell_angle_alpha    143.983
+_cell_angle_beta     142.259
+_cell_angle_gamma    53.1568
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.58788  0.06882  0.43550  1.0000
+  Ca  Ca2       1.0  0.41213  0.84762  0.48095  1.0000
+  Ca  Ca3       1.0  0.13332  0.56882  0.48095  1.0000
+  Ca  Ca4       1.0  0.86668  0.34763  0.43550  1.0000
+  Co  Co1       1.0  0.19135  0.24043  0.93179  1.0000
+  Co  Co2       1.0  0.80865  0.74043  0.04908  1.0000
+  Co  Co3       1.0  0.00000  0.94922  0.94922  1.0000
+  Co  Co4       1.0  0.50000  0.44922  0.94922  1.0000
+  O   O1        1.0  0.57499  0.56788  0.85850  1.0000
+  O   O2        1.0  0.42501  0.28351  0.99290  1.0000
+  O   O3        1.0  0.20939  0.06788  0.99290  1.0000
+  O   O4        1.0  0.79061  0.78351  0.85850  1.0000
+  O   O5        1.0  0.86598  0.10641  0.47239  1.0000
+  O   O6        1.0  0.13402  0.60641  0.24043  1.0000
+  O   O7        1.0  0.76066  0.71491  0.44884  1.0000
+  O   O8        1.0  0.23934  0.68818  0.95425  1.0000
+  O   O9        1.0  0.76608  0.21491  0.95425  1.0000
+  O   O10       1.0  0.23392  0.18818  0.44884  1.0000

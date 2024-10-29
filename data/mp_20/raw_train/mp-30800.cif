@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Zn4
+_chemical_formula_sum              "Nd2 Zn4"
+_cell_length_a       5.78929
+_cell_length_b       5.78929
+_cell_length_c       5.78929
+_cell_angle_alpha    133.097
+_cell_angle_beta     99.776
+_cell_angle_gamma    98.4512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.21108  0.46108  0.75000  1.0000
+  Nd  Nd2       1.0  0.78892  0.53892  0.25000  1.0000
+  Zn  Zn1       1.0  0.22038  0.16539  0.05499  1.0000
+  Zn  Zn2       1.0  0.77962  0.83461  0.94501  1.0000
+  Zn  Zn3       1.0  0.61040  0.16539  0.44501  1.0000
+  Zn  Zn4       1.0  0.38960  0.83461  0.55499  1.0000

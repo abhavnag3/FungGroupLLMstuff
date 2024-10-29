@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2Eu2Gd2Sb2O12
+_chemical_formula_sum              "Sr2 Eu2 Gd2 Sb2 O12"
+_cell_length_a       5.86804
+_cell_length_b       6.00295
+_cell_length_c       8.38982
+_cell_angle_alpha    90.0701
+_cell_angle_beta     90.3341
+_cell_angle_gamma    89.9708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.98738  0.04688  0.25089  1.0000
+  Sr  Sr2       1.0  0.01262  0.95312  0.74911  1.0000
+  Eu  Eu1       1.0  0.51316  0.54824  0.24837  1.0000
+  Eu  Eu2       1.0  0.48684  0.45176  0.75163  1.0000
+  Gd  Gd1       1.0  0.00000  0.50000  0.00000  1.0000
+  Gd  Gd2       1.0  0.50000  0.00000  0.50000  1.0000
+  Sb  Sb1       1.0  0.50000  0.00000  0.00000  1.0000
+  Sb  Sb2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.22323  0.19234  0.95227  1.0000
+  O   O2        1.0  0.27837  0.68976  0.55058  1.0000
+  O   O3        1.0  0.77677  0.80766  0.04773  1.0000
+  O   O4        1.0  0.72163  0.31024  0.44942  1.0000
+  O   O5        1.0  0.31501  0.71940  0.95004  1.0000
+  O   O6        1.0  0.18749  0.22192  0.54955  1.0000
+  O   O7        1.0  0.68499  0.28060  0.04996  1.0000
+  O   O8        1.0  0.81251  0.77808  0.45045  1.0000
+  O   O9        1.0  0.41070  0.97092  0.23297  1.0000
+  O   O10       1.0  0.09653  0.47580  0.26712  1.0000
+  O   O11       1.0  0.58930  0.02908  0.76703  1.0000
+  O   O12       1.0  0.90347  0.52420  0.73288  1.0000

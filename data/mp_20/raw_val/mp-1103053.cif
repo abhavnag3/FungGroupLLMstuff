@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Er3Cu4Sn4
+_chemical_formula_sum              "Er3 Cu4 Sn4"
+_cell_length_a       8.38308
+_cell_length_b       8.38308
+_cell_length_c       6.93575
+_cell_angle_alpha    65.9451
+_cell_angle_beta     65.9451
+_cell_angle_gamma    30.807
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.00000  0.00000  0.00000  1.0000
+  Er  Er2       1.0  0.13022  0.13022  0.36004  1.0000
+  Er  Er3       1.0  0.86978  0.86978  0.63996  1.0000
+  Cu  Cu1       1.0  0.33711  0.33711  0.97976  1.0000
+  Cu  Cu2       1.0  0.66288  0.66288  0.02024  1.0000
+  Cu  Cu3       1.0  0.32112  0.32112  0.36902  1.0000
+  Cu  Cu4       1.0  0.67888  0.67888  0.63098  1.0000
+  Sn  Sn1       1.0  0.21744  0.21744  0.79372  1.0000
+  Sn  Sn2       1.0  0.78256  0.78256  0.20628  1.0000
+  Sn  Sn3       1.0  0.50662  0.50662  0.69652  1.0000
+  Sn  Sn4       1.0  0.49338  0.49338  0.30348  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy4Mo4C8
+_chemical_formula_sum              "Dy4 Mo4 C8"
+_cell_length_a       3.39895
+_cell_length_b       5.70465
+_cell_length_c       10.794
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.25000  0.08520  0.86243  1.0000
+  Dy  Dy2       1.0  0.25000  0.58520  0.63757  1.0000
+  Dy  Dy3       1.0  0.75000  0.91480  0.13757  1.0000
+  Dy  Dy4       1.0  0.75000  0.41480  0.36243  1.0000
+  Mo  Mo1       1.0  0.25000  0.40302  0.10928  1.0000
+  Mo  Mo2       1.0  0.25000  0.90302  0.39072  1.0000
+  Mo  Mo3       1.0  0.75000  0.59698  0.89072  1.0000
+  Mo  Mo4       1.0  0.75000  0.09698  0.60928  1.0000
+  C   C1        1.0  0.25000  0.15931  0.24705  1.0000
+  C   C2        1.0  0.25000  0.65931  0.25295  1.0000
+  C   C3        1.0  0.75000  0.84069  0.75295  1.0000
+  C   C4        1.0  0.75000  0.34069  0.74705  1.0000
+  C   C5        1.0  0.25000  0.72357  0.98443  1.0000
+  C   C6        1.0  0.25000  0.22357  0.51557  1.0000
+  C   C7        1.0  0.75000  0.27643  0.01557  1.0000
+  C   C8        1.0  0.75000  0.77643  0.48443  1.0000

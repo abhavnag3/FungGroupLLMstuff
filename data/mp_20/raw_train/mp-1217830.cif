@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ta2Tl2W2O12
+_chemical_formula_sum              "Ta2 Tl2 W2 O12"
+_cell_length_a       7.43074
+_cell_length_b       7.43074
+_cell_length_c       7.43074
+_cell_angle_alpha    120.198
+_cell_angle_beta     119.892
+_cell_angle_gamma    89.922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.50000  0.99704  0.49704  1.0000
+  Ta  Ta2       1.0  1.00000  0.99704  0.99704  1.0000
+  Tl  Tl1       1.0  0.09297  0.27634  0.68337  1.0000
+  Tl  Tl2       1.0  0.90703  0.59040  0.18337  1.0000
+  W   W1        1.0  0.50028  0.49726  0.49698  1.0000
+  W   W2        1.0  0.49972  0.99670  0.99698  1.0000
+  O   O1        1.0  0.55874  0.30876  0.25002  1.0000
+  O   O2        1.0  0.18515  0.93759  0.25244  1.0000
+  O   O3        1.0  0.19373  0.94038  0.87831  1.0000
+  O   O4        1.0  0.56102  0.31644  0.62376  1.0000
+  O   O5        1.0  0.56207  0.94038  0.24665  1.0000
+  O   O6        1.0  0.19269  0.31644  0.25542  1.0000
+  O   O7        1.0  0.44126  0.69128  0.75002  1.0000
+  O   O8        1.0  0.81485  0.06729  0.75244  1.0000
+  O   O9        1.0  0.80731  0.06274  0.12376  1.0000
+  O   O10       1.0  0.43793  0.68459  0.37832  1.0000
+  O   O11       1.0  0.43898  0.06274  0.75542  1.0000
+  O   O12       1.0  0.80627  0.68459  0.74665  1.0000

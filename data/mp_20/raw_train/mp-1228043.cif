@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2Si2Ni4
+_chemical_formula_sum              "Al2 Si2 Ni4"
+_cell_length_a       4.57971
+_cell_length_b       4.53011
+_cell_length_c       4.55676
+_cell_angle_alpha    88.1004
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.65012  0.09509  0.34754  1.0000
+  Al  Al2       1.0  0.15012  0.90490  0.65246  1.0000
+  Si  Si1       1.0  0.34466  0.60070  0.15812  1.0000
+  Si  Si2       1.0  0.84466  0.39930  0.84188  1.0000
+  Ni  Ni1       1.0  0.35620  0.40343  0.65697  1.0000
+  Ni  Ni2       1.0  0.85620  0.59657  0.34303  1.0000
+  Ni  Ni3       1.0  0.64902  0.88805  0.85981  1.0000
+  Ni  Ni4       1.0  0.14902  0.11195  0.14019  1.0000

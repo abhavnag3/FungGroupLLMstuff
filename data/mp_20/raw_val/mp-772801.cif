@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Lu2Bi2O6
+_chemical_formula_sum              "Lu2 Bi2 O6"
+_cell_length_a       6.10858
+_cell_length_b       6.10858
+_cell_length_c       6.10858
+_cell_angle_alpha    57.682
+_cell_angle_beta     57.682
+_cell_angle_gamma    57.6819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.85483  0.85483  0.85483  1.0000
+  Lu  Lu2       1.0  0.14517  0.14517  0.14517  1.0000
+  Bi  Bi1       1.0  0.64122  0.64122  0.64122  1.0000
+  Bi  Bi2       1.0  0.35878  0.35878  0.35878  1.0000
+  O   O1        1.0  0.98065  0.21626  0.54680  1.0000
+  O   O2        1.0  0.54680  0.98065  0.21626  1.0000
+  O   O3        1.0  0.21626  0.54680  0.98065  1.0000
+  O   O4        1.0  0.78374  0.45320  0.01935  1.0000
+  O   O5        1.0  0.45320  0.01935  0.78374  1.0000
+  O   O6        1.0  0.01935  0.78374  0.45320  1.0000

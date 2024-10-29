@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       U4Fe4Si4
+_chemical_formula_sum              "U4 Fe4 Si4"
+_cell_length_a       3.99258
+_cell_length_b       6.39038
+_cell_length_c       7.25924
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.25000  0.84052  0.51132  1.0000
+  U   U2        1.0  0.75000  0.15948  0.48868  1.0000
+  U   U3        1.0  0.75000  0.34053  0.98868  1.0000
+  U   U4        1.0  0.25000  0.65948  0.01132  1.0000
+  Fe  Fe1       1.0  0.25000  0.44183  0.37533  1.0000
+  Fe  Fe2       1.0  0.75000  0.55817  0.62467  1.0000
+  Fe  Fe3       1.0  0.75000  0.94183  0.12466  1.0000
+  Fe  Fe4       1.0  0.25000  0.05817  0.87533  1.0000
+  Si  Si1       1.0  0.25000  0.38382  0.69806  1.0000
+  Si  Si2       1.0  0.75000  0.61618  0.30194  1.0000
+  Si  Si3       1.0  0.75000  0.88382  0.80194  1.0000
+  Si  Si4       1.0  0.25000  0.11618  0.19806  1.0000

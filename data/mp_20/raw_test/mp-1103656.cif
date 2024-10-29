@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Nb4O4F6
+_chemical_formula_sum              "Nb4 O4 F6"
+_cell_length_a       5.25225
+_cell_length_b       5.80643
+_cell_length_c       7.10086
+_cell_angle_alpha    108.464
+_cell_angle_beta     111.705
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.40414  0.81331  0.31985  1.0000
+  Nb  Nb2       1.0  0.08429  0.68669  0.68015  1.0000
+  Nb  Nb3       1.0  0.59586  0.18669  0.68015  1.0000
+  Nb  Nb4       1.0  0.91571  0.31331  0.31985  1.0000
+  O   O1        1.0  0.75595  0.85952  0.59727  1.0000
+  O   O2        1.0  0.15868  0.64048  0.40273  1.0000
+  O   O3        1.0  0.24405  0.14047  0.40273  1.0000
+  O   O4        1.0  0.84132  0.35952  0.59727  1.0000
+  F   F1        1.0  0.55395  0.47153  0.20753  1.0000
+  F   F2        1.0  0.34642  0.02847  0.79247  1.0000
+  F   F3        1.0  0.44605  0.52847  0.79247  1.0000
+  F   F4        1.0  0.65358  0.97152  0.20753  1.0000
+  F   F5        1.0  0.10921  0.75000  0.00000  1.0000
+  F   F6        1.0  0.89079  0.25000  0.00000  1.0000

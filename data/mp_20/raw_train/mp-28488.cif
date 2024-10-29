@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu2Pt2F12
+_chemical_formula_sum              "Cu2 Pt2 F12"
+_cell_length_a       5.02855
+_cell_length_b       5.04459
+_cell_length_c       9.72807
+_cell_angle_alpha    76.1032
+_cell_angle_beta     76.0488
+_cell_angle_gamma    60.8511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.50000  1.0000
+  Pt  Pt1       1.0  0.72699  0.78154  0.74990  1.0000
+  Pt  Pt2       1.0  0.27301  0.21846  0.25010  1.0000
+  F   F1        1.0  0.90877  0.20091  0.37131  1.0000
+  F   F2        1.0  0.09123  0.79909  0.62869  1.0000
+  F   F3        1.0  0.54154  0.85078  0.37432  1.0000
+  F   F4        1.0  0.45846  0.14922  0.62568  1.0000
+  F   F5        1.0  0.35864  0.75084  0.87345  1.0000
+  F   F6        1.0  0.64136  0.24916  0.12655  1.0000
+  F   F7        1.0  0.71174  0.04539  0.87538  1.0000
+  F   F8        1.0  0.28826  0.95461  0.12462  1.0000
+  F   F9        1.0  0.98902  0.41943  0.87088  1.0000
+  F   F10       1.0  0.01098  0.58057  0.12912  1.0000
+  F   F11       1.0  0.75252  0.50703  0.62599  1.0000
+  F   F12       1.0  0.24748  0.49297  0.37401  1.0000

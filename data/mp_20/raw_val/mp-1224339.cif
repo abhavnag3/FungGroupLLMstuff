@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       GeSbTe3
+_chemical_formula_sum              "Ge1 Sb1 Te3"
+_cell_length_a       10.1659
+_cell_length_b       10.1659
+_cell_length_c       10.1659
+_cell_angle_alpha    23.8833
+_cell_angle_beta     23.8833
+_cell_angle_gamma    23.8833
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.40218  0.40218  0.40218  1.0000
+  Sb  Sb1       1.0  0.60230  0.60230  0.60230  1.0000
+  Te  Te1       1.0  0.00164  0.00164  0.00164  1.0000
+  Te  Te2       1.0  0.20743  0.20742  0.20742  1.0000
+  Te  Te3       1.0  0.78646  0.78646  0.78646  1.0000

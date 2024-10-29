@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al3GePd4
+_chemical_formula_sum              "Al3 Ge1 Pd4"
+_cell_length_a       4.93058
+_cell_length_b       4.93071
+_cell_length_c       4.92968
+_cell_angle_alpha    89.8447
+_cell_angle_beta     90.2101
+_cell_angle_gamma    89.7763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.34827  0.65787  0.15739  1.0000
+  Al  Al2       1.0  0.65748  0.15150  0.34240  1.0000
+  Al  Al3       1.0  0.84237  0.84236  0.84837  1.0000
+  Ge  Ge1       1.0  0.15425  0.34592  0.65427  1.0000
+  Pd  Pd1       1.0  0.85156  0.64815  0.35147  1.0000
+  Pd  Pd2       1.0  0.64538  0.35205  0.85296  1.0000
+  Pd  Pd3       1.0  0.35288  0.85477  0.64792  1.0000
+  Pd  Pd4       1.0  0.14780  0.14738  0.14522  1.0000

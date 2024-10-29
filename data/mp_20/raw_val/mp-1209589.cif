@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr4Cr4Sb12
+_chemical_formula_sum              "Pr4 Cr4 Sb12"
+_cell_length_a       6.10809
+_cell_length_b       6.24278
+_cell_length_c       13.2232
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25000  0.50440  0.30777  1.0000
+  Pr  Pr2       1.0  0.75000  0.49560  0.69223  1.0000
+  Pr  Pr3       1.0  0.25000  0.00440  0.69223  1.0000
+  Pr  Pr4       1.0  0.75000  0.99560  0.30777  1.0000
+  Cr  Cr1       1.0  0.00000  0.75000  0.90757  1.0000
+  Cr  Cr2       1.0  0.00000  0.25000  0.09243  1.0000
+  Cr  Cr3       1.0  0.50000  0.25000  0.09243  1.0000
+  Cr  Cr4       1.0  0.50000  0.75000  0.90757  1.0000
+  Sb  Sb1       1.0  0.00000  0.75000  0.50126  1.0000
+  Sb  Sb2       1.0  0.00000  0.25000  0.49874  1.0000
+  Sb  Sb3       1.0  0.50000  0.25000  0.49874  1.0000
+  Sb  Sb4       1.0  0.50000  0.75000  0.50126  1.0000
+  Sb  Sb5       1.0  0.25000  0.59915  0.06131  1.0000
+  Sb  Sb6       1.0  0.75000  0.40085  0.93869  1.0000
+  Sb  Sb7       1.0  0.25000  0.09915  0.93869  1.0000
+  Sb  Sb8       1.0  0.75000  0.90085  0.06131  1.0000
+  Sb  Sb9       1.0  0.25000  0.99984  0.21734  1.0000
+  Sb  Sb10      1.0  0.75000  0.00016  0.78266  1.0000
+  Sb  Sb11      1.0  0.25000  0.49983  0.78266  1.0000
+  Sb  Sb12      1.0  0.75000  0.50016  0.21734  1.0000

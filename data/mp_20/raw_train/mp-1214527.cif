@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ba6Sn8Bi2
+_chemical_formula_sum              "Ba6 Sn8 Bi2"
+_cell_length_a       9.36608
+_cell_length_b       9.36608
+_cell_length_c       9.4415
+_cell_angle_alpha    119.736
+_cell_angle_beta     119.736
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.25000  0.50000  1.0000
+  Ba  Ba2       1.0  0.75000  0.75000  0.50000  1.0000
+  Ba  Ba3       1.0  0.66430  0.16430  0.00000  1.0000
+  Ba  Ba4       1.0  0.33570  0.83570  0.00000  1.0000
+  Ba  Ba5       1.0  0.83570  0.66430  0.00000  1.0000
+  Ba  Ba6       1.0  0.16430  0.33570  0.00000  1.0000
+  Sn  Sn1       1.0  0.33092  0.83092  0.38442  1.0000
+  Sn  Sn2       1.0  0.66908  0.16908  0.61558  1.0000
+  Sn  Sn3       1.0  0.05350  0.55350  0.38442  1.0000
+  Sn  Sn4       1.0  0.55350  0.33092  0.38442  1.0000
+  Sn  Sn5       1.0  0.16908  0.94650  0.61558  1.0000
+  Sn  Sn6       1.0  0.94650  0.44650  0.61558  1.0000
+  Sn  Sn7       1.0  0.44650  0.66908  0.61558  1.0000
+  Sn  Sn8       1.0  0.83092  0.05350  0.38442  1.0000
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.50000  0.00000  1.0000

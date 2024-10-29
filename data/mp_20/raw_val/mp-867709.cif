@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li2Mn2V2O8
+_chemical_formula_sum              "Li2 Mn2 V2 O8"
+_cell_length_a       6.01149
+_cell_length_b       6.01151
+_cell_length_c       6.01154
+_cell_angle_alpha    61.8059
+_cell_angle_beta     88.6223
+_cell_angle_gamma    120.232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.49994  0.99993  0.50001  1.0000
+  Li  Li2       1.0  0.00005  0.50004  0.50001  1.0000
+  Mn  Mn1       1.0  0.50020  0.00036  0.99958  1.0000
+  Mn  Mn2       1.0  0.50000  0.49981  0.50015  1.0000
+  V   V1        1.0  0.12154  0.24998  0.12848  1.0000
+  V   V2        1.0  0.87839  0.74998  0.87162  1.0000
+  O   O1        1.0  0.75519  0.00531  0.25015  1.0000
+  O   O2        1.0  0.75871  0.51920  0.22208  1.0000
+  O   O3        1.0  0.24125  0.01921  0.23953  1.0000
+  O   O4        1.0  0.24454  0.49466  0.25014  1.0000
+  O   O5        1.0  0.75547  0.50535  0.74989  1.0000
+  O   O6        1.0  0.75872  0.98078  0.76050  1.0000
+  O   O7        1.0  0.24125  0.48078  0.77797  1.0000
+  O   O8        1.0  0.24475  0.99462  0.74990  1.0000

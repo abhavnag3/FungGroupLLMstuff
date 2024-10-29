@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta4N4O4
+_chemical_formula_sum              "Ta4 N4 O4"
+_cell_length_a       5.06896
+_cell_length_b       5.01114
+_cell_length_c       5.22875
+_cell_angle_alpha    80.2941
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.54568  0.70635  0.71615  1.0000
+  Ta  Ta2       1.0  0.04568  0.29364  0.78385  1.0000
+  Ta  Ta3       1.0  0.45432  0.29364  0.28385  1.0000
+  Ta  Ta4       1.0  0.95432  0.70635  0.21615  1.0000
+  N   N1        1.0  0.25594  0.55634  0.97918  1.0000
+  N   N2        1.0  0.75594  0.44366  0.52082  1.0000
+  N   N3        1.0  0.74406  0.44366  0.02082  1.0000
+  N   N4        1.0  0.24406  0.55634  0.47919  1.0000
+  O   O1        1.0  0.67462  0.93777  0.34735  1.0000
+  O   O2        1.0  0.17462  0.06223  0.15265  1.0000
+  O   O3        1.0  0.32538  0.06223  0.65265  1.0000
+  O   O4        1.0  0.82538  0.93777  0.84735  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Gd2As2O8
+_chemical_formula_sum              "Gd2 As2 O8"
+_cell_length_a       6.79091
+_cell_length_b       6.79091
+_cell_length_c       6.79091
+_cell_angle_alpha    135.898
+_cell_angle_beta     135.898
+_cell_angle_gamma    64.1385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.50000  0.50000  0.00000  1.0000
+  Gd  Gd2       1.0  0.25000  0.75000  0.50000  1.0000
+  As  As1       1.0  0.00000  0.00000  0.00000  1.0000
+  As  As2       1.0  0.75000  0.25000  0.50000  1.0000
+  O   O1        1.0  0.67153  0.06813  0.89603  1.0000
+  O   O2        1.0  0.57790  0.47450  0.39603  1.0000
+  O   O3        1.0  0.22450  0.32847  0.39660  1.0000
+  O   O4        1.0  0.81813  0.42210  0.89660  1.0000
+  O   O5        1.0  0.93187  0.82790  0.60340  1.0000
+  O   O6        1.0  0.52550  0.92154  0.10340  1.0000
+  O   O7        1.0  0.07846  0.18187  0.60397  1.0000
+  O   O8        1.0  0.17210  0.77550  0.10397  1.0000

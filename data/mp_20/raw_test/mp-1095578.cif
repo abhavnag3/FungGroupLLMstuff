@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga10Ni2
+_chemical_formula_sum              "Ga10 Ni2"
+_cell_length_a       6.68983
+_cell_length_b       6.68983
+_cell_length_c       6.68983
+_cell_angle_alpha    123.242
+_cell_angle_beta     123.242
+_cell_angle_gamma    84.4714
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ga  Ga3       1.0  0.00639  0.50639  0.79977  1.0000
+  Ga  Ga4       1.0  0.70663  0.20663  0.20023  1.0000
+  Ga  Ga5       1.0  0.50639  0.70663  0.50000  1.0000
+  Ga  Ga6       1.0  0.20663  0.00639  0.50000  1.0000
+  Ga  Ga7       1.0  0.99361  0.49361  0.20023  1.0000
+  Ga  Ga8       1.0  0.29337  0.79337  0.79977  1.0000
+  Ga  Ga9       1.0  0.49361  0.29337  0.50000  1.0000
+  Ga  Ga10      1.0  0.79337  0.99361  0.50000  1.0000
+  Ni  Ni1       1.0  0.75000  0.75000  0.00000  1.0000
+  Ni  Ni2       1.0  0.25000  0.25000  0.00000  1.0000

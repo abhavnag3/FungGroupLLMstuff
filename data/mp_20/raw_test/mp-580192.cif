@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho4Ge8Pt4
+_chemical_formula_sum              "Ho4 Ge8 Pt4"
+_cell_length_a       9.6013
+_cell_length_b       9.6013
+_cell_length_c       9.6013
+_cell_angle_alpha    153.981
+_cell_angle_beta     125.652
+_cell_angle_gamma    61.2158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.73586  0.00000  0.73586  1.0000
+  Ho  Ho2       1.0  0.70049  0.20049  0.50000  1.0000
+  Ho  Ho3       1.0  0.29951  0.79951  0.50000  1.0000
+  Ho  Ho4       1.0  0.26414  0.00000  0.26414  1.0000
+  Ge  Ge1       1.0  0.64829  0.79857  0.84972  1.0000
+  Ge  Ge2       1.0  0.92695  0.42695  0.50000  1.0000
+  Ge  Ge3       1.0  0.05115  0.20143  0.84972  1.0000
+  Ge  Ge4       1.0  0.35171  0.20143  0.15028  1.0000
+  Ge  Ge5       1.0  0.94885  0.79857  0.15028  1.0000
+  Ge  Ge6       1.0  0.42611  0.42611  0.00000  1.0000
+  Ge  Ge7       1.0  0.07305  0.57305  0.50000  1.0000
+  Ge  Ge8       1.0  0.57389  0.57389  0.00000  1.0000
+  Pt  Pt1       1.0  0.39643  0.64729  0.74914  1.0000
+  Pt  Pt2       1.0  0.60357  0.35271  0.25086  1.0000
+  Pt  Pt3       1.0  0.89816  0.64729  0.25086  1.0000
+  Pt  Pt4       1.0  0.10185  0.35271  0.74914  1.0000

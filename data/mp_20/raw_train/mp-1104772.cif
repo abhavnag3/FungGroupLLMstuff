@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       YbMn6Ge6
+_chemical_formula_sum              "Yb1 Mn6 Ge6"
+_cell_length_a       5.18552
+_cell_length_b       5.18657
+_cell_length_c       8.13188
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.99999  0.00000  0.00000  1.0000
+  Mn  Mn1       1.0  0.49999  0.00000  0.25072  1.0000
+  Mn  Mn2       1.0  0.50000  0.49999  0.25063  1.0000
+  Mn  Mn3       1.0  0.00002  0.50001  0.25063  1.0000
+  Mn  Mn4       1.0  0.49999  0.00000  0.74928  1.0000
+  Mn  Mn5       1.0  0.50000  0.49999  0.74937  1.0000
+  Mn  Mn6       1.0  0.00002  0.50001  0.74937  1.0000
+  Ge  Ge1       1.0  0.33332  0.66668  0.00000  1.0000
+  Ge  Ge2       1.0  0.66665  0.33332  0.00000  1.0000
+  Ge  Ge3       1.0  0.33321  0.66657  0.50000  1.0000
+  Ge  Ge4       1.0  0.66664  0.33343  0.50000  1.0000
+  Ge  Ge5       1.0  0.99998  0.00000  0.34097  1.0000
+  Ge  Ge6       1.0  0.99998  0.00000  0.65903  1.0000

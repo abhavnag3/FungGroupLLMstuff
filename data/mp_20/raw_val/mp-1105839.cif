@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sm2Co8B8
+_chemical_formula_sum              "Sm2 Co8 B8"
+_cell_length_a       7.01642
+_cell_length_b       7.01642
+_cell_length_c       3.80176
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sm  Sm2       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co1       1.0  0.38369  0.14242  0.89318  1.0000
+  Co  Co2       1.0  0.61631  0.85758  0.89318  1.0000
+  Co  Co3       1.0  0.35757  0.88369  0.39318  1.0000
+  Co  Co4       1.0  0.64243  0.11631  0.39318  1.0000
+  Co  Co5       1.0  0.11631  0.35757  0.60682  1.0000
+  Co  Co6       1.0  0.88369  0.64243  0.60682  1.0000
+  Co  Co7       1.0  0.14242  0.61631  0.10682  1.0000
+  Co  Co8       1.0  0.85758  0.38369  0.10682  1.0000
+  B   B1        1.0  0.79786  0.66235  0.10399  1.0000
+  B   B2        1.0  0.20214  0.33765  0.10399  1.0000
+  B   B3        1.0  0.83765  0.29786  0.60399  1.0000
+  B   B4        1.0  0.16235  0.70214  0.60399  1.0000
+  B   B5        1.0  0.70214  0.83765  0.39601  1.0000
+  B   B6        1.0  0.29786  0.16235  0.39601  1.0000
+  B   B7        1.0  0.66235  0.20214  0.89601  1.0000
+  B   B8        1.0  0.33765  0.79786  0.89601  1.0000

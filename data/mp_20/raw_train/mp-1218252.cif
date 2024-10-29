@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2La2Mn2Fe2O12
+_chemical_formula_sum              "Sr2 La2 Mn2 Fe2 O12"
+_cell_length_a       5.53351
+_cell_length_b       5.55031
+_cell_length_c       7.7926
+_cell_angle_alpha    89.954
+_cell_angle_beta     90.0009
+_cell_angle_gamma    90.0001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.51636  0.49831  0.75024  1.0000
+  Sr  Sr2       1.0  0.98362  0.99825  0.25024  1.0000
+  La  La1       1.0  0.02440  0.00507  0.75020  1.0000
+  La  La2       1.0  0.47558  0.50511  0.25021  1.0000
+  Mn  Mn1       1.0  0.99920  0.49997  0.00011  1.0000
+  Mn  Mn2       1.0  0.50076  0.99994  0.50003  1.0000
+  Fe  Fe1       1.0  0.50269  0.00028  0.99989  1.0000
+  Fe  Fe2       1.0  0.99727  0.50014  0.50002  1.0000
+  O   O1        1.0  0.99511  0.56539  0.75623  1.0000
+  O   O2        1.0  0.50492  0.06540  0.25624  1.0000
+  O   O3        1.0  0.48848  0.95034  0.74366  1.0000
+  O   O4        1.0  0.01156  0.45033  0.24365  1.0000
+  O   O5        1.0  0.26499  0.27348  0.97209  1.0000
+  O   O6        1.0  0.23505  0.77343  0.47215  1.0000
+  O   O7        1.0  0.77432  0.21645  0.53177  1.0000
+  O   O8        1.0  0.72567  0.71649  0.03172  1.0000
+  O   O9        1.0  0.71724  0.72684  0.46830  1.0000
+  O   O10       1.0  0.78279  0.22683  0.96825  1.0000
+  O   O11       1.0  0.22692  0.76400  0.02747  1.0000
+  O   O12       1.0  0.27307  0.26396  0.52753  1.0000

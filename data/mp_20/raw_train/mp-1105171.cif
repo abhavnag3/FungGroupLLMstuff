@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ce5Fe2B6
+_chemical_formula_sum              "Ce5 Fe2 B6"
+_cell_length_a       5.314
+_cell_length_b       5.314
+_cell_length_c       8.52907
+_cell_angle_alpha    71.849
+_cell_angle_beta     71.849
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ce  Ce2       1.0  0.74722  0.74722  0.75834  1.0000
+  Ce  Ce3       1.0  0.25278  0.25278  0.24166  1.0000
+  Ce  Ce4       1.0  0.58579  0.58579  0.24264  1.0000
+  Ce  Ce5       1.0  0.41421  0.41421  0.75736  1.0000
+  Fe  Fe1       1.0  0.88318  0.88318  0.35047  1.0000
+  Fe  Fe2       1.0  0.11682  0.11682  0.64953  1.0000
+  B   B1        1.0  0.50000  0.16821  0.50000  1.0000
+  B   B2        1.0  0.83179  0.50000  0.50000  1.0000
+  B   B3        1.0  0.16821  0.83179  0.50000  1.0000
+  B   B4        1.0  0.16821  0.50000  0.50000  1.0000
+  B   B5        1.0  0.83179  0.16821  0.50000  1.0000
+  B   B6        1.0  0.50000  0.83179  0.50000  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Al2Ga2O8
+_chemical_formula_sum              "Ba2 Al2 Ga2 O8"
+_cell_length_a       5.3513
+_cell_length_b       5.3513
+_cell_length_c       9.09051
+_cell_angle_alpha    89.1297
+_cell_angle_beta     89.1297
+_cell_angle_gamma    59.4315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00371  0.99703  0.75372  1.0000
+  Ba  Ba2       1.0  0.00297  0.99629  0.24628  1.0000
+  Al  Al1       1.0  0.34590  0.32277  0.94722  1.0000
+  Al  Al2       1.0  0.67723  0.65410  0.05278  1.0000
+  Ga  Ga1       1.0  0.67191  0.65828  0.44758  1.0000
+  Ga  Ga2       1.0  0.34172  0.32809  0.55242  1.0000
+  O   O1        1.0  0.69970  0.61657  0.24608  1.0000
+  O   O2        1.0  0.38343  0.30030  0.75392  1.0000
+  O   O3        1.0  0.33004  0.66996  0.50000  1.0000
+  O   O4        1.0  0.66961  0.99827  0.48392  1.0000
+  O   O5        1.0  0.00173  0.33039  0.51608  1.0000
+  O   O6        1.0  0.64576  0.35424  0.00000  1.0000
+  O   O7        1.0  0.36800  0.99670  0.01115  1.0000
+  O   O8        1.0  0.00330  0.63200  0.98885  1.0000

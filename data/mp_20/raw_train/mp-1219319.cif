@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm4Co2Ni2O12
+_chemical_formula_sum              "Sm4 Co2 Ni2 O12"
+_cell_length_a       5.61115
+_cell_length_b       5.34635
+_cell_length_c       9.32457
+_cell_angle_alpha    55.5205
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.56536  0.73318  0.75174  1.0000
+  Sm  Sm2       1.0  0.06536  0.26682  0.74826  1.0000
+  Sm  Sm3       1.0  0.43464  0.26682  0.24826  1.0000
+  Sm  Sm4       1.0  0.93464  0.73318  0.25174  1.0000
+  Co  Co1       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.97340  0.84226  0.75096  1.0000
+  O   O2        1.0  0.47340  0.15774  0.74904  1.0000
+  O   O3        1.0  0.02661  0.15774  0.24904  1.0000
+  O   O4        1.0  0.52660  0.84226  0.25096  1.0000
+  O   O5        1.0  0.80739  0.26154  0.95346  1.0000
+  O   O6        1.0  0.30739  0.73846  0.54654  1.0000
+  O   O7        1.0  0.20249  0.35012  0.45006  1.0000
+  O   O8        1.0  0.70249  0.64988  0.04994  1.0000
+  O   O9        1.0  0.19261  0.73846  0.04654  1.0000
+  O   O10       1.0  0.69261  0.26154  0.45346  1.0000
+  O   O11       1.0  0.79751  0.64988  0.54993  1.0000
+  O   O12       1.0  0.29751  0.35012  0.95007  1.0000

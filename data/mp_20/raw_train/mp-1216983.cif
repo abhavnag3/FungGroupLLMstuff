@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       U2MnCoSe6
+_chemical_formula_sum              "U2 Mn1 Co1 Se6"
+_cell_length_a       3.89247
+_cell_length_b       6.12686
+_cell_length_c       9.29835
+_cell_angle_alpha    90.7303
+_cell_angle_beta     90
+_cell_angle_gamma    71.4788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.73354  0.53291  0.25497  1.0000
+  U   U2        1.0  0.26646  0.46709  0.74503  1.0000
+  Mn  Mn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.50000  0.00000  0.50000  1.0000
+  Se  Se1       1.0  0.14476  0.71047  0.05485  1.0000
+  Se  Se2       1.0  0.85524  0.28953  0.94515  1.0000
+  Se  Se3       1.0  0.13488  0.73024  0.45365  1.0000
+  Se  Se4       1.0  0.86512  0.26976  0.54635  1.0000
+  Se  Se5       1.0  0.41524  0.16952  0.26037  1.0000
+  Se  Se6       1.0  0.58476  0.83048  0.73963  1.0000

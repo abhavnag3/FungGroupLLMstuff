@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sn4Cl4F4
+_chemical_formula_sum              "Sn4 Cl4 F4"
+_cell_length_a       4.40368
+_cell_length_b       6.33017
+_cell_length_c       10.5378
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000  0.21678  0.92102  1.0000
+  Sn  Sn2       1.0  0.75000  0.78322  0.07898  1.0000
+  Sn  Sn3       1.0  0.25000  0.71678  0.57898  1.0000
+  Sn  Sn4       1.0  0.75000  0.28322  0.42102  1.0000
+  Cl  Cl1       1.0  0.75000  0.09782  0.63627  1.0000
+  Cl  Cl2       1.0  0.25000  0.90218  0.36373  1.0000
+  Cl  Cl3       1.0  0.75000  0.59782  0.86373  1.0000
+  Cl  Cl4       1.0  0.25000  0.40218  0.13627  1.0000
+  F   F1        1.0  0.25000  0.39759  0.47827  1.0000
+  F   F2        1.0  0.75000  0.60240  0.52173  1.0000
+  F   F3        1.0  0.25000  0.89760  0.02173  1.0000
+  F   F4        1.0  0.75000  0.10240  0.97827  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs2GeB4O9
+_chemical_formula_sum              "Cs2 Ge1 B4 O9"
+_cell_length_a       6.99205
+_cell_length_b       6.99205
+_cell_length_c       6.8421
+_cell_angle_alpha    61.9258
+_cell_angle_beta     61.9258
+_cell_angle_gamma    93.3062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.74010  0.25990  0.00000  1.0000
+  Cs  Cs2       1.0  0.00983  0.99017  0.50000  1.0000
+  Ge  Ge1       1.0  0.25412  0.74588  0.00000  1.0000
+  B   B1        1.0  0.33563  0.22731  0.79887  1.0000
+  B   B2        1.0  0.77269  0.66438  0.20113  1.0000
+  B   B3        1.0  0.35471  0.52089  0.39586  1.0000
+  B   B4        1.0  0.47910  0.64529  0.60414  1.0000
+  O   O1        1.0  0.40249  0.39701  0.82671  1.0000
+  O   O2        1.0  0.60299  0.59751  0.17329  1.0000
+  O   O3        1.0  0.28502  0.26646  0.61510  1.0000
+  O   O4        1.0  0.73355  0.71498  0.38490  1.0000
+  O   O5        1.0  0.32025  0.00823  0.97878  1.0000
+  O   O6        1.0  0.99177  0.67975  0.02122  1.0000
+  O   O7        1.0  0.20306  0.51872  0.30319  1.0000
+  O   O8        1.0  0.48128  0.79694  0.69681  1.0000
+  O   O9        1.0  0.33519  0.66481  0.50000  1.0000

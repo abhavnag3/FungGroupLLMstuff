@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al4I4O4
+_chemical_formula_sum              "Al4 I4 O4"
+_cell_length_a       5.10442
+_cell_length_b       5.85117
+_cell_length_c       9.83071
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.99041  0.09879  0.07630  1.0000
+  Al  Al2       1.0  0.49041  0.90121  0.92370  1.0000
+  Al  Al3       1.0  0.99041  0.59879  0.92370  1.0000
+  Al  Al4       1.0  0.49041  0.40121  0.07630  1.0000
+  I   I1        1.0  0.09244  0.99853  0.31579  1.0000
+  I   I2        1.0  0.59244  0.00146  0.68421  1.0000
+  I   I3        1.0  0.09244  0.49853  0.68421  1.0000
+  I   I4        1.0  0.59244  0.50147  0.31579  1.0000
+  O   O1        1.0  0.14616  0.37199  0.02759  1.0000
+  O   O2        1.0  0.64616  0.62801  0.97241  1.0000
+  O   O3        1.0  0.14616  0.87199  0.97241  1.0000
+  O   O4        1.0  0.64616  0.12801  0.02759  1.0000

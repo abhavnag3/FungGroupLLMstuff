@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Bi2Pd4Pb2
+_chemical_formula_sum              "Bi2 Pd4 Pb2"
+_cell_length_a       5.74745
+_cell_length_b       5.74745
+_cell_length_c       5.66882
+_cell_angle_alpha    78.3011
+_cell_angle_beta     78.3011
+_cell_angle_gamma    100.737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.05398  0.50559  0.42731  1.0000
+  Bi  Bi2       1.0  0.50559  0.05398  0.42731  1.0000
+  Pd  Pd1       1.0  0.65863  0.17128  0.87036  1.0000
+  Pd  Pd2       1.0  0.17128  0.65863  0.87036  1.0000
+  Pd  Pd3       1.0  0.96031  0.96031  0.53574  1.0000
+  Pd  Pd4       1.0  0.55219  0.55219  0.52336  1.0000
+  Pb  Pb1       1.0  0.12701  0.12701  0.98889  1.0000
+  Pb  Pb2       1.0  0.64001  0.64001  0.99266  1.0000

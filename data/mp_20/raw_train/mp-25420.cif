@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li2Ti2P2O8F2
+_chemical_formula_sum              "Li2 Ti2 P2 O8 F2"
+_cell_length_a       5.24988
+_cell_length_b       5.44138
+_cell_length_c       7.44387
+_cell_angle_alpha    106.696
+_cell_angle_beta     108.22
+_cell_angle_gamma    98.7889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.26769  0.61459  0.18632  1.0000
+  Li  Li2       1.0  0.73231  0.38541  0.81368  1.0000
+  Ti  Ti1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.50000  1.0000
+  P   P1        1.0  0.32201  0.63990  0.76126  1.0000
+  P   P2        1.0  0.67799  0.36010  0.23874  1.0000
+  O   O1        1.0  0.36752  0.24588  0.08918  1.0000
+  O   O2        1.0  0.69390  0.65881  0.34356  1.0000
+  O   O3        1.0  0.30610  0.34119  0.65644  1.0000
+  O   O4        1.0  0.74468  0.21643  0.38877  1.0000
+  O   O5        1.0  0.63248  0.75412  0.91082  1.0000
+  O   O6        1.0  0.25532  0.78356  0.61123  1.0000
+  O   O7        1.0  0.86670  0.33858  0.11231  1.0000
+  O   O8        1.0  0.13330  0.66142  0.88769  1.0000
+  F   F1        1.0  0.13019  0.92532  0.26305  1.0000
+  F   F2        1.0  0.86981  0.07468  0.73695  1.0000

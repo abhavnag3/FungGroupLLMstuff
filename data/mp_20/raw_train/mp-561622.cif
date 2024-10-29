@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4Ag2As2S8
+_chemical_formula_sum              "Cs4 Ag2 As2 S8"
+_cell_length_a       6.93445
+_cell_length_b       7.35331
+_cell_length_c       11.3435
+_cell_angle_alpha    73.1632
+_cell_angle_beta     74.4383
+_cell_angle_gamma    71.127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.76206  0.51383  0.18861  1.0000
+  Cs  Cs2       1.0  0.26995  0.23967  0.40374  1.0000
+  Cs  Cs3       1.0  0.23794  0.48617  0.81139  1.0000
+  Cs  Cs4       1.0  0.73005  0.76033  0.59626  1.0000
+  Ag  Ag1       1.0  0.63844  0.08202  0.07834  1.0000
+  Ag  Ag2       1.0  0.36156  0.91798  0.92166  1.0000
+  As  As1       1.0  0.14001  0.86530  0.23106  1.0000
+  As  As2       1.0  0.85999  0.13470  0.76894  1.0000
+  S   S1        1.0  0.79491  0.94934  0.27118  1.0000
+  S   S2        1.0  0.25443  0.74248  0.40607  1.0000
+  S   S3        1.0  0.25837  0.64595  0.11371  1.0000
+  S   S4        1.0  0.74163  0.35405  0.88629  1.0000
+  S   S5        1.0  0.75703  0.86762  0.87958  1.0000
+  S   S6        1.0  0.20509  0.05066  0.72882  1.0000
+  S   S7        1.0  0.74557  0.25752  0.59393  1.0000
+  S   S8        1.0  0.24297  0.13238  0.12042  1.0000

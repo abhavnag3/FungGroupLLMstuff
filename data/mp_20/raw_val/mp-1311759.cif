@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ca2Fe3O8
+_chemical_formula_sum              "Ca2 Fe3 O8"
+_cell_length_a       5.07517
+_cell_length_b       6.08089
+_cell_length_c       6.33464
+_cell_angle_alpha    118.673
+_cell_angle_beta     106.839
+_cell_angle_gamma    90.0024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.65994  0.72205  0.44413  1.0000
+  Ca  Ca2       1.0  0.34007  0.27795  0.55587  1.0000
+  Fe  Fe1       1.0  0.50004  0.00002  0.00003  1.0000
+  Fe  Fe2       1.0  0.99996  0.73853  0.00001  1.0000
+  Fe  Fe3       1.0  0.99998  0.26144  0.99992  1.0000
+  O   O1        1.0  0.01996  0.38749  0.77496  1.0000
+  O   O2        1.0  0.98003  0.61249  0.22500  1.0000
+  O   O3        1.0  0.09707  0.90173  0.80347  1.0000
+  O   O4        1.0  0.90295  0.09828  0.19656  1.0000
+  O   O5        1.0  0.40302  0.31853  0.20563  1.0000
+  O   O6        1.0  0.40301  0.88707  0.20564  1.0000
+  O   O7        1.0  0.59699  0.11292  0.79439  1.0000
+  O   O8        1.0  0.59697  0.68151  0.79440  1.0000

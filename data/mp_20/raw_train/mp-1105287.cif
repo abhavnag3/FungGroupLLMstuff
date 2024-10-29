@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Ti4Pb2O9F2
+_chemical_formula_sum              "Ti4 Pb2 O9 F2"
+_cell_length_a       7.75378
+_cell_length_b       7.75378
+_cell_length_c       10.496
+_cell_angle_alpha    48.1432
+_cell_angle_beta     48.1432
+_cell_angle_gamma    28.7
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.65804  0.65804  0.77319  1.0000
+  Ti  Ti2       1.0  0.34196  0.34196  0.22681  1.0000
+  Ti  Ti3       1.0  0.62142  0.62142  0.45304  1.0000
+  Ti  Ti4       1.0  0.37858  0.37859  0.54695  1.0000
+  Pb  Pb1       1.0  0.08470  0.08470  0.16372  1.0000
+  Pb  Pb2       1.0  0.91530  0.91530  0.83628  1.0000
+  O   O1        1.0  0.19813  0.19813  0.75485  1.0000
+  O   O2        1.0  0.80187  0.80187  0.24515  1.0000
+  O   O3        1.0  0.85170  0.85170  0.56798  1.0000
+  O   O4        1.0  0.14830  0.14830  0.43202  1.0000
+  O   O5        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O6        1.0  0.43724  0.43724  0.66162  1.0000
+  O   O7        1.0  0.56276  0.56276  0.33838  1.0000
+  O   O8        1.0  0.61547  0.61546  0.65208  1.0000
+  O   O9        1.0  0.38454  0.38453  0.34792  1.0000
+  F   F1        1.0  0.71232  0.71232  0.93819  1.0000
+  F   F2        1.0  0.28768  0.28768  0.06181  1.0000

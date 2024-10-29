@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       CaTi4S8
+_chemical_formula_sum              "Ca1 Ti4 S8"
+_cell_length_a       6.86385
+_cell_length_b       6.86385
+_cell_length_c       9.10428
+_cell_angle_alpha    55.8643
+_cell_angle_beta     55.8643
+_cell_angle_gamma    60.2213
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ti  Ti1       1.0  0.75747  0.24253  0.00000  1.0000
+  Ti  Ti2       1.0  0.24253  0.75747  0.00000  1.0000
+  Ti  Ti3       1.0  0.24373  0.24373  0.00739  1.0000
+  Ti  Ti4       1.0  0.75627  0.75627  0.99261  1.0000
+  S   S1        1.0  0.97906  0.47968  0.21052  1.0000
+  S   S2        1.0  0.47968  0.97906  0.21052  1.0000
+  S   S3        1.0  0.48327  0.48327  0.20289  1.0000
+  S   S4        1.0  0.97830  0.97830  0.21042  1.0000
+  S   S5        1.0  0.02170  0.02170  0.78958  1.0000
+  S   S6        1.0  0.51673  0.51673  0.79711  1.0000
+  S   S7        1.0  0.52033  0.02094  0.78948  1.0000
+  S   S8        1.0  0.02094  0.52033  0.78948  1.0000

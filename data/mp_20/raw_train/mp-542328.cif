@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ce10Ga6
+_chemical_formula_sum              "Ce10 Ga6"
+_cell_length_a       8.95126
+_cell_length_b       8.95126
+_cell_length_c       8.95126
+_cell_angle_alpha    95.6816
+_cell_angle_beta     95.6816
+_cell_angle_gamma    143.321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.75000  0.25000  0.50000  1.0000
+  Ce  Ce2       1.0  0.25000  0.75000  0.50000  1.0000
+  Ce  Ce3       1.0  0.22412  0.91794  0.14206  1.0000
+  Ce  Ce4       1.0  0.08206  0.22412  0.30618  1.0000
+  Ce  Ce5       1.0  0.91794  0.77588  0.69382  1.0000
+  Ce  Ce6       1.0  0.77588  0.08206  0.85794  1.0000
+  Ce  Ce7       1.0  0.41794  0.72412  0.14206  1.0000
+  Ce  Ce8       1.0  0.58206  0.27588  0.85794  1.0000
+  Ce  Ce9       1.0  0.72412  0.58206  0.30618  1.0000
+  Ce  Ce10      1.0  0.27588  0.41794  0.69382  1.0000
+  Ga  Ga1       1.0  0.25000  0.25000  0.00000  1.0000
+  Ga  Ga2       1.0  0.75000  0.75000  0.00000  1.0000
+  Ga  Ga3       1.0  0.66304  0.83696  0.50000  1.0000
+  Ga  Ga4       1.0  0.16304  0.66304  0.82608  1.0000
+  Ga  Ga5       1.0  0.83696  0.33696  0.17392  1.0000
+  Ga  Ga6       1.0  0.33696  0.16304  0.50000  1.0000

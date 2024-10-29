@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Eu5Mo2O12
+_chemical_formula_sum              "Eu5 Mo2 O12"
+_cell_length_a       7.05767
+_cell_length_b       7.05767
+_cell_length_c       7.85827
+_cell_angle_alpha    73.7318
+_cell_angle_beta     73.7318
+_cell_angle_gamma    49.7073
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.30671  0.30671  0.36391  1.0000
+  Eu  Eu2       1.0  0.69329  0.69329  0.63609  1.0000
+  Eu  Eu3       1.0  0.31453  0.31453  0.82190  1.0000
+  Eu  Eu4       1.0  0.68547  0.68547  0.17810  1.0000
+  Eu  Eu5       1.0  0.00000  0.00000  0.50000  1.0000
+  Mo  Mo1       1.0  0.77444  0.22556  0.00000  1.0000
+  Mo  Mo2       1.0  0.22556  0.77444  0.00000  1.0000
+  O   O1        1.0  0.90260  0.41039  0.92221  1.0000
+  O   O2        1.0  0.41039  0.90261  0.92221  1.0000
+  O   O3        1.0  0.09739  0.58961  0.07779  1.0000
+  O   O4        1.0  0.58961  0.09739  0.07779  1.0000
+  O   O5        1.0  0.09481  0.59310  0.57929  1.0000
+  O   O6        1.0  0.59310  0.09481  0.57929  1.0000
+  O   O7        1.0  0.90519  0.40690  0.42071  1.0000
+  O   O8        1.0  0.40690  0.90519  0.42071  1.0000
+  O   O9        1.0  0.00106  0.00106  0.80754  1.0000
+  O   O10       1.0  0.99894  0.99894  0.19246  1.0000
+  O   O11       1.0  0.50045  0.50045  0.82974  1.0000
+  O   O12       1.0  0.49955  0.49955  0.17026  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tb4Al10Ge4
+_chemical_formula_sum              "Tb4 Al10 Ge4"
+_cell_length_a       8.25474
+_cell_length_b       8.25474
+_cell_length_c       8.0384
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    139.135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.88245  0.11755  0.41897  1.0000
+  Tb  Tb2       1.0  0.11755  0.88245  0.58103  1.0000
+  Tb  Tb3       1.0  0.61755  0.38245  0.91897  1.0000
+  Tb  Tb4       1.0  0.38245  0.61755  0.08103  1.0000
+  Al  Al1       1.0  0.79726  0.70274  0.25000  1.0000
+  Al  Al2       1.0  0.20274  0.29726  0.75000  1.0000
+  Al  Al3       1.0  0.70274  0.79726  0.75000  1.0000
+  Al  Al4       1.0  0.29726  0.20274  0.25000  1.0000
+  Al  Al5       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al6       1.0  0.50000  0.50000  0.50000  1.0000
+  Al  Al7       1.0  0.96633  0.53367  0.25000  1.0000
+  Al  Al8       1.0  0.03367  0.46633  0.75000  1.0000
+  Al  Al9       1.0  0.53367  0.96633  0.75000  1.0000
+  Al  Al10      1.0  0.46633  0.03367  0.25000  1.0000
+  Ge  Ge1       1.0  0.81845  0.18155  0.04830  1.0000
+  Ge  Ge2       1.0  0.18155  0.81845  0.95170  1.0000
+  Ge  Ge3       1.0  0.68155  0.31845  0.54830  1.0000
+  Ge  Ge4       1.0  0.31845  0.68155  0.45170  1.0000

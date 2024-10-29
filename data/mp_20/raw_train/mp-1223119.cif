@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       La6Si2N6O4
+_chemical_formula_sum              "La6 Si2 N6 O4"
+_cell_length_a       6.8271
+_cell_length_b       6.8271
+_cell_length_c       7.41288
+_cell_angle_alpha    62.055
+_cell_angle_beta     62.055
+_cell_angle_gamma    88.9877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.32270  0.17730  0.00000  1.0000
+  La  La2       1.0  0.66902  0.83098  0.00000  1.0000
+  La  La3       1.0  0.18117  0.67777  0.00000  1.0000
+  La  La4       1.0  0.82223  0.31883  0.00000  1.0000
+  La  La5       1.0  0.24385  0.25615  0.50000  1.0000
+  La  La6       1.0  0.74385  0.75615  0.50000  1.0000
+  Si  Si1       1.0  0.75145  0.24413  0.50442  1.0000
+  Si  Si2       1.0  0.25587  0.74855  0.49558  1.0000
+  N   N1        1.0  0.99045  0.20785  0.30170  1.0000
+  N   N2        1.0  0.48970  0.98918  0.30277  1.0000
+  N   N3        1.0  0.20805  0.70753  0.30277  1.0000
+  N   N4        1.0  0.29215  0.50955  0.69830  1.0000
+  N   N5        1.0  0.51082  0.01030  0.69723  1.0000
+  N   N6        1.0  0.79247  0.29195  0.69723  1.0000
+  O   O1        1.0  0.50849  0.50758  0.00000  1.0000
+  O   O2        1.0  0.99242  0.99151  0.00000  1.0000
+  O   O3        1.0  0.70948  0.48415  0.30637  1.0000
+  O   O4        1.0  0.01585  0.79052  0.69363  1.0000

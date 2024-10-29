@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta4V4P4
+_chemical_formula_sum              "Ta4 V4 P4"
+_cell_length_a       3.40833
+_cell_length_b       6.39951
+_cell_length_c       7.70189
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.25000  0.53619  0.16852  1.0000
+  Ta  Ta2       1.0  0.75000  0.46381  0.83148  1.0000
+  Ta  Ta3       1.0  0.75000  0.96381  0.66852  1.0000
+  Ta  Ta4       1.0  0.25000  0.03619  0.33148  1.0000
+  V   V1        1.0  0.25000  0.63949  0.55849  1.0000
+  V   V2        1.0  0.75000  0.36051  0.44151  1.0000
+  V   V3        1.0  0.75000  0.86051  0.05849  1.0000
+  V   V4        1.0  0.25000  0.13949  0.94151  1.0000
+  P   P1        1.0  0.25000  0.76351  0.86007  1.0000
+  P   P2        1.0  0.75000  0.23649  0.13993  1.0000
+  P   P3        1.0  0.75000  0.73649  0.36007  1.0000
+  P   P4        1.0  0.25000  0.26351  0.63993  1.0000

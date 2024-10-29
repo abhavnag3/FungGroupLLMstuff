@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4LiRu3O12
+_chemical_formula_sum              "Sr4 Li1 Ru3 O12"
+_cell_length_a       5.55236
+_cell_length_b       5.61148
+_cell_length_c       7.97448
+_cell_angle_alpha    89.8882
+_cell_angle_beta     89.7291
+_cell_angle_gamma    89.9924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.51056  0.50260  0.76713  1.0000
+  Sr  Sr2       1.0  0.01343  0.00667  0.76791  1.0000
+  Sr  Sr3       1.0  0.48944  0.49740  0.23287  1.0000
+  Sr  Sr4       1.0  0.98657  0.99333  0.23209  1.0000
+  Li  Li1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ru  Ru1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ru  Ru2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ru  Ru3       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.74712  0.73298  0.02470  1.0000
+  O   O2        1.0  0.22096  0.77630  0.46848  1.0000
+  O   O3        1.0  0.27767  0.27950  0.53658  1.0000
+  O   O4        1.0  0.76450  0.25017  0.97818  1.0000
+  O   O5        1.0  0.25288  0.26702  0.97530  1.0000
+  O   O6        1.0  0.77904  0.22370  0.53152  1.0000
+  O   O7        1.0  0.72233  0.72050  0.46342  1.0000
+  O   O8        1.0  0.23550  0.74983  0.02182  1.0000
+  O   O9        1.0  0.50022  0.94809  0.73713  1.0000
+  O   O10       1.0  0.99314  0.56361  0.74997  1.0000
+  O   O11       1.0  0.49978  0.05191  0.26287  1.0000
+  O   O12       1.0  0.00686  0.43639  0.25003  1.0000

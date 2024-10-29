@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy12Co4
+_chemical_formula_sum              "Dy12 Co4"
+_cell_length_a       6.22285
+_cell_length_b       6.90262
+_cell_length_c       9.3881
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.13919  0.45561  0.75000  1.0000
+  Dy  Dy2       1.0  0.67563  0.32301  0.93281  1.0000
+  Dy  Dy3       1.0  0.36081  0.95561  0.75000  1.0000
+  Dy  Dy4       1.0  0.86081  0.54439  0.25000  1.0000
+  Dy  Dy5       1.0  0.63919  0.04439  0.25000  1.0000
+  Dy  Dy6       1.0  0.17563  0.17699  0.43281  1.0000
+  Dy  Dy7       1.0  0.82437  0.82301  0.56719  1.0000
+  Dy  Dy8       1.0  0.17563  0.17699  0.06719  1.0000
+  Dy  Dy9       1.0  0.82437  0.82301  0.93281  1.0000
+  Dy  Dy10      1.0  0.67563  0.32301  0.56719  1.0000
+  Dy  Dy11      1.0  0.32437  0.67699  0.06719  1.0000
+  Dy  Dy12      1.0  0.32437  0.67699  0.43281  1.0000
+  Co  Co1       1.0  0.54713  0.60857  0.75000  1.0000
+  Co  Co2       1.0  0.95287  0.10857  0.75000  1.0000
+  Co  Co3       1.0  0.04713  0.89143  0.25000  1.0000
+  Co  Co4       1.0  0.45287  0.39143  0.25000  1.0000

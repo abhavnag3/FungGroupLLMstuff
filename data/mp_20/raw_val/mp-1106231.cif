@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sm4Zn12
+_chemical_formula_sum              "Sm4 Zn12"
+_cell_length_a       4.48515
+_cell_length_b       6.72828
+_cell_length_c       10.256
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.25000  0.27937  0.66162  1.0000
+  Sm  Sm2       1.0  0.25000  0.77937  0.83838  1.0000
+  Sm  Sm3       1.0  0.75000  0.72063  0.33838  1.0000
+  Sm  Sm4       1.0  0.75000  0.22063  0.16162  1.0000
+  Zn  Zn1       1.0  0.25000  0.53610  0.10395  1.0000
+  Zn  Zn2       1.0  0.25000  0.03610  0.39605  1.0000
+  Zn  Zn3       1.0  0.75000  0.46390  0.89605  1.0000
+  Zn  Zn4       1.0  0.75000  0.96390  0.60395  1.0000
+  Zn  Zn5       1.0  0.25000  0.91661  0.14785  1.0000
+  Zn  Zn6       1.0  0.25000  0.41661  0.35215  1.0000
+  Zn  Zn7       1.0  0.75000  0.08339  0.85215  1.0000
+  Zn  Zn8       1.0  0.75000  0.58339  0.64785  1.0000
+  Zn  Zn9       1.0  0.25000  0.21664  0.95690  1.0000
+  Zn  Zn10      1.0  0.25000  0.71664  0.54310  1.0000
+  Zn  Zn11      1.0  0.75000  0.78336  0.04310  1.0000
+  Zn  Zn12      1.0  0.75000  0.28336  0.45690  1.0000

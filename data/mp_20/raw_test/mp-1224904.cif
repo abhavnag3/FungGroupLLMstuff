@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ga2FeP3O12
+_chemical_formula_sum              "Ga2 Fe1 P3 O12"
+_cell_length_a       5.02183
+_cell_length_b       5.02183
+_cell_length_c       11.2827
+_cell_angle_alpha    89.9018
+_cell_angle_beta     89.9018
+_cell_angle_gamma    59.4862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.54153  0.00028  0.66511  1.0000
+  Ga  Ga2       1.0  0.99972  0.45847  0.33489  1.0000
+  Fe  Fe1       1.0  0.45386  0.54614  0.00000  1.0000
+  P   P1        1.0  0.45833  0.54167  0.50000  1.0000
+  P   P2        1.0  0.54301  0.00214  0.16932  1.0000
+  P   P3        1.0  0.99786  0.45699  0.83068  1.0000
+  O   O1        1.0  0.58826  0.31475  0.60576  1.0000
+  O   O2        1.0  0.31614  0.09469  0.27506  1.0000
+  O   O3        1.0  0.08874  0.58757  0.93694  1.0000
+  O   O4        1.0  0.68525  0.41174  0.39424  1.0000
+  O   O5        1.0  0.90531  0.68386  0.72494  1.0000
+  O   O6        1.0  0.41243  0.91126  0.06306  1.0000
+  O   O7        1.0  0.40983  0.85737  0.54035  1.0000
+  O   O8        1.0  0.85963  0.72746  0.20786  1.0000
+  O   O9        1.0  0.73205  0.40693  0.87001  1.0000
+  O   O10       1.0  0.14263  0.59017  0.45965  1.0000
+  O   O11       1.0  0.27254  0.14037  0.79214  1.0000
+  O   O12       1.0  0.59307  0.26795  0.12999  1.0000

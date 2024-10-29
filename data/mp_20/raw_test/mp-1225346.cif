@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Dy6S2O2F10
+_chemical_formula_sum              "Dy6 S2 O2 F10"
+_cell_length_a       3.67055
+_cell_length_b       9.39001
+_cell_length_c       9.45101
+_cell_angle_alpha    60.4514
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.00000  0.58258  0.13409  1.0000
+  Dy  Dy2       1.0  0.00000  0.13266  0.27106  1.0000
+  Dy  Dy3       1.0  0.00000  0.29898  0.58558  1.0000
+  Dy  Dy4       1.0  0.50000  0.40488  0.89682  1.0000
+  Dy  Dy5       1.0  0.50000  0.87641  0.71497  1.0000
+  Dy  Dy6       1.0  0.50000  0.70373  0.40244  1.0000
+  S   S1        1.0  0.00000  0.67101  0.66715  1.0000
+  S   S2        1.0  0.50000  0.32630  0.33872  1.0000
+  O   O1        1.0  0.00000  0.56389  0.38734  1.0000
+  O   O2        1.0  0.00000  0.38402  0.05213  1.0000
+  F   F1        1.0  0.00000  0.84072  0.88008  1.0000
+  F   F2        1.0  0.00000  0.88791  0.27310  1.0000
+  F   F3        1.0  0.00000  0.27535  0.83723  1.0000
+  F   F4        1.0  0.50000  0.14476  0.11707  1.0000
+  F   F5        1.0  0.50000  0.12156  0.71433  1.0000
+  F   F6        1.0  0.50000  0.72812  0.14912  1.0000
+  F   F7        1.0  0.00000  0.04768  0.56689  1.0000
+  F   F8        1.0  0.50000  0.43099  0.62601  1.0000
+  F   F9        1.0  0.50000  0.62218  0.95296  1.0000
+  F   F10       1.0  0.50000  0.95628  0.43291  1.0000

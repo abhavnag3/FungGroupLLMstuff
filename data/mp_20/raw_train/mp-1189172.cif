@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg4H4O4F4
+_chemical_formula_sum              "Mg4 H4 O4 F4"
+_cell_length_a       3.12727
+_cell_length_b       4.72567
+_cell_length_c       10.2186
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.75000  0.98861  0.63183  1.0000
+  Mg  Mg2       1.0  0.75000  0.51139  0.13183  1.0000
+  Mg  Mg3       1.0  0.25000  0.01139  0.36817  1.0000
+  Mg  Mg4       1.0  0.25000  0.48861  0.86817  1.0000
+  H   H1        1.0  0.75000  0.58852  0.42908  1.0000
+  H   H2        1.0  0.75000  0.91148  0.92908  1.0000
+  H   H3        1.0  0.25000  0.41148  0.57092  1.0000
+  H   H4        1.0  0.25000  0.08852  0.07092  1.0000
+  O   O1        1.0  0.75000  0.71141  0.95037  1.0000
+  O   O2        1.0  0.75000  0.78859  0.45037  1.0000
+  O   O3        1.0  0.25000  0.28859  0.04963  1.0000
+  O   O4        1.0  0.25000  0.21141  0.54963  1.0000
+  F   F1        1.0  0.25000  0.74828  0.70706  1.0000
+  F   F2        1.0  0.25000  0.75172  0.20706  1.0000
+  F   F3        1.0  0.75000  0.25172  0.29294  1.0000
+  F   F4        1.0  0.75000  0.24828  0.79294  1.0000

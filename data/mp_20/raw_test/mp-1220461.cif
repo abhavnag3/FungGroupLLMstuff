@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       NdFe5Co5Mo2
+_chemical_formula_sum              "Nd1 Fe5 Co5 Mo2"
+_cell_length_a       4.72545
+_cell_length_b       6.52999
+_cell_length_c       6.57748
+_cell_angle_alpha    97.362
+_cell_angle_beta     111.653
+_cell_angle_gamma    68.914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe1       1.0  0.64109  0.35569  0.64086  1.0000
+  Fe  Fe2       1.0  0.35891  0.64431  0.35914  1.0000
+  Fe  Fe3       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe4       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe5       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co1       1.0  0.72331  0.77824  0.22201  1.0000
+  Co  Co2       1.0  0.27669  0.22177  0.77799  1.0000
+  Co  Co3       1.0  0.49969  0.77161  0.77060  1.0000
+  Co  Co4       1.0  0.50031  0.22839  0.22940  1.0000
+  Co  Co5       1.0  0.50000  0.00000  0.50000  1.0000
+  Mo  Mo1       1.0  0.00205  0.35768  0.35971  1.0000
+  Mo  Mo2       1.0  0.99795  0.64232  0.64029  1.0000

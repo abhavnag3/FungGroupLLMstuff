@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ta6Fe2S12
+_chemical_formula_sum              "Ta6 Fe2 S12"
+_cell_length_a       5.74406
+_cell_length_b       5.74406
+_cell_length_c       11.7002
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ta  Ta2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ta  Ta3       1.0  0.33333  0.66667  0.50441  1.0000
+  Ta  Ta4       1.0  0.66667  0.33333  0.49559  1.0000
+  Ta  Ta5       1.0  0.66667  0.33333  0.00441  1.0000
+  Ta  Ta6       1.0  0.33333  0.66667  0.99559  1.0000
+  Fe  Fe1       1.0  0.33333  0.66667  0.25000  1.0000
+  Fe  Fe2       1.0  0.66667  0.33333  0.75000  1.0000
+  S   S1        1.0  0.33243  0.33719  0.13506  1.0000
+  S   S2        1.0  0.66281  0.99524  0.13506  1.0000
+  S   S3        1.0  0.00476  0.66757  0.13506  1.0000
+  S   S4        1.0  0.33719  0.33243  0.86494  1.0000
+  S   S5        1.0  0.99524  0.66281  0.86494  1.0000
+  S   S6        1.0  0.66757  0.00476  0.86494  1.0000
+  S   S7        1.0  0.66757  0.66281  0.63506  1.0000
+  S   S8        1.0  0.33719  0.00476  0.63506  1.0000
+  S   S9        1.0  0.99524  0.33243  0.63506  1.0000
+  S   S10       1.0  0.66281  0.66757  0.36494  1.0000
+  S   S11       1.0  0.00476  0.33719  0.36494  1.0000
+  S   S12       1.0  0.33243  0.99524  0.36494  1.0000

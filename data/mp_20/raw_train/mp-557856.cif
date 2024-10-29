@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       B2Cl2O4F8
+_chemical_formula_sum              "B2 Cl2 O4 F8"
+_cell_length_a       5.2136
+_cell_length_b       5.2136
+_cell_length_c       9.76562
+_cell_angle_alpha    83.5393
+_cell_angle_beta     83.5393
+_cell_angle_gamma    115.939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.58066  0.44237  0.51752  1.0000
+  B   B2        1.0  0.44237  0.58066  0.01752  1.0000
+  Cl  Cl1       1.0  0.92843  0.06744  0.75079  1.0000
+  Cl  Cl2       1.0  0.06744  0.92843  0.25079  1.0000
+  O   O1        1.0  0.27527  0.88306  0.31965  1.0000
+  O   O2        1.0  0.11676  0.96092  0.80057  1.0000
+  O   O3        1.0  0.96092  0.11676  0.30057  1.0000
+  O   O4        1.0  0.88306  0.27527  0.81965  1.0000
+  F   F1        1.0  0.63747  0.49308  0.36571  1.0000
+  F   F2        1.0  0.49308  0.63747  0.86571  1.0000
+  F   F3        1.0  0.29552  0.41724  0.55977  1.0000
+  F   F4        1.0  0.58654  0.18550  0.56965  1.0000
+  F   F5        1.0  0.68168  0.78806  0.06163  1.0000
+  F   F6        1.0  0.78806  0.68168  0.56163  1.0000
+  F   F7        1.0  0.41724  0.29552  0.05977  1.0000
+  F   F8        1.0  0.18550  0.58654  0.06965  1.0000

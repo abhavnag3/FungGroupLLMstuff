@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Cu4SnP10
+_chemical_formula_sum              "Cu4 Sn1 P10"
+_cell_length_a       7.29631
+_cell_length_b       7.29631
+_cell_length_c       7.29631
+_cell_angle_alpha    59.9654
+_cell_angle_beta     59.9654
+_cell_angle_gamma    59.9654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00008  0.00008  0.00008  1.0000
+  Cu  Cu2       1.0  0.86635  0.37582  0.37582  1.0000
+  Cu  Cu3       1.0  0.37582  0.86635  0.37582  1.0000
+  Cu  Cu4       1.0  0.37582  0.37582  0.86635  1.0000
+  Sn  Sn1       1.0  0.42683  0.42683  0.42683  1.0000
+  P   P1        1.0  0.99639  0.50545  0.99639  1.0000
+  P   P2        1.0  0.99639  0.99639  0.50545  1.0000
+  P   P3        1.0  0.87320  0.87320  0.87320  1.0000
+  P   P4        1.0  0.87492  0.38054  0.87492  1.0000
+  P   P5        1.0  0.98836  0.50483  0.50483  1.0000
+  P   P6        1.0  0.50545  0.99639  0.99639  1.0000
+  P   P7        1.0  0.87492  0.87492  0.38054  1.0000
+  P   P8        1.0  0.38054  0.87492  0.87492  1.0000
+  P   P9        1.0  0.50483  0.50483  0.98836  1.0000
+  P   P10       1.0  0.50483  0.98836  0.50483  1.0000

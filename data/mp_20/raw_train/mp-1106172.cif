@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       B2H10N2Cl2
+_chemical_formula_sum              "B2 H10 N2 Cl2"
+_cell_length_a       4.68171
+_cell_length_b       4.68171
+_cell_length_c       8.67051
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    98.0121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.14623  0.14623  0.52058  1.0000
+  B   B2        1.0  0.85377  0.85377  0.02058  1.0000
+  H   H1        1.0  0.79535  0.79535  0.54513  1.0000
+  H   H2        1.0  0.20465  0.20465  0.04513  1.0000
+  H   H3        1.0  0.98853  0.75332  0.38950  1.0000
+  H   H4        1.0  0.75332  0.98853  0.38950  1.0000
+  H   H5        1.0  0.01147  0.24668  0.88950  1.0000
+  H   H6        1.0  0.24668  0.01147  0.88950  1.0000
+  H   H7        1.0  0.03001  0.31776  0.59296  1.0000
+  H   H8        1.0  0.31776  0.03001  0.59296  1.0000
+  H   H9        1.0  0.96999  0.68224  0.09296  1.0000
+  H   H10       1.0  0.68224  0.96999  0.09296  1.0000
+  N   N1        1.0  0.90407  0.90407  0.45514  1.0000
+  N   N2        1.0  0.09593  0.09593  0.95514  1.0000
+  Cl  Cl1       1.0  0.33929  0.33929  0.34898  1.0000
+  Cl  Cl2       1.0  0.66071  0.66071  0.84898  1.0000

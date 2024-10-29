@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Dy3Co6Sn5
+_chemical_formula_sum              "Dy3 Co6 Sn5"
+_cell_length_a       8.11492
+_cell_length_b       8.11492
+_cell_length_c       8.11492
+_cell_angle_alpha    149.148
+_cell_angle_beta     107.331
+_cell_angle_gamma    81.0032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.31782  0.31782  0.00000  1.0000
+  Dy  Dy2       1.0  0.68218  0.68218  0.00000  1.0000
+  Dy  Dy3       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.38024  0.10737  0.27287  1.0000
+  Co  Co2       1.0  0.61975  0.89263  0.72713  1.0000
+  Co  Co3       1.0  0.83450  0.10737  0.72713  1.0000
+  Co  Co4       1.0  0.69546  0.50000  0.19546  1.0000
+  Co  Co5       1.0  0.30454  0.50000  0.80454  1.0000
+  Co  Co6       1.0  0.16550  0.89263  0.27287  1.0000
+  Sn  Sn1       1.0  0.98210  0.32313  0.65896  1.0000
+  Sn  Sn2       1.0  0.33583  0.67687  0.65896  1.0000
+  Sn  Sn3       1.0  0.66417  0.32313  0.34104  1.0000
+  Sn  Sn4       1.0  0.50000  0.00000  0.50000  1.0000
+  Sn  Sn5       1.0  0.01790  0.67687  0.34104  1.0000

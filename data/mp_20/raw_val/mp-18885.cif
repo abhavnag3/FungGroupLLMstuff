@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La4Cr4S8O4
+_chemical_formula_sum              "La4 Cr4 S8 O4"
+_cell_length_a       3.75736
+_cell_length_b       8.52885
+_cell_length_c       11.299
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.25000  0.54622  0.35224  1.0000
+  La  La2       1.0  0.75000  0.45378  0.64776  1.0000
+  La  La3       1.0  0.25000  0.04622  0.14776  1.0000
+  La  La4       1.0  0.75000  0.95378  0.85224  1.0000
+  Cr  Cr1       1.0  0.25000  0.66968  0.02848  1.0000
+  Cr  Cr2       1.0  0.75000  0.33032  0.97152  1.0000
+  Cr  Cr3       1.0  0.25000  0.16968  0.47152  1.0000
+  Cr  Cr4       1.0  0.75000  0.83032  0.52848  1.0000
+  S   S1        1.0  0.75000  0.24246  0.33091  1.0000
+  S   S2        1.0  0.25000  0.75754  0.66909  1.0000
+  S   S3        1.0  0.25000  0.25754  0.83091  1.0000
+  S   S4        1.0  0.75000  0.74246  0.16909  1.0000
+  S   S5        1.0  0.75000  0.59715  0.89817  1.0000
+  S   S6        1.0  0.25000  0.40285  0.10183  1.0000
+  S   S7        1.0  0.25000  0.90285  0.39817  1.0000
+  S   S8        1.0  0.75000  0.09715  0.60183  1.0000
+  O   O1        1.0  0.25000  0.88735  0.96362  1.0000
+  O   O2        1.0  0.75000  0.11265  0.03638  1.0000
+  O   O3        1.0  0.25000  0.38735  0.53638  1.0000
+  O   O4        1.0  0.75000  0.61265  0.46362  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La2Co2C4
+_chemical_formula_sum              "La2 Co2 C4"
+_cell_length_a       3.87001
+_cell_length_b       3.87001
+_cell_length_c       7.43831
+_cell_angle_alpha    81.3128
+_cell_angle_beta     81.3128
+_cell_angle_gamma    90.0236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.92676  0.07380  0.50204  1.0000
+  La  La2       1.0  0.07380  0.92676  0.00204  1.0000
+  Co  Co1       1.0  0.37261  0.51273  0.69472  1.0000
+  Co  Co2       1.0  0.51273  0.37261  0.19472  1.0000
+  C   C1        1.0  0.85068  0.49008  0.77442  1.0000
+  C   C2        1.0  0.49008  0.85068  0.27442  1.0000
+  C   C3        1.0  0.59545  0.44388  0.92581  1.0000
+  C   C4        1.0  0.44388  0.59545  0.42581  1.0000

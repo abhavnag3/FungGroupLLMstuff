@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       KNaMg2Si4O10F2
+_chemical_formula_sum              "K1 Na1 Mg2 Si4 O10 F2"
+_cell_length_a       5.30966
+_cell_length_b       5.30966
+_cell_length_c       10.4286
+_cell_angle_alpha    84.3075
+_cell_angle_beta     84.3075
+_cell_angle_gamma    119.491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na1       1.0  0.00000  0.00000  0.50000  1.0000
+  Mg  Mg1       1.0  0.33402  0.66598  0.50000  1.0000
+  Mg  Mg2       1.0  0.66598  0.33402  0.50000  1.0000
+  Si  Si1       1.0  0.91104  0.25123  0.77260  1.0000
+  Si  Si2       1.0  0.74877  0.08896  0.22740  1.0000
+  Si  Si3       1.0  0.25123  0.91104  0.77260  1.0000
+  Si  Si4       1.0  0.08896  0.74877  0.22740  1.0000
+  O   O1        1.0  0.32240  0.95896  0.61654  1.0000
+  O   O2        1.0  0.05196  0.05196  0.82911  1.0000
+  O   O3        1.0  0.06068  0.55551  0.83874  1.0000
+  O   O4        1.0  0.93932  0.44449  0.16126  1.0000
+  O   O5        1.0  0.67760  0.04104  0.38346  1.0000
+  O   O6        1.0  0.94804  0.94804  0.17089  1.0000
+  O   O7        1.0  0.95896  0.32240  0.61654  1.0000
+  O   O8        1.0  0.44449  0.93932  0.16126  1.0000
+  O   O9        1.0  0.04104  0.67760  0.38346  1.0000
+  O   O10       1.0  0.55551  0.06068  0.83874  1.0000
+  F   F1        1.0  0.40526  0.40526  0.39260  1.0000
+  F   F2        1.0  0.59474  0.59474  0.60740  1.0000

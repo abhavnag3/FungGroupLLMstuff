@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr6P8
+_chemical_formula_sum              "Sr6 P8"
+_cell_length_a       11.3116
+_cell_length_b       9.21531
+_cell_length_c       7.76307
+_cell_angle_alpha    83.0816
+_cell_angle_beta     53.9735
+_cell_angle_gamma    42.9449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.57709  0.08661  0.41943  1.0000
+  Sr  Sr2       1.0  0.91687  0.41943  0.08661  1.0000
+  Sr  Sr3       1.0  0.83057  0.33313  0.67291  1.0000
+  Sr  Sr4       1.0  0.16339  0.67291  0.33313  1.0000
+  Sr  Sr5       1.0  0.50582  0.99419  0.99418  1.0000
+  Sr  Sr6       1.0  0.25581  0.74418  0.74418  1.0000
+  P   P1        1.0  0.08383  0.41809  0.57762  1.0000
+  P   P2        1.0  0.92045  0.57762  0.41809  1.0000
+  P   P3        1.0  0.67238  0.32955  0.16617  1.0000
+  P   P4        1.0  0.83191  0.16617  0.32955  1.0000
+  P   P5        1.0  0.52426  0.82191  0.65895  1.0000
+  P   P6        1.0  0.99488  0.65895  0.82191  1.0000
+  P   P7        1.0  0.42809  0.72574  0.25512  1.0000
+  P   P8        1.0  0.59104  0.25512  0.72574  1.0000

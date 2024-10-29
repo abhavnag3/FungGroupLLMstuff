@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr2La2Cl10
+_chemical_formula_sum              "Sr2 La2 Cl10"
+_cell_length_a       4.39112
+_cell_length_b       7.67308
+_cell_length_c       12.8619
+_cell_angle_alpha    87.6014
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000  0.94380  0.85095  1.0000
+  Sr  Sr2       1.0  0.75000  0.05620  0.14905  1.0000
+  La  La1       1.0  0.75000  0.56849  0.65789  1.0000
+  La  La2       1.0  0.25000  0.43151  0.34211  1.0000
+  Cl  Cl1       1.0  0.75000  0.93134  0.67055  1.0000
+  Cl  Cl2       1.0  0.25000  0.85289  0.07478  1.0000
+  Cl  Cl3       1.0  0.25000  0.67666  0.51961  1.0000
+  Cl  Cl4       1.0  0.75000  0.64707  0.86659  1.0000
+  Cl  Cl5       1.0  0.75000  0.64516  0.28047  1.0000
+  Cl  Cl6       1.0  0.25000  0.35484  0.71954  1.0000
+  Cl  Cl7       1.0  0.25000  0.35292  0.13342  1.0000
+  Cl  Cl8       1.0  0.75000  0.32333  0.48039  1.0000
+  Cl  Cl9       1.0  0.75000  0.14711  0.92522  1.0000
+  Cl  Cl10      1.0  0.25000  0.06866  0.32945  1.0000

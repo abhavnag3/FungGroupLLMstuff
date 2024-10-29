@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li8As8
+_chemical_formula_sum              "Li8 As8"
+_cell_length_a       5.28097
+_cell_length_b       5.82543
+_cell_length_c       10.7764
+_cell_angle_alpha    62.0367
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.16721  0.22903  0.44820  1.0000
+  Li  Li2       1.0  0.66721  0.77097  0.05180  1.0000
+  Li  Li3       1.0  0.83279  0.77097  0.55180  1.0000
+  Li  Li4       1.0  0.33279  0.22903  0.94820  1.0000
+  Li  Li5       1.0  0.91507  0.23598  0.17134  1.0000
+  Li  Li6       1.0  0.41507  0.76402  0.32866  1.0000
+  Li  Li7       1.0  0.08493  0.76402  0.82866  1.0000
+  Li  Li8       1.0  0.58493  0.23598  0.67134  1.0000
+  As  As1       1.0  0.66586  0.28610  0.40103  1.0000
+  As  As2       1.0  0.16586  0.71390  0.09897  1.0000
+  As  As3       1.0  0.33414  0.71390  0.59897  1.0000
+  As  As4       1.0  0.83414  0.28610  0.90103  1.0000
+  As  As5       1.0  0.42231  0.30169  0.19869  1.0000
+  As  As6       1.0  0.92231  0.69831  0.30131  1.0000
+  As  As7       1.0  0.57769  0.69831  0.80131  1.0000
+  As  As8       1.0  0.07769  0.30169  0.69869  1.0000

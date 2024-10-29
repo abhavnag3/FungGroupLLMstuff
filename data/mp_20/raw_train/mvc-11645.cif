@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn2Fe4O8
+_chemical_formula_sum              "Zn2 Fe4 O8"
+_cell_length_a       5.99809
+_cell_length_b       6.00644
+_cell_length_c       5.9895
+_cell_angle_alpha    90.0698
+_cell_angle_beta     119.928
+_cell_angle_gamma    119.998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25452  0.12735  0.88161  1.0000
+  Zn  Zn2       1.0  0.74548  0.87266  0.11842  1.0000
+  Fe  Fe1       1.0  0.50003  0.00006  0.49999  1.0000
+  Fe  Fe2       1.0  0.50003  0.49997  0.50000  1.0000
+  Fe  Fe3       1.0  0.99999  0.50000  0.99999  1.0000
+  Fe  Fe4       1.0  0.99992  0.49996  0.49995  1.0000
+  O   O1        1.0  0.01798  0.73509  0.25231  1.0000
+  O   O2        1.0  0.47616  0.73831  0.71578  1.0000
+  O   O3        1.0  0.47269  0.73610  0.25542  1.0000
+  O   O4        1.0  0.98220  0.71711  0.74873  1.0000
+  O   O5        1.0  0.52730  0.26389  0.74457  1.0000
+  O   O6        1.0  0.52391  0.26173  0.28432  1.0000
+  O   O7        1.0  0.01780  0.28288  0.25125  1.0000
+  O   O8        1.0  0.98201  0.26491  0.74767  1.0000

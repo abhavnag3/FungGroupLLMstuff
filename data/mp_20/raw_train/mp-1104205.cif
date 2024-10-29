@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       BaErFe4O7
+_chemical_formula_sum              "Ba1 Er1 Fe4 O7"
+_cell_length_a       6.45364
+_cell_length_b       6.45364
+_cell_length_c       6.45364
+_cell_angle_alpha    121.23
+_cell_angle_beta     121.23
+_cell_angle_gamma    87.8826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.75000  0.50000  1.0000
+  Er  Er1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe1       1.0  0.13900  0.34998  0.72993  1.0000
+  Fe  Fe2       1.0  0.62004  0.40907  0.27007  1.0000
+  Fe  Fe3       1.0  0.65002  0.37996  0.78903  1.0000
+  Fe  Fe4       1.0  0.59093  0.86100  0.21097  1.0000
+  O   O1        1.0  0.82493  0.31998  0.09905  1.0000
+  O   O2        1.0  0.22093  0.72589  0.90095  1.0000
+  O   O3        1.0  0.68002  0.77907  0.50495  1.0000
+  O   O4        1.0  0.27411  0.17507  0.49505  1.0000
+  O   O5        1.0  0.75602  0.75602  0.00000  1.0000
+  O   O6        1.0  0.24398  0.24398  0.00000  1.0000
+  O   O7        1.0  0.75000  0.25000  0.50000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Cr2Ni2O8
+_chemical_formula_sum              "Li4 Cr2 Ni2 O8"
+_cell_length_a       4.0503
+_cell_length_b       7.71589
+_cell_length_c       5.1351
+_cell_angle_alpha    92.5396
+_cell_angle_beta     113.226
+_cell_angle_gamma    105.218
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.62592  0.87445  0.37744  1.0000
+  Li  Li2       1.0  0.12551  0.37528  0.87580  1.0000
+  Li  Li3       1.0  0.25327  0.74892  0.75762  1.0000
+  Li  Li4       1.0  0.74512  0.25202  0.23822  1.0000
+  Cr  Cr1       1.0  0.87319  0.62667  0.11968  1.0000
+  Cr  Cr2       1.0  0.37759  0.12582  0.62944  1.0000
+  Ni  Ni1       1.0  0.00250  0.99850  0.00649  1.0000
+  Ni  Ni2       1.0  0.49610  0.50029  0.49191  1.0000
+  O   O1        1.0  0.24568  0.22694  0.26435  1.0000
+  O   O2        1.0  0.77125  0.75744  0.78504  1.0000
+  O   O3        1.0  0.49317  0.00668  0.97964  1.0000
+  O   O4        1.0  0.98956  0.50827  0.47082  1.0000
+  O   O5        1.0  0.11470  0.88585  0.34353  1.0000
+  O   O6        1.0  0.61484  0.38301  0.84670  1.0000
+  O   O7        1.0  0.38196  0.61828  0.14561  1.0000
+  O   O8        1.0  0.88964  0.11159  0.66773  1.0000

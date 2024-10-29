@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K4Al4O6F4
+_chemical_formula_sum              "K4 Al4 O6 F4"
+_cell_length_a       7.04137
+_cell_length_b       7.04137
+_cell_length_c       6.18684
+_cell_angle_alpha    88.9784
+_cell_angle_beta     88.9784
+_cell_angle_gamma    72.086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.84176  0.84176  0.66982  1.0000
+  K   K2        1.0  0.60156  0.60156  0.25586  1.0000
+  K   K3        1.0  0.39844  0.39844  0.74414  1.0000
+  K   K4        1.0  0.15824  0.15824  0.33018  1.0000
+  Al  Al1       1.0  0.92432  0.32620  0.85521  1.0000
+  Al  Al2       1.0  0.67380  0.07568  0.14479  1.0000
+  Al  Al3       1.0  0.32620  0.92432  0.85521  1.0000
+  Al  Al4       1.0  0.07568  0.67380  0.14479  1.0000
+  O   O1        1.0  0.00000  0.50000  0.00000  1.0000
+  O   O2        1.0  0.87791  0.87791  0.23317  1.0000
+  O   O3        1.0  0.73785  0.26215  0.00000  1.0000
+  O   O4        1.0  0.50000  0.00000  0.00000  1.0000
+  O   O5        1.0  0.26215  0.73785  0.00000  1.0000
+  O   O6        1.0  0.12210  0.12209  0.76683  1.0000
+  F   F1        1.0  0.81649  0.44632  0.61402  1.0000
+  F   F2        1.0  0.55368  0.18351  0.38598  1.0000
+  F   F3        1.0  0.44632  0.81649  0.61402  1.0000
+  F   F4        1.0  0.18351  0.55368  0.38598  1.0000

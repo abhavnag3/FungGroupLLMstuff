@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Ti2Be17
+_chemical_formula_sum              "Ti2 Be17"
+_cell_length_a       5.54441
+_cell_length_b       5.54441
+_cell_length_c       5.54441
+_cell_angle_alpha    82.8441
+_cell_angle_beta     82.8441
+_cell_angle_gamma    82.8441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.16384  0.16384  0.16384  1.0000
+  Ti  Ti2       1.0  0.83616  0.83616  0.83616  1.0000
+  Be  Be1       1.0  0.40101  0.40101  0.40101  1.0000
+  Be  Be2       1.0  0.59899  0.59899  0.59899  1.0000
+  Be  Be3       1.0  0.50000  0.50000  0.00000  1.0000
+  Be  Be4       1.0  0.50000  0.00000  0.50000  1.0000
+  Be  Be5       1.0  0.00000  0.50000  0.50000  1.0000
+  Be  Be6       1.0  0.50000  0.79519  0.20481  1.0000
+  Be  Be7       1.0  0.79519  0.20481  0.50000  1.0000
+  Be  Be8       1.0  0.20481  0.50000  0.79519  1.0000
+  Be  Be9       1.0  0.50000  0.20481  0.79519  1.0000
+  Be  Be10      1.0  0.20481  0.79519  0.50000  1.0000
+  Be  Be11      1.0  0.79519  0.50000  0.20481  1.0000
+  Be  Be12      1.0  0.66018  0.15359  0.15359  1.0000
+  Be  Be13      1.0  0.15359  0.15359  0.66018  1.0000
+  Be  Be14      1.0  0.15359  0.66018  0.15359  1.0000
+  Be  Be15      1.0  0.84641  0.33982  0.84641  1.0000
+  Be  Be16      1.0  0.33982  0.84641  0.84641  1.0000
+  Be  Be17      1.0  0.84641  0.84641  0.33982  1.0000

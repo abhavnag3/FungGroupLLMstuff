@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb10Si2B4
+_chemical_formula_sum              "Nb10 Si2 B4"
+_cell_length_a       7.34283
+_cell_length_b       7.34283
+_cell_length_c       7.34283
+_cell_angle_alpha    129.352
+_cell_angle_beta     129.352
+_cell_angle_gamma    74.445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nb  Nb2       1.0  0.50000  0.50000  0.00000  1.0000
+  Nb  Nb3       1.0  0.80704  0.30704  0.83864  1.0000
+  Nb  Nb4       1.0  0.19296  0.69296  0.16135  1.0000
+  Nb  Nb5       1.0  0.46840  0.96840  0.16135  1.0000
+  Nb  Nb6       1.0  0.30704  0.46840  0.50000  1.0000
+  Nb  Nb7       1.0  0.03160  0.19296  0.50000  1.0000
+  Nb  Nb8       1.0  0.53160  0.03160  0.83864  1.0000
+  Nb  Nb9       1.0  0.69296  0.53160  0.50000  1.0000
+  Nb  Nb10      1.0  0.96840  0.80704  0.50000  1.0000
+  Si  Si1       1.0  0.25000  0.25000  0.00000  1.0000
+  Si  Si2       1.0  0.75000  0.75000  0.00000  1.0000
+  B   B1        1.0  0.11334  0.61334  0.72668  1.0000
+  B   B2        1.0  0.88666  0.38666  0.27332  1.0000
+  B   B3        1.0  0.61334  0.88666  0.50000  1.0000
+  B   B4        1.0  0.38666  0.11334  0.50000  1.0000

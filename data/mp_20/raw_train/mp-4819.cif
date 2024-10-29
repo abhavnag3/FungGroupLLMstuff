@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg4Ge4O12
+_chemical_formula_sum              "Mg4 Ge4 O12"
+_cell_length_a       6.64848
+_cell_length_b       6.64848
+_cell_length_c       5.23244
+_cell_angle_alpha    81.8758
+_cell_angle_beta     81.8758
+_cell_angle_gamma    85.9458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.09353  0.90647  0.25000  1.0000
+  Mg  Mg2       1.0  0.90647  0.09353  0.75000  1.0000
+  Mg  Mg3       1.0  0.72976  0.27024  0.25000  1.0000
+  Mg  Mg4       1.0  0.27024  0.72976  0.75000  1.0000
+  Ge  Ge1       1.0  0.60558  0.79515  0.21142  1.0000
+  Ge  Ge2       1.0  0.20485  0.39442  0.28858  1.0000
+  Ge  Ge3       1.0  0.39442  0.20485  0.78858  1.0000
+  Ge  Ge4       1.0  0.79515  0.60558  0.71142  1.0000
+  O   O1        1.0  0.70949  0.57006  0.40358  1.0000
+  O   O2        1.0  0.42994  0.29051  0.09642  1.0000
+  O   O3        1.0  0.29051  0.42994  0.59642  1.0000
+  O   O4        1.0  0.57006  0.70949  0.90358  1.0000
+  O   O5        1.0  0.85930  0.37423  0.88203  1.0000
+  O   O6        1.0  0.62577  0.14070  0.61797  1.0000
+  O   O7        1.0  0.14070  0.62577  0.11797  1.0000
+  O   O8        1.0  0.37423  0.85930  0.38203  1.0000
+  O   O9        1.0  0.79414  0.97537  0.13191  1.0000
+  O   O10       1.0  0.02463  0.20586  0.36809  1.0000
+  O   O11       1.0  0.20586  0.02463  0.86809  1.0000
+  O   O12       1.0  0.97537  0.79414  0.63191  1.0000

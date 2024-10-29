@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rb4Si2S6
+_chemical_formula_sum              "Rb4 Si2 S6"
+_cell_length_a       7.62519
+_cell_length_b       7.62519
+_cell_length_c       9.81284
+_cell_angle_alpha    58.6074
+_cell_angle_beta     58.6074
+_cell_angle_gamma    54.3238
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.19180  0.19180  0.18604  1.0000
+  Rb  Rb2       1.0  0.80820  0.80820  0.81396  1.0000
+  Rb  Rb3       1.0  0.41707  0.41707  0.36649  1.0000
+  Rb  Rb4       1.0  0.58293  0.58293  0.63351  1.0000
+  Si  Si1       1.0  0.88509  0.88509  0.17586  1.0000
+  Si  Si2       1.0  0.11490  0.11491  0.82414  1.0000
+  S   S1        1.0  0.23384  0.76616  0.00000  1.0000
+  S   S2        1.0  0.76616  0.23384  0.00000  1.0000
+  S   S3        1.0  0.11218  0.11218  0.61367  1.0000
+  S   S4        1.0  0.88782  0.88782  0.38633  1.0000
+  S   S5        1.0  0.28597  0.28597  0.77954  1.0000
+  S   S6        1.0  0.71403  0.71403  0.22046  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn2Fe2Si4O12
+_chemical_formula_sum              "Zn2 Fe2 Si4 O12"
+_cell_length_a       5.39891
+_cell_length_b       6.82118
+_cell_length_c       6.82287
+_cell_angle_alpha    87.4513
+_cell_angle_beta     75.0383
+_cell_angle_gamma    75.0422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.74987  0.23519  0.76486  1.0000
+  Zn  Zn2       1.0  0.24992  0.76482  0.23523  1.0000
+  Fe  Fe1       1.0  0.24998  0.10404  0.89573  1.0000
+  Fe  Fe2       1.0  0.74994  0.89585  0.10414  1.0000
+  Si  Si1       1.0  0.22093  0.22128  0.38733  1.0000
+  Si  Si2       1.0  0.27913  0.61261  0.77882  1.0000
+  Si  Si3       1.0  0.72098  0.38733  0.22123  1.0000
+  Si  Si4       1.0  0.77917  0.77875  0.61257  1.0000
+  O   O1        1.0  0.45888  0.33436  0.37804  1.0000
+  O   O2        1.0  0.04141  0.62212  0.66551  1.0000
+  O   O3        1.0  0.54133  0.66551  0.62212  1.0000
+  O   O4        1.0  0.95884  0.37809  0.33432  1.0000
+  O   O5        1.0  0.12307  0.14755  0.61921  1.0000
+  O   O6        1.0  0.37665  0.38074  0.85276  1.0000
+  O   O7        1.0  0.87674  0.85261  0.38071  1.0000
+  O   O8        1.0  0.62320  0.61922  0.14742  1.0000
+  O   O9        1.0  0.83909  0.20874  0.04171  1.0000
+  O   O10       1.0  0.66083  0.95830  0.79119  1.0000
+  O   O11       1.0  0.33911  0.04164  0.20882  1.0000
+  O   O12       1.0  0.16091  0.79125  0.95829  1.0000

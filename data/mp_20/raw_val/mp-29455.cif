@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ga4GeO8
+_chemical_formula_sum              "Ga4 Ge1 O8"
+_cell_length_a       6.37861
+_cell_length_b       6.37861
+_cell_length_c       9.52571
+_cell_angle_alpha    55.9925
+_cell_angle_beta     55.9925
+_cell_angle_gamma    27.6415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.53744  0.53744  0.28297  1.0000
+  Ga  Ga2       1.0  0.46256  0.46256  0.71703  1.0000
+  Ga  Ga3       1.0  0.24158  0.24158  0.36045  1.0000
+  Ga  Ga4       1.0  0.75842  0.75842  0.63955  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.11021  0.11021  0.30431  1.0000
+  O   O2        1.0  0.88979  0.88979  0.69569  1.0000
+  O   O3        1.0  0.55929  0.55929  0.07210  1.0000
+  O   O4        1.0  0.44071  0.44071  0.92790  1.0000
+  O   O5        1.0  0.35413  0.35413  0.46254  1.0000
+  O   O6        1.0  0.16069  0.16069  0.78440  1.0000
+  O   O7        1.0  0.83931  0.83931  0.21560  1.0000
+  O   O8        1.0  0.64587  0.64587  0.53746  1.0000

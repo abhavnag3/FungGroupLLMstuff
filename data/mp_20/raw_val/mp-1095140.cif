@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Er4Co2Ge4
+_chemical_formula_sum              "Er4 Co2 Ge4"
+_cell_length_a       5.59746
+_cell_length_b       5.59746
+_cell_length_c       10.0852
+_cell_angle_alpha    64.0948
+_cell_angle_beta     64.0948
+_cell_angle_gamma    43.8142
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.81269  0.81269  0.11084  1.0000
+  Er  Er2       1.0  0.18731  0.18731  0.88916  1.0000
+  Er  Er3       1.0  0.99390  0.99390  0.33245  1.0000
+  Er  Er4       1.0  0.00610  0.00610  0.66755  1.0000
+  Co  Co1       1.0  0.72462  0.72462  0.64107  1.0000
+  Co  Co2       1.0  0.27538  0.27538  0.35893  1.0000
+  Ge  Ge1       1.0  0.51319  0.51319  0.12520  1.0000
+  Ge  Ge2       1.0  0.48681  0.48681  0.87481  1.0000
+  Ge  Ge3       1.0  0.65219  0.65219  0.43400  1.0000
+  Ge  Ge4       1.0  0.34781  0.34781  0.56600  1.0000

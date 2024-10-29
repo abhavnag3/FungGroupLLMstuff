@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti2Cr4O10
+_chemical_formula_sum              "Ti2 Cr4 O10"
+_cell_length_a       5.08376
+_cell_length_b       5.6149
+_cell_length_c       7.24362
+_cell_angle_alpha    109.561
+_cell_angle_beta     90.0001
+_cell_angle_gamma    63.0837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  1.00000  0.00001  0.00001  1.0000
+  Ti  Ti2       1.0  0.99999  0.00000  0.50001  1.0000
+  Cr  Cr1       1.0  0.61690  0.75293  0.28560  1.0000
+  Cr  Cr2       1.0  0.63017  0.75293  0.78560  1.0000
+  Cr  Cr3       1.0  0.38308  0.24705  0.71438  1.0000
+  Cr  Cr4       1.0  0.36986  0.24705  0.21438  1.0000
+  O   O1        1.0  0.19205  0.00003  0.75001  1.0000
+  O   O2        1.0  0.80794  0.99998  0.25000  1.0000
+  O   O3        1.0  0.03777  0.62833  0.84832  1.0000
+  O   O4        1.0  0.96224  0.37167  0.15169  1.0000
+  O   O5        1.0  0.66609  0.37166  0.65168  1.0000
+  O   O6        1.0  0.33390  0.62834  0.34833  1.0000
+  O   O7        1.0  0.74600  0.83811  0.55452  1.0000
+  O   O8        1.0  0.25399  0.16189  0.44547  1.0000
+  O   O9        1.0  0.58410  0.16188  0.94547  1.0000
+  O   O10       1.0  0.41591  0.83813  0.05452  1.0000

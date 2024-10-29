@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba8Ge4
+_chemical_formula_sum              "Ba8 Ge4"
+_cell_length_a       5.47582
+_cell_length_b       8.56571
+_cell_length_c       10.246
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75000  0.35444  0.08373  1.0000
+  Ba  Ba2       1.0  0.25000  0.64556  0.91627  1.0000
+  Ba  Ba3       1.0  0.75000  0.85444  0.41627  1.0000
+  Ba  Ba4       1.0  0.25000  0.14556  0.58373  1.0000
+  Ba  Ba5       1.0  0.25000  0.01903  0.17036  1.0000
+  Ba  Ba6       1.0  0.75000  0.98097  0.82964  1.0000
+  Ba  Ba7       1.0  0.25000  0.51903  0.32964  1.0000
+  Ba  Ba8       1.0  0.75000  0.48097  0.67036  1.0000
+  Ge  Ge1       1.0  0.25000  0.74886  0.60014  1.0000
+  Ge  Ge2       1.0  0.75000  0.25115  0.39986  1.0000
+  Ge  Ge3       1.0  0.25000  0.24885  0.89986  1.0000
+  Ge  Ge4       1.0  0.75000  0.75114  0.10014  1.0000

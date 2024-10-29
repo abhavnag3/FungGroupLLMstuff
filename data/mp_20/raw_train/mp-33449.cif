@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tb5AgS8
+_chemical_formula_sum              "Tb5 Ag1 S8"
+_cell_length_a       7.24186
+_cell_length_b       7.24186
+_cell_length_c       7.24186
+_cell_angle_alpha    109.631
+_cell_angle_beta     109.631
+_cell_angle_gamma    109.153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.37867  0.76466  0.88112  1.0000
+  Tb  Tb2       1.0  0.50245  0.62133  0.38599  1.0000
+  Tb  Tb3       1.0  0.88354  0.49755  0.11888  1.0000
+  Tb  Tb4       1.0  0.75000  0.25000  0.50000  1.0000
+  Tb  Tb5       1.0  0.23534  0.11646  0.61401  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.27159  0.87974  0.25217  1.0000
+  S   S2        1.0  0.75735  0.86830  0.25930  1.0000
+  S   S3        1.0  0.13170  0.39100  0.88906  1.0000
+  S   S4        1.0  0.98058  0.72841  0.60815  1.0000
+  S   S5        1.0  0.12026  0.37243  0.39185  1.0000
+  S   S6        1.0  0.60900  0.49805  0.74070  1.0000
+  S   S7        1.0  0.50195  0.24265  0.11094  1.0000
+  S   S8        1.0  0.62757  0.01942  0.74783  1.0000

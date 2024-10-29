@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Nd4Eu2S8
+_chemical_formula_sum              "Nd4 Eu2 S8"
+_cell_length_a       7.4807
+_cell_length_b       7.4807
+_cell_length_c       7.4807
+_cell_angle_alpha    109.312
+_cell_angle_beta     109.312
+_cell_angle_gamma    109.79
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.99784  0.37500  0.12284  1.0000
+  Nd  Nd2       1.0  0.62500  0.74784  0.62284  1.0000
+  Nd  Nd3       1.0  0.25216  0.87500  0.87716  1.0000
+  Nd  Nd4       1.0  0.12500  0.00216  0.37716  1.0000
+  Eu  Eu1       1.0  0.75000  0.25000  0.50000  1.0000
+  Eu  Eu2       1.0  0.50000  0.50000  0.00000  1.0000
+  S   S1        1.0  0.51990  0.11969  0.74991  1.0000
+  S   S2        1.0  0.73010  0.98001  0.09979  1.0000
+  S   S3        1.0  0.88031  0.63022  0.40021  1.0000
+  S   S4        1.0  0.23001  0.48010  0.59979  1.0000
+  S   S5        1.0  0.36969  0.26990  0.24991  1.0000
+  S   S6        1.0  0.88022  0.63031  0.90021  1.0000
+  S   S7        1.0  0.36978  0.76999  0.25009  1.0000
+  S   S8        1.0  0.01999  0.11978  0.75009  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr2Mo2O6
+_chemical_formula_sum              "Sr2 Mo2 O6"
+_cell_length_a       5.73284
+_cell_length_b       5.74274
+_cell_length_c       5.80579
+_cell_angle_alpha    60.0256
+_cell_angle_beta     59.7075
+_cell_angle_gamma    60.1603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75257  0.74335  0.75743  1.0000
+  Sr  Sr2       1.0  0.24743  0.25665  0.24257  1.0000
+  Mo  Mo1       1.0  0.50000  0.50000  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.76424  0.18253  0.32819  1.0000
+  O   O2        1.0  0.23576  0.81747  0.67181  1.0000
+  O   O3        1.0  0.22037  0.27942  0.78228  1.0000
+  O   O4        1.0  0.29405  0.70827  0.19579  1.0000
+  O   O5        1.0  0.70595  0.29173  0.80421  1.0000
+  O   O6        1.0  0.77963  0.72058  0.21772  1.0000

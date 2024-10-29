@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs2Sr2Si2H2O8
+_chemical_formula_sum              "Cs2 Sr2 Si2 H2 O8"
+_cell_length_a       6.3393
+_cell_length_b       8.25928
+_cell_length_c       5.78045
+_cell_angle_alpha    90
+_cell_angle_beta     116.87
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.38443  0.80499  0.64958  1.0000
+  Cs  Cs2       1.0  0.61557  0.30499  0.35042  1.0000
+  Sr  Sr1       1.0  0.09857  0.55762  0.02931  1.0000
+  Sr  Sr2       1.0  0.90143  0.05762  0.97069  1.0000
+  Si  Si1       1.0  0.76032  0.73982  0.34039  1.0000
+  Si  Si2       1.0  0.23968  0.23982  0.65961  1.0000
+  H   H1        1.0  0.91163  0.99479  0.47785  1.0000
+  H   H2        1.0  0.08837  0.49479  0.52215  1.0000
+  O   O1        1.0  0.48134  0.68837  0.19923  1.0000
+  O   O2        1.0  0.51866  0.18837  0.80077  1.0000
+  O   O3        1.0  0.87154  0.76949  0.13453  1.0000
+  O   O4        1.0  0.12846  0.26949  0.86547  1.0000
+  O   O5        1.0  0.92248  0.60905  0.56637  1.0000
+  O   O6        1.0  0.07752  0.10905  0.43363  1.0000
+  O   O7        1.0  0.79368  0.91887  0.50572  1.0000
+  O   O8        1.0  0.20632  0.41887  0.49428  1.0000

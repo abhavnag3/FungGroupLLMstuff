@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba12Ge4O4
+_chemical_formula_sum              "Ba12 Ge4 O4"
+_cell_length_a       7.61088
+_cell_length_b       7.76563
+_cell_length_c       10.8911
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.57867  0.51959  0.25000  1.0000
+  Ba  Ba2       1.0  0.07867  0.98041  0.75000  1.0000
+  Ba  Ba3       1.0  0.92133  0.01959  0.25000  1.0000
+  Ba  Ba4       1.0  0.42133  0.48041  0.75000  1.0000
+  Ba  Ba5       1.0  0.29003  0.21052  0.45890  1.0000
+  Ba  Ba6       1.0  0.79003  0.28948  0.54110  1.0000
+  Ba  Ba7       1.0  0.20997  0.71052  0.04110  1.0000
+  Ba  Ba8       1.0  0.70997  0.78948  0.95890  1.0000
+  Ba  Ba9       1.0  0.70997  0.78948  0.54110  1.0000
+  Ba  Ba10      1.0  0.20997  0.71052  0.45890  1.0000
+  Ba  Ba11      1.0  0.79003  0.28948  0.95890  1.0000
+  Ba  Ba12      1.0  0.29003  0.21052  0.04110  1.0000
+  Ge  Ge1       1.0  0.98680  0.53978  0.75000  1.0000
+  Ge  Ge2       1.0  0.48680  0.96022  0.25000  1.0000
+  Ge  Ge3       1.0  0.51320  0.03978  0.75000  1.0000
+  Ge  Ge4       1.0  0.01320  0.46022  0.25000  1.0000
+  O   O1        1.0  0.00000  0.00000  0.50000  1.0000
+  O   O2        1.0  0.50000  0.50000  0.50000  1.0000
+  O   O3        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O4        1.0  0.00000  0.00000  0.00000  1.0000

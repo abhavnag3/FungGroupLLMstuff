@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ti4CrTe8
+_chemical_formula_sum              "Ti4 Cr1 Te8"
+_cell_length_a       7.63638
+_cell_length_b       7.63638
+_cell_length_c       9.31536
+_cell_angle_alpha    52.522
+_cell_angle_beta     52.522
+_cell_angle_gamma    60.4859
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24828  0.24828  0.00896  1.0000
+  Ti  Ti2       1.0  0.75172  0.75172  0.99104  1.0000
+  Ti  Ti3       1.0  0.76489  0.23511  0.50000  1.0000
+  Ti  Ti4       1.0  0.23511  0.76489  0.50000  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.54369  0.54369  0.66281  1.0000
+  Te  Te2       1.0  0.04823  0.04823  0.66843  1.0000
+  Te  Te3       1.0  0.03965  0.55062  0.16933  1.0000
+  Te  Te4       1.0  0.55061  0.03965  0.16933  1.0000
+  Te  Te5       1.0  0.44938  0.96035  0.83067  1.0000
+  Te  Te6       1.0  0.96035  0.44938  0.83067  1.0000
+  Te  Te7       1.0  0.95177  0.95178  0.33157  1.0000
+  Te  Te8       1.0  0.45631  0.45631  0.33719  1.0000

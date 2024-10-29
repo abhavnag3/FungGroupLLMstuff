@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2N12
+_chemical_formula_sum              "Ca2 N12"
+_cell_length_a       8.01758
+_cell_length_b       6.49727
+_cell_length_c       6.32319
+_cell_angle_alpha    77.406
+_cell_angle_beta     52.2679
+_cell_angle_gamma    50.3261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.25000  0.25000  0.25000  1.0000
+  N   N1        1.0  0.78700  0.96262  0.84576  1.0000
+  N   N2        1.0  0.40462  0.84576  0.96262  1.0000
+  N   N3        1.0  0.62363  0.62363  0.87637  1.0000
+  N   N4        1.0  0.87637  0.87637  0.62363  1.0000
+  N   N5        1.0  0.62637  0.62637  0.37363  1.0000
+  N   N6        1.0  0.37363  0.37363  0.62637  1.0000
+  N   N7        1.0  0.28738  0.46300  0.84538  1.0000
+  N   N8        1.0  0.40424  0.84538  0.46300  1.0000
+  N   N9        1.0  0.84538  0.40424  0.28737  1.0000
+  N   N10       1.0  0.46300  0.28737  0.40424  1.0000
+  N   N11       1.0  0.96262  0.78700  0.40462  1.0000
+  N   N12       1.0  0.84576  0.40462  0.78700  1.0000

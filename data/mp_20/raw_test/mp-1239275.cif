@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zr2Cr2Cu2S8
+_chemical_formula_sum              "Zr2 Cr2 Cu2 S8"
+_cell_length_a       3.58281
+_cell_length_b       6.05864
+_cell_length_c       11.6943
+_cell_angle_alpha    89.7803
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.00000  0.01786  0.24462  1.0000
+  Zr  Zr2       1.0  0.00000  0.98214  0.75538  1.0000
+  Cr  Cr1       1.0  0.50000  0.51195  0.74237  1.0000
+  Cr  Cr2       1.0  0.50000  0.48805  0.25762  1.0000
+  Cu  Cu1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.50000  1.0000
+  S   S1        1.0  0.50000  0.18243  0.11710  1.0000
+  S   S2        1.0  0.50000  0.81757  0.88290  1.0000
+  S   S3        1.0  0.00000  0.65606  0.62323  1.0000
+  S   S4        1.0  0.00000  0.34394  0.37677  1.0000
+  S   S5        1.0  0.00000  0.64384  0.13854  1.0000
+  S   S6        1.0  0.00000  0.35616  0.86146  1.0000
+  S   S7        1.0  0.50000  0.17409  0.62649  1.0000
+  S   S8        1.0  0.50000  0.82591  0.37351  1.0000

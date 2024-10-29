@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tb4Ti4O12
+_chemical_formula_sum              "Tb4 Ti4 O12"
+_cell_length_a       5.36562
+_cell_length_b       5.7134
+_cell_length_c       7.7234
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.02110  0.93021  0.75000  1.0000
+  Tb  Tb2       1.0  0.47890  0.43021  0.75000  1.0000
+  Tb  Tb3       1.0  0.52110  0.56979  0.25000  1.0000
+  Tb  Tb4       1.0  0.97890  0.06979  0.25000  1.0000
+  Ti  Ti1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ti  Ti2       1.0  0.00000  0.50000  0.50000  1.0000
+  Ti  Ti3       1.0  0.50000  0.00000  0.00000  1.0000
+  Ti  Ti4       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.11769  0.45697  0.25000  1.0000
+  O   O2        1.0  0.19213  0.19906  0.55762  1.0000
+  O   O3        1.0  0.19213  0.19906  0.94238  1.0000
+  O   O4        1.0  0.30787  0.69906  0.94238  1.0000
+  O   O5        1.0  0.30787  0.69906  0.55762  1.0000
+  O   O6        1.0  0.38231  0.95697  0.25000  1.0000
+  O   O7        1.0  0.61769  0.04303  0.75000  1.0000
+  O   O8        1.0  0.69213  0.30094  0.05762  1.0000
+  O   O9        1.0  0.69213  0.30094  0.44238  1.0000
+  O   O10       1.0  0.80787  0.80094  0.05762  1.0000
+  O   O11       1.0  0.80787  0.80094  0.44238  1.0000
+  O   O12       1.0  0.88231  0.54303  0.75000  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K4Fe2I8
+_chemical_formula_sum              "K4 Fe2 I8"
+_cell_length_a       8.22222
+_cell_length_b       7.94929
+_cell_length_c       9.7834
+_cell_angle_alpha    71.7962
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.75000  0.78137  0.55156  1.0000
+  K   K2        1.0  0.25000  0.21863  0.44843  1.0000
+  K   K3        1.0  0.75000  0.73197  0.06803  1.0000
+  K   K4        1.0  0.25000  0.26803  0.93197  1.0000
+  Fe  Fe1       1.0  0.75000  0.22381  0.70095  1.0000
+  Fe  Fe2       1.0  0.25000  0.77619  0.29905  1.0000
+  I   I1        1.0  0.75000  0.39964  0.42508  1.0000
+  I   I2        1.0  0.25000  0.60036  0.57492  1.0000
+  I   I3        1.0  0.99824  0.99376  0.23967  1.0000
+  I   I4        1.0  0.00176  0.00624  0.76033  1.0000
+  I   I5        1.0  0.49824  0.00624  0.76033  1.0000
+  I   I6        1.0  0.50176  0.99376  0.23967  1.0000
+  I   I7        1.0  0.75000  0.42025  0.87260  1.0000
+  I   I8        1.0  0.25000  0.57974  0.12740  1.0000

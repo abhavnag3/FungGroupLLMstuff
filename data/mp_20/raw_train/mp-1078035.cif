@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sm2Cr2C3
+_chemical_formula_sum              "Sm2 Cr2 C3"
+_cell_length_a       5.4798
+_cell_length_b       5.4798
+_cell_length_c       5.70787
+_cell_angle_alpha    75.5684
+_cell_angle_beta     75.5684
+_cell_angle_gamma    36.8874
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.39751  0.39751  0.81853  1.0000
+  Sm  Sm2       1.0  0.60249  0.60249  0.18147  1.0000
+  Cr  Cr1       1.0  0.15879  0.15879  0.60305  1.0000
+  Cr  Cr2       1.0  0.84121  0.84121  0.39695  1.0000
+  C   C1        1.0  0.29152  0.29152  0.28139  1.0000
+  C   C2        1.0  0.70848  0.70848  0.71861  1.0000
+  C   C3        1.0  0.00000  0.00000  0.50000  1.0000

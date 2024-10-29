@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4Mg4Pd4
+_chemical_formula_sum              "Eu4 Mg4 Pd4"
+_cell_length_a       4.39391
+_cell_length_b       7.52856
+_cell_length_c       8.64282
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.25000  0.03002  0.32303  1.0000
+  Eu  Eu2       1.0  0.25000  0.53002  0.17697  1.0000
+  Eu  Eu3       1.0  0.75000  0.96998  0.67697  1.0000
+  Eu  Eu4       1.0  0.75000  0.46998  0.82303  1.0000
+  Mg  Mg1       1.0  0.25000  0.13719  0.93768  1.0000
+  Mg  Mg2       1.0  0.25000  0.63719  0.56232  1.0000
+  Mg  Mg3       1.0  0.75000  0.86281  0.06232  1.0000
+  Mg  Mg4       1.0  0.75000  0.36281  0.43768  1.0000
+  Pd  Pd1       1.0  0.25000  0.27407  0.62212  1.0000
+  Pd  Pd2       1.0  0.25000  0.77407  0.87788  1.0000
+  Pd  Pd3       1.0  0.75000  0.72593  0.37788  1.0000
+  Pd  Pd4       1.0  0.75000  0.22593  0.12212  1.0000

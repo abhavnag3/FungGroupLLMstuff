@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CaZn3O4
+_chemical_formula_sum              "Ca1 Zn3 O4"
+_cell_length_a       3.42176
+_cell_length_b       6.41913
+_cell_length_c       5.89752
+_cell_angle_alpha    62.5613
+_cell_angle_beta     90.0035
+_cell_angle_gamma    74.5405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.74871  0.50258  0.41804  1.0000
+  Zn  Zn1       1.0  0.24823  0.50369  0.91195  1.0000
+  Zn  Zn2       1.0  0.99798  0.00403  0.33466  1.0000
+  Zn  Zn3       1.0  0.50546  0.98889  0.83450  1.0000
+  O   O1        1.0  0.95346  0.09295  0.62494  1.0000
+  O   O2        1.0  0.44157  0.11689  0.10600  1.0000
+  O   O3        1.0  0.17994  0.64019  0.53531  1.0000
+  O   O4        1.0  0.69066  0.61877  0.00059  1.0000

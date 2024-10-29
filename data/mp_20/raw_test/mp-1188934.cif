@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Eu10Ge6
+_chemical_formula_sum              "Eu10 Ge6"
+_cell_length_a       9.38072
+_cell_length_b       9.38072
+_cell_length_c       9.38072
+_cell_angle_alpha    130.147
+_cell_angle_beta     130.147
+_cell_angle_gamma    73.1717
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.53124  0.03124  0.85249  1.0000
+  Eu  Eu2       1.0  0.17876  0.67876  0.14752  1.0000
+  Eu  Eu3       1.0  0.03124  0.17876  0.50000  1.0000
+  Eu  Eu4       1.0  0.67876  0.53124  0.50000  1.0000
+  Eu  Eu5       1.0  0.46876  0.96876  0.14752  1.0000
+  Eu  Eu6       1.0  0.82124  0.32124  0.85249  1.0000
+  Eu  Eu7       1.0  0.96876  0.82124  0.50000  1.0000
+  Eu  Eu8       1.0  0.32124  0.46876  0.50000  1.0000
+  Eu  Eu9       1.0  0.50000  0.50000  0.00000  1.0000
+  Eu  Eu10      1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.88426  0.38426  0.26853  1.0000
+  Ge  Ge2       1.0  0.11574  0.61574  0.73147  1.0000
+  Ge  Ge3       1.0  0.38426  0.11574  0.50000  1.0000
+  Ge  Ge4       1.0  0.61574  0.88426  0.50000  1.0000
+  Ge  Ge5       1.0  0.25000  0.25000  0.00000  1.0000
+  Ge  Ge6       1.0  0.75000  0.75000  0.00000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Er4Ni4O12
+_chemical_formula_sum              "Er4 Ni4 O12"
+_cell_length_a       5.55904
+_cell_length_b       5.1814
+_cell_length_c       9.05828
+_cell_angle_alpha    55.0646
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.57590  0.72818  0.75117  1.0000
+  Er  Er2       1.0  0.92410  0.72818  0.25117  1.0000
+  Er  Er3       1.0  0.42410  0.27182  0.24883  1.0000
+  Er  Er4       1.0  0.07590  0.27182  0.74883  1.0000
+  Ni  Ni1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni3       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni4       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.96450  0.86301  0.74499  1.0000
+  O   O2        1.0  0.53550  0.86301  0.24499  1.0000
+  O   O3        1.0  0.03549  0.13699  0.25501  1.0000
+  O   O4        1.0  0.46451  0.13699  0.75501  1.0000
+  O   O5        1.0  0.81131  0.64602  0.55168  1.0000
+  O   O6        1.0  0.68869  0.64602  0.05169  1.0000
+  O   O7        1.0  0.18869  0.35398  0.44832  1.0000
+  O   O8        1.0  0.31130  0.35398  0.94832  1.0000
+  O   O9        1.0  0.70165  0.24338  0.44346  1.0000
+  O   O10       1.0  0.79835  0.24338  0.94346  1.0000
+  O   O11       1.0  0.29835  0.75662  0.55654  1.0000
+  O   O12       1.0  0.20165  0.75662  0.05654  1.0000

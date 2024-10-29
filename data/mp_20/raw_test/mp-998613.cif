@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K2Ge2Cl6
+_chemical_formula_sum              "K2 Ge2 Cl6"
+_cell_length_a       7.67267
+_cell_length_b       7.67267
+_cell_length_c       7.67267
+_cell_angle_alpha    60.0399
+_cell_angle_beta     60.0399
+_cell_angle_gamma    60.0399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.72473  0.72473  0.72473  1.0000
+  K   K2        1.0  0.22473  0.22473  0.22473  1.0000
+  Ge  Ge1       1.0  0.00974  0.00974  0.00974  1.0000
+  Ge  Ge2       1.0  0.50974  0.50974  0.50974  1.0000
+  Cl  Cl1       1.0  0.78925  0.13791  0.30986  1.0000
+  Cl  Cl2       1.0  0.13791  0.30986  0.78925  1.0000
+  Cl  Cl3       1.0  0.30986  0.78925  0.13791  1.0000
+  Cl  Cl4       1.0  0.80986  0.63791  0.28925  1.0000
+  Cl  Cl5       1.0  0.28925  0.80986  0.63791  1.0000
+  Cl  Cl6       1.0  0.63791  0.28925  0.80986  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2Nd4Ir2O12
+_chemical_formula_sum              "Na2 Nd4 Ir2 O12"
+_cell_length_a       5.98615
+_cell_length_b       5.55198
+_cell_length_c       9.67885
+_cell_angle_alpha    55.9972
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50000  0.00000  0.50000  1.0000
+  Na  Na2       1.0  0.00000  0.00000  0.00000  1.0000
+  Nd  Nd1       1.0  0.07418  0.77552  0.74617  1.0000
+  Nd  Nd2       1.0  0.57417  0.22448  0.75383  1.0000
+  Nd  Nd3       1.0  0.42583  0.77552  0.24617  1.0000
+  Nd  Nd4       1.0  0.92582  0.22448  0.25383  1.0000
+  Ir  Ir1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ir  Ir2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.71817  0.73077  0.43121  1.0000
+  O   O2        1.0  0.21817  0.26923  0.06879  1.0000
+  O   O3        1.0  0.28183  0.26923  0.56880  1.0000
+  O   O4        1.0  0.78183  0.73077  0.93120  1.0000
+  O   O5        1.0  0.05063  0.61002  0.26744  1.0000
+  O   O6        1.0  0.55063  0.38998  0.23256  1.0000
+  O   O7        1.0  0.94937  0.38998  0.73256  1.0000
+  O   O8        1.0  0.44937  0.61002  0.76744  1.0000
+  O   O9        1.0  0.32613  0.84951  0.94690  1.0000
+  O   O10       1.0  0.82613  0.15049  0.55310  1.0000
+  O   O11       1.0  0.67387  0.15049  0.05310  1.0000
+  O   O12       1.0  0.17387  0.84951  0.44689  1.0000

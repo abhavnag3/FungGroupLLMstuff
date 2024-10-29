@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li3TiMn2O6
+_chemical_formula_sum              "Li3 Ti1 Mn2 O6"
+_cell_length_a       2.96737
+_cell_length_b       5.94849
+_cell_length_c       7.02456
+_cell_angle_alpha    101.785
+_cell_angle_beta     77.8069
+_cell_angle_gamma    90.0022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.33324  0.83338  0.33353  1.0000
+  Li  Li2       1.0  0.99355  0.50771  0.01294  1.0000
+  Li  Li3       1.0  0.67313  0.15882  0.65371  1.0000
+  Ti  Ti1       1.0  0.33308  0.33335  0.33385  1.0000
+  Mn  Mn1       1.0  0.66439  0.67493  0.67120  1.0000
+  Mn  Mn2       1.0  0.00235  0.99205  0.99532  1.0000
+  O   O1        1.0  0.48283  0.24461  0.03425  1.0000
+  O   O2        1.0  0.18407  0.42118  0.63192  1.0000
+  O   O3        1.0  0.16844  0.90727  0.66296  1.0000
+  O   O4        1.0  0.49813  0.76020  0.00393  1.0000
+  O   O5        1.0  0.83749  0.55549  0.32499  1.0000
+  O   O6        1.0  0.82930  0.11101  0.34141  1.0000

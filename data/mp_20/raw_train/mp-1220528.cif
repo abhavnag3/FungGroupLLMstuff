@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Nd4V2Fe2O12
+_chemical_formula_sum              "Nd4 V2 Fe2 O12"
+_cell_length_a       5.69967
+_cell_length_b       5.50021
+_cell_length_c       9.5823
+_cell_angle_alpha    55.1861
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.55564  0.76440  0.74956  1.0000
+  Nd  Nd2       1.0  0.05564  0.23560  0.75044  1.0000
+  Nd  Nd3       1.0  0.44435  0.23560  0.25044  1.0000
+  Nd  Nd4       1.0  0.94436  0.76440  0.24956  1.0000
+  V   V1        1.0  0.50000  0.50000  0.50000  1.0000
+  V   V2        1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe1       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.70274  0.24587  0.05072  1.0000
+  O   O2        1.0  0.20275  0.75413  0.44928  1.0000
+  O   O3        1.0  0.29578  0.15285  0.54955  1.0000
+  O   O4        1.0  0.79578  0.84715  0.95045  1.0000
+  O   O5        1.0  0.29725  0.75413  0.94928  1.0000
+  O   O6        1.0  0.79726  0.24587  0.55072  1.0000
+  O   O7        1.0  0.70422  0.84715  0.45045  1.0000
+  O   O8        1.0  0.20422  0.15285  0.04955  1.0000
+  O   O9        1.0  0.47294  0.34261  0.75179  1.0000
+  O   O10       1.0  0.97294  0.65739  0.74821  1.0000
+  O   O11       1.0  0.52706  0.65739  0.24821  1.0000
+  O   O12       1.0  0.02706  0.34261  0.25178  1.0000

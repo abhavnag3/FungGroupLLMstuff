@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca2CoSi4NiO12
+_chemical_formula_sum              "Ca2 Co1 Si4 Ni1 O12"
+_cell_length_a       5.31175
+_cell_length_b       6.70452
+_cell_length_c       6.7045
+_cell_angle_alpha    84.5643
+_cell_angle_beta     78.0358
+_cell_angle_gamma    78.0357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.70335  0.29665  1.0000
+  Ca  Ca2       1.0  0.25000  0.29723  0.70276  1.0000
+  Co  Co1       1.0  0.75000  0.09245  0.90755  1.0000
+  Si  Si1       1.0  0.72927  0.62063  0.80573  1.0000
+  Si  Si2       1.0  0.77072  0.19428  0.37937  1.0000
+  Si  Si3       1.0  0.26974  0.38030  0.19456  1.0000
+  Si  Si4       1.0  0.23026  0.80543  0.61970  1.0000
+  Ni  Ni1       1.0  0.25002  0.90771  0.09228  1.0000
+  O   O1        1.0  0.82262  0.38998  0.88814  1.0000
+  O   O2        1.0  0.67738  0.11186  0.61003  1.0000
+  O   O3        1.0  0.17818  0.61156  0.11279  1.0000
+  O   O4        1.0  0.32182  0.88721  0.38844  1.0000
+  O   O5        1.0  0.64080  0.79500  0.97219  1.0000
+  O   O6        1.0  0.85920  0.02781  0.20500  1.0000
+  O   O7        1.0  0.35493  0.20421  0.02926  1.0000
+  O   O8        1.0  0.14507  0.97074  0.79579  1.0000
+  O   O9        1.0  0.49638  0.63113  0.66690  1.0000
+  O   O10       1.0  0.00362  0.33310  0.36887  1.0000
+  O   O11       1.0  0.50420  0.36798  0.33196  1.0000
+  O   O12       1.0  0.99580  0.66804  0.63202  1.0000

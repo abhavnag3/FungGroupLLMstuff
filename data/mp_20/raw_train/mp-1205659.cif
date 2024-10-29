@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tm4Co2Si4
+_chemical_formula_sum              "Tm4 Co2 Si4"
+_cell_length_a       5.51569
+_cell_length_b       5.51569
+_cell_length_c       9.85694
+_cell_angle_alpha    63.3657
+_cell_angle_beta     63.3657
+_cell_angle_gamma    43.6746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.99755  0.99755  0.33003  1.0000
+  Tm  Tm2       1.0  0.00245  0.00245  0.66997  1.0000
+  Tm  Tm3       1.0  0.81414  0.81414  0.10715  1.0000
+  Tm  Tm4       1.0  0.18586  0.18586  0.89285  1.0000
+  Co  Co1       1.0  0.72687  0.72687  0.62571  1.0000
+  Co  Co2       1.0  0.27313  0.27313  0.37429  1.0000
+  Si  Si1       1.0  0.64904  0.64904  0.43319  1.0000
+  Si  Si2       1.0  0.35096  0.35096  0.56681  1.0000
+  Si  Si3       1.0  0.50829  0.50829  0.12446  1.0000
+  Si  Si4       1.0  0.49171  0.49171  0.87554  1.0000

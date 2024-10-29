@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Yb3Zn11
+_chemical_formula_sum              "Yb3 Zn11"
+_cell_length_a       4.37712
+_cell_length_b       8.22056
+_cell_length_c       8.22056
+_cell_angle_alpha    65.691
+_cell_angle_beta     74.5599
+_cell_angle_gamma    74.5599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Yb  Yb2       1.0  0.70440  0.29560  0.29560  1.0000
+  Yb  Yb3       1.0  0.29560  0.70440  0.70440  1.0000
+  Zn  Zn1       1.0  1.00000  0.50000  0.50000  1.0000
+  Zn  Zn2       1.0  0.50000  0.68459  0.31541  1.0000
+  Zn  Zn3       1.0  0.50000  0.31541  0.68459  1.0000
+  Zn  Zn4       1.0  0.66287  0.69414  0.98012  1.0000
+  Zn  Zn5       1.0  0.33713  0.30586  0.01988  1.0000
+  Zn  Zn6       1.0  0.66287  0.98012  0.69414  1.0000
+  Zn  Zn7       1.0  0.33713  0.01988  0.30586  1.0000
+  Zn  Zn8       1.0  0.86587  0.42243  0.84583  1.0000
+  Zn  Zn9       1.0  0.13413  0.57757  0.15417  1.0000
+  Zn  Zn10      1.0  0.86587  0.84583  0.42243  1.0000
+  Zn  Zn11      1.0  0.13413  0.15417  0.57757  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb4Si4Ir4
+_chemical_formula_sum              "Nb4 Si4 Ir4"
+_cell_length_a       3.81765
+_cell_length_b       6.46643
+_cell_length_c       7.3358
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.75000  0.52414  0.82813  1.0000
+  Nb  Nb2       1.0  0.25000  0.97586  0.32813  1.0000
+  Nb  Nb3       1.0  0.75000  0.02414  0.67187  1.0000
+  Nb  Nb4       1.0  0.25000  0.47586  0.17187  1.0000
+  Si  Si1       1.0  0.25000  0.23014  0.87510  1.0000
+  Si  Si2       1.0  0.25000  0.73014  0.62490  1.0000
+  Si  Si3       1.0  0.75000  0.76986  0.12490  1.0000
+  Si  Si4       1.0  0.75000  0.26986  0.37510  1.0000
+  Ir  Ir1       1.0  0.25000  0.85412  0.93707  1.0000
+  Ir  Ir2       1.0  0.25000  0.35412  0.56293  1.0000
+  Ir  Ir3       1.0  0.75000  0.64588  0.43707  1.0000
+  Ir  Ir4       1.0  0.75000  0.14588  0.06293  1.0000

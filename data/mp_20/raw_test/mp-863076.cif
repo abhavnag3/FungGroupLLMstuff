@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbBiO4
+_chemical_formula_sum              "Nb1 Bi1 O4"
+_cell_length_a       4.19743
+_cell_length_b       4.19743
+_cell_length_c       6.05526
+_cell_angle_alpha    73.8509
+_cell_angle_beta     73.8509
+_cell_angle_gamma    88.9616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.05325  0.94676  0.00000  1.0000
+  Bi  Bi1       1.0  0.70812  0.29188  0.50000  1.0000
+  O   O1        1.0  0.99691  0.48670  0.04938  1.0000
+  O   O2        1.0  0.13472  0.16452  0.65175  1.0000
+  O   O3        1.0  0.83548  0.86528  0.34825  1.0000
+  O   O4        1.0  0.51330  0.00309  0.95061  1.0000

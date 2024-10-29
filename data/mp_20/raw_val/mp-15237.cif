@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tb8C10
+_chemical_formula_sum              "Tb8 C10"
+_cell_length_a       3.69536
+_cell_length_b       6.62882
+_cell_length_c       12.0519
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.00000  0.25573  0.54205  1.0000
+  Tb  Tb2       1.0  0.00000  0.74427  0.45795  1.0000
+  Tb  Tb3       1.0  0.00000  0.75573  0.95795  1.0000
+  Tb  Tb4       1.0  0.00000  0.24427  0.04205  1.0000
+  Tb  Tb5       1.0  0.50000  0.10603  0.80332  1.0000
+  Tb  Tb6       1.0  0.50000  0.89397  0.19668  1.0000
+  Tb  Tb7       1.0  0.50000  0.60603  0.69668  1.0000
+  Tb  Tb8       1.0  0.50000  0.39397  0.30332  1.0000
+  C   C1        1.0  0.50000  0.50000  0.50000  1.0000
+  C   C2        1.0  0.50000  0.00000  0.00000  1.0000
+  C   C3        1.0  0.00000  0.35925  0.73523  1.0000
+  C   C4        1.0  0.00000  0.64075  0.26477  1.0000
+  C   C5        1.0  0.00000  0.85925  0.76477  1.0000
+  C   C6        1.0  0.00000  0.14075  0.23523  1.0000
+  C   C7        1.0  0.00000  0.40180  0.84318  1.0000
+  C   C8        1.0  0.00000  0.59820  0.15682  1.0000
+  C   C9        1.0  0.00000  0.09820  0.34318  1.0000
+  C   C10       1.0  0.00000  0.90180  0.65682  1.0000

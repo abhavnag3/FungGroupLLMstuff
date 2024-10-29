@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf4Ge4Ir4
+_chemical_formula_sum              "Hf4 Ge4 Ir4"
+_cell_length_a       4.05076
+_cell_length_b       6.53942
+_cell_length_c       7.55769
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.25000  0.02033  0.31463  1.0000
+  Hf  Hf2       1.0  0.25000  0.52033  0.18537  1.0000
+  Hf  Hf3       1.0  0.75000  0.97967  0.68537  1.0000
+  Hf  Hf4       1.0  0.75000  0.47967  0.81463  1.0000
+  Ge  Ge1       1.0  0.25000  0.26925  0.61907  1.0000
+  Ge  Ge2       1.0  0.25000  0.76925  0.88093  1.0000
+  Ge  Ge3       1.0  0.75000  0.73075  0.38093  1.0000
+  Ge  Ge4       1.0  0.75000  0.23075  0.11907  1.0000
+  Ir  Ir1       1.0  0.25000  0.15525  0.93538  1.0000
+  Ir  Ir2       1.0  0.25000  0.65525  0.56462  1.0000
+  Ir  Ir3       1.0  0.75000  0.84475  0.06462  1.0000
+  Ir  Ir4       1.0  0.75000  0.34475  0.43538  1.0000

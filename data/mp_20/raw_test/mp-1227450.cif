@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Bi3Pd12Pb
+_chemical_formula_sum              "Bi3 Pd12 Pb1"
+_cell_length_a       5.07416
+_cell_length_b       5.85171
+_cell_length_c       9.5426
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.15906  0.50000  0.00000  1.0000
+  Bi  Bi2       1.0  0.49967  0.00000  0.24963  1.0000
+  Bi  Bi3       1.0  0.49967  0.00000  0.75036  1.0000
+  Pd  Pd1       1.0  0.99929  0.25113  0.25131  1.0000
+  Pd  Pd2       1.0  0.99929  0.25113  0.74869  1.0000
+  Pd  Pd3       1.0  0.99929  0.74887  0.25131  1.0000
+  Pd  Pd4       1.0  0.99929  0.74887  0.74869  1.0000
+  Pd  Pd5       1.0  0.33139  0.25299  0.50000  1.0000
+  Pd  Pd6       1.0  0.66985  0.25020  0.00000  1.0000
+  Pd  Pd7       1.0  0.66985  0.74980  0.00000  1.0000
+  Pd  Pd8       1.0  0.33139  0.74701  0.50000  1.0000
+  Pd  Pd9       1.0  0.84605  0.00000  0.50000  1.0000
+  Pd  Pd10      1.0  0.15496  0.00000  0.00000  1.0000
+  Pd  Pd11      1.0  0.50107  0.50000  0.25060  1.0000
+  Pd  Pd12      1.0  0.50107  0.50000  0.74940  1.0000
+  Pb  Pb1       1.0  0.83883  0.50000  0.50000  1.0000

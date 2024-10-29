@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn4Fe8SiGe3
+_chemical_formula_sum              "Mn4 Fe8 Si1 Ge3"
+_cell_length_a       13.3513
+_cell_length_b       13.3513
+_cell_length_c       13.3513
+_cell_angle_alpha    17.3204
+_cell_angle_beta     17.3204
+_cell_angle_gamma    17.3204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.62437  0.62437  0.62437  1.0000
+  Mn  Mn2       1.0  0.37563  0.37563  0.37563  1.0000
+  Mn  Mn3       1.0  0.87469  0.87469  0.87469  1.0000
+  Mn  Mn4       1.0  0.12531  0.12531  0.12531  1.0000
+  Fe  Fe1       1.0  0.93728  0.93728  0.93728  1.0000
+  Fe  Fe2       1.0  0.68714  0.68714  0.68714  1.0000
+  Fe  Fe3       1.0  0.18610  0.18610  0.18610  1.0000
+  Fe  Fe4       1.0  0.43917  0.43917  0.43917  1.0000
+  Fe  Fe5       1.0  0.56083  0.56083  0.56083  1.0000
+  Fe  Fe6       1.0  0.31286  0.31286  0.31286  1.0000
+  Fe  Fe7       1.0  0.81390  0.81390  0.81390  1.0000
+  Fe  Fe8       1.0  0.06272  0.06272  0.06272  1.0000
+  Si  Si1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ge  Ge1       1.0  0.75039  0.75039  0.75039  1.0000
+  Ge  Ge2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge3       1.0  0.24961  0.24961  0.24961  1.0000

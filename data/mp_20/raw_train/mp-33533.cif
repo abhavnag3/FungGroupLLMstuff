@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La4U2Te8
+_chemical_formula_sum              "La4 U2 Te8"
+_cell_length_a       8.28829
+_cell_length_b       8.28829
+_cell_length_c       8.28829
+_cell_angle_alpha    109.332
+_cell_angle_beta     109.332
+_cell_angle_gamma    109.75
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.49910  0.87500  0.12410  1.0000
+  La  La2       1.0  0.75090  0.37500  0.87590  1.0000
+  La  La3       1.0  0.12500  0.24910  0.62410  1.0000
+  La  La4       1.0  0.62500  0.50090  0.37590  1.0000
+  U   U1        1.0  0.25000  0.75000  0.50000  1.0000
+  U   U2        1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.53092  0.63130  0.74973  1.0000
+  Te  Te2       1.0  0.88157  0.78119  0.25027  1.0000
+  Te  Te3       1.0  0.71908  0.96881  0.60039  1.0000
+  Te  Te4       1.0  0.36870  0.11843  0.89961  1.0000
+  Te  Te5       1.0  0.88130  0.28092  0.24973  1.0000
+  Te  Te6       1.0  0.36843  0.11870  0.39961  1.0000
+  Te  Te7       1.0  0.03119  0.63157  0.75027  1.0000
+  Te  Te8       1.0  0.21881  0.46908  0.10039  1.0000

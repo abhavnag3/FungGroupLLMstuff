@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Al2Sb2I12
+_chemical_formula_sum              "Al2 Sb2 I12"
+_cell_length_a       10.9841
+_cell_length_b       10.9841
+_cell_length_c       8.07859
+_cell_angle_alpha    70.0229
+_cell_angle_beta     70.0229
+_cell_angle_gamma    79.1259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.19646  0.19646  0.65137  1.0000
+  Al  Al2       1.0  0.80354  0.80354  0.34863  1.0000
+  Sb  Sb1       1.0  0.80959  0.19041  0.00000  1.0000
+  Sb  Sb2       1.0  0.19041  0.80959  0.00000  1.0000
+  I   I1        1.0  0.21465  0.57706  0.92541  1.0000
+  I   I2        1.0  0.42294  0.78535  0.07459  1.0000
+  I   I3        1.0  0.78535  0.42294  0.07459  1.0000
+  I   I4        1.0  0.57706  0.21465  0.92541  1.0000
+  I   I5        1.0  0.02469  0.72237  0.42193  1.0000
+  I   I6        1.0  0.27763  0.97531  0.57807  1.0000
+  I   I7        1.0  0.97531  0.27763  0.57807  1.0000
+  I   I8        1.0  0.72237  0.02469  0.42193  1.0000
+  I   I9        1.0  0.85801  0.85801  0.99526  1.0000
+  I   I10       1.0  0.14199  0.14199  0.00474  1.0000
+  I   I11       1.0  0.64002  0.64002  0.53314  1.0000
+  I   I12       1.0  0.35998  0.35998  0.46686  1.0000

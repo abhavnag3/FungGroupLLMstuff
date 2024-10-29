@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Y2Cr2O8
+_chemical_formula_sum              "Y2 Cr2 O8"
+_cell_length_a       6.00791
+_cell_length_b       6.00605
+_cell_length_c       5.98986
+_cell_angle_alpha    73.9734
+_cell_angle_beta     73.9174
+_cell_angle_gamma    116.645
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.87494  0.62497  0.25005  1.0000
+  Y   Y2        1.0  0.12502  0.37501  0.75004  1.0000
+  Cr  Cr1       1.0  0.37504  0.12501  0.24992  1.0000
+  Cr  Cr2       1.0  0.62489  0.87496  0.75011  1.0000
+  O   O1        1.0  0.36679  0.29464  0.43850  1.0000
+  O   O2        1.0  0.79637  0.23351  0.57072  1.0000
+  O   O3        1.0  0.80409  0.86705  0.92938  1.0000
+  O   O4        1.0  0.73340  0.30536  0.06136  1.0000
+  O   O5        1.0  0.19474  0.76692  0.43838  1.0000
+  O   O6        1.0  0.63309  0.69583  0.57059  1.0000
+  O   O7        1.0  0.26644  0.70366  0.92944  1.0000
+  O   O8        1.0  0.20518  0.13308  0.06150  1.0000

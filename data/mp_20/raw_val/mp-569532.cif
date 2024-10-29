@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti4Cu8P4
+_chemical_formula_sum              "Ti4 Cu8 P4"
+_cell_length_a       16.93
+_cell_length_b       16.93
+_cell_length_c       16.93
+_cell_angle_alpha    168.077
+_cell_angle_beta     168.077
+_cell_angle_gamma    16.893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.02800  0.52800  0.50000  1.0000
+  Ti  Ti2       1.0  0.47200  0.97200  0.50000  1.0000
+  Ti  Ti3       1.0  0.27800  0.27800  0.00000  1.0000
+  Ti  Ti4       1.0  0.72200  0.72200  0.00000  1.0000
+  Cu  Cu1       1.0  0.65496  0.15496  0.50000  1.0000
+  Cu  Cu2       1.0  0.09504  0.09504  0.00000  1.0000
+  Cu  Cu3       1.0  0.90496  0.90496  0.00000  1.0000
+  Cu  Cu4       1.0  0.84504  0.34504  0.50000  1.0000
+  Cu  Cu5       1.0  0.40261  0.40261  0.00000  1.0000
+  Cu  Cu6       1.0  0.34739  0.84739  0.50000  1.0000
+  Cu  Cu7       1.0  0.59739  0.59739  0.00000  1.0000
+  Cu  Cu8       1.0  0.15261  0.65261  0.50000  1.0000
+  P   P1        1.0  0.54665  0.04665  0.50000  1.0000
+  P   P2        1.0  0.20335  0.20335  0.00000  1.0000
+  P   P3        1.0  0.95335  0.45335  0.50000  1.0000
+  P   P4        1.0  0.79665  0.79665  0.00000  1.0000

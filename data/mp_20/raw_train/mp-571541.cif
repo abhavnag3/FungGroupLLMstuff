@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr8In4Cu3N5
+_chemical_formula_sum              "Sr8 In4 Cu3 N5"
+_cell_length_a       11.5534
+_cell_length_b       11.5534
+_cell_length_c       11.5534
+_cell_angle_alpha    160.768
+_cell_angle_beta     114.687
+_cell_angle_gamma    68.7855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.56269  0.71090  0.85179  1.0000
+  Sr  Sr2       1.0  0.74942  0.90164  0.84779  1.0000
+  Sr  Sr3       1.0  0.43731  0.28910  0.14821  1.0000
+  Sr  Sr4       1.0  0.85911  0.71090  0.14821  1.0000
+  Sr  Sr5       1.0  0.14089  0.28910  0.85179  1.0000
+  Sr  Sr6       1.0  0.25058  0.09836  0.15221  1.0000
+  Sr  Sr7       1.0  0.05385  0.90164  0.15221  1.0000
+  Sr  Sr8       1.0  0.94615  0.09836  0.84779  1.0000
+  In  In1       1.0  0.64774  0.50000  0.14774  1.0000
+  In  In2       1.0  0.35226  0.50000  0.85225  1.0000
+  In  In3       1.0  0.41607  0.91607  0.50000  1.0000
+  In  In4       1.0  0.58393  0.08393  0.50000  1.0000
+  Cu  Cu1       1.0  0.19242  0.69242  0.50000  1.0000
+  Cu  Cu2       1.0  0.80758  0.30758  0.50000  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.50000  1.0000
+  N   N1        1.0  0.34563  0.69430  0.65134  1.0000
+  N   N2        1.0  0.95704  0.30570  0.65134  1.0000
+  N   N3        1.0  0.04296  0.69430  0.34866  1.0000
+  N   N4        1.0  0.00000  0.00000  0.00000  1.0000
+  N   N5        1.0  0.65437  0.30570  0.34866  1.0000

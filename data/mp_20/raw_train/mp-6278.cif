@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Zn2CuAs2O8
+_chemical_formula_sum              "Zn2 Cu1 As2 O8"
+_cell_length_a       5.15778
+_cell_length_b       5.41754
+_cell_length_c       6.85696
+_cell_angle_alpha    110.107
+_cell_angle_beta     87.2961
+_cell_angle_gamma    112.306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.77291  0.25597  0.81103  1.0000
+  Zn  Zn2       1.0  0.22709  0.74403  0.18897  1.0000
+  Cu  Cu1       1.0  0.50000  0.50000  0.50000  1.0000
+  As  As1       1.0  0.13626  0.85197  0.72364  1.0000
+  As  As2       1.0  0.86374  0.14803  0.27636  1.0000
+  O   O1        1.0  0.73308  0.29710  0.50751  1.0000
+  O   O2        1.0  0.26692  0.70290  0.49249  1.0000
+  O   O3        1.0  0.62795  0.81107  0.15137  1.0000
+  O   O4        1.0  0.37205  0.18893  0.84863  1.0000
+  O   O5        1.0  0.91239  0.35346  0.12252  1.0000
+  O   O6        1.0  0.81803  0.86982  0.66550  1.0000
+  O   O7        1.0  0.18197  0.13018  0.33450  1.0000
+  O   O8        1.0  0.08761  0.64654  0.87748  1.0000

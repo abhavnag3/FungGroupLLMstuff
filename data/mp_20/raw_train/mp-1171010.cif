@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       CaFe2Si4O12
+_chemical_formula_sum              "Ca1 Fe2 Si4 O12"
+_cell_length_a       6.61623
+_cell_length_b       6.61623
+_cell_length_c       5.34
+_cell_angle_alpha    77.4204
+_cell_angle_beta     77.4204
+_cell_angle_gamma    84.7977
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.30408  0.69592  0.50000  1.0000
+  Fe  Fe1       1.0  0.09171  0.90829  0.00000  1.0000
+  Fe  Fe2       1.0  0.88877  0.11123  0.50000  1.0000
+  Si  Si1       1.0  0.79909  0.61825  0.48616  1.0000
+  Si  Si2       1.0  0.62146  0.79831  0.97791  1.0000
+  Si  Si3       1.0  0.20169  0.37854  0.02209  1.0000
+  Si  Si4       1.0  0.38175  0.20091  0.51384  1.0000
+  O   O1        1.0  0.04409  0.18697  0.11845  1.0000
+  O   O2        1.0  0.61015  0.09583  0.45834  1.0000
+  O   O3        1.0  0.19837  0.02996  0.60936  1.0000
+  O   O4        1.0  0.65524  0.64596  0.26110  1.0000
+  O   O5        1.0  0.90417  0.38985  0.54166  1.0000
+  O   O6        1.0  0.81303  0.95591  0.88155  1.0000
+  O   O7        1.0  0.38362  0.88581  0.06098  1.0000
+  O   O8        1.0  0.11419  0.61638  0.93902  1.0000
+  O   O9        1.0  0.62826  0.66496  0.74738  1.0000
+  O   O10       1.0  0.35404  0.34476  0.73890  1.0000
+  O   O11       1.0  0.97004  0.80163  0.39064  1.0000
+  O   O12       1.0  0.33504  0.37174  0.25262  1.0000

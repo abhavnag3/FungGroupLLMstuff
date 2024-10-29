@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho6Ge6Ru4
+_chemical_formula_sum              "Ho6 Ge6 Ru4"
+_cell_length_a       5.81425
+_cell_length_b       5.81425
+_cell_length_c       13.9206
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    136.992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.85342  0.14658  0.25000  1.0000
+  Ho  Ho2       1.0  0.14658  0.85342  0.75000  1.0000
+  Ho  Ho3       1.0  0.42180  0.57820  0.88688  1.0000
+  Ho  Ho4       1.0  0.57820  0.42180  0.11312  1.0000
+  Ho  Ho5       1.0  0.57820  0.42180  0.38688  1.0000
+  Ho  Ho6       1.0  0.42180  0.57820  0.61312  1.0000
+  Ge  Ge1       1.0  0.16393  0.83607  0.25000  1.0000
+  Ge  Ge2       1.0  0.83607  0.16393  0.75000  1.0000
+  Ge  Ge3       1.0  0.11567  0.88433  0.54056  1.0000
+  Ge  Ge4       1.0  0.88433  0.11567  0.45944  1.0000
+  Ge  Ge5       1.0  0.88433  0.11567  0.04056  1.0000
+  Ge  Ge6       1.0  0.11567  0.88433  0.95944  1.0000
+  Ru  Ru1       1.0  0.71333  0.28667  0.58267  1.0000
+  Ru  Ru2       1.0  0.28667  0.71333  0.41733  1.0000
+  Ru  Ru3       1.0  0.28667  0.71333  0.08267  1.0000
+  Ru  Ru4       1.0  0.71333  0.28667  0.91733  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr4Cr4O8
+_chemical_formula_sum              "Sr4 Cr4 O8"
+_cell_length_a       5.35286
+_cell_length_b       6.72404
+_cell_length_c       6.72403
+_cell_angle_alpha    74.4749
+_cell_angle_beta     82.7685
+_cell_angle_gamma    82.7686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50228  0.25157  0.75157  1.0000
+  Sr  Sr2       1.0  0.99771  0.49844  0.99843  1.0000
+  Sr  Sr3       1.0  0.50228  0.75157  0.25156  1.0000
+  Sr  Sr4       1.0  0.99771  0.99843  0.49843  1.0000
+  Cr  Cr1       1.0  0.01009  0.49410  0.49410  1.0000
+  Cr  Cr2       1.0  0.48991  0.75591  0.75591  1.0000
+  Cr  Cr3       1.0  0.01001  0.99411  0.99411  1.0000
+  Cr  Cr4       1.0  0.49002  0.25588  0.25589  1.0000
+  O   O1        1.0  0.00162  0.24894  0.74894  1.0000
+  O   O2        1.0  0.49841  0.50104  0.00104  1.0000
+  O   O3        1.0  0.00162  0.74894  0.24894  1.0000
+  O   O4        1.0  0.49842  0.00104  0.50104  1.0000
+  O   O5        1.0  0.24991  0.62505  0.62505  1.0000
+  O   O6        1.0  0.75004  0.87496  0.87496  1.0000
+  O   O7        1.0  0.24991  0.12505  0.12505  1.0000
+  O   O8        1.0  0.75007  0.37498  0.37498  1.0000

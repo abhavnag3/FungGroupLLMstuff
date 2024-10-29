@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cs6Y2O6
+_chemical_formula_sum              "Cs6 Y2 O6"
+_cell_length_a       7.6335
+_cell_length_b       7.6335
+_cell_length_c       7.68571
+_cell_angle_alpha    84.2402
+_cell_angle_beta     84.2402
+_cell_angle_gamma    116.536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.64267  0.64267  0.64921  1.0000
+  Cs  Cs2       1.0  0.78873  0.21127  0.50000  1.0000
+  Cs  Cs3       1.0  0.21127  0.78873  0.50000  1.0000
+  Cs  Cs4       1.0  0.73792  0.26208  0.00000  1.0000
+  Cs  Cs5       1.0  0.26208  0.73792  0.00000  1.0000
+  Cs  Cs6       1.0  0.35733  0.35733  0.35079  1.0000
+  Y   Y1        1.0  0.82596  0.82596  0.15011  1.0000
+  Y   Y2        1.0  0.17404  0.17404  0.84989  1.0000
+  O   O1        1.0  0.89897  0.89897  0.85699  1.0000
+  O   O2        1.0  0.83193  0.56246  0.26431  1.0000
+  O   O3        1.0  0.56246  0.83193  0.26431  1.0000
+  O   O4        1.0  0.43754  0.16807  0.73569  1.0000
+  O   O5        1.0  0.16806  0.43754  0.73569  1.0000
+  O   O6        1.0  0.10103  0.10103  0.14301  1.0000

@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Ta2Te4Br10O
+_chemical_formula_sum              "Ta2 Te4 Br10 O1"
+_cell_length_a       7.455
+_cell_length_b       8.91686
+_cell_length_c       9.68193
+_cell_angle_alpha    96.4591
+_cell_angle_beta     91.9168
+_cell_angle_gamma    105.53
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.51448  0.36278  0.63373  1.0000
+  Ta  Ta2       1.0  0.48552  0.63722  0.36627  1.0000
+  Te  Te1       1.0  0.08494  0.81435  0.00113  1.0000
+  Te  Te2       1.0  0.91506  0.18565  0.99887  1.0000
+  Te  Te3       1.0  0.81427  0.89351  0.85018  1.0000
+  Te  Te4       1.0  0.18574  0.10648  0.14982  1.0000
+  Br  Br1       1.0  0.53799  0.16633  0.82269  1.0000
+  Br  Br2       1.0  0.39719  0.52738  0.82118  1.0000
+  Br  Br3       1.0  0.85123  0.53151  0.72233  1.0000
+  Br  Br4       1.0  0.19099  0.19544  0.57035  1.0000
+  Br  Br5       1.0  0.33844  0.79361  0.53345  1.0000
+  Br  Br6       1.0  0.66156  0.20639  0.46655  1.0000
+  Br  Br7       1.0  0.80901  0.80456  0.42965  1.0000
+  Br  Br8       1.0  0.14877  0.46848  0.27767  1.0000
+  Br  Br9       1.0  0.60281  0.47262  0.17882  1.0000
+  Br  Br10      1.0  0.46201  0.83367  0.17731  1.0000
+  O   O1        1.0  0.50000  0.50000  0.50000  1.0000

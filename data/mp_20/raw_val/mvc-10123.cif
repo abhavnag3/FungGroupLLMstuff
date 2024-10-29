@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ho2Zn2Mo4O12
+_chemical_formula_sum              "Ho2 Zn2 Mo4 O12"
+_cell_length_a       5.64055
+_cell_length_b       5.41899
+_cell_length_c       9.62648
+_cell_angle_alpha    56.1016
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.31292  0.76443  0.24897  1.0000
+  Ho  Ho2       1.0  0.68708  0.76443  0.74897  1.0000
+  Zn  Zn1       1.0  0.75410  0.25497  0.25052  1.0000
+  Zn  Zn2       1.0  0.24590  0.25497  0.75052  1.0000
+  Mo  Mo1       1.0  0.76447  0.00175  0.99810  1.0000
+  Mo  Mo2       1.0  0.75995  0.49771  0.50135  1.0000
+  Mo  Mo3       1.0  0.23553  0.00175  0.49810  1.0000
+  Mo  Mo4       1.0  0.24005  0.49771  0.00135  1.0000
+  O   O1        1.0  0.82744  0.37702  0.75343  1.0000
+  O   O2        1.0  0.06566  0.10179  0.06619  1.0000
+  O   O3        1.0  0.07389  0.75083  0.43204  1.0000
+  O   O4        1.0  0.56771  0.23812  0.07063  1.0000
+  O   O5        1.0  0.55902  0.89567  0.43128  1.0000
+  O   O6        1.0  0.30954  0.61896  0.74622  1.0000
+  O   O7        1.0  0.17256  0.37702  0.25343  1.0000
+  O   O8        1.0  0.93434  0.10179  0.56619  1.0000
+  O   O9        1.0  0.92611  0.75083  0.93204  1.0000
+  O   O10       1.0  0.44098  0.89567  0.93128  1.0000
+  O   O11       1.0  0.43228  0.23812  0.57063  1.0000
+  O   O12       1.0  0.69046  0.61896  0.24622  1.0000

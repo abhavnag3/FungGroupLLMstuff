@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tb4Sc4S12
+_chemical_formula_sum              "Tb4 Sc4 S12"
+_cell_length_a       6.41096
+_cell_length_b       7.04723
+_cell_length_c       9.55582
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.54085  0.39926  0.75000  1.0000
+  Tb  Tb2       1.0  0.45915  0.60074  0.25000  1.0000
+  Tb  Tb3       1.0  0.04085  0.10074  0.25000  1.0000
+  Tb  Tb4       1.0  0.95915  0.89926  0.75000  1.0000
+  Sc  Sc1       1.0  0.00000  0.50000  0.00000  1.0000
+  Sc  Sc2       1.0  0.00000  0.50000  0.50000  1.0000
+  Sc  Sc3       1.0  0.50000  0.00000  0.50000  1.0000
+  Sc  Sc4       1.0  0.50000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.82510  0.18684  0.57049  1.0000
+  S   S2        1.0  0.17490  0.81316  0.07049  1.0000
+  S   S3        1.0  0.32510  0.31316  0.07049  1.0000
+  S   S4        1.0  0.67490  0.68684  0.57049  1.0000
+  S   S5        1.0  0.82510  0.18684  0.92951  1.0000
+  S   S6        1.0  0.17490  0.81316  0.42951  1.0000
+  S   S7        1.0  0.32510  0.31316  0.42951  1.0000
+  S   S8        1.0  0.67490  0.68684  0.92951  1.0000
+  S   S9        1.0  0.85698  0.45325  0.25000  1.0000
+  S   S10       1.0  0.14303  0.54675  0.75000  1.0000
+  S   S11       1.0  0.35697  0.04675  0.75000  1.0000
+  S   S12       1.0  0.64302  0.95325  0.25000  1.0000

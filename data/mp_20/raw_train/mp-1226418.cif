@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4Ga3FeS8
+_chemical_formula_sum              "Cs4 Ga3 Fe1 S8"
+_cell_length_a       5.87074
+_cell_length_b       7.33032
+_cell_length_c       12.4448
+_cell_angle_alpha    87.7722
+_cell_angle_beta     82.74
+_cell_angle_gamma    78.7029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.07292  0.03179  0.67783  1.0000
+  Cs  Cs2       1.0  0.57231  0.53248  0.17685  1.0000
+  Cs  Cs3       1.0  0.42707  0.46732  0.82312  1.0000
+  Cs  Cs4       1.0  0.92777  0.96825  0.32220  1.0000
+  Ga  Ga1       1.0  0.25138  0.49587  0.49853  1.0000
+  Ga  Ga2       1.0  0.74859  0.50447  0.50145  1.0000
+  Ga  Ga3       1.0  0.24835  0.00438  0.00154  1.0000
+  Fe  Fe1       1.0  0.75169  0.99530  0.99849  1.0000
+  S   S1        1.0  0.95425  0.55838  0.63922  1.0000
+  S   S2        1.0  0.45498  0.05809  0.13904  1.0000
+  S   S3        1.0  0.94644  0.23767  0.95960  1.0000
+  S   S4        1.0  0.44686  0.73789  0.45947  1.0000
+  S   S5        1.0  0.54680  0.94145  0.86100  1.0000
+  S   S6        1.0  0.04555  0.44192  0.36088  1.0000
+  S   S7        1.0  0.55309  0.26234  0.54046  1.0000
+  S   S8        1.0  0.05195  0.76239  0.04033  1.0000

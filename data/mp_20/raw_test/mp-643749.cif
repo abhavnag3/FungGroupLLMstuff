@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K4Ca4F12
+_chemical_formula_sum              "K4 Ca4 F12"
+_cell_length_a       8.8741
+_cell_length_b       6.22474
+_cell_length_c       6.27265
+_cell_angle_alpha    89.6078
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.25000  0.00041  0.53025  1.0000
+  K   K2        1.0  0.75000  0.99959  0.46975  1.0000
+  K   K3        1.0  0.25000  0.50265  0.02453  1.0000
+  K   K4        1.0  0.75000  0.49735  0.97547  1.0000
+  Ca  Ca1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca3       1.0  0.50000  0.50000  0.50000  1.0000
+  Ca  Ca4       1.0  0.00000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.25000  0.06474  0.96194  1.0000
+  F   F2        1.0  0.75000  0.93526  0.03806  1.0000
+  F   F3        1.0  0.25000  0.43104  0.50334  1.0000
+  F   F4        1.0  0.75000  0.56896  0.49666  1.0000
+  F   F5        1.0  0.52322  0.30024  0.20078  1.0000
+  F   F6        1.0  0.47678  0.69976  0.79922  1.0000
+  F   F7        1.0  0.02322  0.69976  0.79922  1.0000
+  F   F8        1.0  0.97678  0.30024  0.20078  1.0000
+  F   F9        1.0  0.45758  0.79761  0.29728  1.0000
+  F   F10       1.0  0.54242  0.20239  0.70272  1.0000
+  F   F11       1.0  0.95758  0.20239  0.70272  1.0000
+  F   F12       1.0  0.04242  0.79761  0.29728  1.0000

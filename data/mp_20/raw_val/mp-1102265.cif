@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb2Co8B2
+_chemical_formula_sum              "Tb2 Co8 B2"
+_cell_length_a       5.00378
+_cell_length_b       5.00143
+_cell_length_c       6.82886
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.99998  0.00000  0.00000  1.0000
+  Tb  Tb2       1.0  0.99998  0.00000  0.50000  1.0000
+  Co  Co1       1.0  0.33329  0.66665  0.00000  1.0000
+  Co  Co2       1.0  0.66665  0.33335  0.00000  1.0000
+  Co  Co3       1.0  0.50000  0.00000  0.28796  1.0000
+  Co  Co4       1.0  0.49999  0.50001  0.28795  1.0000
+  Co  Co5       1.0  0.99997  0.49999  0.28795  1.0000
+  Co  Co6       1.0  0.50000  0.00000  0.71204  1.0000
+  Co  Co7       1.0  0.49999  0.50001  0.71205  1.0000
+  Co  Co8       1.0  0.99997  0.49999  0.71205  1.0000
+  B   B1        1.0  0.33334  0.66670  0.50000  1.0000
+  B   B2        1.0  0.66664  0.33330  0.50000  1.0000

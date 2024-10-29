@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K2RbMn2F7
+_chemical_formula_sum              "K2 Rb1 Mn2 F7"
+_cell_length_a       11.4071
+_cell_length_b       11.4071
+_cell_length_c       11.4071
+_cell_angle_alpha    158.356
+_cell_angle_beta     158.356
+_cell_angle_gamma    30.7968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.31379  0.31379  0.00000  1.0000
+  K   K2        1.0  0.68620  0.68620  0.00000  1.0000
+  Rb  Rb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mn  Mn1       1.0  0.90083  0.90083  0.00000  1.0000
+  Mn  Mn2       1.0  0.09917  0.09917  0.00000  1.0000
+  F   F1        1.0  0.40127  0.90127  0.50000  1.0000
+  F   F2        1.0  0.90127  0.40127  0.50000  1.0000
+  F   F3        1.0  0.19534  0.19534  0.00000  1.0000
+  F   F4        1.0  0.80466  0.80466  0.00000  1.0000
+  F   F5        1.0  0.00000  0.00000  0.00000  1.0000
+  F   F6        1.0  0.09873  0.59873  0.50000  1.0000
+  F   F7        1.0  0.59873  0.09873  0.50000  1.0000

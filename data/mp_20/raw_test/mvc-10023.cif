@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ho2Bi4O12
+_chemical_formula_sum              "Ho2 Bi4 O12"
+_cell_length_a       5.60807
+_cell_length_b       6.0746
+_cell_length_c       8.23991
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.03421  0.66123  0.00000  1.0000
+  Ho  Ho2       1.0  0.53421  0.33877  0.50000  1.0000
+  Bi  Bi1       1.0  0.00960  0.23117  0.75169  1.0000
+  Bi  Bi2       1.0  0.00960  0.23117  0.24831  1.0000
+  Bi  Bi3       1.0  0.50960  0.76883  0.25169  1.0000
+  Bi  Bi4       1.0  0.50960  0.76883  0.74831  1.0000
+  O   O1        1.0  0.15506  0.22137  0.50000  1.0000
+  O   O2        1.0  0.16922  0.91909  0.81884  1.0000
+  O   O3        1.0  0.16922  0.91909  0.18116  1.0000
+  O   O4        1.0  0.27818  0.48306  0.80823  1.0000
+  O   O5        1.0  0.27818  0.48306  0.19177  1.0000
+  O   O6        1.0  0.40887  0.69614  0.50000  1.0000
+  O   O7        1.0  0.65506  0.77863  0.00000  1.0000
+  O   O8        1.0  0.66922  0.08091  0.31884  1.0000
+  O   O9        1.0  0.66922  0.08091  0.68116  1.0000
+  O   O10       1.0  0.77818  0.51694  0.69177  1.0000
+  O   O11       1.0  0.77818  0.51694  0.30823  1.0000
+  O   O12       1.0  0.90887  0.30386  0.00000  1.0000

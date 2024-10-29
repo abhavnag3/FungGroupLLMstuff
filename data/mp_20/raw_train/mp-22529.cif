@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr4In4Au4
+_chemical_formula_sum              "Sr4 In4 Au4"
+_cell_length_a       4.85744
+_cell_length_b       7.77783
+_cell_length_c       8.62702
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75000  0.97738  0.68529  1.0000
+  Sr  Sr2       1.0  0.25000  0.02262  0.31471  1.0000
+  Sr  Sr3       1.0  0.75000  0.47738  0.81471  1.0000
+  Sr  Sr4       1.0  0.25000  0.52262  0.18529  1.0000
+  In  In1       1.0  0.75000  0.34204  0.43210  1.0000
+  In  In2       1.0  0.25000  0.15796  0.93210  1.0000
+  In  In3       1.0  0.25000  0.65796  0.56790  1.0000
+  In  In4       1.0  0.75000  0.84204  0.06790  1.0000
+  Au  Au1       1.0  0.25000  0.78261  0.88619  1.0000
+  Au  Au2       1.0  0.25000  0.28261  0.61381  1.0000
+  Au  Au3       1.0  0.75000  0.71739  0.38619  1.0000
+  Au  Au4       1.0  0.75000  0.21739  0.11381  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2TiMn3S8
+_chemical_formula_sum              "Mg2 Ti1 Mn3 S8"
+_cell_length_a       7.3075
+_cell_length_b       7.30857
+_cell_length_c       7.30653
+_cell_angle_alpha    60.1693
+_cell_angle_beta     60.1487
+_cell_angle_gamma    60.179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.87320  0.87299  0.87314  1.0000
+  Mg  Mg2       1.0  0.12685  0.12697  0.12688  1.0000
+  Ti  Ti1       1.0  0.50006  0.50003  0.49992  1.0000
+  Mn  Mn1       1.0  0.49994  0.50000  0.00005  1.0000
+  Mn  Mn2       1.0  0.99996  0.50005  0.49991  1.0000
+  Mn  Mn3       1.0  0.50003  0.00003  0.49989  1.0000
+  S   S1        1.0  0.73721  0.73703  0.73708  1.0000
+  S   S2        1.0  0.26282  0.26278  0.71735  1.0000
+  S   S3        1.0  0.26280  0.71710  0.26296  1.0000
+  S   S4        1.0  0.71714  0.26292  0.26293  1.0000
+  S   S5        1.0  0.73717  0.28287  0.73708  1.0000
+  S   S6        1.0  0.28285  0.73719  0.73695  1.0000
+  S   S7        1.0  0.26281  0.26285  0.26312  1.0000
+  S   S8        1.0  0.73717  0.73719  0.28274  1.0000

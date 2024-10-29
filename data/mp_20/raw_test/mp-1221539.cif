@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mo4Br12O4
+_chemical_formula_sum              "Mo4 Br12 O4"
+_cell_length_a       3.92324
+_cell_length_b       12.0043
+_cell_length_c       12.0056
+_cell_angle_alpha    90
+_cell_angle_beta     90.3337
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.42959  0.38298  0.61701  1.0000
+  Mo  Mo2       1.0  0.92959  0.11702  0.11701  1.0000
+  Mo  Mo3       1.0  0.57041  0.61702  0.38299  1.0000
+  Mo  Mo4       1.0  0.07041  0.88298  0.88298  1.0000
+  Br  Br1       1.0  0.50197  0.39169  0.82152  1.0000
+  Br  Br2       1.0  0.49803  0.60831  0.17848  1.0000
+  Br  Br3       1.0  0.00197  0.10831  0.32152  1.0000
+  Br  Br4       1.0  0.99803  0.89169  0.67848  1.0000
+  Br  Br5       1.0  0.50006  0.82152  0.39163  1.0000
+  Br  Br6       1.0  0.49994  0.17848  0.60837  1.0000
+  Br  Br7       1.0  0.99994  0.32152  0.10837  1.0000
+  Br  Br8       1.0  0.00005  0.67848  0.89163  1.0000
+  Br  Br9       1.0  0.50151  0.60462  0.60459  1.0000
+  Br  Br10      1.0  0.49849  0.39538  0.39541  1.0000
+  Br  Br11      1.0  0.00151  0.89538  0.10460  1.0000
+  Br  Br12      1.0  0.99849  0.10462  0.89540  1.0000
+  O   O1        1.0  0.97662  0.38915  0.61075  1.0000
+  O   O2        1.0  0.02338  0.61085  0.38925  1.0000
+  O   O3        1.0  0.47662  0.11085  0.11075  1.0000
+  O   O4        1.0  0.52338  0.88915  0.88925  1.0000

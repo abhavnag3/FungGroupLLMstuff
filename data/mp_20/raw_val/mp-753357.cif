@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       SrBi5O9
+_chemical_formula_sum              "Sr1 Bi5 O9"
+_cell_length_a       4.0657
+_cell_length_b       6.89485
+_cell_length_c       9.99716
+_cell_angle_alpha    98.1835
+_cell_angle_beta     101.613
+_cell_angle_gamma    90.0847
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.02731  0.00071  0.01164  1.0000
+  Bi  Bi1       1.0  0.17894  0.41657  0.31786  1.0000
+  Bi  Bi2       1.0  0.36380  0.10180  0.68275  1.0000
+  Bi  Bi3       1.0  0.52172  0.50285  0.01271  1.0000
+  Bi  Bi4       1.0  0.67876  0.87626  0.33119  1.0000
+  Bi  Bi5       1.0  0.86240  0.60440  0.67429  1.0000
+  O   O1        1.0  0.35760  0.43388  0.66447  1.0000
+  O   O2        1.0  0.18809  0.09269  0.30704  1.0000
+  O   O3        1.0  0.06928  0.38034  0.09676  1.0000
+  O   O4        1.0  0.22284  0.73763  0.39982  1.0000
+  O   O5        1.0  0.46973  0.14921  0.89709  1.0000
+  O   O6        1.0  0.86360  0.94015  0.68419  1.0000
+  O   O7        1.0  0.65282  0.51696  0.26712  1.0000
+  O   O8        1.0  0.57491  0.83261  0.11179  1.0000
+  O   O9        1.0  0.97204  0.63836  0.88766  1.0000

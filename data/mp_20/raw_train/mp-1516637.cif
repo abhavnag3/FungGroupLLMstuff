@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba2Sr2Eu2Nb2O12
+_chemical_formula_sum              "Ba2 Sr2 Eu2 Nb2 O12"
+_cell_length_a       6.0032
+_cell_length_b       6.0699
+_cell_length_c       8.52284
+_cell_angle_alpha    90.3473
+_cell_angle_beta     90.3432
+_cell_angle_gamma    90.2183
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.50645  0.53044  0.25041  1.0000
+  Ba  Ba2       1.0  0.49355  0.46956  0.74959  1.0000
+  Sr  Sr1       1.0  0.99148  0.03926  0.25129  1.0000
+  Sr  Sr2       1.0  0.00852  0.96074  0.74871  1.0000
+  Eu  Eu1       1.0  0.00000  0.50000  0.00000  1.0000
+  Eu  Eu2       1.0  0.50000  0.00000  0.50000  1.0000
+  Nb  Nb1       1.0  0.50000  0.00000  0.00000  1.0000
+  Nb  Nb2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.23194  0.19450  0.95625  1.0000
+  O   O2        1.0  0.26557  0.69984  0.53297  1.0000
+  O   O3        1.0  0.76806  0.80550  0.04375  1.0000
+  O   O4        1.0  0.73443  0.30016  0.46703  1.0000
+  O   O5        1.0  0.30086  0.73526  0.96101  1.0000
+  O   O6        1.0  0.19043  0.22770  0.54266  1.0000
+  O   O7        1.0  0.69914  0.26474  0.03899  1.0000
+  O   O8        1.0  0.80957  0.77230  0.45734  1.0000
+  O   O9        1.0  0.41656  0.99182  0.23196  1.0000
+  O   O10       1.0  0.06434  0.46763  0.26762  1.0000
+  O   O11       1.0  0.58344  0.00818  0.76804  1.0000
+  O   O12       1.0  0.93566  0.53237  0.73238  1.0000

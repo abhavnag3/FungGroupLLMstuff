@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm2Mn2Al2Fe13C
+_chemical_formula_sum              "Sm2 Mn2 Al2 Fe13 C1"
+_cell_length_a       6.48604
+_cell_length_b       6.43857
+_cell_length_c       6.42147
+_cell_angle_alpha    83.2427
+_cell_angle_beta     83.3114
+_cell_angle_gamma    82.8285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.65498  0.65510  0.63994  1.0000
+  Sm  Sm2       1.0  0.34502  0.34490  0.36006  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.50000  1.0000
+  Mn  Mn2       1.0  0.00000  0.50000  0.00000  1.0000
+  Al  Al1       1.0  0.89490  0.89864  0.89732  1.0000
+  Al  Al2       1.0  0.10510  0.10136  0.10268  1.0000
+  Fe  Fe1       1.0  0.34312  0.34360  0.85152  1.0000
+  Fe  Fe2       1.0  0.34043  0.85171  0.34476  1.0000
+  Fe  Fe3       1.0  0.85436  0.34041  0.34487  1.0000
+  Fe  Fe4       1.0  0.65688  0.65640  0.14848  1.0000
+  Fe  Fe5       1.0  0.65957  0.14829  0.65524  1.0000
+  Fe  Fe6       1.0  0.14564  0.65959  0.65513  1.0000
+  Fe  Fe7       1.0  0.28329  0.71323  0.99926  1.0000
+  Fe  Fe8       1.0  0.72156  0.00261  0.28229  1.0000
+  Fe  Fe9       1.0  0.99752  0.28365  0.71409  1.0000
+  Fe  Fe10      1.0  0.27844  0.99739  0.71771  1.0000
+  Fe  Fe11      1.0  0.00248  0.71635  0.28591  1.0000
+  Fe  Fe12      1.0  0.71671  0.28677  0.00074  1.0000
+  Fe  Fe13      1.0  0.50000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.50000  0.50000  0.00000  1.0000

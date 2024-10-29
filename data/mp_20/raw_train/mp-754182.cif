@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       TbZr4O10
+_chemical_formula_sum              "Tb1 Zr4 O10"
+_cell_length_a       6.37894
+_cell_length_b       6.37894
+_cell_length_c       6.37894
+_cell_angle_alpha    99.542
+_cell_angle_beta     99.542
+_cell_angle_gamma    131.948
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Zr  Zr1       1.0  0.89771  0.70006  0.59777  1.0000
+  Zr  Zr2       1.0  0.10229  0.29994  0.40223  1.0000
+  Zr  Zr3       1.0  0.70006  0.10229  0.80236  1.0000
+  Zr  Zr4       1.0  0.29994  0.89771  0.19764  1.0000
+  O   O1        1.0  0.03397  0.14030  0.69068  1.0000
+  O   O2        1.0  0.55038  0.65671  0.69068  1.0000
+  O   O3        1.0  0.25000  0.75000  0.50000  1.0000
+  O   O4        1.0  0.44962  0.34329  0.30932  1.0000
+  O   O5        1.0  0.75000  0.25000  0.50000  1.0000
+  O   O6        1.0  0.34329  0.03397  0.89367  1.0000
+  O   O7        1.0  0.85970  0.55038  0.89367  1.0000
+  O   O8        1.0  0.96603  0.85970  0.30932  1.0000
+  O   O9        1.0  0.14030  0.44962  0.10633  1.0000
+  O   O10       1.0  0.65671  0.96603  0.10633  1.0000

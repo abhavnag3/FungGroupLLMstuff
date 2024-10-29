@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Cu3Te2Br2O6
+_chemical_formula_sum              "Cu3 Te2 Br2 O6"
+_cell_length_a       5.7341
+_cell_length_b       5.7341
+_cell_length_c       8.36722
+_cell_angle_alpha    77.8233
+_cell_angle_beta     77.8233
+_cell_angle_gamma    66.7962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.08992  0.08992  0.63279  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.50000  1.0000
+  Cu  Cu3       1.0  0.91008  0.91008  0.36721  1.0000
+  Te  Te1       1.0  0.32706  0.32706  0.24393  1.0000
+  Te  Te2       1.0  0.67294  0.67294  0.75608  1.0000
+  Br  Br1       1.0  0.20531  0.20531  0.86089  1.0000
+  Br  Br2       1.0  0.79469  0.79469  0.13911  1.0000
+  O   O1        1.0  0.86149  0.86149  0.62303  1.0000
+  O   O2        1.0  0.61198  0.22366  0.36954  1.0000
+  O   O3        1.0  0.38802  0.77634  0.63046  1.0000
+  O   O4        1.0  0.22366  0.61198  0.36954  1.0000
+  O   O5        1.0  0.77634  0.38802  0.63046  1.0000
+  O   O6        1.0  0.13851  0.13851  0.37697  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba3CdHg10
+_chemical_formula_sum              "Ba3 Cd1 Hg10"
+_cell_length_a       9.63214
+_cell_length_b       9.63214
+_cell_length_c       9.63214
+_cell_angle_alpha    147.658
+_cell_angle_beta     115.746
+_cell_angle_gamma    73.7844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ba  Ba2       1.0  0.70637  0.70637  0.00000  1.0000
+  Ba  Ba3       1.0  0.29363  0.29363  0.00000  1.0000
+  Cd  Cd1       1.0  0.50000  0.00000  0.50000  1.0000
+  Hg  Hg1       1.0  0.15202  0.85994  0.29208  1.0000
+  Hg  Hg2       1.0  0.84799  0.14006  0.70792  1.0000
+  Hg  Hg3       1.0  0.43214  0.14006  0.29208  1.0000
+  Hg  Hg4       1.0  0.56786  0.85994  0.70792  1.0000
+  Hg  Hg5       1.0  0.01517  0.65868  0.35648  1.0000
+  Hg  Hg6       1.0  0.98483  0.34132  0.64352  1.0000
+  Hg  Hg7       1.0  0.69780  0.34132  0.35648  1.0000
+  Hg  Hg8       1.0  0.30220  0.65868  0.64352  1.0000
+  Hg  Hg9       1.0  0.67554  0.50000  0.17554  1.0000
+  Hg  Hg10      1.0  0.32446  0.50000  0.82446  1.0000

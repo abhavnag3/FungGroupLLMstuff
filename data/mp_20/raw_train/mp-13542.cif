@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr2Ge2Te8
+_chemical_formula_sum              "Zr2 Ge2 Te8"
+_cell_length_a       8.7916
+_cell_length_b       8.7916
+_cell_length_c       11.1442
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    153.524
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.34360  0.65639  0.72614  1.0000
+  Zr  Zr2       1.0  0.65639  0.34360  0.22614  1.0000
+  Ge  Ge1       1.0  0.22964  0.77036  0.53571  1.0000
+  Ge  Ge2       1.0  0.77036  0.22964  0.03571  1.0000
+  Te  Te1       1.0  0.02939  0.97061  0.25841  1.0000
+  Te  Te2       1.0  0.97061  0.02939  0.75841  1.0000
+  Te  Te3       1.0  0.10609  0.89391  0.04008  1.0000
+  Te  Te4       1.0  0.89391  0.10609  0.54008  1.0000
+  Te  Te5       1.0  0.27587  0.72413  0.30098  1.0000
+  Te  Te6       1.0  0.72413  0.27587  0.80098  1.0000
+  Te  Te7       1.0  0.62549  0.37451  0.49968  1.0000
+  Te  Te8       1.0  0.37451  0.62549  0.99968  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       U4Ti6Ge8
+_chemical_formula_sum              "U4 Ti6 Ge8"
+_cell_length_a       7.12739
+_cell_length_b       7.0195
+_cell_length_c       7.11743
+_cell_angle_alpha    69.9745
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.66241  0.94290  0.67886  1.0000
+  U   U2        1.0  0.33759  0.05710  0.32114  1.0000
+  U   U3        1.0  0.16241  0.55710  0.32114  1.0000
+  U   U4        1.0  0.83759  0.44290  0.67886  1.0000
+  Ti  Ti1       1.0  0.66555  0.75041  0.24949  1.0000
+  Ti  Ti2       1.0  0.33445  0.24959  0.75051  1.0000
+  Ti  Ti3       1.0  0.16555  0.74959  0.75051  1.0000
+  Ti  Ti4       1.0  0.83445  0.25041  0.24949  1.0000
+  Ti  Ti5       1.0  0.00000  0.00000  0.00000  1.0000
+  Ti  Ti6       1.0  0.50000  0.50000  0.00000  1.0000
+  Ge  Ge1       1.0  0.95451  0.86293  0.40948  1.0000
+  Ge  Ge2       1.0  0.04549  0.13707  0.59052  1.0000
+  Ge  Ge3       1.0  0.45451  0.63707  0.59052  1.0000
+  Ge  Ge4       1.0  0.54549  0.36293  0.40948  1.0000
+  Ge  Ge5       1.0  0.86331  0.63888  0.99651  1.0000
+  Ge  Ge6       1.0  0.13669  0.36112  0.00349  1.0000
+  Ge  Ge7       1.0  0.36331  0.86112  0.00349  1.0000
+  Ge  Ge8       1.0  0.63669  0.13888  0.99651  1.0000

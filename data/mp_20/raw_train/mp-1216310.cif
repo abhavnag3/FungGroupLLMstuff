@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       V2Mo2As4
+_chemical_formula_sum              "V2 Mo2 As4"
+_cell_length_a       3.38605
+_cell_length_b       5.92092
+_cell_length_c       6.36881
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.00000  0.50970  0.43353  1.0000
+  V   V2        1.0  0.00000  0.00970  0.56647  1.0000
+  Mo  Mo1       1.0  0.50000  0.49145  0.06555  1.0000
+  Mo  Mo2       1.0  0.50000  0.99145  0.93446  1.0000
+  As  As1       1.0  0.50000  0.30854  0.66983  1.0000
+  As  As2       1.0  0.50000  0.80854  0.33017  1.0000
+  As  As3       1.0  0.00000  0.69031  0.81216  1.0000
+  As  As4       1.0  0.00000  0.19031  0.18784  1.0000

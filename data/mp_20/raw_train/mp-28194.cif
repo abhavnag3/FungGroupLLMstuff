@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Bi2Cl2F16
+_chemical_formula_sum              "Bi2 Cl2 F16"
+_cell_length_a       5.39979
+_cell_length_b       5.9203
+_cell_length_c       10.779
+_cell_angle_alpha    90.5769
+_cell_angle_beta     93.6053
+_cell_angle_gamma    93.7177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.00000  0.00000  0.50000  1.0000
+  Bi  Bi2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.41046  0.38470  0.74864  1.0000
+  Cl  Cl2       1.0  0.58954  0.61530  0.25136  1.0000
+  F   F1        1.0  0.84879  0.18527  0.36134  1.0000
+  F   F2        1.0  0.15121  0.81473  0.63866  1.0000
+  F   F3        1.0  0.70888  0.04930  0.60477  1.0000
+  F   F4        1.0  0.29112  0.95070  0.39523  1.0000
+  F   F5        1.0  0.42469  0.54706  0.12360  1.0000
+  F   F6        1.0  0.57531  0.45294  0.87640  1.0000
+  F   F7        1.0  0.40193  0.47849  0.34052  1.0000
+  F   F8        1.0  0.59807  0.52151  0.65948  1.0000
+  F   F9        1.0  0.88873  0.28027  0.08390  1.0000
+  F   F10       1.0  0.11127  0.71973  0.91610  1.0000
+  F   F11       1.0  0.32741  0.03690  0.10318  1.0000
+  F   F12       1.0  0.67259  0.96310  0.89682  1.0000
+  F   F13       1.0  0.86249  0.79257  0.14271  1.0000
+  F   F14       1.0  0.13751  0.20743  0.85729  1.0000
+  F   F15       1.0  0.81627  0.69972  0.42173  1.0000
+  F   F16       1.0  0.18373  0.30028  0.57827  1.0000

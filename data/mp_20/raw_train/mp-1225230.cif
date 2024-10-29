@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Cd2Ag2
+_chemical_formula_sum              "Eu2 Cd2 Ag2"
+_cell_length_a       6.10872
+_cell_length_b       6.10872
+_cell_length_c       7.64019
+_cell_angle_alpha    53.9649
+_cell_angle_beta     53.9649
+_cell_angle_gamma    47.6987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.54892  0.54892  0.69970  1.0000
+  Eu  Eu2       1.0  0.45108  0.45108  0.30030  1.0000
+  Cd  Cd1       1.0  0.82992  0.82992  0.11007  1.0000
+  Cd  Cd2       1.0  0.17008  0.17008  0.88993  1.0000
+  Ag  Ag1       1.0  0.15880  0.15880  0.29432  1.0000
+  Ag  Ag2       1.0  0.84120  0.84120  0.70568  1.0000

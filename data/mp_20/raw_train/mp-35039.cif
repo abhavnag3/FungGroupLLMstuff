@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li4Fe2Br8
+_chemical_formula_sum              "Li4 Fe2 Br8"
+_cell_length_a       7.82916
+_cell_length_b       7.82916
+_cell_length_c       7.82916
+_cell_angle_alpha    119.842
+_cell_angle_beta     119.466
+_cell_angle_gamma    90.6012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.13083  0.88083  0.25000  1.0000
+  Li  Li2       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li3       1.0  0.00000  0.50000  0.50000  1.0000
+  Li  Li4       1.0  0.86917  0.11917  0.75000  1.0000
+  Fe  Fe1       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.50000  0.50000  1.0000
+  Br  Br1       1.0  0.26420  0.75349  0.98930  1.0000
+  Br  Br2       1.0  0.72651  0.74685  0.97966  1.0000
+  Br  Br3       1.0  0.26420  0.27490  0.51070  1.0000
+  Br  Br4       1.0  0.26719  0.74685  0.52034  1.0000
+  Br  Br5       1.0  0.73281  0.25315  0.47966  1.0000
+  Br  Br6       1.0  0.73580  0.72510  0.48930  1.0000
+  Br  Br7       1.0  0.27349  0.25315  0.02034  1.0000
+  Br  Br8       1.0  0.73580  0.24651  0.01070  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K6Ge2H4N2O6
+_chemical_formula_sum              "K6 Ge2 H4 N2 O6"
+_cell_length_a       6.4685
+_cell_length_b       6.77731
+_cell_length_c       7.29668
+_cell_angle_alpha    96.2913
+_cell_angle_beta     101.423
+_cell_angle_gamma    91.607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.76158  0.09140  0.02889  1.0000
+  K   K2        1.0  0.23842  0.90860  0.97111  1.0000
+  K   K3        1.0  0.65409  0.19919  0.48271  1.0000
+  K   K4        1.0  0.34591  0.80081  0.51729  1.0000
+  K   K5        1.0  0.71683  0.52322  0.87004  1.0000
+  K   K6        1.0  0.28317  0.47678  0.12996  1.0000
+  Ge  Ge1       1.0  0.78582  0.70225  0.30320  1.0000
+  Ge  Ge2       1.0  0.21418  0.29775  0.69680  1.0000
+  H   H1        1.0  0.88576  0.89046  0.62504  1.0000
+  H   H2        1.0  0.11424  0.10954  0.37496  1.0000
+  H   H3        1.0  0.96791  0.66447  0.63074  1.0000
+  H   H4        1.0  0.03209  0.33553  0.36926  1.0000
+  N   N1        1.0  0.84025  0.74319  0.57699  1.0000
+  N   N2        1.0  0.15975  0.25681  0.42301  1.0000
+  O   O1        1.0  0.56638  0.85021  0.23729  1.0000
+  O   O2        1.0  0.43362  0.14979  0.76271  1.0000
+  O   O3        1.0  0.99589  0.21956  0.79227  1.0000
+  O   O4        1.0  0.00411  0.78044  0.20773  1.0000
+  O   O5        1.0  0.72263  0.44531  0.23894  1.0000
+  O   O6        1.0  0.27737  0.55470  0.76106  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ti4Fe4O12
+_chemical_formula_sum              "Ti4 Fe4 O12"
+_cell_length_a       5.16891
+_cell_length_b       5.16905
+_cell_length_c       9.87218
+_cell_angle_alpha    74.8146
+_cell_angle_beta     89.9851
+_cell_angle_gamma    120.001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.57326  0.14618  0.28075  1.0000
+  Ti  Ti2       1.0  0.07309  0.14614  0.78074  1.0000
+  Ti  Ti3       1.0  0.92687  0.85385  0.21926  1.0000
+  Ti  Ti4       1.0  0.42681  0.85390  0.71925  1.0000
+  Fe  Fe1       1.0  0.67763  0.35535  0.96700  1.0000
+  Fe  Fe2       1.0  0.32238  0.64465  0.03300  1.0000
+  Fe  Fe3       1.0  0.17790  0.35525  0.46699  1.0000
+  Fe  Fe4       1.0  0.82204  0.64477  0.53301  1.0000
+  O   O1        1.0  0.30189  0.21922  0.13156  1.0000
+  O   O2        1.0  0.80208  0.21931  0.63153  1.0000
+  O   O3        1.0  0.91729  0.56653  0.13157  1.0000
+  O   O4        1.0  0.41752  0.56663  0.63152  1.0000
+  O   O5        1.0  0.64918  0.95113  0.13154  1.0000
+  O   O6        1.0  0.14943  0.95118  0.63164  1.0000
+  O   O7        1.0  0.19787  0.78061  0.36851  1.0000
+  O   O8        1.0  0.69812  0.78078  0.86844  1.0000
+  O   O9        1.0  0.58253  0.43336  0.36845  1.0000
+  O   O10       1.0  0.08271  0.43347  0.86843  1.0000
+  O   O11       1.0  0.85059  0.04884  0.36836  1.0000
+  O   O12       1.0  0.35082  0.04887  0.86846  1.0000

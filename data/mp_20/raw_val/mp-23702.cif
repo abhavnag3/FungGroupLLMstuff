@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4H8N4
+_chemical_formula_sum              "Li4 H8 N4"
+_cell_length_a       6.37532
+_cell_length_b       6.37532
+_cell_length_c       6.37532
+_cell_angle_alpha    132.989
+_cell_angle_beta     132.989
+_cell_angle_gamma    68.6722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  Li  Li2       1.0  0.25000  0.75000  0.50000  1.0000
+  Li  Li3       1.0  0.49211  0.99211  0.50000  1.0000
+  Li  Li4       1.0  0.00789  0.50789  0.50000  1.0000
+  H   H1        1.0  0.69408  0.58408  0.65719  1.0000
+  H   H2        1.0  0.92689  0.03688  0.34281  1.0000
+  H   H3        1.0  0.96312  0.30592  0.89000  1.0000
+  H   H4        1.0  0.41592  0.07311  0.11000  1.0000
+  H   H5        1.0  0.54195  0.46928  0.25794  1.0000
+  H   H6        1.0  0.21134  0.28401  0.74206  1.0000
+  H   H7        1.0  0.71599  0.45805  0.92733  1.0000
+  H   H8        1.0  0.53072  0.78866  0.07267  1.0000
+  N   N1        1.0  0.63971  0.65843  0.52655  1.0000
+  N   N2        1.0  0.13189  0.11316  0.47346  1.0000
+  N   N3        1.0  0.88684  0.36029  0.01873  1.0000
+  N   N4        1.0  0.34157  0.86811  0.98127  1.0000

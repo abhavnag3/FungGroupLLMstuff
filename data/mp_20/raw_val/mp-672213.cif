@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       EuAs2Pd2
+_chemical_formula_sum              "Eu1 As2 Pd2"
+_cell_length_a       5.95199
+_cell_length_b       5.95199
+_cell_length_c       4.44656
+_cell_angle_alpha    69.9464
+_cell_angle_beta     69.9464
+_cell_angle_gamma    43.3809
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.00027  0.00027  0.99120  1.0000
+  As  As1       1.0  0.62279  0.62279  0.37274  1.0000
+  As  As2       1.0  0.37345  0.37345  0.62700  1.0000
+  Pd  Pd1       1.0  0.25040  0.25040  0.24572  1.0000
+  Pd  Pd2       1.0  0.74816  0.74816  0.75235  1.0000

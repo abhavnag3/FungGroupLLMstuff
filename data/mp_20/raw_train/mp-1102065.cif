@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho3Al9
+_chemical_formula_sum              "Ho3 Al9"
+_cell_length_a       7.90684
+_cell_length_b       7.90684
+_cell_length_c       7.90684
+_cell_angle_alpha    45.8399
+_cell_angle_beta     45.8399
+_cell_angle_gamma    45.8399
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ho  Ho2       1.0  0.78182  0.78182  0.78182  1.0000
+  Ho  Ho3       1.0  0.21818  0.21818  0.21818  1.0000
+  Al  Al1       1.0  0.50000  0.50000  0.00000  1.0000
+  Al  Al2       1.0  0.00000  0.50000  0.50000  1.0000
+  Al  Al3       1.0  0.50000  0.00000  0.50000  1.0000
+  Al  Al4       1.0  0.70399  0.70399  0.26132  1.0000
+  Al  Al5       1.0  0.26132  0.70399  0.70399  1.0000
+  Al  Al6       1.0  0.70399  0.26132  0.70399  1.0000
+  Al  Al7       1.0  0.29601  0.29601  0.73868  1.0000
+  Al  Al8       1.0  0.73868  0.29601  0.29601  1.0000
+  Al  Al9       1.0  0.29601  0.73868  0.29601  1.0000

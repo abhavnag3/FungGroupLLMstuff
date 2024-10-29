@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm4S8
+_chemical_formula_sum              "Sm4 S8"
+_cell_length_a       3.99136
+_cell_length_b       7.96718
+_cell_length_c       8.06109
+_cell_angle_alpha    89.9024
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.28524  0.12907  0.72473  1.0000
+  Sm  Sm2       1.0  0.78524  0.37093  0.27527  1.0000
+  Sm  Sm3       1.0  0.71476  0.87093  0.27527  1.0000
+  Sm  Sm4       1.0  0.21476  0.62907  0.72473  1.0000
+  S   S1        1.0  0.83981  0.10940  0.99743  1.0000
+  S   S2        1.0  0.33981  0.39060  0.00257  1.0000
+  S   S3        1.0  0.16020  0.89060  0.00257  1.0000
+  S   S4        1.0  0.66019  0.60940  0.99743  1.0000
+  S   S5        1.0  0.25987  0.12513  0.36769  1.0000
+  S   S6        1.0  0.75987  0.37487  0.63231  1.0000
+  S   S7        1.0  0.74013  0.87487  0.63231  1.0000
+  S   S8        1.0  0.24013  0.62513  0.36769  1.0000

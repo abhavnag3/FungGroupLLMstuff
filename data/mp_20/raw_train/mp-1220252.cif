@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Nd3Ti4O12
+_chemical_formula_sum              "Nd3 Ti4 O12"
+_cell_length_a       5.52245
+_cell_length_b       5.52245
+_cell_length_c       7.75257
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    91.0958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.25832  0.74168  0.00000  1.0000
+  Nd  Nd2       1.0  0.75003  0.24997  0.00000  1.0000
+  Nd  Nd3       1.0  0.25380  0.74620  0.50000  1.0000
+  Ti  Ti1       1.0  0.25147  0.24856  0.74299  1.0000
+  Ti  Ti2       1.0  0.75144  0.74853  0.74299  1.0000
+  Ti  Ti3       1.0  0.75144  0.74853  0.25701  1.0000
+  Ti  Ti4       1.0  0.25147  0.24856  0.25701  1.0000
+  O   O1        1.0  0.49024  0.99148  0.76489  1.0000
+  O   O2        1.0  0.00852  0.50976  0.23511  1.0000
+  O   O3        1.0  0.49024  0.99148  0.23511  1.0000
+  O   O4        1.0  0.00852  0.50976  0.76489  1.0000
+  O   O5        1.0  0.48335  0.51665  0.71000  1.0000
+  O   O6        1.0  0.48335  0.51665  0.29000  1.0000
+  O   O7        1.0  0.21397  0.19292  0.50000  1.0000
+  O   O8        1.0  0.80708  0.78603  0.50000  1.0000
+  O   O9        1.0  0.99850  0.00150  0.80990  1.0000
+  O   O10       1.0  0.99850  0.00150  0.19010  1.0000
+  O   O11       1.0  0.30934  0.30057  0.00000  1.0000
+  O   O12       1.0  0.69944  0.69066  0.00000  1.0000

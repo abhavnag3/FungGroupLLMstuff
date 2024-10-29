@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ScNi2SbO6
+_chemical_formula_sum              "Sc1 Ni2 Sb1 O6"
+_cell_length_a       5.22885
+_cell_length_b       5.22885
+_cell_length_c       5.60958
+_cell_angle_alpha    62.2169
+_cell_angle_beta     62.217
+_cell_angle_gamma    59.9998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.81171  0.81172  0.56485  1.0000
+  Ni  Ni1       1.0  0.52131  0.52130  0.43609  1.0000
+  Ni  Ni2       1.0  0.01615  0.01614  0.95158  1.0000
+  Sb  Sb1       1.0  0.31880  0.31882  0.04355  1.0000
+  O   O1        1.0  0.22038  0.93318  0.24656  1.0000
+  O   O2        1.0  0.93319  0.59988  0.24656  1.0000
+  O   O3        1.0  0.59988  0.22037  0.24657  1.0000
+  O   O4        1.0  0.70934  0.11644  0.75981  1.0000
+  O   O5        1.0  0.11644  0.41441  0.75980  1.0000
+  O   O6        1.0  0.41441  0.70934  0.75982  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       LiInMo6Se6
+_chemical_formula_sum              "Li1 In1 Mo6 Se6"
+_cell_length_a       9.45606
+_cell_length_b       9.45606
+_cell_length_c       4.51529
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.66667  0.33333  0.50000  1.0000
+  In  In1       1.0  0.33333  0.66667  0.00000  1.0000
+  Mo  Mo1       1.0  0.14830  0.17501  0.50000  1.0000
+  Mo  Mo2       1.0  0.82499  0.97329  0.50000  1.0000
+  Mo  Mo3       1.0  0.02671  0.85170  0.50000  1.0000
+  Mo  Mo4       1.0  0.84971  0.82603  0.00000  1.0000
+  Mo  Mo5       1.0  0.17397  0.02369  0.00000  1.0000
+  Mo  Mo6       1.0  0.97632  0.15029  0.00000  1.0000
+  Se  Se1       1.0  0.35107  0.06067  0.50000  1.0000
+  Se  Se2       1.0  0.93933  0.29040  0.50000  1.0000
+  Se  Se3       1.0  0.70960  0.64893  0.50000  1.0000
+  Se  Se4       1.0  0.66039  0.95788  0.00000  1.0000
+  Se  Se5       1.0  0.04212  0.70251  0.00000  1.0000
+  Se  Se6       1.0  0.29749  0.33961  0.00000  1.0000

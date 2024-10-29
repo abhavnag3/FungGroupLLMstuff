@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       U2Mo2C3
+_chemical_formula_sum              "U2 Mo2 C3"
+_cell_length_a       6.16131
+_cell_length_b       6.16131
+_cell_length_c       5.57774
+_cell_angle_alpha    68.9005
+_cell_angle_beta     68.9005
+_cell_angle_gamma    29.7206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.60258  0.60258  0.19142  1.0000
+  U   U2        1.0  0.39742  0.39742  0.80858  1.0000
+  Mo  Mo1       1.0  0.84582  0.84582  0.33632  1.0000
+  Mo  Mo2       1.0  0.15418  0.15418  0.66368  1.0000
+  C   C1        1.0  0.74998  0.74998  0.75817  1.0000
+  C   C2        1.0  0.25002  0.25002  0.24183  1.0000
+  C   C3        1.0  0.00000  0.00000  0.00000  1.0000

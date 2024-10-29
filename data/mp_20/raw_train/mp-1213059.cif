@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Eu2CuGe4O12
+_chemical_formula_sum              "Eu2 Cu1 Ge4 O12"
+_cell_length_a       4.96519
+_cell_length_b       7.41289
+_cell_length_c       8.21101
+_cell_angle_alpha    114.244
+_cell_angle_beta     86.1401
+_cell_angle_gamma    103.668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.96020  0.76879  0.54442  1.0000
+  Eu  Eu2       1.0  0.03980  0.23122  0.45558  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.42424  0.61885  0.79966  1.0000
+  Ge  Ge2       1.0  0.57576  0.38115  0.20034  1.0000
+  Ge  Ge3       1.0  0.54253  0.17401  0.78563  1.0000
+  Ge  Ge4       1.0  0.45747  0.82599  0.21437  1.0000
+  O   O1        1.0  0.75396  0.78166  0.81558  1.0000
+  O   O2        1.0  0.24604  0.21834  0.18442  1.0000
+  O   O3        1.0  0.74020  0.29822  0.99203  1.0000
+  O   O4        1.0  0.25980  0.70178  0.00797  1.0000
+  O   O5        1.0  0.77018  0.41813  0.38474  1.0000
+  O   O6        1.0  0.22982  0.58188  0.61526  1.0000
+  O   O7        1.0  0.75651  0.99842  0.19252  1.0000
+  O   O8        1.0  0.24349  0.00158  0.80748  1.0000
+  O   O9        1.0  0.42952  0.35326  0.72619  1.0000
+  O   O10       1.0  0.57048  0.64674  0.27381  1.0000
+  O   O11       1.0  0.76156  0.06453  0.61750  1.0000
+  O   O12       1.0  0.23844  0.93547  0.38250  1.0000

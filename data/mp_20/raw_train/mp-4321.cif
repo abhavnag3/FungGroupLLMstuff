@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg4Si4O12
+_chemical_formula_sum              "Mg4 Si4 O12"
+_cell_length_a       6.53392
+_cell_length_b       6.53392
+_cell_length_c       5.05996
+_cell_angle_alpha    80.5882
+_cell_angle_beta     80.5882
+_cell_angle_gamma    86.4867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.09697  0.90303  0.75000  1.0000
+  Mg  Mg2       1.0  0.90303  0.09697  0.25000  1.0000
+  Mg  Mg3       1.0  0.72956  0.27044  0.75000  1.0000
+  Mg  Mg4       1.0  0.27044  0.72956  0.25000  1.0000
+  Si  Si1       1.0  0.20726  0.38769  0.78279  1.0000
+  Si  Si2       1.0  0.61231  0.79274  0.71721  1.0000
+  Si  Si3       1.0  0.79274  0.61231  0.21721  1.0000
+  Si  Si4       1.0  0.38769  0.20726  0.28279  1.0000
+  O   O1        1.0  0.40827  0.29490  0.57374  1.0000
+  O   O2        1.0  0.70510  0.59173  0.92626  1.0000
+  O   O3        1.0  0.59173  0.70510  0.42626  1.0000
+  O   O4        1.0  0.29490  0.40827  0.07374  1.0000
+  O   O5        1.0  0.61299  0.14569  0.13193  1.0000
+  O   O6        1.0  0.85431  0.38701  0.36807  1.0000
+  O   O7        1.0  0.38701  0.85431  0.86807  1.0000
+  O   O8        1.0  0.14569  0.61299  0.63193  1.0000
+  O   O9        1.0  0.02917  0.21302  0.85833  1.0000
+  O   O10       1.0  0.78698  0.97083  0.64167  1.0000
+  O   O11       1.0  0.97083  0.78698  0.14167  1.0000
+  O   O12       1.0  0.21302  0.02917  0.35834  1.0000

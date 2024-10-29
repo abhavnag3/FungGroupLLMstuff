@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ho3Er9Mn2Bi4
+_chemical_formula_sum              "Ho3 Er9 Mn2 Bi4"
+_cell_length_a       4.27387
+_cell_length_b       8.22868
+_cell_length_c       14.2413
+_cell_angle_alpha    90.0058
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00000  0.73325  0.50006  1.0000
+  Ho  Ho2       1.0  0.00000  0.23309  0.99999  1.0000
+  Ho  Ho3       1.0  0.00000  0.38336  0.38377  1.0000
+  Er  Er1       1.0  0.00000  0.88350  0.88385  1.0000
+  Er  Er2       1.0  0.00000  0.88350  0.11614  1.0000
+  Er  Er3       1.0  0.00000  0.38346  0.61619  1.0000
+  Er  Er4       1.0  0.50000  0.10803  0.50010  1.0000
+  Er  Er5       1.0  0.50000  0.60837  0.99999  1.0000
+  Er  Er6       1.0  0.50000  0.19564  0.19618  1.0000
+  Er  Er7       1.0  0.50000  0.69569  0.69629  1.0000
+  Er  Er8       1.0  0.50000  0.69604  0.30359  1.0000
+  Er  Er9       1.0  0.50000  0.19568  0.80375  1.0000
+  Mn  Mn1       1.0  0.50000  0.99959  0.00002  1.0000
+  Mn  Mn2       1.0  0.50000  0.49980  0.50025  1.0000
+  Bi  Bi1       1.0  0.00000  0.99991  0.33302  1.0000
+  Bi  Bi2       1.0  0.00000  0.50024  0.83310  1.0000
+  Bi  Bi3       1.0  0.00000  0.50039  0.16675  1.0000
+  Bi  Bi4       1.0  0.00000  0.00026  0.66695  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na8Si8
+_chemical_formula_sum              "Na8 Si8"
+_cell_length_a       6.317
+_cell_length_b       6.317
+_cell_length_c       10.8653
+_cell_angle_alpha    72.9829
+_cell_angle_beta     72.9829
+_cell_angle_gamma    62.7909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.88460  0.34928  0.88707  1.0000
+  Na  Na2       1.0  0.65072  0.11540  0.61293  1.0000
+  Na  Na3       1.0  0.11541  0.65072  0.11293  1.0000
+  Na  Na4       1.0  0.34928  0.88460  0.38707  1.0000
+  Na  Na5       1.0  0.41476  0.24310  0.90465  1.0000
+  Na  Na6       1.0  0.75690  0.58523  0.59535  1.0000
+  Na  Na7       1.0  0.58523  0.75690  0.09535  1.0000
+  Na  Na8       1.0  0.24310  0.41476  0.40465  1.0000
+  Si  Si1       1.0  0.15329  0.05679  0.65900  1.0000
+  Si  Si2       1.0  0.94321  0.84671  0.84100  1.0000
+  Si  Si3       1.0  0.84671  0.94321  0.34100  1.0000
+  Si  Si4       1.0  0.05679  0.15329  0.15900  1.0000
+  Si  Si5       1.0  0.23103  0.63462  0.67235  1.0000
+  Si  Si6       1.0  0.36537  0.76897  0.82765  1.0000
+  Si  Si7       1.0  0.76897  0.36538  0.32765  1.0000
+  Si  Si8       1.0  0.63462  0.23102  0.17235  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi8Ir4
+_chemical_formula_sum              "Bi8 Ir4"
+_cell_length_a       6.89695
+_cell_length_b       7.01564
+_cell_length_c       7.08324
+_cell_angle_alpha    64.0528
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.35810  0.65322  0.17081  1.0000
+  Bi  Bi2       1.0  0.85810  0.34678  0.32919  1.0000
+  Bi  Bi3       1.0  0.64190  0.34678  0.82918  1.0000
+  Bi  Bi4       1.0  0.14190  0.65322  0.67082  1.0000
+  Bi  Bi5       1.0  0.63630  0.85460  0.37425  1.0000
+  Bi  Bi6       1.0  0.13630  0.14540  0.12575  1.0000
+  Bi  Bi7       1.0  0.36370  0.14540  0.62575  1.0000
+  Bi  Bi8       1.0  0.86370  0.85460  0.87425  1.0000
+  Ir  Ir1       1.0  0.99699  0.72914  0.28605  1.0000
+  Ir  Ir2       1.0  0.49699  0.27086  0.21395  1.0000
+  Ir  Ir3       1.0  0.00301  0.27086  0.71395  1.0000
+  Ir  Ir4       1.0  0.50301  0.72914  0.78605  1.0000

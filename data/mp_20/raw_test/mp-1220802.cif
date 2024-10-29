@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Na2H2Se2O8
+_chemical_formula_sum              "Na2 H2 Se2 O8"
+_cell_length_a       5.18649
+_cell_length_b       5.77675
+_cell_length_c       6.68773
+_cell_angle_alpha    89.229
+_cell_angle_beta     106.367
+_cell_angle_gamma    97.191
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.03022  0.25263  0.15895  1.0000
+  Na  Na2       1.0  0.96775  0.75156  0.84799  1.0000
+  H   H1        1.0  0.46922  0.03821  0.51375  1.0000
+  H   H2        1.0  0.96867  0.51314  0.47983  1.0000
+  Se  Se1       1.0  0.37333  0.29687  0.74737  1.0000
+  Se  Se2       1.0  0.63712  0.72645  0.27487  1.0000
+  O   O1        1.0  0.70055  0.37066  0.85081  1.0000
+  O   O2        1.0  0.32160  0.61860  0.16231  1.0000
+  O   O3        1.0  0.23095  0.12267  0.89406  1.0000
+  O   O4        1.0  0.78627  0.87594  0.11759  1.0000
+  O   O5        1.0  0.21702  0.53114  0.66833  1.0000
+  O   O6        1.0  0.80371  0.47742  0.34949  1.0000
+  O   O7        1.0  0.32258  0.14577  0.50773  1.0000
+  O   O8        1.0  0.68200  0.87294  0.49892  1.0000

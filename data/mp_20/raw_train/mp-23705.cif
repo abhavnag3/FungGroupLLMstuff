@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Al2H12
+_chemical_formula_sum              "Na6 Al2 H12"
+_cell_length_a       5.5431
+_cell_length_b       5.34583
+_cell_length_c       9.38352
+_cell_angle_alpha    55.2451
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.50000  0.50000  1.0000
+  Na  Na2       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na3       1.0  0.04692  0.26473  0.24605  1.0000
+  Na  Na4       1.0  0.54692  0.73527  0.25395  1.0000
+  Na  Na5       1.0  0.95308  0.73527  0.75395  1.0000
+  Na  Na6       1.0  0.45308  0.26473  0.74605  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al2       1.0  0.50000  0.00000  0.50000  1.0000
+  H   H1        1.0  0.23293  0.77592  0.56361  1.0000
+  H   H2        1.0  0.73293  0.22408  0.93639  1.0000
+  H   H3        1.0  0.76707  0.22408  0.43639  1.0000
+  H   H4        1.0  0.26707  0.77592  0.06361  1.0000
+  H   H5        1.0  0.16921  0.31537  0.95639  1.0000
+  H   H6        1.0  0.66921  0.68463  0.54361  1.0000
+  H   H7        1.0  0.83079  0.68463  0.04361  1.0000
+  H   H8        1.0  0.33079  0.31537  0.45639  1.0000
+  H   H9        1.0  0.04793  0.11622  0.78377  1.0000
+  H   H10       1.0  0.54793  0.88378  0.71623  1.0000
+  H   H11       1.0  0.95207  0.88378  0.21623  1.0000
+  H   H12       1.0  0.45207  0.11622  0.28377  1.0000

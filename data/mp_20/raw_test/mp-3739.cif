@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nd4Cu4Se8
+_chemical_formula_sum              "Nd4 Cu4 Se8"
+_cell_length_a       7.50932
+_cell_length_b       6.745
+_cell_length_c       7.21992
+_cell_angle_alpha    83.4677
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.54529  0.30661  0.29942  1.0000
+  Nd  Nd2       1.0  0.04529  0.69339  0.20058  1.0000
+  Nd  Nd3       1.0  0.45471  0.69339  0.70058  1.0000
+  Nd  Nd4       1.0  0.95471  0.30661  0.79942  1.0000
+  Cu  Cu1       1.0  0.83956  0.93107  0.54608  1.0000
+  Cu  Cu2       1.0  0.16044  0.06893  0.45392  1.0000
+  Cu  Cu3       1.0  0.66044  0.93107  0.04608  1.0000
+  Cu  Cu4       1.0  0.33956  0.06893  0.95392  1.0000
+  Se  Se1       1.0  0.72351  0.58141  0.00239  1.0000
+  Se  Se2       1.0  0.77649  0.58141  0.50239  1.0000
+  Se  Se3       1.0  0.22351  0.41859  0.49761  1.0000
+  Se  Se4       1.0  0.27649  0.41859  0.99761  1.0000
+  Se  Se5       1.0  0.61195  0.09778  0.72092  1.0000
+  Se  Se6       1.0  0.11195  0.90222  0.77908  1.0000
+  Se  Se7       1.0  0.38805  0.90222  0.27908  1.0000
+  Se  Se8       1.0  0.88805  0.09778  0.22092  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ta4Cu4S12
+_chemical_formula_sum              "Ta4 Cu4 S12"
+_cell_length_a       3.51051
+_cell_length_b       9.61262
+_cell_length_c       11.9512
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.75000  0.60713  0.63101  1.0000
+  Ta  Ta2       1.0  0.25000  0.39287  0.36899  1.0000
+  Ta  Ta3       1.0  0.75000  0.10713  0.86899  1.0000
+  Ta  Ta4       1.0  0.25000  0.89287  0.13101  1.0000
+  Cu  Cu1       1.0  0.75000  0.76974  0.28495  1.0000
+  Cu  Cu2       1.0  0.25000  0.73026  0.78495  1.0000
+  Cu  Cu3       1.0  0.75000  0.26974  0.21505  1.0000
+  Cu  Cu4       1.0  0.25000  0.23026  0.71505  1.0000
+  S   S1        1.0  0.75000  0.07993  0.09800  1.0000
+  S   S2        1.0  0.25000  0.91613  0.32258  1.0000
+  S   S3        1.0  0.75000  0.08388  0.67743  1.0000
+  S   S4        1.0  0.25000  0.41613  0.17743  1.0000
+  S   S5        1.0  0.75000  0.72212  0.09717  1.0000
+  S   S6        1.0  0.25000  0.27788  0.90283  1.0000
+  S   S7        1.0  0.75000  0.22212  0.40283  1.0000
+  S   S8        1.0  0.25000  0.77788  0.59717  1.0000
+  S   S9        1.0  0.75000  0.57993  0.40200  1.0000
+  S   S10       1.0  0.25000  0.42007  0.59800  1.0000
+  S   S11       1.0  0.25000  0.92007  0.90200  1.0000
+  S   S12       1.0  0.75000  0.58388  0.82257  1.0000

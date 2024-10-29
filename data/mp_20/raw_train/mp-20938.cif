@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       RbIn5S8
+_chemical_formula_sum              "Rb1 In5 S8"
+_cell_length_a       9.85153
+_cell_length_b       9.85153
+_cell_length_c       9.39676
+_cell_angle_alpha    77.9875
+_cell_angle_beta     77.9875
+_cell_angle_gamma    22.9929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.50000  0.50000  0.50000  1.0000
+  In  In1       1.0  0.28829  0.28829  0.33917  1.0000
+  In  In2       1.0  0.35253  0.35253  0.91890  1.0000
+  In  In3       1.0  0.64747  0.64747  0.08110  1.0000
+  In  In4       1.0  0.71172  0.71171  0.66083  1.0000
+  In  In5       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.16586  0.16586  0.52037  1.0000
+  S   S2        1.0  0.07367  0.07367  0.20723  1.0000
+  S   S3        1.0  0.92633  0.92633  0.79277  1.0000
+  S   S4        1.0  0.41626  0.41625  0.12965  1.0000
+  S   S5        1.0  0.58375  0.58374  0.87035  1.0000
+  S   S6        1.0  0.23628  0.23628  0.84734  1.0000
+  S   S7        1.0  0.76372  0.76372  0.15266  1.0000
+  S   S8        1.0  0.83414  0.83414  0.47963  1.0000

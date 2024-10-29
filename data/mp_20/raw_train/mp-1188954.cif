@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ba6Ge10
+_chemical_formula_sum              "Ba6 Ge10"
+_cell_length_a       6.7728
+_cell_length_b       6.7728
+_cell_length_c       10.4759
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    100.336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.65239  0.65239  0.25000  1.0000
+  Ba  Ba2       1.0  0.34761  0.34761  0.75000  1.0000
+  Ba  Ba3       1.0  0.21011  0.78989  0.50000  1.0000
+  Ba  Ba4       1.0  0.21011  0.78989  0.00000  1.0000
+  Ba  Ba5       1.0  0.78989  0.21011  0.50000  1.0000
+  Ba  Ba6       1.0  0.78989  0.21011  0.00000  1.0000
+  Ge  Ge1       1.0  0.46299  0.10444  0.25000  1.0000
+  Ge  Ge2       1.0  0.89556  0.53701  0.75000  1.0000
+  Ge  Ge3       1.0  0.53701  0.89556  0.75000  1.0000
+  Ge  Ge4       1.0  0.10444  0.46299  0.25000  1.0000
+  Ge  Ge5       1.0  0.06767  0.06767  0.25000  1.0000
+  Ge  Ge6       1.0  0.93233  0.93233  0.75000  1.0000
+  Ge  Ge7       1.0  0.29793  0.29793  0.42894  1.0000
+  Ge  Ge8       1.0  0.70207  0.70207  0.57106  1.0000
+  Ge  Ge9       1.0  0.29793  0.29793  0.07106  1.0000
+  Ge  Ge10      1.0  0.70207  0.70207  0.92894  1.0000

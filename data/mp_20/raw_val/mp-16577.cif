@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li2CaHfF8
+_chemical_formula_sum              "Li2 Ca1 Hf1 F8"
+_cell_length_a       6.44553
+_cell_length_b       6.44553
+_cell_length_c       6.44553
+_cell_angle_alpha    132.648
+_cell_angle_beta     132.648
+_cell_angle_gamma    69.208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.75000  0.25000  0.50000  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca1       1.0  0.50000  0.50000  0.00000  1.0000
+  Hf  Hf1       1.0  0.25000  0.75000  0.50000  1.0000
+  F   F1        1.0  0.49095  0.46725  0.59786  1.0000
+  F   F2        1.0  0.23715  0.79869  0.85704  1.0000
+  F   F3        1.0  0.53275  0.13060  0.02370  1.0000
+  F   F4        1.0  0.10691  0.50905  0.97630  1.0000
+  F   F5        1.0  0.86940  0.89309  0.40214  1.0000
+  F   F6        1.0  0.20131  0.05835  0.43845  1.0000
+  F   F7        1.0  0.94165  0.38010  0.14296  1.0000
+  F   F8        1.0  0.61990  0.76285  0.56154  1.0000

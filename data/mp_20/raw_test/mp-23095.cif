@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ca3Cu2Cl2O4
+_chemical_formula_sum              "Ca3 Cu2 Cl2 O4"
+_cell_length_a       11.1794
+_cell_length_b       11.1794
+_cell_length_c       11.1794
+_cell_angle_alpha    160.026
+_cell_angle_beta     160.026
+_cell_angle_gamma    28.3937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.14708  0.14708  0.00000  1.0000
+  Ca  Ca3       1.0  0.85292  0.85292  0.00000  1.0000
+  Cu  Cu1       1.0  0.42913  0.42913  0.00000  1.0000
+  Cu  Cu2       1.0  0.57087  0.57087  0.00000  1.0000
+  Cl  Cl1       1.0  0.29852  0.29852  0.00000  1.0000
+  Cl  Cl2       1.0  0.70148  0.70148  0.00000  1.0000
+  O   O1        1.0  0.42507  0.92507  0.50000  1.0000
+  O   O2        1.0  0.92507  0.42507  0.50000  1.0000
+  O   O3        1.0  0.07493  0.57493  0.50000  1.0000
+  O   O4        1.0  0.57493  0.07493  0.50000  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       La6Al3Ni4SnRu
+_chemical_formula_sum              "La6 Al3 Ni4 Sn1 Ru1"
+_cell_length_a       9.59139
+_cell_length_b       9.59139
+_cell_length_c       4.27404
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.68119  0.84060  0.00000  1.0000
+  La  La2       1.0  0.15940  0.84060  0.00000  1.0000
+  La  La3       1.0  0.15940  0.31881  0.00000  1.0000
+  La  La4       1.0  0.41395  0.20698  0.50000  1.0000
+  La  La5       1.0  0.79302  0.20698  0.50000  1.0000
+  La  La6       1.0  0.79302  0.58605  0.50000  1.0000
+  Al  Al1       1.0  0.14188  0.57094  0.50000  1.0000
+  Al  Al2       1.0  0.42906  0.57094  0.50000  1.0000
+  Al  Al3       1.0  0.42906  0.85811  0.50000  1.0000
+  Ni  Ni1       1.0  0.33333  0.66667  0.00000  1.0000
+  Ni  Ni2       1.0  0.97852  0.48926  0.00000  1.0000
+  Ni  Ni3       1.0  0.51074  0.48926  0.00000  1.0000
+  Ni  Ni4       1.0  0.51074  0.02148  0.00000  1.0000
+  Sn  Sn1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ru  Ru1       1.0  0.66667  0.33333  0.00000  1.0000

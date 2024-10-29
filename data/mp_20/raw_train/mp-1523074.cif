@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CaEuZr2O6
+_chemical_formula_sum              "Ca1 Eu1 Zr2 O6"
+_cell_length_a       4.20996
+_cell_length_b       5.76586
+_cell_length_c       5.76586
+_cell_angle_alpha    90.2509
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50000  0.00000  0.00000  1.0000
+  Eu  Eu1       1.0  0.50000  0.50000  0.50000  1.0000
+  Zr  Zr1       1.0  0.00000  0.00000  0.50000  1.0000
+  Zr  Zr2       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.50000  0.00000  0.50000  1.0000
+  O   O2        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O3        1.0  0.00000  0.32026  0.67974  1.0000
+  O   O4        1.0  0.00000  0.67974  0.32026  1.0000
+  O   O5        1.0  0.00000  0.82322  0.82322  1.0000
+  O   O6        1.0  0.00000  0.17678  0.17678  1.0000

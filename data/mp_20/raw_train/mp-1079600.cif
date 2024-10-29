@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs4S6
+_chemical_formula_sum              "Cs4 S6"
+_cell_length_a       6.79221
+_cell_length_b       6.79221
+_cell_length_c       8.45192
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    108.824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.10300  0.89700  0.96942  1.0000
+  Cs  Cs2       1.0  0.89700  0.10300  0.46942  1.0000
+  Cs  Cs3       1.0  0.57117  0.42883  0.68854  1.0000
+  Cs  Cs4       1.0  0.42883  0.57117  0.18854  1.0000
+  S   S1        1.0  0.04962  0.37960  0.85575  1.0000
+  S   S2        1.0  0.62040  0.95038  0.85575  1.0000
+  S   S3        1.0  0.95038  0.62040  0.35575  1.0000
+  S   S4        1.0  0.37960  0.04962  0.35575  1.0000
+  S   S5        1.0  0.79245  0.20755  0.99004  1.0000
+  S   S6        1.0  0.20755  0.79245  0.49004  1.0000

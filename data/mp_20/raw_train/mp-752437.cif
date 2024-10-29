@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm4In4O12
+_chemical_formula_sum              "Sm4 In4 O12"
+_cell_length_a       5.62297
+_cell_length_b       5.95257
+_cell_length_c       8.23892
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.97958  0.06454  0.25000  1.0000
+  Sm  Sm2       1.0  0.47958  0.43546  0.75000  1.0000
+  Sm  Sm3       1.0  0.52042  0.56454  0.25000  1.0000
+  Sm  Sm4       1.0  0.02042  0.93546  0.75000  1.0000
+  In  In1       1.0  0.50000  0.00000  0.00000  1.0000
+  In  In2       1.0  0.50000  0.00000  0.50000  1.0000
+  In  In3       1.0  0.00000  0.50000  0.00000  1.0000
+  In  In4       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.63468  0.06225  0.75000  1.0000
+  O   O2        1.0  0.18738  0.19049  0.56838  1.0000
+  O   O3        1.0  0.18738  0.19049  0.93162  1.0000
+  O   O4        1.0  0.68738  0.30951  0.43162  1.0000
+  O   O5        1.0  0.68738  0.30951  0.06838  1.0000
+  O   O6        1.0  0.13468  0.43775  0.25000  1.0000
+  O   O7        1.0  0.86532  0.56225  0.75000  1.0000
+  O   O8        1.0  0.31262  0.69049  0.93162  1.0000
+  O   O9        1.0  0.31262  0.69049  0.56838  1.0000
+  O   O10       1.0  0.81262  0.80951  0.06838  1.0000
+  O   O11       1.0  0.81262  0.80951  0.43162  1.0000
+  O   O12       1.0  0.36532  0.93775  0.25000  1.0000

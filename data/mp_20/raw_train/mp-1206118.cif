@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       V2Co2O6
+_chemical_formula_sum              "V2 Co2 O6"
+_cell_length_a       4.99519
+_cell_length_b       5.50419
+_cell_length_c       5.11582
+_cell_angle_alpha    62.2973
+_cell_angle_beta     118.653
+_cell_angle_gamma    116.236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.64739  0.95408  0.33678  1.0000
+  V   V2        1.0  0.35157  0.04572  0.66339  1.0000
+  Co  Co1       1.0  0.14907  0.42663  0.85928  1.0000
+  Co  Co2       1.0  0.85260  0.57191  0.14103  1.0000
+  O   O1        1.0  0.46272  0.23733  0.27326  1.0000
+  O   O2        1.0  0.53740  0.76198  0.72697  1.0000
+  O   O3        1.0  0.92765  0.76679  0.44186  1.0000
+  O   O4        1.0  0.07153  0.23428  0.55720  1.0000
+  O   O5        1.0  0.73047  0.23753  0.93550  1.0000
+  O   O6        1.0  0.26961  0.76375  0.06474  1.0000

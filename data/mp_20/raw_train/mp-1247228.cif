@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Lu2Mg2Mn2S8
+_chemical_formula_sum              "Lu2 Mg2 Mn2 S8"
+_cell_length_a       7.66205
+_cell_length_b       7.50809
+_cell_length_c       7.51048
+_cell_angle_alpha    60.3317
+_cell_angle_beta     59.3074
+_cell_angle_gamma    59.3291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.50000  0.50001  0.49997  1.0000
+  Lu  Lu2       1.0  0.99999  0.50000  0.50002  1.0000
+  Mg  Mg1       1.0  0.87608  0.87393  0.87395  1.0000
+  Mg  Mg2       1.0  0.12393  0.12605  0.12607  1.0000
+  Mn  Mn1       1.0  0.50000  0.50000  0.99999  1.0000
+  Mn  Mn2       1.0  0.49998  0.99999  0.50001  1.0000
+  S   S1        1.0  0.72049  0.75087  0.75108  1.0000
+  S   S2        1.0  0.26835  0.23746  0.72562  1.0000
+  S   S3        1.0  0.26849  0.72572  0.23753  1.0000
+  S   S4        1.0  0.72242  0.24894  0.24911  1.0000
+  S   S5        1.0  0.73151  0.27429  0.76246  1.0000
+  S   S6        1.0  0.27758  0.75106  0.75088  1.0000
+  S   S7        1.0  0.27953  0.24911  0.24894  1.0000
+  S   S8        1.0  0.73165  0.76255  0.27437  1.0000

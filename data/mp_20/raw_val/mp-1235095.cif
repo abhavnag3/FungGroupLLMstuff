@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       LiNb2Te4Cl10O
+_chemical_formula_sum              "Li1 Nb2 Te4 Cl10 O1"
+_cell_length_a       7.3992
+_cell_length_b       8.32486
+_cell_length_c       9.55648
+_cell_angle_alpha    83.2222
+_cell_angle_beta     89.8393
+_cell_angle_gamma    75.5476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.40871  0.16703  0.77947  1.0000
+  Nb  Nb1       1.0  0.51777  0.64324  0.63552  1.0000
+  Nb  Nb2       1.0  0.48691  0.35624  0.35658  1.0000
+  Te  Te1       1.0  0.17362  0.89832  0.16171  1.0000
+  Te  Te2       1.0  0.08294  0.20444  0.99394  1.0000
+  Te  Te3       1.0  0.91600  0.79398  0.01261  1.0000
+  Te  Te4       1.0  0.85212  0.08358  0.82844  1.0000
+  Cl  Cl1       1.0  0.45256  0.16439  0.19180  1.0000
+  Cl  Cl2       1.0  0.40458  0.46080  0.81994  1.0000
+  Cl  Cl3       1.0  0.78573  0.19003  0.42264  1.0000
+  Cl  Cl4       1.0  0.17077  0.52458  0.29293  1.0000
+  Cl  Cl5       1.0  0.60170  0.52800  0.18632  1.0000
+  Cl  Cl6       1.0  0.33549  0.19811  0.53332  1.0000
+  Cl  Cl7       1.0  0.82832  0.48818  0.72443  1.0000
+  Cl  Cl8       1.0  0.65518  0.80367  0.47330  1.0000
+  Cl  Cl9       1.0  0.21016  0.79881  0.58890  1.0000
+  Cl  Cl10      1.0  0.53082  0.84978  0.81653  1.0000
+  O   O1        1.0  0.50330  0.49683  0.50303  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tm4Cu2O8
+_chemical_formula_sum              "Tm4 Cu2 O8"
+_cell_length_a       7.7019
+_cell_length_b       5.48364
+_cell_length_c       6.13602
+_cell_angle_alpha    109.15
+_cell_angle_beta     103.479
+_cell_angle_gamma    44.6202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.01986  0.65724  0.31117  1.0000
+  Tm  Tm2       1.0  0.51953  0.30334  0.68879  1.0000
+  Tm  Tm3       1.0  0.48045  0.69669  0.31121  1.0000
+  Tm  Tm4       1.0  0.98012  0.34277  0.68883  1.0000
+  Cu  Cu1       1.0  0.00001  0.99999  1.00000  1.0000
+  Cu  Cu2       1.0  0.50001  0.99999  0.00001  1.0000
+  O   O1        1.0  0.19492  0.12197  0.03300  1.0000
+  O   O2        1.0  0.25205  0.25154  0.52622  1.0000
+  O   O3        1.0  0.30516  0.51167  0.03315  1.0000
+  O   O4        1.0  0.24783  0.75575  0.52639  1.0000
+  O   O5        1.0  0.75215  0.24428  0.47360  1.0000
+  O   O6        1.0  0.69488  0.48829  0.96684  1.0000
+  O   O7        1.0  0.74793  0.74849  0.47379  1.0000
+  O   O8        1.0  0.80512  0.87800  0.96700  1.0000

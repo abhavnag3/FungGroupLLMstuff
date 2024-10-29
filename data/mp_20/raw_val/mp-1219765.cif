@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Pr2B8Ir4Os4
+_chemical_formula_sum              "Pr2 B8 Ir4 Os4"
+_cell_length_a       4.00544
+_cell_length_b       7.66658
+_cell_length_c       7.66658
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.24825  0.25000  0.25000  1.0000
+  Pr  Pr2       1.0  0.74825  0.75000  0.75000  1.0000
+  B   B1        1.0  0.36153  0.91139  0.03481  1.0000
+  B   B2        1.0  0.36153  0.58861  0.46519  1.0000
+  B   B3        1.0  0.86153  0.53481  0.08861  1.0000
+  B   B4        1.0  0.86153  0.96519  0.41139  1.0000
+  B   B5        1.0  0.64156  0.08798  0.97239  1.0000
+  B   B6        1.0  0.64156  0.41202  0.52761  1.0000
+  B   B7        1.0  0.14156  0.47239  0.91202  1.0000
+  B   B8        1.0  0.14156  0.02761  0.58798  1.0000
+  Ir  Ir1       1.0  0.13785  0.40499  0.64069  1.0000
+  Ir  Ir2       1.0  0.13785  0.09501  0.85931  1.0000
+  Ir  Ir3       1.0  0.63785  0.14069  0.59501  1.0000
+  Ir  Ir4       1.0  0.63785  0.35931  0.90499  1.0000
+  Os  Os1       1.0  0.85994  0.60398  0.35812  1.0000
+  Os  Os2       1.0  0.85994  0.89602  0.14188  1.0000
+  Os  Os3       1.0  0.35994  0.85812  0.39602  1.0000
+  Os  Os4       1.0  0.35994  0.64188  0.10398  1.0000

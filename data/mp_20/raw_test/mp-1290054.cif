@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Co2Cu2O8
+_chemical_formula_sum              "Li4 Co2 Cu2 O8"
+_cell_length_a       5.0567
+_cell_length_b       5.91273
+_cell_length_c       5.06162
+_cell_angle_alpha    89.922
+_cell_angle_beta     71.4978
+_cell_angle_gamma    90.5853
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50103  0.25540  0.00221  1.0000
+  Li  Li2       1.0  0.00282  0.74565  0.49773  1.0000
+  Li  Li3       1.0  0.49739  0.99961  0.50318  1.0000
+  Li  Li4       1.0  0.00401  0.49975  0.99652  1.0000
+  Co  Co1       1.0  0.50086  0.49933  0.50281  1.0000
+  Co  Co2       1.0  0.99971  0.99960  0.99985  1.0000
+  Cu  Cu1       1.0  0.99493  0.25445  0.49148  1.0000
+  Cu  Cu2       1.0  0.50482  0.74663  0.00613  1.0000
+  O   O1        1.0  0.76037  0.25097  0.26865  1.0000
+  O   O2        1.0  0.27804  0.74987  0.77069  1.0000
+  O   O3        1.0  0.23571  0.25549  0.71598  1.0000
+  O   O4        1.0  0.72478  0.74272  0.24559  1.0000
+  O   O5        1.0  0.20283  0.02825  0.25217  1.0000
+  O   O6        1.0  0.76205  0.47334  0.71411  1.0000
+  O   O7        1.0  0.74917  0.97273  0.79678  1.0000
+  O   O8        1.0  0.28148  0.52621  0.23613  1.0000

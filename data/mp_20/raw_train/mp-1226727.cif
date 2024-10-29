@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdInAgTe3
+_chemical_formula_sum              "Cd1 In1 Ag1 Te3"
+_cell_length_a       8.06604
+_cell_length_b       8.06604
+_cell_length_c       6.60725
+_cell_angle_alpha    65.8603
+_cell_angle_beta     65.8603
+_cell_angle_gamma    33.4848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.66415  0.66415  0.33561  1.0000
+  In  In1       1.0  0.33514  0.33515  0.65527  1.0000
+  Ag  Ag1       1.0  0.00063  0.00064  0.00541  1.0000
+  Te  Te1       1.0  0.49960  0.49960  0.24560  1.0000
+  Te  Te2       1.0  0.16454  0.16454  0.59075  1.0000
+  Te  Te3       1.0  0.83593  0.83593  0.91736  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       CuBi12Ir3
+_chemical_formula_sum              "Cu1 Bi12 Ir3"
+_cell_length_a       4.24242
+_cell_length_b       9.12695
+_cell_length_c       11.6855
+_cell_angle_alpha    89.7322
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.50000  0.59603  0.97742  1.0000
+  Bi  Bi1       1.0  0.50000  0.79555  0.61308  1.0000
+  Bi  Bi2       1.0  0.50000  0.28792  0.88770  1.0000
+  Bi  Bi3       1.0  0.00000  0.20673  0.38945  1.0000
+  Bi  Bi4       1.0  0.00000  0.69635  0.11414  1.0000
+  Bi  Bi5       1.0  0.50000  0.89324  0.90936  1.0000
+  Bi  Bi6       1.0  0.50000  0.39225  0.59771  1.0000
+  Bi  Bi7       1.0  0.00000  0.11782  0.09018  1.0000
+  Bi  Bi8       1.0  0.00000  0.61131  0.40400  1.0000
+  Bi  Bi9       1.0  0.50000  0.90702  0.32012  1.0000
+  Bi  Bi10      1.0  0.50000  0.39864  0.18128  1.0000
+  Bi  Bi11      1.0  0.00000  0.09308  0.67998  1.0000
+  Bi  Bi12      1.0  0.00000  0.58960  0.81813  1.0000
+  Ir  Ir1       1.0  0.50000  0.10044  0.52163  1.0000
+  Ir  Ir2       1.0  0.00000  0.41337  0.01789  1.0000
+  Ir  Ir3       1.0  0.00000  0.90063  0.47795  1.0000

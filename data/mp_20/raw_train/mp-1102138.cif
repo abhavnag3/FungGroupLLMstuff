@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti4Co4P4
+_chemical_formula_sum              "Ti4 Co4 P4"
+_cell_length_a       3.54816
+_cell_length_b       6.03801
+_cell_length_c       6.84222
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.25000  0.97551  0.32229  1.0000
+  Ti  Ti2       1.0  0.25000  0.47551  0.17771  1.0000
+  Ti  Ti3       1.0  0.75000  0.02449  0.67771  1.0000
+  Ti  Ti4       1.0  0.75000  0.52449  0.82229  1.0000
+  Co  Co1       1.0  0.25000  0.85967  0.93846  1.0000
+  Co  Co2       1.0  0.25000  0.35967  0.56154  1.0000
+  Co  Co3       1.0  0.75000  0.14033  0.06154  1.0000
+  Co  Co4       1.0  0.75000  0.64033  0.43846  1.0000
+  P   P1        1.0  0.25000  0.23225  0.87752  1.0000
+  P   P2        1.0  0.25000  0.73225  0.62248  1.0000
+  P   P3        1.0  0.75000  0.76775  0.12247  1.0000
+  P   P4        1.0  0.75000  0.26775  0.37752  1.0000

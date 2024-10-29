@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Gd2Fe5Si8
+_chemical_formula_sum              "Gd2 Fe5 Si8"
+_cell_length_a       3.88101
+_cell_length_b       3.88101
+_cell_length_c       16.5268
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.33333  0.66667  0.24629  1.0000
+  Gd  Gd2       1.0  0.66667  0.33333  0.75371  1.0000
+  Fe  Fe1       1.0  0.33333  0.66667  0.59499  1.0000
+  Fe  Fe2       1.0  0.66667  0.33333  0.40501  1.0000
+  Fe  Fe3       1.0  0.66667  0.33333  0.09876  1.0000
+  Fe  Fe4       1.0  0.33333  0.66667  0.90124  1.0000
+  Fe  Fe5       1.0  0.00000  0.00000  0.50000  1.0000
+  Si  Si1       1.0  0.33333  0.66667  0.44853  1.0000
+  Si  Si2       1.0  0.66667  0.33333  0.55147  1.0000
+  Si  Si3       1.0  0.66667  0.33333  0.95791  1.0000
+  Si  Si4       1.0  0.33333  0.66667  0.04209  1.0000
+  Si  Si5       1.0  0.00000  0.00000  0.64168  1.0000
+  Si  Si6       1.0  0.00000  0.00000  0.35832  1.0000
+  Si  Si7       1.0  0.00000  0.00000  0.12826  1.0000
+  Si  Si8       1.0  0.00000  0.00000  0.87174  1.0000

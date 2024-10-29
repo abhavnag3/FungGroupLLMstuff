@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tm6Ga4Ge6
+_chemical_formula_sum              "Tm6 Ga4 Ge6"
+_cell_length_a       7.73846
+_cell_length_b       7.73846
+_cell_length_c       7.73846
+_cell_angle_alpha    119.671
+_cell_angle_beta     119.671
+_cell_angle_gamma    90.5707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.66281  0.16281  0.82134  1.0000
+  Tm  Tm2       1.0  0.34147  0.84147  0.17866  1.0000
+  Tm  Tm3       1.0  0.84147  0.66281  0.50000  1.0000
+  Tm  Tm4       1.0  0.16281  0.34147  0.50000  1.0000
+  Tm  Tm5       1.0  0.74530  0.74530  0.00000  1.0000
+  Tm  Tm6       1.0  0.24530  0.24530  0.00000  1.0000
+  Ga  Ga1       1.0  0.95620  0.45620  0.77932  1.0000
+  Ga  Ga2       1.0  0.67688  0.17688  0.22068  1.0000
+  Ga  Ga3       1.0  0.17688  0.95620  0.50000  1.0000
+  Ga  Ga4       1.0  0.45620  0.67688  0.50000  1.0000
+  Ge  Ge1       1.0  0.49429  0.49429  0.00000  1.0000
+  Ge  Ge2       1.0  0.99429  0.99429  0.00000  1.0000
+  Ge  Ge3       1.0  0.04047  0.54047  0.20790  1.0000
+  Ge  Ge4       1.0  0.33257  0.83257  0.79210  1.0000
+  Ge  Ge5       1.0  0.83257  0.04047  0.50000  1.0000
+  Ge  Ge6       1.0  0.54047  0.33257  0.50000  1.0000

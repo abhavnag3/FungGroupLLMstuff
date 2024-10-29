@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Lu2Al2B8
+_chemical_formula_sum              "Lu2 Al2 B8"
+_cell_length_a       5.8929
+_cell_length_b       5.8929
+_cell_length_c       3.50863
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    103.72
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.19933  0.80067  0.00000  1.0000
+  Lu  Lu2       1.0  0.80067  0.19933  0.00000  1.0000
+  Al  Al1       1.0  0.68092  0.68092  0.00000  1.0000
+  Al  Al2       1.0  0.31908  0.31908  0.00000  1.0000
+  B   B1        1.0  0.88274  0.56328  0.50000  1.0000
+  B   B2        1.0  0.40725  0.59275  0.50000  1.0000
+  B   B3        1.0  0.87905  0.87905  0.50000  1.0000
+  B   B4        1.0  0.56328  0.88274  0.50000  1.0000
+  B   B5        1.0  0.43672  0.11726  0.50000  1.0000
+  B   B6        1.0  0.12095  0.12095  0.50000  1.0000
+  B   B7        1.0  0.59275  0.40725  0.50000  1.0000
+  B   B8        1.0  0.11726  0.43672  0.50000  1.0000

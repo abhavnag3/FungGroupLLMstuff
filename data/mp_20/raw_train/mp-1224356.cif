@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ge5Te4Se
+_chemical_formula_sum              "Ge5 Te4 Se1"
+_cell_length_a       15.3944
+_cell_length_b       15.3944
+_cell_length_c       15.3944
+_cell_angle_alpha    164.308
+_cell_angle_beta     164.308
+_cell_angle_gamma    22.2627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.80000  0.80000  0.00000  1.0000
+  Ge  Ge2       1.0  0.20000  0.20000  0.00000  1.0000
+  Ge  Ge3       1.0  0.59885  0.59884  0.00000  1.0000
+  Ge  Ge4       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge5       1.0  0.40115  0.40115  0.00000  1.0000
+  Te  Te1       1.0  0.90016  0.90016  0.00000  1.0000
+  Te  Te2       1.0  0.30015  0.30015  0.00000  1.0000
+  Te  Te3       1.0  0.69985  0.69985  0.00000  1.0000
+  Te  Te4       1.0  0.09984  0.09984  0.00000  1.0000
+  Se  Se1       1.0  0.50000  0.50000  0.00000  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li4CuSi2O7
+_chemical_formula_sum              "Li4 Cu1 Si2 O7"
+_cell_length_a       5.30589
+_cell_length_b       5.30589
+_cell_length_c       6.78839
+_cell_angle_alpha    80.8503
+_cell_angle_beta     80.8503
+_cell_angle_gamma    50.2924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.83969  0.86732  0.93488  1.0000
+  Li  Li2       1.0  0.28025  0.29625  0.64468  1.0000
+  Li  Li3       1.0  0.70375  0.71975  0.35532  1.0000
+  Li  Li4       1.0  0.13268  0.16031  0.06512  1.0000
+  Cu  Cu1       1.0  0.99815  0.00185  0.50000  1.0000
+  Si  Si1       1.0  0.43438  0.41449  0.21017  1.0000
+  Si  Si2       1.0  0.58551  0.56563  0.78983  1.0000
+  O   O1        1.0  0.66839  0.23226  0.72497  1.0000
+  O   O2        1.0  0.13771  0.60301  0.38734  1.0000
+  O   O3        1.0  0.50050  0.09016  0.15523  1.0000
+  O   O4        1.0  0.90983  0.49950  0.84477  1.0000
+  O   O5        1.0  0.39699  0.86229  0.61266  1.0000
+  O   O6        1.0  0.76774  0.33161  0.27503  1.0000
+  O   O7        1.0  0.31746  0.68254  0.00000  1.0000

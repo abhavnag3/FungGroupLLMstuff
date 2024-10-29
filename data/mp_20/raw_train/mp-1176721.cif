@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       LiFe5O5F
+_chemical_formula_sum              "Li1 Fe5 O5 F1"
+_cell_length_a       3.56673
+_cell_length_b       3.56673
+_cell_length_c       13.4134
+_cell_angle_alpha    89.951
+_cell_angle_beta     89.951
+_cell_angle_gamma    60.0698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.33018  0.33018  0.01596  1.0000
+  Fe  Fe1       1.0  0.33459  0.33459  0.68811  1.0000
+  Fe  Fe2       1.0  0.33278  0.33278  0.35064  1.0000
+  Fe  Fe3       1.0  0.65788  0.65788  0.51971  1.0000
+  Fe  Fe4       1.0  0.67096  0.67096  0.85382  1.0000
+  Fe  Fe5       1.0  0.65616  0.65616  0.18546  1.0000
+  O   O1        1.0  0.33524  0.33524  0.52077  1.0000
+  O   O2        1.0  0.33373  0.33373  0.18100  1.0000
+  O   O3        1.0  0.32657  0.32657  0.86043  1.0000
+  O   O4        1.0  0.67847  0.67847  0.68813  1.0000
+  O   O5        1.0  0.67790  0.67790  0.35317  1.0000
+  F   F1        1.0  0.66615  0.66615  0.01975  1.0000

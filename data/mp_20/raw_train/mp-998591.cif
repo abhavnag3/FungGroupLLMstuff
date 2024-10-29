@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li2Sn2Cl6
+_chemical_formula_sum              "Li2 Sn2 Cl6"
+_cell_length_a       7.33247
+_cell_length_b       7.33247
+_cell_length_c       7.33247
+_cell_angle_alpha    57.0403
+_cell_angle_beta     57.0403
+_cell_angle_gamma    57.0403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.69400  0.69400  0.69400  1.0000
+  Li  Li2       1.0  0.19400  0.19400  0.19400  1.0000
+  Sn  Sn1       1.0  0.99828  0.99828  0.99828  1.0000
+  Sn  Sn2       1.0  0.49828  0.49828  0.49828  1.0000
+  Cl  Cl1       1.0  0.02789  0.41266  0.83868  1.0000
+  Cl  Cl2       1.0  0.41266  0.83868  0.02789  1.0000
+  Cl  Cl3       1.0  0.83868  0.02789  0.41266  1.0000
+  Cl  Cl4       1.0  0.52789  0.33868  0.91266  1.0000
+  Cl  Cl5       1.0  0.91266  0.52789  0.33868  1.0000
+  Cl  Cl6       1.0  0.33868  0.91266  0.52789  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2Eu4Ru2O12
+_chemical_formula_sum              "Li2 Eu4 Ru2 O12"
+_cell_length_a       5.75581
+_cell_length_b       5.3836
+_cell_length_c       9.27605
+_cell_angle_alpha    55.2799
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.00000  0.50000  0.50000  1.0000
+  Eu  Eu1       1.0  0.07220  0.73145  0.75123  1.0000
+  Eu  Eu2       1.0  0.92780  0.26855  0.24877  1.0000
+  Eu  Eu3       1.0  0.57220  0.26855  0.74877  1.0000
+  Eu  Eu4       1.0  0.42780  0.73145  0.25123  1.0000
+  Ru  Ru1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ru  Ru2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.46827  0.85484  0.74475  1.0000
+  O   O2        1.0  0.53173  0.14516  0.25524  1.0000
+  O   O3        1.0  0.96827  0.14516  0.75525  1.0000
+  O   O4        1.0  0.03173  0.85484  0.24476  1.0000
+  O   O5        1.0  0.78903  0.77049  0.55277  1.0000
+  O   O6        1.0  0.21097  0.22951  0.44723  1.0000
+  O   O7        1.0  0.28903  0.22951  0.94723  1.0000
+  O   O8        1.0  0.71097  0.77049  0.05277  1.0000
+  O   O9        1.0  0.31471  0.65258  0.54885  1.0000
+  O   O10       1.0  0.68529  0.34742  0.45115  1.0000
+  O   O11       1.0  0.81471  0.34742  0.95115  1.0000
+  O   O12       1.0  0.18529  0.65258  0.04885  1.0000

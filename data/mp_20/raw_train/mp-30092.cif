@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ti4Cl16
+_chemical_formula_sum              "Ti4 Cl16"
+_cell_length_a       7.16845
+_cell_length_b       10.7404
+_cell_length_c       10.7506
+_cell_angle_alpha    77.9459
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.57662  0.25112  0.36635  1.0000
+  Ti  Ti2       1.0  0.07662  0.74887  0.13365  1.0000
+  Ti  Ti3       1.0  0.42338  0.74887  0.63365  1.0000
+  Ti  Ti4       1.0  0.92338  0.25113  0.86635  1.0000
+  Cl  Cl1       1.0  0.57524  0.41505  0.20709  1.0000
+  Cl  Cl2       1.0  0.07524  0.58495  0.29291  1.0000
+  Cl  Cl3       1.0  0.42476  0.58495  0.79291  1.0000
+  Cl  Cl4       1.0  0.92476  0.41505  0.70709  1.0000
+  Cl  Cl5       1.0  0.63610  0.19521  0.91828  1.0000
+  Cl  Cl6       1.0  0.13610  0.80479  0.58172  1.0000
+  Cl  Cl7       1.0  0.36390  0.80479  0.08172  1.0000
+  Cl  Cl8       1.0  0.86390  0.19521  0.41828  1.0000
+  Cl  Cl9       1.0  0.06900  0.09304  0.80973  1.0000
+  Cl  Cl10      1.0  0.56900  0.90696  0.69027  1.0000
+  Cl  Cl11      1.0  0.93100  0.90696  0.19027  1.0000
+  Cl  Cl12      1.0  0.43100  0.09305  0.30973  1.0000
+  Cl  Cl13      1.0  0.06573  0.30184  0.02846  1.0000
+  Cl  Cl14      1.0  0.56573  0.69816  0.47154  1.0000
+  Cl  Cl15      1.0  0.93427  0.69816  0.97154  1.0000
+  Cl  Cl16      1.0  0.43427  0.30184  0.52846  1.0000

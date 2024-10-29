@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr3CaN2Cl2
+_chemical_formula_sum              "Sr3 Ca1 N2 Cl2"
+_cell_length_a       7.36772
+_cell_length_b       7.36772
+_cell_length_c       6.67313
+_cell_angle_alpha    81.3431
+_cell_angle_beta     81.3431
+_cell_angle_gamma    30.2988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.84956  0.84956  0.38147  1.0000
+  Sr  Sr2       1.0  0.15677  0.15677  0.61517  1.0000
+  Sr  Sr3       1.0  0.65419  0.65419  0.11464  1.0000
+  Ca  Ca1       1.0  0.33828  0.33828  0.89006  1.0000
+  N   N1        1.0  0.75395  0.75395  0.75489  1.0000
+  N   N2        1.0  0.25215  0.25214  0.24257  1.0000
+  Cl  Cl1       1.0  0.49956  0.49956  0.50789  1.0000
+  Cl  Cl2       1.0  0.99555  0.99555  0.99331  1.0000

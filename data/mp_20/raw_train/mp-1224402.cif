@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf4Al4Mo4
+_chemical_formula_sum              "Hf4 Al4 Mo4"
+_cell_length_a       5.31452
+_cell_length_b       5.31452
+_cell_length_c       8.75583
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.33464  0.66536  0.18653  1.0000
+  Hf  Hf2       1.0  0.67075  0.32925  0.31515  1.0000
+  Hf  Hf3       1.0  0.67075  0.32925  0.68485  1.0000
+  Hf  Hf4       1.0  0.33464  0.66536  0.81347  1.0000
+  Al  Al1       1.0  0.99629  0.00371  0.24909  1.0000
+  Al  Al2       1.0  0.99629  0.00371  0.75091  1.0000
+  Al  Al3       1.0  0.82907  0.65887  0.00000  1.0000
+  Al  Al4       1.0  0.34113  0.17093  0.00000  1.0000
+  Mo  Mo1       1.0  0.83071  0.16929  0.00000  1.0000
+  Mo  Mo2       1.0  0.17027  0.34414  0.50000  1.0000
+  Mo  Mo3       1.0  0.65586  0.82973  0.50000  1.0000
+  Mo  Mo4       1.0  0.16970  0.83030  0.50000  1.0000

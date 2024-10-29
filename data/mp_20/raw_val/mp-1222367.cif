@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       LiLaW2O8
+_chemical_formula_sum              "Li1 La1 W2 O8"
+_cell_length_a       6.94096
+_cell_length_b       6.94096
+_cell_length_c       6.94096
+_cell_angle_alpha    134.387
+_cell_angle_beta     134.387
+_cell_angle_gamma    66.4843
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000  0.75000  0.50000  1.0000
+  La  La1       1.0  0.00000  0.00000  0.00000  1.0000
+  W   W1        1.0  0.75000  0.25000  0.50000  1.0000
+  W   W2        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.98944  0.09858  0.41475  1.0000
+  O   O2        1.0  0.68383  0.57470  0.58525  1.0000
+  O   O3        1.0  0.82808  0.73534  0.39555  1.0000
+  O   O4        1.0  0.33979  0.43253  0.60445  1.0000
+  O   O5        1.0  0.26466  0.66021  0.09273  1.0000
+  O   O6        1.0  0.56747  0.17192  0.90727  1.0000
+  O   O7        1.0  0.42530  0.01056  0.10914  1.0000
+  O   O8        1.0  0.90142  0.31617  0.89086  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Np4Ni4Sn4
+_chemical_formula_sum              "Np4 Ni4 Sn4"
+_cell_length_a       4.49508
+_cell_length_b       7.18648
+_cell_length_c       7.42085
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.75000  0.97648  0.18492  1.0000
+  Np  Np2       1.0  0.75000  0.47648  0.31508  1.0000
+  Np  Np3       1.0  0.25000  0.52352  0.68492  1.0000
+  Np  Np4       1.0  0.25000  0.02352  0.81508  1.0000
+  Ni  Ni1       1.0  0.75000  0.20082  0.58506  1.0000
+  Ni  Ni2       1.0  0.25000  0.29918  0.08506  1.0000
+  Ni  Ni3       1.0  0.25000  0.79918  0.41494  1.0000
+  Ni  Ni4       1.0  0.75000  0.70082  0.91494  1.0000
+  Sn  Sn1       1.0  0.75000  0.32326  0.91135  1.0000
+  Sn  Sn2       1.0  0.25000  0.67674  0.08865  1.0000
+  Sn  Sn3       1.0  0.25000  0.17674  0.41135  1.0000
+  Sn  Sn4       1.0  0.75000  0.82326  0.58865  1.0000

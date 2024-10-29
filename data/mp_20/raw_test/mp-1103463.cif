@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm4Ge4Rh4
+_chemical_formula_sum              "Sm4 Ge4 Rh4"
+_cell_length_a       4.4431
+_cell_length_b       7.05778
+_cell_length_c       7.56353
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.25000  0.98485  0.29885  1.0000
+  Sm  Sm2       1.0  0.25000  0.48485  0.20115  1.0000
+  Sm  Sm3       1.0  0.75000  0.01515  0.70115  1.0000
+  Sm  Sm4       1.0  0.75000  0.51515  0.79885  1.0000
+  Ge  Ge1       1.0  0.25000  0.31488  0.58317  1.0000
+  Ge  Ge2       1.0  0.25000  0.81488  0.91683  1.0000
+  Ge  Ge3       1.0  0.75000  0.68512  0.41683  1.0000
+  Ge  Ge4       1.0  0.75000  0.18512  0.08317  1.0000
+  Rh  Rh1       1.0  0.25000  0.70000  0.58854  1.0000
+  Rh  Rh2       1.0  0.25000  0.20000  0.91146  1.0000
+  Rh  Rh3       1.0  0.75000  0.30000  0.41146  1.0000
+  Rh  Rh4       1.0  0.75000  0.80000  0.08854  1.0000

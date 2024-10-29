@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr4V4N8
+_chemical_formula_sum              "Sr4 V4 N8"
+_cell_length_a       6.29397
+_cell_length_b       7.38477
+_cell_length_c       5.72752
+_cell_angle_alpha    90
+_cell_angle_beta     113.026
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.34280  0.92523  0.68473  1.0000
+  Sr  Sr2       1.0  0.65720  0.42523  0.81527  1.0000
+  Sr  Sr3       1.0  0.65720  0.07477  0.31527  1.0000
+  Sr  Sr4       1.0  0.34280  0.57477  0.18473  1.0000
+  V   V1        1.0  0.12135  0.35605  0.57292  1.0000
+  V   V2        1.0  0.87865  0.85605  0.92708  1.0000
+  V   V3        1.0  0.87865  0.64395  0.42708  1.0000
+  V   V4        1.0  0.12135  0.14395  0.07292  1.0000
+  N   N1        1.0  0.20873  0.90242  0.07203  1.0000
+  N   N2        1.0  0.79127  0.40242  0.42797  1.0000
+  N   N3        1.0  0.79127  0.09758  0.92797  1.0000
+  N   N4        1.0  0.20873  0.59758  0.57203  1.0000
+  N   N5        1.0  0.26241  0.27301  0.90040  1.0000
+  N   N6        1.0  0.73759  0.77302  0.59960  1.0000
+  N   N7        1.0  0.73759  0.72698  0.09960  1.0000
+  N   N8        1.0  0.26241  0.22698  0.40040  1.0000

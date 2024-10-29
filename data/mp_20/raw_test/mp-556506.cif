@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mn2Cd2F10
+_chemical_formula_sum              "Mn2 Cd2 F10"
+_cell_length_a       5.56597
+_cell_length_b       5.56597
+_cell_length_c       7.90709
+_cell_angle_alpha    97.6579
+_cell_angle_beta     109.478
+_cell_angle_gamma    109.694
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50000  0.00000  0.50000  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cd  Cd1       1.0  0.29161  0.54161  0.75000  1.0000
+  Cd  Cd2       1.0  0.70839  0.45839  0.25000  1.0000
+  F   F1        1.0  0.75449  0.69009  0.03644  1.0000
+  F   F2        1.0  0.84635  0.28195  0.53644  1.0000
+  F   F3        1.0  0.35597  0.10597  0.25000  1.0000
+  F   F4        1.0  0.64403  0.89403  0.75000  1.0000
+  F   F5        1.0  0.15365  0.71805  0.46356  1.0000
+  F   F6        1.0  0.24551  0.30991  0.96356  1.0000
+  F   F7        1.0  0.12829  0.79296  0.87988  1.0000
+  F   F8        1.0  0.87171  0.20704  0.12012  1.0000
+  F   F9        1.0  0.58692  0.75159  0.37988  1.0000
+  F   F10       1.0  0.41308  0.24841  0.62012  1.0000

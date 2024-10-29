@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr2Pr2Ga2Cu2O10
+_chemical_formula_sum              "Sr2 Pr2 Ga2 Cu2 O10"
+_cell_length_a       9.13226
+_cell_length_b       9.13226
+_cell_length_c       5.35781
+_cell_angle_alpha    72.9723
+_cell_angle_beta     72.9723
+_cell_angle_gamma    129.805
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.40307  0.12449  0.49095  1.0000
+  Sr  Sr2       1.0  0.12449  0.40307  0.49095  1.0000
+  Pr  Pr1       1.0  0.57439  0.87072  0.53596  1.0000
+  Pr  Pr2       1.0  0.87072  0.57439  0.53596  1.0000
+  Ga  Ga1       1.0  0.18558  0.18558  0.10571  1.0000
+  Ga  Ga2       1.0  0.81918  0.81918  0.96332  1.0000
+  Cu  Cu1       1.0  0.49559  0.99541  0.00901  1.0000
+  Cu  Cu2       1.0  0.99541  0.49559  0.00901  1.0000
+  O   O1        1.0  0.42211  0.22616  0.89625  1.0000
+  O   O2        1.0  0.60051  0.80186  0.00529  1.0000
+  O   O3        1.0  0.22616  0.42211  0.89625  1.0000
+  O   O4        1.0  0.80186  0.60051  0.00529  1.0000
+  O   O5        1.0  0.86788  0.86788  0.27746  1.0000
+  O   O6        1.0  0.12964  0.12964  0.51236  1.0000
+  O   O7        1.0  0.75333  0.24479  0.50750  1.0000
+  O   O8        1.0  0.23648  0.74881  0.01362  1.0000
+  O   O9        1.0  0.24479  0.75333  0.50750  1.0000
+  O   O10       1.0  0.74881  0.23648  0.01362  1.0000

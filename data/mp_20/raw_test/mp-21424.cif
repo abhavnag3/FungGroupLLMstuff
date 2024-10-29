@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb4Ni4Ge4
+_chemical_formula_sum              "Tb4 Ni4 Ge4"
+_cell_length_a       4.24006
+_cell_length_b       6.97781
+_cell_length_c       7.30462
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.25000  0.49219  0.20627  1.0000
+  Tb  Tb2       1.0  0.25000  0.99219  0.29373  1.0000
+  Tb  Tb3       1.0  0.75000  0.00781  0.70627  1.0000
+  Tb  Tb4       1.0  0.75000  0.50781  0.79373  1.0000
+  Ni  Ni1       1.0  0.75000  0.80659  0.08339  1.0000
+  Ni  Ni2       1.0  0.25000  0.19341  0.91661  1.0000
+  Ni  Ni3       1.0  0.75000  0.30659  0.41661  1.0000
+  Ni  Ni4       1.0  0.25000  0.69341  0.58339  1.0000
+  Ge  Ge1       1.0  0.75000  0.19583  0.08757  1.0000
+  Ge  Ge2       1.0  0.25000  0.30417  0.58757  1.0000
+  Ge  Ge3       1.0  0.25000  0.80417  0.91243  1.0000
+  Ge  Ge4       1.0  0.75000  0.69583  0.41243  1.0000

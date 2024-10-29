@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Er4Mg2Ti2O12
+_chemical_formula_sum              "Er4 Mg2 Ti2 O12"
+_cell_length_a       5.61004
+_cell_length_b       5.30309
+_cell_length_c       9.30509
+_cell_angle_alpha    55.7886
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.06407  0.72713  0.75482  1.0000
+  Er  Er2       1.0  0.93593  0.27287  0.24518  1.0000
+  Er  Er3       1.0  0.56407  0.27287  0.74518  1.0000
+  Er  Er4       1.0  0.43593  0.72713  0.25482  1.0000
+  Mg  Mg1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mg  Mg2       1.0  0.00000  0.50000  0.50000  1.0000
+  Ti  Ti1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.44758  0.87814  0.74211  1.0000
+  O   O2        1.0  0.55242  0.12186  0.25789  1.0000
+  O   O3        1.0  0.94758  0.12185  0.75789  1.0000
+  O   O4        1.0  0.05242  0.87814  0.24211  1.0000
+  O   O5        1.0  0.79533  0.74750  0.56881  1.0000
+  O   O6        1.0  0.20467  0.25250  0.43119  1.0000
+  O   O7        1.0  0.29533  0.25250  0.93119  1.0000
+  O   O8        1.0  0.70467  0.74750  0.06881  1.0000
+  O   O9        1.0  0.31300  0.64289  0.55464  1.0000
+  O   O10       1.0  0.68700  0.35711  0.44536  1.0000
+  O   O11       1.0  0.81300  0.35711  0.94536  1.0000
+  O   O12       1.0  0.18700  0.64289  0.05464  1.0000

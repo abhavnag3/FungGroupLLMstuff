@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Li2Ag3F6
+_chemical_formula_sum              "Li2 Ag3 F6"
+_cell_length_a       3.84993
+_cell_length_b       3.84993
+_cell_length_c       9.8322
+_cell_angle_alpha    82.2722
+_cell_angle_beta     82.2722
+_cell_angle_gamma    89.6122
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.36427  0.36427  0.19817  1.0000
+  Li  Li2       1.0  0.63573  0.63573  0.80183  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.19636  0.19636  0.63375  1.0000
+  Ag  Ag3       1.0  0.80364  0.80364  0.36625  1.0000
+  F   F1        1.0  0.63836  0.12604  0.84923  1.0000
+  F   F2        1.0  0.30269  0.30269  0.39271  1.0000
+  F   F3        1.0  0.87396  0.36164  0.15077  1.0000
+  F   F4        1.0  0.12604  0.63836  0.84923  1.0000
+  F   F5        1.0  0.69731  0.69731  0.60729  1.0000
+  F   F6        1.0  0.36164  0.87396  0.15077  1.0000

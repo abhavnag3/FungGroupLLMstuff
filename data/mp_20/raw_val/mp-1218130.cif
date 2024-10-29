@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2Nd2Fe2Ru2O12
+_chemical_formula_sum              "Sr2 Nd2 Fe2 Ru2 O12"
+_cell_length_a       5.64612
+_cell_length_b       5.58796
+_cell_length_c       9.64204
+_cell_angle_alpha    54.8109
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.71967  0.75349  0.75022  1.0000
+  Sr  Sr2       1.0  0.28033  0.75349  0.25022  1.0000
+  Nd  Nd1       1.0  0.20167  0.23612  0.74933  1.0000
+  Nd  Nd2       1.0  0.79833  0.23612  0.24933  1.0000
+  Fe  Fe1       1.0  0.25488  0.49961  0.99965  1.0000
+  Fe  Fe2       1.0  0.74512  0.49961  0.49965  1.0000
+  Ru  Ru1       1.0  0.25201  0.99971  0.50052  1.0000
+  Ru  Ru2       1.0  0.74799  0.99971  0.00052  1.0000
+  O   O1        1.0  0.02589  0.76405  0.46123  1.0000
+  O   O2        1.0  0.54265  0.24794  0.04409  1.0000
+  O   O3        1.0  0.45960  0.83950  0.95557  1.0000
+  O   O4        1.0  0.97532  0.18349  0.53942  1.0000
+  O   O5        1.0  0.45735  0.24794  0.54409  1.0000
+  O   O6        1.0  0.97411  0.76405  0.96123  1.0000
+  O   O7        1.0  0.02468  0.18349  0.03942  1.0000
+  O   O8        1.0  0.54040  0.83950  0.45557  1.0000
+  O   O9        1.0  0.26201  0.66072  0.75012  1.0000
+  O   O10       1.0  0.77353  0.31537  0.74985  1.0000
+  O   O11       1.0  0.22647  0.31537  0.24985  1.0000
+  O   O12       1.0  0.73799  0.66072  0.25012  1.0000

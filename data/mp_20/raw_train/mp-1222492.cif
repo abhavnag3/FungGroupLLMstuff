@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li3ErBr6
+_chemical_formula_sum              "Li3 Er1 Br6"
+_cell_length_a       6.93753
+_cell_length_b       6.93753
+_cell_length_c       6.93867
+_cell_angle_alpha    80.3145
+_cell_angle_beta     80.3145
+_cell_angle_gamma    119.715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.67022  0.32978  0.00000  1.0000
+  Li  Li2       1.0  0.33187  0.66813  0.00000  1.0000
+  Li  Li3       1.0  0.84289  0.15712  0.50000  1.0000
+  Er  Er1       1.0  0.00245  0.99755  0.00000  1.0000
+  Br  Br1       1.0  0.41933  0.07917  0.76723  1.0000
+  Br  Br2       1.0  0.06863  0.39957  0.75345  1.0000
+  Br  Br3       1.0  0.60043  0.93137  0.24655  1.0000
+  Br  Br4       1.0  0.92083  0.58067  0.23277  1.0000
+  Br  Br5       1.0  0.74233  0.75397  0.76128  1.0000
+  Br  Br6       1.0  0.24603  0.25767  0.23873  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ho14Rh6
+_chemical_formula_sum              "Ho14 Rh6"
+_cell_length_a       9.77828
+_cell_length_b       9.77828
+_cell_length_c       6.16262
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.33333  0.66667  0.45377  1.0000
+  Ho  Ho2       1.0  0.66667  0.33333  0.95377  1.0000
+  Ho  Ho3       1.0  0.12435  0.87565  0.25286  1.0000
+  Ho  Ho4       1.0  0.75129  0.87565  0.25286  1.0000
+  Ho  Ho5       1.0  0.12435  0.24871  0.25286  1.0000
+  Ho  Ho6       1.0  0.87565  0.12435  0.75286  1.0000
+  Ho  Ho7       1.0  0.24871  0.12435  0.75286  1.0000
+  Ho  Ho8       1.0  0.87565  0.75129  0.75286  1.0000
+  Ho  Ho9       1.0  0.54041  0.45959  0.44833  1.0000
+  Ho  Ho10      1.0  0.91919  0.45959  0.44833  1.0000
+  Ho  Ho11      1.0  0.54041  0.08081  0.44833  1.0000
+  Ho  Ho12      1.0  0.45959  0.54041  0.94833  1.0000
+  Ho  Ho13      1.0  0.08081  0.54041  0.94833  1.0000
+  Ho  Ho14      1.0  0.45959  0.91919  0.94833  1.0000
+  Rh  Rh1       1.0  0.80963  0.19037  0.18147  1.0000
+  Rh  Rh2       1.0  0.38073  0.19037  0.18147  1.0000
+  Rh  Rh3       1.0  0.80963  0.61927  0.18147  1.0000
+  Rh  Rh4       1.0  0.19037  0.80963  0.68148  1.0000
+  Rh  Rh5       1.0  0.61927  0.80963  0.68148  1.0000
+  Rh  Rh6       1.0  0.19037  0.38073  0.68148  1.0000

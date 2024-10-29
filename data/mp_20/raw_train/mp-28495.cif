@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Zr6Br12
+_chemical_formula_sum              "Zr6 Br12"
+_cell_length_a       8.62232
+_cell_length_b       8.62232
+_cell_length_c       8.62232
+_cell_angle_alpha    106.84
+_cell_angle_beta     106.84
+_cell_angle_gamma    106.84
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.90343  0.96872  0.71439  1.0000
+  Zr  Zr2       1.0  0.71439  0.90343  0.96872  1.0000
+  Zr  Zr3       1.0  0.96872  0.71439  0.90343  1.0000
+  Zr  Zr4       1.0  0.09656  0.03128  0.28561  1.0000
+  Zr  Zr5       1.0  0.28561  0.09656  0.03128  1.0000
+  Zr  Zr6       1.0  0.03128  0.28561  0.09656  1.0000
+  Br  Br1       1.0  0.85679  0.63116  0.55493  1.0000
+  Br  Br2       1.0  0.55493  0.85679  0.63116  1.0000
+  Br  Br3       1.0  0.63116  0.55493  0.85679  1.0000
+  Br  Br4       1.0  0.14321  0.36884  0.44507  1.0000
+  Br  Br5       1.0  0.44507  0.14321  0.36884  1.0000
+  Br  Br6       1.0  0.36884  0.44507  0.14321  1.0000
+  Br  Br7       1.0  0.92315  0.31078  0.77655  1.0000
+  Br  Br8       1.0  0.31078  0.77655  0.92315  1.0000
+  Br  Br9       1.0  0.77655  0.92315  0.31078  1.0000
+  Br  Br10      1.0  0.07685  0.68922  0.22345  1.0000
+  Br  Br11      1.0  0.68922  0.22345  0.07685  1.0000
+  Br  Br12      1.0  0.22345  0.07685  0.68922  1.0000

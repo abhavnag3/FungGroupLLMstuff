@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       KNaNb2O6
+_chemical_formula_sum              "K1 Na1 Nb2 O6"
+_cell_length_a       4.07942
+_cell_length_b       5.72081
+_cell_length_c       5.72081
+_cell_angle_alpha    88.7999
+_cell_angle_beta     90.15
+_cell_angle_gamma    90.15
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.49834  0.00052  0.50052  1.0000
+  Na  Na1       1.0  0.50267  0.49894  0.99894  1.0000
+  Nb  Nb1       1.0  0.98558  0.00762  0.00801  1.0000
+  Nb  Nb2       1.0  0.98558  0.50801  0.50762  1.0000
+  O   O1        1.0  0.02345  0.23937  0.73937  1.0000
+  O   O2        1.0  0.02452  0.73650  0.23650  1.0000
+  O   O3        1.0  0.01376  0.24321  0.23701  1.0000
+  O   O4        1.0  0.01376  0.73701  0.74321  1.0000
+  O   O5        1.0  0.51926  0.99307  0.99265  1.0000
+  O   O6        1.0  0.51926  0.49265  0.49307  1.0000

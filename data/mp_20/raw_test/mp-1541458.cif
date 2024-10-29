@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       MgRe2O8
+_chemical_formula_sum              "Mg1 Re2 O8"
+_cell_length_a       5.8186
+_cell_length_b       5.81864
+_cell_length_c       6.6666
+_cell_angle_alpha    89.9978
+_cell_angle_beta     89.9977
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.99998  0.00000  0.00000  1.0000
+  Re  Re1       1.0  0.33327  0.66662  0.26742  1.0000
+  Re  Re2       1.0  0.66669  0.33338  0.73258  1.0000
+  O   O1        1.0  0.16983  0.83163  0.17945  1.0000
+  O   O2        1.0  0.16826  0.33817  0.17948  1.0000
+  O   O3        1.0  0.33329  0.66664  0.52749  1.0000
+  O   O4        1.0  0.33825  0.16994  0.82058  1.0000
+  O   O5        1.0  0.66171  0.83005  0.17942  1.0000
+  O   O6        1.0  0.66667  0.33336  0.47251  1.0000
+  O   O7        1.0  0.83170  0.66183  0.82052  1.0000
+  O   O8        1.0  0.83013  0.16838  0.82055  1.0000

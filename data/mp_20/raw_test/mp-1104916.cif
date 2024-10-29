@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       V2PbO2F8
+_chemical_formula_sum              "V2 Pb1 O2 F8"
+_cell_length_a       5.17209
+_cell_length_b       5.62684
+_cell_length_c       7.52897
+_cell_angle_alpha    73.3507
+_cell_angle_beta     72.4579
+_cell_angle_gamma    89.4415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.65580  0.64754  0.74640  1.0000
+  V   V2        1.0  0.34420  0.35246  0.25360  1.0000
+  Pb  Pb1       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.63734  0.70786  0.53093  1.0000
+  O   O2        1.0  0.36266  0.29214  0.46907  1.0000
+  F   F1        1.0  0.46982  0.90089  0.83136  1.0000
+  F   F2        1.0  0.53018  0.09911  0.16864  1.0000
+  F   F3        1.0  0.96865  0.82554  0.72151  1.0000
+  F   F4        1.0  0.03135  0.17446  0.27849  1.0000
+  F   F5        1.0  0.84385  0.36561  0.76964  1.0000
+  F   F6        1.0  0.15615  0.63440  0.23036  1.0000
+  F   F7        1.0  0.33835  0.43888  0.90575  1.0000
+  F   F8        1.0  0.66165  0.56112  0.09425  1.0000

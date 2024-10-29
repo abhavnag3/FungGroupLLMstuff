@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnCu2SnSe3S
+_chemical_formula_sum              "Zn1 Cu2 Sn1 Se3 S1"
+_cell_length_a       5.69192
+_cell_length_b       5.69394
+_cell_length_c       6.95315
+_cell_angle_alpha    114.009
+_cell_angle_beta     114.096
+_cell_angle_gamma    90.1318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25533  0.73556  0.49294  1.0000
+  Cu  Cu1       1.0  0.01552  0.01551  0.01038  1.0000
+  Cu  Cu2       1.0  0.73392  0.25534  0.49026  1.0000
+  Sn  Sn1       1.0  0.49531  0.49449  0.00483  1.0000
+  Se  Se1       1.0  0.88926  0.89757  0.26178  1.0000
+  Se  Se2       1.0  0.10006  0.63027  0.74063  1.0000
+  Se  Se3       1.0  0.63979  0.10961  0.74013  1.0000
+  S   S1        1.0  0.37081  0.36165  0.25905  1.0000

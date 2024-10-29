@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tb6Se4N2O2
+_chemical_formula_sum              "Tb6 Se4 N2 O2"
+_cell_length_a       8.047
+_cell_length_b       8.047
+_cell_length_c       9.76546
+_cell_angle_alpha    82.8503
+_cell_angle_beta     82.8503
+_cell_angle_gamma    28.3343
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.39144  0.39144  0.94582  1.0000
+  Tb  Tb2       1.0  0.60856  0.60856  0.05418  1.0000
+  Tb  Tb3       1.0  0.04389  0.04389  0.73943  1.0000
+  Tb  Tb4       1.0  0.95611  0.95611  0.26057  1.0000
+  Tb  Tb5       1.0  0.19765  0.19765  0.32512  1.0000
+  Tb  Tb6       1.0  0.80235  0.80235  0.67488  1.0000
+  Se  Se1       1.0  0.21207  0.21207  0.84990  1.0000
+  Se  Se2       1.0  0.78793  0.78793  0.15010  1.0000
+  Se  Se3       1.0  0.37103  0.37104  0.47365  1.0000
+  Se  Se4       1.0  0.62896  0.62896  0.52635  1.0000
+  N   N1        1.0  0.09810  0.09810  0.18712  1.0000
+  N   N2        1.0  0.90190  0.90190  0.81288  1.0000
+  O   O1        1.0  0.53581  0.53581  0.86022  1.0000
+  O   O2        1.0  0.46419  0.46419  0.13978  1.0000

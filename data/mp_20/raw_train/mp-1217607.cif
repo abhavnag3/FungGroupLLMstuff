@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tb2B2O6
+_chemical_formula_sum              "Tb2 B2 O6"
+_cell_length_a       4.00518
+_cell_length_b       4.31338
+_cell_length_c       8.58384
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    56.2593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.94742  0.98568  0.49971  1.0000
+  Tb  Tb2       1.0  0.94742  0.98568  0.00029  1.0000
+  B   B1        1.0  0.68096  0.54941  0.75000  1.0000
+  B   B2        1.0  0.21874  0.28983  0.25000  1.0000
+  O   O1        1.0  0.60976  0.71604  0.60375  1.0000
+  O   O2        1.0  0.29664  0.38023  0.10450  1.0000
+  O   O3        1.0  0.29664  0.38023  0.39550  1.0000
+  O   O4        1.0  0.60976  0.71604  0.89625  1.0000
+  O   O5        1.0  0.82930  0.17455  0.75000  1.0000
+  O   O6        1.0  0.05737  0.08030  0.25000  1.0000

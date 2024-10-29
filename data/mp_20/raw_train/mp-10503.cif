@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg2B8Os6
+_chemical_formula_sum              "Mg2 B8 Os6"
+_cell_length_a       6.13422
+_cell_length_b       6.13422
+_cell_length_c       9.80732
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    152.449
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mg  Mg2       1.0  0.50000  0.50000  0.50000  1.0000
+  B   B1        1.0  0.37665  0.62335  0.25000  1.0000
+  B   B2        1.0  0.62335  0.37665  0.75000  1.0000
+  B   B3        1.0  0.65420  0.34580  0.25000  1.0000
+  B   B4        1.0  0.34580  0.65420  0.75000  1.0000
+  B   B5        1.0  0.84090  0.15910  0.88944  1.0000
+  B   B6        1.0  0.15910  0.84090  0.38944  1.0000
+  B   B7        1.0  0.15910  0.84090  0.11056  1.0000
+  B   B8        1.0  0.84090  0.15910  0.61056  1.0000
+  Os  Os1       1.0  0.80029  0.19971  0.10708  1.0000
+  Os  Os2       1.0  0.98360  0.01640  0.75000  1.0000
+  Os  Os3       1.0  0.01640  0.98360  0.25000  1.0000
+  Os  Os4       1.0  0.19971  0.80029  0.89292  1.0000
+  Os  Os5       1.0  0.19971  0.80029  0.60708  1.0000
+  Os  Os6       1.0  0.80029  0.19971  0.39292  1.0000

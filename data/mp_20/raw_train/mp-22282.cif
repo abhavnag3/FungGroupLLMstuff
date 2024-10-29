@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       La2In4
+_chemical_formula_sum              "La2 In4"
+_cell_length_a       6.47837
+_cell_length_b       6.47837
+_cell_length_c       6.47837
+_cell_angle_alpha    135.819
+_cell_angle_beta     107.371
+_cell_angle_gamma    89.1008
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.69956  0.44956  0.25000  1.0000
+  La  La2       1.0  0.30044  0.55044  0.75000  1.0000
+  In  In1       1.0  0.70764  0.16134  0.54630  1.0000
+  In  In2       1.0  0.29235  0.83866  0.45370  1.0000
+  In  In3       1.0  0.11504  0.16134  0.95370  1.0000
+  In  In4       1.0  0.88496  0.83866  0.04630  1.0000

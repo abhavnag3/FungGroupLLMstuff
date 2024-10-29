@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tb7MnBr12
+_chemical_formula_sum              "Tb7 Mn1 Br12"
+_cell_length_a       9.25001
+_cell_length_b       9.25001
+_cell_length_c       9.25001
+_cell_angle_alpha    106.816
+_cell_angle_beta     106.816
+_cell_angle_gamma    106.816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Tb  Tb2       1.0  0.59721  0.52095  0.80342  1.0000
+  Tb  Tb3       1.0  0.52095  0.80342  0.59721  1.0000
+  Tb  Tb4       1.0  0.80342  0.59721  0.52095  1.0000
+  Tb  Tb5       1.0  0.40279  0.47905  0.19658  1.0000
+  Tb  Tb6       1.0  0.47905  0.19658  0.40279  1.0000
+  Tb  Tb7       1.0  0.19658  0.40279  0.47905  1.0000
+  Mn  Mn1       1.0  0.50000  0.50000  0.50000  1.0000
+  Br  Br1       1.0  0.56925  0.17913  0.72190  1.0000
+  Br  Br2       1.0  0.17913  0.72190  0.56925  1.0000
+  Br  Br3       1.0  0.72190  0.56925  0.17913  1.0000
+  Br  Br4       1.0  0.43074  0.82087  0.27810  1.0000
+  Br  Br5       1.0  0.82087  0.27810  0.43074  1.0000
+  Br  Br6       1.0  0.27810  0.43074  0.82087  1.0000
+  Br  Br7       1.0  0.66524  0.88454  0.96175  1.0000
+  Br  Br8       1.0  0.88454  0.96175  0.66524  1.0000
+  Br  Br9       1.0  0.96175  0.66524  0.88454  1.0000
+  Br  Br10      1.0  0.33476  0.11546  0.03825  1.0000
+  Br  Br11      1.0  0.11546  0.03825  0.33476  1.0000
+  Br  Br12      1.0  0.03825  0.33476  0.11546  1.0000

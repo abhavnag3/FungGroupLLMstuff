@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2Cd4S6
+_chemical_formula_sum              "Mn2 Cd4 S6"
+_cell_length_a       7.8691
+_cell_length_b       7.8691
+_cell_length_c       9.80619
+_cell_angle_alpha    75.4276
+_cell_angle_beta     75.4276
+_cell_angle_gamma    30.4545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.90452  0.90452  0.56813  1.0000
+  Mn  Mn2       1.0  0.56866  0.56866  0.23952  1.0000
+  Cd  Cd1       1.0  0.84798  0.84798  0.18219  1.0000
+  Cd  Cd2       1.0  0.51213  0.51213  0.84733  1.0000
+  Cd  Cd3       1.0  0.17993  0.17993  0.51041  1.0000
+  Cd  Cd4       1.0  0.23783  0.23783  0.90273  1.0000
+  S   S1        1.0  0.71589  0.71589  0.06448  1.0000
+  S   S2        1.0  0.38965  0.38965  0.70897  1.0000
+  S   S3        1.0  0.05075  0.05075  0.38323  1.0000
+  S   S4        1.0  0.11054  0.11054  0.77667  1.0000
+  S   S5        1.0  0.78280  0.78281  0.45043  1.0000
+  S   S6        1.0  0.44960  0.44960  0.11590  1.0000

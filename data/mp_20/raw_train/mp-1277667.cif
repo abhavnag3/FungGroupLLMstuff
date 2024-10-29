@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mg2FeWO6
+_chemical_formula_sum              "Mg2 Fe1 W1 O6"
+_cell_length_a       5.23149
+_cell_length_b       5.23304
+_cell_length_c       5.56756
+_cell_angle_alpha    89.4001
+_cell_angle_beta     62.6121
+_cell_angle_gamma    119.868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.57516  0.29719  0.12927  1.0000
+  Mg  Mg2       1.0  0.56654  0.79349  0.63893  1.0000
+  Fe  Fe1       1.0  0.99796  0.51011  0.49491  1.0000
+  W   W1        1.0  0.97658  0.99701  0.02603  1.0000
+  O   O1        1.0  0.81086  0.09652  0.81878  1.0000
+  O   O2        1.0  0.44079  0.36981  0.82467  1.0000
+  O   O3        1.0  0.08793  0.73597  0.82377  1.0000
+  O   O4        1.0  0.08560  0.90600  0.30528  1.0000
+  O   O5        1.0  0.79327  0.19404  0.30170  1.0000
+  O   O6        1.0  0.50722  0.61569  0.29874  1.0000

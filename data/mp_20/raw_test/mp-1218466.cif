@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr3NdCo2O8
+_chemical_formula_sum              "Sr3 Nd1 Co2 O8"
+_cell_length_a       6.80858
+_cell_length_b       6.80858
+_cell_length_c       5.39384
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    133.023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.64345  0.35655  0.00000  1.0000
+  Sr  Sr2       1.0  0.35885  0.64114  0.00000  1.0000
+  Sr  Sr3       1.0  0.85584  0.14416  0.50000  1.0000
+  Nd  Nd1       1.0  0.13739  0.86261  0.50000  1.0000
+  Co  Co1       1.0  0.49828  0.50172  0.50000  1.0000
+  Co  Co2       1.0  0.99860  0.00140  0.00000  1.0000
+  O   O1        1.0  0.84546  0.15454  0.00000  1.0000
+  O   O2        1.0  0.32634  0.67366  0.50000  1.0000
+  O   O3        1.0  0.66196  0.33804  0.50000  1.0000
+  O   O4        1.0  0.15846  0.84154  0.00000  1.0000
+  O   O5        1.0  0.76124  0.75356  0.74569  1.0000
+  O   O6        1.0  0.24644  0.23876  0.25431  1.0000
+  O   O7        1.0  0.76124  0.75356  0.25431  1.0000
+  O   O8        1.0  0.24644  0.23876  0.74569  1.0000

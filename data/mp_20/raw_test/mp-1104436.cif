@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       YbGa6Fe6
+_chemical_formula_sum              "Yb1 Ga6 Fe6"
+_cell_length_a       6.56235
+_cell_length_b       6.56235
+_cell_length_c       6.56235
+_cell_angle_alpha    135.16
+_cell_angle_beta     99.3317
+_cell_angle_gamma    97.3986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga1       1.0  0.32487  0.00000  0.32487  1.0000
+  Ga  Ga2       1.0  0.67513  0.00000  0.67513  1.0000
+  Ga  Ga3       1.0  0.66002  0.66002  0.00000  1.0000
+  Ga  Ga4       1.0  0.33998  0.33998  0.00000  1.0000
+  Ga  Ga5       1.0  0.17718  0.67718  0.50000  1.0000
+  Ga  Ga6       1.0  0.82282  0.32282  0.50000  1.0000
+  Fe  Fe1       1.0  0.75279  0.50000  0.25279  1.0000
+  Fe  Fe2       1.0  0.24721  0.50000  0.74721  1.0000
+  Fe  Fe3       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe4       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe5       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe6       1.0  0.50000  0.50000  0.50000  1.0000

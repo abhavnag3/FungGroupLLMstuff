@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tm4Mo4C8
+_chemical_formula_sum              "Tm4 Mo4 C8"
+_cell_length_a       3.34415
+_cell_length_b       5.66623
+_cell_length_c       10.7394
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.25000  0.08547  0.86299  1.0000
+  Tm  Tm2       1.0  0.25000  0.58547  0.63701  1.0000
+  Tm  Tm3       1.0  0.75000  0.91453  0.13700  1.0000
+  Tm  Tm4       1.0  0.75000  0.41453  0.36300  1.0000
+  Mo  Mo1       1.0  0.25000  0.40042  0.10938  1.0000
+  Mo  Mo2       1.0  0.25000  0.90042  0.39062  1.0000
+  Mo  Mo3       1.0  0.75000  0.59958  0.89062  1.0000
+  Mo  Mo4       1.0  0.75000  0.09958  0.60938  1.0000
+  C   C1        1.0  0.25000  0.15879  0.24696  1.0000
+  C   C2        1.0  0.25000  0.65878  0.25304  1.0000
+  C   C3        1.0  0.75000  0.84122  0.75304  1.0000
+  C   C4        1.0  0.75000  0.34121  0.74696  1.0000
+  C   C5        1.0  0.25000  0.72976  0.98716  1.0000
+  C   C6        1.0  0.25000  0.22977  0.51284  1.0000
+  C   C7        1.0  0.75000  0.27024  0.01284  1.0000
+  C   C8        1.0  0.75000  0.77024  0.48717  1.0000

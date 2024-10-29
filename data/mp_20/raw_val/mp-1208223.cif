@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ti5S8
+_chemical_formula_sum              "Ti5 S8"
+_cell_length_a       6.76198
+_cell_length_b       6.76198
+_cell_length_c       8.26723
+_cell_angle_alpha    53.0547
+_cell_angle_beta     53.0547
+_cell_angle_gamma    60.8751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.73638  0.26362  0.50000  1.0000
+  Ti  Ti2       1.0  0.26362  0.73638  0.50000  1.0000
+  Ti  Ti3       1.0  0.74540  0.74540  0.00990  1.0000
+  Ti  Ti4       1.0  0.25460  0.25460  0.99010  1.0000
+  Ti  Ti5       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.46009  0.46009  0.33156  1.0000
+  S   S2        1.0  0.53991  0.53991  0.66844  1.0000
+  S   S3        1.0  0.54216  0.04190  0.17002  1.0000
+  S   S4        1.0  0.45784  0.95810  0.82998  1.0000
+  S   S5        1.0  0.95810  0.45784  0.82998  1.0000
+  S   S6        1.0  0.04190  0.54216  0.17002  1.0000
+  S   S7        1.0  0.96348  0.96348  0.33063  1.0000
+  S   S8        1.0  0.03652  0.03652  0.66937  1.0000

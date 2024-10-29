@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Er2Th2Re8
+_chemical_formula_sum              "Er2 Th2 Re8"
+_cell_length_a       5.39354
+_cell_length_b       5.39354
+_cell_length_c       9.15813
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.66667  0.33333  0.43800  1.0000
+  Er  Er2       1.0  0.33333  0.66667  0.56200  1.0000
+  Th  Th1       1.0  0.33333  0.66667  0.93929  1.0000
+  Th  Th2       1.0  0.66667  0.33333  0.06071  1.0000
+  Re  Re1       1.0  0.00000  0.00000  0.50000  1.0000
+  Re  Re2       1.0  0.00000  0.00000  0.00000  1.0000
+  Re  Re3       1.0  0.65968  0.82984  0.25933  1.0000
+  Re  Re4       1.0  0.17016  0.82984  0.25933  1.0000
+  Re  Re5       1.0  0.17016  0.34032  0.25933  1.0000
+  Re  Re6       1.0  0.34032  0.17016  0.74067  1.0000
+  Re  Re7       1.0  0.82984  0.17016  0.74067  1.0000
+  Re  Re8       1.0  0.82984  0.65968  0.74067  1.0000

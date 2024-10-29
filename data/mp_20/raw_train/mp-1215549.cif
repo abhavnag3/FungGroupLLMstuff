@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn2Si2AsP3
+_chemical_formula_sum              "Zn2 Si2 As1 P3"
+_cell_length_a       5.4903
+_cell_length_b       5.476
+_cell_length_c       6.60448
+_cell_angle_alpha    65.508
+_cell_angle_beta     65.1496
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.75972  0.26011  0.49442  1.0000
+  Zn  Zn2       1.0  0.99028  0.00453  0.00558  1.0000
+  Si  Si1       1.0  0.24560  0.74590  0.49455  1.0000
+  Si  Si2       1.0  0.50440  0.49045  0.00545  1.0000
+  As  As1       1.0  0.37500  0.86023  0.75000  1.0000
+  P   P1        1.0  0.87500  0.39071  0.75000  1.0000
+  P   P2        1.0  0.14337  0.12413  0.24982  1.0000
+  P   P3        1.0  0.60663  0.62394  0.25018  1.0000

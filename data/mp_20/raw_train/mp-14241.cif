@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tl4Si2Se6
+_chemical_formula_sum              "Tl4 Si2 Se6"
+_cell_length_a       7.08312
+_cell_length_b       7.17422
+_cell_length_c       8.91912
+_cell_angle_alpha    89.4559
+_cell_angle_beta     112.05
+_cell_angle_gamma    112.912
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.72779  0.32060  0.09933  1.0000
+  Tl  Tl2       1.0  0.27220  0.67940  0.90067  1.0000
+  Tl  Tl3       1.0  0.86480  0.04193  0.66594  1.0000
+  Tl  Tl4       1.0  0.13520  0.95808  0.33407  1.0000
+  Si  Si1       1.0  0.43208  0.54820  0.32234  1.0000
+  Si  Si2       1.0  0.56792  0.45180  0.67766  1.0000
+  Se  Se1       1.0  0.75219  0.69654  0.90123  1.0000
+  Se  Se2       1.0  0.24781  0.30346  0.09877  1.0000
+  Se  Se3       1.0  0.51401  0.87350  0.27044  1.0000
+  Se  Se4       1.0  0.48600  0.12650  0.72955  1.0000
+  Se  Se5       1.0  0.23852  0.47069  0.49413  1.0000
+  Se  Se6       1.0  0.76148  0.52931  0.50587  1.0000

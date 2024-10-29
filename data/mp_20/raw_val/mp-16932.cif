@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Th2Co17
+_chemical_formula_sum              "Th2 Co17"
+_cell_length_a       6.31176
+_cell_length_b       6.31176
+_cell_length_c       6.31176
+_cell_angle_alpha    83.0758
+_cell_angle_beta     83.0758
+_cell_angle_gamma    83.0758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.65649  0.65649  0.65649  1.0000
+  Th  Th2       1.0  0.34351  0.34351  0.34351  1.0000
+  Co  Co1       1.0  0.34523  0.34523  0.85263  1.0000
+  Co  Co2       1.0  0.85263  0.34523  0.34523  1.0000
+  Co  Co3       1.0  0.09695  0.09695  0.09695  1.0000
+  Co  Co4       1.0  0.90305  0.90305  0.90305  1.0000
+  Co  Co5       1.0  0.00000  0.00000  0.50000  1.0000
+  Co  Co6       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co7       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co8       1.0  0.71538  0.28462  0.00000  1.0000
+  Co  Co9       1.0  0.28462  0.00000  0.71538  1.0000
+  Co  Co10      1.0  0.00000  0.71538  0.28462  1.0000
+  Co  Co11      1.0  0.28462  0.71538  0.00000  1.0000
+  Co  Co12      1.0  0.71538  0.00000  0.28462  1.0000
+  Co  Co13      1.0  0.00000  0.28462  0.71538  1.0000
+  Co  Co14      1.0  0.14737  0.65477  0.65477  1.0000
+  Co  Co15      1.0  0.65477  0.65477  0.14737  1.0000
+  Co  Co16      1.0  0.65477  0.14737  0.65477  1.0000
+  Co  Co17      1.0  0.34523  0.85263  0.34523  1.0000

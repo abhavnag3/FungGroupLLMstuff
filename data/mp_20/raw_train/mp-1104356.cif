@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Na2MnP2O7F3
+_chemical_formula_sum              "Na2 Mn1 P2 O7 F3"
+_cell_length_a       4.6486
+_cell_length_b       6.15622
+_cell_length_c       7.97398
+_cell_angle_alpha    105.075
+_cell_angle_beta     97.1429
+_cell_angle_gamma    105.935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.84923  0.11583  0.33813  1.0000
+  Na  Na2       1.0  0.24930  0.82950  0.92701  1.0000
+  Mn  Mn1       1.0  0.55537  0.48030  0.15404  1.0000
+  P   P1        1.0  0.91626  0.24390  0.87926  1.0000
+  P   P2        1.0  0.19616  0.71427  0.43986  1.0000
+  O   O1        1.0  0.21350  0.45583  0.97178  1.0000
+  O   O2        1.0  0.66917  0.23453  0.99491  1.0000
+  O   O3        1.0  0.44513  0.72076  0.32394  1.0000
+  O   O4        1.0  0.29693  0.66928  0.61343  1.0000
+  O   O5        1.0  0.89198  0.50849  0.33665  1.0000
+  O   O6        1.0  0.94589  0.00513  0.80970  1.0000
+  O   O7        1.0  0.16476  0.96282  0.48161  1.0000
+  F   F1        1.0  0.31920  0.22811  0.21657  1.0000
+  F   F2        1.0  0.78628  0.73275  0.09093  1.0000
+  F   F3        1.0  0.79004  0.32611  0.72078  1.0000

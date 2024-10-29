@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K4Zn4O6
+_chemical_formula_sum              "K4 Zn4 O6"
+_cell_length_a       5.96556
+_cell_length_b       6.34892
+_cell_length_c       6.33362
+_cell_angle_alpha    90
+_cell_angle_beta     113.547
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.19276  0.63323  0.93166  1.0000
+  K   K2        1.0  0.19276  0.86677  0.43166  1.0000
+  K   K3        1.0  0.80724  0.13323  0.56834  1.0000
+  K   K4        1.0  0.80724  0.36677  0.06834  1.0000
+  Zn  Zn1       1.0  0.32875  0.38634  0.56716  1.0000
+  Zn  Zn2       1.0  0.67125  0.88634  0.93284  1.0000
+  Zn  Zn3       1.0  0.32875  0.11366  0.06716  1.0000
+  Zn  Zn4       1.0  0.67125  0.61366  0.43284  1.0000
+  O   O1        1.0  0.00000  0.50000  0.50000  1.0000
+  O   O2        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O3        1.0  0.41489  0.13788  0.79035  1.0000
+  O   O4        1.0  0.58511  0.63788  0.70965  1.0000
+  O   O5        1.0  0.41489  0.36212  0.29035  1.0000
+  O   O6        1.0  0.58511  0.86212  0.20965  1.0000

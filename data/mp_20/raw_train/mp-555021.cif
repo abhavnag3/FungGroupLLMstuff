@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Te4Pb4O12
+_chemical_formula_sum              "Te4 Pb4 O12"
+_cell_length_a       5.43069
+_cell_length_b       5.43069
+_cell_length_c       12.1769
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.25027  0.25513  0.49015  1.0000
+  Te  Te2       1.0  0.25513  0.74973  0.24015  1.0000
+  Te  Te3       1.0  0.74973  0.74487  0.99015  1.0000
+  Te  Te4       1.0  0.74487  0.25027  0.74015  1.0000
+  Pb  Pb1       1.0  0.75573  0.24130  0.24966  1.0000
+  Pb  Pb2       1.0  0.24130  0.24427  0.99966  1.0000
+  Pb  Pb3       1.0  0.24427  0.75870  0.74966  1.0000
+  Pb  Pb4       1.0  0.75870  0.75573  0.49966  1.0000
+  O   O1        1.0  0.39212  0.02065  0.58783  1.0000
+  O   O2        1.0  0.52038  0.12461  0.84560  1.0000
+  O   O3        1.0  0.47962  0.87539  0.34560  1.0000
+  O   O4        1.0  0.12030  0.06446  0.20195  1.0000
+  O   O5        1.0  0.06446  0.87970  0.95195  1.0000
+  O   O6        1.0  0.02065  0.60788  0.33783  1.0000
+  O   O7        1.0  0.12461  0.47962  0.59560  1.0000
+  O   O8        1.0  0.87539  0.52038  0.09560  1.0000
+  O   O9        1.0  0.97935  0.39212  0.83783  1.0000
+  O   O10       1.0  0.60788  0.97935  0.08783  1.0000
+  O   O11       1.0  0.87970  0.93554  0.70195  1.0000
+  O   O12       1.0  0.93554  0.12030  0.45195  1.0000

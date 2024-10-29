@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       B12P2
+_chemical_formula_sum              "B12 P2"
+_cell_length_a       5.25314
+_cell_length_b       5.25314
+_cell_length_c       5.25314
+_cell_angle_alpha    69.5599
+_cell_angle_beta     69.5599
+_cell_angle_gamma    69.5599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.71758  0.18387  0.18387  1.0000
+  B   B2        1.0  0.18387  0.18387  0.71758  1.0000
+  B   B3        1.0  0.18387  0.71758  0.18387  1.0000
+  B   B4        1.0  0.81614  0.28242  0.81614  1.0000
+  B   B5        1.0  0.28242  0.81614  0.81614  1.0000
+  B   B6        1.0  0.81614  0.81614  0.28242  1.0000
+  B   B7        1.0  0.32644  0.01281  0.01281  1.0000
+  B   B8        1.0  0.01281  0.01281  0.32644  1.0000
+  B   B9        1.0  0.01281  0.32644  0.01281  1.0000
+  B   B10       1.0  0.98719  0.67356  0.98719  1.0000
+  B   B11       1.0  0.67356  0.98719  0.98719  1.0000
+  B   B12       1.0  0.98719  0.98719  0.67356  1.0000
+  P   P1        1.0  0.40514  0.40514  0.40514  1.0000
+  P   P2        1.0  0.59486  0.59486  0.59486  1.0000

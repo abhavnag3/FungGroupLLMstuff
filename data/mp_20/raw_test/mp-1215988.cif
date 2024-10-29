@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Y2Ga2Ag2
+_chemical_formula_sum              "Y2 Ga2 Ag2"
+_cell_length_a       5.76173
+_cell_length_b       5.76173
+_cell_length_c       7.20328
+_cell_angle_alpha    52.0285
+_cell_angle_beta     52.0285
+_cell_angle_gamma    46.971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.53542  0.53542  0.70949  1.0000
+  Y   Y2        1.0  0.46458  0.46458  0.29051  1.0000
+  Ga  Ga1       1.0  0.84100  0.84100  0.11605  1.0000
+  Ga  Ga2       1.0  0.15900  0.15900  0.88395  1.0000
+  Ag  Ag1       1.0  0.17421  0.17421  0.27714  1.0000
+  Ag  Ag2       1.0  0.82579  0.82579  0.72286  1.0000

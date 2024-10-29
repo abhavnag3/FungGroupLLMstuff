@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tl4Ni4O12
+_chemical_formula_sum              "Tl4 Ni4 O12"
+_cell_length_a       5.4575
+_cell_length_b       5.32759
+_cell_length_c       9.35949
+_cell_angle_alpha    55.2671
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.55041  0.73140  0.75251  1.0000
+  Tl  Tl2       1.0  0.94959  0.73140  0.25251  1.0000
+  Tl  Tl3       1.0  0.44959  0.26860  0.24749  1.0000
+  Tl  Tl4       1.0  0.05041  0.26860  0.74749  1.0000
+  Ni  Ni1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni3       1.0  0.50000  0.50000  0.50000  1.0000
+  Ni  Ni4       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.29043  0.74584  0.56062  1.0000
+  O   O2        1.0  0.30208  0.34651  0.94684  1.0000
+  O   O3        1.0  0.19792  0.34651  0.44684  1.0000
+  O   O4        1.0  0.80208  0.65349  0.55316  1.0000
+  O   O5        1.0  0.79043  0.25416  0.93938  1.0000
+  O   O6        1.0  0.95179  0.86066  0.74419  1.0000
+  O   O7        1.0  0.20957  0.74584  0.06062  1.0000
+  O   O8        1.0  0.04821  0.13934  0.25581  1.0000
+  O   O9        1.0  0.54821  0.86066  0.24419  1.0000
+  O   O10       1.0  0.69792  0.65349  0.05316  1.0000
+  O   O11       1.0  0.45179  0.13934  0.75581  1.0000
+  O   O12       1.0  0.70957  0.25416  0.43938  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ti2V2Cu2S8
+_chemical_formula_sum              "Ti2 V2 Cu2 S8"
+_cell_length_a       7.03686
+_cell_length_b       7.03686
+_cell_length_c       7.03686
+_cell_angle_alpha    120.136
+_cell_angle_beta     119.883
+_cell_angle_gamma    89.9835
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.50000  1.0000
+  V   V1        1.0  0.50000  0.50000  0.00000  1.0000
+  V   V2        1.0  0.00000  0.50000  0.50000  1.0000
+  Cu  Cu1       1.0  0.62584  0.87584  0.75000  1.0000
+  Cu  Cu2       1.0  0.37416  0.12416  0.25000  1.0000
+  S   S1        1.0  0.23479  0.74398  0.49080  1.0000
+  S   S2        1.0  0.75318  0.74398  0.00920  1.0000
+  S   S3        1.0  0.75457  0.74140  0.48684  1.0000
+  S   S4        1.0  0.75457  0.26773  0.01316  1.0000
+  S   S5        1.0  0.76521  0.25602  0.50920  1.0000
+  S   S6        1.0  0.24682  0.25602  0.99080  1.0000
+  S   S7        1.0  0.24543  0.25860  0.51316  1.0000
+  S   S8        1.0  0.24543  0.73227  0.98684  1.0000

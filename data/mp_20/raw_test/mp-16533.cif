@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Nd4Fe2S10
+_chemical_formula_sum              "Ba2 Nd4 Fe2 S10"
+_cell_length_a       8.76647
+_cell_length_b       8.76647
+_cell_length_c       8.76647
+_cell_angle_alpha    126.454
+_cell_angle_beta     126.454
+_cell_angle_gamma    79.1435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.25000  0.00000  1.0000
+  Ba  Ba2       1.0  0.75000  0.75000  0.00000  1.0000
+  Nd  Nd1       1.0  0.33809  0.16191  0.50000  1.0000
+  Nd  Nd2       1.0  0.16191  0.66191  0.82382  1.0000
+  Nd  Nd3       1.0  0.83809  0.33809  0.17618  1.0000
+  Nd  Nd4       1.0  0.66191  0.83809  0.50000  1.0000
+  Fe  Fe1       1.0  0.75000  0.25000  0.50000  1.0000
+  Fe  Fe2       1.0  0.25000  0.75000  0.50000  1.0000
+  S   S1        1.0  0.48766  0.98766  0.20458  1.0000
+  S   S2        1.0  0.21692  0.71692  0.20458  1.0000
+  S   S3        1.0  0.51234  0.01234  0.79542  1.0000
+  S   S4        1.0  0.01234  0.21692  0.50000  1.0000
+  S   S5        1.0  0.71692  0.51234  0.50000  1.0000
+  S   S6        1.0  0.98766  0.78308  0.50000  1.0000
+  S   S7        1.0  0.28308  0.48766  0.50000  1.0000
+  S   S8        1.0  0.78308  0.28308  0.79542  1.0000
+  S   S9        1.0  0.50000  0.50000  0.00000  1.0000
+  S   S10       1.0  0.00000  0.00000  0.00000  1.0000

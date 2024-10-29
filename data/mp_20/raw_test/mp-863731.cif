@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       In2H8N2Cl8
+_chemical_formula_sum              "In2 H8 N2 Cl8"
+_cell_length_a       9.32152
+_cell_length_b       9.32152
+_cell_length_c       9.32152
+_cell_angle_alpha    134.8
+_cell_angle_beta     134.8
+_cell_angle_gamma    65.8406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.50000  0.50000  0.00000  1.0000
+  In  In2       1.0  0.25000  0.75000  0.50000  1.0000
+  H   H1        1.0  0.90531  0.29107  0.61951  1.0000
+  H   H2        1.0  0.71420  0.09469  0.38577  1.0000
+  H   H3        1.0  0.70893  0.32844  0.61423  1.0000
+  H   H4        1.0  0.07844  0.96420  0.11951  1.0000
+  H   H5        1.0  0.67156  0.28580  0.38049  1.0000
+  H   H6        1.0  0.04107  0.92156  0.88577  1.0000
+  H   H7        1.0  0.03580  0.15531  0.11423  1.0000
+  H   H8        1.0  0.84469  0.95893  0.88049  1.0000
+  N   N1        1.0  0.75000  0.25000  0.50000  1.0000
+  N   N2        1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.73124  0.34632  0.90861  1.0000
+  Cl  Cl2       1.0  0.09632  0.68771  0.11508  1.0000
+  Cl  Cl3       1.0  0.17738  0.26876  0.61508  1.0000
+  Cl  Cl4       1.0  0.43771  0.82263  0.09139  1.0000
+  Cl  Cl5       1.0  0.31229  0.42738  0.40861  1.0000
+  Cl  Cl6       1.0  0.57263  0.98124  0.88492  1.0000
+  Cl  Cl7       1.0  0.65368  0.56229  0.38492  1.0000
+  Cl  Cl8       1.0  0.01876  0.90368  0.59139  1.0000

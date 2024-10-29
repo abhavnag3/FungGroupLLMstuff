@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ce4Tm4O12
+_chemical_formula_sum              "Ce4 Tm4 O12"
+_cell_length_a       5.80957
+_cell_length_b       6.02657
+_cell_length_c       8.39539
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.01387  0.44525  0.25000  1.0000
+  Ce  Ce2       1.0  0.98613  0.55475  0.75000  1.0000
+  Ce  Ce3       1.0  0.51387  0.05475  0.75000  1.0000
+  Ce  Ce4       1.0  0.48613  0.94525  0.25000  1.0000
+  Tm  Tm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Tm  Tm2       1.0  0.50000  0.50000  0.00000  1.0000
+  Tm  Tm3       1.0  0.00000  0.00000  0.50000  1.0000
+  Tm  Tm4       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.31483  0.18787  0.06714  1.0000
+  O   O2        1.0  0.68517  0.81213  0.93285  1.0000
+  O   O3        1.0  0.81483  0.31213  0.93285  1.0000
+  O   O4        1.0  0.68517  0.81213  0.56715  1.0000
+  O   O5        1.0  0.18517  0.68787  0.06714  1.0000
+  O   O6        1.0  0.31483  0.18787  0.43285  1.0000
+  O   O7        1.0  0.18517  0.68787  0.43285  1.0000
+  O   O8        1.0  0.81483  0.31213  0.56715  1.0000
+  O   O9        1.0  0.62996  0.55871  0.25000  1.0000
+  O   O10       1.0  0.37004  0.44129  0.75000  1.0000
+  O   O11       1.0  0.12996  0.94129  0.75000  1.0000
+  O   O12       1.0  0.87004  0.05871  0.25000  1.0000

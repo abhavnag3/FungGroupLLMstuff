@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb2Rh2O8
+_chemical_formula_sum              "Nb2 Rh2 O8"
+_cell_length_a       5.69075
+_cell_length_b       5.69075
+_cell_length_c       5.69075
+_cell_angle_alpha    106.483
+_cell_angle_beta     106.483
+_cell_angle_gamma    115.629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.76545  0.26545  0.50000  1.0000
+  Nb  Nb2       1.0  0.51545  0.51545  0.00000  1.0000
+  Rh  Rh1       1.0  0.24753  0.74753  0.50000  1.0000
+  Rh  Rh2       1.0  0.99753  0.99753  0.00000  1.0000
+  O   O1        1.0  0.45000  0.25560  0.19440  1.0000
+  O   O2        1.0  0.94370  0.73791  0.20580  1.0000
+  O   O3        1.0  0.50560  0.81120  0.30560  1.0000
+  O   O4        1.0  0.98791  0.28211  0.29420  1.0000
+  O   O5        1.0  0.98791  0.69370  0.70580  1.0000
+  O   O6        1.0  0.50560  0.20000  0.69440  1.0000
+  O   O7        1.0  0.06120  0.25560  0.80560  1.0000
+  O   O8        1.0  0.53211  0.73791  0.79420  1.0000

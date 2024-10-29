@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Nb8Co2Sb4Pd
+_chemical_formula_sum              "Nb8 Co2 Sb4 Pd1"
+_cell_length_a       4.94191
+_cell_length_b       7.8752
+_cell_length_c       7.8752
+_cell_angle_alpha    95.6498
+_cell_angle_beta     108.286
+_cell_angle_gamma    71.7138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.41478  0.87589  0.71729  1.0000
+  Nb  Nb2       1.0  0.57337  0.12411  0.28271  1.0000
+  Nb  Nb3       1.0  0.92663  0.28271  0.12411  1.0000
+  Nb  Nb4       1.0  0.08522  0.71729  0.87589  1.0000
+  Nb  Nb5       1.0  0.70934  0.71729  0.12411  1.0000
+  Nb  Nb6       1.0  0.30251  0.28271  0.87589  1.0000
+  Nb  Nb7       1.0  0.79066  0.12411  0.71729  1.0000
+  Nb  Nb8       1.0  0.19749  0.87589  0.28271  1.0000
+  Co  Co1       1.0  0.25000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.75000  0.00000  0.00000  1.0000
+  Sb  Sb1       1.0  0.37396  0.50000  0.19611  1.0000
+  Sb  Sb2       1.0  0.67785  0.50000  0.80389  1.0000
+  Sb  Sb3       1.0  0.82215  0.80389  0.50000  1.0000
+  Sb  Sb4       1.0  0.12604  0.19611  0.50000  1.0000
+  Pd  Pd1       1.0  0.25000  0.50000  0.50000  1.0000

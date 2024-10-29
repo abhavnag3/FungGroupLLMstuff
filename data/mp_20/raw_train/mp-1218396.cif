@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr2Al2Si2N6
+_chemical_formula_sum              "Sr2 Al2 Si2 N6"
+_cell_length_a       5.19755
+_cell_length_b       5.74822
+_cell_length_c       5.75487
+_cell_angle_alpha    119.41
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00892  0.68719  0.68861  1.0000
+  Sr  Sr2       1.0  0.50892  0.31282  0.31139  1.0000
+  Al  Al1       1.0  0.52733  0.02534  0.67368  1.0000
+  Al  Al2       1.0  0.02734  0.97466  0.32632  1.0000
+  Si  Si1       1.0  0.52245  0.66958  0.02713  1.0000
+  Si  Si2       1.0  0.02245  0.33042  0.97287  1.0000
+  N   N1        1.0  0.51014  0.78095  0.79827  1.0000
+  N   N2        1.0  0.01014  0.21905  0.20173  1.0000
+  N   N3        1.0  0.87596  0.11839  0.66522  1.0000
+  N   N4        1.0  0.85340  0.63939  0.10299  1.0000
+  N   N5        1.0  0.37596  0.88161  0.33478  1.0000
+  N   N6        1.0  0.35340  0.36061  0.89701  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Cd4
+_chemical_formula_sum              "Eu2 Cd4"
+_cell_length_a       6.32781
+_cell_length_b       6.32781
+_cell_length_c       6.32781
+_cell_angle_alpha    132.388
+_cell_angle_beta     102.724
+_cell_angle_gamma    96.0619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.70109  0.95109  0.75000  1.0000
+  Eu  Eu2       1.0  0.29891  0.04891  0.25000  1.0000
+  Cd  Cd1       1.0  0.72105  0.66499  0.05606  1.0000
+  Cd  Cd2       1.0  0.89106  0.33501  0.55606  1.0000
+  Cd  Cd3       1.0  0.27895  0.33501  0.94394  1.0000
+  Cd  Cd4       1.0  0.10894  0.66499  0.44394  1.0000

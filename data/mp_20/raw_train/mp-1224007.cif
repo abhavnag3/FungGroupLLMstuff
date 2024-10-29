@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K2NaMoO3F3
+_chemical_formula_sum              "K2 Na1 Mo1 O3 F3"
+_cell_length_a       6.11213
+_cell_length_b       6.05255
+_cell_length_c       6.01513
+_cell_angle_alpha    60.8594
+_cell_angle_beta     59.8728
+_cell_angle_gamma    59.2678
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.75934  0.75934  0.74066  1.0000
+  K   K2        1.0  0.25934  0.25934  0.24066  1.0000
+  Na  Na1       1.0  0.50348  0.50348  0.49652  1.0000
+  Mo  Mo1       1.0  0.02084  0.02084  0.97916  1.0000
+  O   O1        1.0  0.19519  0.76716  0.80481  1.0000
+  O   O2        1.0  0.22546  0.22546  0.77454  1.0000
+  O   O3        1.0  0.76716  0.19519  0.23283  1.0000
+  F   F1        1.0  0.23822  0.76728  0.23272  1.0000
+  F   F2        1.0  0.76368  0.76368  0.23632  1.0000
+  F   F3        1.0  0.76728  0.23822  0.76178  1.0000

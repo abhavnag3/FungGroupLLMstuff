@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       KNaTi4Bi2O12
+_chemical_formula_sum              "K1 Na1 Ti4 Bi2 O12"
+_cell_length_a       5.76605
+_cell_length_b       5.76605
+_cell_length_c       7.77402
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    95.1583
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.98493  0.01507  0.50000  1.0000
+  Na  Na1       1.0  0.46745  0.53255  0.00000  1.0000
+  Ti  Ti1       1.0  0.97758  0.52243  0.75259  1.0000
+  Ti  Ti2       1.0  0.47757  0.02242  0.75259  1.0000
+  Ti  Ti3       1.0  0.97758  0.52243  0.24741  1.0000
+  Ti  Ti4       1.0  0.47757  0.02242  0.24741  1.0000
+  Bi  Bi1       1.0  0.93093  0.06907  0.00000  1.0000
+  Bi  Bi2       1.0  0.42800  0.57200  0.50000  1.0000
+  O   O1        1.0  0.27584  0.72416  0.74348  1.0000
+  O   O2        1.0  0.77209  0.22790  0.76277  1.0000
+  O   O3        1.0  0.27584  0.72416  0.25652  1.0000
+  O   O4        1.0  0.77209  0.22790  0.23723  1.0000
+  O   O5        1.0  0.02204  0.46737  0.00000  1.0000
+  O   O6        1.0  0.53263  0.97796  0.00000  1.0000
+  O   O7        1.0  0.03329  0.49027  0.50000  1.0000
+  O   O8        1.0  0.50974  0.96671  0.50000  1.0000
+  O   O9        1.0  0.77075  0.72732  0.75517  1.0000
+  O   O10       1.0  0.27268  0.22925  0.75517  1.0000
+  O   O11       1.0  0.77075  0.72732  0.24483  1.0000
+  O   O12       1.0  0.27268  0.22925  0.24483  1.0000

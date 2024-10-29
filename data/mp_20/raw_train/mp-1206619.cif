@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Dy7Te2Pt2
+_chemical_formula_sum              "Dy7 Te2 Pt2"
+_cell_length_a       9.43836
+_cell_length_b       9.43836
+_cell_length_c       9.43836
+_cell_angle_alpha    155.781
+_cell_angle_beta     118.413
+_cell_angle_gamma    67.1816
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.54553  0.12929  0.41624  1.0000
+  Dy  Dy2       1.0  0.28696  0.87071  0.41624  1.0000
+  Dy  Dy3       1.0  0.93915  0.31607  0.62308  1.0000
+  Dy  Dy4       1.0  0.30701  0.68393  0.62308  1.0000
+  Dy  Dy5       1.0  0.62423  0.35668  0.26755  1.0000
+  Dy  Dy6       1.0  0.91087  0.64332  0.26755  1.0000
+  Dy  Dy7       1.0  0.00020  0.00000  0.00020  1.0000
+  Te  Te1       1.0  0.26155  0.50000  0.76155  1.0000
+  Te  Te2       1.0  0.66283  0.00000  0.66283  1.0000
+  Pt  Pt1       1.0  0.16399  0.23772  0.92627  1.0000
+  Pt  Pt2       1.0  0.68854  0.76228  0.92627  1.0000

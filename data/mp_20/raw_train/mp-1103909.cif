@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mn2Se2O10
+_chemical_formula_sum              "Mn2 Se2 O10"
+_cell_length_a       5.48502
+_cell_length_b       5.48502
+_cell_length_c       7.58179
+_cell_angle_alpha    70.3995
+_cell_angle_beta     109.601
+_cell_angle_gamma    78.0454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Mn  Mn2       1.0  0.50000  0.00000  0.00000  1.0000
+  Se  Se1       1.0  0.92132  0.92132  0.75000  1.0000
+  Se  Se2       1.0  0.07868  0.07868  0.25000  1.0000
+  O   O1        1.0  0.26747  0.79077  0.89146  1.0000
+  O   O2        1.0  0.79077  0.26747  0.60854  1.0000
+  O   O3        1.0  0.73254  0.20923  0.10854  1.0000
+  O   O4        1.0  0.20923  0.73253  0.39147  1.0000
+  O   O5        1.0  0.82381  0.78433  0.58189  1.0000
+  O   O6        1.0  0.78433  0.82381  0.91811  1.0000
+  O   O7        1.0  0.17618  0.21567  0.41811  1.0000
+  O   O8        1.0  0.21567  0.17619  0.08189  1.0000
+  O   O9        1.0  0.31617  0.31617  0.75000  1.0000
+  O   O10       1.0  0.68383  0.68383  0.25000  1.0000

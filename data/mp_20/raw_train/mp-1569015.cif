@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn2Ni2Ge4O12
+_chemical_formula_sum              "Zn2 Ni2 Ge4 O12"
+_cell_length_a       5.25631
+_cell_length_b       6.71039
+_cell_length_c       6.70956
+_cell_angle_alpha    85.6772
+_cell_angle_beta     80.2655
+_cell_angle_gamma    80.2534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.74987  0.26272  0.73697  1.0000
+  Zn  Zn2       1.0  0.25011  0.73715  0.26276  1.0000
+  Ni  Ni1       1.0  0.24966  0.09289  0.90746  1.0000
+  Ni  Ni2       1.0  0.75012  0.90736  0.09303  1.0000
+  Ge  Ge1       1.0  0.77910  0.39254  0.20667  1.0000
+  Ge  Ge2       1.0  0.72082  0.79324  0.60750  1.0000
+  Ge  Ge3       1.0  0.22075  0.60748  0.79320  1.0000
+  Ge  Ge4       1.0  0.27911  0.20668  0.39252  1.0000
+  O   O1        1.0  0.57747  0.29288  0.42547  1.0000
+  O   O2        1.0  0.92247  0.57452  0.70707  1.0000
+  O   O3        1.0  0.42256  0.70710  0.57448  1.0000
+  O   O4        1.0  0.07747  0.42543  0.29291  1.0000
+  O   O5        1.0  0.11588  0.13676  0.62889  1.0000
+  O   O6        1.0  0.38419  0.37138  0.86313  1.0000
+  O   O7        1.0  0.88440  0.86320  0.37133  1.0000
+  O   O8        1.0  0.61604  0.62879  0.13677  1.0000
+  O   O9        1.0  0.86748  0.20172  0.02780  1.0000
+  O   O10       1.0  0.63238  0.97198  0.79831  1.0000
+  O   O11       1.0  0.13248  0.79833  0.97196  1.0000
+  O   O12       1.0  0.36765  0.02785  0.20179  1.0000

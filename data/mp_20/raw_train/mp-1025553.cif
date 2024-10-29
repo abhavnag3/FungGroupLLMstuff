@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Eu2Si4Ni2
+_chemical_formula_sum              "Eu2 Si4 Ni2"
+_cell_length_a       8.55806
+_cell_length_b       8.55806
+_cell_length_c       4.03478
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.807
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.60702  0.39298  0.25000  1.0000
+  Eu  Eu2       1.0  0.39298  0.60702  0.75000  1.0000
+  Si  Si1       1.0  0.95858  0.04142  0.25000  1.0000
+  Si  Si2       1.0  0.04142  0.95858  0.75000  1.0000
+  Si  Si3       1.0  0.25051  0.74949  0.25000  1.0000
+  Si  Si4       1.0  0.74949  0.25051  0.75000  1.0000
+  Ni  Ni1       1.0  0.81944  0.18056  0.25000  1.0000
+  Ni  Ni2       1.0  0.18056  0.81944  0.75000  1.0000

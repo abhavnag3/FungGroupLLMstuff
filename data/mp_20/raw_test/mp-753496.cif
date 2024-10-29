@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li2Co2Sn2O8
+_chemical_formula_sum              "Li2 Co2 Sn2 O8"
+_cell_length_a       6.14553
+_cell_length_b       6.14553
+_cell_length_c       6.14553
+_cell_angle_alpha    121.362
+_cell_angle_beta     118.584
+_cell_angle_gamma    90.0631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.12568  0.87568  0.25000  1.0000
+  Li  Li2       1.0  0.87432  0.12432  0.75000  1.0000
+  Co  Co1       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.00000  1.0000
+  Sn  Sn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn2       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.72735  0.25990  0.46745  1.0000
+  O   O2        1.0  0.29245  0.25990  0.03255  1.0000
+  O   O3        1.0  0.73981  0.25819  0.01838  1.0000
+  O   O4        1.0  0.73981  0.72143  0.48162  1.0000
+  O   O5        1.0  0.26019  0.27857  0.51838  1.0000
+  O   O6        1.0  0.26019  0.74181  0.98162  1.0000
+  O   O7        1.0  0.70755  0.74010  0.96745  1.0000
+  O   O8        1.0  0.27265  0.74010  0.53255  1.0000

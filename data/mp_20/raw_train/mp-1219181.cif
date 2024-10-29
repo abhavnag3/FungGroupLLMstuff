@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Si3Pd
+_chemical_formula_sum              "Sm2 Si3 Pd1"
+_cell_length_a       7.76448
+_cell_length_b       7.76448
+_cell_length_c       7.76448
+_cell_angle_alpha    150.189
+_cell_angle_beta     148.356
+_cell_angle_gamma    44.0285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.13151  0.13151  0.00000  1.0000
+  Sm  Sm2       1.0  0.36911  0.86911  0.50000  1.0000
+  Si  Si1       1.0  0.70392  0.70392  0.00000  1.0000
+  Si  Si2       1.0  0.54026  0.54026  0.00000  1.0000
+  Si  Si3       1.0  0.79498  0.29498  0.50000  1.0000
+  Pd  Pd1       1.0  0.96022  0.46022  0.50000  1.0000

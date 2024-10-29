@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K6Fe2O6
+_chemical_formula_sum              "K6 Fe2 O6"
+_cell_length_a       6.74441
+_cell_length_b       6.74441
+_cell_length_c       6.61109
+_cell_angle_alpha    84.0823
+_cell_angle_beta     84.0823
+_cell_angle_gamma    115.415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.62765  0.62765  0.64615  1.0000
+  K   K2        1.0  0.19586  0.80414  0.50000  1.0000
+  K   K3        1.0  0.80414  0.19586  0.50000  1.0000
+  K   K4        1.0  0.25956  0.74043  0.00000  1.0000
+  K   K5        1.0  0.37235  0.37235  0.35385  1.0000
+  K   K6        1.0  0.74044  0.25956  0.00000  1.0000
+  Fe  Fe1       1.0  0.82832  0.82832  0.14448  1.0000
+  Fe  Fe2       1.0  0.17168  0.17168  0.85552  1.0000
+  O   O1        1.0  0.83877  0.56814  0.26358  1.0000
+  O   O2        1.0  0.90069  0.90069  0.83867  1.0000
+  O   O3        1.0  0.09931  0.09931  0.16133  1.0000
+  O   O4        1.0  0.16123  0.43186  0.73642  1.0000
+  O   O5        1.0  0.43186  0.16123  0.73642  1.0000
+  O   O6        1.0  0.56814  0.83877  0.26358  1.0000

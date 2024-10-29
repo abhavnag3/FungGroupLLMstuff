@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs6Na2Pb8
+_chemical_formula_sum              "Cs6 Na2 Pb8"
+_cell_length_a       9.63193
+_cell_length_b       9.63193
+_cell_length_c       11.3619
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    134.891
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.61202  0.38798  0.55418  1.0000
+  Cs  Cs2       1.0  0.61202  0.38798  0.94582  1.0000
+  Cs  Cs3       1.0  0.38798  0.61202  0.44582  1.0000
+  Cs  Cs4       1.0  0.38798  0.61202  0.05418  1.0000
+  Cs  Cs5       1.0  0.76729  0.23271  0.25000  1.0000
+  Cs  Cs6       1.0  0.23271  0.76729  0.75000  1.0000
+  Na  Na1       1.0  0.00000  0.00000  0.50000  1.0000
+  Na  Na2       1.0  0.00000  0.00000  0.00000  1.0000
+  Pb  Pb1       1.0  0.27290  0.17728  0.25000  1.0000
+  Pb  Pb2       1.0  0.82772  0.17228  0.88553  1.0000
+  Pb  Pb3       1.0  0.82772  0.17228  0.61447  1.0000
+  Pb  Pb4       1.0  0.17728  0.27290  0.75000  1.0000
+  Pb  Pb5       1.0  0.72710  0.82272  0.75000  1.0000
+  Pb  Pb6       1.0  0.17228  0.82772  0.38553  1.0000
+  Pb  Pb7       1.0  0.82272  0.72710  0.25000  1.0000
+  Pb  Pb8       1.0  0.17228  0.82772  0.11447  1.0000

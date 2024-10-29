@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Si4Cl8
+_chemical_formula_sum              "Si4 Cl8"
+_cell_length_a       4.02709
+_cell_length_b       7.1894
+_cell_length_c       13.7962
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.47549  0.33623  0.51075  1.0000
+  Si  Si2       1.0  0.97549  0.16377  0.48925  1.0000
+  Si  Si3       1.0  0.52451  0.83623  0.98925  1.0000
+  Si  Si4       1.0  0.02451  0.66377  0.01075  1.0000
+  Cl  Cl1       1.0  0.47339  0.55104  0.41177  1.0000
+  Cl  Cl2       1.0  0.97339  0.94896  0.58823  1.0000
+  Cl  Cl3       1.0  0.52661  0.05104  0.08823  1.0000
+  Cl  Cl4       1.0  0.02661  0.44896  0.91177  1.0000
+  Cl  Cl5       1.0  0.47371  0.44242  0.64967  1.0000
+  Cl  Cl6       1.0  0.97371  0.05758  0.35033  1.0000
+  Cl  Cl7       1.0  0.52629  0.94242  0.85033  1.0000
+  Cl  Cl8       1.0  0.02629  0.55758  0.14967  1.0000

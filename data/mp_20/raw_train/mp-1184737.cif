@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ho8Re4C8
+_chemical_formula_sum              "Ho8 Re4 C8"
+_cell_length_a       5.0991
+_cell_length_b       6.55957
+_cell_length_c       9.81676
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.46734  0.78364  1.0000
+  Ho  Ho2       1.0  0.75000  0.03266  0.28364  1.0000
+  Ho  Ho3       1.0  0.25000  0.96734  0.71636  1.0000
+  Ho  Ho4       1.0  0.75000  0.53266  0.21636  1.0000
+  Ho  Ho5       1.0  0.25000  0.82085  0.05641  1.0000
+  Ho  Ho6       1.0  0.75000  0.67915  0.55641  1.0000
+  Ho  Ho7       1.0  0.25000  0.32085  0.44359  1.0000
+  Ho  Ho8       1.0  0.75000  0.17915  0.94359  1.0000
+  Re  Re1       1.0  0.25000  0.28014  0.13294  1.0000
+  Re  Re2       1.0  0.75000  0.21986  0.63294  1.0000
+  Re  Re3       1.0  0.25000  0.78014  0.36706  1.0000
+  Re  Re4       1.0  0.75000  0.71986  0.86706  1.0000
+  C   C1        1.0  0.25000  0.17573  0.94855  1.0000
+  C   C2        1.0  0.75000  0.82427  0.05145  1.0000
+  C   C3        1.0  0.25000  0.67573  0.55145  1.0000
+  C   C4        1.0  0.75000  0.32427  0.44855  1.0000
+  C   C5        1.0  0.25000  0.04696  0.25905  1.0000
+  C   C6        1.0  0.75000  0.45304  0.75905  1.0000
+  C   C7        1.0  0.25000  0.54696  0.24095  1.0000
+  C   C8        1.0  0.75000  0.95304  0.74095  1.0000

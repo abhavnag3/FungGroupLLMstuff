@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li2Cr4S8
+_chemical_formula_sum              "Li2 Cr4 S8"
+_cell_length_a       6.97329
+_cell_length_b       6.97329
+_cell_length_c       6.97329
+_cell_angle_alpha    120.34
+_cell_angle_beta     119.547
+_cell_angle_gamma    90.0989
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50000  0.00000  0.50000  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr2       1.0  0.50000  0.50000  0.00000  1.0000
+  Cr  Cr3       1.0  0.50000  0.00000  0.00000  1.0000
+  Cr  Cr4       1.0  0.00000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.74375  0.25836  0.48539  1.0000
+  S   S2        1.0  0.74396  0.72886  0.48491  1.0000
+  S   S3        1.0  0.27297  0.25836  0.01461  1.0000
+  S   S4        1.0  0.25604  0.74095  0.98491  1.0000
+  S   S5        1.0  0.72703  0.74164  0.98539  1.0000
+  S   S6        1.0  0.25604  0.27114  0.51509  1.0000
+  S   S7        1.0  0.74396  0.25905  0.01509  1.0000
+  S   S8        1.0  0.25625  0.74164  0.51461  1.0000

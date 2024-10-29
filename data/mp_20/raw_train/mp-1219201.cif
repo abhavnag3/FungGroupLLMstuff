@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Sm2Co16Ag
+_chemical_formula_sum              "Sm2 Co16 Ag1"
+_cell_length_a       6.35946
+_cell_length_b       6.35946
+_cell_length_c       6.35946
+_cell_angle_alpha    83.5676
+_cell_angle_beta     83.5676
+_cell_angle_gamma    83.5676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.65228  0.65228  0.65228  1.0000
+  Sm  Sm2       1.0  0.34390  0.34390  0.34390  1.0000
+  Co  Co1       1.0  0.71125  0.00098  0.28984  1.0000
+  Co  Co2       1.0  0.00098  0.28984  0.71125  1.0000
+  Co  Co3       1.0  0.28984  0.71125  0.00098  1.0000
+  Co  Co4       1.0  0.00098  0.71125  0.28984  1.0000
+  Co  Co5       1.0  0.71125  0.28984  0.00098  1.0000
+  Co  Co6       1.0  0.28984  0.00098  0.71125  1.0000
+  Co  Co7       1.0  0.34425  0.84796  0.34425  1.0000
+  Co  Co8       1.0  0.84796  0.34425  0.34425  1.0000
+  Co  Co9       1.0  0.34425  0.34425  0.84796  1.0000
+  Co  Co10      1.0  0.64947  0.15832  0.64947  1.0000
+  Co  Co11      1.0  0.15832  0.64947  0.64947  1.0000
+  Co  Co12      1.0  0.64947  0.64947  0.15832  1.0000
+  Co  Co13      1.0  0.00616  0.48778  0.00616  1.0000
+  Co  Co14      1.0  0.48778  0.00616  0.00616  1.0000
+  Co  Co15      1.0  0.00616  0.00616  0.48778  1.0000
+  Co  Co16      1.0  0.10805  0.10805  0.10805  1.0000
+  Ag  Ag1       1.0  0.89783  0.89783  0.89783  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr3MnRuO7
+_chemical_formula_sum              "Sr3 Mn1 Ru1 O7"
+_cell_length_a       10.6073
+_cell_length_b       10.6073
+_cell_length_c       10.6073
+_cell_angle_alpha    158.529
+_cell_angle_beta     158.529
+_cell_angle_gamma    30.5484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.68615  0.68615  0.00000  1.0000
+  Sr  Sr2       1.0  0.31897  0.31897  0.00000  1.0000
+  Sr  Sr3       1.0  0.49318  0.49318  0.00000  1.0000
+  Mn  Mn1       1.0  0.89996  0.89996  0.00000  1.0000
+  Ru  Ru1       1.0  0.09685  0.09685  0.00000  1.0000
+  O   O1        1.0  0.80599  0.80599  0.00000  1.0000
+  O   O2        1.0  0.19538  0.19538  0.00000  1.0000
+  O   O3        1.0  0.90420  0.40420  0.50000  1.0000
+  O   O4        1.0  0.40420  0.90420  0.50000  1.0000
+  O   O5        1.0  0.09764  0.59764  0.50000  1.0000
+  O   O6        1.0  0.59764  0.09764  0.50000  1.0000
+  O   O7        1.0  0.99983  0.99983  0.00000  1.0000

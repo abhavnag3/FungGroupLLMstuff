@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Pr6Ga2Co6
+_chemical_formula_sum              "Pr6 Ga2 Co6"
+_cell_length_a       4.15056
+_cell_length_b       5.59543
+_cell_length_c       13.2773
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.77
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.20827  0.41654  0.39448  1.0000
+  Pr  Pr2       1.0  0.79173  0.58346  0.60552  1.0000
+  Pr  Pr3       1.0  0.20827  0.41654  0.10552  1.0000
+  Pr  Pr4       1.0  0.79173  0.58346  0.89448  1.0000
+  Pr  Pr5       1.0  0.49431  0.98861  0.25000  1.0000
+  Pr  Pr6       1.0  0.50570  0.01139  0.75000  1.0000
+  Ga  Ga1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ga  Ga2       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.91966  0.83931  0.40702  1.0000
+  Co  Co2       1.0  0.08034  0.16069  0.59298  1.0000
+  Co  Co3       1.0  0.91966  0.83931  0.09298  1.0000
+  Co  Co4       1.0  0.08034  0.16069  0.90702  1.0000
+  Co  Co5       1.0  0.80067  0.60135  0.25000  1.0000
+  Co  Co6       1.0  0.19933  0.39865  0.75000  1.0000

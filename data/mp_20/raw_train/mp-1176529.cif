@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn6Te2O12
+_chemical_formula_sum              "Mn6 Te2 O12"
+_cell_length_a       5.36581
+_cell_length_b       5.51958
+_cell_length_c       7.94738
+_cell_angle_alpha    90.0595
+_cell_angle_beta     90.3564
+_cell_angle_gamma    90.0009
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.99942  0.99899  0.50021  1.0000
+  Mn  Mn2       1.0  0.50033  0.50074  0.99784  1.0000
+  Mn  Mn3       1.0  0.98835  0.45275  0.26142  1.0000
+  Mn  Mn4       1.0  0.01257  0.54673  0.73692  1.0000
+  Mn  Mn5       1.0  0.48774  0.04578  0.76174  1.0000
+  Mn  Mn6       1.0  0.51247  0.95332  0.23638  1.0000
+  Te  Te1       1.0  0.99991  0.00096  0.00045  1.0000
+  Te  Te2       1.0  0.49991  0.49906  0.49967  1.0000
+  O   O1        1.0  0.12793  0.07963  0.22774  1.0000
+  O   O2        1.0  0.37276  0.57960  0.27265  1.0000
+  O   O3        1.0  0.62714  0.41990  0.72734  1.0000
+  O   O4        1.0  0.87214  0.92076  0.77332  1.0000
+  O   O5        1.0  0.16870  0.29172  0.91538  1.0000
+  O   O6        1.0  0.32999  0.78900  0.58594  1.0000
+  O   O7        1.0  0.66922  0.20834  0.41490  1.0000
+  O   O8        1.0  0.82959  0.71150  0.08597  1.0000
+  O   O9        1.0  0.19659  0.32048  0.55151  1.0000
+  O   O10       1.0  0.30362  0.82291  0.94858  1.0000
+  O   O11       1.0  0.69792  0.18102  0.05305  1.0000
+  O   O12       1.0  0.80371  0.67682  0.44899  1.0000

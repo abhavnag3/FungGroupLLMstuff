@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       K2CoH2S2O10
+_chemical_formula_sum              "K2 Co1 H2 S2 O10"
+_cell_length_a       5.27282
+_cell_length_b       6.61286
+_cell_length_c       7.40969
+_cell_angle_alpha    107.579
+_cell_angle_beta     96.3072
+_cell_angle_gamma    104.047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.29741  0.67749  0.27349  1.0000
+  K   K2        1.0  0.70259  0.32251  0.72651  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  H   H1        1.0  0.89775  0.03889  0.29842  1.0000
+  H   H2        1.0  0.10225  0.96111  0.70158  1.0000
+  S   S1        1.0  0.64706  0.28870  0.21715  1.0000
+  S   S2        1.0  0.35294  0.71130  0.78285  1.0000
+  O   O1        1.0  0.02628  0.96977  0.23125  1.0000
+  O   O2        1.0  0.97372  0.03023  0.76875  1.0000
+  O   O3        1.0  0.85499  0.25381  0.08659  1.0000
+  O   O4        1.0  0.14501  0.74619  0.91341  1.0000
+  O   O5        1.0  0.26038  0.47770  0.65893  1.0000
+  O   O6        1.0  0.73962  0.52230  0.34107  1.0000
+  O   O7        1.0  0.38897  0.24443  0.08550  1.0000
+  O   O8        1.0  0.61103  0.75557  0.91449  1.0000
+  O   O9        1.0  0.63231  0.13527  0.32842  1.0000
+  O   O10       1.0  0.36769  0.86473  0.67158  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       LiAlSi2O6
+_chemical_formula_sum              "Li1 Al1 Si2 O6"
+_cell_length_a       5.30046
+_cell_length_b       5.27045
+_cell_length_c       5.54064
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    59.8115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.66667  1.0000
+  Al  Al1       1.0  0.50000  0.00000  0.66667  1.0000
+  Si  Si1       1.0  0.00000  0.50000  0.99932  1.0000
+  Si  Si2       1.0  0.50000  0.50000  0.33402  1.0000
+  O   O1        1.0  0.22722  0.54556  0.16667  1.0000
+  O   O2        1.0  0.61539  0.20820  0.50138  1.0000
+  O   O3        1.0  0.17640  0.20820  0.83195  1.0000
+  O   O4        1.0  0.77278  0.45444  0.16667  1.0000
+  O   O5        1.0  0.38461  0.79180  0.50138  1.0000
+  O   O6        1.0  0.82360  0.79180  0.83195  1.0000

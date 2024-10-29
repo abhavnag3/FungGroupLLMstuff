@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Be2Al2Si2N6
+_chemical_formula_sum              "Be2 Al2 Si2 N6"
+_cell_length_a       5.14682
+_cell_length_b       5.14682
+_cell_length_c       5.63306
+_cell_angle_alpha    62.9466
+_cell_angle_beta     62.9466
+_cell_angle_gamma    59.9885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.83030  0.66220  0.50673  1.0000
+  Be  Be2       1.0  0.66220  0.83030  0.00673  1.0000
+  Al  Al1       1.0  0.50325  0.33624  0.49225  1.0000
+  Al  Al2       1.0  0.33624  0.50325  0.99225  1.0000
+  Si  Si1       1.0  0.17181  0.00256  0.49122  1.0000
+  Si  Si2       1.0  0.00256  0.17181  0.99122  1.0000
+  N   N1        1.0  0.72253  0.53676  0.88565  1.0000
+  N   N2        1.0  0.02829  0.89659  0.86534  1.0000
+  N   N3        1.0  0.37124  0.18824  0.88381  1.0000
+  N   N4        1.0  0.89659  0.02829  0.36534  1.0000
+  N   N5        1.0  0.18824  0.37124  0.38381  1.0000
+  N   N6        1.0  0.53676  0.72253  0.38565  1.0000

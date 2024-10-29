@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb4Zn4Pt4
+_chemical_formula_sum              "Yb4 Zn4 Pt4"
+_cell_length_a       4.18253
+_cell_length_b       7.09409
+_cell_length_c       7.92694
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.75000  0.47623  0.81353  1.0000
+  Yb  Yb2       1.0  0.25000  0.02377  0.31353  1.0000
+  Yb  Yb3       1.0  0.75000  0.97623  0.68647  1.0000
+  Yb  Yb4       1.0  0.25000  0.52377  0.18647  1.0000
+  Zn  Zn1       1.0  0.25000  0.65002  0.57252  1.0000
+  Zn  Zn2       1.0  0.25000  0.15002  0.92748  1.0000
+  Zn  Zn3       1.0  0.75000  0.34998  0.42748  1.0000
+  Zn  Zn4       1.0  0.75000  0.84998  0.07252  1.0000
+  Pt  Pt1       1.0  0.25000  0.77399  0.88467  1.0000
+  Pt  Pt2       1.0  0.25000  0.27399  0.61533  1.0000
+  Pt  Pt3       1.0  0.75000  0.72601  0.38467  1.0000
+  Pt  Pt4       1.0  0.75000  0.22601  0.11533  1.0000

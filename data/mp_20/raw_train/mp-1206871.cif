@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sm2GaNi2
+_chemical_formula_sum              "Sm2 Ga1 Ni2"
+_cell_length_a       4.27923
+_cell_length_b       5.38552
+_cell_length_c       5.45065
+_cell_angle_alpha    119.606
+_cell_angle_beta     113.113
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.79920  0.29920  0.59840  1.0000
+  Sm  Sm2       1.0  0.20080  0.70080  0.40159  1.0000
+  Ga  Ga1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.50000  0.26378  0.00000  1.0000
+  Ni  Ni2       1.0  0.50000  0.73622  0.00000  1.0000

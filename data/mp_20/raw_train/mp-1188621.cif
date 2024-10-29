@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Eu6Nb2O12
+_chemical_formula_sum              "Eu6 Nb2 O12"
+_cell_length_a       5.80791
+_cell_length_b       6.05302
+_cell_length_c       10.1789
+_cell_angle_alpha    90
+_cell_angle_beta     124.693
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.23706  0.44464  0.75256  1.0000
+  Eu  Eu2       1.0  0.23706  0.05536  0.25256  1.0000
+  Eu  Eu3       1.0  0.76294  0.55536  0.24744  1.0000
+  Eu  Eu4       1.0  0.76294  0.94464  0.74744  1.0000
+  Eu  Eu5       1.0  0.50000  0.50000  0.50000  1.0000
+  Eu  Eu6       1.0  0.50000  0.00000  0.00000  1.0000
+  Nb  Nb1       1.0  0.00000  0.50000  0.00000  1.0000
+  Nb  Nb2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.34490  0.05247  0.72695  1.0000
+  O   O2        1.0  0.34490  0.44753  0.22695  1.0000
+  O   O3        1.0  0.65510  0.94753  0.27305  1.0000
+  O   O4        1.0  0.65510  0.55247  0.77305  1.0000
+  O   O5        1.0  0.77215  0.17707  0.55607  1.0000
+  O   O6        1.0  0.77215  0.32293  0.05607  1.0000
+  O   O7        1.0  0.22785  0.82293  0.44393  1.0000
+  O   O8        1.0  0.22785  0.67707  0.94393  1.0000
+  O   O9        1.0  0.10024  0.21925  0.93104  1.0000
+  O   O10       1.0  0.10024  0.28075  0.43104  1.0000
+  O   O11       1.0  0.89976  0.78075  0.06896  1.0000
+  O   O12       1.0  0.89976  0.71925  0.56896  1.0000

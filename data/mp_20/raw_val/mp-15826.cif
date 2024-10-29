@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Lu4Co6Si10
+_chemical_formula_sum              "Lu4 Co6 Si10"
+_cell_length_a       7.77435
+_cell_length_b       7.77435
+_cell_length_c       5.42931
+_cell_angle_alpha    71.0634
+_cell_angle_beta     71.0634
+_cell_angle_gamma    93.6994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.12979  0.40560  0.73547  1.0000
+  Lu  Lu2       1.0  0.59440  0.87021  0.76453  1.0000
+  Lu  Lu3       1.0  0.87021  0.59440  0.26453  1.0000
+  Lu  Lu4       1.0  0.40560  0.12979  0.23547  1.0000
+  Co  Co1       1.0  0.99696  0.00304  0.75000  1.0000
+  Co  Co2       1.0  0.54111  0.26222  0.62603  1.0000
+  Co  Co3       1.0  0.26222  0.54111  0.12603  1.0000
+  Co  Co4       1.0  0.45889  0.73778  0.37397  1.0000
+  Co  Co5       1.0  0.00304  0.99696  0.25000  1.0000
+  Co  Co6       1.0  0.73778  0.45889  0.87397  1.0000
+  Si  Si1       1.0  0.77290  0.22710  0.25000  1.0000
+  Si  Si2       1.0  0.22709  0.77290  0.75000  1.0000
+  Si  Si3       1.0  0.51181  0.48819  0.25000  1.0000
+  Si  Si4       1.0  0.48819  0.51181  0.75000  1.0000
+  Si  Si5       1.0  0.21204  0.78796  0.25000  1.0000
+  Si  Si6       1.0  0.78796  0.21204  0.75000  1.0000
+  Si  Si7       1.0  0.73623  0.93189  0.16691  1.0000
+  Si  Si8       1.0  0.93189  0.73623  0.66691  1.0000
+  Si  Si9       1.0  0.26377  0.06811  0.83309  1.0000
+  Si  Si10      1.0  0.06811  0.26377  0.33309  1.0000

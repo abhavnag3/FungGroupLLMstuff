@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba4Sr2I12
+_chemical_formula_sum              "Ba4 Sr2 I12"
+_cell_length_a       9.32959
+_cell_length_b       9.32959
+_cell_length_c       10.4533
+_cell_angle_alpha    88.8493
+_cell_angle_beta     88.8493
+_cell_angle_gamma    119.998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.28173  0.61056  0.49202  1.0000
+  Ba  Ba2       1.0  0.38944  0.71827  0.00798  1.0000
+  Ba  Ba3       1.0  0.61056  0.28173  0.99202  1.0000
+  Ba  Ba4       1.0  0.71827  0.38944  0.50798  1.0000
+  Sr  Sr1       1.0  0.04763  0.95237  0.25000  1.0000
+  Sr  Sr2       1.0  0.95237  0.04763  0.75000  1.0000
+  I   I1        1.0  0.30829  0.34957  0.14763  1.0000
+  I   I2        1.0  0.98620  0.55744  0.21170  1.0000
+  I   I3        1.0  0.05059  0.80708  0.55185  1.0000
+  I   I4        1.0  0.19292  0.94941  0.94815  1.0000
+  I   I5        1.0  0.44256  0.01380  0.28830  1.0000
+  I   I6        1.0  0.65043  0.69171  0.35237  1.0000
+  I   I7        1.0  0.34957  0.30829  0.64763  1.0000
+  I   I8        1.0  0.55744  0.98620  0.71170  1.0000
+  I   I9        1.0  0.80708  0.05059  0.05185  1.0000
+  I   I10       1.0  0.94941  0.19292  0.44816  1.0000
+  I   I11       1.0  0.01380  0.44256  0.78830  1.0000
+  I   I12       1.0  0.69171  0.65043  0.85237  1.0000

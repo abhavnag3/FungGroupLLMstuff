@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tb12Rh4
+_chemical_formula_sum              "Tb12 Rh4"
+_cell_length_a       6.28761
+_cell_length_b       7.16533
+_cell_length_c       9.56479
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.33054  0.67780  0.06334  1.0000
+  Tb  Tb2       1.0  0.16946  0.17780  0.43666  1.0000
+  Tb  Tb3       1.0  0.66946  0.32220  0.56334  1.0000
+  Tb  Tb4       1.0  0.83054  0.82220  0.93666  1.0000
+  Tb  Tb5       1.0  0.66946  0.32220  0.93666  1.0000
+  Tb  Tb6       1.0  0.83054  0.82220  0.56334  1.0000
+  Tb  Tb7       1.0  0.33054  0.67780  0.43666  1.0000
+  Tb  Tb8       1.0  0.16946  0.17780  0.06334  1.0000
+  Tb  Tb9       1.0  0.86588  0.53150  0.25000  1.0000
+  Tb  Tb10      1.0  0.63412  0.03150  0.25000  1.0000
+  Tb  Tb11      1.0  0.13412  0.46850  0.75000  1.0000
+  Tb  Tb12      1.0  0.36588  0.96850  0.75000  1.0000
+  Rh  Rh1       1.0  0.06171  0.88181  0.25000  1.0000
+  Rh  Rh2       1.0  0.43829  0.38181  0.25000  1.0000
+  Rh  Rh3       1.0  0.93829  0.11819  0.75000  1.0000
+  Rh  Rh4       1.0  0.56171  0.61819  0.75000  1.0000

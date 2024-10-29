@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Zr4ScNi5Sn5
+_chemical_formula_sum              "Zr4 Sc1 Ni5 Sn5"
+_cell_length_a       18.0326
+_cell_length_b       18.0326
+_cell_length_c       18.0326
+_cell_angle_alpha    13.9517
+_cell_angle_beta     13.9517
+_cell_angle_gamma    13.9517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.65029  0.65029  0.65029  1.0000
+  Zr  Zr2       1.0  0.25016  0.25016  0.25016  1.0000
+  Zr  Zr3       1.0  0.85006  0.85006  0.85006  1.0000
+  Zr  Zr4       1.0  0.45010  0.45010  0.45010  1.0000
+  Sc  Sc1       1.0  0.04970  0.04970  0.04970  1.0000
+  Ni  Ni1       1.0  0.99960  0.99960  0.99960  1.0000
+  Ni  Ni2       1.0  0.59991  0.59991  0.59991  1.0000
+  Ni  Ni3       1.0  0.20003  0.20003  0.20003  1.0000
+  Ni  Ni4       1.0  0.80005  0.80005  0.80005  1.0000
+  Ni  Ni5       1.0  0.40048  0.40048  0.40048  1.0000
+  Sn  Sn1       1.0  0.35011  0.35011  0.35012  1.0000
+  Sn  Sn2       1.0  0.14996  0.14996  0.14996  1.0000
+  Sn  Sn3       1.0  0.74979  0.74979  0.74979  1.0000
+  Sn  Sn4       1.0  0.94985  0.94985  0.94985  1.0000
+  Sn  Sn5       1.0  0.54991  0.54991  0.54991  1.0000

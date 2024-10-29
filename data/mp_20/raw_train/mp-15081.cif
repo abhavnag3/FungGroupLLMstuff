@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm8Se12
+_chemical_formula_sum              "Sm8 Se12"
+_cell_length_a       4.1296
+_cell_length_b       11.1326
+_cell_length_c       11.4033
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.25000  0.99779  0.69364  1.0000
+  Sm  Sm2       1.0  0.75000  0.00221  0.30636  1.0000
+  Sm  Sm3       1.0  0.75000  0.49779  0.80636  1.0000
+  Sm  Sm4       1.0  0.25000  0.50221  0.19364  1.0000
+  Sm  Sm5       1.0  0.25000  0.31292  0.51168  1.0000
+  Sm  Sm6       1.0  0.75000  0.68708  0.48831  1.0000
+  Sm  Sm7       1.0  0.75000  0.81292  0.98832  1.0000
+  Sm  Sm8       1.0  0.25000  0.18708  0.01168  1.0000
+  Se  Se1       1.0  0.75000  0.05568  0.88005  1.0000
+  Se  Se2       1.0  0.25000  0.94432  0.11995  1.0000
+  Se  Se3       1.0  0.25000  0.55568  0.61995  1.0000
+  Se  Se4       1.0  0.75000  0.44432  0.38005  1.0000
+  Se  Se5       1.0  0.25000  0.87467  0.45521  1.0000
+  Se  Se6       1.0  0.75000  0.12533  0.54479  1.0000
+  Se  Se7       1.0  0.75000  0.37467  0.04479  1.0000
+  Se  Se8       1.0  0.25000  0.62533  0.95521  1.0000
+  Se  Se9       1.0  0.25000  0.30212  0.77221  1.0000
+  Se  Se10      1.0  0.75000  0.69788  0.22779  1.0000
+  Se  Se11      1.0  0.75000  0.80213  0.72779  1.0000
+  Se  Se12      1.0  0.25000  0.19787  0.27221  1.0000

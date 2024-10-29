@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Rb4Cu4Sn2S8
+_chemical_formula_sum              "Rb4 Cu4 Sn2 S8"
+_cell_length_a       9.49033
+_cell_length_b       9.49033
+_cell_length_c       9.49033
+_cell_angle_alpha    146.434
+_cell_angle_beta     103.467
+_cell_angle_gamma    86.2087
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.62433  0.77165  0.39598  1.0000
+  Rb  Rb2       1.0  0.87567  0.27165  0.14731  1.0000
+  Rb  Rb3       1.0  0.12433  0.72835  0.85269  1.0000
+  Rb  Rb4       1.0  0.37567  0.22835  0.60402  1.0000
+  Cu  Cu1       1.0  0.02454  0.75000  0.27454  1.0000
+  Cu  Cu2       1.0  0.47546  0.75000  0.72546  1.0000
+  Cu  Cu3       1.0  0.97546  0.25000  0.72546  1.0000
+  Cu  Cu4       1.0  0.52454  0.25000  0.27454  1.0000
+  Sn  Sn1       1.0  0.75000  0.75000  0.00000  1.0000
+  Sn  Sn2       1.0  0.25000  0.25000  0.00000  1.0000
+  S   S1        1.0  0.71899  0.62155  0.63819  1.0000
+  S   S2        1.0  0.78101  0.41920  0.90256  1.0000
+  S   S3        1.0  0.51664  0.87845  0.09744  1.0000
+  S   S4        1.0  0.98336  0.08080  0.36181  1.0000
+  S   S5        1.0  0.28101  0.37845  0.36181  1.0000
+  S   S6        1.0  0.21899  0.58080  0.09744  1.0000
+  S   S7        1.0  0.01664  0.91920  0.63819  1.0000
+  S   S8        1.0  0.48336  0.12155  0.90256  1.0000

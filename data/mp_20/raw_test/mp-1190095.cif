@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho4Si4Pt8
+_chemical_formula_sum              "Ho4 Si4 Pt8"
+_cell_length_a       5.53161
+_cell_length_b       6.9626
+_cell_length_c       7.33485
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.36070  0.75000  0.02880  1.0000
+  Ho  Ho2       1.0  0.13930  0.75000  0.52880  1.0000
+  Ho  Ho3       1.0  0.63930  0.25000  0.97120  1.0000
+  Ho  Ho4       1.0  0.86070  0.25000  0.47120  1.0000
+  Si  Si1       1.0  0.63926  0.75000  0.37978  1.0000
+  Si  Si2       1.0  0.86074  0.75000  0.87979  1.0000
+  Si  Si3       1.0  0.36074  0.25000  0.62021  1.0000
+  Si  Si4       1.0  0.13925  0.25000  0.12022  1.0000
+  Pt  Pt1       1.0  0.90801  0.55050  0.18135  1.0000
+  Pt  Pt2       1.0  0.59199  0.94950  0.68135  1.0000
+  Pt  Pt3       1.0  0.09199  0.05050  0.81865  1.0000
+  Pt  Pt4       1.0  0.40801  0.44950  0.31865  1.0000
+  Pt  Pt5       1.0  0.09199  0.44950  0.81865  1.0000
+  Pt  Pt6       1.0  0.40801  0.05050  0.31865  1.0000
+  Pt  Pt7       1.0  0.90801  0.94950  0.18135  1.0000
+  Pt  Pt8       1.0  0.59199  0.55050  0.68135  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca4Cd4Pt4
+_chemical_formula_sum              "Ca4 Cd4 Pt4"
+_cell_length_a       4.32547
+_cell_length_b       7.31457
+_cell_length_c       8.63143
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.25000  0.03521  0.32320  1.0000
+  Ca  Ca2       1.0  0.25000  0.53521  0.17680  1.0000
+  Ca  Ca3       1.0  0.75000  0.96479  0.67680  1.0000
+  Ca  Ca4       1.0  0.75000  0.46479  0.82320  1.0000
+  Cd  Cd1       1.0  0.25000  0.14222  0.93658  1.0000
+  Cd  Cd2       1.0  0.25000  0.64223  0.56342  1.0000
+  Cd  Cd3       1.0  0.75000  0.85777  0.06342  1.0000
+  Cd  Cd4       1.0  0.75000  0.35778  0.43658  1.0000
+  Pt  Pt1       1.0  0.25000  0.25819  0.62927  1.0000
+  Pt  Pt2       1.0  0.25000  0.75819  0.87073  1.0000
+  Pt  Pt3       1.0  0.75000  0.74181  0.37073  1.0000
+  Pt  Pt4       1.0  0.75000  0.24181  0.12927  1.0000

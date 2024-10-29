@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na2Y2P2O8F2
+_chemical_formula_sum              "Na2 Y2 P2 O8 F2"
+_cell_length_a       5.716
+_cell_length_b       5.716
+_cell_length_c       6.54622
+_cell_angle_alpha    77.4238
+_cell_angle_beta     77.4238
+_cell_angle_gamma    75.6382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.29311  0.70689  0.50000  1.0000
+  Na  Na2       1.0  0.70689  0.29311  0.50000  1.0000
+  Y   Y1        1.0  0.28234  0.28234  0.11725  1.0000
+  Y   Y2        1.0  0.71766  0.71766  0.88275  1.0000
+  P   P1        1.0  0.15440  0.15440  0.72348  1.0000
+  P   P2        1.0  0.84560  0.84560  0.27652  1.0000
+  O   O1        1.0  0.01719  0.01719  0.27204  1.0000
+  O   O2        1.0  0.98281  0.98281  0.72796  1.0000
+  O   O3        1.0  0.25708  0.25708  0.49191  1.0000
+  O   O4        1.0  0.74292  0.74292  0.50809  1.0000
+  O   O5        1.0  0.02017  0.37055  0.84481  1.0000
+  O   O6        1.0  0.97983  0.62945  0.15519  1.0000
+  O   O7        1.0  0.62945  0.97983  0.15519  1.0000
+  O   O8        1.0  0.37055  0.02017  0.84481  1.0000
+  F   F1        1.0  0.48205  0.48205  0.81021  1.0000
+  F   F2        1.0  0.51795  0.51795  0.18979  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ti5InS8
+_chemical_formula_sum              "Ti5 In1 S8"
+_cell_length_a       9.10582
+_cell_length_b       9.10582
+_cell_length_c       8.86015
+_cell_angle_alpha    76.0261
+_cell_angle_beta     76.0261
+_cell_angle_gamma    21.5834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.79314  0.79314  0.84757  1.0000
+  Ti  Ti2       1.0  0.20753  0.20753  0.15292  1.0000
+  Ti  Ti3       1.0  0.49953  0.49953  0.49886  1.0000
+  Ti  Ti4       1.0  0.16022  0.16021  0.50536  1.0000
+  Ti  Ti5       1.0  0.84113  0.84113  0.49350  1.0000
+  In  In1       1.0  0.01200  0.01200  0.97776  1.0000
+  S   S1        1.0  0.25928  0.25928  0.66567  1.0000
+  S   S2        1.0  0.74098  0.74098  0.33396  1.0000
+  S   S3        1.0  0.92454  0.92454  0.66854  1.0000
+  S   S4        1.0  0.07583  0.07583  0.33128  1.0000
+  S   S5        1.0  0.58754  0.58754  0.67506  1.0000
+  S   S6        1.0  0.41203  0.41203  0.32501  1.0000
+  S   S7        1.0  0.66241  0.66241  0.00094  1.0000
+  S   S8        1.0  0.33710  0.33710  0.99866  1.0000

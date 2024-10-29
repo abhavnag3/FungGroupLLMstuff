@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cs4Mn2O8
+_chemical_formula_sum              "Cs4 Mn2 O8"
+_cell_length_a       6.37524
+_cell_length_b       8.6704
+_cell_length_c       6.63738
+_cell_angle_alpha    90.043
+_cell_angle_beta     61.2008
+_cell_angle_gamma    90.0665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.97087  0.11556  0.05434  1.0000
+  Cs  Cs2       1.0  0.02537  0.61655  0.94880  1.0000
+  Cs  Cs3       1.0  0.34809  0.41295  0.30282  1.0000
+  Cs  Cs4       1.0  0.65507  0.91491  0.69240  1.0000
+  Mn  Mn1       1.0  0.32839  0.90108  0.34426  1.0000
+  Mn  Mn2       1.0  0.67202  0.39872  0.65576  1.0000
+  O   O1        1.0  0.81497  0.41134  0.36839  1.0000
+  O   O2        1.0  0.18299  0.91292  0.63184  1.0000
+  O   O3        1.0  0.38998  0.07401  0.22034  1.0000
+  O   O4        1.0  0.61472  0.57459  0.77011  1.0000
+  O   O5        1.0  0.84138  0.30578  0.74403  1.0000
+  O   O6        1.0  0.58819  0.81127  0.25891  1.0000
+  O   O7        1.0  0.41532  0.30393  0.74405  1.0000
+  O   O8        1.0  0.15263  0.80759  0.26394  1.0000

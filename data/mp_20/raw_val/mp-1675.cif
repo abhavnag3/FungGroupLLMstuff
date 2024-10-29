@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ho6Ge8
+_chemical_formula_sum              "Ho6 Ge8"
+_cell_length_a       5.7029
+_cell_length_b       5.7029
+_cell_length_c       14.2642
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    138.363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.04534  0.95466  0.25000  1.0000
+  Ho  Ho2       1.0  0.95466  0.04534  0.75000  1.0000
+  Ho  Ho3       1.0  0.67041  0.32959  0.59681  1.0000
+  Ho  Ho4       1.0  0.32959  0.67041  0.40320  1.0000
+  Ho  Ho5       1.0  0.32959  0.67041  0.09680  1.0000
+  Ho  Ho6       1.0  0.67041  0.32959  0.90319  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ge  Ge2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge3       1.0  0.77430  0.22570  0.25000  1.0000
+  Ge  Ge4       1.0  0.22570  0.77430  0.75000  1.0000
+  Ge  Ge5       1.0  0.61906  0.38094  0.39160  1.0000
+  Ge  Ge6       1.0  0.38094  0.61906  0.60840  1.0000
+  Ge  Ge7       1.0  0.61906  0.38094  0.10840  1.0000
+  Ge  Ge8       1.0  0.38094  0.61906  0.89160  1.0000

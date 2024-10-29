@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb4P4Ru4
+_chemical_formula_sum              "Nb4 P4 Ru4"
+_cell_length_a       3.75889
+_cell_length_b       6.36344
+_cell_length_c       7.2095
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000  0.02385  0.82689  1.0000
+  Nb  Nb2       1.0  0.25000  0.52385  0.67311  1.0000
+  Nb  Nb3       1.0  0.75000  0.97615  0.17311  1.0000
+  Nb  Nb4       1.0  0.75000  0.47615  0.32689  1.0000
+  P   P1        1.0  0.25000  0.26825  0.12253  1.0000
+  P   P2        1.0  0.25000  0.76825  0.37747  1.0000
+  P   P3        1.0  0.75000  0.73175  0.87747  1.0000
+  P   P4        1.0  0.75000  0.23175  0.62253  1.0000
+  Ru  Ru1       1.0  0.25000  0.14457  0.43688  1.0000
+  Ru  Ru2       1.0  0.25000  0.64457  0.06313  1.0000
+  Ru  Ru3       1.0  0.75000  0.85543  0.56312  1.0000
+  Ru  Ru4       1.0  0.75000  0.35543  0.93688  1.0000

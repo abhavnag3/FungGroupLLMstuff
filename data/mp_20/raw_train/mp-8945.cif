@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y2Sn2F14
+_chemical_formula_sum              "Y2 Sn2 F14"
+_cell_length_a       5.78755
+_cell_length_b       6.04903
+_cell_length_c       8.27261
+_cell_angle_alpha    76.8091
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.75363  0.15426  0.81102  1.0000
+  Y   Y2        1.0  0.25363  0.84574  0.18898  1.0000
+  Sn  Sn1       1.0  0.75995  0.31480  0.27410  1.0000
+  Sn  Sn2       1.0  0.25995  0.68519  0.72590  1.0000
+  F   F1        1.0  0.47165  0.02762  0.98720  1.0000
+  F   F2        1.0  0.97165  0.97238  0.01280  1.0000
+  F   F3        1.0  0.49215  0.43656  0.73597  1.0000
+  F   F4        1.0  0.99215  0.56344  0.26403  1.0000
+  F   F5        1.0  0.75556  0.27219  0.51979  1.0000
+  F   F6        1.0  0.25556  0.72781  0.48021  1.0000
+  F   F7        1.0  0.01674  0.44281  0.74292  1.0000
+  F   F8        1.0  0.51674  0.55719  0.25708  1.0000
+  F   F9        1.0  0.52694  0.90244  0.70514  1.0000
+  F   F10       1.0  0.02694  0.09756  0.29486  1.0000
+  F   F11       1.0  0.52382  0.06814  0.29638  1.0000
+  F   F12       1.0  0.02382  0.93186  0.70362  1.0000
+  F   F13       1.0  0.76146  0.36931  0.02749  1.0000
+  F   F14       1.0  0.26146  0.63069  0.97251  1.0000

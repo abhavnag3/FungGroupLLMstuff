@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li2Yb2F8
+_chemical_formula_sum              "Li2 Yb2 F8"
+_cell_length_a       6.22244
+_cell_length_b       6.22244
+_cell_length_c       6.22244
+_cell_angle_alpha    127.892
+_cell_angle_beta     127.892
+_cell_angle_gamma    76.7994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.75000  0.25000  0.50000  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.00000  1.0000
+  Yb  Yb1       1.0  0.25000  0.75000  0.50000  1.0000
+  Yb  Yb2       1.0  0.50000  0.50000  0.00000  1.0000
+  F   F1        1.0  0.26644  0.81642  0.91715  1.0000
+  F   F2        1.0  0.85073  0.90071  0.41715  1.0000
+  F   F3        1.0  0.09929  0.51644  0.95002  1.0000
+  F   F4        1.0  0.56642  0.14927  0.04998  1.0000
+  F   F5        1.0  0.89927  0.34929  0.08285  1.0000
+  F   F6        1.0  0.18358  0.10073  0.45002  1.0000
+  F   F7        1.0  0.48356  0.43358  0.58285  1.0000
+  F   F8        1.0  0.65071  0.73356  0.54998  1.0000

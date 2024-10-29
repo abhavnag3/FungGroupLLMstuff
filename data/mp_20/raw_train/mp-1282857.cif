@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr4Mn2Ga2O10
+_chemical_formula_sum              "Sr4 Mn2 Ga2 O10"
+_cell_length_a       5.48681
+_cell_length_b       5.53107
+_cell_length_c       9.12673
+_cell_angle_alpha    107.378
+_cell_angle_beta     107.231
+_cell_angle_gamma    90.8194
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.87516  0.40295  0.77662  1.0000
+  Sr  Sr2       1.0  0.12485  0.59706  0.22340  1.0000
+  Sr  Sr3       1.0  0.40153  0.87371  0.77662  1.0000
+  Sr  Sr4       1.0  0.59858  0.12640  0.22340  1.0000
+  Mn  Mn1       1.0  0.00005  0.99997  0.99999  1.0000
+  Mn  Mn2       1.0  0.49986  0.49986  0.99974  1.0000
+  Ga  Ga1       1.0  0.17969  0.18519  0.50004  1.0000
+  Ga  Ga2       1.0  0.82024  0.81480  0.50002  1.0000
+  O   O1        1.0  0.24403  0.24408  0.98808  1.0000
+  O   O2        1.0  0.75598  0.75589  0.01184  1.0000
+  O   O3        1.0  0.25180  0.75174  0.00348  1.0000
+  O   O4        1.0  0.74822  0.24817  0.99645  1.0000
+  O   O5        1.0  0.82397  0.16553  0.50004  1.0000
+  O   O6        1.0  0.17605  0.83456  0.50004  1.0000
+  O   O7        1.0  0.37150  0.38369  0.70729  1.0000
+  O   O8        1.0  0.62849  0.61634  0.29288  1.0000
+  O   O9        1.0  0.83569  0.82354  0.70723  1.0000
+  O   O10       1.0  0.16433  0.17650  0.29285  1.0000

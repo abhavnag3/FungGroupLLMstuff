@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       CaAl2F10
+_chemical_formula_sum              "Ca1 Al2 F10"
+_cell_length_a       5.55159
+_cell_length_b       5.55159
+_cell_length_c       7.26419
+_cell_angle_alpha    69.1458
+_cell_angle_beta     69.1458
+_cell_angle_gamma    71.7231
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.53987  0.46013  0.00000  1.0000
+  Al  Al1       1.0  0.01648  0.96938  0.75182  1.0000
+  Al  Al2       1.0  0.03062  0.98352  0.24818  1.0000
+  F   F1        1.0  0.14429  0.27864  0.62730  1.0000
+  F   F2        1.0  0.72136  0.85571  0.37269  1.0000
+  F   F3        1.0  0.80248  0.75026  0.87789  1.0000
+  F   F4        1.0  0.24974  0.19752  0.12211  1.0000
+  F   F5        1.0  0.94400  0.05600  0.00000  1.0000
+  F   F6        1.0  0.06288  0.93712  0.50000  1.0000
+  F   F7        1.0  0.75260  0.27656  0.70382  1.0000
+  F   F8        1.0  0.72344  0.24740  0.29618  1.0000
+  F   F9        1.0  0.31352  0.75727  0.78192  1.0000
+  F   F10       1.0  0.24273  0.68648  0.21808  1.0000

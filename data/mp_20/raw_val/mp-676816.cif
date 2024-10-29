@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       La2PbF8
+_chemical_formula_sum              "La2 Pb1 F8"
+_cell_length_a       4.12181
+_cell_length_b       5.98086
+_cell_length_c       7.55857
+_cell_angle_alpha    112.944
+_cell_angle_beta     105.818
+_cell_angle_gamma    89.5994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.64351  0.65139  0.32569  1.0000
+  La  La2       1.0  0.33187  0.31619  0.65714  1.0000
+  Pb  Pb1       1.0  0.02523  0.99005  0.01146  1.0000
+  F   F1        1.0  0.05174  0.66649  0.14556  1.0000
+  F   F2        1.0  0.80181  0.56385  0.63023  1.0000
+  F   F3        1.0  0.59741  0.05080  0.33632  1.0000
+  F   F4        1.0  0.49648  0.28387  0.01806  1.0000
+  F   F5        1.0  0.25083  0.87546  0.53712  1.0000
+  F   F6        1.0  0.14172  0.37972  0.34768  1.0000
+  F   F7        1.0  0.87048  0.17338  0.73975  1.0000
+  F   F8        1.0  0.45026  0.71814  0.91765  1.0000

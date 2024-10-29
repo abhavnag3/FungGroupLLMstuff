@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr2TbCu2IrO8
+_chemical_formula_sum              "Sr2 Tb1 Cu2 Ir1 O8"
+_cell_length_a       3.86603
+_cell_length_b       3.86603
+_cell_length_c       11.8517
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.3569
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50222  0.50222  0.19402  1.0000
+  Sr  Sr2       1.0  0.50222  0.50222  0.80598  1.0000
+  Tb  Tb1       1.0  0.49915  0.49915  0.50000  1.0000
+  Cu  Cu1       1.0  0.99908  0.99908  0.35921  1.0000
+  Cu  Cu2       1.0  0.99908  0.99908  0.64079  1.0000
+  Ir  Ir1       1.0  0.98127  0.98127  0.00000  1.0000
+  O   O1        1.0  0.99326  0.99326  0.17106  1.0000
+  O   O2        1.0  0.99326  0.99326  0.82894  1.0000
+  O   O3        1.0  0.49890  0.99895  0.37672  1.0000
+  O   O4        1.0  0.99895  0.49890  0.37672  1.0000
+  O   O5        1.0  0.49890  0.99895  0.62328  1.0000
+  O   O6        1.0  0.99895  0.49890  0.62328  1.0000
+  O   O7        1.0  0.93476  0.47700  0.00000  1.0000
+  O   O8        1.0  0.47700  0.93476  0.00000  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Co2Ni2O6
+_chemical_formula_sum              "Co2 Ni2 O6"
+_cell_length_a       4.88311
+_cell_length_b       5.03164
+_cell_length_c       5.44321
+_cell_angle_alpha    60.5839
+_cell_angle_beta     118.185
+_cell_angle_gamma    120.258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.84800  0.16069  0.53497  1.0000
+  Co  Co2       1.0  0.14895  0.83823  0.47114  1.0000
+  Ni  Ni1       1.0  0.35740  0.64482  0.06736  1.0000
+  Ni  Ni2       1.0  0.64450  0.35418  0.93788  1.0000
+  O   O1        1.0  0.77465  0.94043  0.25261  1.0000
+  O   O2        1.0  0.95455  0.45111  0.74162  1.0000
+  O   O3        1.0  0.55629  0.77255  0.73335  1.0000
+  O   O4        1.0  0.44077  0.22123  0.26353  1.0000
+  O   O5        1.0  0.04981  0.56222  0.27198  1.0000
+  O   O6        1.0  0.22510  0.05454  0.72555  1.0000

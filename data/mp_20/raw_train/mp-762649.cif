@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Na3LiMn5O9
+_chemical_formula_sum              "Na3 Li1 Mn5 O9"
+_cell_length_a       5.3411
+_cell_length_b       5.35129
+_cell_length_c       8.47587
+_cell_angle_alpha    90.0409
+_cell_angle_beta     108.261
+_cell_angle_gamma    118.915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.29807  0.15138  0.47870  1.0000
+  Na  Na2       1.0  0.64263  0.82142  0.48171  1.0000
+  Na  Na3       1.0  0.96739  0.47435  0.47982  1.0000
+  Li  Li1       1.0  0.77136  0.05108  0.16948  1.0000
+  Mn  Mn1       1.0  0.44700  0.39624  0.15405  1.0000
+  Mn  Mn2       1.0  0.10917  0.73414  0.15370  1.0000
+  Mn  Mn3       1.0  0.19898  0.93044  0.81949  1.0000
+  Mn  Mn4       1.0  0.52811  0.60243  0.82014  1.0000
+  Mn  Mn5       1.0  0.86764  0.26999  0.82368  1.0000
+  O   O1        1.0  0.67477  0.39447  0.99323  1.0000
+  O   O2        1.0  0.32296  0.67845  0.96293  1.0000
+  O   O3        1.0  0.83069  0.73686  0.28406  1.0000
+  O   O4        1.0  0.49407  0.07344  0.28409  1.0000
+  O   O5        1.0  0.19866  0.44821  0.26711  1.0000
+  O   O6        1.0  0.43127  0.87658  0.69355  1.0000
+  O   O7        1.0  0.74862  0.55541  0.68779  1.0000
+  O   O8        1.0  0.10988  0.19747  0.68787  1.0000
+  O   O9        1.0  0.04993  0.01788  0.99318  1.0000

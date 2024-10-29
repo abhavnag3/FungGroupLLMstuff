@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tl4Fe4Br12
+_chemical_formula_sum              "Tl4 Fe4 Br12"
+_cell_length_a       3.98479
+_cell_length_b       9.42848
+_cell_length_c       15.3829
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.75000  0.05724  0.67253  1.0000
+  Tl  Tl2       1.0  0.25000  0.94276  0.32747  1.0000
+  Tl  Tl3       1.0  0.75000  0.55724  0.82747  1.0000
+  Tl  Tl4       1.0  0.25000  0.44276  0.17253  1.0000
+  Fe  Fe1       1.0  0.75000  0.34308  0.44644  1.0000
+  Fe  Fe2       1.0  0.25000  0.65692  0.55356  1.0000
+  Fe  Fe3       1.0  0.75000  0.84308  0.05356  1.0000
+  Fe  Fe4       1.0  0.25000  0.15692  0.94644  1.0000
+  Br  Br1       1.0  0.75000  0.31971  0.00220  1.0000
+  Br  Br2       1.0  0.25000  0.68029  0.99780  1.0000
+  Br  Br3       1.0  0.75000  0.81971  0.49780  1.0000
+  Br  Br4       1.0  0.25000  0.18029  0.50220  1.0000
+  Br  Br5       1.0  0.75000  0.22772  0.29689  1.0000
+  Br  Br6       1.0  0.25000  0.77228  0.70311  1.0000
+  Br  Br7       1.0  0.75000  0.72772  0.20311  1.0000
+  Br  Br8       1.0  0.25000  0.27228  0.79689  1.0000
+  Br  Br9       1.0  0.75000  0.47849  0.59813  1.0000
+  Br  Br10      1.0  0.25000  0.52151  0.40187  1.0000
+  Br  Br11      1.0  0.75000  0.97849  0.90187  1.0000
+  Br  Br12      1.0  0.25000  0.02151  0.09813  1.0000

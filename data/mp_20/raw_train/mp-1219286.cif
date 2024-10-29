@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ScSbPb2O6
+_chemical_formula_sum              "Sc1 Sb1 Pb2 O6"
+_cell_length_a       5.79142
+_cell_length_b       5.79142
+_cell_length_c       5.79142
+_cell_angle_alpha    120.137
+_cell_angle_beta     119.815
+_cell_angle_gamma    90.0422
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.98959  1.00000  0.98959  1.0000
+  Sb  Sb1       1.0  0.49573  0.50000  0.99573  1.0000
+  Pb  Pb1       1.0  0.23233  0.75894  0.47340  1.0000
+  Pb  Pb2       1.0  0.71446  0.24107  0.47340  1.0000
+  O   O1        1.0  0.26136  0.24844  0.50979  1.0000
+  O   O2        1.0  0.26136  0.75156  0.01292  1.0000
+  O   O3        1.0  0.74972  0.74386  0.00586  1.0000
+  O   O4        1.0  0.74192  0.74290  0.48482  1.0000
+  O   O5        1.0  0.74192  0.25710  0.99903  1.0000
+  O   O6        1.0  0.26200  0.25614  0.00586  1.0000

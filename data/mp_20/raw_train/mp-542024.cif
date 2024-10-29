@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sc4Ga2B4Rh10
+_chemical_formula_sum              "Sc4 Ga2 B4 Rh10"
+_cell_length_a       9.34748
+_cell_length_b       9.34748
+_cell_length_c       3.08166
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.82515  0.32515  0.00000  1.0000
+  Sc  Sc2       1.0  0.32515  0.17485  0.00000  1.0000
+  Sc  Sc3       1.0  0.67485  0.82515  0.00000  1.0000
+  Sc  Sc4       1.0  0.17485  0.67485  0.00000  1.0000
+  Ga  Ga1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.50000  0.00000  1.0000
+  B   B1        1.0  0.62466  0.12466  0.00000  1.0000
+  B   B2        1.0  0.12466  0.37534  0.00000  1.0000
+  B   B3        1.0  0.87534  0.62466  0.00000  1.0000
+  B   B4        1.0  0.37534  0.87534  0.00000  1.0000
+  Rh  Rh1       1.0  0.07097  0.21657  0.50000  1.0000
+  Rh  Rh2       1.0  0.21657  0.92903  0.50000  1.0000
+  Rh  Rh3       1.0  0.78343  0.07097  0.50000  1.0000
+  Rh  Rh4       1.0  0.92903  0.78343  0.50000  1.0000
+  Rh  Rh5       1.0  0.42903  0.71657  0.50000  1.0000
+  Rh  Rh6       1.0  0.57097  0.28343  0.50000  1.0000
+  Rh  Rh7       1.0  0.71657  0.57097  0.50000  1.0000
+  Rh  Rh8       1.0  0.28343  0.42903  0.50000  1.0000
+  Rh  Rh9       1.0  0.50000  0.00000  0.50000  1.0000
+  Rh  Rh10      1.0  0.00000  0.50000  0.50000  1.0000

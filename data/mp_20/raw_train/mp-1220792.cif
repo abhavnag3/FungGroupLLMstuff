@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2Ho2Ti4O12
+_chemical_formula_sum              "Na2 Ho2 Ti4 O12"
+_cell_length_a       5.31843
+_cell_length_b       5.54303
+_cell_length_c       7.62179
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.49511  0.71558  0.50000  1.0000
+  Na  Na2       1.0  0.99511  0.28442  0.00000  1.0000
+  Ho  Ho1       1.0  0.01791  0.17714  0.50000  1.0000
+  Ho  Ho2       1.0  0.51791  0.82286  0.00000  1.0000
+  Ti  Ti1       1.0  0.51342  0.26625  0.75288  1.0000
+  Ti  Ti2       1.0  0.01342  0.73375  0.25288  1.0000
+  Ti  Ti3       1.0  0.51342  0.26625  0.24712  1.0000
+  Ti  Ti4       1.0  0.01342  0.73375  0.74712  1.0000
+  O   O1        1.0  0.18925  0.44289  0.69637  1.0000
+  O   O2        1.0  0.27758  0.96356  0.29096  1.0000
+  O   O3        1.0  0.77758  0.03644  0.20905  1.0000
+  O   O4        1.0  0.68925  0.55711  0.80363  1.0000
+  O   O5        1.0  0.77758  0.03644  0.79095  1.0000
+  O   O6        1.0  0.68925  0.55711  0.19637  1.0000
+  O   O7        1.0  0.18925  0.44289  0.30363  1.0000
+  O   O8        1.0  0.27758  0.96356  0.70905  1.0000
+  O   O9        1.0  0.92149  0.77396  0.50000  1.0000
+  O   O10       1.0  0.60497  0.27702  0.50000  1.0000
+  O   O11       1.0  0.10497  0.72298  0.00000  1.0000
+  O   O12       1.0  0.42149  0.22604  0.00000  1.0000

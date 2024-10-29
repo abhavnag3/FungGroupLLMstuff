@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho10Co4Bi2
+_chemical_formula_sum              "Ho10 Co4 Bi2"
+_cell_length_a       8.86252
+_cell_length_b       8.86252
+_cell_length_c       8.86252
+_cell_angle_alpha    129.837
+_cell_angle_beta     129.837
+_cell_angle_gamma    73.6668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.71219  0.53433  0.50000  1.0000
+  Ho  Ho2       1.0  0.46567  0.96567  0.17786  1.0000
+  Ho  Ho3       1.0  0.78781  0.28781  0.82214  1.0000
+  Ho  Ho4       1.0  0.53433  0.03433  0.82214  1.0000
+  Ho  Ho5       1.0  0.00000  0.00000  0.00000  1.0000
+  Ho  Ho6       1.0  0.03433  0.21219  0.50000  1.0000
+  Ho  Ho7       1.0  0.28781  0.46567  0.50000  1.0000
+  Ho  Ho8       1.0  0.21219  0.71219  0.17786  1.0000
+  Ho  Ho9       1.0  0.96567  0.78781  0.50000  1.0000
+  Ho  Ho10      1.0  0.50000  0.50000  0.00000  1.0000
+  Co  Co1       1.0  0.13381  0.63381  0.76761  1.0000
+  Co  Co2       1.0  0.86619  0.36619  0.23239  1.0000
+  Co  Co3       1.0  0.63381  0.86619  0.50000  1.0000
+  Co  Co4       1.0  0.36619  0.13381  0.50000  1.0000
+  Bi  Bi1       1.0  0.25000  0.25000  0.00000  1.0000
+  Bi  Bi2       1.0  0.75000  0.75000  0.00000  1.0000

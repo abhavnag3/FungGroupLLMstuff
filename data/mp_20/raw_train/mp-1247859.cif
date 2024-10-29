@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag5Au3S4
+_chemical_formula_sum              "Ag5 Au3 S4"
+_cell_length_a       4.63564
+_cell_length_b       4.81267
+_cell_length_c       13.6247
+_cell_angle_alpha    88.6923
+_cell_angle_beta     88.9771
+_cell_angle_gamma    110.534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.92141  0.30961  0.24324  1.0000
+  Ag  Ag2       1.0  0.29699  0.03638  0.73999  1.0000
+  Ag  Ag3       1.0  0.47594  0.89320  0.39614  1.0000
+  Ag  Ag4       1.0  0.65542  0.27095  0.01432  1.0000
+  Ag  Ag5       1.0  0.86246  0.47708  0.44997  1.0000
+  Au  Au1       1.0  0.77115  0.77388  0.13923  1.0000
+  Au  Au2       1.0  0.74113  0.79660  0.62036  1.0000
+  Au  Au3       1.0  0.76960  0.78885  0.87985  1.0000
+  S   S1        1.0  0.06950  0.05157  0.00625  1.0000
+  S   S2        1.0  0.02823  0.03236  0.48049  1.0000
+  S   S3        1.0  0.47992  0.49439  0.27343  1.0000
+  S   S4        1.0  0.42826  0.57513  0.75673  1.0000

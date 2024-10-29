@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Co2Pb4W2O12
+_chemical_formula_sum              "Co2 Pb4 W2 O12"
+_cell_length_a       5.72539
+_cell_length_b       8.03105
+_cell_length_c       5.77953
+_cell_angle_alpha    89.8216
+_cell_angle_beta     90.0033
+_cell_angle_gamma    90.0003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.50000  0.00000  0.50001  1.0000
+  Co  Co2       1.0  1.00000  0.50000  0.00000  1.0000
+  Pb  Pb1       1.0  0.49999  0.25008  0.99031  1.0000
+  Pb  Pb2       1.0  0.99999  0.75085  0.49019  1.0000
+  Pb  Pb3       1.0  1.00000  0.24915  0.50985  1.0000
+  Pb  Pb4       1.0  0.50002  0.74991  0.00968  1.0000
+  W   W1        1.0  1.00000  1.00000  0.99997  1.0000
+  W   W2        1.0  0.50000  0.50002  0.49999  1.0000
+  O   O1        1.0  0.49999  0.73954  0.55841  1.0000
+  O   O2        1.0  0.00001  0.23944  0.05846  1.0000
+  O   O3        1.0  0.99997  0.76056  0.94151  1.0000
+  O   O4        1.0  0.50002  0.26046  0.44159  1.0000
+  O   O5        1.0  0.75909  0.03326  0.76244  1.0000
+  O   O6        1.0  0.25901  0.53334  0.26247  1.0000
+  O   O7        1.0  0.25901  0.46664  0.73750  1.0000
+  O   O8        1.0  0.75910  0.96674  0.23757  1.0000
+  O   O9        1.0  0.74101  0.46666  0.73753  1.0000
+  O   O10       1.0  0.24091  0.96675  0.23757  1.0000
+  O   O11       1.0  0.24089  0.03324  0.76243  1.0000
+  O   O12       1.0  0.74099  0.53336  0.26251  1.0000

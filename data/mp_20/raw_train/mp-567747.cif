@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Co7Mo6
+_chemical_formula_sum              "Co7 Mo6"
+_cell_length_a       8.94154
+_cell_length_b       8.94154
+_cell_length_c       8.94154
+_cell_angle_alpha    30.8052
+_cell_angle_beta     30.8052
+_cell_angle_gamma    30.8052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.08995  0.08995  0.58906  1.0000
+  Co  Co2       1.0  0.41094  0.91005  0.91005  1.0000
+  Co  Co3       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co4       1.0  0.58906  0.08995  0.08995  1.0000
+  Co  Co5       1.0  0.91005  0.91005  0.41094  1.0000
+  Co  Co6       1.0  0.91005  0.41094  0.91005  1.0000
+  Co  Co7       1.0  0.08995  0.58906  0.08995  1.0000
+  Mo  Mo1       1.0  0.83429  0.83429  0.83429  1.0000
+  Mo  Mo2       1.0  0.65269  0.65269  0.65269  1.0000
+  Mo  Mo3       1.0  0.45034  0.45034  0.45034  1.0000
+  Mo  Mo4       1.0  0.54966  0.54966  0.54966  1.0000
+  Mo  Mo5       1.0  0.16571  0.16571  0.16571  1.0000
+  Mo  Mo6       1.0  0.34731  0.34731  0.34731  1.0000

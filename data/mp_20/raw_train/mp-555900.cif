@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Nb2Tl5S4Cl9
+_chemical_formula_sum              "Nb2 Tl5 S4 Cl9"
+_cell_length_a       10.0234
+_cell_length_b       10.0234
+_cell_length_c       10.0234
+_cell_angle_alpha    137.823
+_cell_angle_beta     121.487
+_cell_angle_gamma    74.7296
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.90828  0.90828  0.00000  1.0000
+  Nb  Nb2       1.0  0.09172  0.09172  0.00000  1.0000
+  Tl  Tl1       1.0  0.88594  0.66690  0.21904  1.0000
+  Tl  Tl2       1.0  0.11406  0.33310  0.78095  1.0000
+  Tl  Tl3       1.0  0.55215  0.33310  0.21904  1.0000
+  Tl  Tl4       1.0  0.44785  0.66690  0.78095  1.0000
+  Tl  Tl5       1.0  0.50000  0.00000  0.50000  1.0000
+  S   S1        1.0  0.89722  0.75230  0.64952  1.0000
+  S   S2        1.0  0.89722  0.24770  0.14491  1.0000
+  S   S3        1.0  0.10278  0.75230  0.85509  1.0000
+  S   S4        1.0  0.10278  0.24770  0.35048  1.0000
+  Cl  Cl1       1.0  0.20925  0.96953  0.76027  1.0000
+  Cl  Cl2       1.0  0.39415  0.13535  0.25880  1.0000
+  Cl  Cl3       1.0  0.79075  0.03047  0.23973  1.0000
+  Cl  Cl4       1.0  0.87654  0.13535  0.74120  1.0000
+  Cl  Cl5       1.0  0.20925  0.44898  0.23973  1.0000
+  Cl  Cl6       1.0  0.79075  0.55102  0.76027  1.0000
+  Cl  Cl7       1.0  0.12346  0.86465  0.25880  1.0000
+  Cl  Cl8       1.0  0.50000  0.50000  0.00000  1.0000
+  Cl  Cl9       1.0  0.60585  0.86465  0.74120  1.0000

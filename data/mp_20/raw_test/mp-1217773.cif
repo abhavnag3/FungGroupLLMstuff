@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       TaSi10W4
+_chemical_formula_sum              "Ta1 Si10 W4"
+_cell_length_a       20.0057
+_cell_length_b       20.0057
+_cell_length_c       20.0057
+_cell_angle_alpha    170.709
+_cell_angle_beta     170.709
+_cell_angle_gamma    13.1542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.00000  0.00000  0.00000  1.0000
+  Si  Si1       1.0  0.53441  0.53441  0.00000  1.0000
+  Si  Si2       1.0  0.13343  0.13343  0.00000  1.0000
+  Si  Si3       1.0  0.73307  0.73307  0.00000  1.0000
+  Si  Si4       1.0  0.33285  0.33285  0.00000  1.0000
+  Si  Si5       1.0  0.93241  0.93241  0.00000  1.0000
+  Si  Si6       1.0  0.06759  0.06759  0.00000  1.0000
+  Si  Si7       1.0  0.66715  0.66715  0.00000  1.0000
+  Si  Si8       1.0  0.26693  0.26693  0.00000  1.0000
+  Si  Si9       1.0  0.86657  0.86657  0.00000  1.0000
+  Si  Si10      1.0  0.46559  0.46559  0.00000  1.0000
+  W   W1        1.0  0.60107  0.60107  0.00000  1.0000
+  W   W2        1.0  0.20020  0.20020  0.00000  1.0000
+  W   W3        1.0  0.79980  0.79980  0.00000  1.0000
+  W   W4        1.0  0.39893  0.39893  0.00000  1.0000

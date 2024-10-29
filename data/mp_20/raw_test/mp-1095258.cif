@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr2Mg2F8
+_chemical_formula_sum              "Sr2 Mg2 F8"
+_cell_length_a       7.57076
+_cell_length_b       7.57076
+_cell_length_c       5.68747
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    149.415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.34254  0.65746  0.04460  1.0000
+  Sr  Sr2       1.0  0.65746  0.34254  0.54460  1.0000
+  Mg  Mg1       1.0  0.91551  0.08449  0.59536  1.0000
+  Mg  Mg2       1.0  0.08449  0.91551  0.09536  1.0000
+  F   F1        1.0  0.83827  0.16173  0.31016  1.0000
+  F   F2        1.0  0.16173  0.83827  0.81016  1.0000
+  F   F3        1.0  0.03426  0.96574  0.43052  1.0000
+  F   F4        1.0  0.96574  0.03426  0.93052  1.0000
+  F   F5        1.0  0.79802  0.20198  0.78907  1.0000
+  F   F6        1.0  0.20198  0.79802  0.28907  1.0000
+  F   F7        1.0  0.41612  0.58388  0.61328  1.0000
+  F   F8        1.0  0.58388  0.41612  0.11328  1.0000

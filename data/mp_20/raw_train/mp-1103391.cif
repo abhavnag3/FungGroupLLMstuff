@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb8Al4
+_chemical_formula_sum              "Tb8 Al4"
+_cell_length_a       5.13365
+_cell_length_b       6.57327
+_cell_length_c       9.44116
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.25000  0.80731  0.92803  1.0000
+  Tb  Tb2       1.0  0.25000  0.30731  0.57197  1.0000
+  Tb  Tb3       1.0  0.75000  0.19269  0.07197  1.0000
+  Tb  Tb4       1.0  0.75000  0.69269  0.42803  1.0000
+  Tb  Tb5       1.0  0.25000  0.97253  0.29073  1.0000
+  Tb  Tb6       1.0  0.25000  0.47253  0.20927  1.0000
+  Tb  Tb7       1.0  0.75000  0.02747  0.70927  1.0000
+  Tb  Tb8       1.0  0.75000  0.52747  0.79073  1.0000
+  Al  Al1       1.0  0.25000  0.28736  0.89647  1.0000
+  Al  Al2       1.0  0.25000  0.78736  0.60353  1.0000
+  Al  Al3       1.0  0.75000  0.71264  0.10353  1.0000
+  Al  Al4       1.0  0.75000  0.21264  0.39647  1.0000

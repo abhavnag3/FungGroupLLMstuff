@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       BaAlSi5N7O2
+_chemical_formula_sum              "Ba1 Al1 Si5 N7 O2"
+_cell_length_a       4.93246
+_cell_length_b       6.82321
+_cell_length_c       6.88222
+_cell_angle_alpha    74.4788
+_cell_angle_beta     69.5402
+_cell_angle_gamma    69.0825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.20034  0.01149  0.99403  1.0000
+  Al  Al1       1.0  0.82232  0.53143  0.14713  1.0000
+  Si  Si1       1.0  0.32145  0.33521  0.33386  1.0000
+  Si  Si2       1.0  0.99087  0.65844  0.65848  1.0000
+  Si  Si3       1.0  0.50344  0.46445  0.85468  1.0000
+  Si  Si4       1.0  0.81412  0.14413  0.53594  1.0000
+  Si  Si5       1.0  0.48753  0.85934  0.47642  1.0000
+  N   N1        1.0  0.23833  0.45026  0.09905  1.0000
+  N   N2        1.0  0.76772  0.55906  0.88807  1.0000
+  N   N3        1.0  0.21413  0.10157  0.44925  1.0000
+  N   N4        1.0  0.77224  0.89491  0.54702  1.0000
+  N   N5        1.0  0.68724  0.30192  0.32042  1.0000
+  N   N6        1.0  0.31378  0.68607  0.68374  1.0000
+  N   N7        1.0  0.63407  0.22378  0.77394  1.0000
+  O   O1        1.0  0.07072  0.50033  0.49236  1.0000
+  O   O2        1.0  0.62005  0.77760  0.24560  1.0000

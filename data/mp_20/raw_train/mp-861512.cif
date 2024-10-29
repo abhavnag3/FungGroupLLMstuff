@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr4Cr4Se12
+_chemical_formula_sum              "Pr4 Cr4 Se12"
+_cell_length_a       3.98428
+_cell_length_b       8.17356
+_cell_length_c       13.797
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25000  0.90346  0.32891  1.0000
+  Pr  Pr2       1.0  0.75000  0.59654  0.82891  1.0000
+  Pr  Pr3       1.0  0.25000  0.40346  0.17109  1.0000
+  Pr  Pr4       1.0  0.75000  0.09654  0.67109  1.0000
+  Cr  Cr1       1.0  0.25000  0.66111  0.55154  1.0000
+  Cr  Cr2       1.0  0.75000  0.83889  0.05154  1.0000
+  Cr  Cr3       1.0  0.25000  0.16111  0.94846  1.0000
+  Cr  Cr4       1.0  0.75000  0.33889  0.44846  1.0000
+  Se  Se1       1.0  0.75000  0.98632  0.89184  1.0000
+  Se  Se2       1.0  0.25000  0.01368  0.10816  1.0000
+  Se  Se3       1.0  0.75000  0.48632  0.60816  1.0000
+  Se  Se4       1.0  0.25000  0.81026  0.71178  1.0000
+  Se  Se5       1.0  0.75000  0.68974  0.21178  1.0000
+  Se  Se6       1.0  0.25000  0.31026  0.78822  1.0000
+  Se  Se7       1.0  0.75000  0.18974  0.28822  1.0000
+  Se  Se8       1.0  0.25000  0.65749  0.99666  1.0000
+  Se  Se9       1.0  0.75000  0.84251  0.49666  1.0000
+  Se  Se10      1.0  0.25000  0.15749  0.50334  1.0000
+  Se  Se11      1.0  0.75000  0.34251  0.00334  1.0000
+  Se  Se12      1.0  0.25000  0.51368  0.39184  1.0000

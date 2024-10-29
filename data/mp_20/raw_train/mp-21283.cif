@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cs4Pb2O6
+_chemical_formula_sum              "Cs4 Pb2 O6"
+_cell_length_a       7.00771
+_cell_length_b       7.00771
+_cell_length_c       6.20148
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.80868  0.48304  0.25000  1.0000
+  Cs  Cs2       1.0  0.48304  0.80868  0.25000  1.0000
+  Cs  Cs3       1.0  0.19132  0.51696  0.75000  1.0000
+  Cs  Cs4       1.0  0.51696  0.19132  0.75000  1.0000
+  Pb  Pb1       1.0  0.91166  0.91166  0.75000  1.0000
+  Pb  Pb2       1.0  0.08834  0.08834  0.25000  1.0000
+  O   O1        1.0  0.65013  0.65013  0.75000  1.0000
+  O   O2        1.0  0.34987  0.34987  0.25000  1.0000
+  O   O3        1.0  0.87544  0.12456  0.50000  1.0000
+  O   O4        1.0  0.12456  0.87544  0.00000  1.0000
+  O   O5        1.0  0.87544  0.12456  0.00000  1.0000
+  O   O6        1.0  0.12456  0.87544  0.50000  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Zr3Tl2Cu2Se8
+_chemical_formula_sum              "Zr3 Tl2 Cu2 Se8"
+_cell_length_a       7.68916
+_cell_length_b       7.68916
+_cell_length_c       14.5342
+_cell_angle_alpha    66.3667
+_cell_angle_beta     66.3667
+_cell_angle_gamma    29.0628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr2       1.0  0.84551  0.84551  0.38024  1.0000
+  Zr  Zr3       1.0  0.15449  0.15449  0.61976  1.0000
+  Tl  Tl1       1.0  0.83160  0.83160  0.80156  1.0000
+  Tl  Tl2       1.0  0.16840  0.16840  0.19844  1.0000
+  Cu  Cu1       1.0  0.45729  0.45729  0.19795  1.0000
+  Cu  Cu2       1.0  0.54271  0.54271  0.80205  1.0000
+  Se  Se1       1.0  0.85510  0.85510  0.19071  1.0000
+  Se  Se2       1.0  0.14490  0.14490  0.80929  1.0000
+  Se  Se3       1.0  0.79626  0.79626  0.58148  1.0000
+  Se  Se4       1.0  0.20374  0.20374  0.41852  1.0000
+  Se  Se5       1.0  0.48291  0.48291  0.35289  1.0000
+  Se  Se6       1.0  0.51709  0.51709  0.64711  1.0000
+  Se  Se7       1.0  0.60734  0.60735  0.04211  1.0000
+  Se  Se8       1.0  0.39266  0.39265  0.95789  1.0000

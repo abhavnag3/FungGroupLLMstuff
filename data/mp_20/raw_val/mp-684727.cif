@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs2Ta2Co2O4F8
+_chemical_formula_sum              "Cs2 Ta2 Co2 O4 F8"
+_cell_length_a       7.5216
+_cell_length_b       7.51971
+_cell_length_c       7.55343
+_cell_angle_alpha    61.0673
+_cell_angle_beta     118.939
+_cell_angle_gamma    88.3815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.12713  0.62255  0.75442  1.0000
+  Cs  Cs2       1.0  0.88016  0.37014  0.26001  1.0000
+  Ta  Ta1       1.0  0.52556  0.48469  0.51778  1.0000
+  Ta  Ta2       1.0  0.49221  0.99765  0.51776  1.0000
+  Co  Co1       1.0  0.50058  0.99760  0.99878  1.0000
+  Co  Co2       1.0  0.99821  0.00341  0.99888  1.0000
+  O   O1        1.0  0.53711  0.71282  0.57441  1.0000
+  O   O2        1.0  0.44514  0.30505  0.39003  1.0000
+  O   O3        1.0  0.80727  0.31242  0.75932  1.0000
+  O   O4        1.0  0.45110  0.92879  0.75853  1.0000
+  F   F1        1.0  0.82137  0.92750  0.14265  1.0000
+  F   F2        1.0  0.18564  0.06559  0.87142  1.0000
+  F   F3        1.0  0.81301  0.92278  0.73126  1.0000
+  F   F4        1.0  0.41812  0.34594  0.73109  1.0000
+  F   F5        1.0  0.57643  0.65763  0.25695  1.0000
+  F   F6        1.0  0.18067  0.08568  0.25670  1.0000
+  F   F7        1.0  0.55269  0.07934  0.24028  1.0000
+  F   F8        1.0  0.18759  0.68041  0.23972  1.0000

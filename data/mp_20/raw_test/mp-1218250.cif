@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2Li2Pr2Te2O12
+_chemical_formula_sum              "Sr2 Li2 Pr2 Te2 O12"
+_cell_length_a       5.79619
+_cell_length_b       5.65283
+_cell_length_c       7.98323
+_cell_angle_alpha    90.2164
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.96180  0.00607  0.75222  1.0000
+  Sr  Sr2       1.0  0.53820  0.50607  0.25222  1.0000
+  Li  Li1       1.0  0.51029  0.99824  0.50022  1.0000
+  Li  Li2       1.0  0.98971  0.49824  0.00022  1.0000
+  Pr  Pr1       1.0  0.05631  0.98920  0.25398  1.0000
+  Pr  Pr2       1.0  0.44369  0.48920  0.75398  1.0000
+  Te  Te1       1.0  0.99495  0.50015  0.49950  1.0000
+  Te  Te2       1.0  0.50505  0.00015  0.99950  1.0000
+  O   O1        1.0  0.81106  0.78251  0.45609  1.0000
+  O   O2        1.0  0.68894  0.28251  0.95608  1.0000
+  O   O3        1.0  0.19704  0.22716  0.53336  1.0000
+  O   O4        1.0  0.30296  0.72716  0.03336  1.0000
+  O   O5        1.0  0.26611  0.70018  0.45864  1.0000
+  O   O6        1.0  0.23389  0.20018  0.95864  1.0000
+  O   O7        1.0  0.71444  0.31996  0.54472  1.0000
+  O   O8        1.0  0.78556  0.81996  0.04472  1.0000
+  O   O9        1.0  0.52032  0.91117  0.76245  1.0000
+  O   O10       1.0  0.97968  0.41117  0.26245  1.0000
+  O   O11       1.0  0.47345  0.06536  0.23882  1.0000
+  O   O12       1.0  0.02655  0.56536  0.73882  1.0000

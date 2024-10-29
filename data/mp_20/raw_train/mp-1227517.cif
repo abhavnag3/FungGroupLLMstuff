@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Pr2MnNiO8
+_chemical_formula_sum              "Ca2 Pr2 Mn1 Ni1 O8"
+_cell_length_a       6.65747
+_cell_length_b       6.65747
+_cell_length_c       5.44968
+_cell_angle_alpha    89.9861
+_cell_angle_beta     89.9861
+_cell_angle_gamma    47.9511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.14400  0.14400  0.49445  1.0000
+  Ca  Ca2       1.0  0.35671  0.35671  0.98748  1.0000
+  Pr  Pr1       1.0  0.63780  0.63780  0.00969  1.0000
+  Pr  Pr2       1.0  0.86192  0.86192  0.50376  1.0000
+  Mn  Mn1       1.0  0.00159  0.00159  0.00065  1.0000
+  Ni  Ni1       1.0  0.49836  0.49836  0.50118  1.0000
+  O   O1        1.0  0.75820  0.25045  0.75819  1.0000
+  O   O2        1.0  0.75022  0.24221  0.24298  1.0000
+  O   O3        1.0  0.24221  0.75022  0.24298  1.0000
+  O   O4        1.0  0.25045  0.75820  0.75819  1.0000
+  O   O5        1.0  0.32712  0.32712  0.51931  1.0000
+  O   O6        1.0  0.83299  0.83299  0.98786  1.0000
+  O   O7        1.0  0.67387  0.67387  0.47945  1.0000
+  O   O8        1.0  0.16458  0.16458  0.01382  1.0000

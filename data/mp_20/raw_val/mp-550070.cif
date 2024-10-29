@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nb2Br4O2
+_chemical_formula_sum              "Nb2 Br4 O2"
+_cell_length_a       7.6241
+_cell_length_b       7.6241
+_cell_length_c       7.09596
+_cell_angle_alpha    76.0098
+_cell_angle_beta     76.0098
+_cell_angle_gamma    30.1297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.99649  0.00325  0.78517  1.0000
+  Nb  Nb2       1.0  0.99675  0.00351  0.21483  1.0000
+  Br  Br1       1.0  0.82032  0.92966  0.56451  1.0000
+  Br  Br2       1.0  0.80485  0.89947  0.07741  1.0000
+  Br  Br3       1.0  0.10053  0.19515  0.92259  1.0000
+  Br  Br4       1.0  0.07034  0.17968  0.43549  1.0000
+  O   O1        1.0  0.45826  0.54123  0.77908  1.0000
+  O   O2        1.0  0.45877  0.54174  0.22092  1.0000

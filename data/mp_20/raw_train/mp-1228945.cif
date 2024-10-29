@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2Cr2Ge2
+_chemical_formula_sum              "Al2 Cr2 Ge2"
+_cell_length_a       5.95066
+_cell_length_b       4.92156
+_cell_length_c       4.74764
+_cell_angle_alpha    75.9419
+_cell_angle_beta     53.3493
+_cell_angle_gamma    50.7088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.07786  0.42214  0.07786  1.0000
+  Al  Al2       1.0  0.42214  0.07786  0.42214  1.0000
+  Cr  Cr1       1.0  0.75000  0.75000  0.75000  1.0000
+  Cr  Cr2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.66934  0.33066  0.66934  1.0000
+  Ge  Ge2       1.0  0.33066  0.66934  0.33066  1.0000

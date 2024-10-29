@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2C4
+_chemical_formula_sum              "Ca2 C4"
+_cell_length_a       3.93077
+_cell_length_b       3.96984
+_cell_length_c       7.44975
+_cell_angle_alpha    101.21
+_cell_angle_beta     85.5421
+_cell_angle_gamma    119.531
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.77067  0.96434  0.24586  1.0000
+  Ca  Ca2       1.0  0.22933  0.03566  0.75414  1.0000
+  C   C1        1.0  0.87057  0.43045  0.93764  1.0000
+  C   C2        1.0  0.12943  0.56955  0.06236  1.0000
+  C   C3        1.0  0.55436  0.63592  0.56937  1.0000
+  C   C4        1.0  0.44564  0.36408  0.43063  1.0000

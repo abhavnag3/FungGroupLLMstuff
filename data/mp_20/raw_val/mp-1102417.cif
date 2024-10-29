@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ce4Ga4Rh4
+_chemical_formula_sum              "Ce4 Ga4 Rh4"
+_cell_length_a       4.64616
+_cell_length_b       6.91441
+_cell_length_c       7.42406
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.25000  0.17598  0.97093  1.0000
+  Ce  Ce2       1.0  0.25000  0.32402  0.47093  1.0000
+  Ce  Ce3       1.0  0.75000  0.82402  0.02907  1.0000
+  Ce  Ce4       1.0  0.75000  0.67598  0.52907  1.0000
+  Ga  Ga1       1.0  0.25000  0.89070  0.30744  1.0000
+  Ga  Ga2       1.0  0.25000  0.60930  0.80744  1.0000
+  Ga  Ga3       1.0  0.75000  0.10930  0.69256  1.0000
+  Ga  Ga4       1.0  0.75000  0.39070  0.19256  1.0000
+  Rh  Rh1       1.0  0.25000  0.93886  0.65193  1.0000
+  Rh  Rh2       1.0  0.25000  0.56114  0.15193  1.0000
+  Rh  Rh3       1.0  0.75000  0.06114  0.34807  1.0000
+  Rh  Rh4       1.0  0.75000  0.43887  0.84807  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ho3Cu4Sn4
+_chemical_formula_sum              "Ho3 Cu4 Sn4"
+_cell_length_a       8.41496
+_cell_length_b       8.41496
+_cell_length_c       8.41496
+_cell_angle_alpha    149.231
+_cell_angle_beta     131.317
+_cell_angle_gamma    58.704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ho  Ho2       1.0  0.36905  0.86905  0.50000  1.0000
+  Ho  Ho3       1.0  0.63095  0.13095  0.50000  1.0000
+  Cu  Cu1       1.0  0.63980  0.32852  0.31128  1.0000
+  Cu  Cu2       1.0  0.01724  0.32852  0.68872  1.0000
+  Cu  Cu3       1.0  0.36020  0.67148  0.68872  1.0000
+  Cu  Cu4       1.0  0.98276  0.67148  0.31128  1.0000
+  Sn  Sn1       1.0  0.21585  0.21585  0.00000  1.0000
+  Sn  Sn2       1.0  0.78415  0.78415  0.00000  1.0000
+  Sn  Sn3       1.0  0.70308  0.50000  0.20308  1.0000
+  Sn  Sn4       1.0  0.29692  0.50000  0.79692  1.0000

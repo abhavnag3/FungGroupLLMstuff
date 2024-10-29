@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K4Fe4Cl12
+_chemical_formula_sum              "K4 Fe4 Cl12"
+_cell_length_a       3.89085
+_cell_length_b       8.86235
+_cell_length_c       14.2964
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.75000  0.05743  0.67209  1.0000
+  K   K2        1.0  0.25000  0.94257  0.32791  1.0000
+  K   K3        1.0  0.75000  0.55743  0.82791  1.0000
+  K   K4        1.0  0.25000  0.44257  0.17209  1.0000
+  Fe  Fe1       1.0  0.75000  0.33829  0.44810  1.0000
+  Fe  Fe2       1.0  0.25000  0.66171  0.55190  1.0000
+  Fe  Fe3       1.0  0.75000  0.83829  0.05190  1.0000
+  Fe  Fe4       1.0  0.25000  0.16171  0.94810  1.0000
+  Cl  Cl1       1.0  0.25000  0.02042  0.09620  1.0000
+  Cl  Cl2       1.0  0.75000  0.97958  0.90380  1.0000
+  Cl  Cl3       1.0  0.25000  0.52042  0.40380  1.0000
+  Cl  Cl4       1.0  0.75000  0.47958  0.59620  1.0000
+  Cl  Cl5       1.0  0.25000  0.18261  0.50581  1.0000
+  Cl  Cl6       1.0  0.75000  0.81739  0.49419  1.0000
+  Cl  Cl7       1.0  0.25000  0.68261  0.99419  1.0000
+  Cl  Cl8       1.0  0.75000  0.31739  0.00581  1.0000
+  Cl  Cl9       1.0  0.75000  0.23236  0.29736  1.0000
+  Cl  Cl10      1.0  0.25000  0.76764  0.70264  1.0000
+  Cl  Cl11      1.0  0.75000  0.73236  0.20264  1.0000
+  Cl  Cl12      1.0  0.25000  0.26764  0.79736  1.0000

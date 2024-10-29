@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm4Dy4O12
+_chemical_formula_sum              "Sm4 Dy4 O12"
+_cell_length_a       5.80191
+_cell_length_b       6.05917
+_cell_length_c       8.47749
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.98695  0.05146  0.25000  1.0000
+  Sm  Sm2       1.0  0.48695  0.44854  0.75000  1.0000
+  Sm  Sm3       1.0  0.51305  0.55146  0.25000  1.0000
+  Sm  Sm4       1.0  0.01305  0.94854  0.75000  1.0000
+  Dy  Dy1       1.0  0.50000  0.00000  0.00000  1.0000
+  Dy  Dy2       1.0  0.50000  0.00000  0.50000  1.0000
+  Dy  Dy3       1.0  0.00000  0.50000  0.00000  1.0000
+  Dy  Dy4       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.64069  0.07360  0.75000  1.0000
+  O   O2        1.0  0.18061  0.18388  0.57258  1.0000
+  O   O3        1.0  0.18061  0.18388  0.92742  1.0000
+  O   O4        1.0  0.68061  0.31612  0.42742  1.0000
+  O   O5        1.0  0.68061  0.31612  0.07258  1.0000
+  O   O6        1.0  0.14069  0.42640  0.25000  1.0000
+  O   O7        1.0  0.85931  0.57360  0.75000  1.0000
+  O   O8        1.0  0.31939  0.68388  0.92742  1.0000
+  O   O9        1.0  0.31939  0.68388  0.57258  1.0000
+  O   O10       1.0  0.81939  0.81612  0.07258  1.0000
+  O   O11       1.0  0.81939  0.81612  0.42742  1.0000
+  O   O12       1.0  0.35931  0.92640  0.25000  1.0000

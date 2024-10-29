@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2La2Sn4
+_chemical_formula_sum              "Li2 La2 Sn4"
+_cell_length_a       9.90515
+_cell_length_b       9.90515
+_cell_length_c       4.57393
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    153.045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.67684  0.32316  0.25000  1.0000
+  Li  Li2       1.0  0.32316  0.67684  0.75000  1.0000
+  La  La1       1.0  0.89457  0.10543  0.25000  1.0000
+  La  La2       1.0  0.10543  0.89457  0.75000  1.0000
+  Sn  Sn1       1.0  0.54406  0.45594  0.25000  1.0000
+  Sn  Sn2       1.0  0.45594  0.54406  0.75000  1.0000
+  Sn  Sn3       1.0  0.24859  0.75141  0.25000  1.0000
+  Sn  Sn4       1.0  0.75141  0.24859  0.75000  1.0000

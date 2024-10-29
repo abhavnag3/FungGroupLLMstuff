@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sn4Ge4S12
+_chemical_formula_sum              "Sn4 Ge4 S12"
+_cell_length_a       10.6401
+_cell_length_b       6.9193
+_cell_length_c       7.87961
+_cell_angle_alpha    74.6266
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.43104  0.72165  0.11795  1.0000
+  Sn  Sn2       1.0  0.93104  0.77835  0.88205  1.0000
+  Sn  Sn3       1.0  0.56896  0.27835  0.88205  1.0000
+  Sn  Sn4       1.0  0.06896  0.22165  0.11795  1.0000
+  Ge  Ge1       1.0  0.71919  0.01396  0.29770  1.0000
+  Ge  Ge2       1.0  0.78081  0.51396  0.29770  1.0000
+  Ge  Ge3       1.0  0.28081  0.98604  0.70230  1.0000
+  Ge  Ge4       1.0  0.21919  0.48604  0.70230  1.0000
+  S   S1        1.0  0.16523  0.90646  0.94556  1.0000
+  S   S2        1.0  0.76790  0.20258  0.48330  1.0000
+  S   S3        1.0  0.26790  0.29742  0.51670  1.0000
+  S   S4        1.0  0.23210  0.79742  0.51670  1.0000
+  S   S5        1.0  0.52015  0.07292  0.20736  1.0000
+  S   S6        1.0  0.02015  0.42708  0.79264  1.0000
+  S   S7        1.0  0.47985  0.92708  0.79264  1.0000
+  S   S8        1.0  0.97985  0.57292  0.20736  1.0000
+  S   S9        1.0  0.83477  0.09354  0.05444  1.0000
+  S   S10       1.0  0.33477  0.40646  0.94556  1.0000
+  S   S11       1.0  0.66523  0.59354  0.05444  1.0000
+  S   S12       1.0  0.73210  0.70258  0.48330  1.0000

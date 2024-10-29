@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y3Co13B2
+_chemical_formula_sum              "Y3 Co13 B2"
+_cell_length_a       4.98098
+_cell_length_b       4.9786
+_cell_length_c       10.8326
+_cell_angle_alpha    89.9995
+_cell_angle_beta     90.0012
+_cell_angle_gamma    119.881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.99998  0.99999  0.32363  1.0000
+  Y   Y2        1.0  0.00001  0.00000  0.67672  1.0000
+  Y   Y3        1.0  0.99999  0.00000  0.99959  1.0000
+  Co  Co1       1.0  0.49999  0.99999  0.13550  1.0000
+  Co  Co2       1.0  0.49999  0.50000  0.13557  1.0000
+  Co  Co3       1.0  0.00000  0.50001  0.13571  1.0000
+  Co  Co4       1.0  0.49998  0.99998  0.86427  1.0000
+  Co  Co5       1.0  0.49999  0.50001  0.86419  1.0000
+  Co  Co6       1.0  0.00002  0.50002  0.86419  1.0000
+  Co  Co7       1.0  0.33391  0.66709  0.31801  1.0000
+  Co  Co8       1.0  0.66605  0.33292  0.31820  1.0000
+  Co  Co9       1.0  0.66621  0.33294  0.68200  1.0000
+  Co  Co10      1.0  0.33378  0.66705  0.68222  1.0000
+  Co  Co11      1.0  0.49982  0.99964  0.50022  1.0000
+  Co  Co12      1.0  0.49982  0.50017  0.50024  1.0000
+  Co  Co13      1.0  0.00037  0.50018  0.50024  1.0000
+  B   B1        1.0  0.33344  0.66656  0.99973  1.0000
+  B   B2        1.0  0.66653  0.33344  0.99974  1.0000

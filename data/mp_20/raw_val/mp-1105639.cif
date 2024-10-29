@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       U4Fe6Si10
+_chemical_formula_sum              "U4 Fe6 Si10"
+_cell_length_a       5.47433
+_cell_length_b       7.88987
+_cell_length_c       7.88987
+_cell_angle_alpha    92.3879
+_cell_angle_beta     110.007
+_cell_angle_gamma    110.007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.22535  0.86920  0.59088  1.0000
+  U   U2        1.0  0.27465  0.40912  0.13080  1.0000
+  U   U3        1.0  0.77465  0.13080  0.40912  1.0000
+  U   U4        1.0  0.72535  0.59088  0.86920  1.0000
+  Fe  Fe1       1.0  0.35832  0.25175  0.53965  1.0000
+  Fe  Fe2       1.0  0.14168  0.46035  0.74825  1.0000
+  Fe  Fe3       1.0  0.64168  0.74825  0.46035  1.0000
+  Fe  Fe4       1.0  0.85832  0.53965  0.25175  1.0000
+  Fe  Fe5       1.0  0.25000  0.00000  0.99999  1.0000
+  Fe  Fe6       1.0  0.75000  0.99999  0.00000  1.0000
+  Si  Si1       1.0  0.16798  0.06690  0.25925  1.0000
+  Si  Si2       1.0  0.33202  0.74075  0.93310  1.0000
+  Si  Si3       1.0  0.83202  0.93310  0.74075  1.0000
+  Si  Si4       1.0  0.66798  0.25925  0.06690  1.0000
+  Si  Si5       1.0  0.25000  0.20720  0.79280  1.0000
+  Si  Si6       1.0  0.75000  0.79280  0.20720  1.0000
+  Si  Si7       1.0  0.25000  0.51338  0.48662  1.0000
+  Si  Si8       1.0  0.75000  0.48662  0.51338  1.0000
+  Si  Si9       1.0  0.25000  0.77617  0.22383  1.0000
+  Si  Si10      1.0  0.75000  0.22383  0.77617  1.0000

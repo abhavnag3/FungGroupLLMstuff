@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Nd2Fe8B8
+_chemical_formula_sum              "Nd2 Fe8 B8"
+_cell_length_a       7.05542
+_cell_length_b       7.05542
+_cell_length_c       3.80894
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nd  Nd2       1.0  0.50000  0.50000  0.50000  1.0000
+  Fe  Fe1       1.0  0.13203  0.38832  0.89256  1.0000
+  Fe  Fe2       1.0  0.86797  0.61168  0.89256  1.0000
+  Fe  Fe3       1.0  0.88832  0.36797  0.39256  1.0000
+  Fe  Fe4       1.0  0.11168  0.63203  0.39256  1.0000
+  Fe  Fe5       1.0  0.36797  0.11168  0.60744  1.0000
+  Fe  Fe6       1.0  0.63203  0.88832  0.60744  1.0000
+  Fe  Fe7       1.0  0.61168  0.13203  0.10744  1.0000
+  Fe  Fe8       1.0  0.38832  0.86797  0.10744  1.0000
+  B   B1        1.0  0.66519  0.79827  0.10563  1.0000
+  B   B2        1.0  0.33481  0.20172  0.10563  1.0000
+  B   B3        1.0  0.29828  0.83481  0.60563  1.0000
+  B   B4        1.0  0.70173  0.16520  0.60563  1.0000
+  B   B5        1.0  0.83481  0.70173  0.39437  1.0000
+  B   B6        1.0  0.16520  0.29828  0.39437  1.0000
+  B   B7        1.0  0.20172  0.66519  0.89437  1.0000
+  B   B8        1.0  0.79827  0.33481  0.89437  1.0000

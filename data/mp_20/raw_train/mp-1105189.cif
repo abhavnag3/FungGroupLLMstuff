@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu4Ag2P2S8
+_chemical_formula_sum              "Cu4 Ag2 P2 S8"
+_cell_length_a       6.20505
+_cell_length_b       6.32175
+_cell_length_c       7.66154
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00974  0.18524  0.75257  1.0000
+  Cu  Cu2       1.0  0.00974  0.18524  0.24743  1.0000
+  Cu  Cu3       1.0  0.50974  0.81476  0.74743  1.0000
+  Cu  Cu4       1.0  0.50974  0.81476  0.25257  1.0000
+  Ag  Ag1       1.0  0.00462  0.64720  0.50000  1.0000
+  Ag  Ag2       1.0  0.50462  0.35280  0.00000  1.0000
+  P   P1        1.0  0.50060  0.31254  0.50000  1.0000
+  P   P2        1.0  0.00060  0.68746  0.00000  1.0000
+  S   S1        1.0  0.37808  0.16004  0.72126  1.0000
+  S   S2        1.0  0.37808  0.16004  0.27874  1.0000
+  S   S3        1.0  0.87808  0.83996  0.77874  1.0000
+  S   S4        1.0  0.87808  0.83996  0.22126  1.0000
+  S   S5        1.0  0.83654  0.28029  0.50000  1.0000
+  S   S6        1.0  0.33654  0.71971  0.00000  1.0000
+  S   S7        1.0  0.41117  0.63183  0.50000  1.0000
+  S   S8        1.0  0.91117  0.36817  0.00000  1.0000

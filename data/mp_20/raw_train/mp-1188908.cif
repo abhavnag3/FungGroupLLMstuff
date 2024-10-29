@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       La4Ni14
+_chemical_formula_sum              "La4 Ni14"
+_cell_length_a       5.01598
+_cell_length_b       5.01598
+_cell_length_c       12.6611
+_cell_angle_alpha    78.5749
+_cell_angle_beta     78.5749
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.94942  0.94942  0.15175  1.0000
+  La  La2       1.0  0.05058  0.05058  0.84825  1.0000
+  La  La3       1.0  0.85312  0.85312  0.44063  1.0000
+  La  La4       1.0  0.14688  0.14688  0.55937  1.0000
+  Ni  Ni1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ni  Ni2       1.0  0.72152  0.72152  0.83542  1.0000
+  Ni  Ni3       1.0  0.27847  0.27847  0.16457  1.0000
+  Ni  Ni4       1.0  0.61235  0.61235  0.16295  1.0000
+  Ni  Ni5       1.0  0.38765  0.38765  0.83705  1.0000
+  Ni  Ni6       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni7       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni8       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni9       1.0  0.39205  0.39205  0.32552  1.0000
+  Ni  Ni10      1.0  0.89038  0.39205  0.32552  1.0000
+  Ni  Ni11      1.0  0.39205  0.89038  0.32552  1.0000
+  Ni  Ni12      1.0  0.60795  0.60795  0.67448  1.0000
+  Ni  Ni13      1.0  0.10962  0.60795  0.67448  1.0000
+  Ni  Ni14      1.0  0.60795  0.10962  0.67448  1.0000

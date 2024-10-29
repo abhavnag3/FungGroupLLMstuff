@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tm12Ni4
+_chemical_formula_sum              "Tm12 Ni4"
+_cell_length_a       6.23382
+_cell_length_b       6.72203
+_cell_length_c       9.42772
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.63820  0.03239  0.25000  1.0000
+  Tm  Tm2       1.0  0.36180  0.96761  0.75000  1.0000
+  Tm  Tm3       1.0  0.13820  0.46761  0.75000  1.0000
+  Tm  Tm4       1.0  0.86180  0.53239  0.25000  1.0000
+  Tm  Tm5       1.0  0.18014  0.17876  0.06501  1.0000
+  Tm  Tm6       1.0  0.81986  0.82124  0.93499  1.0000
+  Tm  Tm7       1.0  0.68014  0.32124  0.93499  1.0000
+  Tm  Tm8       1.0  0.81986  0.82124  0.56501  1.0000
+  Tm  Tm9       1.0  0.31986  0.67876  0.06501  1.0000
+  Tm  Tm10      1.0  0.18014  0.17876  0.43499  1.0000
+  Tm  Tm11      1.0  0.31986  0.67876  0.43499  1.0000
+  Tm  Tm12      1.0  0.68014  0.32124  0.56501  1.0000
+  Ni  Ni1       1.0  0.44496  0.39390  0.25000  1.0000
+  Ni  Ni2       1.0  0.55504  0.60610  0.75000  1.0000
+  Ni  Ni3       1.0  0.94496  0.10610  0.75000  1.0000
+  Ni  Ni4       1.0  0.05504  0.89390  0.25000  1.0000

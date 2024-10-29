@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y8Os2Br8
+_chemical_formula_sum              "Y8 Os2 Br8"
+_cell_length_a       8.98264
+_cell_length_b       8.98264
+_cell_length_c       6.59038
+_cell_angle_alpha    89.5118
+_cell_angle_beta     89.5118
+_cell_angle_gamma    89.3634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.75043  0.09904  0.98964  1.0000
+  Y   Y2        1.0  0.09904  0.75043  0.48964  1.0000
+  Y   Y3        1.0  0.09765  0.24852  0.99147  1.0000
+  Y   Y4        1.0  0.24852  0.09765  0.49147  1.0000
+  Y   Y5        1.0  0.90235  0.75148  0.00853  1.0000
+  Y   Y6        1.0  0.90096  0.24957  0.51036  1.0000
+  Y   Y7        1.0  0.24957  0.90096  0.01036  1.0000
+  Y   Y8        1.0  0.75148  0.90235  0.50853  1.0000
+  Os  Os1       1.0  0.99512  0.00488  0.25000  1.0000
+  Os  Os2       1.0  0.00488  0.99512  0.75000  1.0000
+  Br  Br1       1.0  0.58092  0.18281  0.59228  1.0000
+  Br  Br2       1.0  0.81027  0.58529  0.40524  1.0000
+  Br  Br3       1.0  0.41471  0.18973  0.09477  1.0000
+  Br  Br4       1.0  0.18973  0.41471  0.59476  1.0000
+  Br  Br5       1.0  0.58529  0.81027  0.90524  1.0000
+  Br  Br6       1.0  0.41908  0.81719  0.40772  1.0000
+  Br  Br7       1.0  0.18281  0.58092  0.09228  1.0000
+  Br  Br8       1.0  0.81719  0.41908  0.90772  1.0000

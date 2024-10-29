@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       NaHf2TiF11
+_chemical_formula_sum              "Na1 Hf2 Ti1 F11"
+_cell_length_a       5.81517
+_cell_length_b       5.81517
+_cell_length_c       7.83393
+_cell_angle_alpha    67.9442
+_cell_angle_beta     67.9442
+_cell_angle_gamma    72.7012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00597  0.00597  0.00021  1.0000
+  Hf  Hf1       1.0  0.50804  0.50804  0.22895  1.0000
+  Hf  Hf2       1.0  0.51124  0.51124  0.76251  1.0000
+  Ti  Ti1       1.0  0.00982  0.00982  0.49779  1.0000
+  F   F1        1.0  0.78260  0.20787  0.30552  1.0000
+  F   F2        1.0  0.20787  0.78260  0.30552  1.0000
+  F   F3        1.0  0.23074  0.80592  0.69126  1.0000
+  F   F4        1.0  0.80592  0.23074  0.69126  1.0000
+  F   F5        1.0  0.74342  0.74342  0.07489  1.0000
+  F   F6        1.0  0.27537  0.27537  0.87687  1.0000
+  F   F7        1.0  0.75639  0.75639  0.64351  1.0000
+  F   F8        1.0  0.26242  0.26242  0.36106  1.0000
+  F   F9        1.0  0.66887  0.33469  0.99998  1.0000
+  F   F10       1.0  0.33469  0.66887  0.99998  1.0000
+  F   F11       1.0  0.53653  0.53653  0.47957  1.0000

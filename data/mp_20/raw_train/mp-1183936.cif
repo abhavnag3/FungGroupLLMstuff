@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu4Mg2
+_chemical_formula_sum              "Eu4 Mg2"
+_cell_length_a       9.52424
+_cell_length_b       9.52424
+_cell_length_c       5.99751
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    156.54
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.09170  0.90830  0.25000  1.0000
+  Eu  Eu2       1.0  0.78173  0.21827  0.25000  1.0000
+  Eu  Eu3       1.0  0.90830  0.09170  0.75000  1.0000
+  Eu  Eu4       1.0  0.21827  0.78173  0.75000  1.0000
+  Mg  Mg1       1.0  0.43846  0.56154  0.25000  1.0000
+  Mg  Mg2       1.0  0.56154  0.43846  0.75000  1.0000

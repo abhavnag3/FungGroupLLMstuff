@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb4Pt2I10
+_chemical_formula_sum              "Rb4 Pt2 I10"
+_cell_length_a       8.10236
+_cell_length_b       8.10236
+_cell_length_c       11.7151
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    109.648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.52742  0.91799  0.25000  1.0000
+  Rb  Rb2       1.0  0.08201  0.47258  0.75000  1.0000
+  Rb  Rb3       1.0  0.47258  0.08201  0.75000  1.0000
+  Rb  Rb4       1.0  0.91799  0.52742  0.25000  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.50000  1.0000
+  Pt  Pt2       1.0  0.00000  0.00000  0.00000  1.0000
+  I   I1        1.0  0.20246  0.79753  0.50000  1.0000
+  I   I2        1.0  0.20246  0.79753  0.00000  1.0000
+  I   I3        1.0  0.79753  0.20247  0.50000  1.0000
+  I   I4        1.0  0.79753  0.20247  0.00000  1.0000
+  I   I5        1.0  0.29066  0.29066  0.51553  1.0000
+  I   I6        1.0  0.70934  0.70934  0.48447  1.0000
+  I   I7        1.0  0.29066  0.29066  0.98447  1.0000
+  I   I8        1.0  0.70934  0.70934  0.01553  1.0000
+  I   I9        1.0  0.02694  0.02694  0.25000  1.0000
+  I   I10       1.0  0.97306  0.97306  0.75000  1.0000

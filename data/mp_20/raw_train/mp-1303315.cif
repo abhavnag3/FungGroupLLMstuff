@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg4V2W2O12
+_chemical_formula_sum              "Mg4 V2 W2 O12"
+_cell_length_a       5.20531
+_cell_length_b       5.55136
+_cell_length_c       9.03443
+_cell_angle_alpha    74.6271
+_cell_angle_beta     90.9514
+_cell_angle_gamma    62.5862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.67572  0.64274  0.88534  1.0000
+  Mg  Mg2       1.0  0.17577  0.64269  0.38534  1.0000
+  Mg  Mg3       1.0  0.93485  0.14112  0.63318  1.0000
+  Mg  Mg4       1.0  0.43496  0.14117  0.13317  1.0000
+  V   V1        1.0  0.73883  0.51774  0.23885  1.0000
+  V   V2        1.0  0.23880  0.51777  0.73881  1.0000
+  W   W1        1.0  0.98694  0.02368  0.98772  1.0000
+  W   W2        1.0  0.48686  0.02370  0.48770  1.0000
+  O   O1        1.0  0.48834  0.29642  0.59329  1.0000
+  O   O2        1.0  0.98854  0.29641  0.09321  1.0000
+  O   O3        1.0  0.96047  0.81066  0.85596  1.0000
+  O   O4        1.0  0.46068  0.81075  0.35585  1.0000
+  O   O5        1.0  0.39744  0.80964  0.68023  1.0000
+  O   O6        1.0  0.89748  0.80944  0.18016  1.0000
+  O   O7        1.0  0.43048  0.80640  0.04449  1.0000
+  O   O8        1.0  0.93036  0.80632  0.54453  1.0000
+  O   O9        1.0  0.04440  0.30776  0.43184  1.0000
+  O   O10       1.0  0.54439  0.30775  0.93183  1.0000
+  O   O11       1.0  0.01259  0.30850  0.79331  1.0000
+  O   O12       1.0  0.51257  0.30853  0.29328  1.0000

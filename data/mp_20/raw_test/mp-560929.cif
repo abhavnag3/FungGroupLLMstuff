@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Cr2F12
+_chemical_formula_sum              "Na6 Cr2 F12"
+_cell_length_a       5.80623
+_cell_length_b       5.57049
+_cell_length_c       9.76483
+_cell_angle_alpha    55.6013
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.55734  0.72710  0.25562  1.0000
+  Na  Na2       1.0  0.05734  0.27291  0.24438  1.0000
+  Na  Na3       1.0  0.44266  0.27291  0.74438  1.0000
+  Na  Na4       1.0  0.94266  0.72710  0.75562  1.0000
+  Na  Na5       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na6       1.0  0.00000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.50000  0.00000  0.50000  1.0000
+  Cr  Cr2       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.22235  0.75874  0.57294  1.0000
+  F   F2        1.0  0.72235  0.24126  0.92706  1.0000
+  F   F3        1.0  0.77765  0.24126  0.42706  1.0000
+  F   F4        1.0  0.27765  0.75874  0.07294  1.0000
+  F   F5        1.0  0.32136  0.33778  0.44739  1.0000
+  F   F6        1.0  0.82136  0.66222  0.05261  1.0000
+  F   F7        1.0  0.67864  0.66222  0.55261  1.0000
+  F   F8        1.0  0.17864  0.33778  0.94739  1.0000
+  F   F9        1.0  0.05740  0.10703  0.77458  1.0000
+  F   F10       1.0  0.55740  0.89297  0.72542  1.0000
+  F   F11       1.0  0.94260  0.89297  0.22542  1.0000
+  F   F12       1.0  0.44260  0.10703  0.27458  1.0000

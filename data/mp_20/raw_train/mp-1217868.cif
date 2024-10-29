@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       TbFe9Mo3
+_chemical_formula_sum              "Tb1 Fe9 Mo3"
+_cell_length_a       4.78752
+_cell_length_b       6.5264
+_cell_length_c       6.5264
+_cell_angle_alpha    98.3012
+_cell_angle_beta     111.517
+_cell_angle_gamma    68.4827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.99156  0.00844  0.99156  1.0000
+  Fe  Fe1       1.0  0.50175  0.99968  0.50081  1.0000
+  Fe  Fe2       1.0  0.99938  0.99968  0.50081  1.0000
+  Fe  Fe3       1.0  0.50175  0.49919  0.00032  1.0000
+  Fe  Fe4       1.0  0.99938  0.49919  0.00032  1.0000
+  Fe  Fe5       1.0  0.71752  0.78248  0.21752  1.0000
+  Fe  Fe6       1.0  0.27989  0.22011  0.77989  1.0000
+  Fe  Fe7       1.0  0.50174  0.77783  0.78132  1.0000
+  Fe  Fe8       1.0  0.50174  0.21868  0.22217  1.0000
+  Fe  Fe9       1.0  0.64047  0.35953  0.64047  1.0000
+  Mo  Mo1       1.0  0.35848  0.64152  0.35848  1.0000
+  Mo  Mo2       1.0  0.00317  0.35335  0.35968  1.0000
+  Mo  Mo3       1.0  0.00317  0.64032  0.64665  1.0000

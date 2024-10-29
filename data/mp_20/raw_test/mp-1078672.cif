@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ce4Cd2Cu4
+_chemical_formula_sum              "Ce4 Cd2 Cu4"
+_cell_length_a       5.64858
+_cell_length_b       5.64858
+_cell_length_c       7.51494
+_cell_angle_alpha    77.136
+_cell_angle_beta     77.136
+_cell_angle_gamma    79.7321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.79921  0.79920  0.73963  1.0000
+  Ce  Ce2       1.0  0.20079  0.20080  0.26037  1.0000
+  Ce  Ce3       1.0  0.33235  0.33235  0.72709  1.0000
+  Ce  Ce4       1.0  0.66765  0.66765  0.27291  1.0000
+  Cd  Cd1       1.0  0.77559  0.22441  0.00000  1.0000
+  Cd  Cd2       1.0  0.22441  0.77559  0.00000  1.0000
+  Cu  Cu1       1.0  0.67343  0.12551  0.40259  1.0000
+  Cu  Cu2       1.0  0.87449  0.32657  0.59741  1.0000
+  Cu  Cu3       1.0  0.32657  0.87449  0.59741  1.0000
+  Cu  Cu4       1.0  0.12551  0.67343  0.40259  1.0000

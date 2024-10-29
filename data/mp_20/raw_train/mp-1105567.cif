@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Nd14Pt6
+_chemical_formula_sum              "Nd14 Pt6"
+_cell_length_a       6.52263
+_cell_length_b       10.1959
+_cell_length_c       10.1959
+_cell_angle_alpha    120.136
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.45652  0.33328  0.66672  1.0000
+  Nd  Nd2       1.0  0.95652  0.66672  0.33328  1.0000
+  Nd  Nd3       1.0  0.24787  0.12703  0.87297  1.0000
+  Nd  Nd4       1.0  0.24839  0.74567  0.87277  1.0000
+  Nd  Nd5       1.0  0.24839  0.12723  0.25433  1.0000
+  Nd  Nd6       1.0  0.74787  0.87297  0.12703  1.0000
+  Nd  Nd7       1.0  0.74839  0.25433  0.12723  1.0000
+  Nd  Nd8       1.0  0.74839  0.87277  0.74567  1.0000
+  Nd  Nd9       1.0  0.44179  0.53774  0.46226  1.0000
+  Nd  Nd10      1.0  0.44208  0.92486  0.46230  1.0000
+  Nd  Nd11      1.0  0.44208  0.53770  0.07514  1.0000
+  Nd  Nd12      1.0  0.94179  0.46226  0.53774  1.0000
+  Nd  Nd13      1.0  0.94208  0.07514  0.53770  1.0000
+  Nd  Nd14      1.0  0.94208  0.46230  0.92486  1.0000
+  Pt  Pt1       1.0  0.18847  0.81095  0.18905  1.0000
+  Pt  Pt2       1.0  0.18871  0.37807  0.18885  1.0000
+  Pt  Pt3       1.0  0.18871  0.81115  0.62193  1.0000
+  Pt  Pt4       1.0  0.68847  0.18905  0.81095  1.0000
+  Pt  Pt5       1.0  0.68871  0.62193  0.81115  1.0000
+  Pt  Pt6       1.0  0.68871  0.18885  0.37807  1.0000

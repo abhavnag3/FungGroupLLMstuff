@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ba5Cd2Sb4O2
+_chemical_formula_sum              "Ba5 Cd2 Sb4 O2"
+_cell_length_a       5.01514
+_cell_length_b       9.12769
+_cell_length_c       9.53143
+_cell_angle_alpha    83.7998
+_cell_angle_beta     74.7469
+_cell_angle_gamma    74.0546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.97464  0.34763  0.70308  1.0000
+  Ba  Ba2       1.0  0.02536  0.65237  0.29692  1.0000
+  Ba  Ba3       1.0  0.69993  0.95002  0.65012  1.0000
+  Ba  Ba4       1.0  0.30007  0.04998  0.34988  1.0000
+  Ba  Ba5       1.0  0.00000  0.00000  0.00000  1.0000
+  Cd  Cd1       1.0  0.73864  0.40017  0.12255  1.0000
+  Cd  Cd2       1.0  0.26136  0.59983  0.87745  1.0000
+  Sb  Sb1       1.0  0.63509  0.71967  0.01016  1.0000
+  Sb  Sb2       1.0  0.36491  0.28033  0.98984  1.0000
+  Sb  Sb3       1.0  0.60668  0.35368  0.43295  1.0000
+  Sb  Sb4       1.0  0.39332  0.64632  0.56705  1.0000
+  O   O1        1.0  0.87077  0.94556  0.31290  1.0000
+  O   O2        1.0  0.12923  0.05444  0.68710  1.0000

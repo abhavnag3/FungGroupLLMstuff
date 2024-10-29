@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sc7CI12
+_chemical_formula_sum              "Sc7 C1 I12"
+_cell_length_a       9.39291
+_cell_length_b       9.39291
+_cell_length_c       9.39291
+_cell_angle_alpha    108.161
+_cell_angle_beta     108.161
+_cell_angle_gamma    108.161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.09641  0.03814  0.27267  1.0000
+  Sc  Sc2       1.0  0.27267  0.09641  0.03814  1.0000
+  Sc  Sc3       1.0  0.03814  0.27267  0.09641  1.0000
+  Sc  Sc4       1.0  0.73289  0.91466  0.97457  1.0000
+  Sc  Sc5       1.0  0.97457  0.73289  0.91466  1.0000
+  Sc  Sc6       1.0  0.91466  0.97457  0.73289  1.0000
+  Sc  Sc7       1.0  0.47493  0.47493  0.47493  1.0000
+  C   C1        1.0  0.99984  0.99984  0.99984  1.0000
+  I   I1        1.0  0.78121  0.92463  0.29851  1.0000
+  I   I2        1.0  0.38361  0.46023  0.14782  1.0000
+  I   I3        1.0  0.46023  0.14782  0.38361  1.0000
+  I   I4        1.0  0.14782  0.38361  0.46023  1.0000
+  I   I5        1.0  0.29851  0.78121  0.92463  1.0000
+  I   I6        1.0  0.92463  0.29851  0.78121  1.0000
+  I   I7        1.0  0.61780  0.54642  0.83853  1.0000
+  I   I8        1.0  0.83853  0.61780  0.54642  1.0000
+  I   I9        1.0  0.54642  0.83853  0.61780  1.0000
+  I   I10       1.0  0.70444  0.22361  0.07463  1.0000
+  I   I11       1.0  0.07463  0.70444  0.22361  1.0000
+  I   I12       1.0  0.22361  0.07463  0.70444  1.0000

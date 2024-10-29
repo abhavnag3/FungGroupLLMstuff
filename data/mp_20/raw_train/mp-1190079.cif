@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tb4Si8Mo6
+_chemical_formula_sum              "Tb4 Si8 Mo6"
+_cell_length_a       6.9504
+_cell_length_b       6.76815
+_cell_length_c       6.88995
+_cell_angle_alpha    71.0407
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.33154  0.56068  0.80957  1.0000
+  Tb  Tb2       1.0  0.83154  0.93932  0.19043  1.0000
+  Tb  Tb3       1.0  0.66846  0.43932  0.19043  1.0000
+  Tb  Tb4       1.0  0.16846  0.06068  0.80957  1.0000
+  Si  Si1       1.0  0.54494  0.86955  0.90921  1.0000
+  Si  Si2       1.0  0.04494  0.63045  0.09079  1.0000
+  Si  Si3       1.0  0.45506  0.13045  0.09079  1.0000
+  Si  Si4       1.0  0.95506  0.36955  0.90921  1.0000
+  Si  Si5       1.0  0.13225  0.87060  0.49482  1.0000
+  Si  Si6       1.0  0.63225  0.62940  0.50518  1.0000
+  Si  Si7       1.0  0.86775  0.12940  0.50518  1.0000
+  Si  Si8       1.0  0.36775  0.37060  0.49482  1.0000
+  Mo  Mo1       1.0  0.50000  0.00000  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.50000  0.50000  1.0000
+  Mo  Mo3       1.0  0.83722  0.75036  0.75072  1.0000
+  Mo  Mo4       1.0  0.33722  0.74964  0.24928  1.0000
+  Mo  Mo5       1.0  0.16278  0.24964  0.24928  1.0000
+  Mo  Mo6       1.0  0.66278  0.25036  0.75072  1.0000

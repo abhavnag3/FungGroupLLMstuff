@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Dy2Ge2O7
+_chemical_formula_sum              "Dy2 Ge2 O7"
+_cell_length_a       5.80222
+_cell_length_b       5.80222
+_cell_length_c       5.01305
+_cell_angle_alpha    82.5738
+_cell_angle_beta     82.5738
+_cell_angle_gamma    105.291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.30242  0.69758  0.00000  1.0000
+  Dy  Dy2       1.0  0.68982  0.31018  0.00000  1.0000
+  Ge  Ge1       1.0  0.76547  0.77602  0.40882  1.0000
+  Ge  Ge2       1.0  0.22398  0.23453  0.59118  1.0000
+  O   O1        1.0  0.91502  0.60870  0.21232  1.0000
+  O   O2        1.0  0.59454  0.92138  0.21236  1.0000
+  O   O3        1.0  0.59778  0.60447  0.72395  1.0000
+  O   O4        1.0  0.98470  0.01530  0.50000  1.0000
+  O   O5        1.0  0.39553  0.40222  0.27605  1.0000
+  O   O6        1.0  0.07862  0.40547  0.78764  1.0000
+  O   O7        1.0  0.39130  0.08499  0.78768  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Zr4Se12
+_chemical_formula_sum              "Ba4 Zr4 Se12"
+_cell_length_a       4.07532
+_cell_length_b       9.18048
+_cell_length_c       15.1788
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75000  0.56646  0.17455  1.0000
+  Ba  Ba2       1.0  0.25000  0.43354  0.82546  1.0000
+  Ba  Ba3       1.0  0.75000  0.06646  0.32545  1.0000
+  Ba  Ba4       1.0  0.25000  0.93354  0.67454  1.0000
+  Zr  Zr1       1.0  0.25000  0.66368  0.44102  1.0000
+  Zr  Zr2       1.0  0.75000  0.33632  0.55898  1.0000
+  Zr  Zr3       1.0  0.25000  0.16367  0.05898  1.0000
+  Zr  Zr4       1.0  0.75000  0.83632  0.94102  1.0000
+  Se  Se1       1.0  0.75000  0.83185  0.50544  1.0000
+  Se  Se2       1.0  0.25000  0.16815  0.49456  1.0000
+  Se  Se3       1.0  0.75000  0.33185  0.99456  1.0000
+  Se  Se4       1.0  0.25000  0.66815  0.00544  1.0000
+  Se  Se5       1.0  0.25000  0.52414  0.60507  1.0000
+  Se  Se6       1.0  0.75000  0.47586  0.39493  1.0000
+  Se  Se7       1.0  0.25000  0.02414  0.89493  1.0000
+  Se  Se8       1.0  0.75000  0.97586  0.10507  1.0000
+  Se  Se9       1.0  0.25000  0.78614  0.28668  1.0000
+  Se  Se10      1.0  0.75000  0.21386  0.71332  1.0000
+  Se  Se11      1.0  0.25000  0.28614  0.21332  1.0000
+  Se  Se12      1.0  0.75000  0.71386  0.78668  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiPbF5
+_chemical_formula_sum              "Bi1 Pb1 F5"
+_cell_length_a       4.24826
+_cell_length_b       4.34091
+_cell_length_c       7.25509
+_cell_angle_alpha    90.3002
+_cell_angle_beta     106.056
+_cell_angle_gamma    118.475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.88136  0.90357  0.96018  1.0000
+  Pb  Pb1       1.0  0.96490  0.52980  0.44505  1.0000
+  F   F1        1.0  0.79224  0.87008  0.63206  1.0000
+  F   F2        1.0  0.58175  0.74050  0.18136  1.0000
+  F   F3        1.0  0.30081  0.14537  0.37307  1.0000
+  F   F4        1.0  0.70266  0.31610  0.97471  1.0000
+  F   F5        1.0  0.27228  0.61957  0.80856  1.0000

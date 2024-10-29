@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta3MoS8
+_chemical_formula_sum              "Ta3 Mo1 S8"
+_cell_length_a       12.8687
+_cell_length_b       12.8687
+_cell_length_c       5.74792
+_cell_angle_alpha    85.6943
+_cell_angle_beta     85.6943
+_cell_angle_gamma    14.7882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.37512  0.37512  0.54056  1.0000
+  Ta  Ta2       1.0  0.62500  0.62499  0.78858  1.0000
+  Ta  Ta3       1.0  0.87501  0.87501  0.04165  1.0000
+  Mo  Mo1       1.0  0.12492  0.12492  0.29356  1.0000
+  S   S1        1.0  0.68505  0.68505  0.10887  1.0000
+  S   S2        1.0  0.93705  0.93705  0.35457  1.0000
+  S   S3        1.0  0.18610  0.18610  0.60101  1.0000
+  S   S4        1.0  0.43692  0.43692  0.85467  1.0000
+  S   S5        1.0  0.81307  0.81307  0.39625  1.0000
+  S   S6        1.0  0.06376  0.06376  0.64220  1.0000
+  S   S7        1.0  0.31307  0.31307  0.89576  1.0000
+  S   S8        1.0  0.56483  0.56483  0.14903  1.0000

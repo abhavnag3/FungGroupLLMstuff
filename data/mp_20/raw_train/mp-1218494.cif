@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr3CaHf4O12
+_chemical_formula_sum              "Sr3 Ca1 Hf4 O12"
+_cell_length_a       8.20083
+_cell_length_b       5.74993
+_cell_length_c       5.81384
+_cell_angle_alpha    89.9557
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50000  0.00375  0.02962  1.0000
+  Sr  Sr2       1.0  0.00000  0.50695  0.47308  1.0000
+  Sr  Sr3       1.0  0.00000  0.99288  0.96652  1.0000
+  Ca  Ca1       1.0  0.50000  0.50196  0.53883  1.0000
+  Hf  Hf1       1.0  0.25251  0.99990  0.49915  1.0000
+  Hf  Hf2       1.0  0.74803  0.50025  0.00114  1.0000
+  Hf  Hf3       1.0  0.74749  0.99990  0.49915  1.0000
+  Hf  Hf4       1.0  0.25197  0.50025  0.00114  1.0000
+  O   O1        1.0  0.50000  0.56502  0.96358  1.0000
+  O   O2        1.0  0.50000  0.91368  0.48480  1.0000
+  O   O3        1.0  0.00000  0.43287  0.02224  1.0000
+  O   O4        1.0  0.00000  0.06384  0.50901  1.0000
+  O   O5        1.0  0.28233  0.20912  0.79056  1.0000
+  O   O6        1.0  0.70314  0.29725  0.29725  1.0000
+  O   O7        1.0  0.78200  0.79264  0.20744  1.0000
+  O   O8        1.0  0.21621  0.71037  0.71063  1.0000
+  O   O9        1.0  0.21800  0.79264  0.20744  1.0000
+  O   O10       1.0  0.78379  0.71037  0.71063  1.0000
+  O   O11       1.0  0.71767  0.20912  0.79056  1.0000
+  O   O12       1.0  0.29686  0.29725  0.29725  1.0000

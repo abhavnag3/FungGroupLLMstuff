@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Cu3Te2O10
+_chemical_formula_sum              "Cu3 Te2 O10"
+_cell_length_a       5.20733
+_cell_length_b       5.50715
+_cell_length_c       7.77722
+_cell_angle_alpha    108.473
+_cell_angle_beta     97.5046
+_cell_angle_gamma    105.179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu2       1.0  0.69913  0.88388  0.90393  1.0000
+  Cu  Cu3       1.0  0.30087  0.11612  0.09607  1.0000
+  Te  Te1       1.0  0.11429  0.70775  0.69480  1.0000
+  Te  Te2       1.0  0.88571  0.29225  0.30520  1.0000
+  O   O1        1.0  0.06405  0.04796  0.84482  1.0000
+  O   O2        1.0  0.31369  0.71880  0.94394  1.0000
+  O   O3        1.0  0.09621  0.32856  0.54345  1.0000
+  O   O4        1.0  0.19773  0.45441  0.20575  1.0000
+  O   O5        1.0  0.47303  0.86910  0.68032  1.0000
+  O   O6        1.0  0.52697  0.13090  0.31968  1.0000
+  O   O7        1.0  0.80227  0.54559  0.79425  1.0000
+  O   O8        1.0  0.90378  0.67144  0.45655  1.0000
+  O   O9        1.0  0.68631  0.28120  0.05606  1.0000
+  O   O10       1.0  0.93595  0.95204  0.15518  1.0000

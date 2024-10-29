@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Ho2Br12
+_chemical_formula_sum              "Na6 Ho2 Br12"
+_cell_length_a       7.73986
+_cell_length_b       7.40018
+_cell_length_c       13.1744
+_cell_angle_alpha    55.9329
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na2       1.0  0.00000  0.50000  0.50000  1.0000
+  Na  Na3       1.0  0.06005  0.72770  0.75647  1.0000
+  Na  Na4       1.0  0.93995  0.27230  0.24353  1.0000
+  Na  Na5       1.0  0.56005  0.27230  0.74353  1.0000
+  Na  Na6       1.0  0.43995  0.72770  0.25647  1.0000
+  Ho  Ho1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ho  Ho2       1.0  0.00000  0.00000  0.00000  1.0000
+  Br  Br1       1.0  0.80389  0.75463  0.57773  1.0000
+  Br  Br2       1.0  0.19611  0.24537  0.42227  1.0000
+  Br  Br3       1.0  0.30389  0.24537  0.92227  1.0000
+  Br  Br4       1.0  0.69611  0.75463  0.07773  1.0000
+  Br  Br5       1.0  0.43423  0.89499  0.73838  1.0000
+  Br  Br6       1.0  0.56577  0.10501  0.26162  1.0000
+  Br  Br7       1.0  0.93423  0.10501  0.76162  1.0000
+  Br  Br8       1.0  0.06577  0.89499  0.23838  1.0000
+  Br  Br9       1.0  0.32242  0.62329  0.56442  1.0000
+  Br  Br10      1.0  0.67758  0.37671  0.43558  1.0000
+  Br  Br11      1.0  0.82242  0.37671  0.93558  1.0000
+  Br  Br12      1.0  0.17758  0.62329  0.06442  1.0000

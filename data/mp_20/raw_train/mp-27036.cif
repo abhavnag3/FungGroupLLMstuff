@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CrP2O7
+_chemical_formula_sum              "Cr1 P2 O7"
+_cell_length_a       5.15352
+_cell_length_b       5.15352
+_cell_length_c       4.54864
+_cell_angle_alpha    81.817
+_cell_angle_beta     81.817
+_cell_angle_gamma    100.133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.88772  0.11228  0.00000  1.0000
+  P   P1        1.0  0.33402  0.25991  0.40992  1.0000
+  P   P2        1.0  0.74009  0.66598  0.59008  1.0000
+  O   O1        1.0  0.86270  0.44464  0.73657  1.0000
+  O   O2        1.0  0.14301  0.33643  0.19745  1.0000
+  O   O3        1.0  0.18416  0.07827  0.70462  1.0000
+  O   O4        1.0  0.66357  0.85699  0.80255  1.0000
+  O   O5        1.0  0.46113  0.53887  0.50000  1.0000
+  O   O6        1.0  0.92173  0.81584  0.29538  1.0000
+  O   O7        1.0  0.55536  0.13730  0.26343  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Eu4C4O12
+_chemical_formula_sum              "Eu4 C4 O12"
+_cell_length_a       5.17418
+_cell_length_b       6.07245
+_cell_length_c       8.4999
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.25000  0.25568  0.91619  1.0000
+  Eu  Eu2       1.0  0.75000  0.24432  0.41619  1.0000
+  Eu  Eu3       1.0  0.75000  0.74432  0.08381  1.0000
+  Eu  Eu4       1.0  0.25000  0.75568  0.58381  1.0000
+  C   C1        1.0  0.25000  0.41343  0.25931  1.0000
+  C   C2        1.0  0.75000  0.58657  0.74069  1.0000
+  C   C3        1.0  0.75000  0.08657  0.75931  1.0000
+  C   C4        1.0  0.25000  0.91343  0.24069  1.0000
+  O   O1        1.0  0.96804  0.08689  0.68223  1.0000
+  O   O2        1.0  0.46804  0.41311  0.18223  1.0000
+  O   O3        1.0  0.46804  0.91311  0.31777  1.0000
+  O   O4        1.0  0.75000  0.59814  0.58786  1.0000
+  O   O5        1.0  0.75000  0.09814  0.91214  1.0000
+  O   O6        1.0  0.53196  0.08689  0.68223  1.0000
+  O   O7        1.0  0.25000  0.90186  0.08786  1.0000
+  O   O8        1.0  0.25000  0.40186  0.41214  1.0000
+  O   O9        1.0  0.53196  0.58689  0.81777  1.0000
+  O   O10       1.0  0.96804  0.58689  0.81777  1.0000
+  O   O11       1.0  0.03196  0.41311  0.18223  1.0000
+  O   O12       1.0  0.03196  0.91311  0.31777  1.0000

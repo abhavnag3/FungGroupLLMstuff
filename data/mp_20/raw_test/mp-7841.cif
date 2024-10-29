@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Ga4Se8
+_chemical_formula_sum              "Ba2 Ga4 Se8"
+_cell_length_a       6.58439
+_cell_length_b       6.58439
+_cell_length_c       11.6079
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    122.193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.50000  0.50000  0.75000  1.0000
+  Ba  Ba2       1.0  0.50000  0.50000  0.25000  1.0000
+  Ga  Ga1       1.0  0.24214  0.75970  0.00000  1.0000
+  Ga  Ga2       1.0  0.75786  0.24030  0.00000  1.0000
+  Ga  Ga3       1.0  0.24031  0.75786  0.50000  1.0000
+  Ga  Ga4       1.0  0.75970  0.24214  0.50000  1.0000
+  Se  Se1       1.0  0.50000  0.00000  0.83881  1.0000
+  Se  Se2       1.0  0.00000  0.50000  0.66119  1.0000
+  Se  Se3       1.0  0.64733  0.82450  0.50000  1.0000
+  Se  Se4       1.0  0.35267  0.17550  0.50000  1.0000
+  Se  Se5       1.0  0.82450  0.64733  0.00000  1.0000
+  Se  Se6       1.0  0.17550  0.35268  0.00000  1.0000
+  Se  Se7       1.0  0.50000  0.00000  0.16119  1.0000
+  Se  Se8       1.0  0.00000  0.50000  0.33881  1.0000

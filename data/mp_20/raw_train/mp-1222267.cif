@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LuZnFeO4
+_chemical_formula_sum              "Lu1 Zn1 Fe1 O4"
+_cell_length_a       8.83175
+_cell_length_b       8.83175
+_cell_length_c       8.83175
+_cell_angle_alpha    22.3864
+_cell_angle_beta     22.3864
+_cell_angle_gamma    22.3864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00303  0.00303  0.00303  1.0000
+  Zn  Zn1       1.0  0.21924  0.21924  0.21924  1.0000
+  Fe  Fe1       1.0  0.78665  0.78665  0.78665  1.0000
+  O   O1        1.0  0.12001  0.12001  0.12001  1.0000
+  O   O2        1.0  0.86503  0.86503  0.86503  1.0000
+  O   O3        1.0  0.29621  0.29621  0.29621  1.0000
+  O   O4        1.0  0.70982  0.70982  0.70982  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca2Ta2Al2O10
+_chemical_formula_sum              "Ca2 Ta2 Al2 O10"
+_cell_length_a       5.65022
+_cell_length_b       5.65022
+_cell_length_c       7.46427
+_cell_angle_alpha    75.3556
+_cell_angle_beta     75.3556
+_cell_angle_gamma    105.747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.33122  0.66878  0.25000  1.0000
+  Ca  Ca2       1.0  0.66878  0.33123  0.75000  1.0000
+  Ta  Ta1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ta  Ta2       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al1       1.0  0.68306  0.31694  0.25000  1.0000
+  Al  Al2       1.0  0.31694  0.68306  0.75000  1.0000
+  O   O1        1.0  0.07303  0.92697  0.25000  1.0000
+  O   O2        1.0  0.92697  0.07303  0.75000  1.0000
+  O   O3        1.0  0.30593  0.89648  0.88853  1.0000
+  O   O4        1.0  0.10352  0.69407  0.61147  1.0000
+  O   O5        1.0  0.69407  0.10352  0.11147  1.0000
+  O   O6        1.0  0.89648  0.30593  0.38853  1.0000
+  O   O7        1.0  0.74895  0.63529  0.09029  1.0000
+  O   O8        1.0  0.36471  0.25105  0.40971  1.0000
+  O   O9        1.0  0.25105  0.36471  0.90971  1.0000
+  O   O10       1.0  0.63529  0.74895  0.59029  1.0000

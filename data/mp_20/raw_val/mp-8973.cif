@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Na2Si4N6
+_chemical_formula_sum              "Na2 Si4 N6"
+_cell_length_a       5.50819
+_cell_length_b       5.50819
+_cell_length_c       4.91306
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.33724  0.33724  0.51392  1.0000
+  Na  Na2       1.0  0.66276  0.66276  0.01392  1.0000
+  Si  Si1       1.0  0.98273  0.32404  0.98828  1.0000
+  Si  Si2       1.0  0.01727  0.67597  0.48828  1.0000
+  Si  Si3       1.0  0.67597  0.01727  0.48828  1.0000
+  Si  Si4       1.0  0.32404  0.98273  0.98828  1.0000
+  N   N1        1.0  0.22636  0.22636  0.03089  1.0000
+  N   N2        1.0  0.77364  0.77364  0.53090  1.0000
+  N   N3        1.0  0.34481  0.90592  0.64081  1.0000
+  N   N4        1.0  0.90592  0.34481  0.64081  1.0000
+  N   N5        1.0  0.09408  0.65519  0.14081  1.0000
+  N   N6        1.0  0.65519  0.09408  0.14081  1.0000

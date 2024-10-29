@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Cu3As2O8
+_chemical_formula_sum              "Cu3 As2 O8"
+_cell_length_a       5.11415
+_cell_length_b       5.58369
+_cell_length_c       6.48609
+_cell_angle_alpha    108.859
+_cell_angle_beta     87.1555
+_cell_angle_gamma    111.883
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.73705  0.20198  0.67461  1.0000
+  Cu  Cu3       1.0  0.26295  0.79802  0.32539  1.0000
+  As  As1       1.0  0.63666  0.34455  0.21773  1.0000
+  As  As2       1.0  0.36334  0.65545  0.78227  1.0000
+  O   O1        1.0  0.38065  0.87367  0.63331  1.0000
+  O   O2        1.0  0.61935  0.12633  0.36669  1.0000
+  O   O3        1.0  0.22030  0.79472  0.02389  1.0000
+  O   O4        1.0  0.77970  0.20528  0.97611  1.0000
+  O   O5        1.0  0.68829  0.65379  0.84059  1.0000
+  O   O6        1.0  0.85911  0.66758  0.35664  1.0000
+  O   O7        1.0  0.14089  0.33242  0.64336  1.0000
+  O   O8        1.0  0.31171  0.34621  0.15941  1.0000

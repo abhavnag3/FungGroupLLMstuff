@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       BaNa2MgP2O8
+_chemical_formula_sum              "Ba1 Na2 Mg1 P2 O8"
+_cell_length_a       5.38384
+_cell_length_b       5.38384
+_cell_length_c       7.06343
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.50000  1.0000
+  Na  Na1       1.0  0.33333  0.66667  0.18092  1.0000
+  Na  Na2       1.0  0.66667  0.33333  0.81908  1.0000
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  P   P1        1.0  0.33333  0.66667  0.74321  1.0000
+  P   P2        1.0  0.66667  0.33333  0.25679  1.0000
+  O   O1        1.0  0.33333  0.66667  0.52536  1.0000
+  O   O2        1.0  0.66667  0.33333  0.47464  1.0000
+  O   O3        1.0  0.82293  0.64586  0.17869  1.0000
+  O   O4        1.0  0.82293  0.17707  0.17869  1.0000
+  O   O5        1.0  0.35414  0.17707  0.17869  1.0000
+  O   O6        1.0  0.17707  0.35414  0.82132  1.0000
+  O   O7        1.0  0.17707  0.82293  0.82132  1.0000
+  O   O8        1.0  0.64586  0.82293  0.82132  1.0000

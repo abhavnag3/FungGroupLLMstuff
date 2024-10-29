@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sm4Ga4Pd8
+_chemical_formula_sum              "Sm4 Ga4 Pd8"
+_cell_length_a       5.69005
+_cell_length_b       7.18623
+_cell_length_c       7.53474
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.35047  0.75000  0.03292  1.0000
+  Sm  Sm2       1.0  0.14953  0.75000  0.53292  1.0000
+  Sm  Sm3       1.0  0.64953  0.25000  0.96708  1.0000
+  Sm  Sm4       1.0  0.85047  0.25000  0.46708  1.0000
+  Ga  Ga1       1.0  0.64979  0.75000  0.38196  1.0000
+  Ga  Ga2       1.0  0.85021  0.75000  0.88196  1.0000
+  Ga  Ga3       1.0  0.35021  0.25000  0.61804  1.0000
+  Ga  Ga4       1.0  0.14979  0.25000  0.11804  1.0000
+  Pd  Pd1       1.0  0.91219  0.55185  0.17868  1.0000
+  Pd  Pd2       1.0  0.58781  0.94815  0.67868  1.0000
+  Pd  Pd3       1.0  0.08781  0.05185  0.82132  1.0000
+  Pd  Pd4       1.0  0.41219  0.44815  0.32132  1.0000
+  Pd  Pd5       1.0  0.08781  0.44815  0.82132  1.0000
+  Pd  Pd6       1.0  0.41219  0.05185  0.32132  1.0000
+  Pd  Pd7       1.0  0.91219  0.94815  0.17868  1.0000
+  Pd  Pd8       1.0  0.58781  0.55185  0.67868  1.0000

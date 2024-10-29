@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tm2H6O6
+_chemical_formula_sum              "Tm2 H6 O6"
+_cell_length_a       3.43216
+_cell_length_b       6.2688
+_cell_length_c       6.33406
+_cell_angle_alpha    62.4452
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.75000  0.65554  0.67755  1.0000
+  Tm  Tm2       1.0  0.25000  0.34446  0.32245  1.0000
+  H   H1        1.0  0.75000  0.72812  0.14225  1.0000
+  H   H2        1.0  0.75000  0.13627  0.13609  1.0000
+  H   H3        1.0  0.75000  0.13942  0.68860  1.0000
+  H   H4        1.0  0.25000  0.27188  0.85775  1.0000
+  H   H5        1.0  0.25000  0.86373  0.86391  1.0000
+  H   H6        1.0  0.25000  0.86058  0.31140  1.0000
+  O   O1        1.0  0.75000  0.60637  0.08715  1.0000
+  O   O2        1.0  0.75000  0.09398  0.30433  1.0000
+  O   O3        1.0  0.75000  0.31424  0.58969  1.0000
+  O   O4        1.0  0.25000  0.39363  0.91285  1.0000
+  O   O5        1.0  0.25000  0.90602  0.69567  1.0000
+  O   O6        1.0  0.25000  0.68576  0.41031  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca10Pt6
+_chemical_formula_sum              "Ca10 Pt6"
+_cell_length_a       8.64695
+_cell_length_b       8.64695
+_cell_length_c       8.64695
+_cell_angle_alpha    96.8513
+_cell_angle_beta     96.8513
+_cell_angle_gamma    139.589
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.71165  0.58212  0.29377  1.0000
+  Ca  Ca2       1.0  0.28835  0.41788  0.70623  1.0000
+  Ca  Ca3       1.0  0.78835  0.08212  0.87047  1.0000
+  Ca  Ca4       1.0  0.21165  0.91788  0.12953  1.0000
+  Ca  Ca5       1.0  0.58212  0.28835  0.87047  1.0000
+  Ca  Ca6       1.0  0.41788  0.71165  0.12953  1.0000
+  Ca  Ca7       1.0  0.08212  0.21165  0.29377  1.0000
+  Ca  Ca8       1.0  0.91788  0.78835  0.70623  1.0000
+  Ca  Ca9       1.0  0.75000  0.25000  0.50000  1.0000
+  Ca  Ca10      1.0  0.25000  0.75000  0.50000  1.0000
+  Pt  Pt1       1.0  0.15592  0.65592  0.81183  1.0000
+  Pt  Pt2       1.0  0.84408  0.34408  0.18817  1.0000
+  Pt  Pt3       1.0  0.34408  0.15592  0.50000  1.0000
+  Pt  Pt4       1.0  0.65592  0.84408  0.50000  1.0000
+  Pt  Pt5       1.0  0.25000  0.25000  0.00000  1.0000
+  Pt  Pt6       1.0  0.75000  0.75000  0.00000  1.0000

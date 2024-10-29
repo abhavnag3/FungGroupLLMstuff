@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       VFe3Cu4O8
+_chemical_formula_sum              "V1 Fe3 Cu4 O8"
+_cell_length_a       3.07267
+_cell_length_b       3.07267
+_cell_length_c       23.1621
+_cell_angle_alpha    86.1968
+_cell_angle_beta     86.1968
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.62500  0.62500  0.12500  1.0000
+  Fe  Fe1       1.0  0.87496  0.87496  0.37513  1.0000
+  Fe  Fe2       1.0  0.12500  0.12500  0.62500  1.0000
+  Fe  Fe3       1.0  0.37504  0.37504  0.87487  1.0000
+  Cu  Cu1       1.0  0.00004  0.00003  0.99989  1.0000
+  Cu  Cu2       1.0  0.24996  0.24996  0.25011  1.0000
+  Cu  Cu3       1.0  0.49992  0.49992  0.50023  1.0000
+  Cu  Cu4       1.0  0.75008  0.75008  0.74977  1.0000
+  O   O1        1.0  0.27671  0.27671  0.16986  1.0000
+  O   O2        1.0  0.52660  0.52660  0.42020  1.0000
+  O   O3        1.0  0.77672  0.77672  0.66984  1.0000
+  O   O4        1.0  0.02670  0.02670  0.91990  1.0000
+  O   O5        1.0  0.97329  0.97329  0.08014  1.0000
+  O   O6        1.0  0.22330  0.22330  0.33010  1.0000
+  O   O7        1.0  0.47328  0.47328  0.58016  1.0000
+  O   O8        1.0  0.72340  0.72340  0.82980  1.0000

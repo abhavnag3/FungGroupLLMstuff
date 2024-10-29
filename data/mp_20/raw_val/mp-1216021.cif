@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Y4Al4Fe4
+_chemical_formula_sum              "Y4 Al4 Fe4"
+_cell_length_a       5.31677
+_cell_length_b       5.31672
+_cell_length_c       8.73798
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.9116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.33373  0.33373  0.55517  1.0000
+  Y   Y2        1.0  0.66888  0.66888  0.42692  1.0000
+  Y   Y3        1.0  0.66888  0.66888  0.07308  1.0000
+  Y   Y4        1.0  0.33373  0.33373  0.94483  1.0000
+  Al  Al1       1.0  0.99478  0.99477  0.48576  1.0000
+  Al  Al2       1.0  0.99478  0.99477  0.01424  1.0000
+  Al  Al3       1.0  0.83358  0.34012  0.75000  1.0000
+  Al  Al4       1.0  0.34012  0.83358  0.75000  1.0000
+  Fe  Fe1       1.0  0.83279  0.83279  0.75000  1.0000
+  Fe  Fe2       1.0  0.17941  0.64628  0.25000  1.0000
+  Fe  Fe3       1.0  0.64627  0.17944  0.25000  1.0000
+  Fe  Fe4       1.0  0.17305  0.17304  0.25000  1.0000

@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Tm6WO12
+_chemical_formula_sum              "Tm6 W1 O12"
+_cell_length_a       6.39378
+_cell_length_b       6.39378
+_cell_length_c       6.39378
+_cell_angle_alpha    98.7138
+_cell_angle_beta     98.7138
+_cell_angle_gamma    98.7137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.85559  0.38888  0.68121  1.0000
+  Tm  Tm2       1.0  0.61112  0.31879  0.14441  1.0000
+  Tm  Tm3       1.0  0.31879  0.14441  0.61112  1.0000
+  Tm  Tm4       1.0  0.68121  0.85559  0.38888  1.0000
+  Tm  Tm5       1.0  0.38888  0.68121  0.85559  1.0000
+  Tm  Tm6       1.0  0.14441  0.61112  0.31879  1.0000
+  W   W1        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.92073  0.03573  0.69978  1.0000
+  O   O2        1.0  0.96427  0.30022  0.07927  1.0000
+  O   O3        1.0  0.59015  0.17737  0.42983  1.0000
+  O   O4        1.0  0.82263  0.57017  0.40986  1.0000
+  O   O5        1.0  0.30022  0.07927  0.96427  1.0000
+  O   O6        1.0  0.57017  0.40986  0.82263  1.0000
+  O   O7        1.0  0.42983  0.59015  0.17737  1.0000
+  O   O8        1.0  0.69978  0.92073  0.03573  1.0000
+  O   O9        1.0  0.17737  0.42982  0.59015  1.0000
+  O   O10       1.0  0.40986  0.82263  0.57017  1.0000
+  O   O11       1.0  0.03573  0.69978  0.92073  1.0000
+  O   O12       1.0  0.07927  0.96427  0.30022  1.0000

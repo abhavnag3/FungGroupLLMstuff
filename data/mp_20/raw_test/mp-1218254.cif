@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       SrLa3Ni2O8
+_chemical_formula_sum              "Sr1 La3 Ni2 O8"
+_cell_length_a       5.44067
+_cell_length_b       5.45598
+_cell_length_c       6.91384
+_cell_angle_alpha    89.9916
+_cell_angle_beta     66.8284
+_cell_angle_gamma    90.0005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.64168  1.00000  0.71663  1.0000
+  La  La1       1.0  0.13762  0.50001  0.72488  1.0000
+  La  La2       1.0  0.85923  0.49999  0.28162  1.0000
+  La  La3       1.0  0.36231  1.00000  0.27538  1.0000
+  Ni  Ni1       1.0  0.50455  0.49995  0.99082  1.0000
+  Ni  Ni2       1.0  0.00283  0.00004  0.99430  1.0000
+  O   O1        1.0  0.31991  0.49995  0.36014  1.0000
+  O   O2        1.0  0.83526  0.99998  0.32945  1.0000
+  O   O3        1.0  0.17486  0.00004  0.65034  1.0000
+  O   O4        1.0  0.67572  0.50008  0.64860  1.0000
+  O   O5        1.0  0.74434  0.25798  0.00695  1.0000
+  O   O6        1.0  0.24869  0.74201  0.00698  1.0000
+  O   O7        1.0  0.24866  0.25800  0.00693  1.0000
+  O   O8        1.0  0.74435  0.74196  0.00699  1.0000

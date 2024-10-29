@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pa2Bi6
+_chemical_formula_sum              "Pa2 Bi6"
+_cell_length_a       6.6734
+_cell_length_b       6.6734
+_cell_length_c       6.08596
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pa  Pa1       1.0  0.33333  0.66667  0.75000  1.0000
+  Pa  Pa2       1.0  0.66667  0.33333  0.25000  1.0000
+  Bi  Bi1       1.0  0.17189  0.34377  0.25000  1.0000
+  Bi  Bi2       1.0  0.65623  0.82811  0.25000  1.0000
+  Bi  Bi3       1.0  0.17189  0.82811  0.25000  1.0000
+  Bi  Bi4       1.0  0.82811  0.65623  0.75000  1.0000
+  Bi  Bi5       1.0  0.34377  0.17189  0.75000  1.0000
+  Bi  Bi6       1.0  0.82811  0.17189  0.75000  1.0000

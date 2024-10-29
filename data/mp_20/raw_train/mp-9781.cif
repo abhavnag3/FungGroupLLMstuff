@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K6Sb2S8
+_chemical_formula_sum              "K6 Sb2 S8"
+_cell_length_a       7.94179
+_cell_length_b       7.94179
+_cell_length_c       7.82567
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    93.3315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.69549  0.30451  0.98040  1.0000
+  K   K2        1.0  0.30451  0.69549  0.48040  1.0000
+  K   K3        1.0  0.25646  0.18244  0.48631  1.0000
+  K   K4        1.0  0.74354  0.81756  0.98631  1.0000
+  K   K5        1.0  0.81756  0.74354  0.48631  1.0000
+  K   K6        1.0  0.18244  0.25646  0.98631  1.0000
+  Sb  Sb1       1.0  0.75809  0.24191  0.48186  1.0000
+  Sb  Sb2       1.0  0.24191  0.75809  0.98186  1.0000
+  S   S1        1.0  0.42525  0.57475  0.84424  1.0000
+  S   S2        1.0  0.57475  0.42525  0.34424  1.0000
+  S   S3        1.0  0.09243  0.90757  0.77346  1.0000
+  S   S4        1.0  0.90757  0.09243  0.27346  1.0000
+  S   S5        1.0  0.40269  0.95213  0.15481  1.0000
+  S   S6        1.0  0.59731  0.04787  0.65481  1.0000
+  S   S7        1.0  0.04787  0.59731  0.15481  1.0000
+  S   S8        1.0  0.95213  0.40269  0.65481  1.0000

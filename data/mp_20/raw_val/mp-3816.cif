@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Er12Ni4Sn2
+_chemical_formula_sum              "Er12 Ni4 Sn2"
+_cell_length_a       8.34028
+_cell_length_b       8.34028
+_cell_length_c       8.34028
+_cell_angle_alpha    113.055
+_cell_angle_beta     109.766
+_cell_angle_gamma    105.676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.32547  0.13483  0.80936  1.0000
+  Er  Er2       1.0  0.67453  0.48389  0.80936  1.0000
+  Er  Er3       1.0  0.43779  0.73335  0.70445  1.0000
+  Er  Er4       1.0  0.56221  0.26665  0.29555  1.0000
+  Er  Er5       1.0  0.97110  0.26665  0.70445  1.0000
+  Er  Er6       1.0  0.02890  0.73335  0.29555  1.0000
+  Er  Er7       1.0  0.32547  0.51611  0.19064  1.0000
+  Er  Er8       1.0  0.67453  0.86517  0.19064  1.0000
+  Er  Er9       1.0  0.18255  0.79199  0.97454  1.0000
+  Er  Er10      1.0  0.81745  0.79199  0.60944  1.0000
+  Er  Er11      1.0  0.18255  0.20801  0.39056  1.0000
+  Er  Er12      1.0  0.81745  0.20801  0.02547  1.0000
+  Ni  Ni1       1.0  0.87645  0.87645  0.00000  1.0000
+  Ni  Ni2       1.0  0.12355  0.12355  0.00000  1.0000
+  Ni  Ni3       1.0  0.65055  0.50000  0.15055  1.0000
+  Ni  Ni4       1.0  0.34945  0.50000  0.84945  1.0000
+  Sn  Sn1       1.0  0.50000  0.00000  0.50000  1.0000
+  Sn  Sn2       1.0  0.00000  0.50000  0.50000  1.0000

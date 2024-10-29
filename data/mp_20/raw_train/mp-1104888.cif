@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn2Ag4I8
+_chemical_formula_sum              "Zn2 Ag4 I8"
+_cell_length_a       7.47974
+_cell_length_b       7.84452
+_cell_length_c       9.22643
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.37715  0.67906  0.50000  1.0000
+  Zn  Zn2       1.0  0.87715  0.32094  0.00000  1.0000
+  Ag  Ag1       1.0  0.37541  0.16946  0.74770  1.0000
+  Ag  Ag2       1.0  0.37541  0.16946  0.25230  1.0000
+  Ag  Ag3       1.0  0.87541  0.83054  0.75230  1.0000
+  Ag  Ag4       1.0  0.87541  0.83054  0.24770  1.0000
+  I   I1        1.0  0.50176  0.35884  0.50000  1.0000
+  I   I2        1.0  0.00176  0.64116  0.00000  1.0000
+  I   I3        1.0  0.02105  0.66552  0.50000  1.0000
+  I   I4        1.0  0.52105  0.33448  0.00000  1.0000
+  I   I5        1.0  0.49081  0.82248  0.74368  1.0000
+  I   I6        1.0  0.49081  0.82248  0.25632  1.0000
+  I   I7        1.0  0.99081  0.17752  0.75632  1.0000
+  I   I8        1.0  0.99081  0.17752  0.24368  1.0000

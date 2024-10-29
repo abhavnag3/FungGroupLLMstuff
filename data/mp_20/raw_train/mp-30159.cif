@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Au2Br2F12
+_chemical_formula_sum              "Au2 Br2 F12"
+_cell_length_a       5.79034
+_cell_length_b       5.60352
+_cell_length_c       9.03495
+_cell_angle_alpha    78.2382
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.24452  0.26353  0.90517  1.0000
+  Au  Au2       1.0  0.74451  0.73647  0.09483  1.0000
+  Br  Br1       1.0  0.25889  0.45255  0.32643  1.0000
+  Br  Br2       1.0  0.75889  0.54745  0.67357  1.0000
+  F   F1        1.0  0.59177  0.80432  0.58134  1.0000
+  F   F2        1.0  0.09177  0.19568  0.41866  1.0000
+  F   F3        1.0  0.02399  0.71030  0.62276  1.0000
+  F   F4        1.0  0.52399  0.28970  0.37724  1.0000
+  F   F5        1.0  0.54999  0.82259  0.91719  1.0000
+  F   F6        1.0  0.04999  0.17741  0.08281  1.0000
+  F   F7        1.0  0.01034  0.71434  0.96760  1.0000
+  F   F8        1.0  0.51034  0.28566  0.03240  1.0000
+  F   F9        1.0  0.93957  0.65436  0.28357  1.0000
+  F   F10       1.0  0.43957  0.34564  0.71643  1.0000
+  F   F11       1.0  0.47093  0.76147  0.22907  1.0000
+  F   F12       1.0  0.97093  0.23853  0.77093  1.0000

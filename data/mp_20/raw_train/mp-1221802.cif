@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Mn2P2O7
+_chemical_formula_sum              "Mn2 P2 O7"
+_cell_length_a       4.60701
+_cell_length_b       5.49577
+_cell_length_c       5.49571
+_cell_angle_alpha    104.677
+_cell_angle_beta     97.7412
+_cell_angle_gamma    97.7367
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50001  0.30969  0.69034  1.0000
+  Mn  Mn2       1.0  0.50001  0.68878  0.31121  1.0000
+  P   P1        1.0  0.90744  0.21298  0.21741  1.0000
+  P   P2        1.0  0.09256  0.78259  0.78701  1.0000
+  O   O1        1.0  1.00000  0.99206  0.00793  1.0000
+  O   O2        1.0  0.72497  0.07781  0.37543  1.0000
+  O   O3        1.0  0.27502  0.62457  0.92219  1.0000
+  O   O4        1.0  0.72545  0.36651  0.07666  1.0000
+  O   O5        1.0  0.27454  0.92334  0.63348  1.0000
+  O   O6        1.0  0.20555  0.37157  0.37251  1.0000
+  O   O7        1.0  0.79445  0.62748  0.62843  1.0000

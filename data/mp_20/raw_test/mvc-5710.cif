@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn4Cu2Ir2O12
+_chemical_formula_sum              "Zn4 Cu2 Ir2 O12"
+_cell_length_a       5.19674
+_cell_length_b       5.13004
+_cell_length_c       9.2369
+_cell_angle_alpha    56.844
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.94429  0.24210  0.75086  1.0000
+  Zn  Zn2       1.0  0.44429  0.75790  0.74914  1.0000
+  Zn  Zn3       1.0  0.55571  0.24210  0.25086  1.0000
+  Zn  Zn4       1.0  0.05571  0.75790  0.24914  1.0000
+  Cu  Cu1       1.0  0.50000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ir  Ir1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ir  Ir2       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.42744  0.60321  0.26240  1.0000
+  O   O2        1.0  0.18358  0.88906  0.92874  1.0000
+  O   O3        1.0  0.18305  0.24674  0.57618  1.0000
+  O   O4        1.0  0.68305  0.75326  0.92382  1.0000
+  O   O5        1.0  0.68358  0.11094  0.57126  1.0000
+  O   O6        1.0  0.92744  0.39679  0.23760  1.0000
+  O   O7        1.0  0.07256  0.60321  0.76240  1.0000
+  O   O8        1.0  0.31642  0.88906  0.42874  1.0000
+  O   O9        1.0  0.31695  0.24674  0.07619  1.0000
+  O   O10       1.0  0.81642  0.11095  0.07126  1.0000
+  O   O11       1.0  0.81695  0.75326  0.42381  1.0000
+  O   O12       1.0  0.57256  0.39679  0.73760  1.0000

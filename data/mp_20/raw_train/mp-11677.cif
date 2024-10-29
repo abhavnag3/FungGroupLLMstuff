@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr6Si4As8
+_chemical_formula_sum              "Sr6 Si4 As8"
+_cell_length_a       9.68894
+_cell_length_b       9.68894
+_cell_length_c       7.45637
+_cell_angle_alpha    75.0613
+_cell_angle_beta     75.0613
+_cell_angle_gamma    122.661
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.94107  0.05893  0.25000  1.0000
+  Sr  Sr2       1.0  0.05893  0.94107  0.75000  1.0000
+  Sr  Sr3       1.0  0.56464  0.43536  0.75000  1.0000
+  Sr  Sr4       1.0  0.43536  0.56464  0.25000  1.0000
+  Sr  Sr5       1.0  0.81397  0.18603  0.75000  1.0000
+  Sr  Sr6       1.0  0.18603  0.81397  0.25000  1.0000
+  Si  Si1       1.0  0.16956  0.52833  0.84420  1.0000
+  Si  Si2       1.0  0.47167  0.83044  0.65580  1.0000
+  Si  Si3       1.0  0.83044  0.47167  0.15580  1.0000
+  Si  Si4       1.0  0.52833  0.16956  0.34420  1.0000
+  As  As1       1.0  0.94954  0.55576  0.78207  1.0000
+  As  As2       1.0  0.44424  0.05046  0.71793  1.0000
+  As  As3       1.0  0.67816  0.81140  0.74802  1.0000
+  As  As4       1.0  0.18860  0.32184  0.75198  1.0000
+  As  As5       1.0  0.32184  0.18860  0.25198  1.0000
+  As  As6       1.0  0.81140  0.67816  0.24802  1.0000
+  As  As7       1.0  0.55576  0.94954  0.28207  1.0000
+  As  As8       1.0  0.05046  0.44424  0.21793  1.0000

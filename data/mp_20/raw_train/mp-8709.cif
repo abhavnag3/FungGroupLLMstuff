@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K2In2Ge4O12
+_chemical_formula_sum              "K2 In2 Ge4 O12"
+_cell_length_a       7.13634
+_cell_length_b       7.13634
+_cell_length_c       5.72381
+_cell_angle_alpha    78.82
+_cell_angle_beta     78.82
+_cell_angle_gamma    85.0624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.31178  0.68822  0.75000  1.0000
+  K   K2        1.0  0.68822  0.31178  0.25000  1.0000
+  In  In1       1.0  0.89598  0.10402  0.75000  1.0000
+  In  In2       1.0  0.10402  0.89598  0.25000  1.0000
+  Ge  Ge1       1.0  0.19549  0.37355  0.29191  1.0000
+  Ge  Ge2       1.0  0.80451  0.62645  0.70808  1.0000
+  Ge  Ge3       1.0  0.62645  0.80451  0.20808  1.0000
+  Ge  Ge4       1.0  0.37355  0.19549  0.79192  1.0000
+  O   O1        1.0  0.63418  0.66542  0.97613  1.0000
+  O   O2        1.0  0.33458  0.36582  0.52387  1.0000
+  O   O3        1.0  0.36582  0.33458  0.02387  1.0000
+  O   O4        1.0  0.66542  0.63418  0.47613  1.0000
+  O   O5        1.0  0.39754  0.90526  0.28506  1.0000
+  O   O6        1.0  0.09474  0.60246  0.21494  1.0000
+  O   O7        1.0  0.60246  0.09475  0.71495  1.0000
+  O   O8        1.0  0.90526  0.39754  0.78506  1.0000
+  O   O9        1.0  0.96182  0.81847  0.62900  1.0000
+  O   O10       1.0  0.18153  0.03818  0.87100  1.0000
+  O   O11       1.0  0.03818  0.18153  0.37100  1.0000
+  O   O12       1.0  0.81847  0.96182  0.12900  1.0000

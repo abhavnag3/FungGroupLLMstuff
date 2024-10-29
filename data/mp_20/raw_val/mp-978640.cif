@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       SmMo6S8
+_chemical_formula_sum              "Sm1 Mo6 S8"
+_cell_length_a       6.51522
+_cell_length_b       6.51522
+_cell_length_c       6.51522
+_cell_angle_alpha    88.9838
+_cell_angle_beta     88.9838
+_cell_angle_gamma    88.9838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.56185  0.22409  0.41995  1.0000
+  Mo  Mo2       1.0  0.22409  0.41995  0.56185  1.0000
+  Mo  Mo3       1.0  0.58005  0.43815  0.77591  1.0000
+  Mo  Mo4       1.0  0.41995  0.56185  0.22409  1.0000
+  Mo  Mo5       1.0  0.77591  0.58005  0.43815  1.0000
+  Mo  Mo6       1.0  0.43815  0.77591  0.58005  1.0000
+  S   S1        1.0  0.37234  0.12722  0.75226  1.0000
+  S   S2        1.0  0.24119  0.24119  0.24119  1.0000
+  S   S3        1.0  0.87278  0.24774  0.62766  1.0000
+  S   S4        1.0  0.75226  0.37234  0.12722  1.0000
+  S   S5        1.0  0.24774  0.62766  0.87278  1.0000
+  S   S6        1.0  0.12722  0.75226  0.37234  1.0000
+  S   S7        1.0  0.75881  0.75881  0.75881  1.0000
+  S   S8        1.0  0.62766  0.87278  0.24774  1.0000

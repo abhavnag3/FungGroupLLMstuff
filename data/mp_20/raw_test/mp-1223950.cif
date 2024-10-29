@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho2Ga2Ag2
+_chemical_formula_sum              "Ho2 Ga2 Ag2"
+_cell_length_a       5.72893
+_cell_length_b       5.72893
+_cell_length_c       7.15763
+_cell_angle_alpha    52.0861
+_cell_angle_beta     52.0861
+_cell_angle_gamma    47.0571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.53637  0.53637  0.70924  1.0000
+  Ho  Ho2       1.0  0.46363  0.46363  0.29076  1.0000
+  Ga  Ga1       1.0  0.84047  0.84047  0.11536  1.0000
+  Ga  Ga2       1.0  0.15953  0.15953  0.88464  1.0000
+  Ag  Ag1       1.0  0.17342  0.17342  0.27768  1.0000
+  Ag  Ag2       1.0  0.82658  0.82657  0.72232  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       BaSr4Cl10
+_chemical_formula_sum              "Ba1 Sr4 Cl10"
+_cell_length_a       18.186
+_cell_length_b       18.186
+_cell_length_c       18.186
+_cell_angle_alpha    164.098
+_cell_angle_beta     164.098
+_cell_angle_gamma    22.5622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sr  Sr1       1.0  0.39805  0.39805  0.00000  1.0000
+  Sr  Sr2       1.0  0.79964  0.79964  0.00000  1.0000
+  Sr  Sr3       1.0  0.20036  0.20036  0.00000  1.0000
+  Sr  Sr4       1.0  0.60195  0.60195  0.00000  1.0000
+  Cl  Cl1       1.0  0.55324  0.05324  0.50000  1.0000
+  Cl  Cl2       1.0  0.75000  0.25000  0.50000  1.0000
+  Cl  Cl3       1.0  0.15105  0.65105  0.50000  1.0000
+  Cl  Cl4       1.0  0.94676  0.44676  0.50000  1.0000
+  Cl  Cl5       1.0  0.34895  0.84895  0.50000  1.0000
+  Cl  Cl6       1.0  0.44676  0.94676  0.50000  1.0000
+  Cl  Cl7       1.0  0.65105  0.15105  0.50000  1.0000
+  Cl  Cl8       1.0  0.05324  0.55324  0.50000  1.0000
+  Cl  Cl9       1.0  0.84895  0.34895  0.50000  1.0000
+  Cl  Cl10      1.0  0.25000  0.75000  0.50000  1.0000

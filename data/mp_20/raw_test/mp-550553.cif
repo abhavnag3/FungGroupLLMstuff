@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cd2Bi2Cl2O4
+_chemical_formula_sum              "Cd2 Bi2 Cl2 O4"
+_cell_length_a       4.24651
+_cell_length_b       6.29125
+_cell_length_c       7.66068
+_cell_angle_alpha    81.8359
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.75000  0.84689  0.89619  1.0000
+  Cd  Cd2       1.0  0.25000  0.15311  0.10381  1.0000
+  Bi  Bi1       1.0  0.25000  0.18578  0.60194  1.0000
+  Bi  Bi2       1.0  0.75000  0.81422  0.39806  1.0000
+  Cl  Cl1       1.0  0.25000  0.52241  0.20258  1.0000
+  Cl  Cl2       1.0  0.75000  0.47759  0.79742  1.0000
+  O   O1        1.0  0.25000  0.99001  0.85566  1.0000
+  O   O2        1.0  0.75000  0.00999  0.14434  1.0000
+  O   O3        1.0  0.75000  0.04607  0.59375  1.0000
+  O   O4        1.0  0.25000  0.95393  0.40625  1.0000

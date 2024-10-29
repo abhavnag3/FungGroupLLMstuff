@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ca2Tc2N6
+_chemical_formula_sum              "Ca2 Tc2 N6"
+_cell_length_a       6.44818
+_cell_length_b       6.44818
+_cell_length_c       6.47596
+_cell_angle_alpha    74.9382
+_cell_angle_beta     74.9382
+_cell_angle_gamma    32.935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.37844  0.37844  0.32867  1.0000
+  Ca  Ca2       1.0  0.62156  0.62156  0.67133  1.0000
+  Tc  Tc1       1.0  0.15477  0.15477  0.15075  1.0000
+  Tc  Tc2       1.0  0.84523  0.84523  0.84925  1.0000
+  N   N1        1.0  0.15673  0.15673  0.42229  1.0000
+  N   N2        1.0  0.68018  0.68018  0.00744  1.0000
+  N   N3        1.0  0.99749  0.99749  0.90247  1.0000
+  N   N4        1.0  0.84327  0.84327  0.57771  1.0000
+  N   N5        1.0  0.00251  0.00251  0.09753  1.0000
+  N   N6        1.0  0.31982  0.31982  0.99256  1.0000

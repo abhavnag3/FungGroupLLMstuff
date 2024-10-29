@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4Au4Se8
+_chemical_formula_sum              "Na4 Au4 Se8"
+_cell_length_a       8.59505
+_cell_length_b       6.86324
+_cell_length_c       7.1335
+_cell_angle_alpha    74.7135
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.86758  0.01305  0.27103  1.0000
+  Na  Na2       1.0  0.36758  0.48695  0.72897  1.0000
+  Na  Na3       1.0  0.13242  0.98695  0.72897  1.0000
+  Na  Na4       1.0  0.63242  0.51305  0.27103  1.0000
+  Au  Au1       1.0  0.13223  0.49248  0.21518  1.0000
+  Au  Au2       1.0  0.63223  0.00752  0.78482  1.0000
+  Au  Au3       1.0  0.86777  0.50752  0.78482  1.0000
+  Au  Au4       1.0  0.36778  0.99248  0.21518  1.0000
+  Se  Se1       1.0  0.42535  0.78636  0.98204  1.0000
+  Se  Se2       1.0  0.92535  0.71364  0.01796  1.0000
+  Se  Se3       1.0  0.57465  0.21364  0.01796  1.0000
+  Se  Se4       1.0  0.07465  0.28636  0.98204  1.0000
+  Se  Se5       1.0  0.16928  0.75083  0.41086  1.0000
+  Se  Se6       1.0  0.66928  0.74917  0.58914  1.0000
+  Se  Se7       1.0  0.83072  0.24917  0.58914  1.0000
+  Se  Se8       1.0  0.33072  0.25083  0.41086  1.0000

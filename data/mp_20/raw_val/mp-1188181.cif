@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Eu4Pt2O10
+_chemical_formula_sum              "Ba2 Eu4 Pt2 O10"
+_cell_length_a       5.97427
+_cell_length_b       6.81615
+_cell_length_c       6.81615
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ba  Ba2       1.0  0.00000  0.00000  0.00000  1.0000
+  Eu  Eu1       1.0  0.50000  0.82202  0.32202  1.0000
+  Eu  Eu2       1.0  0.50000  0.67798  0.82202  1.0000
+  Eu  Eu3       1.0  0.50000  0.17798  0.67798  1.0000
+  Eu  Eu4       1.0  0.50000  0.32202  0.17798  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.50000  1.0000
+  Pt  Pt2       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.24573  0.64344  0.13835  1.0000
+  O   O2        1.0  0.24573  0.85656  0.63835  1.0000
+  O   O3        1.0  0.24573  0.35656  0.86165  1.0000
+  O   O4        1.0  0.24573  0.14344  0.36165  1.0000
+  O   O5        1.0  0.75427  0.86165  0.64344  1.0000
+  O   O6        1.0  0.75427  0.63835  0.14344  1.0000
+  O   O7        1.0  0.75427  0.13835  0.35656  1.0000
+  O   O8        1.0  0.75427  0.36165  0.85656  1.0000
+  O   O9        1.0  0.50000  0.50000  0.50000  1.0000
+  O   O10       1.0  0.50000  0.00000  0.00000  1.0000

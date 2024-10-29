@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr2Br4O12
+_chemical_formula_sum              "Sr2 Br4 O12"
+_cell_length_a       7.18665
+_cell_length_b       7.18665
+_cell_length_c       7.53504
+_cell_angle_alpha    74.6072
+_cell_angle_beta     74.6072
+_cell_angle_gamma    114.685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.62750  0.38609  0.99151  1.0000
+  Sr  Sr2       1.0  0.38609  0.62750  0.49151  1.0000
+  Br  Br1       1.0  0.40787  0.77763  0.95460  1.0000
+  Br  Br2       1.0  0.77763  0.40787  0.45460  1.0000
+  Br  Br3       1.0  0.97323  0.11145  0.02853  1.0000
+  Br  Br4       1.0  0.11145  0.97323  0.52853  1.0000
+  O   O1        1.0  0.47095  0.63473  0.12335  1.0000
+  O   O2        1.0  0.63473  0.47095  0.62335  1.0000
+  O   O3        1.0  0.74769  0.52420  0.24751  1.0000
+  O   O4        1.0  0.52420  0.74769  0.74751  1.0000
+  O   O5        1.0  0.58202  0.04990  0.89843  1.0000
+  O   O6        1.0  0.04990  0.58202  0.39843  1.0000
+  O   O7        1.0  0.01796  0.36877  0.89362  1.0000
+  O   O8        1.0  0.36877  0.01796  0.39361  1.0000
+  O   O9        1.0  0.02100  0.76874  0.75843  1.0000
+  O   O10       1.0  0.76874  0.02100  0.25843  1.0000
+  O   O11       1.0  0.20467  0.16820  0.07033  1.0000
+  O   O12       1.0  0.16820  0.20467  0.57033  1.0000

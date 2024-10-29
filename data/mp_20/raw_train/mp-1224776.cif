@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Gd3Sc2S7
+_chemical_formula_sum              "Gd3 Sc2 S7"
+_cell_length_a       6.53071
+_cell_length_b       6.53071
+_cell_length_c       11.4912
+_cell_angle_alpha    75.5543
+_cell_angle_beta     75.5543
+_cell_angle_gamma    33.8016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.30527  0.30527  0.79745  1.0000
+  Gd  Gd2       1.0  0.69473  0.69473  0.20255  1.0000
+  Gd  Gd3       1.0  0.00000  0.00000  0.00000  1.0000
+  Sc  Sc1       1.0  0.11228  0.11229  0.57012  1.0000
+  Sc  Sc2       1.0  0.88772  0.88772  0.42988  1.0000
+  S   S1        1.0  0.26448  0.26449  0.36425  1.0000
+  S   S2        1.0  0.73552  0.73552  0.63575  1.0000
+  S   S3        1.0  0.66253  0.66253  0.94631  1.0000
+  S   S4        1.0  0.33747  0.33747  0.05369  1.0000
+  S   S5        1.0  0.97106  0.97106  0.77377  1.0000
+  S   S6        1.0  0.02894  0.02894  0.22623  1.0000
+  S   S7        1.0  0.50000  0.50000  0.50000  1.0000

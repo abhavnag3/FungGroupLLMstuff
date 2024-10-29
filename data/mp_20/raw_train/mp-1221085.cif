@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       NaCeMo2O8
+_chemical_formula_sum              "Na1 Ce1 Mo2 O8"
+_cell_length_a       6.94911
+_cell_length_b       6.94911
+_cell_length_c       6.94911
+_cell_angle_alpha    134.375
+_cell_angle_beta     134.375
+_cell_angle_gamma    66.503
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.75000  0.25000  0.50000  1.0000
+  Ce  Ce1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mo  Mo1       1.0  0.25000  0.75000  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.40123  0.52270  0.60118  1.0000
+  O   O2        1.0  0.92153  0.80006  0.39882  1.0000
+  O   O3        1.0  0.06843  0.15733  0.39122  1.0000
+  O   O4        1.0  0.76611  0.67721  0.60878  1.0000
+  O   O5        1.0  0.84267  0.23389  0.91110  1.0000
+  O   O6        1.0  0.32279  0.93157  0.08890  1.0000
+  O   O7        1.0  0.19994  0.59877  0.12147  1.0000
+  O   O8        1.0  0.47730  0.07847  0.87853  1.0000

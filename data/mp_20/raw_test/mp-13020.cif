@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti10Cu2Sb4
+_chemical_formula_sum              "Ti10 Cu2 Sb4"
+_cell_length_a       7.82507
+_cell_length_b       7.82507
+_cell_length_c       7.82507
+_cell_angle_alpha    96.1745
+_cell_angle_beta     96.1745
+_cell_angle_gamma    141.71
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.57410  0.71465  0.28875  1.0000
+  Ti  Ti2       1.0  0.42590  0.28535  0.71125  1.0000
+  Ti  Ti3       1.0  0.75000  0.25000  0.50000  1.0000
+  Ti  Ti4       1.0  0.25000  0.75000  0.50000  1.0000
+  Ti  Ti5       1.0  0.71465  0.42590  0.14056  1.0000
+  Ti  Ti6       1.0  0.28535  0.57410  0.85944  1.0000
+  Ti  Ti7       1.0  0.92590  0.21465  0.14056  1.0000
+  Ti  Ti8       1.0  0.21465  0.07410  0.28875  1.0000
+  Ti  Ti9       1.0  0.07410  0.78535  0.85944  1.0000
+  Ti  Ti10      1.0  0.78535  0.92590  0.71125  1.0000
+  Cu  Cu1       1.0  0.75000  0.75000  0.00000  1.0000
+  Cu  Cu2       1.0  0.25000  0.25000  0.00000  1.0000
+  Sb  Sb1       1.0  0.33596  0.83596  0.17192  1.0000
+  Sb  Sb2       1.0  0.16404  0.33596  0.50000  1.0000
+  Sb  Sb3       1.0  0.66404  0.16404  0.82808  1.0000
+  Sb  Sb4       1.0  0.83596  0.66404  0.50000  1.0000

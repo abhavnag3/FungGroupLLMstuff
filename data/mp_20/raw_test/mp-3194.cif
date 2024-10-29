@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2Al3Si2
+_chemical_formula_sum              "Tb2 Al3 Si2"
+_cell_length_a       5.51689
+_cell_length_b       5.51689
+_cell_length_c       6.64692
+_cell_angle_alpha    79.6199
+_cell_angle_beta     79.6199
+_cell_angle_gamma    43.1101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.61987  0.61987  0.67743  1.0000
+  Tb  Tb2       1.0  0.38013  0.38013  0.32257  1.0000
+  Al  Al1       1.0  0.30559  0.30559  0.86637  1.0000
+  Al  Al2       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al3       1.0  0.69441  0.69441  0.13364  1.0000
+  Si  Si1       1.0  0.09268  0.09268  0.35939  1.0000
+  Si  Si2       1.0  0.90732  0.90732  0.64061  1.0000

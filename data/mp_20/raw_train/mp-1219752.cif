@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       PrNdCo10
+_chemical_formula_sum              "Pr1 Nd1 Co10"
+_cell_length_a       3.9826
+_cell_length_b       5.0232
+_cell_length_c       8.71486
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.00000  0.49997  0.50000  1.0000
+  Nd  Nd1       1.0  0.00000  0.99999  0.00000  1.0000
+  Co  Co1       1.0  0.00000  0.99997  0.33283  1.0000
+  Co  Co2       1.0  0.00000  0.49994  0.83366  1.0000
+  Co  Co3       1.0  0.00000  0.49994  0.16634  1.0000
+  Co  Co4       1.0  0.00000  0.99997  0.66717  1.0000
+  Co  Co5       1.0  0.50000  0.99999  0.50000  1.0000
+  Co  Co6       1.0  0.50000  0.50002  0.00000  1.0000
+  Co  Co7       1.0  0.50000  0.24954  0.24956  1.0000
+  Co  Co8       1.0  0.50000  0.75046  0.75045  1.0000
+  Co  Co9       1.0  0.50000  0.75046  0.24955  1.0000
+  Co  Co10      1.0  0.50000  0.24954  0.75044  1.0000

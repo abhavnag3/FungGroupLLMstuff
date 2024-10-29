@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Nb3FeSe10
+_chemical_formula_sum              "Nb3 Fe1 Se10"
+_cell_length_a       3.53168
+_cell_length_b       9.40665
+_cell_length_c       10.2117
+_cell_angle_alpha    66.8355
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.00000  0.27693  0.63183  1.0000
+  Nb  Nb2       1.0  0.50000  0.72160  0.35993  1.0000
+  Nb  Nb3       1.0  0.50000  0.45528  0.91678  1.0000
+  Fe  Fe1       1.0  0.00000  0.54690  0.09973  1.0000
+  Se  Se1       1.0  0.50000  0.04602  0.75505  1.0000
+  Se  Se2       1.0  0.00000  0.95396  0.23942  1.0000
+  Se  Se3       1.0  0.50000  0.48866  0.63008  1.0000
+  Se  Se4       1.0  0.00000  0.51477  0.35270  1.0000
+  Se  Se5       1.0  0.50000  0.16131  0.50297  1.0000
+  Se  Se6       1.0  0.00000  0.83464  0.49085  1.0000
+  Se  Se7       1.0  0.00000  0.24282  0.91251  1.0000
+  Se  Se8       1.0  0.50000  0.73339  0.08872  1.0000
+  Se  Se9       1.0  0.00000  0.66943  0.84382  1.0000
+  Se  Se10      1.0  0.50000  0.35427  0.17561  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca4Cu4N4
+_chemical_formula_sum              "Ca4 Cu4 N4"
+_cell_length_a       8.91003
+_cell_length_b       3.83721
+_cell_length_c       6.75469
+_cell_angle_alpha    90
+_cell_angle_beta     110.052
+_cell_angle_gamma    77.565
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.51417  0.74292  0.81344  1.0000
+  Ca  Ca2       1.0  0.48583  0.25708  0.18656  1.0000
+  Ca  Ca3       1.0  0.10740  0.44630  0.83720  1.0000
+  Ca  Ca4       1.0  0.89260  0.55370  0.16280  1.0000
+  Cu  Cu1       1.0  0.72898  0.63551  0.48896  1.0000
+  Cu  Cu2       1.0  0.27102  0.36449  0.51104  1.0000
+  Cu  Cu3       1.0  0.18812  0.90594  0.22475  1.0000
+  Cu  Cu4       1.0  0.81188  0.09406  0.77525  1.0000
+  N   N1        1.0  0.80518  0.59741  0.78672  1.0000
+  N   N2        1.0  0.19482  0.40259  0.21328  1.0000
+  N   N3        1.0  0.35884  0.32058  0.80139  1.0000
+  N   N4        1.0  0.64116  0.67942  0.19862  1.0000

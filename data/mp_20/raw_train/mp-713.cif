@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K8As8
+_chemical_formula_sum              "K8 As8"
+_cell_length_a       6.56131
+_cell_length_b       6.80349
+_cell_length_c       11.7616
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.83371  0.35195  0.71101  1.0000
+  K   K2        1.0  0.33371  0.14805  0.28899  1.0000
+  K   K3        1.0  0.16629  0.85195  0.78899  1.0000
+  K   K4        1.0  0.66629  0.64805  0.21101  1.0000
+  K   K5        1.0  0.09963  0.60633  0.41910  1.0000
+  K   K6        1.0  0.59962  0.89367  0.58090  1.0000
+  K   K7        1.0  0.90038  0.10633  0.08090  1.0000
+  K   K8        1.0  0.40037  0.39367  0.91910  1.0000
+  As  As1       1.0  0.59286  0.43515  0.46690  1.0000
+  As  As2       1.0  0.09286  0.06485  0.53310  1.0000
+  As  As3       1.0  0.40714  0.93515  0.03310  1.0000
+  As  As4       1.0  0.90714  0.56485  0.96690  1.0000
+  As  As5       1.0  0.33216  0.31948  0.61164  1.0000
+  As  As6       1.0  0.83216  0.18052  0.38836  1.0000
+  As  As7       1.0  0.66784  0.81948  0.88836  1.0000
+  As  As8       1.0  0.16784  0.68052  0.11164  1.0000

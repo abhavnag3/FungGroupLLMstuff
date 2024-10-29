@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       LiLa4Ti3O12
+_chemical_formula_sum              "Li1 La4 Ti3 O12"
+_cell_length_a       5.5864
+_cell_length_b       5.62915
+_cell_length_c       7.91297
+_cell_angle_alpha    90.1783
+_cell_angle_beta     90.0381
+_cell_angle_gamma    90.2745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50000  0.00000  0.50000  1.0000
+  La  La1       1.0  0.00445  0.03285  0.26135  1.0000
+  La  La2       1.0  0.48968  0.54661  0.26249  1.0000
+  La  La3       1.0  0.51032  0.45339  0.73751  1.0000
+  La  La4       1.0  0.99555  0.96715  0.73865  1.0000
+  Ti  Ti1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ti  Ti2       1.0  0.00000  0.50000  0.50000  1.0000
+  Ti  Ti3       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.07791  0.51447  0.75126  1.0000
+  O   O2        1.0  0.21452  0.78241  0.04334  1.0000
+  O   O3        1.0  0.19958  0.78180  0.45940  1.0000
+  O   O4        1.0  0.28370  0.28723  0.04376  1.0000
+  O   O5        1.0  0.27937  0.30148  0.45914  1.0000
+  O   O6        1.0  0.41831  0.01963  0.76258  1.0000
+  O   O7        1.0  0.58169  0.98037  0.23741  1.0000
+  O   O8        1.0  0.72063  0.69852  0.54086  1.0000
+  O   O9        1.0  0.71630  0.71278  0.95624  1.0000
+  O   O10       1.0  0.80043  0.21820  0.54060  1.0000
+  O   O11       1.0  0.78548  0.21759  0.95666  1.0000
+  O   O12       1.0  0.92209  0.48553  0.24874  1.0000

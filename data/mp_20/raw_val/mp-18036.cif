@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Th4Ni8P8
+_chemical_formula_sum              "Th4 Ni8 P8"
+_cell_length_a       3.93851
+_cell_length_b       8.23696
+_cell_length_c       9.80273
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.25000  0.25990  0.66958  1.0000
+  Th  Th2       1.0  0.75000  0.74010  0.33042  1.0000
+  Th  Th3       1.0  0.25000  0.75990  0.83042  1.0000
+  Th  Th4       1.0  0.75000  0.24010  0.16958  1.0000
+  Ni  Ni1       1.0  0.75000  0.08261  0.45151  1.0000
+  Ni  Ni2       1.0  0.25000  0.91739  0.54849  1.0000
+  Ni  Ni3       1.0  0.75000  0.58261  0.04849  1.0000
+  Ni  Ni4       1.0  0.25000  0.41739  0.95151  1.0000
+  Ni  Ni5       1.0  0.25000  0.95232  0.12360  1.0000
+  Ni  Ni6       1.0  0.75000  0.04768  0.87640  1.0000
+  Ni  Ni7       1.0  0.25000  0.45232  0.37640  1.0000
+  Ni  Ni8       1.0  0.75000  0.54768  0.62360  1.0000
+  P   P1        1.0  0.25000  0.14333  0.95088  1.0000
+  P   P2        1.0  0.75000  0.85667  0.04912  1.0000
+  P   P3        1.0  0.25000  0.64333  0.54912  1.0000
+  P   P4        1.0  0.75000  0.35667  0.45088  1.0000
+  P   P5        1.0  0.25000  0.53092  0.16107  1.0000
+  P   P6        1.0  0.75000  0.46908  0.83893  1.0000
+  P   P7        1.0  0.25000  0.03092  0.33893  1.0000
+  P   P8        1.0  0.75000  0.96908  0.66107  1.0000

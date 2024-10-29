@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr4Sc2Ga2O10
+_chemical_formula_sum              "Sr4 Sc2 Ga2 O10"
+_cell_length_a       5.75879
+_cell_length_b       5.98076
+_cell_length_c       8.69189
+_cell_angle_alpha    110.123
+_cell_angle_beta     109.346
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.11497  0.63218  0.22280  1.0000
+  Sr  Sr2       1.0  0.89217  0.36782  0.77720  1.0000
+  Sr  Sr3       1.0  0.39217  0.90938  0.77720  1.0000
+  Sr  Sr4       1.0  0.61497  0.09062  0.22280  1.0000
+  Sc  Sc1       1.0  0.49893  0.50000  0.00000  1.0000
+  Sc  Sc2       1.0  0.99893  0.00000  0.00000  1.0000
+  Ga  Ga1       1.0  0.28167  0.32151  0.50000  1.0000
+  Ga  Ga2       1.0  0.78167  0.67849  0.50000  1.0000
+  O   O1        1.0  0.23890  0.74120  0.97618  1.0000
+  O   O2        1.0  0.26272  0.25880  0.02382  1.0000
+  O   O3        1.0  0.76272  0.26502  0.02382  1.0000
+  O   O4        1.0  0.73890  0.73498  0.97618  1.0000
+  O   O5        1.0  0.62457  0.71131  0.28783  1.0000
+  O   O6        1.0  0.33674  0.28869  0.71217  1.0000
+  O   O7        1.0  0.83674  0.92348  0.71217  1.0000
+  O   O8        1.0  0.12457  0.07652  0.28783  1.0000
+  O   O9        1.0  0.10483  0.59286  0.50000  1.0000
+  O   O10       1.0  0.60483  0.40714  0.50000  1.0000

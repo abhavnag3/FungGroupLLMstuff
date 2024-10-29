@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cs4Na4F12
+_chemical_formula_sum              "Cs4 Na4 F12"
+_cell_length_a       4.15845
+_cell_length_b       7.00255
+_cell_length_c       13.5733
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.75000  0.10574  0.67061  1.0000
+  Cs  Cs2       1.0  0.25000  0.89426  0.32939  1.0000
+  Cs  Cs3       1.0  0.75000  0.60574  0.82939  1.0000
+  Cs  Cs4       1.0  0.25000  0.39426  0.17061  1.0000
+  Na  Na1       1.0  0.25000  0.13457  0.92609  1.0000
+  Na  Na2       1.0  0.75000  0.86543  0.07391  1.0000
+  Na  Na3       1.0  0.25000  0.63457  0.57391  1.0000
+  Na  Na4       1.0  0.75000  0.36543  0.42609  1.0000
+  F   F1        1.0  0.75000  0.26514  0.98882  1.0000
+  F   F2        1.0  0.25000  0.73486  0.01118  1.0000
+  F   F3        1.0  0.75000  0.76514  0.51118  1.0000
+  F   F4        1.0  0.25000  0.23486  0.48882  1.0000
+  F   F5        1.0  0.25000  0.99873  0.08824  1.0000
+  F   F6        1.0  0.75000  0.00127  0.91176  1.0000
+  F   F7        1.0  0.25000  0.49873  0.41176  1.0000
+  F   F8        1.0  0.75000  0.50127  0.58824  1.0000
+  F   F9        1.0  0.25000  0.31380  0.78991  1.0000
+  F   F10       1.0  0.75000  0.68620  0.21009  1.0000
+  F   F11       1.0  0.25000  0.81380  0.71009  1.0000
+  F   F12       1.0  0.75000  0.18620  0.28991  1.0000

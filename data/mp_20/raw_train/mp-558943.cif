@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li2U2As2O12
+_chemical_formula_sum              "Li2 U2 As2 O12"
+_cell_length_a       5.17043
+_cell_length_b       5.43623
+_cell_length_c       10.1271
+_cell_angle_alpha    90.3057
+_cell_angle_beta     97.3732
+_cell_angle_gamma    104.323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.94708  0.55232  0.22927  1.0000
+  Li  Li2       1.0  0.05292  0.44767  0.77073  1.0000
+  U   U1        1.0  0.50000  0.50000  0.50000  1.0000
+  U   U2        1.0  0.00000  0.00000  0.00000  1.0000
+  As  As1       1.0  0.42460  0.02318  0.74259  1.0000
+  As  As2       1.0  0.57540  0.97682  0.25741  1.0000
+  O   O1        1.0  0.17899  0.49013  0.39684  1.0000
+  O   O2        1.0  0.22779  0.31030  0.98643  1.0000
+  O   O3        1.0  0.73761  0.14489  0.83371  1.0000
+  O   O4        1.0  0.70142  0.73467  0.32610  1.0000
+  O   O5        1.0  0.79870  0.15956  0.16154  1.0000
+  O   O6        1.0  0.29858  0.26533  0.67390  1.0000
+  O   O7        1.0  0.45933  0.82768  0.61747  1.0000
+  O   O8        1.0  0.26239  0.85511  0.16629  1.0000
+  O   O9        1.0  0.54067  0.17232  0.38254  1.0000
+  O   O10       1.0  0.20130  0.84044  0.83845  1.0000
+  O   O11       1.0  0.82101  0.50987  0.60316  1.0000
+  O   O12       1.0  0.77221  0.68969  0.01357  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4Sn4Pd4
+_chemical_formula_sum              "Eu4 Sn4 Pd4"
+_cell_length_a       4.73475
+_cell_length_b       7.57236
+_cell_length_c       8.12782
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.25000  0.52260  0.18540  1.0000
+  Eu  Eu2       1.0  0.75000  0.47740  0.81460  1.0000
+  Eu  Eu3       1.0  0.25000  0.02260  0.31460  1.0000
+  Eu  Eu4       1.0  0.75000  0.97740  0.68540  1.0000
+  Sn  Sn1       1.0  0.25000  0.16482  0.92595  1.0000
+  Sn  Sn2       1.0  0.75000  0.33518  0.42595  1.0000
+  Sn  Sn3       1.0  0.25000  0.66482  0.57405  1.0000
+  Sn  Sn4       1.0  0.75000  0.83518  0.07405  1.0000
+  Pd  Pd1       1.0  0.75000  0.20793  0.10576  1.0000
+  Pd  Pd2       1.0  0.25000  0.29207  0.60576  1.0000
+  Pd  Pd3       1.0  0.75000  0.70793  0.39424  1.0000
+  Pd  Pd4       1.0  0.25000  0.79207  0.89424  1.0000

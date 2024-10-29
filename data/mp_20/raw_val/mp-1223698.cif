@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2Fe2SeS3
+_chemical_formula_sum              "K2 Fe2 Se1 S3"
+_cell_length_a       5.45218
+_cell_length_b       6.68242
+_cell_length_c       6.69703
+_cell_angle_alpha    116.079
+_cell_angle_beta     101.022
+_cell_angle_gamma    101.886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.24475  0.36073  0.64035  1.0000
+  K   K2        1.0  0.74468  0.63409  0.35117  1.0000
+  Fe  Fe1       1.0  0.24878  0.99638  0.00941  1.0000
+  Fe  Fe2       1.0  0.75692  0.00617  0.00267  1.0000
+  Se  Se1       1.0  0.40125  0.91438  0.68599  1.0000
+  S   S1        1.0  0.10440  0.29699  0.09458  1.0000
+  S   S2        1.0  0.59782  0.08554  0.29495  1.0000
+  S   S3        1.0  0.90139  0.70572  0.92087  1.0000

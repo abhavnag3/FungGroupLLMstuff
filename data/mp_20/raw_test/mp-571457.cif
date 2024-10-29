@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ti8Ni2Bi4
+_chemical_formula_sum              "Ti8 Ni2 Bi4"
+_cell_length_a       7.90744
+_cell_length_b       7.90744
+_cell_length_c       7.90744
+_cell_angle_alpha    95.291
+_cell_angle_beta     95.291
+_cell_angle_gamma    144.644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.80334  0.91863  0.72196  1.0000
+  Ti  Ti2       1.0  0.91863  0.19666  0.11529  1.0000
+  Ti  Ti3       1.0  0.58137  0.69666  0.27804  1.0000
+  Ti  Ti4       1.0  0.69666  0.41863  0.11529  1.0000
+  Ti  Ti5       1.0  0.08137  0.80334  0.88471  1.0000
+  Ti  Ti6       1.0  0.19666  0.08137  0.27804  1.0000
+  Ti  Ti7       1.0  0.30334  0.58137  0.88471  1.0000
+  Ti  Ti8       1.0  0.41863  0.30334  0.72196  1.0000
+  Ni  Ni1       1.0  0.25000  0.25000  0.00000  1.0000
+  Ni  Ni2       1.0  0.75000  0.75000  0.00000  1.0000
+  Bi  Bi1       1.0  0.86049  0.63951  0.50000  1.0000
+  Bi  Bi2       1.0  0.13951  0.36049  0.50000  1.0000
+  Bi  Bi3       1.0  0.36049  0.86049  0.22098  1.0000
+  Bi  Bi4       1.0  0.63951  0.13951  0.77902  1.0000

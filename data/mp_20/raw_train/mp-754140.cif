@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca4Se4O12
+_chemical_formula_sum              "Ca4 Se4 O12"
+_cell_length_a       5.4607
+_cell_length_b       6.49213
+_cell_length_c       8.44654
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ca  Ca2       1.0  0.00000  0.50000  0.50000  1.0000
+  Ca  Ca3       1.0  0.50000  0.00000  0.00000  1.0000
+  Ca  Ca4       1.0  0.50000  0.00000  0.50000  1.0000
+  Se  Se1       1.0  0.01778  0.02565  0.75000  1.0000
+  Se  Se2       1.0  0.48222  0.52565  0.75000  1.0000
+  Se  Se3       1.0  0.51778  0.47435  0.25000  1.0000
+  Se  Se4       1.0  0.98222  0.97435  0.25000  1.0000
+  O   O1        1.0  0.20492  0.42724  0.25000  1.0000
+  O   O2        1.0  0.12890  0.17048  0.59186  1.0000
+  O   O3        1.0  0.12890  0.17048  0.90814  1.0000
+  O   O4        1.0  0.37110  0.67048  0.59186  1.0000
+  O   O5        1.0  0.37110  0.67048  0.90814  1.0000
+  O   O6        1.0  0.29508  0.92724  0.25000  1.0000
+  O   O7        1.0  0.70492  0.07276  0.75000  1.0000
+  O   O8        1.0  0.62891  0.32952  0.09186  1.0000
+  O   O9        1.0  0.62891  0.32952  0.40814  1.0000
+  O   O10       1.0  0.87109  0.82952  0.09186  1.0000
+  O   O11       1.0  0.87109  0.82952  0.40814  1.0000
+  O   O12       1.0  0.79508  0.57276  0.75000  1.0000

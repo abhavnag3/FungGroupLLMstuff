@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       BaSb2F12
+_chemical_formula_sum              "Ba1 Sb2 F12"
+_cell_length_a       5.34953
+_cell_length_b       5.70953
+_cell_length_c       9.47594
+_cell_angle_alpha    91.621
+_cell_angle_beta     104.434
+_cell_angle_gamma    117.557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.03872  0.97561  0.89651  1.0000
+  Sb  Sb1       1.0  0.12339  0.50156  0.57513  1.0000
+  Sb  Sb2       1.0  0.46863  0.68742  0.15613  1.0000
+  F   F1        1.0  0.12556  0.52012  0.97634  1.0000
+  F   F2        1.0  0.43636  0.70811  0.76255  1.0000
+  F   F3        1.0  0.90141  0.25044  0.69011  1.0000
+  F   F4        1.0  0.95499  0.71590  0.62906  1.0000
+  F   F5        1.0  0.30655  0.28597  0.57187  1.0000
+  F   F6        1.0  0.36578  0.76145  0.47986  1.0000
+  F   F7        1.0  0.81464  0.32795  0.39656  1.0000
+  F   F8        1.0  0.80830  0.84321  0.32038  1.0000
+  F   F9        1.0  0.26690  0.37120  0.23107  1.0000
+  F   F10       1.0  0.27322  0.87826  0.19536  1.0000
+  F   F11       1.0  0.64918  0.97801  0.04741  1.0000
+  F   F12       1.0  0.61438  0.50480  0.04966  1.0000

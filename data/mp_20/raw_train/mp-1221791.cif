@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mn2Sb2PtAu
+_chemical_formula_sum              "Mn2 Sb2 Pt1 Au1"
+_cell_length_a       7.7893
+_cell_length_b       7.7893
+_cell_length_c       7.7893
+_cell_angle_alpha    33.4652
+_cell_angle_beta     33.4652
+_cell_angle_gamma    33.4652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.74734  0.74734  0.74734  1.0000
+  Mn  Mn2       1.0  0.25212  0.25212  0.25212  1.0000
+  Sb  Sb1       1.0  0.99702  0.99702  0.99701  1.0000
+  Sb  Sb2       1.0  0.50359  0.50359  0.50359  1.0000
+  Pt  Pt1       1.0  0.62577  0.62577  0.62577  1.0000
+  Au  Au1       1.0  0.12417  0.12417  0.12417  1.0000

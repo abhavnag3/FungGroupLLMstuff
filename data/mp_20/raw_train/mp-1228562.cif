@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al9Ge3W6
+_chemical_formula_sum              "Al9 Ge3 W6"
+_cell_length_a       4.85812
+_cell_length_b       4.86535
+_cell_length_c       13.46
+_cell_angle_alpha    90.1732
+_cell_angle_beta     89.9727
+_cell_angle_gamma    119.912
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.86093  0.14901  0.75247  1.0000
+  Al  Al2       1.0  0.30225  0.15159  0.41664  1.0000
+  Al  Al3       1.0  0.29734  0.15270  0.91453  1.0000
+  Al  Al4       1.0  0.17594  0.35352  0.08154  1.0000
+  Al  Al5       1.0  0.17427  0.35001  0.58310  1.0000
+  Al  Al6       1.0  0.17419  0.82527  0.25165  1.0000
+  Al  Al7       1.0  0.18797  0.81513  0.75148  1.0000
+  Al  Al8       1.0  0.63515  0.81617  0.41675  1.0000
+  Al  Al9       1.0  0.63037  0.82010  0.91548  1.0000
+  Ge  Ge1       1.0  0.85059  0.70358  0.08181  1.0000
+  Ge  Ge2       1.0  0.85465  0.70049  0.58256  1.0000
+  Ge  Ge3       1.0  0.85020  0.15509  0.25195  1.0000
+  W   W1        1.0  0.51755  0.04136  0.08656  1.0000
+  W   W2        1.0  0.52219  0.04176  0.58498  1.0000
+  W   W3        1.0  0.51539  0.48284  0.24627  1.0000
+  W   W4        1.0  0.52581  0.47626  0.74658  1.0000
+  W   W5        1.0  0.96654  0.48326  0.41671  1.0000
+  W   W6        1.0  0.95868  0.48185  0.91894  1.0000

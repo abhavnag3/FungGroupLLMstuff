@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga4Se4Cl4
+_chemical_formula_sum              "Ga4 Se4 Cl4"
+_cell_length_a       3.86114
+_cell_length_b       5.66107
+_cell_length_c       15.6932
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.50000  0.52725  0.19283  1.0000
+  Ga  Ga2       1.0  0.00000  0.97275  0.69283  1.0000
+  Ga  Ga3       1.0  0.00000  0.02725  0.30717  1.0000
+  Ga  Ga4       1.0  0.50000  0.47275  0.80717  1.0000
+  Se  Se1       1.0  0.50000  0.24427  0.67323  1.0000
+  Se  Se2       1.0  0.00000  0.74427  0.82677  1.0000
+  Se  Se3       1.0  0.00000  0.25573  0.17323  1.0000
+  Se  Se4       1.0  0.50000  0.75573  0.32677  1.0000
+  Cl  Cl1       1.0  0.50000  0.23900  0.91752  1.0000
+  Cl  Cl2       1.0  0.00000  0.73900  0.58248  1.0000
+  Cl  Cl3       1.0  0.50000  0.76100  0.08248  1.0000
+  Cl  Cl4       1.0  0.00000  0.26100  0.41752  1.0000

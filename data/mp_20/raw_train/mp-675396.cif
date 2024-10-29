@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sm3Eu3S8
+_chemical_formula_sum              "Sm3 Eu3 S8"
+_cell_length_a       7.41045
+_cell_length_b       7.41045
+_cell_length_c       8.5725
+_cell_angle_alpha    54.9686
+_cell_angle_beta     54.9686
+_cell_angle_gamma    70.7857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.62600  0.12501  0.87529  1.0000
+  Sm  Sm2       1.0  0.37319  0.62680  0.00000  1.0000
+  Sm  Sm3       1.0  0.87499  0.37400  0.12471  1.0000
+  Eu  Eu1       1.0  0.12597  0.87403  0.50000  1.0000
+  Eu  Eu2       1.0  0.74940  0.75178  0.37502  1.0000
+  Eu  Eu3       1.0  0.24822  0.25060  0.62498  1.0000
+  S   S1        1.0  0.50531  0.15655  0.23909  1.0000
+  S   S2        1.0  0.99871  0.84578  0.90062  1.0000
+  S   S3        1.0  0.15422  0.00129  0.09938  1.0000
+  S   S4        1.0  0.99764  0.35686  0.39127  1.0000
+  S   S5        1.0  0.50691  0.64716  0.23767  1.0000
+  S   S6        1.0  0.84345  0.49469  0.76091  1.0000
+  S   S7        1.0  0.64314  0.00236  0.60873  1.0000
+  S   S8        1.0  0.35284  0.49309  0.76233  1.0000

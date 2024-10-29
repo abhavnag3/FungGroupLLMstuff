@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti5CuS10
+_chemical_formula_sum              "Ti5 Cu1 S10"
+_cell_length_a       5.89328
+_cell_length_b       6.81036
+_cell_length_c       8.33335
+_cell_angle_alpha    107.926
+_cell_angle_beta     110.639
+_cell_angle_gamma    89.9401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.30552  0.60118  0.10080  1.0000
+  Ti  Ti2       1.0  0.69448  0.39882  0.89920  1.0000
+  Ti  Ti3       1.0  0.50000  0.00000  0.50000  1.0000
+  Ti  Ti4       1.0  0.09788  0.19768  0.70496  1.0000
+  Ti  Ti5       1.0  0.90212  0.80232  0.29504  1.0000
+  Cu  Cu1       1.0  0.00000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.38305  0.34607  0.60101  1.0000
+  S   S2        1.0  0.18732  0.94557  0.20268  1.0000
+  S   S3        1.0  0.98401  0.54786  0.80369  1.0000
+  S   S4        1.0  0.78371  0.14715  0.40113  1.0000
+  S   S5        1.0  0.58481  0.74622  0.00167  1.0000
+  S   S6        1.0  0.21629  0.85285  0.59887  1.0000
+  S   S7        1.0  0.01599  0.45214  0.19631  1.0000
+  S   S8        1.0  0.81268  0.05443  0.79732  1.0000
+  S   S9        1.0  0.61695  0.65393  0.39899  1.0000
+  S   S10       1.0  0.41519  0.25378  0.99833  1.0000

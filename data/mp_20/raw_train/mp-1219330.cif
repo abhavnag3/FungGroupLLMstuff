@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Si2Ni6Mo4
+_chemical_formula_sum              "Si2 Ni6 Mo4"
+_cell_length_a       4.71778
+_cell_length_b       4.71778
+_cell_length_c       7.57047
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.17091  0.33586  0.00000  1.0000
+  Si  Si2       1.0  0.66414  0.82909  0.00000  1.0000
+  Ni  Ni1       1.0  0.18180  0.81820  0.00000  1.0000
+  Ni  Ni2       1.0  0.83089  0.66119  0.50000  1.0000
+  Ni  Ni3       1.0  0.33881  0.16911  0.50000  1.0000
+  Ni  Ni4       1.0  0.83039  0.16961  0.50000  1.0000
+  Ni  Ni5       1.0  0.99334  0.00666  0.24101  1.0000
+  Ni  Ni6       1.0  0.99334  0.00666  0.75899  1.0000
+  Mo  Mo1       1.0  0.33507  0.66493  0.68290  1.0000
+  Mo  Mo2       1.0  0.66305  0.33695  0.81092  1.0000
+  Mo  Mo3       1.0  0.66305  0.33695  0.18909  1.0000
+  Mo  Mo4       1.0  0.33507  0.66493  0.31710  1.0000

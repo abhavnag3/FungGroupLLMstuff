@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb3AlCo8
+_chemical_formula_sum              "Nb3 Al1 Co8"
+_cell_length_a       8.20628
+_cell_length_b       8.20628
+_cell_length_c       8.20628
+_cell_angle_alpha    33.5955
+_cell_angle_beta     33.5955
+_cell_angle_gamma    33.5955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.62285  0.62285  0.62285  1.0000
+  Nb  Nb2       1.0  0.00347  0.00347  0.00347  1.0000
+  Nb  Nb3       1.0  0.49778  0.49778  0.49778  1.0000
+  Al  Al1       1.0  0.12607  0.12607  0.12607  1.0000
+  Co  Co1       1.0  0.56368  0.06019  0.56368  1.0000
+  Co  Co2       1.0  0.06383  0.56057  0.06383  1.0000
+  Co  Co3       1.0  0.06019  0.56368  0.56368  1.0000
+  Co  Co4       1.0  0.56057  0.06383  0.06383  1.0000
+  Co  Co5       1.0  0.81166  0.81166  0.81166  1.0000
+  Co  Co6       1.0  0.31238  0.31238  0.31238  1.0000
+  Co  Co7       1.0  0.56368  0.56368  0.06019  1.0000
+  Co  Co8       1.0  0.06383  0.06383  0.56057  1.0000

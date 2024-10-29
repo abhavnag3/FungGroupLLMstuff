@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K2Si4N6
+_chemical_formula_sum              "K2 Si4 N6"
+_cell_length_a       5.56904
+_cell_length_b       5.56904
+_cell_length_c       5.0423
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    118.403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.35055  0.35055  0.51772  1.0000
+  K   K2        1.0  0.64945  0.64945  0.01772  1.0000
+  Si  Si1       1.0  0.68479  0.03328  0.51033  1.0000
+  Si  Si2       1.0  0.03328  0.68479  0.51033  1.0000
+  Si  Si3       1.0  0.31521  0.96672  0.01033  1.0000
+  Si  Si4       1.0  0.96672  0.31521  0.01033  1.0000
+  N   N1        1.0  0.64287  0.11922  0.17506  1.0000
+  N   N2        1.0  0.11922  0.64287  0.17506  1.0000
+  N   N3        1.0  0.35713  0.88078  0.67506  1.0000
+  N   N4        1.0  0.88078  0.35713  0.67506  1.0000
+  N   N5        1.0  0.17242  0.17242  0.02350  1.0000
+  N   N6        1.0  0.82758  0.82758  0.52350  1.0000

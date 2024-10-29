@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li5Co3Sn2O10
+_chemical_formula_sum              "Li5 Co3 Sn2 O10"
+_cell_length_a       5.26639
+_cell_length_b       5.27315
+_cell_length_c       8.01866
+_cell_angle_alpha    107.784
+_cell_angle_beta     101.877
+_cell_angle_gamma    100.79
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.22186  0.91524  0.40114  1.0000
+  Li  Li2       1.0  0.41727  0.29260  0.79707  1.0000
+  Li  Li3       1.0  0.50000  0.50000  0.50000  1.0000
+  Li  Li4       1.0  0.58273  0.70740  0.20293  1.0000
+  Li  Li5       1.0  0.77814  0.08476  0.59886  1.0000
+  Co  Co1       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co2       1.0  0.70290  0.89862  0.89923  1.0000
+  Co  Co3       1.0  0.29710  0.10139  0.10078  1.0000
+  Sn  Sn1       1.0  0.10738  0.70709  0.69863  1.0000
+  Sn  Sn2       1.0  0.89262  0.29291  0.30137  1.0000
+  O   O1        1.0  0.05924  0.08908  0.85141  1.0000
+  O   O2        1.0  0.32408  0.69661  0.95065  1.0000
+  O   O3        1.0  0.14249  0.31490  0.54619  1.0000
+  O   O4        1.0  0.21543  0.48559  0.22298  1.0000
+  O   O5        1.0  0.45864  0.89053  0.66108  1.0000
+  O   O6        1.0  0.54136  0.10947  0.33892  1.0000
+  O   O7        1.0  0.78457  0.51441  0.77702  1.0000
+  O   O8        1.0  0.85751  0.68510  0.45381  1.0000
+  O   O9        1.0  0.67592  0.30339  0.04935  1.0000
+  O   O10       1.0  0.94076  0.91092  0.14859  1.0000

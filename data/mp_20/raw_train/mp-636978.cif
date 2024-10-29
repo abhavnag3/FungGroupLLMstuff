@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K4Cu4Cl12
+_chemical_formula_sum              "K4 Cu4 Cl12"
+_cell_length_a       14.3721
+_cell_length_b       4.75782
+_cell_length_c       9.83098
+_cell_angle_alpha    89.2427
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.15042  0.75721  0.53671  1.0000
+  K   K2        1.0  0.65042  0.24279  0.96329  1.0000
+  K   K3        1.0  0.84958  0.24279  0.46329  1.0000
+  K   K4        1.0  0.34958  0.75721  0.03671  1.0000
+  Cu  Cu1       1.0  0.54024  0.35849  0.35138  1.0000
+  Cu  Cu2       1.0  0.95976  0.35849  0.85138  1.0000
+  Cu  Cu3       1.0  0.04024  0.64151  0.14862  1.0000
+  Cu  Cu4       1.0  0.45976  0.64151  0.64862  1.0000
+  Cl  Cl1       1.0  0.90293  0.47244  0.06124  1.0000
+  Cl  Cl2       1.0  0.40293  0.52756  0.43876  1.0000
+  Cl  Cl3       1.0  0.68026  0.22059  0.27757  1.0000
+  Cl  Cl4       1.0  0.46959  0.25866  0.15170  1.0000
+  Cl  Cl5       1.0  0.53041  0.74135  0.84830  1.0000
+  Cl  Cl6       1.0  0.81974  0.22059  0.77756  1.0000
+  Cl  Cl7       1.0  0.09707  0.52756  0.93876  1.0000
+  Cl  Cl8       1.0  0.03041  0.25866  0.65170  1.0000
+  Cl  Cl9       1.0  0.18026  0.77941  0.22243  1.0000
+  Cl  Cl10      1.0  0.59707  0.47244  0.56124  1.0000
+  Cl  Cl11      1.0  0.31974  0.77941  0.72244  1.0000
+  Cl  Cl12      1.0  0.96959  0.74135  0.34830  1.0000

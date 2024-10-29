@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Er4Mn8
+_chemical_formula_sum              "Er4 Mn8"
+_cell_length_a       5.09361
+_cell_length_b       5.09361
+_cell_length_c       8.34265
+_cell_angle_alpha    86.7977
+_cell_angle_beta     86.7977
+_cell_angle_gamma    62.2402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.66941  0.66941  0.93845  1.0000
+  Er  Er2       1.0  0.33059  0.33059  0.06155  1.0000
+  Er  Er3       1.0  0.33429  0.33429  0.43651  1.0000
+  Er  Er4       1.0  0.66571  0.66571  0.56349  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.50000  1.0000
+  Mn  Mn3       1.0  0.16800  0.16800  0.75454  1.0000
+  Mn  Mn4       1.0  0.83200  0.83200  0.24546  1.0000
+  Mn  Mn5       1.0  0.32941  0.83995  0.25564  1.0000
+  Mn  Mn6       1.0  0.83995  0.32941  0.25564  1.0000
+  Mn  Mn7       1.0  0.67059  0.16005  0.74437  1.0000
+  Mn  Mn8       1.0  0.16005  0.67059  0.74437  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ni2Bi12Rh2
+_chemical_formula_sum              "Ni2 Bi12 Rh2"
+_cell_length_a       4.21912
+_cell_length_b       8.99301
+_cell_length_c       11.5766
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.50000  0.40073  0.72935  1.0000
+  Ni  Ni2       1.0  0.50000  0.90073  0.27065  1.0000
+  Bi  Bi1       1.0  0.50000  0.09353  0.07015  1.0000
+  Bi  Bi2       1.0  0.50000  0.59353  0.92985  1.0000
+  Bi  Bi3       1.0  0.00000  0.90788  0.42679  1.0000
+  Bi  Bi4       1.0  0.00000  0.40788  0.57321  1.0000
+  Bi  Bi5       1.0  0.50000  0.20508  0.36218  1.0000
+  Bi  Bi6       1.0  0.50000  0.70508  0.63782  1.0000
+  Bi  Bi7       1.0  0.00000  0.79921  0.14118  1.0000
+  Bi  Bi8       1.0  0.00000  0.29921  0.85882  1.0000
+  Bi  Bi9       1.0  0.50000  0.11576  0.65203  1.0000
+  Bi  Bi10      1.0  0.50000  0.61577  0.34797  1.0000
+  Bi  Bi11      1.0  0.00000  0.88545  0.84891  1.0000
+  Bi  Bi12      1.0  0.00000  0.38545  0.15109  1.0000
+  Rh  Rh1       1.0  0.00000  0.59236  0.77004  1.0000
+  Rh  Rh2       1.0  0.00000  0.09236  0.22996  1.0000

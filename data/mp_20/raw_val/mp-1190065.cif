@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Nd2Ga2Co15
+_chemical_formula_sum              "Nd2 Ga2 Co15"
+_cell_length_a       6.37114
+_cell_length_b       6.37114
+_cell_length_c       6.37114
+_cell_angle_alpha    83.1243
+_cell_angle_beta     83.1243
+_cell_angle_gamma    83.1243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.64874  0.64874  0.64874  1.0000
+  Nd  Nd2       1.0  0.35126  0.35126  0.35126  1.0000
+  Ga  Ga1       1.0  0.89309  0.89309  0.89309  1.0000
+  Ga  Ga2       1.0  0.10691  0.10691  0.10691  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co3       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co4       1.0  0.71371  0.28629  0.00000  1.0000
+  Co  Co5       1.0  1.00000  0.71371  0.28629  1.0000
+  Co  Co6       1.0  0.28629  0.00000  0.71371  1.0000
+  Co  Co7       1.0  0.00000  0.28629  0.71371  1.0000
+  Co  Co8       1.0  0.71371  0.00000  0.28629  1.0000
+  Co  Co9       1.0  0.28629  0.71371  0.00000  1.0000
+  Co  Co10      1.0  0.34798  0.34798  0.84978  1.0000
+  Co  Co11      1.0  0.84978  0.34798  0.34798  1.0000
+  Co  Co12      1.0  0.34798  0.84978  0.34798  1.0000
+  Co  Co13      1.0  0.65202  0.65202  0.15022  1.0000
+  Co  Co14      1.0  0.15022  0.65202  0.65202  1.0000
+  Co  Co15      1.0  0.65202  0.15022  0.65202  1.0000

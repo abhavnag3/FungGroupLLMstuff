@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La4Mg2Se8
+_chemical_formula_sum              "La4 Mg2 Se8"
+_cell_length_a       7.80286
+_cell_length_b       7.80286
+_cell_length_c       7.80286
+_cell_angle_alpha    111.126
+_cell_angle_beta     111.126
+_cell_angle_gamma    106.211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.87500  0.75767  0.38267  1.0000
+  La  La2       1.0  0.50767  0.12500  0.88267  1.0000
+  La  La3       1.0  0.37500  0.49233  0.61733  1.0000
+  La  La4       1.0  0.24232  0.62500  0.11732  1.0000
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mg  Mg2       1.0  0.75000  0.25000  0.50000  1.0000
+  Se  Se1       1.0  0.50634  0.37533  0.26768  1.0000
+  Se  Se2       1.0  0.76134  0.49367  0.86899  1.0000
+  Se  Se3       1.0  0.10765  0.23866  0.73232  1.0000
+  Se  Se4       1.0  0.62467  0.89235  0.13101  1.0000
+  Se  Se5       1.0  0.24367  0.01134  0.36899  1.0000
+  Se  Se6       1.0  0.98866  0.35765  0.23232  1.0000
+  Se  Se7       1.0  0.64235  0.87468  0.63101  1.0000
+  Se  Se8       1.0  0.12532  0.75633  0.76768  1.0000

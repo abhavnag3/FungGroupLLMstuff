@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Cu5As2O10
+_chemical_formula_sum              "Cu5 As2 O10"
+_cell_length_a       5.21786
+_cell_length_b       6.33068
+_cell_length_c       6.38287
+_cell_angle_alpha    100.398
+_cell_angle_beta     95.4537
+_cell_angle_gamma    94.6511
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu2       1.0  0.85845  0.33899  0.27890  1.0000
+  Cu  Cu3       1.0  0.14155  0.66101  0.72110  1.0000
+  Cu  Cu4       1.0  0.25272  0.12322  0.04899  1.0000
+  Cu  Cu5       1.0  0.74728  0.87678  0.95101  1.0000
+  As  As1       1.0  0.59270  0.33868  0.72996  1.0000
+  As  As2       1.0  0.40730  0.66132  0.27004  1.0000
+  O   O1        1.0  0.02115  0.94264  0.78469  1.0000
+  O   O2        1.0  0.97885  0.05736  0.21531  1.0000
+  O   O3        1.0  0.57880  0.18520  0.93095  1.0000
+  O   O4        1.0  0.42120  0.81480  0.06906  1.0000
+  O   O5        1.0  0.80404  0.56644  0.83091  1.0000
+  O   O6        1.0  0.19596  0.43356  0.16909  1.0000
+  O   O7        1.0  0.71231  0.18835  0.50870  1.0000
+  O   O8        1.0  0.28769  0.81166  0.49130  1.0000
+  O   O9        1.0  0.28402  0.38993  0.65123  1.0000
+  O   O10       1.0  0.71598  0.61007  0.34877  1.0000

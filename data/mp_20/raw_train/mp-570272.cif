@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb2Mg3Ni2
+_chemical_formula_sum              "Tb2 Mg3 Ni2"
+_cell_length_a       10.7306
+_cell_length_b       10.7306
+_cell_length_c       3.63012
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    158.763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.82352  0.17648  0.00000  1.0000
+  Tb  Tb2       1.0  0.17648  0.82352  0.00000  1.0000
+  Mg  Mg1       1.0  0.42001  0.57999  0.50000  1.0000
+  Mg  Mg2       1.0  0.57999  0.42001  0.50000  1.0000
+  Mg  Mg3       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.28691  0.71309  0.50000  1.0000
+  Ni  Ni2       1.0  0.71309  0.28691  0.50000  1.0000

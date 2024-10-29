@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Hf8Se12
+_chemical_formula_sum              "Hf8 Se12"
+_cell_length_a       6.4424
+_cell_length_b       6.4424
+_cell_length_c       13.2086
+_cell_angle_alpha    75.8743
+_cell_angle_beta     75.8743
+_cell_angle_gamma    59.9676
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.25588  0.08774  0.23156  1.0000
+  Hf  Hf2       1.0  0.08774  0.25588  0.73156  1.0000
+  Hf  Hf3       1.0  0.16692  0.99931  0.49863  1.0000
+  Hf  Hf4       1.0  0.83231  0.66886  0.49839  1.0000
+  Hf  Hf5       1.0  0.50248  0.33399  0.49858  1.0000
+  Hf  Hf6       1.0  0.33399  0.50248  0.99858  1.0000
+  Hf  Hf7       1.0  0.99931  0.16692  0.99863  1.0000
+  Hf  Hf8       1.0  0.66886  0.83231  0.99839  1.0000
+  Se  Se1       1.0  0.37864  0.21058  0.86990  1.0000
+  Se  Se2       1.0  0.70991  0.54697  0.86676  1.0000
+  Se  Se3       1.0  0.04507  0.87599  0.86662  1.0000
+  Se  Se4       1.0  0.54697  0.70991  0.36676  1.0000
+  Se  Se5       1.0  0.87599  0.04507  0.36662  1.0000
+  Se  Se6       1.0  0.21058  0.37864  0.36990  1.0000
+  Se  Se7       1.0  0.29174  0.77594  0.12827  1.0000
+  Se  Se8       1.0  0.63644  0.12460  0.12777  1.0000
+  Se  Se9       1.0  0.94447  0.47171  0.12800  1.0000
+  Se  Se10      1.0  0.12460  0.63644  0.62777  1.0000
+  Se  Se11      1.0  0.47171  0.94447  0.62800  1.0000
+  Se  Se12      1.0  0.77594  0.29174  0.62827  1.0000

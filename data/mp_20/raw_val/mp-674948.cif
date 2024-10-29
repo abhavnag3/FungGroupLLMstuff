@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       V2Mo2O10
+_chemical_formula_sum              "V2 Mo2 O10"
+_cell_length_a       5.17214
+_cell_length_b       5.29826
+_cell_length_c       7.47436
+_cell_angle_alpha    102.282
+_cell_angle_beta     71.604
+_cell_angle_gamma    77.0933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.04382  0.64692  0.18260  1.0000
+  V   V2        1.0  0.54380  0.64693  0.68264  1.0000
+  Mo  Mo1       1.0  0.55895  0.33599  0.25071  1.0000
+  Mo  Mo2       1.0  0.05896  0.33598  0.75072  1.0000
+  O   O1        1.0  0.75826  0.75229  0.78908  1.0000
+  O   O2        1.0  0.25833  0.75227  0.28909  1.0000
+  O   O3        1.0  0.23246  0.58564  0.89173  1.0000
+  O   O4        1.0  0.73245  0.58564  0.39176  1.0000
+  O   O5        1.0  0.77624  0.00313  0.21218  1.0000
+  O   O6        1.0  0.27623  0.00312  0.71217  1.0000
+  O   O7        1.0  0.30584  0.26767  0.14365  1.0000
+  O   O8        1.0  0.80580  0.26764  0.64362  1.0000
+  O   O9        1.0  0.82445  0.40839  0.03002  1.0000
+  O   O10       1.0  0.32444  0.40840  0.53003  1.0000

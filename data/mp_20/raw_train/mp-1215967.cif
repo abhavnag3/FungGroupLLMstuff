@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Zr2TiPb3O9
+_chemical_formula_sum              "Zr2 Ti1 Pb3 O9"
+_cell_length_a       4.21469
+_cell_length_b       4.21469
+_cell_length_c       12.3882
+_cell_angle_alpha    89.2891
+_cell_angle_beta     89.2891
+_cell_angle_gamma    88.9467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.97261  0.97261  0.99460  1.0000
+  Zr  Zr2       1.0  0.97371  0.97371  0.65246  1.0000
+  Ti  Ti1       1.0  0.94943  0.94943  0.32457  1.0000
+  Pb  Pb1       1.0  0.42190  0.42190  0.80824  1.0000
+  Pb  Pb2       1.0  0.42313  0.42313  0.46566  1.0000
+  Pb  Pb3       1.0  0.41885  0.41885  0.15198  1.0000
+  O   O1        1.0  0.48941  0.01303  0.66849  1.0000
+  O   O2        1.0  0.51399  0.00882  0.33344  1.0000
+  O   O3        1.0  0.48816  0.01315  0.00923  1.0000
+  O   O4        1.0  0.01142  0.01142  0.82957  1.0000
+  O   O5        1.0  0.01842  0.01842  0.48567  1.0000
+  O   O6        1.0  0.01460  0.01460  0.17516  1.0000
+  O   O7        1.0  0.01303  0.48942  0.66849  1.0000
+  O   O8        1.0  0.00882  0.51399  0.33344  1.0000
+  O   O9        1.0  0.01315  0.48816  0.00923  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr2YCu3Pb2O8
+_chemical_formula_sum              "Sr2 Y1 Cu3 Pb2 O8"
+_cell_length_a       3.83425
+_cell_length_b       3.86304
+_cell_length_c       15.9708
+_cell_angle_alpha    88.6687
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.99049  0.22129  1.0000
+  Sr  Sr2       1.0  0.00000  0.00951  0.77870  1.0000
+  Y   Y1        1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.50000  0.49841  0.10441  1.0000
+  Cu  Cu2       1.0  0.50000  0.50159  0.89559  1.0000
+  Cu  Cu3       1.0  0.00000  0.00000  0.50000  1.0000
+  Pb  Pb1       1.0  0.50000  0.49597  0.38894  1.0000
+  Pb  Pb2       1.0  0.50000  0.50403  0.61106  1.0000
+  O   O1        1.0  0.50000  0.48838  0.25149  1.0000
+  O   O2        1.0  0.50000  0.51162  0.74851  1.0000
+  O   O3        1.0  0.00000  0.49735  0.09167  1.0000
+  O   O4        1.0  0.50000  0.00018  0.90771  1.0000
+  O   O5        1.0  0.00000  0.50265  0.90833  1.0000
+  O   O6        1.0  0.50000  0.99982  0.09229  1.0000
+  O   O7        1.0  0.00000  0.89956  0.38562  1.0000
+  O   O8        1.0  0.00000  0.10044  0.61438  1.0000

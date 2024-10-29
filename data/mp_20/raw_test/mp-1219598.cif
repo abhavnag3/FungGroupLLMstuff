@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Rb2Cr2Co2F12
+_chemical_formula_sum              "Rb2 Cr2 Co2 F12"
+_cell_length_a       7.40318
+_cell_length_b       7.40318
+_cell_length_c       7.40318
+_cell_angle_alpha    120.379
+_cell_angle_beta     120.015
+_cell_angle_gamma    89.6594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.87135  0.12135  0.75000  1.0000
+  Rb  Rb2       1.0  0.12865  0.87865  0.25000  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cr  Cr2       1.0  0.00000  0.50000  0.50000  1.0000
+  Co  Co1       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.81549  0.56549  0.25000  1.0000
+  F   F2        1.0  0.42263  0.17263  0.25000  1.0000
+  F   F3        1.0  0.83217  0.18515  0.26341  1.0000
+  F   F4        1.0  0.42175  0.56877  0.23659  1.0000
+  F   F5        1.0  0.83217  0.56877  0.64702  1.0000
+  F   F6        1.0  0.42175  0.18515  0.85298  1.0000
+  F   F7        1.0  0.18451  0.43451  0.75000  1.0000
+  F   F8        1.0  0.57737  0.82737  0.75000  1.0000
+  F   F9        1.0  0.16783  0.81485  0.73659  1.0000
+  F   F10       1.0  0.57825  0.43123  0.76341  1.0000
+  F   F11       1.0  0.16783  0.43123  0.35298  1.0000
+  F   F12       1.0  0.57825  0.81485  0.14702  1.0000

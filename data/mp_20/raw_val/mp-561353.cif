@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       NaZr2MnF11
+_chemical_formula_sum              "Na1 Zr2 Mn1 F11"
+_cell_length_a       5.82625
+_cell_length_b       5.82625
+_cell_length_c       7.94627
+_cell_angle_alpha    69.3143
+_cell_angle_beta     69.3143
+_cell_angle_gamma    72.9834
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr1       1.0  0.49740  0.49740  0.23336  1.0000
+  Zr  Zr2       1.0  0.50260  0.50260  0.76664  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.19748  0.77799  0.30664  1.0000
+  F   F2        1.0  0.22201  0.80252  0.69336  1.0000
+  F   F3        1.0  0.80252  0.22201  0.69336  1.0000
+  F   F4        1.0  0.77799  0.19748  0.30664  1.0000
+  F   F5        1.0  0.50000  0.50000  0.50000  1.0000
+  F   F6        1.0  0.66899  0.33101  0.00000  1.0000
+  F   F7        1.0  0.33101  0.66899  0.00000  1.0000
+  F   F8        1.0  0.74627  0.74627  0.64921  1.0000
+  F   F9        1.0  0.25373  0.25373  0.35079  1.0000
+  F   F10       1.0  0.73352  0.73352  0.10908  1.0000
+  F   F11       1.0  0.26648  0.26648  0.89092  1.0000

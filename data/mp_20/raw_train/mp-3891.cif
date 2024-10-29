@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Eu2Tl4Pd2
+_chemical_formula_sum              "Eu2 Tl4 Pd2"
+_cell_length_a       5.96874
+_cell_length_b       5.96874
+_cell_length_c       8.56056
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    137.242
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.56569  0.43431  0.25000  1.0000
+  Eu  Eu2       1.0  0.43431  0.56569  0.75000  1.0000
+  Tl  Tl1       1.0  0.14322  0.85679  0.54892  1.0000
+  Tl  Tl2       1.0  0.85679  0.14322  0.04892  1.0000
+  Tl  Tl3       1.0  0.85679  0.14322  0.45108  1.0000
+  Tl  Tl4       1.0  0.14322  0.85679  0.95108  1.0000
+  Pd  Pd1       1.0  0.27783  0.72217  0.25000  1.0000
+  Pd  Pd2       1.0  0.72217  0.27783  0.75000  1.0000

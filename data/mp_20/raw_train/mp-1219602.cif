@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Rb4InSbCl12
+_chemical_formula_sum              "Rb4 In1 Sb1 Cl12"
+_cell_length_a       7.42678
+_cell_length_b       7.42678
+_cell_length_c       10.3057
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.50000  0.00000  0.78070  1.0000
+  Rb  Rb2       1.0  0.00000  0.50000  0.21930  1.0000
+  Rb  Rb3       1.0  0.50000  0.00000  0.21930  1.0000
+  Rb  Rb4       1.0  0.00000  0.50000  0.78070  1.0000
+  In  In1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sb  Sb1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cl  Cl1       1.0  0.00000  0.00000  0.75137  1.0000
+  Cl  Cl2       1.0  0.50000  0.50000  0.26602  1.0000
+  Cl  Cl3       1.0  0.72967  0.72967  0.50000  1.0000
+  Cl  Cl4       1.0  0.24310  0.24310  0.00000  1.0000
+  Cl  Cl5       1.0  0.72967  0.27033  0.50000  1.0000
+  Cl  Cl6       1.0  0.24310  0.75690  0.00000  1.0000
+  Cl  Cl7       1.0  0.00000  0.00000  0.24863  1.0000
+  Cl  Cl8       1.0  0.50000  0.50000  0.73398  1.0000
+  Cl  Cl9       1.0  0.27033  0.27033  0.50000  1.0000
+  Cl  Cl10      1.0  0.75690  0.75690  0.00000  1.0000
+  Cl  Cl11      1.0  0.27033  0.72967  0.50000  1.0000
+  Cl  Cl12      1.0  0.75690  0.24310  0.00000  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2In6
+_chemical_formula_sum              "Na2 In6"
+_cell_length_a       6.6663
+_cell_length_b       6.6663
+_cell_length_c       5.55408
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.66667  0.33333  0.25000  1.0000
+  Na  Na2       1.0  0.33333  0.66667  0.75000  1.0000
+  In  In1       1.0  0.83724  0.16276  0.75000  1.0000
+  In  In2       1.0  0.32551  0.16276  0.75000  1.0000
+  In  In3       1.0  0.83725  0.67449  0.75000  1.0000
+  In  In4       1.0  0.16276  0.83725  0.25000  1.0000
+  In  In5       1.0  0.67449  0.83725  0.25000  1.0000
+  In  In6       1.0  0.16276  0.32551  0.25000  1.0000

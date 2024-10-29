@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Y10Sb2Pd4
+_chemical_formula_sum              "Y10 Sb2 Pd4"
+_cell_length_a       8.81686
+_cell_length_b       8.81686
+_cell_length_c       8.81686
+_cell_angle_alpha    127.669
+_cell_angle_beta     127.669
+_cell_angle_gamma    77.1618
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00000  0.00000  0.00000  1.0000
+  Y   Y2        1.0  0.50000  0.50000  0.00000  1.0000
+  Y   Y3        1.0  0.79914  0.29914  0.81249  1.0000
+  Y   Y4        1.0  0.20086  0.70086  0.18751  1.0000
+  Y   Y5        1.0  0.48665  0.98665  0.18751  1.0000
+  Y   Y6        1.0  0.29914  0.48665  0.50000  1.0000
+  Y   Y7        1.0  0.01335  0.20086  0.50000  1.0000
+  Y   Y8        1.0  0.51335  0.01335  0.81249  1.0000
+  Y   Y9        1.0  0.70086  0.51335  0.50000  1.0000
+  Y   Y10       1.0  0.98665  0.79914  0.50000  1.0000
+  Sb  Sb1       1.0  0.25000  0.25000  0.00000  1.0000
+  Sb  Sb2       1.0  0.75000  0.75000  0.00000  1.0000
+  Pd  Pd1       1.0  0.13589  0.63589  0.77177  1.0000
+  Pd  Pd2       1.0  0.86411  0.36411  0.22823  1.0000
+  Pd  Pd3       1.0  0.63589  0.86411  0.50000  1.0000
+  Pd  Pd4       1.0  0.36411  0.13589  0.50000  1.0000

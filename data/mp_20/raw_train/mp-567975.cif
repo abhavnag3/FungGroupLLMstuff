@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Al2P2N2Cl10
+_chemical_formula_sum              "Al2 P2 N2 Cl10"
+_cell_length_a       7.4083
+_cell_length_b       8.70004
+_cell_length_c       8.80284
+_cell_angle_alpha    64.1909
+_cell_angle_beta     76.7345
+_cell_angle_gamma    67.8818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.91800  0.56617  0.62646  1.0000
+  Al  Al2       1.0  0.08200  0.43383  0.37354  1.0000
+  P   P1        1.0  0.28516  0.21450  0.72188  1.0000
+  P   P2        1.0  0.71484  0.78551  0.27812  1.0000
+  N   N1        1.0  0.13160  0.37007  0.59953  1.0000
+  N   N2        1.0  0.86840  0.62993  0.40047  1.0000
+  Cl  Cl1       1.0  0.56195  0.18464  0.62465  1.0000
+  Cl  Cl2       1.0  0.73047  0.75301  0.06429  1.0000
+  Cl  Cl3       1.0  0.99597  0.24074  0.34509  1.0000
+  Cl  Cl4       1.0  0.73848  0.03072  0.20324  1.0000
+  Cl  Cl5       1.0  0.00403  0.75926  0.65490  1.0000
+  Cl  Cl6       1.0  0.26152  0.96928  0.79676  1.0000
+  Cl  Cl7       1.0  0.26953  0.24699  0.93571  1.0000
+  Cl  Cl8       1.0  0.43805  0.81536  0.37535  1.0000
+  Cl  Cl9       1.0  0.30691  0.50933  0.18820  1.0000
+  Cl  Cl10      1.0  0.69309  0.49067  0.81180  1.0000

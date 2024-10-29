@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr3GeO8
+_chemical_formula_sum              "Zr3 Ge1 O8"
+_cell_length_a       6.41237
+_cell_length_b       6.41237
+_cell_length_c       6.41237
+_cell_angle_alpha    133.4
+_cell_angle_beta     133.4
+_cell_angle_gamma    68.0261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.75000  0.25000  0.50000  1.0000
+  Zr  Zr2       1.0  0.25000  0.75000  0.50000  1.0000
+  Zr  Zr3       1.0  0.50000  0.50000  0.00000  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.87505  0.30220  0.00000  1.0000
+  O   O2        1.0  0.69780  0.69780  0.57286  1.0000
+  O   O3        1.0  0.12495  0.12495  0.42714  1.0000
+  O   O4        1.0  0.30220  0.87505  0.00000  1.0000
+  O   O5        1.0  0.53592  0.14435  0.00000  1.0000
+  O   O6        1.0  0.85565  0.85565  0.39156  1.0000
+  O   O7        1.0  0.46409  0.46409  0.60843  1.0000
+  O   O8        1.0  0.14435  0.53592  0.00000  1.0000

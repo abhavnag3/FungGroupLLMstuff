@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba2Sb6
+_chemical_formula_sum              "Ba2 Sb6"
+_cell_length_a       6.98823
+_cell_length_b       6.98823
+_cell_length_c       6.57746
+_cell_angle_alpha    72.249
+_cell_angle_beta     72.249
+_cell_angle_gamma    76.2604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.33464  0.33464  0.82140  1.0000
+  Ba  Ba2       1.0  0.66536  0.66536  0.17860  1.0000
+  Sb  Sb1       1.0  0.85774  0.41692  0.70275  1.0000
+  Sb  Sb2       1.0  0.58308  0.14226  0.29725  1.0000
+  Sb  Sb3       1.0  0.98729  0.98729  0.72856  1.0000
+  Sb  Sb4       1.0  0.01271  0.01271  0.27144  1.0000
+  Sb  Sb5       1.0  0.41692  0.85774  0.70275  1.0000
+  Sb  Sb6       1.0  0.14226  0.58308  0.29725  1.0000

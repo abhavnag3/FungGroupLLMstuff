@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rb4Pb2O6
+_chemical_formula_sum              "Rb4 Pb2 O6"
+_cell_length_a       6.70683
+_cell_length_b       6.70683
+_cell_length_c       6.14073
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.51851  0.19138  0.74096  1.0000
+  Rb  Rb2       1.0  0.80862  0.48149  0.24096  1.0000
+  Rb  Rb3       1.0  0.48149  0.80862  0.24096  1.0000
+  Rb  Rb4       1.0  0.19138  0.51851  0.74096  1.0000
+  Pb  Pb1       1.0  0.09334  0.09334  0.26146  1.0000
+  Pb  Pb2       1.0  0.90666  0.90666  0.76146  1.0000
+  O   O1        1.0  0.36373  0.36373  0.30663  1.0000
+  O   O2        1.0  0.63627  0.63626  0.80663  1.0000
+  O   O3        1.0  0.14358  0.88344  0.00500  1.0000
+  O   O4        1.0  0.85642  0.11656  0.50500  1.0000
+  O   O5        1.0  0.88344  0.14358  0.00500  1.0000
+  O   O6        1.0  0.11656  0.85642  0.50500  1.0000

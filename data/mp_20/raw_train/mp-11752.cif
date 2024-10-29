@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Lu7Ni2Te2
+_chemical_formula_sum              "Lu7 Ni2 Te2"
+_cell_length_a       9.1456
+_cell_length_b       9.1456
+_cell_length_c       9.1456
+_cell_angle_alpha    156.066
+_cell_angle_beta     118.054
+_cell_angle_gamma    67.3984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.30837  0.68545  0.62291  1.0000
+  Lu  Lu2       1.0  0.93746  0.31455  0.62291  1.0000
+  Lu  Lu3       1.0  0.99936  0.00000  0.99936  1.0000
+  Lu  Lu4       1.0  0.55303  0.13511  0.41792  1.0000
+  Lu  Lu5       1.0  0.28281  0.86489  0.41792  1.0000
+  Lu  Lu6       1.0  0.62617  0.35353  0.27264  1.0000
+  Lu  Lu7       1.0  0.91910  0.64647  0.27264  1.0000
+  Ni  Ni1       1.0  0.16570  0.23637  0.92933  1.0000
+  Ni  Ni2       1.0  0.69295  0.76362  0.92933  1.0000
+  Te  Te1       1.0  0.66067  0.00000  0.66067  1.0000
+  Te  Te2       1.0  0.26618  0.50000  0.76618  1.0000

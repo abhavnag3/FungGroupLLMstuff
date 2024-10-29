@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Si2Ni2O8
+_chemical_formula_sum              "Li4 Si2 Ni2 O8"
+_cell_length_a       5.24221
+_cell_length_b       6.29031
+_cell_length_c       5.34129
+_cell_angle_alpha    89.9859
+_cell_angle_beta     92.8288
+_cell_angle_gamma    89.9854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.18935  0.74947  0.17666  1.0000
+  Li  Li2       1.0  0.81134  0.24840  0.82289  1.0000
+  Li  Li3       1.0  0.68983  0.50153  0.31497  1.0000
+  Li  Li4       1.0  0.31022  0.00011  0.68510  1.0000
+  Si  Si1       1.0  0.18224  0.24898  0.16954  1.0000
+  Si  Si2       1.0  0.81825  0.74846  0.83032  1.0000
+  Ni  Ni1       1.0  0.31458  0.50379  0.67189  1.0000
+  Ni  Ni2       1.0  0.68525  0.00521  0.32658  1.0000
+  O   O1        1.0  0.78360  0.75354  0.13631  1.0000
+  O   O2        1.0  0.21612  0.25263  0.86346  1.0000
+  O   O3        1.0  0.86916  0.25149  0.19867  1.0000
+  O   O4        1.0  0.13162  0.74955  0.80197  1.0000
+  O   O5        1.0  0.30473  0.03136  0.30109  1.0000
+  O   O6        1.0  0.69507  0.53109  0.69927  1.0000
+  O   O7        1.0  0.31198  0.46244  0.30147  1.0000
+  O   O8        1.0  0.68947  0.96195  0.69701  1.0000

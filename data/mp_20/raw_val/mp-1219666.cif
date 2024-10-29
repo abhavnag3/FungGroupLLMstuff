@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Rb3Se2O8
+_chemical_formula_sum              "Rb3 Se2 O8"
+_cell_length_a       6.15841
+_cell_length_b       6.15841
+_cell_length_c       8.52827
+_cell_angle_alpha    67.4925
+_cell_angle_beta     67.4925
+_cell_angle_gamma    60.1168
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.00275  0.99725  0.00000  1.0000
+  Rb  Rb2       1.0  0.20259  0.20755  0.38592  1.0000
+  Rb  Rb3       1.0  0.79245  0.79741  0.61408  1.0000
+  Se  Se1       1.0  0.39585  0.41491  0.77206  1.0000
+  Se  Se2       1.0  0.58509  0.60415  0.22794  1.0000
+  O   O1        1.0  0.26323  0.71556  0.30537  1.0000
+  O   O2        1.0  0.71844  0.28199  0.27905  1.0000
+  O   O3        1.0  0.71063  0.71789  0.30511  1.0000
+  O   O4        1.0  0.71801  0.28157  0.72095  1.0000
+  O   O5        1.0  0.28444  0.73677  0.69463  1.0000
+  O   O6        1.0  0.28212  0.28937  0.69489  1.0000
+  O   O7        1.0  0.28393  0.36253  0.99111  1.0000
+  O   O8        1.0  0.63747  0.71607  0.00889  1.0000

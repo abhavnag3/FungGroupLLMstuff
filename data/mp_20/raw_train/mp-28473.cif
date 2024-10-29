@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       C2Cl2F6
+_chemical_formula_sum              "C2 Cl2 F6"
+_cell_length_a       6.19319
+_cell_length_b       6.19319
+_cell_length_c       4.89407
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    105.545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.68964  0.31036  0.00156  1.0000
+  C   C2        1.0  0.31036  0.68964  0.50156  1.0000
+  Cl  Cl1       1.0  0.86167  0.13833  0.09273  1.0000
+  Cl  Cl2       1.0  0.13833  0.86167  0.59273  1.0000
+  F   F1        1.0  0.67543  0.32457  0.72702  1.0000
+  F   F2        1.0  0.32457  0.67543  0.22702  1.0000
+  F   F3        1.0  0.77281  0.51951  0.10210  1.0000
+  F   F4        1.0  0.22719  0.48049  0.60210  1.0000
+  F   F5        1.0  0.48048  0.22719  0.10210  1.0000
+  F   F6        1.0  0.51951  0.77281  0.60210  1.0000

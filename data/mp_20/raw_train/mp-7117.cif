@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Al4Se8
+_chemical_formula_sum              "Li4 Al4 Se8"
+_cell_length_a       6.61596
+_cell_length_b       6.91611
+_cell_length_c       8.36036
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00321  0.58786  0.87838  1.0000
+  Li  Li2       1.0  0.50321  0.41214  0.12162  1.0000
+  Li  Li3       1.0  0.50321  0.91214  0.37838  1.0000
+  Li  Li4       1.0  0.00321  0.08786  0.62162  1.0000
+  Al  Al1       1.0  0.99979  0.57309  0.37399  1.0000
+  Al  Al2       1.0  0.49979  0.42691  0.62601  1.0000
+  Al  Al3       1.0  0.49979  0.92691  0.87399  1.0000
+  Al  Al4       1.0  0.99979  0.07309  0.12601  1.0000
+  Se  Se1       1.0  0.11306  0.90589  0.36349  1.0000
+  Se  Se2       1.0  0.61306  0.09411  0.63651  1.0000
+  Se  Se3       1.0  0.61306  0.59411  0.86349  1.0000
+  Se  Se4       1.0  0.11306  0.40589  0.13651  1.0000
+  Se  Se5       1.0  0.63374  0.56341  0.38340  1.0000
+  Se  Se6       1.0  0.13374  0.43659  0.61660  1.0000
+  Se  Se7       1.0  0.13374  0.93659  0.88340  1.0000
+  Se  Se8       1.0  0.63374  0.06341  0.11660  1.0000

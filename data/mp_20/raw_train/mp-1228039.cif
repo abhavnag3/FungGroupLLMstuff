@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       BaCu6Te6Se
+_chemical_formula_sum              "Ba1 Cu6 Te6 Se1"
+_cell_length_a       7.00029
+_cell_length_b       6.97331
+_cell_length_c       7.06967
+_cell_angle_alpha    88.8211
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.49873  0.50000  0.50000  1.0000
+  Cu  Cu1       1.0  0.20025  0.20009  0.20427  1.0000
+  Cu  Cu2       1.0  0.20025  0.79991  0.79573  1.0000
+  Cu  Cu3       1.0  0.80312  0.19429  0.80632  1.0000
+  Cu  Cu4       1.0  0.80312  0.80571  0.19368  1.0000
+  Cu  Cu5       1.0  0.80014  0.79135  0.80081  1.0000
+  Cu  Cu6       1.0  0.80014  0.20865  0.19919  1.0000
+  Te  Te1       1.0  0.29709  0.00000  0.50000  1.0000
+  Te  Te2       1.0  0.69925  0.00000  0.50000  1.0000
+  Te  Te3       1.0  0.49668  0.29669  0.00145  1.0000
+  Te  Te4       1.0  0.49668  0.70331  0.99855  1.0000
+  Te  Te5       1.0  0.99719  0.49490  0.70140  1.0000
+  Te  Te6       1.0  0.99719  0.50510  0.29860  1.0000
+  Se  Se1       1.0  0.01146  0.00000  0.00000  1.0000

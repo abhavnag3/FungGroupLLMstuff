@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       La2B4Cl2O8
+_chemical_formula_sum              "La2 B4 Cl2 O8"
+_cell_length_a       4.26682
+_cell_length_b       6.66958
+_cell_length_c       8.26601
+_cell_angle_alpha    98.0718
+_cell_angle_beta     89.2899
+_cell_angle_gamma    107.845
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.78872  0.03285  0.77788  1.0000
+  La  La2       1.0  0.21128  0.96715  0.22212  1.0000
+  B   B1        1.0  0.83518  0.34990  0.14738  1.0000
+  B   B2        1.0  0.56153  0.43727  0.80715  1.0000
+  B   B3        1.0  0.16482  0.65010  0.85262  1.0000
+  B   B4        1.0  0.43847  0.56273  0.19285  1.0000
+  Cl  Cl1       1.0  0.85228  0.20023  0.45674  1.0000
+  Cl  Cl2       1.0  0.14772  0.79977  0.54326  1.0000
+  O   O1        1.0  0.10079  0.53507  0.17701  1.0000
+  O   O2        1.0  0.52459  0.37562  0.18158  1.0000
+  O   O3        1.0  0.36529  0.23622  0.79178  1.0000
+  O   O4        1.0  0.47541  0.62438  0.81842  1.0000
+  O   O5        1.0  0.63471  0.76377  0.20822  1.0000
+  O   O6        1.0  0.89921  0.46493  0.82299  1.0000
+  O   O7        1.0  0.16106  0.84560  0.92020  1.0000
+  O   O8        1.0  0.83894  0.15440  0.07980  1.0000

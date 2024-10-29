@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr4Zn4Sb8
+_chemical_formula_sum              "Sr4 Zn4 Sb8"
+_cell_length_a       4.44373
+_cell_length_b       4.48583
+_cell_length_c       23.0497
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000  0.77155  0.61582  1.0000
+  Sr  Sr2       1.0  0.75000  0.22845  0.38418  1.0000
+  Sr  Sr3       1.0  0.75000  0.27155  0.88418  1.0000
+  Sr  Sr4       1.0  0.25000  0.72845  0.11582  1.0000
+  Zn  Zn1       1.0  0.25000  0.27512  0.75000  1.0000
+  Zn  Zn2       1.0  0.75000  0.72488  0.25000  1.0000
+  Zn  Zn3       1.0  0.75000  0.77512  0.75000  1.0000
+  Zn  Zn4       1.0  0.25000  0.22488  0.25000  1.0000
+  Sb  Sb1       1.0  0.25000  0.21604  0.00108  1.0000
+  Sb  Sb2       1.0  0.75000  0.78396  0.99892  1.0000
+  Sb  Sb3       1.0  0.75000  0.71604  0.49892  1.0000
+  Sb  Sb4       1.0  0.25000  0.28396  0.50108  1.0000
+  Sb  Sb5       1.0  0.25000  0.72612  0.32353  1.0000
+  Sb  Sb6       1.0  0.75000  0.27388  0.67647  1.0000
+  Sb  Sb7       1.0  0.75000  0.22612  0.17647  1.0000
+  Sb  Sb8       1.0  0.25000  0.77388  0.82353  1.0000

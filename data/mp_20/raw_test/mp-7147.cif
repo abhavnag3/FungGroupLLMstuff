@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       KCrP2S7
+_chemical_formula_sum              "K1 Cr1 P2 S7"
+_cell_length_a       6.51969
+_cell_length_b       6.51969
+_cell_length_c       6.58316
+_cell_angle_alpha    85.1335
+_cell_angle_beta     85.1335
+_cell_angle_gamma    97.0875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.90162  0.09838  0.50000  1.0000
+  Cr  Cr1       1.0  0.49853  0.50147  0.00000  1.0000
+  P   P1        1.0  0.35791  0.04950  0.92508  1.0000
+  P   P2        1.0  0.95050  0.64209  0.07492  1.0000
+  S   S1        1.0  0.02737  0.97263  0.00000  1.0000
+  S   S2        1.0  0.17889  0.52070  0.21626  1.0000
+  S   S3        1.0  0.36659  0.31050  0.72937  1.0000
+  S   S4        1.0  0.68950  0.63341  0.27063  1.0000
+  S   S5        1.0  0.84469  0.51050  0.82815  1.0000
+  S   S6        1.0  0.48951  0.15531  0.17185  1.0000
+  S   S7        1.0  0.47930  0.82111  0.78374  1.0000

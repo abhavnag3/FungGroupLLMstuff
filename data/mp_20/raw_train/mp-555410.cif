@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn4S4
+_chemical_formula_sum              "Zn4 S4"
+_cell_length_a       12.7808
+_cell_length_b       12.7808
+_cell_length_c       12.7808
+_cell_angle_alpha    17.3187
+_cell_angle_beta     17.3187
+_cell_angle_gamma    17.3187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.41666  0.41666  0.41666  1.0000
+  Zn  Zn2       1.0  0.00003  0.00003  0.00003  1.0000
+  Zn  Zn3       1.0  0.58337  0.58337  0.58337  1.0000
+  Zn  Zn4       1.0  0.83332  0.83332  0.83332  1.0000
+  S   S1        1.0  0.64591  0.64591  0.64591  1.0000
+  S   S2        1.0  0.89584  0.89584  0.89584  1.0000
+  S   S3        1.0  0.47912  0.47912  0.47912  1.0000
+  S   S4        1.0  0.06251  0.06251  0.06251  1.0000

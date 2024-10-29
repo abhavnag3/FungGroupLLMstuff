@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zn4Cd4Sb8
+_chemical_formula_sum              "Zn4 Cd4 Sb8"
+_cell_length_a       6.48096
+_cell_length_b       8.10145
+_cell_length_c       8.52293
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.94835  0.38646  0.13358  1.0000
+  Zn  Zn2       1.0  0.44835  0.11354  0.86642  1.0000
+  Zn  Zn3       1.0  0.05165  0.88646  0.36642  1.0000
+  Zn  Zn4       1.0  0.55165  0.61354  0.63358  1.0000
+  Cd  Cd1       1.0  0.04107  0.61890  0.86916  1.0000
+  Cd  Cd2       1.0  0.54107  0.88110  0.13084  1.0000
+  Cd  Cd3       1.0  0.95893  0.11890  0.63084  1.0000
+  Cd  Cd4       1.0  0.45893  0.38110  0.36916  1.0000
+  Sb  Sb1       1.0  0.64493  0.07008  0.39776  1.0000
+  Sb  Sb2       1.0  0.14493  0.42992  0.60224  1.0000
+  Sb  Sb3       1.0  0.35507  0.57008  0.10224  1.0000
+  Sb  Sb4       1.0  0.85507  0.92992  0.89776  1.0000
+  Sb  Sb5       1.0  0.36497  0.91349  0.60973  1.0000
+  Sb  Sb6       1.0  0.86497  0.58651  0.39027  1.0000
+  Sb  Sb7       1.0  0.63503  0.41349  0.89027  1.0000
+  Sb  Sb8       1.0  0.13503  0.08651  0.10973  1.0000

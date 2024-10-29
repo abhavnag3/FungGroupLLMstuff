@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ni6O2F10
+_chemical_formula_sum              "Ni6 O2 F10"
+_cell_length_a       4.70737
+_cell_length_b       5.63292
+_cell_length_c       7.78143
+_cell_angle_alpha    86.1064
+_cell_angle_beta     89.3757
+_cell_angle_gamma    89.1228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni2       1.0  0.50735  0.82558  0.66663  1.0000
+  Ni  Ni3       1.0  0.49265  0.17442  0.33337  1.0000
+  Ni  Ni4       1.0  0.98727  0.33973  0.67073  1.0000
+  Ni  Ni5       1.0  0.01273  0.66027  0.32927  1.0000
+  Ni  Ni6       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.69362  0.53561  0.77009  1.0000
+  O   O2        1.0  0.30638  0.46439  0.22991  1.0000
+  F   F1        1.0  0.80390  0.36853  0.43434  1.0000
+  F   F2        1.0  0.80248  0.03451  0.76758  1.0000
+  F   F3        1.0  0.80421  0.70294  0.10138  1.0000
+  F   F4        1.0  0.70012  0.20031  0.10229  1.0000
+  F   F5        1.0  0.69815  0.86869  0.42994  1.0000
+  F   F6        1.0  0.30185  0.13131  0.57006  1.0000
+  F   F7        1.0  0.29988  0.79969  0.89771  1.0000
+  F   F8        1.0  0.19752  0.96549  0.23242  1.0000
+  F   F9        1.0  0.19579  0.29706  0.89862  1.0000
+  F   F10       1.0  0.19610  0.63147  0.56566  1.0000

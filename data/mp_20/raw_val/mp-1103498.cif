@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pr4Ga4Co4
+_chemical_formula_sum              "Pr4 Ga4 Co4"
+_cell_length_a       4.36878
+_cell_length_b       7.11032
+_cell_length_c       7.51685
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25000  0.02093  0.81120  1.0000
+  Pr  Pr2       1.0  0.25000  0.52094  0.68880  1.0000
+  Pr  Pr3       1.0  0.75000  0.97906  0.18880  1.0000
+  Pr  Pr4       1.0  0.75000  0.47907  0.31120  1.0000
+  Ga  Ga1       1.0  0.25000  0.16563  0.42221  1.0000
+  Ga  Ga2       1.0  0.25000  0.66563  0.07779  1.0000
+  Ga  Ga3       1.0  0.75000  0.83437  0.57779  1.0000
+  Ga  Ga4       1.0  0.75000  0.33437  0.92221  1.0000
+  Co  Co1       1.0  0.25000  0.80361  0.39657  1.0000
+  Co  Co2       1.0  0.25000  0.30361  0.10343  1.0000
+  Co  Co3       1.0  0.75000  0.19639  0.60343  1.0000
+  Co  Co4       1.0  0.75000  0.69639  0.89657  1.0000

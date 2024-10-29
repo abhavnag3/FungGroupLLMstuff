@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca4Hf4S12
+_chemical_formula_sum              "Ca4 Hf4 S12"
+_cell_length_a       6.56027
+_cell_length_b       7.01785
+_cell_length_c       9.59823
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.47190  0.58932  0.25000  1.0000
+  Ca  Ca2       1.0  0.02810  0.08932  0.25000  1.0000
+  Ca  Ca3       1.0  0.52810  0.41068  0.75000  1.0000
+  Ca  Ca4       1.0  0.97190  0.91068  0.75000  1.0000
+  Hf  Hf1       1.0  0.00000  0.50000  0.00000  1.0000
+  Hf  Hf2       1.0  0.50000  0.00000  0.50000  1.0000
+  Hf  Hf3       1.0  0.00000  0.50000  0.50000  1.0000
+  Hf  Hf4       1.0  0.50000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.88021  0.46729  0.25000  1.0000
+  S   S2        1.0  0.61979  0.96729  0.25000  1.0000
+  S   S3        1.0  0.11979  0.53271  0.75000  1.0000
+  S   S4        1.0  0.38021  0.03271  0.75000  1.0000
+  S   S5        1.0  0.68341  0.69040  0.93880  1.0000
+  S   S6        1.0  0.81659  0.19040  0.56120  1.0000
+  S   S7        1.0  0.31659  0.30960  0.43880  1.0000
+  S   S8        1.0  0.18341  0.80960  0.06120  1.0000
+  S   S9        1.0  0.31659  0.30960  0.06120  1.0000
+  S   S10       1.0  0.18341  0.80960  0.43880  1.0000
+  S   S11       1.0  0.68341  0.69040  0.56120  1.0000
+  S   S12       1.0  0.81659  0.19040  0.93880  1.0000

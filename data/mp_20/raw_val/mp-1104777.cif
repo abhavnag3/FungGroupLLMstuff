@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Gd6Sb2O6
+_chemical_formula_sum              "Gd6 Sb2 O6"
+_cell_length_a       6.97218
+_cell_length_b       6.97218
+_cell_length_c       11.9612
+_cell_angle_alpha    62.8445
+_cell_angle_beta     62.8445
+_cell_angle_gamma    32.7388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.11964  0.11964  0.55782  1.0000
+  Gd  Gd2       1.0  0.88036  0.88036  0.44218  1.0000
+  Gd  Gd3       1.0  0.34293  0.34293  0.20768  1.0000
+  Gd  Gd4       1.0  0.65707  0.65707  0.79232  1.0000
+  Gd  Gd5       1.0  0.87189  0.87189  0.90048  1.0000
+  Gd  Gd6       1.0  0.12811  0.12811  0.09953  1.0000
+  Sb  Sb1       1.0  0.38145  0.38145  0.68041  1.0000
+  Sb  Sb2       1.0  0.61855  0.61855  0.31959  1.0000
+  O   O1        1.0  0.30974  0.30974  0.40986  1.0000
+  O   O2        1.0  0.69026  0.69026  0.59014  1.0000
+  O   O3        1.0  0.33577  0.33576  0.01530  1.0000
+  O   O4        1.0  0.66424  0.66424  0.98470  1.0000
+  O   O5        1.0  0.93632  0.93632  0.19687  1.0000
+  O   O6        1.0  0.06368  0.06368  0.80313  1.0000

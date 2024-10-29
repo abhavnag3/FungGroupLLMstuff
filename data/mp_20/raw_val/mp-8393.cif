@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tl3SbS3
+_chemical_formula_sum              "Tl3 Sb1 S3"
+_cell_length_a       6.20588
+_cell_length_b       6.20588
+_cell_length_c       6.20588
+_cell_angle_alpha    104.295
+_cell_angle_beta     104.295
+_cell_angle_gamma    104.295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.43487  0.43487  0.82810  1.0000
+  Tl  Tl2       1.0  0.43487  0.82810  0.43487  1.0000
+  Tl  Tl3       1.0  0.82810  0.43487  0.43487  1.0000
+  Sb  Sb1       1.0  0.01150  0.01150  0.01150  1.0000
+  S   S1        1.0  0.42020  0.03547  0.03547  1.0000
+  S   S2        1.0  0.03547  0.03547  0.42020  1.0000
+  S   S3        1.0  0.03547  0.42020  0.03547  1.0000

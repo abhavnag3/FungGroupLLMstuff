@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K2Cr2O6F2
+_chemical_formula_sum              "K2 Cr2 O6 F2"
+_cell_length_a       5.63303
+_cell_length_b       5.6352
+_cell_length_c       7.70742
+_cell_angle_alpha    110.382
+_cell_angle_beta     110.939
+_cell_angle_gamma    90.0204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.75191  0.25302  0.50143  1.0000
+  K   K2        1.0  0.50472  0.50122  0.00162  1.0000
+  Cr  Cr1       1.0  0.25096  0.74167  0.49728  1.0000
+  Cr  Cr2       1.0  0.99168  0.99668  0.99730  1.0000
+  O   O1        1.0  0.40472  0.58784  0.63693  1.0000
+  O   O2        1.0  0.84008  0.15061  0.85686  1.0000
+  O   O3        1.0  0.01171  0.70978  0.86008  1.0000
+  O   O4        1.0  0.40069  0.76036  0.35588  1.0000
+  O   O5        1.0  0.96044  0.59237  0.36071  1.0000
+  O   O6        1.0  0.83920  0.98053  0.13763  1.0000
+  F   F1        1.0  0.23128  0.06150  0.64734  1.0000
+  F   F2        1.0  0.31261  0.16443  0.14693  1.0000

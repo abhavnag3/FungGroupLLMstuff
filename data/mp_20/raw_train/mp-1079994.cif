@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Y2Ni4B4
+_chemical_formula_sum              "Y2 Ni4 B4"
+_cell_length_a       4.97716
+_cell_length_b       4.97716
+_cell_length_c       6.88261
+_cell_angle_alpha    59.261
+_cell_angle_beta     59.261
+_cell_angle_gamma    64.1689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.11762  0.88238  0.25000  1.0000
+  Y   Y2        1.0  0.88238  0.11762  0.75000  1.0000
+  Ni  Ni1       1.0  0.46652  0.27788  0.20133  1.0000
+  Ni  Ni2       1.0  0.72212  0.53348  0.29867  1.0000
+  Ni  Ni3       1.0  0.53348  0.72212  0.79867  1.0000
+  Ni  Ni4       1.0  0.27788  0.46652  0.70133  1.0000
+  B   B1        1.0  0.15531  0.50393  0.02358  1.0000
+  B   B2        1.0  0.49607  0.84469  0.47642  1.0000
+  B   B3        1.0  0.84469  0.49607  0.97642  1.0000
+  B   B4        1.0  0.50393  0.15531  0.52358  1.0000

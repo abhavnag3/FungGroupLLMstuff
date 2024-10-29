@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K3Hg11
+_chemical_formula_sum              "K3 Hg11"
+_cell_length_a       9.86504
+_cell_length_b       9.86504
+_cell_length_c       9.86504
+_cell_angle_alpha    148.713
+_cell_angle_beta     112.44
+_cell_angle_gamma    76.3317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.30689  0.30689  0.00000  1.0000
+  K   K2        1.0  0.69311  0.69311  0.00000  1.0000
+  K   K3        1.0  0.00000  0.00000  0.00000  1.0000
+  Hg  Hg1       1.0  0.41863  0.13383  0.28480  1.0000
+  Hg  Hg2       1.0  0.97022  0.33061  0.63961  1.0000
+  Hg  Hg3       1.0  0.02978  0.66939  0.36039  1.0000
+  Hg  Hg4       1.0  0.30900  0.66939  0.63961  1.0000
+  Hg  Hg5       1.0  0.69100  0.33061  0.36039  1.0000
+  Hg  Hg6       1.0  0.70009  0.50000  0.20009  1.0000
+  Hg  Hg7       1.0  0.29991  0.50000  0.79991  1.0000
+  Hg  Hg8       1.0  0.50000  0.00000  0.50000  1.0000
+  Hg  Hg9       1.0  0.58137  0.86617  0.71520  1.0000
+  Hg  Hg10      1.0  0.15097  0.86617  0.28480  1.0000
+  Hg  Hg11      1.0  0.84903  0.13383  0.71520  1.0000

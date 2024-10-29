@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag4C2O6
+_chemical_formula_sum              "Ag4 C2 O6"
+_cell_length_a       9.78172
+_cell_length_b       3.35737
+_cell_length_c       5.03154
+_cell_angle_alpha    82.8146
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.43038  0.76074  0.20159  1.0000
+  Ag  Ag2       1.0  0.93038  0.23926  0.79841  1.0000
+  Ag  Ag3       1.0  0.56962  0.23926  0.79841  1.0000
+  Ag  Ag4       1.0  0.06962  0.76074  0.20159  1.0000
+  C   C1        1.0  0.25000  0.19023  0.71737  1.0000
+  C   C2        1.0  0.75000  0.80977  0.28264  1.0000
+  O   O1        1.0  0.86463  0.71468  0.40329  1.0000
+  O   O2        1.0  0.36463  0.28532  0.59671  1.0000
+  O   O3        1.0  0.25000  0.99583  0.96018  1.0000
+  O   O4        1.0  0.75000  0.00417  0.03982  1.0000
+  O   O5        1.0  0.63537  0.71468  0.40329  1.0000
+  O   O6        1.0  0.13537  0.28532  0.59671  1.0000

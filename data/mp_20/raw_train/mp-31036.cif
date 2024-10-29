@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu4Te8Br4
+_chemical_formula_sum              "Cu4 Te8 Br4"
+_cell_length_a       5.22846
+_cell_length_b       8.39697
+_cell_length_c       12.7759
+_cell_angle_alpha    64.6324
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.13023  0.17902  0.25089  1.0000
+  Cu  Cu2       1.0  0.63023  0.82099  0.24911  1.0000
+  Cu  Cu3       1.0  0.86977  0.82098  0.74911  1.0000
+  Cu  Cu4       1.0  0.36977  0.17902  0.75089  1.0000
+  Te  Te1       1.0  0.03036  0.27869  0.85381  1.0000
+  Te  Te2       1.0  0.78817  0.41206  0.14963  1.0000
+  Te  Te3       1.0  0.71183  0.41206  0.64963  1.0000
+  Te  Te4       1.0  0.21183  0.58794  0.85037  1.0000
+  Te  Te5       1.0  0.53036  0.72131  0.64619  1.0000
+  Te  Te6       1.0  0.96964  0.72131  0.14619  1.0000
+  Te  Te7       1.0  0.46964  0.27869  0.35380  1.0000
+  Te  Te8       1.0  0.28817  0.58794  0.35037  1.0000
+  Br  Br1       1.0  0.12363  0.08451  0.62114  1.0000
+  Br  Br2       1.0  0.37637  0.08451  0.12114  1.0000
+  Br  Br3       1.0  0.87637  0.91549  0.37886  1.0000
+  Br  Br4       1.0  0.62363  0.91549  0.87886  1.0000

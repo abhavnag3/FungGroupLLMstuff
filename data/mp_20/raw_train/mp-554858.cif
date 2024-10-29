@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cs4Na2Mn2F12
+_chemical_formula_sum              "Cs4 Na2 Mn2 F12"
+_cell_length_a       11.0486
+_cell_length_b       11.0486
+_cell_length_c       11.0486
+_cell_angle_alpha    33.5379
+_cell_angle_beta     33.5379
+_cell_angle_gamma    33.5379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.12681  0.12681  0.12681  1.0000
+  Cs  Cs2       1.0  0.87319  0.87319  0.87319  1.0000
+  Cs  Cs3       1.0  0.28442  0.28442  0.28442  1.0000
+  Cs  Cs4       1.0  0.71558  0.71558  0.71558  1.0000
+  Na  Na1       1.0  0.59639  0.59639  0.59639  1.0000
+  Na  Na2       1.0  0.40361  0.40361  0.40361  1.0000
+  Mn  Mn1       1.0  0.50000  0.50000  0.50000  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.18674  0.18674  0.73673  1.0000
+  F   F2        1.0  0.73673  0.18674  0.18674  1.0000
+  F   F3        1.0  0.18674  0.73673  0.18674  1.0000
+  F   F4        1.0  0.81326  0.26327  0.81326  1.0000
+  F   F5        1.0  0.81326  0.81326  0.26327  1.0000
+  F   F6        1.0  0.26327  0.81326  0.81326  1.0000
+  F   F7        1.0  0.39555  0.39555  0.82172  1.0000
+  F   F8        1.0  0.82172  0.39555  0.39555  1.0000
+  F   F9        1.0  0.17828  0.60445  0.60445  1.0000
+  F   F10       1.0  0.60445  0.60445  0.17828  1.0000
+  F   F11       1.0  0.60445  0.17828  0.60445  1.0000
+  F   F12       1.0  0.39555  0.82172  0.39555  1.0000

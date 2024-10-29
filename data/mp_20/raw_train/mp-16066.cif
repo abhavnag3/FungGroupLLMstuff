@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Yb2Ni8P4
+_chemical_formula_sum              "Yb2 Ni8 P4"
+_cell_length_a       7.09822
+_cell_length_b       7.09822
+_cell_length_c       3.53899
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Yb  Yb2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni1       1.0  0.83234  0.41862  0.50000  1.0000
+  Ni  Ni2       1.0  0.16766  0.58138  0.50000  1.0000
+  Ni  Ni3       1.0  0.41862  0.83234  0.50000  1.0000
+  Ni  Ni4       1.0  0.58138  0.16766  0.50000  1.0000
+  Ni  Ni5       1.0  0.33234  0.08138  0.00000  1.0000
+  Ni  Ni6       1.0  0.66766  0.91862  0.00000  1.0000
+  Ni  Ni7       1.0  0.91862  0.66766  0.00000  1.0000
+  Ni  Ni8       1.0  0.08138  0.33234  0.00000  1.0000
+  P   P1        1.0  0.22301  0.77699  0.00000  1.0000
+  P   P2        1.0  0.27699  0.27699  0.50000  1.0000
+  P   P3        1.0  0.72301  0.72301  0.50000  1.0000
+  P   P4        1.0  0.77699  0.22301  0.00000  1.0000

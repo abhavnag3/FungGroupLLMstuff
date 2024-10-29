@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       La4C2Br5
+_chemical_formula_sum              "La4 C2 Br5"
+_cell_length_a       10.4007
+_cell_length_b       10.4007
+_cell_length_c       10.4007
+_cell_angle_alpha    157.55
+_cell_angle_beta     132.566
+_cell_angle_gamma    53.0832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.70415  0.50000  0.20415  1.0000
+  La  La2       1.0  0.33803  0.83803  0.50000  1.0000
+  La  La3       1.0  0.29585  0.50000  0.79585  1.0000
+  La  La4       1.0  0.66197  0.16197  0.50000  1.0000
+  C   C1        1.0  0.53806  0.03806  0.50000  1.0000
+  C   C2        1.0  0.46194  0.96194  0.50000  1.0000
+  Br  Br1       1.0  0.93886  0.66452  0.27434  1.0000
+  Br  Br2       1.0  0.39018  0.66452  0.72566  1.0000
+  Br  Br3       1.0  0.60982  0.33548  0.27434  1.0000
+  Br  Br4       1.0  0.06114  0.33548  0.72566  1.0000
+  Br  Br5       1.0  0.00000  0.00000  0.00000  1.0000

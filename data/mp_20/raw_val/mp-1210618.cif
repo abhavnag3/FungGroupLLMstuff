@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn12Si4Ni4
+_chemical_formula_sum              "Mn12 Si4 Ni4"
+_cell_length_a       6.05351
+_cell_length_b       6.05351
+_cell_length_c       6.05351
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.12328  0.20360  0.45471  1.0000
+  Mn  Mn2       1.0  0.37672  0.79640  0.95471  1.0000
+  Mn  Mn3       1.0  0.87672  0.70360  0.04529  1.0000
+  Mn  Mn4       1.0  0.45471  0.12328  0.20360  1.0000
+  Mn  Mn5       1.0  0.62328  0.29640  0.54529  1.0000
+  Mn  Mn6       1.0  0.95471  0.37672  0.79640  1.0000
+  Mn  Mn7       1.0  0.04529  0.87672  0.70360  1.0000
+  Mn  Mn8       1.0  0.54529  0.62328  0.29640  1.0000
+  Mn  Mn9       1.0  0.20360  0.45471  0.12328  1.0000
+  Mn  Mn10      1.0  0.70360  0.04529  0.87672  1.0000
+  Mn  Mn11      1.0  0.29640  0.54529  0.62328  1.0000
+  Mn  Mn12      1.0  0.79640  0.95471  0.37672  1.0000
+  Si  Si1       1.0  0.06276  0.06276  0.06276  1.0000
+  Si  Si2       1.0  0.43724  0.93724  0.56276  1.0000
+  Si  Si3       1.0  0.93724  0.56276  0.43724  1.0000
+  Si  Si4       1.0  0.56276  0.43724  0.93724  1.0000
+  Ni  Ni1       1.0  0.68671  0.68671  0.68671  1.0000
+  Ni  Ni2       1.0  0.81329  0.31329  0.18671  1.0000
+  Ni  Ni3       1.0  0.31329  0.18671  0.81329  1.0000
+  Ni  Ni4       1.0  0.18671  0.81329  0.31329  1.0000

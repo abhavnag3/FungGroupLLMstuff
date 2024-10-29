@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca3Ge4Au7
+_chemical_formula_sum              "Ca3 Ge4 Au7"
+_cell_length_a       4.52445
+_cell_length_b       8.55936
+_cell_length_c       8.55936
+_cell_angle_alpha    69.2176
+_cell_angle_beta     74.6747
+_cell_angle_gamma    74.6747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.00127  0.99873  1.0000
+  Ca  Ca2       1.0  0.31008  0.69149  0.68837  1.0000
+  Ca  Ca3       1.0  0.68992  0.31163  0.30852  1.0000
+  Ge  Ge1       1.0  0.13203  0.14045  0.59549  1.0000
+  Ge  Ge2       1.0  0.86797  0.40451  0.85955  1.0000
+  Ge  Ge3       1.0  0.32132  0.03537  0.32198  1.0000
+  Ge  Ge4       1.0  0.67868  0.67802  0.96463  1.0000
+  Au  Au1       1.0  0.34037  0.27777  0.04149  1.0000
+  Au  Au2       1.0  0.65963  0.95851  0.72223  1.0000
+  Au  Au3       1.0  0.50000  0.69745  0.30255  1.0000
+  Au  Au4       1.0  0.13438  0.60632  0.12493  1.0000
+  Au  Au5       1.0  0.86562  0.87507  0.39368  1.0000
+  Au  Au6       1.0  0.50000  0.31024  0.68976  1.0000
+  Au  Au7       1.0  0.00000  0.50008  0.49993  1.0000

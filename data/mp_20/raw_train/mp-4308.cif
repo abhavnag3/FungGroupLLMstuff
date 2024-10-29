@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pr4Ag4As8
+_chemical_formula_sum              "Pr4 Ag4 As8"
+_cell_length_a       4.07965
+_cell_length_b       4.12833
+_cell_length_c       21.4003
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25000  0.77501  0.61599  1.0000
+  Pr  Pr2       1.0  0.75000  0.22499  0.38401  1.0000
+  Pr  Pr3       1.0  0.75000  0.27501  0.88401  1.0000
+  Pr  Pr4       1.0  0.25000  0.72499  0.11599  1.0000
+  Ag  Ag1       1.0  0.25000  0.22416  0.25009  1.0000
+  Ag  Ag2       1.0  0.75000  0.72416  0.24991  1.0000
+  Ag  Ag3       1.0  0.75000  0.77584  0.74991  1.0000
+  Ag  Ag4       1.0  0.25000  0.27584  0.75009  1.0000
+  As  As1       1.0  0.25000  0.77585  0.83849  1.0000
+  As  As2       1.0  0.75000  0.22415  0.16151  1.0000
+  As  As3       1.0  0.75000  0.27585  0.66151  1.0000
+  As  As4       1.0  0.25000  0.72415  0.33848  1.0000
+  As  As5       1.0  0.25000  0.30020  0.50185  1.0000
+  As  As6       1.0  0.25000  0.19980  0.00185  1.0000
+  As  As7       1.0  0.75000  0.80020  0.99815  1.0000
+  As  As8       1.0  0.75000  0.69980  0.49815  1.0000

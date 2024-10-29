@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La8Bi3Sb3
+_chemical_formula_sum              "La8 Bi3 Sb3"
+_cell_length_a       8.46328
+_cell_length_b       8.46328
+_cell_length_c       9.76779
+_cell_angle_alpha    54.8025
+_cell_angle_beta     54.8025
+_cell_angle_gamma    70.5416
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.35040  0.99670  0.25861  1.0000
+  La  La2       1.0  0.14213  0.49877  0.11161  1.0000
+  La  La3       1.0  0.50123  0.85787  0.88839  1.0000
+  La  La4       1.0  0.00330  0.64960  0.74139  1.0000
+  La  La5       1.0  0.64506  0.50387  0.60345  1.0000
+  La  La6       1.0  0.85617  0.99457  0.25851  1.0000
+  La  La7       1.0  0.49613  0.35494  0.39655  1.0000
+  La  La8       1.0  0.00543  0.14383  0.74149  1.0000
+  Bi  Bi1       1.0  0.24840  0.25031  0.87680  1.0000
+  Bi  Bi2       1.0  0.74969  0.75160  0.12320  1.0000
+  Bi  Bi3       1.0  0.62710  0.37290  0.00000  1.0000
+  Sb  Sb1       1.0  0.87324  0.12676  0.50000  1.0000
+  Sb  Sb2       1.0  0.12650  0.62479  0.37384  1.0000
+  Sb  Sb3       1.0  0.37521  0.87350  0.62616  1.0000

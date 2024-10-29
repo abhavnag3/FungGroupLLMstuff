@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AlAgP2Se6
+_chemical_formula_sum              "Al1 Ag1 P2 Se6"
+_cell_length_a       6.43089
+_cell_length_b       6.43089
+_cell_length_c       7.38618
+_cell_angle_alpha    81.9794
+_cell_angle_beta     81.9794
+_cell_angle_gamma    120.036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.33294  0.66706  0.00000  1.0000
+  Ag  Ag1       1.0  0.66702  0.33298  0.00000  1.0000
+  P   P1        1.0  0.05052  0.05076  0.84147  1.0000
+  P   P2        1.0  0.94924  0.94948  0.15853  1.0000
+  Se  Se1       1.0  0.12080  0.43343  0.75627  1.0000
+  Se  Se2       1.0  0.39105  0.03619  0.75574  1.0000
+  Se  Se3       1.0  0.96381  0.60895  0.24426  1.0000
+  Se  Se4       1.0  0.56657  0.87920  0.24373  1.0000
+  Se  Se5       1.0  0.72333  0.76528  0.75711  1.0000
+  Se  Se6       1.0  0.23472  0.27666  0.24289  1.0000

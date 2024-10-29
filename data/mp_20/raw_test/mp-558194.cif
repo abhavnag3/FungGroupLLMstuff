@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2La2Mg2W2O12
+_chemical_formula_sum              "Na2 La2 Mg2 W2 O12"
+_cell_length_a       5.60498
+_cell_length_b       5.60498
+_cell_length_c       7.95843
+_cell_angle_alpha    89.9539
+_cell_angle_beta     89.9539
+_cell_angle_gamma    90.6155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24693  0.75307  0.50000  1.0000
+  Na  Na2       1.0  0.75307  0.24693  0.50000  1.0000
+  La  La1       1.0  0.75380  0.24620  0.00000  1.0000
+  La  La2       1.0  0.24620  0.75380  0.00000  1.0000
+  Mg  Mg1       1.0  0.25189  0.25189  0.74383  1.0000
+  Mg  Mg2       1.0  0.74811  0.74811  0.25617  1.0000
+  W   W1        1.0  0.75160  0.75160  0.73811  1.0000
+  W   W2        1.0  0.24840  0.24840  0.26189  1.0000
+  O   O1        1.0  0.69771  0.69771  0.51027  1.0000
+  O   O2        1.0  0.49073  0.49073  0.18800  1.0000
+  O   O3        1.0  0.99083  0.50640  0.77113  1.0000
+  O   O4        1.0  0.99117  0.99117  0.70650  1.0000
+  O   O5        1.0  0.19317  0.19317  0.00580  1.0000
+  O   O6        1.0  0.00883  0.00883  0.29350  1.0000
+  O   O7        1.0  0.80683  0.80683  0.99420  1.0000
+  O   O8        1.0  0.50640  0.99083  0.77113  1.0000
+  O   O9        1.0  0.30229  0.30229  0.48973  1.0000
+  O   O10       1.0  0.00917  0.49360  0.22887  1.0000
+  O   O11       1.0  0.49360  0.00917  0.22887  1.0000
+  O   O12       1.0  0.50927  0.50927  0.81200  1.0000

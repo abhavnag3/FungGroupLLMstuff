@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Ag4
+_chemical_formula_sum              "Eu2 Ag4"
+_cell_length_a       6.09503
+_cell_length_b       6.09503
+_cell_length_c       6.09503
+_cell_angle_alpha    133.361
+_cell_angle_beta     104.011
+_cell_angle_gamma    94.0888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.29361  0.54361  0.75000  1.0000
+  Eu  Eu2       1.0  0.70639  0.45639  0.25000  1.0000
+  Ag  Ag1       1.0  0.11184  0.16337  0.94847  1.0000
+  Ag  Ag2       1.0  0.88816  0.83663  0.05153  1.0000
+  Ag  Ag3       1.0  0.28510  0.83663  0.44847  1.0000
+  Ag  Ag4       1.0  0.71490  0.16337  0.55153  1.0000

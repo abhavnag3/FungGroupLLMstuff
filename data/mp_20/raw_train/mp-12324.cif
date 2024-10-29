@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       CsVP2S7
+_chemical_formula_sum              "Cs1 V1 P2 S7"
+_cell_length_a       6.54142
+_cell_length_b       6.54142
+_cell_length_c       7.17019
+_cell_angle_alpha    85.0839
+_cell_angle_beta     85.0839
+_cell_angle_gamma    96.6138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.10589  0.89411  0.00000  1.0000
+  V   V1        1.0  0.50153  0.49847  0.50000  1.0000
+  P   P1        1.0  0.65863  0.94513  0.57505  1.0000
+  P   P2        1.0  0.05487  0.34137  0.42495  1.0000
+  S   S1        1.0  0.63665  0.68628  0.75712  1.0000
+  S   S2        1.0  0.31372  0.36334  0.24288  1.0000
+  S   S3        1.0  0.52908  0.84343  0.34447  1.0000
+  S   S4        1.0  0.15657  0.47092  0.65553  1.0000
+  S   S5        1.0  0.54925  0.18196  0.70054  1.0000
+  S   S6        1.0  0.81805  0.45075  0.29946  1.0000
+  S   S7        1.0  0.98794  0.01206  0.50000  1.0000

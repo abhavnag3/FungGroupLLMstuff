@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2La2I10
+_chemical_formula_sum              "Ba2 La2 I10"
+_cell_length_a       8.8027
+_cell_length_b       8.8027
+_cell_length_c       12.1937
+_cell_angle_alpha    69.7459
+_cell_angle_beta     69.7459
+_cell_angle_gamma    70.8578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.45095  0.54905  0.25000  1.0000
+  Ba  Ba2       1.0  0.54905  0.45095  0.75000  1.0000
+  La  La1       1.0  0.00000  0.00000  0.50000  1.0000
+  La  La2       1.0  0.00000  0.00000  0.00000  1.0000
+  I   I1        1.0  0.74077  0.78280  0.12358  1.0000
+  I   I2        1.0  0.70466  0.32076  0.03100  1.0000
+  I   I3        1.0  0.78280  0.74077  0.62358  1.0000
+  I   I4        1.0  0.09684  0.90316  0.25000  1.0000
+  I   I5        1.0  0.67924  0.29534  0.46900  1.0000
+  I   I6        1.0  0.32076  0.70466  0.53100  1.0000
+  I   I7        1.0  0.90316  0.09684  0.75000  1.0000
+  I   I8        1.0  0.21720  0.25922  0.37642  1.0000
+  I   I9        1.0  0.29534  0.67924  0.96900  1.0000
+  I   I10       1.0  0.25922  0.21720  0.87642  1.0000

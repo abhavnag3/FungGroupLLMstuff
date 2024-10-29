@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ba2Si2
+_chemical_formula_sum              "Ba2 Si2"
+_cell_length_a       4.19828
+_cell_length_b       5.02904
+_cell_length_c       6.57142
+_cell_angle_alpha    112.498
+_cell_angle_beta     89.1489
+_cell_angle_gamma    89.9738
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.74076  0.63720  0.27444  1.0000
+  Ba  Ba2       1.0  0.25923  0.36279  0.72555  1.0000
+  Si  Si1       1.0  0.75267  0.94337  0.88697  1.0000
+  Si  Si2       1.0  0.24733  0.05663  0.11304  1.0000

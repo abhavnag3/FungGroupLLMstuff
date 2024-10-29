@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Bi2B2Pb2S8
+_chemical_formula_sum              "Bi2 B2 Pb2 S8"
+_cell_length_a       6.13829
+_cell_length_b       6.3223
+_cell_length_c       9.40673
+_cell_angle_alpha    90
+_cell_angle_beta     107.658
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.68487  0.25038  0.84997  1.0000
+  Bi  Bi2       1.0  0.31513  0.75038  0.15003  1.0000
+  B   B1        1.0  0.15912  0.24979  0.19611  1.0000
+  B   B2        1.0  0.84088  0.74979  0.80389  1.0000
+  Pb  Pb1       1.0  0.73352  0.30961  0.44435  1.0000
+  Pb  Pb2       1.0  0.26648  0.80961  0.55565  1.0000
+  S   S1        1.0  0.39397  0.24318  0.58251  1.0000
+  S   S2        1.0  0.60603  0.74318  0.41749  1.0000
+  S   S3        1.0  0.01175  0.49254  0.21068  1.0000
+  S   S4        1.0  0.98825  0.99254  0.78932  1.0000
+  S   S5        1.0  0.98570  0.50678  0.78575  1.0000
+  S   S6        1.0  0.01430  0.00678  0.21426  1.0000
+  S   S7        1.0  0.42982  0.24852  0.15344  1.0000
+  S   S8        1.0  0.57018  0.74852  0.84656  1.0000

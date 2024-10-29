@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Nd4Co2S10
+_chemical_formula_sum              "Ba2 Nd4 Co2 S10"
+_cell_length_a       8.75494
+_cell_length_b       8.75494
+_cell_length_c       8.75494
+_cell_angle_alpha    126.526
+_cell_angle_beta     126.526
+_cell_angle_gamma    79.0255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.25000  0.00000  1.0000
+  Ba  Ba2       1.0  0.75000  0.75000  0.00000  1.0000
+  Nd  Nd1       1.0  0.33696  0.16304  0.50000  1.0000
+  Nd  Nd2       1.0  0.16304  0.66304  0.82608  1.0000
+  Nd  Nd3       1.0  0.83696  0.33696  0.17392  1.0000
+  Nd  Nd4       1.0  0.66304  0.83696  0.50000  1.0000
+  Co  Co1       1.0  0.75000  0.25000  0.50000  1.0000
+  Co  Co2       1.0  0.25000  0.75000  0.50000  1.0000
+  S   S1        1.0  0.49001  0.99001  0.20914  1.0000
+  S   S2        1.0  0.21913  0.71913  0.20914  1.0000
+  S   S3        1.0  0.50999  0.00999  0.79086  1.0000
+  S   S4        1.0  0.00999  0.21913  0.50000  1.0000
+  S   S5        1.0  0.71913  0.50999  0.50000  1.0000
+  S   S6        1.0  0.99001  0.78087  0.50000  1.0000
+  S   S7        1.0  0.28087  0.49001  0.50000  1.0000
+  S   S8        1.0  0.78087  0.28087  0.79086  1.0000
+  S   S9        1.0  0.50000  0.50000  0.00000  1.0000
+  S   S10       1.0  0.00000  0.00000  0.00000  1.0000

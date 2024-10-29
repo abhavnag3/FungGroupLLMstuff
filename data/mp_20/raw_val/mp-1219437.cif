@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sc4Fe6Si2
+_chemical_formula_sum              "Sc4 Fe6 Si2"
+_cell_length_a       4.91962
+_cell_length_b       4.92073
+_cell_length_c       8.07809
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.6778
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.33065  0.33056  0.55744  1.0000
+  Sc  Sc2       1.0  0.66826  0.66830  0.43453  1.0000
+  Sc  Sc3       1.0  0.66826  0.66830  0.06547  1.0000
+  Sc  Sc4       1.0  0.33065  0.33056  0.94256  1.0000
+  Fe  Fe1       1.0  0.83186  0.83183  0.75000  1.0000
+  Fe  Fe2       1.0  0.17053  0.66430  0.25000  1.0000
+  Fe  Fe3       1.0  0.66428  0.17055  0.25000  1.0000
+  Fe  Fe4       1.0  0.17072  0.17075  0.25000  1.0000
+  Fe  Fe5       1.0  0.99969  0.99972  0.49922  1.0000
+  Fe  Fe6       1.0  0.99969  0.99972  0.00078  1.0000
+  Si  Si1       1.0  0.83069  0.33473  0.75000  1.0000
+  Si  Si2       1.0  0.33472  0.83068  0.75000  1.0000

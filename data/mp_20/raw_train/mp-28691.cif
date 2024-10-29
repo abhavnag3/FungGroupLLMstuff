@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta2Te8I2
+_chemical_formula_sum              "Ta2 Te8 I2"
+_cell_length_a       6.75314
+_cell_length_b       8.36081
+_cell_length_c       9.21778
+_cell_angle_alpha    115.998
+_cell_angle_beta     101.417
+_cell_angle_gamma    100.779
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.75022  0.99969  0.00031  1.0000
+  Ta  Ta2       1.0  0.24978  0.00031  0.99969  1.0000
+  Te  Te1       1.0  0.12233  0.32247  0.17788  1.0000
+  Te  Te2       1.0  0.02283  0.87960  0.18587  1.0000
+  Te  Te3       1.0  0.38570  0.84969  0.70462  1.0000
+  Te  Te4       1.0  0.61430  0.15031  0.29538  1.0000
+  Te  Te5       1.0  0.87767  0.67753  0.82212  1.0000
+  Te  Te6       1.0  0.53960  0.24261  0.93642  1.0000
+  Te  Te7       1.0  0.46040  0.75739  0.06358  1.0000
+  Te  Te8       1.0  0.97717  0.12040  0.81413  1.0000
+  I   I1        1.0  0.24564  0.40297  0.56465  1.0000
+  I   I2        1.0  0.75436  0.59703  0.43535  1.0000

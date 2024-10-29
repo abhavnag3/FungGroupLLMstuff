@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In2Br6
+_chemical_formula_sum              "In2 Br6"
+_cell_length_a       6.93429
+_cell_length_b       6.93429
+_cell_length_c       7.14393
+_cell_angle_alpha    80.9582
+_cell_angle_beta     80.9582
+_cell_angle_gamma    120.141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.16597  0.83403  0.00000  1.0000
+  In  In2       1.0  0.83403  0.16597  0.00000  1.0000
+  Br  Br1       1.0  0.21781  0.21781  0.76604  1.0000
+  Br  Br2       1.0  0.06832  0.42538  0.23119  1.0000
+  Br  Br3       1.0  0.78219  0.78219  0.23396  1.0000
+  Br  Br4       1.0  0.93168  0.57462  0.76881  1.0000
+  Br  Br5       1.0  0.42538  0.06832  0.23119  1.0000
+  Br  Br6       1.0  0.57462  0.93168  0.76881  1.0000

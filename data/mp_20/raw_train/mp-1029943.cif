@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca6Ga2N6
+_chemical_formula_sum              "Ca6 Ga2 N6"
+_cell_length_a       7.20684
+_cell_length_b       7.20684
+_cell_length_c       5.08654
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.93123  0.64884  0.25000  1.0000
+  Ca  Ca2       1.0  0.71761  0.06877  0.25000  1.0000
+  Ca  Ca3       1.0  0.35117  0.28239  0.25000  1.0000
+  Ca  Ca4       1.0  0.06877  0.35117  0.75000  1.0000
+  Ca  Ca5       1.0  0.28239  0.93123  0.75000  1.0000
+  Ca  Ca6       1.0  0.64884  0.71761  0.75000  1.0000
+  Ga  Ga1       1.0  0.66667  0.33333  0.75000  1.0000
+  Ga  Ga2       1.0  0.33333  0.66667  0.25000  1.0000
+  N   N1        1.0  0.91751  0.61159  0.75000  1.0000
+  N   N2        1.0  0.69408  0.08249  0.75000  1.0000
+  N   N3        1.0  0.38841  0.30592  0.75000  1.0000
+  N   N4        1.0  0.08249  0.38841  0.25000  1.0000
+  N   N5        1.0  0.30592  0.91751  0.25000  1.0000
+  N   N6        1.0  0.61159  0.69408  0.25000  1.0000

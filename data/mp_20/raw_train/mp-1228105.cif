@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ce2Cd6As6
+_chemical_formula_sum              "Ce2 Cd6 As6"
+_cell_length_a       4.506
+_cell_length_b       4.50162
+_cell_length_c       21.6779
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.0997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.99882  0.99994  0.50009  1.0000
+  Ce  Ce2       1.0  0.99882  0.99994  0.99991  1.0000
+  Cd  Cd1       1.0  0.33351  0.33434  0.12478  1.0000
+  Cd  Cd2       1.0  0.66641  0.66675  0.87507  1.0000
+  Cd  Cd3       1.0  0.66641  0.66675  0.62493  1.0000
+  Cd  Cd4       1.0  0.33351  0.33434  0.37522  1.0000
+  Cd  Cd5       1.0  0.26885  0.36518  0.75000  1.0000
+  Cd  Cd6       1.0  0.63603  0.63604  0.25000  1.0000
+  As  As1       1.0  0.33282  0.33372  0.57604  1.0000
+  As  As2       1.0  0.66543  0.66696  0.42415  1.0000
+  As  As3       1.0  0.66543  0.66696  0.07585  1.0000
+  As  As4       1.0  0.33282  0.33372  0.92396  1.0000
+  As  As5       1.0  0.59908  0.69948  0.75000  1.0000
+  As  As6       1.0  0.30155  0.29788  0.25000  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Hf4Si8Ni6
+_chemical_formula_sum              "Hf4 Si8 Ni6"
+_cell_length_a       7.31115
+_cell_length_b       7.31115
+_cell_length_c       6.87986
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    138.465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.60390  0.39610  0.09765  1.0000
+  Hf  Hf2       1.0  0.39610  0.60390  0.90235  1.0000
+  Hf  Hf3       1.0  0.89610  0.10390  0.59765  1.0000
+  Hf  Hf4       1.0  0.10390  0.89610  0.40235  1.0000
+  Si  Si1       1.0  0.68123  0.31877  0.47722  1.0000
+  Si  Si2       1.0  0.31877  0.68123  0.52278  1.0000
+  Si  Si3       1.0  0.81877  0.18123  0.97722  1.0000
+  Si  Si4       1.0  0.18123  0.81877  0.02278  1.0000
+  Si  Si5       1.0  0.18855  0.31145  0.25000  1.0000
+  Si  Si6       1.0  0.31145  0.18855  0.75000  1.0000
+  Si  Si7       1.0  0.68855  0.81145  0.25000  1.0000
+  Si  Si8       1.0  0.81145  0.68855  0.75000  1.0000
+  Ni  Ni1       1.0  0.52084  0.97916  0.25000  1.0000
+  Ni  Ni2       1.0  0.97916  0.52084  0.75000  1.0000
+  Ni  Ni3       1.0  0.50000  0.50000  0.50000  1.0000
+  Ni  Ni4       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni5       1.0  0.47916  0.02084  0.75000  1.0000
+  Ni  Ni6       1.0  0.02084  0.47916  0.25000  1.0000

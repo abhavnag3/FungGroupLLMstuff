@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn3Fe9C4
+_chemical_formula_sum              "Mn3 Fe9 C4"
+_cell_length_a       4.45722
+_cell_length_b       5.0168
+_cell_length_c       6.74363
+_cell_angle_alpha    90.0076
+_cell_angle_beta     88.9991
+_cell_angle_gamma    90.0457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.33012  0.67788  0.06501  1.0000
+  Mn  Mn2       1.0  0.16336  0.18166  0.43699  1.0000
+  Mn  Mn3       1.0  0.66283  0.32177  0.56934  1.0000
+  Fe  Fe1       1.0  0.83142  0.82444  0.92788  1.0000
+  Fe  Fe2       1.0  0.67555  0.31936  0.93445  1.0000
+  Fe  Fe3       1.0  0.83063  0.82086  0.56226  1.0000
+  Fe  Fe4       1.0  0.32994  0.67811  0.43177  1.0000
+  Fe  Fe5       1.0  0.17268  0.17603  0.07138  1.0000
+  Fe  Fe6       1.0  0.83612  0.53695  0.25203  1.0000
+  Fe  Fe7       1.0  0.66425  0.03904  0.25008  1.0000
+  Fe  Fe8       1.0  0.16543  0.45963  0.75153  1.0000
+  Fe  Fe9       1.0  0.33873  0.96380  0.74892  1.0000
+  C   C1        1.0  0.06628  0.87933  0.25063  1.0000
+  C   C2        1.0  0.43197  0.38100  0.24947  1.0000
+  C   C3        1.0  0.93499  0.12087  0.74312  1.0000
+  C   C4        1.0  0.56569  0.61927  0.75514  1.0000

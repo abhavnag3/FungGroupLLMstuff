@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg4Br4Cl4
+_chemical_formula_sum              "Hg4 Br4 Cl4"
+_cell_length_a       4.66212
+_cell_length_b       6.91981
+_cell_length_c       13.468
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.96367  0.75000  0.12456  1.0000
+  Hg  Hg2       1.0  0.53633  0.75000  0.62456  1.0000
+  Hg  Hg3       1.0  0.03633  0.25000  0.87544  1.0000
+  Hg  Hg4       1.0  0.46367  0.25000  0.37544  1.0000
+  Br  Br1       1.0  0.63780  0.75000  0.26669  1.0000
+  Br  Br2       1.0  0.86220  0.75000  0.76669  1.0000
+  Br  Br3       1.0  0.36220  0.25000  0.73331  1.0000
+  Br  Br4       1.0  0.13780  0.25000  0.23331  1.0000
+  Cl  Cl1       1.0  0.27867  0.75000  0.99061  1.0000
+  Cl  Cl2       1.0  0.22133  0.75000  0.49061  1.0000
+  Cl  Cl3       1.0  0.72133  0.25000  0.00939  1.0000
+  Cl  Cl4       1.0  0.77867  0.25000  0.50939  1.0000

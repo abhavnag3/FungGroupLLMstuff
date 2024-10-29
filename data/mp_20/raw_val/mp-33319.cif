@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pr3NF6
+_chemical_formula_sum              "Pr3 N1 F6"
+_cell_length_a       4.02678
+_cell_length_b       5.98319
+_cell_length_c       7.15264
+_cell_angle_alpha    114.204
+_cell_angle_beta     104.451
+_cell_angle_gamma    89.6681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.04118  0.96274  0.00042  1.0000
+  Pr  Pr2       1.0  0.66100  0.65470  0.30847  1.0000
+  Pr  Pr3       1.0  0.32029  0.35587  0.69248  1.0000
+  N   N1        1.0  0.55488  0.72390  0.00078  1.0000
+  F   F1        1.0  0.19290  0.92995  0.35500  1.0000
+  F   F2        1.0  0.70247  0.35292  0.48861  1.0000
+  F   F3        1.0  0.12624  0.40843  0.25214  1.0000
+  F   F4        1.0  0.49579  0.23974  0.99437  1.0000
+  F   F5        1.0  0.12575  0.72863  0.64338  1.0000
+  F   F6        1.0  0.83150  0.11711  0.71237  1.0000

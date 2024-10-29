@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Na2U2O12
+_chemical_formula_sum              "Ba4 Na2 U2 O12"
+_cell_length_a       6.11176
+_cell_length_b       6.21415
+_cell_length_c       8.71595
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.48935  0.25778  1.0000
+  Ba  Ba2       1.0  0.00000  0.51065  0.74222  1.0000
+  Ba  Ba3       1.0  0.50000  0.98935  0.24222  1.0000
+  Ba  Ba4       1.0  0.50000  0.01065  0.75778  1.0000
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Na  Na2       1.0  0.50000  0.50000  0.50000  1.0000
+  U   U1        1.0  0.00000  0.00000  0.50000  1.0000
+  U   U2        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.50000  0.52796  0.23514  1.0000
+  O   O2        1.0  0.50000  0.47204  0.76486  1.0000
+  O   O3        1.0  0.00000  0.02796  0.26486  1.0000
+  O   O4        1.0  0.00000  0.97204  0.73514  1.0000
+  O   O5        1.0  0.23613  0.23705  0.51095  1.0000
+  O   O6        1.0  0.23613  0.76295  0.48905  1.0000
+  O   O7        1.0  0.73613  0.73705  0.98905  1.0000
+  O   O8        1.0  0.73613  0.26295  0.01095  1.0000
+  O   O9        1.0  0.26387  0.26295  0.01095  1.0000
+  O   O10       1.0  0.26387  0.73705  0.98905  1.0000
+  O   O11       1.0  0.76387  0.76295  0.48905  1.0000
+  O   O12       1.0  0.76387  0.23705  0.51095  1.0000

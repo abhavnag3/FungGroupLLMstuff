@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       LiCu3Si2O6
+_chemical_formula_sum              "Li1 Cu3 Si2 O6"
+_cell_length_a       4.8389
+_cell_length_b       4.8389
+_cell_length_c       5.90468
+_cell_angle_alpha    82.1501
+_cell_angle_beta     82.1501
+_cell_angle_gamma    119.946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cu  Cu1       1.0  0.66885  0.33115  0.50000  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu3       1.0  0.33115  0.66885  0.50000  1.0000
+  Si  Si1       1.0  0.16668  0.83332  0.00000  1.0000
+  Si  Si2       1.0  0.83332  0.16668  0.00000  1.0000
+  O   O1        1.0  0.55541  0.18634  0.83097  1.0000
+  O   O2        1.0  0.07248  0.07248  0.16995  1.0000
+  O   O3        1.0  0.92751  0.92751  0.83005  1.0000
+  O   O4        1.0  0.81366  0.44459  0.16903  1.0000
+  O   O5        1.0  0.44459  0.81366  0.16903  1.0000
+  O   O6        1.0  0.18634  0.55541  0.83097  1.0000

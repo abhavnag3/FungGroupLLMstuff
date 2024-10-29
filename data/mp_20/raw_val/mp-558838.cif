@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiPtF6
+_chemical_formula_sum              "Ni1 Pt1 F6"
+_cell_length_a       5.44645
+_cell_length_b       5.44645
+_cell_length_c       5.44645
+_cell_angle_alpha    55.3419
+_cell_angle_beta     55.3419
+_cell_angle_gamma    55.3419
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pt  Pt1       1.0  0.50000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.10795  0.74497  0.39930  1.0000
+  F   F2        1.0  0.74497  0.39930  0.10795  1.0000
+  F   F3        1.0  0.60070  0.89205  0.25503  1.0000
+  F   F4        1.0  0.25503  0.60070  0.89205  1.0000
+  F   F5        1.0  0.89205  0.25503  0.60070  1.0000
+  F   F6        1.0  0.39930  0.10795  0.74497  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Cd2Ge2O8
+_chemical_formula_sum              "Li4 Cd2 Ge2 O8"
+_cell_length_a       5.2407
+_cell_length_b       5.57504
+_cell_length_c       6.70556
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.98781  0.33028  0.25039  1.0000
+  Li  Li2       1.0  0.48781  0.66972  0.75039  1.0000
+  Li  Li3       1.0  0.98781  0.33028  0.74961  1.0000
+  Li  Li4       1.0  0.48781  0.66972  0.24961  1.0000
+  Cd  Cd1       1.0  0.49082  0.17575  0.50000  1.0000
+  Cd  Cd2       1.0  0.99082  0.82425  0.00000  1.0000
+  Ge  Ge1       1.0  0.48194  0.18452  0.00000  1.0000
+  Ge  Ge2       1.0  0.98194  0.81548  0.50000  1.0000
+  O   O1        1.0  0.56338  0.87171  0.00000  1.0000
+  O   O2        1.0  0.14230  0.20322  0.00000  1.0000
+  O   O3        1.0  0.06338  0.12829  0.50000  1.0000
+  O   O4        1.0  0.64230  0.79678  0.50000  1.0000
+  O   O5        1.0  0.10897  0.66564  0.28710  1.0000
+  O   O6        1.0  0.60896  0.33436  0.21290  1.0000
+  O   O7        1.0  0.60896  0.33436  0.78710  1.0000
+  O   O8        1.0  0.10897  0.66564  0.71290  1.0000

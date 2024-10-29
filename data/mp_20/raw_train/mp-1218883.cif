@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Sr2CeEuCu2RuO10
+_chemical_formula_sum              "Sr2 Ce1 Eu1 Cu2 Ru1 O10"
+_cell_length_a       3.89765
+_cell_length_b       3.89765
+_cell_length_c       14.7286
+_cell_angle_alpha    82.4344
+_cell_angle_beta     82.4344
+_cell_angle_gamma    90.0774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.57521  0.57521  0.84120  1.0000
+  Sr  Sr2       1.0  0.41717  0.41717  0.15250  1.0000
+  Ce  Ce1       1.0  0.29337  0.29337  0.41216  1.0000
+  Eu  Eu1       1.0  0.70413  0.70413  0.59079  1.0000
+  Cu  Cu1       1.0  0.14114  0.14114  0.71388  1.0000
+  Cu  Cu2       1.0  0.85486  0.85486  0.28607  1.0000
+  Ru  Ru1       1.0  0.97277  0.97277  0.00032  1.0000
+  O   O1        1.0  0.06276  0.06277  0.86610  1.0000
+  O   O2        1.0  0.92607  0.92607  0.13642  1.0000
+  O   O3        1.0  0.64588  0.14656  0.70452  1.0000
+  O   O4        1.0  0.14656  0.64588  0.70452  1.0000
+  O   O5        1.0  0.34821  0.84890  0.29953  1.0000
+  O   O6        1.0  0.84890  0.34821  0.29953  1.0000
+  O   O7        1.0  0.75272  0.25271  0.49411  1.0000
+  O   O8        1.0  0.25271  0.75272  0.49411  1.0000
+  O   O9        1.0  0.47441  0.95412  0.00213  1.0000
+  O   O10       1.0  0.95412  0.47441  0.00213  1.0000

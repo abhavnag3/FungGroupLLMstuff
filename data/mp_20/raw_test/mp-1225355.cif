@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Zn2Pb2
+_chemical_formula_sum              "Eu2 Zn2 Pb2"
+_cell_length_a       6.24827
+_cell_length_b       6.24827
+_cell_length_c       7.77867
+_cell_angle_alpha    52.5968
+_cell_angle_beta     52.5968
+_cell_angle_gamma    45.9766
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.46115  0.46115  0.78709  1.0000
+  Eu  Eu2       1.0  0.53885  0.53885  0.21291  1.0000
+  Zn  Zn1       1.0  0.85523  0.85523  0.59858  1.0000
+  Zn  Zn2       1.0  0.14477  0.14477  0.40142  1.0000
+  Pb  Pb1       1.0  0.17584  0.17583  0.76391  1.0000
+  Pb  Pb2       1.0  0.82416  0.82417  0.23609  1.0000

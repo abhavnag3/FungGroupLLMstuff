@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr8In4N2
+_chemical_formula_sum              "Sr8 In4 N2"
+_cell_length_a       15.8771
+_cell_length_b       15.8771
+_cell_length_c       15.8771
+_cell_angle_alpha    160.864
+_cell_angle_beta     160.864
+_cell_angle_gamma    27.1909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.66797  0.16797  0.50000  1.0000
+  Sr  Sr2       1.0  0.49997  0.99997  0.50000  1.0000
+  Sr  Sr3       1.0  0.83203  0.33203  0.50000  1.0000
+  Sr  Sr4       1.0  0.91797  0.91797  0.00000  1.0000
+  Sr  Sr5       1.0  0.08203  0.08203  0.00000  1.0000
+  Sr  Sr6       1.0  0.00003  0.50003  0.50000  1.0000
+  Sr  Sr7       1.0  0.25003  0.25003  0.00000  1.0000
+  Sr  Sr8       1.0  0.74997  0.74997  0.00000  1.0000
+  In  In1       1.0  0.40857  0.40857  0.00000  1.0000
+  In  In2       1.0  0.15857  0.65857  0.50000  1.0000
+  In  In3       1.0  0.59143  0.59143  0.00000  1.0000
+  In  In4       1.0  0.34143  0.84143  0.50000  1.0000
+  N   N1        1.0  0.75000  0.25000  0.50000  1.0000
+  N   N2        1.0  0.00000  0.00000  0.00000  1.0000

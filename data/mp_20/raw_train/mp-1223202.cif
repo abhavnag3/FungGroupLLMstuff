@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       La2NiPt
+_chemical_formula_sum              "La2 Ni1 Pt1"
+_cell_length_a       5.87765
+_cell_length_b       5.87765
+_cell_length_c       4.45973
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    140.517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.86291  0.13709  0.50000  1.0000
+  La  La2       1.0  0.13401  0.86599  0.00000  1.0000
+  Ni  Ni1       1.0  0.58563  0.41437  0.50000  1.0000
+  Pt  Pt1       1.0  0.41745  0.58255  0.00000  1.0000

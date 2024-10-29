@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cu4Ag4F12
+_chemical_formula_sum              "Cu4 Ag4 F12"
+_cell_length_a       5.64557
+_cell_length_b       5.66194
+_cell_length_c       8.03959
+_cell_angle_alpha    89.4609
+_cell_angle_beta     89.7418
+_cell_angle_gamma    88.8393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu2       1.0  0.50000  0.00000  0.00000  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.50000  1.0000
+  Cu  Cu4       1.0  0.50000  0.00000  0.50000  1.0000
+  Ag  Ag1       1.0  0.47331  0.50761  0.74994  1.0000
+  Ag  Ag2       1.0  0.52669  0.49239  0.25006  1.0000
+  Ag  Ag3       1.0  0.97379  0.99760  0.75041  1.0000
+  Ag  Ag4       1.0  0.02621  0.00240  0.24959  1.0000
+  F   F1        1.0  0.71347  0.71318  0.96016  1.0000
+  F   F2        1.0  0.28653  0.28682  0.03984  1.0000
+  F   F3        1.0  0.79869  0.22532  0.03345  1.0000
+  F   F4        1.0  0.20131  0.77468  0.96655  1.0000
+  F   F5        1.0  0.71561  0.71657  0.54178  1.0000
+  F   F6        1.0  0.28439  0.28343  0.45822  1.0000
+  F   F7        1.0  0.77295  0.20010  0.46676  1.0000
+  F   F8        1.0  0.22705  0.79990  0.53324  1.0000
+  F   F9        1.0  0.01977  0.42953  0.73740  1.0000
+  F   F10       1.0  0.98023  0.57047  0.26260  1.0000
+  F   F11       1.0  0.50497  0.07449  0.76222  1.0000
+  F   F12       1.0  0.49503  0.92551  0.23778  1.0000

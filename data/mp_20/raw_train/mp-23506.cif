@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       V2Bi2O8
+_chemical_formula_sum              "V2 Bi2 O8"
+_cell_length_a       6.92557
+_cell_length_b       6.92557
+_cell_length_c       5.17745
+_cell_angle_alpha    68.0499
+_cell_angle_beta     68.0499
+_cell_angle_gamma    116.02
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.12727  0.87273  0.25000  1.0000
+  V   V2        1.0  0.87273  0.12727  0.75000  1.0000
+  Bi  Bi1       1.0  0.62688  0.37312  0.25000  1.0000
+  Bi  Bi2       1.0  0.37312  0.62688  0.75000  1.0000
+  O   O1        1.0  0.20083  0.29629  0.36226  1.0000
+  O   O2        1.0  0.70371  0.79917  0.13774  1.0000
+  O   O3        1.0  0.79917  0.70371  0.63774  1.0000
+  O   O4        1.0  0.29629  0.20083  0.86226  1.0000
+  O   O5        1.0  0.65047  0.06162  0.64059  1.0000
+  O   O6        1.0  0.93838  0.34953  0.85941  1.0000
+  O   O7        1.0  0.34953  0.93838  0.35941  1.0000
+  O   O8        1.0  0.06162  0.65047  0.14059  1.0000

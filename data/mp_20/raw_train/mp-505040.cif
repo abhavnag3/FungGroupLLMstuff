@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Cs2K4Fe2O5
+_chemical_formula_sum              "Cs2 K4 Fe2 O5"
+_cell_length_a       6.7965
+_cell_length_b       7.04301
+_cell_length_c       6.7965
+_cell_angle_alpha    90.112
+_cell_angle_beta     117.023
+_cell_angle_gamma    90.112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.67043  0.80114  0.67043  1.0000
+  Cs  Cs2       1.0  0.32957  0.19886  0.32957  1.0000
+  K   K1        1.0  0.23850  0.50000  0.76150  1.0000
+  K   K2        1.0  0.76150  0.50000  0.23850  1.0000
+  K   K3        1.0  0.77746  1.00000  0.22254  1.0000
+  K   K4        1.0  0.22254  1.00000  0.77746  1.0000
+  Fe  Fe1       1.0  0.19753  0.69085  0.19753  1.0000
+  Fe  Fe2       1.0  0.80247  0.30917  0.80247  1.0000
+  O   O1        1.0  0.00000  0.50000  0.00000  1.0000
+  O   O2        1.0  0.14624  0.77182  0.43665  1.0000
+  O   O3        1.0  0.56335  0.22818  0.85376  1.0000
+  O   O4        1.0  0.85376  0.22818  0.56335  1.0000
+  O   O5        1.0  0.43665  0.77182  0.14624  1.0000

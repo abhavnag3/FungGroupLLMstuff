@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Si4O8
+_chemical_formula_sum              "Si4 O8"
+_cell_length_a       8.2639
+_cell_length_b       5.02237
+_cell_length_c       5.09857
+_cell_angle_alpha    61.6275
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.93807  0.58639  0.64731  1.0000
+  Si  Si2       1.0  0.56345  0.74177  0.69407  1.0000
+  Si  Si3       1.0  0.43807  0.41361  0.35269  1.0000
+  Si  Si4       1.0  0.06345  0.25823  0.30593  1.0000
+  O   O1        1.0  0.94673  0.44124  0.42260  1.0000
+  O   O2        1.0  0.75074  0.65375  0.68448  1.0000
+  O   O3        1.0  0.54354  0.10405  0.48470  1.0000
+  O   O4        1.0  0.51256  0.65659  0.03257  1.0000
+  O   O5        1.0  0.44673  0.55876  0.57740  1.0000
+  O   O6        1.0  0.25074  0.34625  0.31552  1.0000
+  O   O7        1.0  0.04354  0.89595  0.51530  1.0000
+  O   O8        1.0  0.01256  0.34341  0.96743  1.0000

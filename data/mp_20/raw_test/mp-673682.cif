@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tb4Yb2S8
+_chemical_formula_sum              "Tb4 Yb2 S8"
+_cell_length_a       7.23859
+_cell_length_b       7.23859
+_cell_length_c       7.23859
+_cell_angle_alpha    109.421
+_cell_angle_beta     109.421
+_cell_angle_gamma    109.571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.12500  0.50276  0.87776  1.0000
+  Tb  Tb2       1.0  0.49724  0.37500  0.62224  1.0000
+  Tb  Tb3       1.0  0.62500  0.24724  0.12224  1.0000
+  Tb  Tb4       1.0  0.75276  0.87500  0.37776  1.0000
+  Yb  Yb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Yb  Yb2       1.0  0.25000  0.75000  0.50000  1.0000
+  S   S1        1.0  0.87128  0.62058  0.10424  1.0000
+  S   S2        1.0  0.87058  0.62127  0.60424  1.0000
+  S   S3        1.0  0.37872  0.98297  0.24930  1.0000
+  S   S4        1.0  0.01703  0.26633  0.39576  1.0000
+  S   S5        1.0  0.23297  0.12872  0.74930  1.0000
+  S   S6        1.0  0.51633  0.76703  0.89576  1.0000
+  S   S7        1.0  0.37942  0.48367  0.25070  1.0000
+  S   S8        1.0  0.73367  0.12942  0.75070  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       NaV2Bi3O10
+_chemical_formula_sum              "Na1 V2 Bi3 O10"
+_cell_length_a       5.6666
+_cell_length_b       7.1151
+_cell_length_c       7.22332
+_cell_angle_alpha    111.173
+_cell_angle_beta     85.4515
+_cell_angle_gamma    111.34
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.08870  0.95578  0.47583  1.0000
+  V   V1        1.0  0.74246  0.31578  0.38196  1.0000
+  V   V2        1.0  0.32642  0.60498  0.07223  1.0000
+  Bi  Bi1       1.0  0.97644  0.97014  0.97585  1.0000
+  Bi  Bi2       1.0  0.43521  0.66175  0.59485  1.0000
+  Bi  Bi3       1.0  0.61127  0.23495  0.84325  1.0000
+  O   O1        1.0  0.58806  0.66772  0.92479  1.0000
+  O   O2        1.0  0.77536  0.58057  0.41796  1.0000
+  O   O3        1.0  0.08470  0.64538  0.98620  1.0000
+  O   O4        1.0  0.27693  0.93614  0.75400  1.0000
+  O   O5        1.0  0.01509  0.30121  0.45080  1.0000
+  O   O6        1.0  0.25342  0.32485  0.01518  1.0000
+  O   O7        1.0  0.66792  0.15274  0.12507  1.0000
+  O   O8        1.0  0.39063  0.74752  0.32791  1.0000
+  O   O9        1.0  0.50160  0.23772  0.53780  1.0000
+  O   O10       1.0  0.78238  0.97117  0.72323  1.0000

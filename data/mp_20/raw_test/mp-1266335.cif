@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti2Zn2Si2O10
+_chemical_formula_sum              "Ti2 Zn2 Si2 O10"
+_cell_length_a       5.44837
+_cell_length_b       5.44768
+_cell_length_c       7.38561
+_cell_angle_alpha    106.762
+_cell_angle_beta     107.088
+_cell_angle_gamma    96.9868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.00910  0.49468  0.50895  1.0000
+  Ti  Ti2       1.0  0.99154  0.50873  0.00976  1.0000
+  Zn  Zn1       1.0  0.82233  0.91511  0.35522  1.0000
+  Zn  Zn2       1.0  0.41687  0.33665  0.86275  1.0000
+  Si  Si1       1.0  0.32375  0.13356  0.23213  1.0000
+  Si  Si2       1.0  0.63544  0.82793  0.72722  1.0000
+  O   O1        1.0  0.26107  0.30391  0.07791  1.0000
+  O   O2        1.0  0.13229  0.18650  0.36923  1.0000
+  O   O3        1.0  0.69195  0.64490  0.87182  1.0000
+  O   O4        1.0  0.81730  0.77416  0.58226  1.0000
+  O   O5        1.0  0.32513  0.73133  0.58289  1.0000
+  O   O6        1.0  0.69312  0.14164  0.85755  1.0000
+  O   O7        1.0  0.63704  0.20266  0.36646  1.0000
+  O   O8        1.0  0.24322  0.81923  0.09820  1.0000
+  O   O9        1.0  0.07582  0.40685  0.73544  1.0000
+  O   O10       1.0  0.88855  0.57119  0.22918  1.0000

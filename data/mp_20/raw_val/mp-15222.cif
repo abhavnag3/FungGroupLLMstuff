@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb4Nb2Cu2Se8
+_chemical_formula_sum              "Rb4 Nb2 Cu2 Se8"
+_cell_length_a       14.4685
+_cell_length_b       12.9148
+_cell_length_c       7.70576
+_cell_angle_alpha    85.1487
+_cell_angle_beta     62.8
+_cell_angle_gamma    32.0513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.82123  0.82123  0.17877  1.0000
+  Rb  Rb2       1.0  0.17877  0.17877  0.82123  1.0000
+  Rb  Rb3       1.0  0.07123  0.07123  0.42877  1.0000
+  Rb  Rb4       1.0  0.42877  0.42877  0.07123  1.0000
+  Nb  Nb1       1.0  0.25000  0.25000  0.25000  1.0000
+  Nb  Nb2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.75000  0.75000  0.75000  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.50000  1.0000
+  Se  Se1       1.0  0.71118  0.39923  0.09212  1.0000
+  Se  Se2       1.0  0.79747  0.09212  0.39923  1.0000
+  Se  Se3       1.0  0.09212  0.79747  0.71118  1.0000
+  Se  Se4       1.0  0.39923  0.71118  0.79747  1.0000
+  Se  Se5       1.0  0.15788  0.45253  0.53882  1.0000
+  Se  Se6       1.0  0.85077  0.53882  0.45253  1.0000
+  Se  Se7       1.0  0.45253  0.15788  0.85077  1.0000
+  Se  Se8       1.0  0.53882  0.85077  0.15788  1.0000

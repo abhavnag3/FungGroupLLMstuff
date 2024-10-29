@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Zr2Mn2O6
+_chemical_formula_sum              "Zr2 Mn2 O6"
+_cell_length_a       5.47208
+_cell_length_b       5.81228
+_cell_length_c       5.47201
+_cell_angle_alpha    118.076
+_cell_angle_beta     119.998
+_cell_angle_gamma    61.9202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.79619  0.61139  0.20374  1.0000
+  Zr  Zr2       1.0  0.29609  0.11171  0.70386  1.0000
+  Mn  Mn1       1.0  0.51219  0.46354  0.48784  1.0000
+  Mn  Mn2       1.0  0.01236  0.96261  0.98743  1.0000
+  O   O1        1.0  0.18621  0.30875  0.41515  1.0000
+  O   O2        1.0  0.92037  0.30875  0.81392  1.0000
+  O   O3        1.0  0.42031  0.80856  0.91498  1.0000
+  O   O4        1.0  0.58498  0.30855  0.07966  1.0000
+  O   O5        1.0  0.08475  0.80879  0.31393  1.0000
+  O   O6        1.0  0.68595  0.80854  0.57949  1.0000

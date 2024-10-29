@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cd4Ge4O12
+_chemical_formula_sum              "Cd4 Ge4 O12"
+_cell_length_a       7.16397
+_cell_length_b       7.16397
+_cell_length_c       5.48469
+_cell_angle_alpha    80.6206
+_cell_angle_beta     80.6206
+_cell_angle_gamma    87.1674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.71239  0.28762  0.75000  1.0000
+  Cd  Cd2       1.0  0.28761  0.71239  0.25000  1.0000
+  Cd  Cd3       1.0  0.09763  0.90237  0.75000  1.0000
+  Cd  Cd4       1.0  0.90237  0.09763  0.25000  1.0000
+  Ge  Ge1       1.0  0.20670  0.38329  0.77304  1.0000
+  Ge  Ge2       1.0  0.61671  0.79330  0.72696  1.0000
+  Ge  Ge3       1.0  0.79330  0.61671  0.22697  1.0000
+  Ge  Ge4       1.0  0.38329  0.20670  0.27304  1.0000
+  O   O1        1.0  0.39311  0.85608  0.87018  1.0000
+  O   O2        1.0  0.14392  0.60689  0.62982  1.0000
+  O   O3        1.0  0.60689  0.14392  0.12982  1.0000
+  O   O4        1.0  0.85608  0.39311  0.37018  1.0000
+  O   O5        1.0  0.70023  0.59552  0.94184  1.0000
+  O   O6        1.0  0.40448  0.29977  0.55816  1.0000
+  O   O7        1.0  0.29977  0.40448  0.05816  1.0000
+  O   O8        1.0  0.59552  0.70023  0.44184  1.0000
+  O   O9        1.0  0.21362  0.02847  0.34676  1.0000
+  O   O10       1.0  0.97153  0.78638  0.15324  1.0000
+  O   O11       1.0  0.78638  0.97153  0.65324  1.0000
+  O   O12       1.0  0.02847  0.21362  0.84676  1.0000

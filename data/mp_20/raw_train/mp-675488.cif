@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li6I3N
+_chemical_formula_sum              "Li6 I3 N1"
+_cell_length_a       6.75047
+_cell_length_b       6.75047
+_cell_length_c       6.75504
+_cell_angle_alpha    60.3426
+_cell_angle_beta     60.3426
+_cell_angle_gamma    90.3978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.72210  0.72210  0.40748  1.0000
+  Li  Li2       1.0  0.77648  0.18343  0.04120  1.0000
+  Li  Li3       1.0  0.86695  0.86695  0.88112  1.0000
+  Li  Li4       1.0  0.10427  0.10427  0.17506  1.0000
+  Li  Li5       1.0  0.24896  0.24897  0.64794  1.0000
+  Li  Li6       1.0  0.18343  0.77648  0.04120  1.0000
+  I   I1        1.0  0.74581  0.24611  0.50885  1.0000
+  I   I2        1.0  0.49684  0.49684  0.00625  1.0000
+  I   I3        1.0  0.24611  0.74581  0.50885  1.0000
+  N   N1        1.0  0.98625  0.98625  0.02764  1.0000

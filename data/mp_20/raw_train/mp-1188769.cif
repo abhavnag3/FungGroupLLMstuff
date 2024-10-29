@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er4Mo4C8
+_chemical_formula_sum              "Er4 Mo4 C8"
+_cell_length_a       3.36322
+_cell_length_b       5.67742
+_cell_length_c       10.7623
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.25000  0.08526  0.86254  1.0000
+  Er  Er2       1.0  0.25000  0.58526  0.63746  1.0000
+  Er  Er3       1.0  0.75000  0.91474  0.13746  1.0000
+  Er  Er4       1.0  0.75000  0.41474  0.36254  1.0000
+  Mo  Mo1       1.0  0.25000  0.40116  0.10928  1.0000
+  Mo  Mo2       1.0  0.25000  0.90116  0.39072  1.0000
+  Mo  Mo3       1.0  0.75000  0.59884  0.89072  1.0000
+  Mo  Mo4       1.0  0.75000  0.09884  0.60928  1.0000
+  C   C1        1.0  0.25000  0.15917  0.24691  1.0000
+  C   C2        1.0  0.25000  0.65917  0.25309  1.0000
+  C   C3        1.0  0.75000  0.84083  0.75309  1.0000
+  C   C4        1.0  0.75000  0.34083  0.74691  1.0000
+  C   C5        1.0  0.25000  0.72763  0.98651  1.0000
+  C   C6        1.0  0.25000  0.22763  0.51349  1.0000
+  C   C7        1.0  0.75000  0.27237  0.01349  1.0000
+  C   C8        1.0  0.75000  0.77237  0.48651  1.0000

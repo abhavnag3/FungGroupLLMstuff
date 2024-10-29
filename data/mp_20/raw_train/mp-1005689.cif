@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sm12Ga2Co4
+_chemical_formula_sum              "Sm12 Ga2 Co4"
+_cell_length_a       8.44404
+_cell_length_b       8.44404
+_cell_length_c       8.44404
+_cell_angle_alpha    112.143
+_cell_angle_beta     109.159
+_cell_angle_gamma    107.151
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.56647  0.26250  0.30397  1.0000
+  Sm  Sm2       1.0  0.18013  0.21881  0.39894  1.0000
+  Sm  Sm3       1.0  0.18013  0.78119  0.96132  1.0000
+  Sm  Sm4       1.0  0.67451  0.48762  0.81311  1.0000
+  Sm  Sm5       1.0  0.67451  0.86141  0.18689  1.0000
+  Sm  Sm6       1.0  0.95853  0.26250  0.69603  1.0000
+  Sm  Sm7       1.0  0.04147  0.73750  0.30397  1.0000
+  Sm  Sm8       1.0  0.32549  0.51238  0.18689  1.0000
+  Sm  Sm9       1.0  0.32549  0.13859  0.81311  1.0000
+  Sm  Sm10      1.0  0.81987  0.21881  0.03868  1.0000
+  Sm  Sm11      1.0  0.81987  0.78119  0.60106  1.0000
+  Sm  Sm12      1.0  0.43353  0.73750  0.69603  1.0000
+  Ga  Ga1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ga  Ga2       1.0  0.50000  0.00000  0.50000  1.0000
+  Co  Co1       1.0  0.88683  0.88683  0.00000  1.0000
+  Co  Co2       1.0  0.33465  0.50000  0.83464  1.0000
+  Co  Co3       1.0  0.66536  0.50000  0.16536  1.0000
+  Co  Co4       1.0  0.11317  0.11317  0.00000  1.0000

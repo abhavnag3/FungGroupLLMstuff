@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       K4P2PdS8
+_chemical_formula_sum              "K4 P2 Pd1 S8"
+_cell_length_a       6.47782
+_cell_length_b       7.00021
+_cell_length_c       9.12564
+_cell_angle_alpha    87.6936
+_cell_angle_beta     82.2843
+_cell_angle_gamma    84.6177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.28924  0.33702  0.13836  1.0000
+  K   K2        1.0  0.74601  0.21998  0.47597  1.0000
+  K   K3        1.0  0.25399  0.78002  0.52402  1.0000
+  K   K4        1.0  0.71076  0.66298  0.86164  1.0000
+  P   P1        1.0  0.82687  0.73172  0.26263  1.0000
+  P   P2        1.0  0.17313  0.26828  0.73737  1.0000
+  Pd  Pd1       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.67808  0.95848  0.14839  1.0000
+  S   S2        1.0  0.77624  0.47598  0.18626  1.0000
+  S   S3        1.0  0.13172  0.80344  0.18866  1.0000
+  S   S4        1.0  0.75997  0.74666  0.48491  1.0000
+  S   S5        1.0  0.24003  0.25334  0.51509  1.0000
+  S   S6        1.0  0.86828  0.19656  0.81134  1.0000
+  S   S7        1.0  0.22376  0.52402  0.81374  1.0000
+  S   S8        1.0  0.32192  0.04152  0.85161  1.0000

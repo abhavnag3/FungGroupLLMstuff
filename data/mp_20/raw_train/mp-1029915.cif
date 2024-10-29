@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca8Sn4N8
+_chemical_formula_sum              "Ca8 Sn4 N8"
+_cell_length_a       6.19495
+_cell_length_b       6.19495
+_cell_length_c       12.1304
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    131.086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.53930  0.46070  0.86245  1.0000
+  Ca  Ca2       1.0  0.46070  0.53930  0.13756  1.0000
+  Ca  Ca3       1.0  0.96070  0.03930  0.36245  1.0000
+  Ca  Ca4       1.0  0.03930  0.96070  0.63755  1.0000
+  Ca  Ca5       1.0  0.86163  0.13837  0.95417  1.0000
+  Ca  Ca6       1.0  0.13837  0.86163  0.04583  1.0000
+  Ca  Ca7       1.0  0.63837  0.36163  0.45417  1.0000
+  Ca  Ca8       1.0  0.36163  0.63837  0.54583  1.0000
+  Sn  Sn1       1.0  0.74292  0.25708  0.68557  1.0000
+  Sn  Sn2       1.0  0.25708  0.74292  0.31443  1.0000
+  Sn  Sn3       1.0  0.75708  0.24292  0.18557  1.0000
+  Sn  Sn4       1.0  0.24292  0.75708  0.81443  1.0000
+  N   N1        1.0  0.56166  0.43834  0.64056  1.0000
+  N   N2        1.0  0.43834  0.56166  0.35944  1.0000
+  N   N3        1.0  0.93834  0.06166  0.14056  1.0000
+  N   N4        1.0  0.06166  0.93834  0.85944  1.0000
+  N   N5        1.0  0.84884  0.15116  0.54527  1.0000
+  N   N6        1.0  0.15116  0.84884  0.45473  1.0000
+  N   N7        1.0  0.65116  0.34884  0.04527  1.0000
+  N   N8        1.0  0.34884  0.65116  0.95473  1.0000

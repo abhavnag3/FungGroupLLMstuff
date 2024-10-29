@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cs4Mn2Ni2F12
+_chemical_formula_sum              "Cs4 Mn2 Ni2 F12"
+_cell_length_a       10.7868
+_cell_length_b       10.7868
+_cell_length_c       10.7868
+_cell_angle_alpha    33.9216
+_cell_angle_beta     33.9216
+_cell_angle_gamma    33.9216
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.86715  0.86715  0.86715  1.0000
+  Cs  Cs2       1.0  0.13161  0.13161  0.13161  1.0000
+  Cs  Cs3       1.0  0.71487  0.71487  0.71487  1.0000
+  Cs  Cs4       1.0  0.28685  0.28685  0.28685  1.0000
+  Mn  Mn1       1.0  0.00185  0.00185  0.00185  1.0000
+  Mn  Mn2       1.0  0.59282  0.59282  0.59282  1.0000
+  Ni  Ni1       1.0  0.49929  0.49929  0.49929  1.0000
+  Ni  Ni2       1.0  0.40900  0.40900  0.40900  1.0000
+  F   F1        1.0  0.39861  0.82881  0.39861  1.0000
+  F   F2        1.0  0.39861  0.39861  0.82881  1.0000
+  F   F3        1.0  0.82881  0.39861  0.39861  1.0000
+  F   F4        1.0  0.59576  0.17402  0.59576  1.0000
+  F   F5        1.0  0.59576  0.59576  0.17402  1.0000
+  F   F6        1.0  0.17402  0.59576  0.59576  1.0000
+  F   F7        1.0  0.21186  0.69835  0.21186  1.0000
+  F   F8        1.0  0.21186  0.21186  0.69835  1.0000
+  F   F9        1.0  0.69835  0.21186  0.21186  1.0000
+  F   F10       1.0  0.79707  0.28879  0.79707  1.0000
+  F   F11       1.0  0.79707  0.79706  0.28879  1.0000
+  F   F12       1.0  0.28879  0.79706  0.79707  1.0000

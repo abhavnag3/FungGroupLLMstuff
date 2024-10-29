@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Nb2Br8
+_chemical_formula_sum              "Nb2 Br8"
+_cell_length_a       7.60864
+_cell_length_b       7.60864
+_cell_length_c       9.17698
+_cell_angle_alpha    54.7538
+_cell_angle_beta     54.7538
+_cell_angle_gamma    57.2025
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.21648  0.78353  0.00000  1.0000
+  Nb  Nb2       1.0  0.78353  0.21648  0.00000  1.0000
+  Br  Br1       1.0  0.79594  0.79594  0.17093  1.0000
+  Br  Br2       1.0  0.20406  0.20406  0.82907  1.0000
+  Br  Br3       1.0  0.21352  0.73269  0.29488  1.0000
+  Br  Br4       1.0  0.26731  0.78648  0.70512  1.0000
+  Br  Br5       1.0  0.78648  0.26731  0.70512  1.0000
+  Br  Br6       1.0  0.73269  0.21352  0.29488  1.0000
+  Br  Br7       1.0  0.32469  0.32469  0.14691  1.0000
+  Br  Br8       1.0  0.67531  0.67531  0.85310  1.0000

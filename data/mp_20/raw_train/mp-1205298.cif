@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tb4Si6
+_chemical_formula_sum              "Tb4 Si6"
+_cell_length_a       3.95574
+_cell_length_b       4.1465
+_cell_length_c       12.4771
+_cell_angle_alpha    99.5649
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.75000  0.43010  0.86020  1.0000
+  Tb  Tb2       1.0  0.25000  0.56990  0.13980  1.0000
+  Tb  Tb3       1.0  0.75000  0.70305  0.40609  1.0000
+  Tb  Tb4       1.0  0.25000  0.29695  0.59391  1.0000
+  Si  Si1       1.0  0.75000  0.02453  0.04906  1.0000
+  Si  Si2       1.0  0.25000  0.97547  0.95094  1.0000
+  Si  Si3       1.0  0.75000  0.11869  0.23738  1.0000
+  Si  Si4       1.0  0.25000  0.88131  0.76262  1.0000
+  Si  Si5       1.0  0.75000  0.82374  0.64749  1.0000
+  Si  Si6       1.0  0.25000  0.17626  0.35251  1.0000

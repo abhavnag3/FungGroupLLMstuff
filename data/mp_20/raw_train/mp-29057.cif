@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Nb3SBr7
+_chemical_formula_sum              "Nb3 S1 Br7"
+_cell_length_a       7.20381
+_cell_length_b       7.20381
+_cell_length_c       6.93488
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.60308  0.80154  0.22323  1.0000
+  Nb  Nb2       1.0  0.19846  0.39692  0.22323  1.0000
+  Nb  Nb3       1.0  0.19846  0.80154  0.22323  1.0000
+  S   S1        1.0  0.33333  0.66667  0.47274  1.0000
+  Br  Br1       1.0  0.99816  0.49908  0.97621  1.0000
+  Br  Br2       1.0  0.50092  0.00184  0.97621  1.0000
+  Br  Br3       1.0  0.00000  0.00000  0.02083  1.0000
+  Br  Br4       1.0  0.33610  0.16805  0.43101  1.0000
+  Br  Br5       1.0  0.83195  0.16805  0.43101  1.0000
+  Br  Br6       1.0  0.83195  0.66390  0.43101  1.0000
+  Br  Br7       1.0  0.50092  0.49908  0.97621  1.0000

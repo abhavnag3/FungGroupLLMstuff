@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ni4P2O10
+_chemical_formula_sum              "Ni4 P2 O10"
+_cell_length_a       5.36911
+_cell_length_b       7.12103
+_cell_length_c       5.3691
+_cell_angle_alpha    67.8267
+_cell_angle_beta     90.0219
+_cell_angle_gamma    112.177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.49999  0.49998  0.00005  1.0000
+  Ni  Ni2       1.0  0.49997  0.00002  0.49999  1.0000
+  Ni  Ni3       1.0  0.00005  0.00002  0.49999  1.0000
+  Ni  Ni4       1.0  0.49999  0.49998  0.49998  1.0000
+  P   P1        1.0  0.12494  0.75000  0.12493  1.0000
+  P   P2        1.0  0.87506  0.25000  0.87507  1.0000
+  O   O1        1.0  0.80614  0.11216  0.18697  1.0000
+  O   O2        1.0  0.29911  0.61235  0.19377  1.0000
+  O   O3        1.0  0.37470  0.25000  0.37471  1.0000
+  O   O4        1.0  0.81304  0.61220  0.19385  1.0000
+  O   O5        1.0  0.19376  0.88765  0.29912  1.0000
+  O   O6        1.0  0.80622  0.11232  0.70090  1.0000
+  O   O7        1.0  0.70090  0.38768  0.80622  1.0000
+  O   O8        1.0  0.18698  0.38784  0.80613  1.0000
+  O   O9        1.0  0.62530  0.75000  0.62529  1.0000
+  O   O10       1.0  0.19384  0.88780  0.81305  1.0000

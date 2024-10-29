@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Ti2Cl12
+_chemical_formula_sum              "Na6 Ti2 Cl12"
+_cell_length_a       7.12283
+_cell_length_b       6.76136
+_cell_length_c       11.9963
+_cell_angle_alpha    55.8309
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.08095  0.28042  0.24386  1.0000
+  Na  Na2       1.0  0.58095  0.71958  0.25614  1.0000
+  Na  Na3       1.0  0.00000  0.50000  0.50000  1.0000
+  Na  Na4       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na5       1.0  0.91905  0.71958  0.75614  1.0000
+  Na  Na6       1.0  0.41905  0.28042  0.74386  1.0000
+  Ti  Ti1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.45060  0.10059  0.27005  1.0000
+  Cl  Cl2       1.0  0.67672  0.64050  0.56312  1.0000
+  Cl  Cl3       1.0  0.17672  0.35950  0.93688  1.0000
+  Cl  Cl4       1.0  0.32328  0.35950  0.43688  1.0000
+  Cl  Cl5       1.0  0.28791  0.77191  0.06975  1.0000
+  Cl  Cl6       1.0  0.78791  0.22809  0.43025  1.0000
+  Cl  Cl7       1.0  0.71209  0.22809  0.93025  1.0000
+  Cl  Cl8       1.0  0.21209  0.77191  0.56975  1.0000
+  Cl  Cl9       1.0  0.54940  0.89941  0.72994  1.0000
+  Cl  Cl10      1.0  0.04940  0.10059  0.77006  1.0000
+  Cl  Cl11      1.0  0.82328  0.64050  0.06312  1.0000
+  Cl  Cl12      1.0  0.95060  0.89941  0.22995  1.0000

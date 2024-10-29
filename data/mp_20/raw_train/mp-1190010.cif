@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Pr2Al2Fe15
+_chemical_formula_sum              "Pr2 Al2 Fe15"
+_cell_length_a       6.48916
+_cell_length_b       6.48916
+_cell_length_c       6.48916
+_cell_angle_alpha    82.2661
+_cell_angle_beta     82.2661
+_cell_angle_gamma    82.2661
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.65176  0.65176  0.65176  1.0000
+  Pr  Pr2       1.0  0.34824  0.34824  0.34824  1.0000
+  Al  Al1       1.0  0.89832  0.89832  0.89832  1.0000
+  Al  Al2       1.0  0.10168  0.10168  0.10168  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe2       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe3       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe4       1.0  0.71254  0.28746  0.00000  1.0000
+  Fe  Fe5       1.0  0.00000  0.71254  0.28746  1.0000
+  Fe  Fe6       1.0  0.28746  0.00000  0.71254  1.0000
+  Fe  Fe7       1.0  0.00000  0.28746  0.71254  1.0000
+  Fe  Fe8       1.0  0.71254  0.00000  0.28746  1.0000
+  Fe  Fe9       1.0  0.28746  0.71254  0.00000  1.0000
+  Fe  Fe10      1.0  0.33995  0.33995  0.84461  1.0000
+  Fe  Fe11      1.0  0.84461  0.33995  0.33995  1.0000
+  Fe  Fe12      1.0  0.33995  0.84461  0.33995  1.0000
+  Fe  Fe13      1.0  0.66005  0.66005  0.15539  1.0000
+  Fe  Fe14      1.0  0.15539  0.66005  0.66005  1.0000
+  Fe  Fe15      1.0  0.66005  0.15539  0.66005  1.0000

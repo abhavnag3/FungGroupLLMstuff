@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cs4Si2S6
+_chemical_formula_sum              "Cs4 Si2 S6"
+_cell_length_a       7.90419
+_cell_length_b       7.90419
+_cell_length_c       10.1642
+_cell_angle_alpha    58.4995
+_cell_angle_beta     58.4995
+_cell_angle_gamma    54.8961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.91995  0.91995  0.86005  1.0000
+  Cs  Cs2       1.0  0.08005  0.08005  0.13995  1.0000
+  Cs  Cs3       1.0  0.69788  0.69788  0.68640  1.0000
+  Cs  Cs4       1.0  0.30212  0.30212  0.31360  1.0000
+  Si  Si1       1.0  0.61149  0.61149  0.32765  1.0000
+  Si  Si2       1.0  0.38851  0.38851  0.67234  1.0000
+  S   S1        1.0  0.72292  0.27708  0.50000  1.0000
+  S   S2        1.0  0.27708  0.72292  0.50000  1.0000
+  S   S3        1.0  0.60896  0.60896  0.12429  1.0000
+  S   S4        1.0  0.39104  0.39104  0.87571  1.0000
+  S   S5        1.0  0.77854  0.77854  0.28078  1.0000
+  S   S6        1.0  0.22146  0.22146  0.71922  1.0000

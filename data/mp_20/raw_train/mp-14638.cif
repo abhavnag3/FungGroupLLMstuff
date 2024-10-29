@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Rb4Li2Ga2F12
+_chemical_formula_sum              "Rb4 Li2 Ga2 F12"
+_cell_length_a       10.2736
+_cell_length_b       10.2736
+_cell_length_c       10.2736
+_cell_angle_alpha    33.7633
+_cell_angle_beta     33.7633
+_cell_angle_gamma    33.7633
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.71712  0.71712  0.71712  1.0000
+  Rb  Rb2       1.0  0.28288  0.28288  0.28288  1.0000
+  Rb  Rb3       1.0  0.87244  0.87244  0.87244  1.0000
+  Rb  Rb4       1.0  0.12756  0.12756  0.12756  1.0000
+  Li  Li1       1.0  0.40406  0.40406  0.40406  1.0000
+  Li  Li2       1.0  0.59594  0.59594  0.59594  1.0000
+  Ga  Ga1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ga  Ga2       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.19317  0.72754  0.19317  1.0000
+  F   F2        1.0  0.80683  0.27247  0.80683  1.0000
+  F   F3        1.0  0.19317  0.19317  0.72754  1.0000
+  F   F4        1.0  0.72754  0.19317  0.19317  1.0000
+  F   F5        1.0  0.80683  0.80683  0.27247  1.0000
+  F   F6        1.0  0.27246  0.80683  0.80683  1.0000
+  F   F7        1.0  0.16487  0.60674  0.60674  1.0000
+  F   F8        1.0  0.60674  0.60674  0.16487  1.0000
+  F   F9        1.0  0.60674  0.16487  0.60674  1.0000
+  F   F10       1.0  0.39326  0.83513  0.39327  1.0000
+  F   F11       1.0  0.83513  0.39326  0.39327  1.0000
+  F   F12       1.0  0.39327  0.39326  0.83513  1.0000

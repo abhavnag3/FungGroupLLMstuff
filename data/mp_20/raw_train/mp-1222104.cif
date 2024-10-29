@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn4Co4Si3Ge
+_chemical_formula_sum              "Mn4 Co4 Si3 Ge1"
+_cell_length_a       3.68315
+_cell_length_b       5.76509
+_cell_length_c       6.92043
+_cell_angle_alpha    89.6852
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.00000  0.53548  0.68718  1.0000
+  Mn  Mn2       1.0  0.00000  0.02196  0.81969  1.0000
+  Mn  Mn3       1.0  0.50000  0.47835  0.30924  1.0000
+  Mn  Mn4       1.0  0.50000  0.97389  0.18385  1.0000
+  Co  Co1       1.0  0.00000  0.65808  0.06122  1.0000
+  Co  Co2       1.0  0.00000  0.15282  0.43245  1.0000
+  Co  Co3       1.0  0.50000  0.34301  0.94594  1.0000
+  Co  Co4       1.0  0.50000  0.83351  0.56007  1.0000
+  Si  Si1       1.0  0.00000  0.26720  0.12214  1.0000
+  Si  Si2       1.0  0.00000  0.76643  0.37581  1.0000
+  Si  Si3       1.0  0.50000  0.73262  0.88026  1.0000
+  Ge  Ge1       1.0  0.50000  0.23665  0.62214  1.0000

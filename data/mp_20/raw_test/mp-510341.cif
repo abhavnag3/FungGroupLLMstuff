@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs6Ge8Au2
+_chemical_formula_sum              "Cs6 Ge8 Au2"
+_cell_length_a       6.24851
+_cell_length_b       7.34242
+_cell_length_c       13.2856
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.84255  0.50000  0.26619  1.0000
+  Cs  Cs2       1.0  0.84255  0.50000  0.73381  1.0000
+  Cs  Cs3       1.0  0.42663  0.50000  0.50000  1.0000
+  Cs  Cs4       1.0  0.15745  0.00000  0.23381  1.0000
+  Cs  Cs5       1.0  0.15745  0.00000  0.76619  1.0000
+  Cs  Cs6       1.0  0.57337  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.06692  0.31227  0.00000  1.0000
+  Ge  Ge2       1.0  0.33668  0.50000  0.10453  1.0000
+  Ge  Ge3       1.0  0.66332  0.00000  0.60453  1.0000
+  Ge  Ge4       1.0  0.06692  0.68773  0.00000  1.0000
+  Ge  Ge5       1.0  0.93307  0.81227  0.50000  1.0000
+  Ge  Ge6       1.0  0.66332  0.00000  0.39547  1.0000
+  Ge  Ge7       1.0  0.33668  0.50000  0.89547  1.0000
+  Ge  Ge8       1.0  0.93307  0.18774  0.50000  1.0000
+  Au  Au1       1.0  0.70030  0.50000  0.00000  1.0000
+  Au  Au2       1.0  0.29970  0.00000  0.50000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       LiTi5Te10
+_chemical_formula_sum              "Li1 Ti5 Te10"
+_cell_length_a       6.58505
+_cell_length_b       7.88675
+_cell_length_c       9.54499
+_cell_angle_alpha    109.873
+_cell_angle_beta     109.991
+_cell_angle_gamma    90.1239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ti  Ti1       1.0  0.70273  0.39924  0.40022  1.0000
+  Ti  Ti2       1.0  0.29727  0.60076  0.59978  1.0000
+  Ti  Ti3       1.0  0.50000  0.00000  0.00000  1.0000
+  Ti  Ti4       1.0  0.89787  0.79948  0.79808  1.0000
+  Ti  Ti5       1.0  0.10213  0.20052  0.20192  1.0000
+  Te  Te1       1.0  0.28791  0.65092  0.89957  1.0000
+  Te  Te2       1.0  0.48347  0.05015  0.30012  1.0000
+  Te  Te3       1.0  0.67880  0.44747  0.69607  1.0000
+  Te  Te4       1.0  0.88322  0.85404  0.10296  1.0000
+  Te  Te5       1.0  0.08361  0.24965  0.50021  1.0000
+  Te  Te6       1.0  0.11678  0.14596  0.89704  1.0000
+  Te  Te7       1.0  0.32121  0.55253  0.30394  1.0000
+  Te  Te8       1.0  0.51653  0.94985  0.69988  1.0000
+  Te  Te9       1.0  0.71209  0.34908  0.10043  1.0000
+  Te  Te10      1.0  0.91639  0.75035  0.49979  1.0000

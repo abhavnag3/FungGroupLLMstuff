@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ba4Cd4S8
+_chemical_formula_sum              "Ba4 Cd4 S8"
+_cell_length_a       4.22594
+_cell_length_b       7.46261
+_cell_length_c       14.2638
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75000  0.15470  0.64037  1.0000
+  Ba  Ba2       1.0  0.25000  0.84530  0.35963  1.0000
+  Ba  Ba3       1.0  0.75000  0.65470  0.85963  1.0000
+  Ba  Ba4       1.0  0.25000  0.34530  0.14037  1.0000
+  Cd  Cd1       1.0  0.75000  0.32666  0.38128  1.0000
+  Cd  Cd2       1.0  0.75000  0.82666  0.11872  1.0000
+  Cd  Cd3       1.0  0.25000  0.67334  0.61872  1.0000
+  Cd  Cd4       1.0  0.25000  0.17334  0.88128  1.0000
+  S   S1        1.0  0.75000  0.26390  0.96994  1.0000
+  S   S2        1.0  0.25000  0.73610  0.03006  1.0000
+  S   S3        1.0  0.75000  0.76390  0.53006  1.0000
+  S   S4        1.0  0.25000  0.23610  0.46994  1.0000
+  S   S5        1.0  0.25000  0.42285  0.73778  1.0000
+  S   S6        1.0  0.75000  0.07715  0.23778  1.0000
+  S   S7        1.0  0.25000  0.92285  0.76222  1.0000
+  S   S8        1.0  0.75000  0.57715  0.26222  1.0000

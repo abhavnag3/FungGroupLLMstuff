@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sb4O4F4
+_chemical_formula_sum              "Sb4 O4 F4"
+_cell_length_a       6.36522
+_cell_length_b       5.59541
+_cell_length_c       5.72052
+_cell_angle_alpha    84.1487
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.52241  0.31545  0.72844  1.0000
+  Sb  Sb2       1.0  0.97759  0.81546  0.72844  1.0000
+  Sb  Sb3       1.0  0.02241  0.18454  0.27156  1.0000
+  Sb  Sb4       1.0  0.47759  0.68454  0.27156  1.0000
+  O   O1        1.0  0.84153  0.12240  0.57120  1.0000
+  O   O2        1.0  0.65847  0.62240  0.57120  1.0000
+  O   O3        1.0  0.34153  0.37760  0.42880  1.0000
+  O   O4        1.0  0.15847  0.87760  0.42880  1.0000
+  F   F1        1.0  0.18201  0.04646  0.89044  1.0000
+  F   F2        1.0  0.31799  0.54646  0.89044  1.0000
+  F   F3        1.0  0.68201  0.45354  0.10956  1.0000
+  F   F4        1.0  0.81799  0.95354  0.10956  1.0000

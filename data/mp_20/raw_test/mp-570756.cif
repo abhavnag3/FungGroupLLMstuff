@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs3Li2Cl5
+_chemical_formula_sum              "Cs3 Li2 Cl5"
+_cell_length_a       12.8116
+_cell_length_b       12.8116
+_cell_length_c       4.24376
+_cell_angle_alpha    80.4728
+_cell_angle_beta     80.4728
+_cell_angle_gamma    147.146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.63346  0.38430  0.75022  1.0000
+  Cs  Cs2       1.0  0.38430  0.63346  0.75022  1.0000
+  Cs  Cs3       1.0  0.00226  0.00226  0.26665  1.0000
+  Li  Li1       1.0  0.83158  0.26676  0.70265  1.0000
+  Li  Li2       1.0  0.26676  0.83158  0.70265  1.0000
+  Cl  Cl1       1.0  0.68710  0.20785  0.30483  1.0000
+  Cl  Cl2       1.0  0.88382  0.12800  0.74794  1.0000
+  Cl  Cl3       1.0  0.20785  0.68710  0.30483  1.0000
+  Cl  Cl4       1.0  0.12800  0.88382  0.74794  1.0000
+  Cl  Cl5       1.0  0.50446  0.50446  0.25159  1.0000

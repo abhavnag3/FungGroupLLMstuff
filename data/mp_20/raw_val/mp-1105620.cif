@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Na4SrSi3O9
+_chemical_formula_sum              "Na4 Sr1 Si3 O9"
+_cell_length_a       6.694
+_cell_length_b       6.70422
+_cell_length_c       6.6999
+_cell_angle_alpha    109.55
+_cell_angle_beta     109.488
+_cell_angle_gamma    109.371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.49625  0.49625  0.99250  1.0000
+  Na  Na2       1.0  0.52473  0.02473  0.04946  1.0000
+  Na  Na3       1.0  0.47013  0.44374  0.46704  1.0000
+  Na  Na4       1.0  0.99691  0.02330  0.46704  1.0000
+  Sr  Sr1       1.0  0.99520  0.49520  0.99039  1.0000
+  Si  Si1       1.0  0.96076  0.96076  0.92153  1.0000
+  Si  Si2       1.0  0.49682  0.96144  0.53051  1.0000
+  Si  Si3       1.0  0.03369  0.56906  0.53051  1.0000
+  O   O1        1.0  0.73896  0.97747  0.73094  1.0000
+  O   O2        1.0  0.99198  0.75348  0.73094  1.0000
+  O   O3        1.0  0.86717  0.83806  0.06620  1.0000
+  O   O4        1.0  0.19903  0.22814  0.06620  1.0000
+  O   O5        1.0  0.45862  0.83442  0.25943  1.0000
+  O   O6        1.0  0.80081  0.42501  0.25943  1.0000
+  O   O7        1.0  0.53060  0.23102  0.65387  1.0000
+  O   O8        1.0  0.12327  0.42285  0.65387  1.0000
+  O   O9        1.0  0.26308  0.76308  0.52616  1.0000

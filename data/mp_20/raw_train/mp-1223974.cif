@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hg2IBr3
+_chemical_formula_sum              "Hg2 I1 Br3"
+_cell_length_a       4.43689
+_cell_length_b       4.43689
+_cell_length_c       13.4699
+_cell_angle_alpha    88.8299
+_cell_angle_beta     88.8299
+_cell_angle_gamma    71.048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.83981  0.83981  0.43667  1.0000
+  Hg  Hg2       1.0  0.16453  0.16453  0.93315  1.0000
+  I   I1        1.0  0.57487  0.57487  0.30497  1.0000
+  Br  Br1       1.0  0.42029  0.42029  0.80932  1.0000
+  Br  Br2       1.0  0.09035  0.09035  0.56036  1.0000
+  Br  Br3       1.0  0.91015  0.91015  0.05856  1.0000

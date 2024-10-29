@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al2Te2I14
+_chemical_formula_sum              "Al2 Te2 I14"
+_cell_length_a       7.4803
+_cell_length_b       7.75886
+_cell_length_c       16.8611
+_cell_angle_alpha    75.3799
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.99556  0.71173  0.65436  1.0000
+  Al  Al2       1.0  0.00444  0.71173  0.15436  1.0000
+  Te  Te1       1.0  0.59768  0.99825  0.50169  1.0000
+  Te  Te2       1.0  0.40232  0.99825  0.00169  1.0000
+  I   I1        1.0  0.38437  0.89181  0.38869  1.0000
+  I   I2        1.0  0.39333  0.27168  0.53291  1.0000
+  I   I3        1.0  0.16950  0.21550  0.89033  1.0000
+  I   I4        1.0  0.83050  0.21550  0.39032  1.0000
+  I   I5        1.0  0.11981  0.02547  0.15478  1.0000
+  I   I6        1.0  0.60667  0.27168  0.03291  1.0000
+  I   I7        1.0  0.12602  0.64722  0.02112  1.0000
+  I   I8        1.0  0.87398  0.64722  0.52112  1.0000
+  I   I9        1.0  0.66477  0.68621  0.16185  1.0000
+  I   I10       1.0  0.33523  0.68621  0.66185  1.0000
+  I   I11       1.0  0.14305  0.49003  0.27880  1.0000
+  I   I12       1.0  0.85695  0.49003  0.77880  1.0000
+  I   I13       1.0  0.61563  0.89181  0.88869  1.0000
+  I   I14       1.0  0.88019  0.02547  0.65478  1.0000

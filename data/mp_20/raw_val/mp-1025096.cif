@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Er2Zn4
+_chemical_formula_sum              "Er2 Zn4"
+_cell_length_a       5.61432
+_cell_length_b       5.61432
+_cell_length_c       5.61432
+_cell_angle_alpha    133.306
+_cell_angle_beta     102.438
+_cell_angle_gamma    95.6657
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.28397  0.53397  0.75000  1.0000
+  Er  Er2       1.0  0.71603  0.46603  0.25000  1.0000
+  Zn  Zn1       1.0  0.71025  0.16595  0.54430  1.0000
+  Zn  Zn2       1.0  0.28975  0.83405  0.45570  1.0000
+  Zn  Zn3       1.0  0.12165  0.16595  0.95570  1.0000
+  Zn  Zn4       1.0  0.87835  0.83405  0.04430  1.0000

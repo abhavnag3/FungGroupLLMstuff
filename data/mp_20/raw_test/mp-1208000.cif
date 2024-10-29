@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Tm2CuGe4O12
+_chemical_formula_sum              "Tm2 Cu1 Ge4 O12"
+_cell_length_a       4.98386
+_cell_length_b       7.19408
+_cell_length_c       7.96328
+_cell_angle_alpha    113.998
+_cell_angle_beta     87.0512
+_cell_angle_gamma    102.379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.96047  0.77048  0.54823  1.0000
+  Tm  Tm2       1.0  0.03952  0.22952  0.45177  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.42055  0.62022  0.79215  1.0000
+  Ge  Ge2       1.0  0.57945  0.37978  0.20785  1.0000
+  Ge  Ge3       1.0  0.54336  0.16437  0.77646  1.0000
+  Ge  Ge4       1.0  0.45664  0.83563  0.22354  1.0000
+  O   O1        1.0  0.74614  0.77729  0.80118  1.0000
+  O   O2        1.0  0.25386  0.22271  0.19882  1.0000
+  O   O3        1.0  0.73609  0.29372  0.99107  1.0000
+  O   O4        1.0  0.26391  0.70628  0.00893  1.0000
+  O   O5        1.0  0.78915  0.42823  0.39598  1.0000
+  O   O6        1.0  0.21085  0.57177  0.60401  1.0000
+  O   O7        1.0  0.75199  0.00984  0.20663  1.0000
+  O   O8        1.0  0.24800  0.99016  0.79337  1.0000
+  O   O9        1.0  0.41887  0.34549  0.71475  1.0000
+  O   O10       1.0  0.58113  0.65451  0.28525  1.0000
+  O   O11       1.0  0.77825  0.06422  0.60834  1.0000
+  O   O12       1.0  0.22175  0.93578  0.39166  1.0000

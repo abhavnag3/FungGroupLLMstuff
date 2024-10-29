@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Na2Hf4Cu2Se10
+_chemical_formula_sum              "Na2 Hf4 Cu2 Se10"
+_cell_length_a       7.22723
+_cell_length_b       7.22723
+_cell_length_c       16.2919
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    149.567
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.03385  0.96615  0.25000  1.0000
+  Na  Na2       1.0  0.96615  0.03385  0.75000  1.0000
+  Hf  Hf1       1.0  0.20938  0.79062  0.90156  1.0000
+  Hf  Hf2       1.0  0.79062  0.20938  0.40156  1.0000
+  Hf  Hf3       1.0  0.20938  0.79062  0.59844  1.0000
+  Hf  Hf4       1.0  0.79062  0.20938  0.09844  1.0000
+  Cu  Cu1       1.0  0.32255  0.67745  0.25000  1.0000
+  Cu  Cu2       1.0  0.67745  0.32255  0.75000  1.0000
+  Se  Se1       1.0  0.15982  0.84018  0.43930  1.0000
+  Se  Se2       1.0  0.84018  0.15982  0.93930  1.0000
+  Se  Se3       1.0  0.29104  0.70896  0.75000  1.0000
+  Se  Se4       1.0  0.42236  0.57764  0.37185  1.0000
+  Se  Se5       1.0  0.15982  0.84018  0.06070  1.0000
+  Se  Se6       1.0  0.57764  0.42236  0.87185  1.0000
+  Se  Se7       1.0  0.57764  0.42236  0.62815  1.0000
+  Se  Se8       1.0  0.42236  0.57764  0.12815  1.0000
+  Se  Se9       1.0  0.84018  0.15982  0.56070  1.0000
+  Se  Se10      1.0  0.70896  0.29104  0.25000  1.0000

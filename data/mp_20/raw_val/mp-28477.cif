@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr2Cl4O12
+_chemical_formula_sum              "Sr2 Cl4 O12"
+_cell_length_a       8.64764
+_cell_length_b       7.42053
+_cell_length_c       6.99345
+_cell_angle_alpha    73.6653
+_cell_angle_beta     55.4328
+_cell_angle_gamma    50.9019
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75096  0.24904  0.24904  1.0000
+  Sr  Sr2       1.0  0.00096  0.49904  0.49904  1.0000
+  Cl  Cl1       1.0  0.40062  0.63929  0.99254  1.0000
+  Cl  Cl2       1.0  0.96755  0.99253  0.63929  1.0000
+  Cl  Cl3       1.0  0.25746  0.28245  0.84938  1.0000
+  Cl  Cl4       1.0  0.61071  0.84938  0.28245  1.0000
+  O   O1        1.0  0.19430  0.88940  0.06358  1.0000
+  O   O2        1.0  0.85272  0.06358  0.88940  1.0000
+  O   O3        1.0  0.18642  0.39728  0.05570  1.0000
+  O   O4        1.0  0.36060  0.05570  0.39728  1.0000
+  O   O5        1.0  0.34015  0.39800  0.64026  1.0000
+  O   O6        1.0  0.62158  0.64026  0.39800  1.0000
+  O   O7        1.0  0.72786  0.88482  0.35447  1.0000
+  O   O8        1.0  0.03285  0.35447  0.88482  1.0000
+  O   O9        1.0  0.89553  0.21715  0.52214  1.0000
+  O   O10       1.0  0.36518  0.52214  0.21715  1.0000
+  O   O11       1.0  0.85199  0.90985  0.62842  1.0000
+  O   O12       1.0  0.60974  0.62842  0.90985  1.0000

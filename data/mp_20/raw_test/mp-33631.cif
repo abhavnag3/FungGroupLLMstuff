@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ti2Zn4O8
+_chemical_formula_sum              "Ti2 Zn4 O8"
+_cell_length_a       6.09001
+_cell_length_b       6.09001
+_cell_length_c       6.09001
+_cell_angle_alpha    121.279
+_cell_angle_beta     120.718
+_cell_angle_gamma    88.2792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ti  Ti2       1.0  0.00000  0.50000  0.50000  1.0000
+  Zn  Zn1       1.0  0.88896  0.13895  0.75000  1.0000
+  Zn  Zn2       1.0  0.50000  0.50000  0.50000  1.0000
+  Zn  Zn3       1.0  0.50000  0.00000  0.00000  1.0000
+  Zn  Zn4       1.0  0.11105  0.86105  0.25000  1.0000
+  O   O1        1.0  0.28896  0.27528  0.01368  1.0000
+  O   O2        1.0  0.76159  0.27528  0.48632  1.0000
+  O   O3        1.0  0.75409  0.28105  0.02696  1.0000
+  O   O4        1.0  0.75409  0.72713  0.47304  1.0000
+  O   O5        1.0  0.24591  0.27287  0.52696  1.0000
+  O   O6        1.0  0.24591  0.71895  0.97304  1.0000
+  O   O7        1.0  0.23841  0.72472  0.51368  1.0000
+  O   O8        1.0  0.71104  0.72472  0.98632  1.0000

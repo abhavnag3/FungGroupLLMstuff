@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Au4O6
+_chemical_formula_sum              "Au4 O6"
+_cell_length_a       8.42413
+_cell_length_b       6.83064
+_cell_length_c       5.70379
+_cell_angle_alpha    83.941
+_cell_angle_beta     53.7371
+_cell_angle_gamma    42.3219
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.42569  0.66588  0.84220  1.0000
+  Au  Au2       1.0  0.06623  0.84220  0.66588  1.0000
+  Au  Au3       1.0  0.40780  0.18377  0.82431  1.0000
+  Au  Au4       1.0  0.58412  0.82431  0.18377  1.0000
+  O   O1        1.0  0.55455  0.44545  0.44545  1.0000
+  O   O2        1.0  0.80455  0.69545  0.69545  1.0000
+  O   O3        1.0  0.53084  0.30488  0.93450  1.0000
+  O   O4        1.0  0.22979  0.93450  0.30488  1.0000
+  O   O5        1.0  0.94512  0.71916  0.02021  1.0000
+  O   O6        1.0  0.31550  0.02021  0.71916  1.0000

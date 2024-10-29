@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BaHfS3
+_chemical_formula_sum              "Ba1 Hf1 S3"
+_cell_length_a       5.0096
+_cell_length_b       5.01165
+_cell_length_c       5.01241
+_cell_angle_alpha    89.9959
+_cell_angle_beta     90.0437
+_cell_angle_gamma    90.0068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.99137  0.99738  0.99405  1.0000
+  Hf  Hf1       1.0  0.48750  0.49801  0.49509  1.0000
+  S   S1        1.0  0.48563  0.00016  0.49734  1.0000
+  S   S2        1.0  0.98729  0.50460  0.50514  1.0000
+  S   S3        1.0  0.48821  0.49985  0.99838  1.0000

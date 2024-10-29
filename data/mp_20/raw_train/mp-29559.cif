@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       La6Si6Cl4
+_chemical_formula_sum              "La6 Si6 Cl4"
+_cell_length_a       9.34012
+_cell_length_b       9.34012
+_cell_length_c       10.676
+_cell_angle_alpha    82.2696
+_cell_angle_beta     82.2696
+_cell_angle_gamma    26.2827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.68041  0.68041  0.85135  1.0000
+  La  La2       1.0  0.31960  0.31960  0.14865  1.0000
+  La  La3       1.0  0.38438  0.38438  0.49047  1.0000
+  La  La4       1.0  0.61562  0.61562  0.50953  1.0000
+  La  La5       1.0  0.46479  0.46479  0.83076  1.0000
+  La  La6       1.0  0.53521  0.53521  0.16924  1.0000
+  Si  Si1       1.0  0.93574  0.93574  0.05066  1.0000
+  Si  Si2       1.0  0.06426  0.06426  0.94934  1.0000
+  Si  Si3       1.0  0.08844  0.08844  0.72302  1.0000
+  Si  Si4       1.0  0.91156  0.91156  0.27698  1.0000
+  Si  Si5       1.0  0.98116  0.98116  0.61158  1.0000
+  Si  Si6       1.0  0.01884  0.01884  0.38842  1.0000
+  Cl  Cl1       1.0  0.22639  0.22639  0.39146  1.0000
+  Cl  Cl2       1.0  0.77361  0.77361  0.60854  1.0000
+  Cl  Cl3       1.0  0.29718  0.29718  0.87397  1.0000
+  Cl  Cl4       1.0  0.70282  0.70283  0.12603  1.0000

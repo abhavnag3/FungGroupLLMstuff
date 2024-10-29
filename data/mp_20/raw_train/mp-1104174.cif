@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       K4Ni3O6
+_chemical_formula_sum              "K4 Ni3 O6"
+_cell_length_a       5.48306
+_cell_length_b       5.48306
+_cell_length_c       7.91457
+_cell_angle_alpha    88.8403
+_cell_angle_beta     88.8403
+_cell_angle_gamma    68.4497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.67521  0.67521  0.62569  1.0000
+  K   K2        1.0  0.32479  0.32479  0.37431  1.0000
+  K   K3        1.0  0.65216  0.65216  0.10901  1.0000
+  K   K4        1.0  0.34784  0.34784  0.89099  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.96609  0.96609  0.33080  1.0000
+  Ni  Ni3       1.0  0.03391  0.03391  0.66920  1.0000
+  O   O1        1.0  0.13357  0.73353  0.15755  1.0000
+  O   O2        1.0  0.73353  0.13357  0.15755  1.0000
+  O   O3        1.0  0.86643  0.26647  0.84245  1.0000
+  O   O4        1.0  0.26647  0.86643  0.84245  1.0000
+  O   O5        1.0  0.19678  0.80322  0.50000  1.0000
+  O   O6        1.0  0.80322  0.19678  0.50000  1.0000

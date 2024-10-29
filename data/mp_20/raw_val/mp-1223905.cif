@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K2TiTe3O12
+_chemical_formula_sum              "K2 Ti1 Te3 O12"
+_cell_length_a       7.21587
+_cell_length_b       7.21587
+_cell_length_c       7.21744
+_cell_angle_alpha    60.3483
+_cell_angle_beta     60.3483
+_cell_angle_gamma    60.3739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.82625  0.89276  0.38773  1.0000
+  K   K2        1.0  0.10724  0.17375  0.61227  1.0000
+  Ti  Ti1       1.0  0.49732  0.50268  0.00000  1.0000
+  Te  Te1       1.0  0.99874  0.50093  0.99931  1.0000
+  Te  Te2       1.0  0.49907  0.00126  0.00069  1.0000
+  Te  Te3       1.0  0.49836  0.50164  0.50000  1.0000
+  O   O1        1.0  0.17269  0.17406  0.07332  1.0000
+  O   O2        1.0  0.56819  0.56522  0.67941  1.0000
+  O   O3        1.0  0.17950  0.56460  0.06785  1.0000
+  O   O4        1.0  0.57232  0.17490  0.67395  1.0000
+  O   O5        1.0  0.56623  0.18023  0.06667  1.0000
+  O   O6        1.0  0.17282  0.57170  0.67322  1.0000
+  O   O7        1.0  0.82594  0.82731  0.92668  1.0000
+  O   O8        1.0  0.43478  0.43182  0.32059  1.0000
+  O   O9        1.0  0.81978  0.43377  0.93333  1.0000
+  O   O10       1.0  0.42830  0.82718  0.32677  1.0000
+  O   O11       1.0  0.43540  0.82050  0.93215  1.0000
+  O   O12       1.0  0.82510  0.42768  0.32605  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr5Ca3Si4
+_chemical_formula_sum              "Sr5 Ca3 Si4"
+_cell_length_a       4.99073
+_cell_length_b       8.08762
+_cell_length_c       9.2413
+_cell_angle_alpha    90.4631
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75000  0.47679  0.82329  1.0000
+  Sr  Sr2       1.0  0.75000  0.97857  0.68284  1.0000
+  Sr  Sr3       1.0  0.25000  0.52421  0.17367  1.0000
+  Sr  Sr4       1.0  0.25000  0.01707  0.32060  1.0000
+  Sr  Sr5       1.0  0.75000  0.34815  0.42392  1.0000
+  Ca  Ca1       1.0  0.75000  0.85389  0.07237  1.0000
+  Ca  Ca2       1.0  0.25000  0.65017  0.57571  1.0000
+  Ca  Ca3       1.0  0.25000  0.14665  0.92656  1.0000
+  Si  Si1       1.0  0.75000  0.23082  0.09664  1.0000
+  Si  Si2       1.0  0.75000  0.74257  0.39434  1.0000
+  Si  Si3       1.0  0.25000  0.76640  0.89590  1.0000
+  Si  Si4       1.0  0.25000  0.26471  0.61413  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pr4Al4Pd8
+_chemical_formula_sum              "Pr4 Al4 Pd8"
+_cell_length_a       5.92371
+_cell_length_b       7.09761
+_cell_length_c       7.60544
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.34657  0.75000  0.03206  1.0000
+  Pr  Pr2       1.0  0.15343  0.75000  0.53205  1.0000
+  Pr  Pr3       1.0  0.65343  0.25000  0.96795  1.0000
+  Pr  Pr4       1.0  0.84657  0.25000  0.46794  1.0000
+  Al  Al1       1.0  0.65336  0.75000  0.38124  1.0000
+  Al  Al2       1.0  0.84664  0.75000  0.88124  1.0000
+  Al  Al3       1.0  0.34664  0.25000  0.61876  1.0000
+  Al  Al4       1.0  0.15336  0.25000  0.11876  1.0000
+  Pd  Pd1       1.0  0.91215  0.55335  0.17641  1.0000
+  Pd  Pd2       1.0  0.58785  0.94665  0.67641  1.0000
+  Pd  Pd3       1.0  0.08785  0.05335  0.82359  1.0000
+  Pd  Pd4       1.0  0.41215  0.44665  0.32359  1.0000
+  Pd  Pd5       1.0  0.08785  0.44665  0.82359  1.0000
+  Pd  Pd6       1.0  0.41215  0.05335  0.32359  1.0000
+  Pd  Pd7       1.0  0.91215  0.94665  0.17641  1.0000
+  Pd  Pd8       1.0  0.58785  0.55335  0.67641  1.0000

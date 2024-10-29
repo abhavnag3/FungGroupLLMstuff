@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       K4Ge2Au7
+_chemical_formula_sum              "K4 Ge2 Au7"
+_cell_length_a       10.2499
+_cell_length_b       10.2499
+_cell_length_c       10.2499
+_cell_angle_alpha    37.6256
+_cell_angle_beta     37.6256
+_cell_angle_gamma    37.6256
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.68281  0.68281  0.68281  1.0000
+  K   K2        1.0  0.31719  0.31719  0.31719  1.0000
+  K   K3        1.0  0.81096  0.81096  0.81096  1.0000
+  K   K4        1.0  0.18904  0.18904  0.18904  1.0000
+  Ge  Ge1       1.0  0.54512  0.54512  0.54512  1.0000
+  Ge  Ge2       1.0  0.45488  0.45488  0.45488  1.0000
+  Au  Au1       1.0  0.00000  0.00000  0.00000  1.0000
+  Au  Au2       1.0  0.22322  0.22322  0.79490  1.0000
+  Au  Au3       1.0  0.79490  0.22322  0.22322  1.0000
+  Au  Au4       1.0  0.22322  0.79490  0.22322  1.0000
+  Au  Au5       1.0  0.77678  0.20510  0.77678  1.0000
+  Au  Au6       1.0  0.77678  0.77678  0.20510  1.0000
+  Au  Au7       1.0  0.20510  0.77678  0.77678  1.0000

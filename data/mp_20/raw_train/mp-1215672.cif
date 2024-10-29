@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       YbAl7Cu5
+_chemical_formula_sum              "Yb1 Al7 Cu5"
+_cell_length_a       6.67558
+_cell_length_b       6.67558
+_cell_length_c       6.67558
+_cell_angle_alpha    135.225
+_cell_angle_beta     99.0221
+_cell_angle_gamma    97.6611
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.00303  0.00000  0.00303  1.0000
+  Al  Al1       1.0  0.65121  0.00000  0.65121  1.0000
+  Al  Al2       1.0  0.34531  0.00000  0.34531  1.0000
+  Al  Al3       1.0  0.34215  0.34922  0.99293  1.0000
+  Al  Al4       1.0  0.64371  0.65078  0.99293  1.0000
+  Al  Al5       1.0  0.77678  0.50000  0.27678  1.0000
+  Al  Al6       1.0  0.79314  0.28700  0.50614  1.0000
+  Al  Al7       1.0  0.21914  0.71300  0.50614  1.0000
+  Cu  Cu1       1.0  0.50271  0.49997  0.49988  1.0000
+  Cu  Cu2       1.0  0.50271  0.00283  0.00275  1.0000
+  Cu  Cu3       1.0  0.99991  0.99717  0.49988  1.0000
+  Cu  Cu4       1.0  0.99991  0.50003  0.00275  1.0000
+  Cu  Cu5       1.0  0.22028  0.50000  0.72028  1.0000

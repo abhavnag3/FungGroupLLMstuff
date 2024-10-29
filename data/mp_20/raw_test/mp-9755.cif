@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf2Ge2O8
+_chemical_formula_sum              "Hf2 Ge2 O8"
+_cell_length_a       6.32611
+_cell_length_b       6.32611
+_cell_length_c       6.32611
+_cell_angle_alpha    134.541
+_cell_angle_beta     134.541
+_cell_angle_gamma    66.2435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.00000  0.00000  0.00000  1.0000
+  Hf  Hf2       1.0  0.75000  0.25000  0.50000  1.0000
+  Ge  Ge1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ge  Ge2       1.0  0.25000  0.75000  0.50000  1.0000
+  O   O1        1.0  0.34271  0.93749  0.94409  1.0000
+  O   O2        1.0  0.68749  0.24341  0.09478  1.0000
+  O   O3        1.0  0.14862  0.59271  0.90522  1.0000
+  O   O4        1.0  0.99340  0.39862  0.05591  1.0000
+  O   O5        1.0  0.75660  0.85138  0.44409  1.0000
+  O   O6        1.0  0.60138  0.65729  0.59478  1.0000
+  O   O7        1.0  0.06251  0.00659  0.40522  1.0000
+  O   O8        1.0  0.40729  0.31251  0.55591  1.0000

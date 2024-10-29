@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rb2Ge4N6
+_chemical_formula_sum              "Rb2 Ge4 N6"
+_cell_length_a       5.9222
+_cell_length_b       5.9222
+_cell_length_c       5.38653
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    118.148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.34811  0.34811  0.51937  1.0000
+  Rb  Rb2       1.0  0.65189  0.65189  0.01937  1.0000
+  Ge  Ge1       1.0  0.68640  0.03432  0.50697  1.0000
+  Ge  Ge2       1.0  0.03432  0.68640  0.50697  1.0000
+  Ge  Ge3       1.0  0.31360  0.96568  0.00698  1.0000
+  Ge  Ge4       1.0  0.96568  0.31360  0.00698  1.0000
+  N   N1        1.0  0.64233  0.12421  0.17441  1.0000
+  N   N2        1.0  0.12421  0.64233  0.17441  1.0000
+  N   N3        1.0  0.35767  0.87579  0.67441  1.0000
+  N   N4        1.0  0.87579  0.35767  0.67441  1.0000
+  N   N5        1.0  0.18374  0.18374  0.02985  1.0000
+  N   N6        1.0  0.81626  0.81626  0.52985  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La3SmCr4O12
+_chemical_formula_sum              "La3 Sm1 Cr4 O12"
+_cell_length_a       7.85877
+_cell_length_b       5.54427
+_cell_length_c       5.58915
+_cell_angle_alpha    89.8924
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00000  0.00691  0.96381  1.0000
+  La  La2       1.0  0.50000  0.50683  0.53340  1.0000
+  La  La3       1.0  0.50000  0.99165  0.03601  1.0000
+  Sm  Sm1       1.0  0.00000  0.48879  0.45206  1.0000
+  Cr  Cr1       1.0  0.24763  0.99943  0.50058  1.0000
+  Cr  Cr2       1.0  0.75169  0.50062  0.99854  1.0000
+  Cr  Cr3       1.0  0.75237  0.99943  0.50058  1.0000
+  Cr  Cr4       1.0  0.24831  0.50062  0.99854  1.0000
+  O   O1        1.0  0.00000  0.58035  0.02838  1.0000
+  O   O2        1.0  0.00000  0.90533  0.51749  1.0000
+  O   O3        1.0  0.50000  0.41937  0.98201  1.0000
+  O   O4        1.0  0.50000  0.07936  0.48357  1.0000
+  O   O5        1.0  0.20337  0.21472  0.21464  1.0000
+  O   O6        1.0  0.79887  0.29400  0.70638  1.0000
+  O   O7        1.0  0.70788  0.79195  0.79147  1.0000
+  O   O8        1.0  0.29050  0.70998  0.29001  1.0000
+  O   O9        1.0  0.29212  0.79195  0.79147  1.0000
+  O   O10       1.0  0.70950  0.70998  0.29001  1.0000
+  O   O11       1.0  0.79663  0.21472  0.21464  1.0000
+  O   O12       1.0  0.20113  0.29400  0.70638  1.0000

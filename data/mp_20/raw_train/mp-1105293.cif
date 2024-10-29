@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ga4Ag4O8
+_chemical_formula_sum              "Ga4 Ag4 O8"
+_cell_length_a       5.56504
+_cell_length_b       5.66051
+_cell_length_c       7.23237
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.00036  0.56022  0.37557  1.0000
+  Ga  Ga2       1.0  0.50036  0.43978  0.62443  1.0000
+  Ga  Ga3       1.0  0.50036  0.93978  0.87557  1.0000
+  Ga  Ga4       1.0  0.00036  0.06022  0.12443  1.0000
+  Ag  Ag1       1.0  0.49449  0.94958  0.37517  1.0000
+  Ag  Ag2       1.0  0.99449  0.05042  0.62483  1.0000
+  Ag  Ag3       1.0  0.99449  0.55042  0.87517  1.0000
+  Ag  Ag4       1.0  0.49449  0.44958  0.12483  1.0000
+  O   O1        1.0  0.42191  0.12246  0.66842  1.0000
+  O   O2        1.0  0.92191  0.87754  0.33158  1.0000
+  O   O3        1.0  0.92191  0.37754  0.16842  1.0000
+  O   O4        1.0  0.42191  0.62246  0.83158  1.0000
+  O   O5        1.0  0.33174  0.04095  0.08342  1.0000
+  O   O6        1.0  0.83174  0.95905  0.91658  1.0000
+  O   O7        1.0  0.83174  0.45905  0.58342  1.0000
+  O   O8        1.0  0.33174  0.54095  0.41658  1.0000

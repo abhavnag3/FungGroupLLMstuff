@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tl6As2O8
+_chemical_formula_sum              "Tl6 As2 O8"
+_cell_length_a       9.13193
+_cell_length_b       9.13193
+_cell_length_c       5.36967
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.71269  0.08775  0.99980  1.0000
+  Tl  Tl2       1.0  0.91225  0.62494  0.99980  1.0000
+  Tl  Tl3       1.0  0.62494  0.71269  0.49980  1.0000
+  Tl  Tl4       1.0  0.28731  0.91225  0.49980  1.0000
+  Tl  Tl5       1.0  0.08775  0.37506  0.49980  1.0000
+  Tl  Tl6       1.0  0.37506  0.28731  0.99980  1.0000
+  As  As1       1.0  0.33333  0.66667  0.98553  1.0000
+  As  As2       1.0  0.66667  0.33333  0.48553  1.0000
+  O   O1        1.0  0.60156  0.12983  0.58452  1.0000
+  O   O2        1.0  0.47173  0.60156  0.08452  1.0000
+  O   O3        1.0  0.12983  0.52827  0.08452  1.0000
+  O   O4        1.0  0.87017  0.47173  0.58452  1.0000
+  O   O5        1.0  0.33333  0.66667  0.65961  1.0000
+  O   O6        1.0  0.39844  0.87017  0.08452  1.0000
+  O   O7        1.0  0.66667  0.33333  0.15961  1.0000
+  O   O8        1.0  0.52827  0.39844  0.58452  1.0000

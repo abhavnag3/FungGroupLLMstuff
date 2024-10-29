@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr2MnSbO6
+_chemical_formula_sum              "Sr2 Mn1 Sb1 O6"
+_cell_length_a       5.61537
+_cell_length_b       5.69245
+_cell_length_c       5.61537
+_cell_angle_alpha    119.553
+_cell_angle_beta     90
+_cell_angle_gamma    119.553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.49614  0.99228  0.99614  1.0000
+  Sr  Sr2       1.0  0.99614  0.99228  0.49614  1.0000
+  Mn  Mn1       1.0  0.24258  0.48517  0.24258  1.0000
+  Sb  Sb1       1.0  0.74181  0.48362  0.74181  1.0000
+  O   O1        1.0  0.49696  0.99391  0.49696  1.0000
+  O   O2        1.0  0.99263  0.47865  0.48601  1.0000
+  O   O3        1.0  0.99263  0.47865  0.99263  1.0000
+  O   O4        1.0  0.48601  0.47865  0.99263  1.0000
+  O   O5        1.0  0.98512  0.97025  0.98512  1.0000
+  O   O6        1.0  0.48601  0.47865  0.48601  1.0000

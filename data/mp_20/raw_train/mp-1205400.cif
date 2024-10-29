@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba4Nd2In2Te10
+_chemical_formula_sum              "Ba4 Nd2 In2 Te10"
+_cell_length_a       10.5904
+_cell_length_b       10.5904
+_cell_length_c       14.3969
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    154.724
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.12856  0.87144  0.81698  1.0000
+  Ba  Ba2       1.0  0.87144  0.12856  0.31698  1.0000
+  Ba  Ba3       1.0  0.11815  0.88185  0.18145  1.0000
+  Ba  Ba4       1.0  0.88185  0.11815  0.68145  1.0000
+  Nd  Nd1       1.0  0.20951  0.79049  0.51784  1.0000
+  Nd  Nd2       1.0  0.79049  0.20951  0.01784  1.0000
+  In  In1       1.0  0.44366  0.55634  0.93456  1.0000
+  In  In2       1.0  0.55634  0.44366  0.43456  1.0000
+  Te  Te1       1.0  0.35830  0.64170  0.50134  1.0000
+  Te  Te2       1.0  0.64170  0.35830  0.00134  1.0000
+  Te  Te3       1.0  0.29228  0.70773  0.16506  1.0000
+  Te  Te4       1.0  0.70773  0.29228  0.66507  1.0000
+  Te  Te5       1.0  0.31206  0.68795  0.86157  1.0000
+  Te  Te6       1.0  0.68795  0.31206  0.36157  1.0000
+  Te  Te7       1.0  0.50369  0.49632  0.76295  1.0000
+  Te  Te8       1.0  0.49632  0.50369  0.26295  1.0000
+  Te  Te9       1.0  0.04748  0.95252  0.55024  1.0000
+  Te  Te10      1.0  0.95252  0.04748  0.05024  1.0000

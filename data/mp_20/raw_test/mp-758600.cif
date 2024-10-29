@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn4O4F4
+_chemical_formula_sum              "Mn4 O4 F4"
+_cell_length_a       4.53621
+_cell_length_b       5.70047
+_cell_length_c       5.17916
+_cell_angle_alpha    90.0001
+_cell_angle_beta     90.0001
+_cell_angle_gamma    90.0002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.01438  0.84881  0.72360  1.0000
+  Mn  Mn2       1.0  0.01437  0.15118  0.22359  1.0000
+  Mn  Mn3       1.0  0.51438  0.34881  0.77641  1.0000
+  Mn  Mn4       1.0  0.51437  0.65119  0.27641  1.0000
+  O   O1        1.0  0.22610  0.11557  0.90274  1.0000
+  O   O2        1.0  0.22610  0.88444  0.40273  1.0000
+  O   O3        1.0  0.72610  0.38444  0.09726  1.0000
+  O   O4        1.0  0.72610  0.61557  0.59726  1.0000
+  F   F1        1.0  0.25953  0.38203  0.46292  1.0000
+  F   F2        1.0  0.25953  0.61797  0.96292  1.0000
+  F   F3        1.0  0.75953  0.11797  0.53708  1.0000
+  F   F4        1.0  0.75953  0.88203  0.03708  1.0000

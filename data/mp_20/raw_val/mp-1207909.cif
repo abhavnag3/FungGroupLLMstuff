@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U4Ta4N8
+_chemical_formula_sum              "U4 Ta4 N8"
+_cell_length_a       3.23317
+_cell_length_b       5.64134
+_cell_length_c       11.0626
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.25000  0.57928  0.85702  1.0000
+  U   U2        1.0  0.75000  0.42072  0.14298  1.0000
+  U   U3        1.0  0.75000  0.92072  0.35702  1.0000
+  U   U4        1.0  0.25000  0.07928  0.64298  1.0000
+  Ta  Ta1       1.0  0.25000  0.92317  0.10263  1.0000
+  Ta  Ta2       1.0  0.75000  0.07683  0.89737  1.0000
+  Ta  Ta3       1.0  0.75000  0.57683  0.60263  1.0000
+  Ta  Ta4       1.0  0.25000  0.42317  0.39737  1.0000
+  N   N1        1.0  0.25000  0.66216  0.24508  1.0000
+  N   N2        1.0  0.75000  0.33784  0.75492  1.0000
+  N   N3        1.0  0.75000  0.83784  0.74508  1.0000
+  N   N4        1.0  0.25000  0.16216  0.25492  1.0000
+  N   N5        1.0  0.25000  0.75914  0.50423  1.0000
+  N   N6        1.0  0.75000  0.24086  0.49577  1.0000
+  N   N7        1.0  0.75000  0.74086  0.00423  1.0000
+  N   N8        1.0  0.25000  0.25914  0.99577  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na4Cl4O12
+_chemical_formula_sum              "Na4 Cl4 O12"
+_cell_length_a       6.68961
+_cell_length_b       6.68961
+_cell_length_c       6.68961
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.06423  0.06423  0.06423  1.0000
+  Na  Na2       1.0  0.43577  0.93577  0.56423  1.0000
+  Na  Na3       1.0  0.56423  0.43577  0.93577  1.0000
+  Na  Na4       1.0  0.93577  0.56423  0.43577  1.0000
+  Cl  Cl1       1.0  0.42174  0.42174  0.42174  1.0000
+  Cl  Cl2       1.0  0.07826  0.57825  0.92175  1.0000
+  Cl  Cl3       1.0  0.92175  0.07826  0.57825  1.0000
+  Cl  Cl4       1.0  0.57825  0.92175  0.07826  1.0000
+  O   O1        1.0  0.19286  0.40387  0.00798  1.0000
+  O   O2        1.0  0.69286  0.09613  0.99202  1.0000
+  O   O3        1.0  0.80714  0.90387  0.49202  1.0000
+  O   O4        1.0  0.09613  0.99202  0.69286  1.0000
+  O   O5        1.0  0.49202  0.80714  0.90387  1.0000
+  O   O6        1.0  0.99202  0.69286  0.09613  1.0000
+  O   O7        1.0  0.40387  0.00798  0.19286  1.0000
+  O   O8        1.0  0.00798  0.19286  0.40387  1.0000
+  O   O9        1.0  0.30714  0.59613  0.50798  1.0000
+  O   O10       1.0  0.50798  0.30714  0.59613  1.0000
+  O   O11       1.0  0.59613  0.50798  0.30714  1.0000
+  O   O12       1.0  0.90387  0.49202  0.80714  1.0000

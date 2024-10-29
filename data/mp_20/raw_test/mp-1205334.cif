@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg2Cu4Si2S8
+_chemical_formula_sum              "Mg2 Cu4 Si2 S8"
+_cell_length_a       6.20402
+_cell_length_b       6.45778
+_cell_length_c       7.56673
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.99712  0.65456  0.50000  1.0000
+  Mg  Mg2       1.0  0.49712  0.34544  0.00000  1.0000
+  Cu  Cu1       1.0  0.00677  0.17731  0.24762  1.0000
+  Cu  Cu2       1.0  0.00677  0.17731  0.75238  1.0000
+  Cu  Cu3       1.0  0.50677  0.82269  0.25238  1.0000
+  Cu  Cu4       1.0  0.50677  0.82269  0.74762  1.0000
+  Si  Si1       1.0  0.49886  0.32213  0.50000  1.0000
+  Si  Si2       1.0  0.99886  0.67787  0.00000  1.0000
+  S   S1        1.0  0.37682  0.16163  0.27079  1.0000
+  S   S2        1.0  0.37682  0.16163  0.72921  1.0000
+  S   S3        1.0  0.87682  0.83837  0.22921  1.0000
+  S   S4        1.0  0.87682  0.83837  0.77079  1.0000
+  S   S5        1.0  0.84623  0.30584  0.50000  1.0000
+  S   S6        1.0  0.34623  0.69416  0.00000  1.0000
+  S   S7        1.0  0.39552  0.64068  0.50000  1.0000
+  S   S8        1.0  0.89552  0.35932  0.00000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho6Co4Si6
+_chemical_formula_sum              "Ho6 Co4 Si6"
+_cell_length_a       5.60071
+_cell_length_b       5.60071
+_cell_length_c       13.5477
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    137.174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.63843  0.36157  0.25000  1.0000
+  Ho  Ho2       1.0  0.36157  0.63843  0.75000  1.0000
+  Ho  Ho3       1.0  0.91916  0.08085  0.11187  1.0000
+  Ho  Ho4       1.0  0.08085  0.91916  0.88813  1.0000
+  Ho  Ho5       1.0  0.08085  0.91916  0.61187  1.0000
+  Ho  Ho6       1.0  0.91916  0.08085  0.38813  1.0000
+  Co  Co1       1.0  0.78637  0.21363  0.58081  1.0000
+  Co  Co2       1.0  0.21363  0.78637  0.41918  1.0000
+  Co  Co3       1.0  0.21363  0.78637  0.08081  1.0000
+  Co  Co4       1.0  0.78637  0.21363  0.91919  1.0000
+  Si  Si1       1.0  0.33041  0.66960  0.25000  1.0000
+  Si  Si2       1.0  0.66960  0.33041  0.75000  1.0000
+  Si  Si3       1.0  0.62112  0.37888  0.03948  1.0000
+  Si  Si4       1.0  0.37888  0.62112  0.96052  1.0000
+  Si  Si5       1.0  0.37888  0.62112  0.53948  1.0000
+  Si  Si6       1.0  0.62112  0.37888  0.46052  1.0000

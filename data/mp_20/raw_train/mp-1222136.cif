@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Mg2TeSe
+_chemical_formula_sum              "Mg2 Te1 Se1"
+_cell_length_a       4.4248
+_cell_length_b       4.4248
+_cell_length_c       7.67194
+_cell_angle_alpha    106.761
+_cell_angle_beta     73.2393
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00542  0.99458  0.98375  1.0000
+  Mg  Mg2       1.0  0.49410  0.50590  0.51771  1.0000
+  Te  Te1       1.0  0.87627  0.12373  0.37120  1.0000
+  Se  Se1       1.0  0.37422  0.62578  0.87734  1.0000

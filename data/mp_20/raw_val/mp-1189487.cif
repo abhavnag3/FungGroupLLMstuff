@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Dy12Ga2Ni4
+_chemical_formula_sum              "Dy12 Ga2 Ni4"
+_cell_length_a       8.275
+_cell_length_b       8.275
+_cell_length_c       8.275
+_cell_angle_alpha    113.17
+_cell_angle_beta     109.399
+_cell_angle_gamma    105.926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.03976  0.73460  0.30517  1.0000
+  Dy  Dy2       1.0  0.96024  0.26540  0.69483  1.0000
+  Dy  Dy3       1.0  0.57057  0.26540  0.30517  1.0000
+  Dy  Dy4       1.0  0.42943  0.73460  0.69483  1.0000
+  Dy  Dy5       1.0  0.67459  0.86841  0.19382  1.0000
+  Dy  Dy6       1.0  0.32541  0.51922  0.19382  1.0000
+  Dy  Dy7       1.0  0.32541  0.13159  0.80618  1.0000
+  Dy  Dy8       1.0  0.67459  0.48078  0.80618  1.0000
+  Dy  Dy9       1.0  0.18071  0.21419  0.39490  1.0000
+  Dy  Dy10      1.0  0.81929  0.21419  0.03347  1.0000
+  Dy  Dy11      1.0  0.18071  0.78581  0.96653  1.0000
+  Dy  Dy12      1.0  0.81929  0.78581  0.60510  1.0000
+  Ga  Ga1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ga  Ga2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ni  Ni1       1.0  0.64746  0.50000  0.14746  1.0000
+  Ni  Ni2       1.0  0.35254  0.50000  0.85254  1.0000
+  Ni  Ni3       1.0  0.87728  0.87728  0.00000  1.0000
+  Ni  Ni4       1.0  0.12272  0.12272  0.00000  1.0000

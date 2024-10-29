@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sc2Se2O6F2
+_chemical_formula_sum              "Sc2 Se2 O6 F2"
+_cell_length_a       4.11558
+_cell_length_b       6.37261
+_cell_length_c       6.66368
+_cell_angle_alpha    92.2693
+_cell_angle_beta     94.7934
+_cell_angle_gamma    95.331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.53516  0.62898  0.75623  1.0000
+  Sc  Sc2       1.0  0.46485  0.37102  0.24377  1.0000
+  Se  Se1       1.0  0.68348  0.85756  0.27918  1.0000
+  Se  Se2       1.0  0.31652  0.14244  0.72082  1.0000
+  O   O1        1.0  0.59861  0.96914  0.77165  1.0000
+  O   O2        1.0  0.40139  0.03086  0.22835  1.0000
+  O   O3        1.0  0.60979  0.67017  0.07862  1.0000
+  O   O4        1.0  0.39021  0.32983  0.92138  1.0000
+  O   O5        1.0  0.48405  0.67669  0.43095  1.0000
+  O   O6        1.0  0.51596  0.32331  0.56905  1.0000
+  F   F1        1.0  0.03539  0.64950  0.74225  1.0000
+  F   F2        1.0  0.96461  0.35050  0.25775  1.0000

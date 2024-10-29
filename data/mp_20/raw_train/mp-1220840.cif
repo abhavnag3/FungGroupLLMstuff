@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Nb3Pb2O7F5
+_chemical_formula_sum              "Nb3 Pb2 O7 F5"
+_cell_length_a       17.01
+_cell_length_b       17.01
+_cell_length_c       17.01
+_cell_angle_alpha    166.885
+_cell_angle_beta     166.625
+_cell_angle_gamma    18.7741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.61962  0.61962  0.00000  1.0000
+  Nb  Nb2       1.0  0.38416  0.38416  0.00000  1.0000
+  Nb  Nb3       1.0  0.50438  0.50438  0.00000  1.0000
+  Pb  Pb1       1.0  0.79010  0.79010  0.00000  1.0000
+  Pb  Pb2       1.0  0.19512  0.19512  0.00000  1.0000
+  O   O1        1.0  0.56429  0.56429  0.00000  1.0000
+  O   O2        1.0  0.43695  0.43695  0.00000  1.0000
+  O   O3        1.0  0.99738  0.49738  0.50000  1.0000
+  O   O4        1.0  0.49625  0.99625  0.50000  1.0000
+  O   O5        1.0  0.37378  0.87378  0.50000  1.0000
+  O   O6        1.0  0.13142  0.63142  0.50000  1.0000
+  O   O7        1.0  0.63223  0.13223  0.50000  1.0000
+  F   F1        1.0  0.68796  0.68796  0.00000  1.0000
+  F   F2        1.0  0.31684  0.31684  0.00000  1.0000
+  F   F3        1.0  0.74866  0.24866  0.50000  1.0000
+  F   F4        1.0  0.24873  0.74873  0.50000  1.0000
+  F   F5        1.0  0.87212  0.37212  0.50000  1.0000

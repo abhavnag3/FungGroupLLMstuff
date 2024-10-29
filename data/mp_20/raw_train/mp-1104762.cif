@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ce2Sb2Pt10
+_chemical_formula_sum              "Ce2 Sb2 Pt10"
+_cell_length_a       5.38833
+_cell_length_b       5.38833
+_cell_length_c       10.9328
+_cell_angle_alpha    75.5952
+_cell_angle_beta     75.5952
+_cell_angle_gamma    60.2549
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ce  Ce2       1.0  0.00000  0.00000  0.50000  1.0000
+  Sb  Sb1       1.0  0.10230  0.10230  0.18985  1.0000
+  Sb  Sb2       1.0  0.89770  0.89770  0.81015  1.0000
+  Pt  Pt1       1.0  0.57127  0.07357  0.27822  1.0000
+  Pt  Pt2       1.0  0.07357  0.57127  0.27822  1.0000
+  Pt  Pt3       1.0  0.42873  0.92643  0.72178  1.0000
+  Pt  Pt4       1.0  0.92643  0.42873  0.72178  1.0000
+  Pt  Pt5       1.0  0.57491  0.57491  0.26864  1.0000
+  Pt  Pt6       1.0  0.42509  0.42509  0.73137  1.0000
+  Pt  Pt7       1.0  0.82475  0.82475  0.05222  1.0000
+  Pt  Pt8       1.0  0.17525  0.17525  0.94777  1.0000
+  Pt  Pt9       1.0  0.33971  0.33971  0.49629  1.0000
+  Pt  Pt10      1.0  0.66029  0.66029  0.50371  1.0000

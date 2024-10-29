@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al3P3O12
+_chemical_formula_sum              "Al3 P3 O12"
+_cell_length_a       5.05499
+_cell_length_b       5.05499
+_cell_length_c       11.1622
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.47298  0.00000  0.33333  1.0000
+  Al  Al2       1.0  0.00000  0.47298  0.66667  1.0000
+  Al  Al3       1.0  0.52702  0.52702  0.00000  1.0000
+  P   P1        1.0  0.47360  0.00000  0.83333  1.0000
+  P   P2        1.0  0.00000  0.47360  0.16667  1.0000
+  P   P3        1.0  0.52640  0.52640  0.50000  1.0000
+  O   O1        1.0  0.24655  0.41756  0.11150  1.0000
+  O   O2        1.0  0.58244  0.82899  0.44483  1.0000
+  O   O3        1.0  0.17101  0.75345  0.77817  1.0000
+  O   O4        1.0  0.82899  0.58244  0.55517  1.0000
+  O   O5        1.0  0.75345  0.17101  0.22183  1.0000
+  O   O6        1.0  0.41756  0.24655  0.88850  1.0000
+  O   O7        1.0  0.41749  0.28008  0.40176  1.0000
+  O   O8        1.0  0.71992  0.13741  0.73509  1.0000
+  O   O9        1.0  0.86259  0.58251  0.06843  1.0000
+  O   O10       1.0  0.13741  0.71992  0.26491  1.0000
+  O   O11       1.0  0.58251  0.86259  0.93157  1.0000
+  O   O12       1.0  0.28008  0.41749  0.59824  1.0000

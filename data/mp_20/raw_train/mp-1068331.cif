@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2Ni2Sn
+_chemical_formula_sum              "Y2 Ni2 Sn1"
+_cell_length_a       5.45325
+_cell_length_b       5.45325
+_cell_length_c       5.45325
+_cell_angle_alpha    133.837
+_cell_angle_beta     117.801
+_cell_angle_gamma    80.8506
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.70389  0.20389  0.50000  1.0000
+  Y   Y2        1.0  0.29611  0.79611  0.50000  1.0000
+  Ni  Ni1       1.0  0.71364  0.50000  0.21364  1.0000
+  Ni  Ni2       1.0  0.28636  0.50000  0.78636  1.0000
+  Sn  Sn1       1.0  0.00000  0.00000  0.00000  1.0000

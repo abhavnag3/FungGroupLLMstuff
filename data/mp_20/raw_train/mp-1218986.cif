@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SmSbTe3
+_chemical_formula_sum              "Sm1 Sb1 Te3"
+_cell_length_a       4.40387
+_cell_length_b       4.40387
+_cell_length_c       10.8381
+_cell_angle_alpha    78.2778
+_cell_angle_beta     78.2778
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.60223  0.60223  0.19330  1.0000
+  Sb  Sb1       1.0  0.39922  0.39922  0.80233  1.0000
+  Te  Te1       1.0  0.21498  0.21498  0.35506  1.0000
+  Te  Te2       1.0  0.78396  0.78396  0.64812  1.0000
+  Te  Te3       1.0  0.99960  0.99960  0.00119  1.0000

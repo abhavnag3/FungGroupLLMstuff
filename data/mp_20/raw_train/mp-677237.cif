@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Y3U2O10
+_chemical_formula_sum              "Y3 U2 O10"
+_cell_length_a       6.47262
+_cell_length_b       6.47262
+_cell_length_c       8.37113
+_cell_angle_alpha    51.5471
+_cell_angle_beta     51.5471
+_cell_angle_gamma    49.0005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.10229  0.10229  0.59576  1.0000
+  Y   Y2        1.0  0.50000  0.50000  0.00000  1.0000
+  Y   Y3        1.0  0.89771  0.89771  0.40425  1.0000
+  U   U1        1.0  0.30322  0.30322  0.79415  1.0000
+  U   U2        1.0  0.69678  0.69678  0.20585  1.0000
+  O   O1        1.0  0.55298  0.03719  0.29155  1.0000
+  O   O2        1.0  0.96281  0.44702  0.70845  1.0000
+  O   O3        1.0  0.03719  0.55298  0.29155  1.0000
+  O   O4        1.0  0.35506  0.85528  0.10644  1.0000
+  O   O5        1.0  0.44702  0.96281  0.70845  1.0000
+  O   O6        1.0  0.73378  0.26622  0.50000  1.0000
+  O   O7        1.0  0.85528  0.35506  0.10644  1.0000
+  O   O8        1.0  0.14472  0.64494  0.89356  1.0000
+  O   O9        1.0  0.26622  0.73378  0.50000  1.0000
+  O   O10       1.0  0.64494  0.14472  0.89356  1.0000

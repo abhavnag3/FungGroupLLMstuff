@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ce4Ag4As8
+_chemical_formula_sum              "Ce4 Ag4 As8"
+_cell_length_a       4.08588
+_cell_length_b       4.08588
+_cell_length_c       20.4477
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.0213
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.25692  0.25692  0.38865  1.0000
+  Ce  Ce2       1.0  0.74308  0.74308  0.61135  1.0000
+  Ce  Ce3       1.0  0.75692  0.75692  0.11135  1.0000
+  Ce  Ce4       1.0  0.24308  0.24308  0.88865  1.0000
+  Ag  Ag1       1.0  0.23808  0.73808  0.75000  1.0000
+  Ag  Ag2       1.0  0.26192  0.76192  0.25000  1.0000
+  Ag  Ag3       1.0  0.76192  0.26192  0.25000  1.0000
+  Ag  Ag4       1.0  0.73808  0.23808  0.75000  1.0000
+  As  As1       1.0  0.74128  0.74128  0.84347  1.0000
+  As  As2       1.0  0.25872  0.25872  0.15653  1.0000
+  As  As3       1.0  0.24128  0.24128  0.65653  1.0000
+  As  As4       1.0  0.75872  0.75872  0.34347  1.0000
+  As  As5       1.0  0.25292  0.74708  0.00000  1.0000
+  As  As6       1.0  0.24708  0.75292  0.50000  1.0000
+  As  As7       1.0  0.74708  0.25292  0.00000  1.0000
+  As  As8       1.0  0.75292  0.24708  0.50000  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sc4S3N2
+_chemical_formula_sum              "Sc4 S3 N2"
+_cell_length_a       6.32189
+_cell_length_b       3.59188
+_cell_length_c       9.77063
+_cell_angle_alpha    90
+_cell_angle_beta     50.3066
+_cell_angle_gamma    73.496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.23331  0.88334  0.64944  1.0000
+  Sc  Sc2       1.0  0.76668  0.11666  0.35056  1.0000
+  Sc  Sc3       1.0  0.57413  0.71294  0.15087  1.0000
+  Sc  Sc4       1.0  0.42587  0.28706  0.84913  1.0000
+  S   S1        1.0  0.00000  0.00000  0.00000  1.0000
+  S   S2        1.0  0.78672  0.60664  0.78186  1.0000
+  S   S3        1.0  0.21328  0.39336  0.21814  1.0000
+  N   N1        1.0  0.54887  0.72556  0.36566  1.0000
+  N   N2        1.0  0.45113  0.27444  0.63434  1.0000

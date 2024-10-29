@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La2Sn4Ru
+_chemical_formula_sum              "La2 Sn4 Ru1"
+_cell_length_a       4.6905
+_cell_length_b       4.7595
+_cell_length_c       8.89011
+_cell_angle_alpha    74.6201
+_cell_angle_beta     90.0142
+_cell_angle_gamma    89.9993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.24996  0.89865  0.20536  1.0000
+  La  La2       1.0  0.75051  0.10490  0.79460  1.0000
+  Sn  Sn1       1.0  0.25023  0.54159  0.91338  1.0000
+  Sn  Sn2       1.0  0.75013  0.42717  0.14943  1.0000
+  Sn  Sn3       1.0  0.25027  0.25931  0.47749  1.0000
+  Sn  Sn4       1.0  0.74950  0.76158  0.47859  1.0000
+  Ru  Ru1       1.0  0.24941  0.69180  0.61116  1.0000

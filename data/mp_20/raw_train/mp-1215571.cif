@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Yb2Zn2Ge2
+_chemical_formula_sum              "Yb2 Zn2 Ge2"
+_cell_length_a       5.65143
+_cell_length_b       5.65143
+_cell_length_c       7.21935
+_cell_angle_alpha    51.4177
+_cell_angle_beta     51.4177
+_cell_angle_gamma    46.3946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.46360  0.46360  0.78711  1.0000
+  Yb  Yb2       1.0  0.53640  0.53640  0.21289  1.0000
+  Zn  Zn1       1.0  0.83736  0.83736  0.61236  1.0000
+  Zn  Zn2       1.0  0.16264  0.16264  0.38764  1.0000
+  Ge  Ge1       1.0  0.16318  0.16318  0.79068  1.0000
+  Ge  Ge2       1.0  0.83682  0.83682  0.20932  1.0000

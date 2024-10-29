@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg4Sn4N8
+_chemical_formula_sum              "Mg4 Sn4 N8"
+_cell_length_a       5.53473
+_cell_length_b       5.96613
+_cell_length_c       6.93989
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.99328  0.58332  0.87539  1.0000
+  Mg  Mg2       1.0  0.49328  0.41668  0.12461  1.0000
+  Mg  Mg3       1.0  0.49328  0.91668  0.37539  1.0000
+  Mg  Mg4       1.0  0.99328  0.08332  0.62461  1.0000
+  Sn  Sn1       1.0  0.99588  0.58342  0.37437  1.0000
+  Sn  Sn2       1.0  0.49588  0.41658  0.62563  1.0000
+  Sn  Sn3       1.0  0.49588  0.91658  0.87437  1.0000
+  Sn  Sn4       1.0  0.99588  0.08342  0.12563  1.0000
+  N   N1        1.0  0.37531  0.57916  0.37726  1.0000
+  N   N2        1.0  0.87531  0.42084  0.62274  1.0000
+  N   N3        1.0  0.87531  0.92084  0.87726  1.0000
+  N   N4        1.0  0.37531  0.07916  0.12274  1.0000
+  N   N5        1.0  0.37653  0.58467  0.87313  1.0000
+  N   N6        1.0  0.87653  0.41533  0.12687  1.0000
+  N   N7        1.0  0.87653  0.91533  0.37313  1.0000
+  N   N8        1.0  0.37653  0.08467  0.62687  1.0000

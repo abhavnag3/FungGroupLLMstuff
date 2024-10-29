@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca3Er2Sn3S12
+_chemical_formula_sum              "Ca3 Er2 Sn3 S12"
+_cell_length_a       11.5546
+_cell_length_b       11.5546
+_cell_length_c       3.90347
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.523
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.66191  0.33009  0.00000  1.0000
+  Ca  Ca2       1.0  0.33009  0.66191  0.00000  1.0000
+  Ca  Ca3       1.0  0.28318  0.28318  0.00000  1.0000
+  Er  Er1       1.0  0.00130  0.71525  0.00000  1.0000
+  Er  Er2       1.0  0.71525  0.00130  0.00000  1.0000
+  Sn  Sn1       1.0  0.67215  0.67215  0.50000  1.0000
+  Sn  Sn2       1.0  0.00283  0.32935  0.50000  1.0000
+  Sn  Sn3       1.0  0.32935  0.00283  0.50000  1.0000
+  S   S1        1.0  0.82732  0.82732  0.00000  1.0000
+  S   S2        1.0  0.99214  0.17128  0.00000  1.0000
+  S   S3        1.0  0.17128  0.99214  0.00000  1.0000
+  S   S4        1.0  0.52796  0.52796  0.00000  1.0000
+  S   S5        1.0  0.99669  0.47411  0.00000  1.0000
+  S   S6        1.0  0.47411  0.99669  0.00000  1.0000
+  S   S7        1.0  0.81517  0.56180  0.50000  1.0000
+  S   S8        1.0  0.74642  0.18658  0.50000  1.0000
+  S   S9        1.0  0.45021  0.25416  0.50000  1.0000
+  S   S10       1.0  0.56180  0.81517  0.50000  1.0000
+  S   S11       1.0  0.18658  0.74642  0.50000  1.0000
+  S   S12       1.0  0.25416  0.45021  0.50000  1.0000

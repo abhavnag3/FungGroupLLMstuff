@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Cu4Sn4
+_chemical_formula_sum              "Zr4 Cu4 Sn4"
+_cell_length_a       4.44165
+_cell_length_b       6.62693
+_cell_length_c       7.81274
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25000  0.50060  0.72052  1.0000
+  Zr  Zr2       1.0  0.25000  0.00060  0.77948  1.0000
+  Zr  Zr3       1.0  0.75000  0.49940  0.27948  1.0000
+  Zr  Zr4       1.0  0.75000  0.99940  0.22052  1.0000
+  Cu  Cu1       1.0  0.25000  0.19723  0.41550  1.0000
+  Cu  Cu2       1.0  0.25000  0.69723  0.08450  1.0000
+  Cu  Cu3       1.0  0.75000  0.80277  0.58450  1.0000
+  Cu  Cu4       1.0  0.75000  0.30277  0.91550  1.0000
+  Sn  Sn1       1.0  0.25000  0.77399  0.41308  1.0000
+  Sn  Sn2       1.0  0.25000  0.27399  0.08692  1.0000
+  Sn  Sn3       1.0  0.75000  0.22601  0.58692  1.0000
+  Sn  Sn4       1.0  0.75000  0.72601  0.91308  1.0000

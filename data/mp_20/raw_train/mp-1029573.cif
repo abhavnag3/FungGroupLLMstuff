@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba6Ga2N6
+_chemical_formula_sum              "Ba6 Ga2 N6"
+_cell_length_a       8.15491
+_cell_length_b       8.15491
+_cell_length_c       5.79815
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.93417  0.63823  0.25000  1.0000
+  Ba  Ba2       1.0  0.70405  0.06583  0.25000  1.0000
+  Ba  Ba3       1.0  0.36177  0.29595  0.25000  1.0000
+  Ba  Ba4       1.0  0.06583  0.36177  0.75000  1.0000
+  Ba  Ba5       1.0  0.29595  0.93417  0.75000  1.0000
+  Ba  Ba6       1.0  0.63823  0.70405  0.75000  1.0000
+  Ga  Ga1       1.0  0.66667  0.33333  0.75000  1.0000
+  Ga  Ga2       1.0  0.33333  0.66667  0.25000  1.0000
+  N   N1        1.0  0.89039  0.58148  0.75000  1.0000
+  N   N2        1.0  0.69109  0.10961  0.75000  1.0000
+  N   N3        1.0  0.41852  0.30891  0.75000  1.0000
+  N   N4        1.0  0.10961  0.41852  0.25000  1.0000
+  N   N5        1.0  0.30891  0.89039  0.25000  1.0000
+  N   N6        1.0  0.58148  0.69109  0.25000  1.0000

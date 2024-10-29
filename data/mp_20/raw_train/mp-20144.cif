@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb4Cr4P4
+_chemical_formula_sum              "Nb4 Cr4 P4"
+_cell_length_a       3.54315
+_cell_length_b       6.28715
+_cell_length_c       7.40678
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000  0.03124  0.82760  1.0000
+  Nb  Nb2       1.0  0.25000  0.53124  0.67240  1.0000
+  Nb  Nb3       1.0  0.75000  0.46876  0.32760  1.0000
+  Nb  Nb4       1.0  0.75000  0.96876  0.17240  1.0000
+  Cr  Cr1       1.0  0.75000  0.85737  0.55955  1.0000
+  Cr  Cr2       1.0  0.25000  0.64263  0.05955  1.0000
+  Cr  Cr3       1.0  0.75000  0.35736  0.94045  1.0000
+  Cr  Cr4       1.0  0.25000  0.14264  0.44045  1.0000
+  P   P1        1.0  0.25000  0.76999  0.36852  1.0000
+  P   P2        1.0  0.25000  0.26999  0.13148  1.0000
+  P   P3        1.0  0.75000  0.23001  0.63148  1.0000
+  P   P4        1.0  0.75000  0.73001  0.86852  1.0000

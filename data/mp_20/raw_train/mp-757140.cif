@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       K3MnCrO8
+_chemical_formula_sum              "K3 Mn1 Cr1 O8"
+_cell_length_a       7.94865
+_cell_length_b       7.94865
+_cell_length_c       7.94865
+_cell_angle_alpha    43.4427
+_cell_angle_beta     43.4427
+_cell_angle_gamma    43.4427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.29535  0.29534  0.29535  1.0000
+  K   K2        1.0  0.69981  0.69981  0.69981  1.0000
+  K   K3        1.0  0.50456  0.50456  0.50456  1.0000
+  Mn  Mn1       1.0  0.09491  0.09491  0.09491  1.0000
+  Cr  Cr1       1.0  0.90895  0.90895  0.90895  1.0000
+  O   O1        1.0  0.76927  0.22009  0.22009  1.0000
+  O   O2        1.0  0.24367  0.78109  0.78109  1.0000
+  O   O3        1.0  0.22009  0.22009  0.76927  1.0000
+  O   O4        1.0  0.78109  0.24366  0.78109  1.0000
+  O   O5        1.0  0.16943  0.16943  0.16943  1.0000
+  O   O6        1.0  0.22009  0.76927  0.22009  1.0000
+  O   O7        1.0  0.83171  0.83171  0.83171  1.0000
+  O   O8        1.0  0.78109  0.78109  0.24366  1.0000

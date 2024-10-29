@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La4FeCo3O12
+_chemical_formula_sum              "La4 Fe1 Co3 O12"
+_cell_length_a       5.46942
+_cell_length_b       5.54494
+_cell_length_c       7.88374
+_cell_angle_alpha    90.4473
+_cell_angle_beta     91.4389
+_cell_angle_gamma    90.1897
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.49511  0.00087  0.24576  1.0000
+  La  La2       1.0  0.00390  0.49766  0.75588  1.0000
+  La  La3       1.0  0.50489  0.99913  0.75425  1.0000
+  La  La4       1.0  0.99610  0.50234  0.24412  1.0000
+  Fe  Fe1       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.50000  0.00000  1.0000
+  Co  Co3       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.21319  0.27488  0.53274  1.0000
+  O   O2        1.0  0.72367  0.78924  0.03142  1.0000
+  O   O3        1.0  0.27653  0.78895  0.46871  1.0000
+  O   O4        1.0  0.78905  0.27242  0.96625  1.0000
+  O   O5        1.0  0.99787  0.93223  0.75707  1.0000
+  O   O6        1.0  0.50021  0.43854  0.25251  1.0000
+  O   O7        1.0  0.72347  0.21105  0.53129  1.0000
+  O   O8        1.0  0.21095  0.72758  0.03375  1.0000
+  O   O9        1.0  0.00213  0.06777  0.24293  1.0000
+  O   O10       1.0  0.49979  0.56146  0.74749  1.0000
+  O   O11       1.0  0.78681  0.72512  0.46726  1.0000
+  O   O12       1.0  0.27633  0.21076  0.96858  1.0000

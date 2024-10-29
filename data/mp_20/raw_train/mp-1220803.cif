@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2La2Sc2Sb2O12
+_chemical_formula_sum              "Na2 La2 Sc2 Sb2 O12"
+_cell_length_a       5.70403
+_cell_length_b       5.68708
+_cell_length_c       9.80459
+_cell_angle_alpha    54.7214
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24567  0.25655  0.74975  1.0000
+  Na  Na2       1.0  0.75433  0.25655  0.24975  1.0000
+  La  La1       1.0  0.26033  0.73516  0.25014  1.0000
+  La  La2       1.0  0.73967  0.73516  0.75014  1.0000
+  Sc  Sc1       1.0  0.24899  0.99648  0.50226  1.0000
+  Sc  Sc2       1.0  0.75101  0.99648  0.00226  1.0000
+  Sb  Sb1       1.0  0.75135  0.50050  0.49893  1.0000
+  Sb  Sb2       1.0  0.24865  0.50050  0.99893  1.0000
+  O   O1        1.0  0.75484  0.16282  0.74169  1.0000
+  O   O2        1.0  0.24516  0.16282  0.24169  1.0000
+  O   O3        1.0  0.74276  0.82531  0.25618  1.0000
+  O   O4        1.0  0.25725  0.82531  0.75618  1.0000
+  O   O5        1.0  0.98006  0.70935  0.54842  1.0000
+  O   O6        1.0  0.01994  0.70935  0.04842  1.0000
+  O   O7        1.0  0.50792  0.30129  0.45260  1.0000
+  O   O8        1.0  0.49208  0.30129  0.95260  1.0000
+  O   O9        1.0  0.50157  0.69139  0.54789  1.0000
+  O   O10       1.0  0.49843  0.69139  0.04789  1.0000
+  O   O11       1.0  0.01124  0.32115  0.45213  1.0000
+  O   O12       1.0  0.98877  0.32115  0.95213  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       LuGa6Fe6
+_chemical_formula_sum              "Lu1 Ga6 Fe6"
+_cell_length_a       5.03507
+_cell_length_b       6.56599
+_cell_length_c       6.56599
+_cell_angle_alpha    80.6338
+_cell_angle_beta     67.4543
+_cell_angle_gamma    67.4543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga1       1.0  1.00000  0.66740  0.33260  1.0000
+  Ga  Ga2       1.0  0.00000  0.33260  0.66740  1.0000
+  Ga  Ga3       1.0  0.34257  0.65743  0.65743  1.0000
+  Ga  Ga4       1.0  0.65743  0.34257  0.34257  1.0000
+  Ga  Ga5       1.0  0.32211  0.17789  0.17789  1.0000
+  Ga  Ga6       1.0  0.67789  0.82211  0.82211  1.0000
+  Fe  Fe1       1.0  0.50000  0.24321  0.75679  1.0000
+  Fe  Fe2       1.0  0.50000  0.75679  0.24321  1.0000
+  Fe  Fe3       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe4       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe5       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe6       1.0  0.50000  0.00000  0.50000  1.0000

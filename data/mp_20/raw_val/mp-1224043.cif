@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       In4Ag2S6Br2
+_chemical_formula_sum              "In4 Ag2 S6 Br2"
+_cell_length_a       7.8079
+_cell_length_b       7.8079
+_cell_length_c       7.8079
+_cell_angle_alpha    60.9931
+_cell_angle_beta     60.9931
+_cell_angle_gamma    60.9931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.00000  0.00000  0.00000  1.0000
+  In  In2       1.0  0.00000  0.50000  0.00000  1.0000
+  In  In3       1.0  0.50000  0.00000  0.00000  1.0000
+  In  In4       1.0  0.00000  0.00000  0.50000  1.0000
+  Ag  Ag1       1.0  0.58053  0.58053  0.58053  1.0000
+  Ag  Ag2       1.0  0.41947  0.41947  0.41947  1.0000
+  S   S1        1.0  0.24107  0.79218  0.24107  1.0000
+  S   S2        1.0  0.79218  0.24107  0.24107  1.0000
+  S   S3        1.0  0.24107  0.24107  0.79218  1.0000
+  S   S4        1.0  0.75893  0.20782  0.75893  1.0000
+  S   S5        1.0  0.20782  0.75893  0.75893  1.0000
+  S   S6        1.0  0.75893  0.75893  0.20782  1.0000
+  Br  Br1       1.0  0.26167  0.26167  0.26167  1.0000
+  Br  Br2       1.0  0.73833  0.73833  0.73833  1.0000

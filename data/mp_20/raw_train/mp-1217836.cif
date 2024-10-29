@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ta3V3Si12
+_chemical_formula_sum              "Ta3 V3 Si12"
+_cell_length_a       13.0053
+_cell_length_b       4.6819
+_cell_length_c       4.70432
+_cell_angle_alpha    60.3972
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.08263  0.50000  0.50000  1.0000
+  Ta  Ta2       1.0  0.58538  0.50000  0.50000  1.0000
+  Ta  Ta3       1.0  0.24857  0.00000  0.50000  1.0000
+  V   V1        1.0  0.74903  0.00000  0.50000  1.0000
+  V   V2        1.0  0.41839  0.50000  0.00000  1.0000
+  V   V3        1.0  0.91603  0.50000  0.00000  1.0000
+  Si  Si1       1.0  0.07851  0.83448  0.84506  1.0000
+  Si  Si2       1.0  0.58468  0.83655  0.83761  1.0000
+  Si  Si3       1.0  0.25328  0.32322  0.84393  1.0000
+  Si  Si4       1.0  0.75337  0.32108  0.84681  1.0000
+  Si  Si5       1.0  0.41786  0.84226  0.31617  1.0000
+  Si  Si6       1.0  0.91229  0.84504  0.32345  1.0000
+  Si  Si7       1.0  0.07851  0.16552  0.15494  1.0000
+  Si  Si8       1.0  0.58468  0.16345  0.16240  1.0000
+  Si  Si9       1.0  0.25328  0.67678  0.15607  1.0000
+  Si  Si10      1.0  0.75337  0.67892  0.15319  1.0000
+  Si  Si11      1.0  0.41786  0.15774  0.68383  1.0000
+  Si  Si12      1.0  0.91229  0.15496  0.67655  1.0000

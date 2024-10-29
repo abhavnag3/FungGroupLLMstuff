@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr3MnCo8
+_chemical_formula_sum              "Zr3 Mn1 Co8"
+_cell_length_a       4.80736
+_cell_length_b       4.80736
+_cell_length_c       8.30857
+_cell_angle_alpha    106.816
+_cell_angle_beta     73.1839
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.37716  0.62284  0.86853  1.0000
+  Zr  Zr2       1.0  0.98953  0.01047  0.03141  1.0000
+  Zr  Zr3       1.0  0.50690  0.49310  0.47929  1.0000
+  Mn  Mn1       1.0  0.86351  0.13649  0.40948  1.0000
+  Co  Co1       1.0  0.43720  0.56280  0.18732  1.0000
+  Co  Co2       1.0  0.94046  0.05953  0.67814  1.0000
+  Co  Co3       1.0  0.43720  0.06171  0.18732  1.0000
+  Co  Co4       1.0  0.94046  0.55907  0.67814  1.0000
+  Co  Co5       1.0  0.18945  0.81055  0.43164  1.0000
+  Co  Co6       1.0  0.68892  0.31108  0.93324  1.0000
+  Co  Co7       1.0  0.93829  0.56280  0.18732  1.0000
+  Co  Co8       1.0  0.44093  0.05953  0.67814  1.0000

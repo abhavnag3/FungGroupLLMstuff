@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Rb4
+_chemical_formula_sum              "Rb4"
+_cell_length_a       12.4272
+_cell_length_b       9.20356
+_cell_length_c       9.06211
+_cell_angle_alpha    85.7399
+_cell_angle_beta     47.608
+_cell_angle_gamma    46.652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.13251  0.86749  0.13251  1.0000
+  Rb  Rb2       1.0  0.11749  0.38251  0.11749  1.0000
+  Rb  Rb3       1.0  0.86749  0.13251  0.86749  1.0000
+  Rb  Rb4       1.0  0.38251  0.11749  0.38251  1.0000

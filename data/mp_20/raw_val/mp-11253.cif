@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Na4Sn4Au4
+_chemical_formula_sum              "Na4 Sn4 Au4"
+_cell_length_a       4.6372
+_cell_length_b       7.60807
+_cell_length_c       8.26895
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000  0.01660  0.82711  1.0000
+  Na  Na2       1.0  0.25000  0.51660  0.67289  1.0000
+  Na  Na3       1.0  0.75000  0.48340  0.32711  1.0000
+  Na  Na4       1.0  0.75000  0.98340  0.17289  1.0000
+  Sn  Sn1       1.0  0.25000  0.65957  0.06188  1.0000
+  Sn  Sn2       1.0  0.25000  0.15957  0.43811  1.0000
+  Sn  Sn3       1.0  0.75000  0.84043  0.56188  1.0000
+  Sn  Sn4       1.0  0.75000  0.34043  0.93812  1.0000
+  Au  Au1       1.0  0.75000  0.70988  0.87440  1.0000
+  Au  Au2       1.0  0.25000  0.29012  0.12560  1.0000
+  Au  Au3       1.0  0.25000  0.79012  0.37440  1.0000
+  Au  Au4       1.0  0.75000  0.20988  0.62560  1.0000

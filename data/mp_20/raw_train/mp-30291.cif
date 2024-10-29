@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Tb4Se3N2
+_chemical_formula_sum              "Tb4 Se3 N2"
+_cell_length_a       6.98604
+_cell_length_b       6.98604
+_cell_length_c       10.3706
+_cell_angle_alpha    52.1685
+_cell_angle_beta     52.1685
+_cell_angle_gamma    32.8683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.44225  0.44225  0.84898  1.0000
+  Tb  Tb2       1.0  0.55775  0.55775  0.15102  1.0000
+  Tb  Tb3       1.0  0.75595  0.75595  0.36063  1.0000
+  Tb  Tb4       1.0  0.24405  0.24405  0.63937  1.0000
+  Se  Se1       1.0  0.83477  0.83477  0.77186  1.0000
+  Se  Se2       1.0  0.00000  0.00000  0.00000  1.0000
+  Se  Se3       1.0  0.16523  0.16523  0.22814  1.0000
+  N   N1        1.0  0.35115  0.35115  0.36223  1.0000
+  N   N2        1.0  0.64885  0.64885  0.63777  1.0000

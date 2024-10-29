@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2V2F10
+_chemical_formula_sum              "Mg2 V2 F10"
+_cell_length_a       5.32449
+_cell_length_b       5.32449
+_cell_length_c       7.56664
+_cell_angle_alpha    68.8625
+_cell_angle_beta     68.8625
+_cell_angle_gamma    71.5442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.52784  0.47216  0.25000  1.0000
+  Mg  Mg2       1.0  0.47216  0.52784  0.75000  1.0000
+  V   V1        1.0  0.00000  0.00000  0.50000  1.0000
+  V   V2        1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.12762  0.87238  0.75000  1.0000
+  F   F2        1.0  0.87238  0.12762  0.25000  1.0000
+  F   F3        1.0  0.22245  0.27476  0.87088  1.0000
+  F   F4        1.0  0.72524  0.77755  0.62912  1.0000
+  F   F5        1.0  0.71206  0.32113  0.55307  1.0000
+  F   F6        1.0  0.67887  0.28794  0.94693  1.0000
+  F   F7        1.0  0.28794  0.67887  0.44693  1.0000
+  F   F8        1.0  0.32113  0.71206  0.05307  1.0000
+  F   F9        1.0  0.27476  0.22245  0.37088  1.0000
+  F   F10       1.0  0.77755  0.72524  0.12912  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Ge2Pt2
+_chemical_formula_sum              "Sm2 Ge2 Pt2"
+_cell_length_a       4.40663
+_cell_length_b       5.79655
+_cell_length_c       5.72389
+_cell_angle_alpha    94.2916
+_cell_angle_beta     112.64
+_cell_angle_gamma    67.6597
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.76318  0.68912  0.21547  1.0000
+  Sm  Sm2       1.0  0.23682  0.31088  0.78453  1.0000
+  Ge  Ge1       1.0  0.06586  0.09588  0.22760  1.0000
+  Ge  Ge2       1.0  0.93414  0.90412  0.77240  1.0000
+  Pt  Pt1       1.0  0.54098  0.27940  0.36136  1.0000
+  Pt  Pt2       1.0  0.45902  0.72060  0.63864  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Fe2Ni2O6
+_chemical_formula_sum              "Fe2 Ni2 O6"
+_cell_length_a       5.05172
+_cell_length_b       5.43157
+_cell_length_c       5.05173
+_cell_angle_alpha    62.2875
+_cell_angle_beta     59.9992
+_cell_angle_gamma    89.9993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.14773  0.44319  0.70454  1.0000
+  Fe  Fe2       1.0  0.84888  0.54663  0.30225  1.0000
+  Ni  Ni1       1.0  0.64698  0.94095  0.70603  1.0000
+  Ni  Ni2       1.0  0.34966  0.04898  0.30069  1.0000
+  O   O1        1.0  0.45076  0.25893  0.49367  1.0000
+  O   O2        1.0  0.22956  0.74783  0.20706  1.0000
+  O   O3        1.0  0.95489  0.74783  0.81555  1.0000
+  O   O4        1.0  0.05558  0.25892  0.19183  1.0000
+  O   O5        1.0  0.75259  0.25892  0.79666  1.0000
+  O   O6        1.0  0.56338  0.74782  0.48173  1.0000

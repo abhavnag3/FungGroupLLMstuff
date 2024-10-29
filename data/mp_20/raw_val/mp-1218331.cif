@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr3CaSi8
+_chemical_formula_sum              "Sr3 Ca1 Si8"
+_cell_length_a       6.51389
+_cell_length_b       6.51389
+_cell_length_c       6.51389
+_cell_angle_alpha    89.6541
+_cell_angle_beta     89.6541
+_cell_angle_gamma    89.6541
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25113  0.74887  0.00000  1.0000
+  Sr  Sr2       1.0  0.00000  0.25113  0.74887  1.0000
+  Sr  Sr3       1.0  0.74887  0.00000  0.25113  1.0000
+  Ca  Ca1       1.0  0.50000  0.50000  0.50000  1.0000
+  Si  Si1       1.0  0.20487  0.20487  0.20487  1.0000
+  Si  Si2       1.0  0.54682  0.05135  0.69998  1.0000
+  Si  Si3       1.0  0.69998  0.54682  0.05135  1.0000
+  Si  Si4       1.0  0.05135  0.69998  0.54682  1.0000
+  Si  Si5       1.0  0.79513  0.79513  0.79513  1.0000
+  Si  Si6       1.0  0.30002  0.94865  0.45319  1.0000
+  Si  Si7       1.0  0.94865  0.45319  0.30002  1.0000
+  Si  Si8       1.0  0.45319  0.30002  0.94865  1.0000

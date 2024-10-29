@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta2Fe2O8
+_chemical_formula_sum              "Ta2 Fe2 O8"
+_cell_length_a       6.64096
+_cell_length_b       6.64096
+_cell_length_c       6.73439
+_cell_angle_alpha    73.2328
+_cell_angle_beta     73.2328
+_cell_angle_gamma    34.0418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.89591  0.89590  0.22332  1.0000
+  Ta  Ta2       1.0  0.10409  0.10409  0.77668  1.0000
+  Fe  Fe1       1.0  0.80325  0.80325  0.80708  1.0000
+  Fe  Fe2       1.0  0.19675  0.19675  0.19292  1.0000
+  O   O1        1.0  0.94552  0.94552  0.86893  1.0000
+  O   O2        1.0  0.86404  0.86404  0.50818  1.0000
+  O   O3        1.0  0.63411  0.63411  0.79733  1.0000
+  O   O4        1.0  0.74436  0.74436  0.14760  1.0000
+  O   O5        1.0  0.25564  0.25564  0.85240  1.0000
+  O   O6        1.0  0.36589  0.36589  0.20267  1.0000
+  O   O7        1.0  0.13596  0.13596  0.49182  1.0000
+  O   O8        1.0  0.05448  0.05448  0.13107  1.0000

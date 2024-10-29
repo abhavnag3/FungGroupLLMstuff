@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ni4Ge3As9
+_chemical_formula_sum              "Ni4 Ge3 As9"
+_cell_length_a       7.23282
+_cell_length_b       7.23282
+_cell_length_c       8.28778
+_cell_angle_alpha    55.0292
+_cell_angle_beta     55.0292
+_cell_angle_gamma    71.2125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00087  0.50097  0.49830  1.0000
+  Ni  Ni2       1.0  0.50097  0.00087  0.49830  1.0000
+  Ni  Ni3       1.0  0.99713  0.50068  0.00211  1.0000
+  Ni  Ni4       1.0  0.50068  0.99713  0.00211  1.0000
+  Ge  Ge1       1.0  0.65528  0.65528  0.49549  1.0000
+  Ge  Ge2       1.0  0.34432  0.34432  0.50496  1.0000
+  Ge  Ge3       1.0  0.34448  0.34448  0.80728  1.0000
+  As  As1       1.0  0.65470  0.65470  0.19559  1.0000
+  As  As2       1.0  0.80823  0.49593  0.84678  1.0000
+  As  As3       1.0  0.19434  0.50358  0.15142  1.0000
+  As  As4       1.0  0.49593  0.80823  0.84678  1.0000
+  As  As5       1.0  0.50358  0.19434  0.15142  1.0000
+  As  As6       1.0  0.15398  0.84732  0.65595  1.0000
+  As  As7       1.0  0.84726  0.15093  0.34378  1.0000
+  As  As8       1.0  0.15093  0.84726  0.34378  1.0000
+  As  As9       1.0  0.84732  0.15398  0.65595  1.0000

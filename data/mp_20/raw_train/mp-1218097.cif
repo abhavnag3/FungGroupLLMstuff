@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ta4MoSe10
+_chemical_formula_sum              "Ta4 Mo1 Se10"
+_cell_length_a       3.44368
+_cell_length_b       3.44368
+_cell_length_c       33.9796
+_cell_angle_alpha    87.0954
+_cell_angle_beta     90
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.39987  0.20025  0.19962  1.0000
+  Ta  Ta2       1.0  0.79995  0.40010  0.39985  1.0000
+  Ta  Ta3       1.0  0.19996  0.60009  0.59987  1.0000
+  Ta  Ta4       1.0  0.60003  0.79994  0.80008  1.0000
+  Mo  Mo1       1.0  0.99999  0.00002  0.99997  1.0000
+  Se  Se1       1.0  0.88322  0.23356  0.64965  1.0000
+  Se  Se2       1.0  0.28328  0.43343  0.84985  1.0000
+  Se  Se3       1.0  0.68267  0.63465  0.04802  1.0000
+  Se  Se4       1.0  0.08312  0.83376  0.24935  1.0000
+  Se  Se5       1.0  0.48322  0.03357  0.44965  1.0000
+  Se  Se6       1.0  0.04996  0.90009  0.14986  1.0000
+  Se  Se7       1.0  0.45002  0.09995  0.35007  1.0000
+  Se  Se8       1.0  0.85002  0.29995  0.55008  1.0000
+  Se  Se9       1.0  0.25009  0.49982  0.75027  1.0000
+  Se  Se10      1.0  0.65060  0.69880  0.95180  1.0000

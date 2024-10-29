@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tm4Ni4
+_chemical_formula_sum              "Tm4 Ni4"
+_cell_length_a       4.10291
+_cell_length_b       5.36576
+_cell_length_c       6.94965
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.25000  0.13351  0.18002  1.0000
+  Tm  Tm2       1.0  0.75000  0.86649  0.81998  1.0000
+  Tm  Tm3       1.0  0.75000  0.63351  0.31998  1.0000
+  Tm  Tm4       1.0  0.25000  0.36649  0.68002  1.0000
+  Ni  Ni1       1.0  0.25000  0.62819  0.03721  1.0000
+  Ni  Ni2       1.0  0.75000  0.37181  0.96279  1.0000
+  Ni  Ni3       1.0  0.75000  0.12819  0.46279  1.0000
+  Ni  Ni4       1.0  0.25000  0.87181  0.53721  1.0000

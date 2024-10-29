@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Yb10Pd4
+_chemical_formula_sum              "Yb10 Pd4"
+_cell_length_a       8.81183
+_cell_length_b       8.81183
+_cell_length_c       7.58078
+_cell_angle_alpha    83.1641
+_cell_angle_beta     83.1641
+_cell_angle_gamma    43.6839
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.02133  0.79701  0.91957  1.0000
+  Yb  Yb2       1.0  0.20299  0.97867  0.58043  1.0000
+  Yb  Yb3       1.0  0.97867  0.20299  0.08043  1.0000
+  Yb  Yb4       1.0  0.79701  0.02133  0.41957  1.0000
+  Yb  Yb5       1.0  0.36437  0.20156  0.81914  1.0000
+  Yb  Yb6       1.0  0.79844  0.63563  0.68086  1.0000
+  Yb  Yb7       1.0  0.63563  0.79844  0.18086  1.0000
+  Yb  Yb8       1.0  0.20156  0.36437  0.31914  1.0000
+  Yb  Yb9       1.0  0.57939  0.42061  0.75000  1.0000
+  Yb  Yb10      1.0  0.42061  0.57939  0.25000  1.0000
+  Pd  Pd1       1.0  0.18295  0.59657  0.58076  1.0000
+  Pd  Pd2       1.0  0.40343  0.81705  0.91924  1.0000
+  Pd  Pd3       1.0  0.81705  0.40343  0.41924  1.0000
+  Pd  Pd4       1.0  0.59657  0.18295  0.08076  1.0000

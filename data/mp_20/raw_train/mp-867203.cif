@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr4Cd2As4
+_chemical_formula_sum              "Sr4 Cd2 As4"
+_cell_length_a       8.83743
+_cell_length_b       8.83743
+_cell_length_c       7.68814
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.62
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.53415  0.46585  0.23599  1.0000
+  Sr  Sr2       1.0  0.70285  0.29715  0.89265  1.0000
+  Sr  Sr3       1.0  0.29715  0.70285  0.39265  1.0000
+  Sr  Sr4       1.0  0.46585  0.53415  0.73599  1.0000
+  Cd  Cd1       1.0  0.09597  0.90403  0.57799  1.0000
+  Cd  Cd2       1.0  0.90403  0.09597  0.07799  1.0000
+  As  As1       1.0  0.06333  0.93667  0.94188  1.0000
+  As  As2       1.0  0.67553  0.32447  0.48585  1.0000
+  As  As3       1.0  0.32447  0.67553  0.98585  1.0000
+  As  As4       1.0  0.93667  0.06333  0.44188  1.0000

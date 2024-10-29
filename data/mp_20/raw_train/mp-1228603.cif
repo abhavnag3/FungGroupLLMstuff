@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Al3Ga3Ni10
+_chemical_formula_sum              "Al3 Ga3 Ni10"
+_cell_length_a       3.72774
+_cell_length_b       5.00985
+_cell_length_c       10.019
+_cell_angle_alpha    97.0019
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.50000  0.27975  0.35847  1.0000
+  Al  Al2       1.0  0.50000  0.28115  0.86103  1.0000
+  Al  Al3       1.0  0.50000  0.71894  0.14012  1.0000
+  Ga  Ga1       1.0  0.50000  0.71919  0.64099  1.0000
+  Ga  Ga2       1.0  0.00000  0.00020  0.00005  1.0000
+  Ga  Ga3       1.0  0.00000  0.00280  0.49841  1.0000
+  Ni  Ni1       1.0  0.50000  0.77445  0.38622  1.0000
+  Ni  Ni2       1.0  0.50000  0.77506  0.88868  1.0000
+  Ni  Ni3       1.0  0.50000  0.22507  0.11242  1.0000
+  Ni  Ni4       1.0  0.50000  0.22539  0.61265  1.0000
+  Ni  Ni5       1.0  0.00000  0.99880  0.24910  1.0000
+  Ni  Ni6       1.0  0.00000  0.00095  0.75047  1.0000
+  Ni  Ni7       1.0  0.00000  0.50070  0.00082  1.0000
+  Ni  Ni8       1.0  0.00000  0.50033  0.49918  1.0000
+  Ni  Ni9       1.0  0.00000  0.49921  0.25000  1.0000
+  Ni  Ni10      1.0  0.00000  0.49802  0.75138  1.0000

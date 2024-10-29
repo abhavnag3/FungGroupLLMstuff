@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In2Ga4N6
+_chemical_formula_sum              "In2 Ga4 N6"
+_cell_length_a       5.77715
+_cell_length_b       5.77304
+_cell_length_c       5.3903
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.00000  0.67473  0.48970  1.0000
+  In  In2       1.0  0.00000  0.32527  0.98970  1.0000
+  Ga  Ga1       1.0  0.34094  0.33385  0.49257  1.0000
+  Ga  Ga2       1.0  0.65906  0.99291  0.49257  1.0000
+  Ga  Ga3       1.0  0.65906  0.66615  0.99257  1.0000
+  Ga  Ga4       1.0  0.34094  0.00709  0.99257  1.0000
+  N   N1        1.0  0.36050  0.33368  0.85888  1.0000
+  N   N2        1.0  0.63950  0.97317  0.85888  1.0000
+  N   N3        1.0  0.63950  0.66632  0.35888  1.0000
+  N   N4        1.0  0.36050  0.02683  0.35888  1.0000
+  N   N5        1.0  0.00000  0.69256  0.89539  1.0000
+  N   N6        1.0  0.00000  0.30745  0.39539  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi4Se4Cl4
+_chemical_formula_sum              "Bi4 Se4 Cl4"
+_cell_length_a       4.19158
+_cell_length_b       9.33547
+_cell_length_c       9.36168
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000  0.17086  0.92089  1.0000
+  Bi  Bi2       1.0  0.75000  0.32914  0.42089  1.0000
+  Bi  Bi3       1.0  0.75000  0.82914  0.07911  1.0000
+  Bi  Bi4       1.0  0.25000  0.67086  0.57911  1.0000
+  Se  Se1       1.0  0.25000  0.51918  0.32702  1.0000
+  Se  Se2       1.0  0.25000  0.01918  0.17298  1.0000
+  Se  Se3       1.0  0.75000  0.48082  0.67298  1.0000
+  Se  Se4       1.0  0.75000  0.98082  0.82702  1.0000
+  Cl  Cl1       1.0  0.75000  0.32959  0.06851  1.0000
+  Cl  Cl2       1.0  0.75000  0.82959  0.43149  1.0000
+  Cl  Cl3       1.0  0.25000  0.67041  0.93149  1.0000
+  Cl  Cl4       1.0  0.25000  0.17041  0.56851  1.0000

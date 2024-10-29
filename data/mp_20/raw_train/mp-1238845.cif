@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CsCr2S4
+_chemical_formula_sum              "Cs1 Cr2 S4"
+_cell_length_a       8.49482
+_cell_length_b       8.49482
+_cell_length_c       5.85242
+_cell_angle_alpha    77.0686
+_cell_angle_beta     77.0686
+_cell_angle_gamma    24.3516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.75435  0.75435  0.22905  1.0000
+  Cr  Cr2       1.0  0.24565  0.24565  0.77095  1.0000
+  S   S1        1.0  0.33726  0.33726  0.02712  1.0000
+  S   S2        1.0  0.66274  0.66274  0.97288  1.0000
+  S   S3        1.0  0.82385  0.82385  0.54451  1.0000
+  S   S4        1.0  0.17615  0.17615  0.45549  1.0000

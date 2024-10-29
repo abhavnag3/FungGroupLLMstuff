@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca2Tb2F12
+_chemical_formula_sum              "Ca2 Tb2 F12"
+_cell_length_a       5.47284
+_cell_length_b       5.47284
+_cell_length_c       7.96147
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.00000  0.00000  0.50000  1.0000
+  Tb  Tb1       1.0  0.50000  0.50000  0.75000  1.0000
+  Tb  Tb2       1.0  0.50000  0.50000  0.25000  1.0000
+  F   F1        1.0  0.75312  0.20108  0.17709  1.0000
+  F   F2        1.0  0.24688  0.79892  0.17709  1.0000
+  F   F3        1.0  0.20108  0.24688  0.67709  1.0000
+  F   F4        1.0  0.79892  0.75312  0.67709  1.0000
+  F   F5        1.0  0.24688  0.79892  0.82291  1.0000
+  F   F6        1.0  0.75312  0.20108  0.82291  1.0000
+  F   F7        1.0  0.79892  0.75312  0.32291  1.0000
+  F   F8        1.0  0.20108  0.24688  0.32291  1.0000
+  F   F9        1.0  0.31410  0.33652  0.00000  1.0000
+  F   F10       1.0  0.68590  0.66348  0.00000  1.0000
+  F   F11       1.0  0.33652  0.68590  0.50000  1.0000
+  F   F12       1.0  0.66348  0.31410  0.50000  1.0000

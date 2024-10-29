@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tc2H8N2O8
+_chemical_formula_sum              "Tc2 H8 N2 O8"
+_cell_length_a       7.6358
+_cell_length_b       7.6358
+_cell_length_c       7.6358
+_cell_angle_alpha    131.618
+_cell_angle_beta     131.618
+_cell_angle_gamma    70.833
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tc  Tc1       1.0  0.50000  0.50000  0.00000  1.0000
+  Tc  Tc2       1.0  0.25000  0.75000  0.50000  1.0000
+  H   H1        1.0  0.07308  0.18100  0.15545  1.0000
+  H   H2        1.0  0.93100  0.27555  0.60792  1.0000
+  H   H3        1.0  0.67692  0.06900  0.34455  1.0000
+  H   H4        1.0  0.81900  0.97445  0.89208  1.0000
+  H   H5        1.0  0.02555  0.91763  0.84455  1.0000
+  H   H6        1.0  0.72445  0.33237  0.65545  1.0000
+  H   H7        1.0  0.66763  0.32308  0.39208  1.0000
+  H   H8        1.0  0.08237  0.92692  0.10792  1.0000
+  N   N1        1.0  0.75000  0.25000  0.50000  1.0000
+  N   N2        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.26951  0.46483  0.39536  1.0000
+  O   O2        1.0  0.62415  0.51951  0.30468  1.0000
+  O   O3        1.0  0.48049  0.78517  0.10464  1.0000
+  O   O4        1.0  0.53517  0.93054  0.80468  1.0000
+  O   O5        1.0  0.12585  0.73049  0.19532  1.0000
+  O   O6        1.0  0.06946  0.87415  0.60464  1.0000
+  O   O7        1.0  0.21483  0.31946  0.69532  1.0000
+  O   O8        1.0  0.68054  0.37585  0.89536  1.0000

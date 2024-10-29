@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ho4Fe2C8
+_chemical_formula_sum              "Ho4 Fe2 C8"
+_cell_length_a       5.00307
+_cell_length_b       6.55146
+_cell_length_c       6.55146
+_cell_angle_alpha    69.2665
+_cell_angle_beta     67.553
+_cell_angle_gamma    67.553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.14469  0.51146  0.19915  1.0000
+  Ho  Ho2       1.0  0.85531  0.48854  0.80085  1.0000
+  Ho  Ho3       1.0  0.64469  0.19915  0.51146  1.0000
+  Ho  Ho4       1.0  0.35531  0.80085  0.48854  1.0000
+  Fe  Fe1       1.0  0.25000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.75000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.37123  0.46707  0.79047  1.0000
+  C   C2        1.0  0.62877  0.53293  0.20953  1.0000
+  C   C3        1.0  0.87123  0.79047  0.46707  1.0000
+  C   C4        1.0  0.12877  0.20953  0.53293  1.0000
+  C   C5        1.0  0.42236  0.24340  0.91188  1.0000
+  C   C6        1.0  0.57764  0.75660  0.08812  1.0000
+  C   C7        1.0  0.92236  0.91188  0.24340  1.0000
+  C   C8        1.0  0.07764  0.08812  0.75660  1.0000

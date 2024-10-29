@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti4Si4Ni4
+_chemical_formula_sum              "Ti4 Si4 Ni4"
+_cell_length_a       3.65719
+_cell_length_b       6.14702
+_cell_length_c       7.01543
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.25000  0.52266  0.31933  1.0000
+  Ti  Ti2       1.0  0.75000  0.97734  0.81933  1.0000
+  Ti  Ti3       1.0  0.75000  0.47734  0.68067  1.0000
+  Ti  Ti4       1.0  0.25000  0.02266  0.18067  1.0000
+  Si  Si1       1.0  0.75000  0.73391  0.12214  1.0000
+  Si  Si2       1.0  0.25000  0.26609  0.87786  1.0000
+  Si  Si3       1.0  0.25000  0.76609  0.62214  1.0000
+  Si  Si4       1.0  0.75000  0.23391  0.37786  1.0000
+  Ni  Ni1       1.0  0.75000  0.35871  0.06012  1.0000
+  Ni  Ni2       1.0  0.75000  0.85871  0.43988  1.0000
+  Ni  Ni3       1.0  0.25000  0.64129  0.93988  1.0000
+  Ni  Ni4       1.0  0.25000  0.14129  0.56012  1.0000

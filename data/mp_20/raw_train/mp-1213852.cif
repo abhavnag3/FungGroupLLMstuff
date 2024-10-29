@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ce4Si10Pd6
+_chemical_formula_sum              "Ce4 Si10 Pd6"
+_cell_length_a       8.30934
+_cell_length_b       8.30934
+_cell_length_c       8.30934
+_cell_angle_alpha    137.428
+_cell_angle_beta     106.298
+_cell_angle_gamma    89.0223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.63849  0.37219  0.26629  1.0000
+  Ce  Ce2       1.0  0.36151  0.62781  0.73371  1.0000
+  Ce  Ce3       1.0  0.10590  0.87219  0.23371  1.0000
+  Ce  Ce4       1.0  0.89410  0.12781  0.76629  1.0000
+  Si  Si1       1.0  0.46510  0.11448  0.35062  1.0000
+  Si  Si2       1.0  0.53490  0.88552  0.64938  1.0000
+  Si  Si3       1.0  0.76386  0.61448  0.14938  1.0000
+  Si  Si4       1.0  0.23614  0.38552  0.85062  1.0000
+  Si  Si5       1.0  0.27399  0.52399  0.25000  1.0000
+  Si  Si6       1.0  0.72601  0.47601  0.75000  1.0000
+  Si  Si7       1.0  0.72601  0.97601  0.25000  1.0000
+  Si  Si8       1.0  0.27399  0.02399  0.75000  1.0000
+  Si  Si9       1.0  0.00000  0.25000  0.25000  1.0000
+  Si  Si10      1.0  0.00000  0.75000  0.75000  1.0000
+  Pd  Pd1       1.0  0.50000  0.25000  0.75000  1.0000
+  Pd  Pd2       1.0  0.50000  0.75000  0.25000  1.0000
+  Pd  Pd3       1.0  0.24725  0.13790  0.10935  1.0000
+  Pd  Pd4       1.0  0.75275  0.86210  0.89065  1.0000
+  Pd  Pd5       1.0  0.02854  0.63790  0.39065  1.0000
+  Pd  Pd6       1.0  0.97146  0.36210  0.60935  1.0000

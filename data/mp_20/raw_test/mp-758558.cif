@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sb2N2O2
+_chemical_formula_sum              "Sb2 N2 O2"
+_cell_length_a       8.79253
+_cell_length_b       8.79253
+_cell_length_c       3.34362
+_cell_angle_alpha    87.8283
+_cell_angle_beta     87.8283
+_cell_angle_gamma    27.5964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.82819  0.82819  0.98236  1.0000
+  Sb  Sb2       1.0  0.17181  0.17181  0.01764  1.0000
+  N   N1        1.0  0.46760  0.46760  0.48356  1.0000
+  N   N2        1.0  0.53240  0.53240  0.51644  1.0000
+  O   O1        1.0  0.70864  0.70864  0.04172  1.0000
+  O   O2        1.0  0.29136  0.29136  0.95828  1.0000

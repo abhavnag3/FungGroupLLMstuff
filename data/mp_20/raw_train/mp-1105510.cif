@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn4Cr2Sb2O12
+_chemical_formula_sum              "Mn4 Cr2 Sb2 O12"
+_cell_length_a       5.30654
+_cell_length_b       5.45685
+_cell_length_c       7.68555
+_cell_angle_alpha    89.9021
+_cell_angle_beta     90.2729
+_cell_angle_gamma    89.9854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.98794  0.94756  0.25229  1.0000
+  Mn  Mn2       1.0  0.01203  0.05240  0.74772  1.0000
+  Mn  Mn3       1.0  0.48816  0.55203  0.75202  1.0000
+  Mn  Mn4       1.0  0.51186  0.44798  0.24799  1.0000
+  Cr  Cr1       1.0  0.00004  0.49996  0.49997  1.0000
+  Cr  Cr2       1.0  0.49995  0.00001  0.99997  1.0000
+  Sb  Sb1       1.0  0.50000  0.99999  0.49999  1.0000
+  Sb  Sb2       1.0  0.99997  0.49999  0.00000  1.0000
+  O   O1        1.0  0.18995  0.80853  0.56144  1.0000
+  O   O2        1.0  0.68954  0.69066  0.06132  1.0000
+  O   O3        1.0  0.81007  0.19146  0.43857  1.0000
+  O   O4        1.0  0.31045  0.30940  0.93869  1.0000
+  O   O5        1.0  0.18711  0.80546  0.93354  1.0000
+  O   O6        1.0  0.68675  0.69440  0.43349  1.0000
+  O   O7        1.0  0.81284  0.19454  0.06647  1.0000
+  O   O8        1.0  0.31330  0.30559  0.56654  1.0000
+  O   O9        1.0  0.62012  0.94308  0.74835  1.0000
+  O   O10       1.0  0.12052  0.55687  0.24826  1.0000
+  O   O11       1.0  0.37987  0.05696  0.25164  1.0000
+  O   O12       1.0  0.87951  0.44314  0.75174  1.0000

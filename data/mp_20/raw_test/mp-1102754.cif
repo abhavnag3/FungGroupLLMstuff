@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       U3Fe4Ge4
+_chemical_formula_sum              "U3 Fe4 Ge4"
+_cell_length_a       4.11453
+_cell_length_b       6.48611
+_cell_length_c       7.88879
+_cell_angle_alpha    114.274
+_cell_angle_beta     105.117
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.00000  0.00000  0.00000  1.0000
+  U   U2        1.0  0.13704  0.63704  0.27409  1.0000
+  U   U3        1.0  0.86296  0.36296  0.72591  1.0000
+  Fe  Fe1       1.0  0.67577  0.97046  0.35154  1.0000
+  Fe  Fe2       1.0  0.32423  0.02954  0.64846  1.0000
+  Fe  Fe3       1.0  0.32423  0.61892  0.64846  1.0000
+  Fe  Fe4       1.0  0.67577  0.38108  0.35154  1.0000
+  Ge  Ge1       1.0  0.79246  0.79246  0.58493  1.0000
+  Ge  Ge2       1.0  0.20754  0.20754  0.41507  1.0000
+  Ge  Ge3       1.0  0.50000  0.69897  0.00000  1.0000
+  Ge  Ge4       1.0  0.50000  0.30103  0.00000  1.0000

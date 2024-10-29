@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pd2Se4O10
+_chemical_formula_sum              "Pd2 Se4 O10"
+_cell_length_a       6.99528
+_cell_length_b       6.99528
+_cell_length_c       7.48924
+_cell_angle_alpha    74.7063
+_cell_angle_beta     74.7063
+_cell_angle_gamma    49.8708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.00000  0.00000  0.50000  1.0000
+  Pd  Pd2       1.0  0.00000  0.00000  0.00000  1.0000
+  Se  Se1       1.0  0.52209  0.74622  0.68464  1.0000
+  Se  Se2       1.0  0.25378  0.47791  0.81536  1.0000
+  Se  Se3       1.0  0.74622  0.52209  0.18464  1.0000
+  Se  Se4       1.0  0.47791  0.25378  0.31536  1.0000
+  O   O1        1.0  0.90767  0.34247  0.37273  1.0000
+  O   O2        1.0  0.65753  0.09233  0.12727  1.0000
+  O   O3        1.0  0.09233  0.65753  0.62727  1.0000
+  O   O4        1.0  0.34247  0.90767  0.87273  1.0000
+  O   O5        1.0  0.46914  0.53086  0.25000  1.0000
+  O   O6        1.0  0.53086  0.46914  0.75000  1.0000
+  O   O7        1.0  0.34499  0.90459  0.50255  1.0000
+  O   O8        1.0  0.09541  0.65501  0.99745  1.0000
+  O   O9        1.0  0.65501  0.09541  0.49745  1.0000
+  O   O10       1.0  0.90459  0.34499  0.00255  1.0000

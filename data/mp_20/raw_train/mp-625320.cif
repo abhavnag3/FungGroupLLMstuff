@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Al2H6O6
+_chemical_formula_sum              "Al2 H6 O6"
+_cell_length_a       5.0629
+_cell_length_b       5.14667
+_cell_length_c       5.59664
+_cell_angle_alpha    64.6215
+_cell_angle_beta     64.6059
+_cell_angle_gamma    61.4388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.32521  0.33310  0.00671  1.0000
+  Al  Al2       1.0  0.67479  0.66690  0.99330  1.0000
+  H   H1        1.0  0.49747  0.84620  0.40526  1.0000
+  H   H2        1.0  0.50253  0.15380  0.59474  1.0000
+  H   H3        1.0  0.15273  0.62530  0.36685  1.0000
+  H   H4        1.0  0.84727  0.37470  0.63315  1.0000
+  H   H5        1.0  0.89303  0.13614  0.22862  1.0000
+  H   H6        1.0  0.10697  0.86387  0.77138  1.0000
+  O   O1        1.0  0.56586  0.93618  0.20748  1.0000
+  O   O2        1.0  0.43414  0.06382  0.79252  1.0000
+  O   O3        1.0  0.31234  0.55433  0.20929  1.0000
+  O   O4        1.0  0.68766  0.44567  0.79071  1.0000
+  O   O5        1.0  0.91984  0.31375  0.22323  1.0000
+  O   O6        1.0  0.08016  0.68625  0.77677  1.0000

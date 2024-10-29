@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mo2As3P
+_chemical_formula_sum              "Mo2 As3 P1"
+_cell_length_a       4.79099
+_cell_length_b       4.79099
+_cell_length_c       7.76165
+_cell_angle_alpha    62.1266
+_cell_angle_beta     62.1266
+_cell_angle_gamma    40.0544
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.84633  0.84633  0.20700  1.0000
+  Mo  Mo2       1.0  0.16311  0.16311  0.78898  1.0000
+  As  As1       1.0  0.59964  0.59964  0.10971  1.0000
+  As  As2       1.0  0.40674  0.40674  0.89130  1.0000
+  As  As3       1.0  0.13425  0.13425  0.47433  1.0000
+  P   P1        1.0  0.84992  0.84992  0.52868  1.0000

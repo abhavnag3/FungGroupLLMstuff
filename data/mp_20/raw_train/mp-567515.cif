@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Rb2Hg2PdBr8
+_chemical_formula_sum              "Rb2 Hg2 Pd1 Br8"
+_cell_length_a       7.17313
+_cell_length_b       7.17313
+_cell_length_c       10.7897
+_cell_angle_alpha    73.2663
+_cell_angle_beta     73.2663
+_cell_angle_gamma    62.6466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.60296  0.60296  0.16662  1.0000
+  Rb  Rb2       1.0  0.39704  0.39704  0.83338  1.0000
+  Hg  Hg1       1.0  0.86763  0.86763  0.39179  1.0000
+  Hg  Hg2       1.0  0.13237  0.13237  0.60821  1.0000
+  Pd  Pd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Br  Br1       1.0  0.65278  0.65278  0.49941  1.0000
+  Br  Br2       1.0  0.10194  0.63376  0.13238  1.0000
+  Br  Br3       1.0  0.91648  0.91648  0.69307  1.0000
+  Br  Br4       1.0  0.08352  0.08352  0.30693  1.0000
+  Br  Br5       1.0  0.34722  0.34722  0.50059  1.0000
+  Br  Br6       1.0  0.89806  0.36624  0.86762  1.0000
+  Br  Br7       1.0  0.36624  0.89806  0.86762  1.0000
+  Br  Br8       1.0  0.63376  0.10194  0.13238  1.0000

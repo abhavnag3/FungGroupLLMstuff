@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr4B2C2
+_chemical_formula_sum              "Pr4 B2 C2"
+_cell_length_a       6.96873
+_cell_length_b       6.96873
+_cell_length_c       9.66562
+_cell_angle_alpha    50.2848
+_cell_angle_beta     50.2848
+_cell_angle_gamma    30.8798
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.79298  0.79298  0.61764  1.0000
+  Pr  Pr2       1.0  0.20702  0.20702  0.38237  1.0000
+  Pr  Pr3       1.0  0.44072  0.44072  0.85952  1.0000
+  Pr  Pr4       1.0  0.55928  0.55928  0.14048  1.0000
+  B   B1        1.0  0.07365  0.07365  0.89238  1.0000
+  B   B2        1.0  0.92635  0.92635  0.10762  1.0000
+  C   C1        1.0  0.87370  0.87370  0.30089  1.0000
+  C   C2        1.0  0.12630  0.12630  0.69911  1.0000

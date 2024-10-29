@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       YMg5
+_chemical_formula_sum              "Y1 Mg5"
+_cell_length_a       8.70612
+_cell_length_b       8.70612
+_cell_length_c       5.36691
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    158.393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.77864  0.22136  0.00000  1.0000
+  Mg  Mg1       1.0  0.99971  0.00029  0.50000  1.0000
+  Mg  Mg2       1.0  0.33427  0.66573  0.50000  1.0000
+  Mg  Mg3       1.0  0.66561  0.33439  0.50000  1.0000
+  Mg  Mg4       1.0  0.10917  0.89083  0.00000  1.0000
+  Mg  Mg5       1.0  0.44594  0.55406  0.00000  1.0000

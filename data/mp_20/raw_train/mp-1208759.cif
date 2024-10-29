@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Nd2Ta2O12
+_chemical_formula_sum              "Sr4 Nd2 Ta2 O12"
+_cell_length_a       5.89695
+_cell_length_b       6.07715
+_cell_length_c       8.44091
+_cell_angle_alpha    90
+_cell_angle_beta     90.1687
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.01188  0.45440  0.25334  1.0000
+  Sr  Sr2       1.0  0.98812  0.54560  0.74666  1.0000
+  Sr  Sr3       1.0  0.48812  0.95440  0.24666  1.0000
+  Sr  Sr4       1.0  0.51188  0.04560  0.75334  1.0000
+  Nd  Nd1       1.0  0.00000  0.00000  0.50000  1.0000
+  Nd  Nd2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ta  Ta1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ta  Ta2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.90609  0.03739  0.22866  1.0000
+  O   O2        1.0  0.09391  0.96261  0.77134  1.0000
+  O   O3        1.0  0.59391  0.53739  0.27134  1.0000
+  O   O4        1.0  0.40609  0.46261  0.72866  1.0000
+  O   O5        1.0  0.18293  0.72728  0.05608  1.0000
+  O   O6        1.0  0.81707  0.27272  0.94392  1.0000
+  O   O7        1.0  0.31707  0.22728  0.44392  1.0000
+  O   O8        1.0  0.68293  0.77272  0.55608  1.0000
+  O   O9        1.0  0.27601  0.18578  0.04435  1.0000
+  O   O10       1.0  0.72399  0.81422  0.95565  1.0000
+  O   O11       1.0  0.22399  0.68578  0.45565  1.0000
+  O   O12       1.0  0.77601  0.31422  0.54435  1.0000

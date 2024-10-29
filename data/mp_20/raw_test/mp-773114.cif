@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ce2U3O10
+_chemical_formula_sum              "Ce2 U3 O10"
+_cell_length_a       6.66931
+_cell_length_b       6.66931
+_cell_length_c       8.58521
+_cell_angle_alpha    49.9118
+_cell_angle_beta     49.9118
+_cell_angle_gamma    48.1943
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.30075  0.30075  0.09914  1.0000
+  Ce  Ce2       1.0  0.69925  0.69925  0.90086  1.0000
+  U   U1        1.0  0.09983  0.09983  0.69993  1.0000
+  U   U2        1.0  0.50000  0.50000  0.50000  1.0000
+  U   U3        1.0  0.90017  0.90017  0.30007  1.0000
+  O   O1        1.0  0.65968  0.15671  0.78716  1.0000
+  O   O2        1.0  0.15672  0.65968  0.78716  1.0000
+  O   O3        1.0  0.45327  0.94556  0.40553  1.0000
+  O   O4        1.0  0.94556  0.45327  0.40553  1.0000
+  O   O5        1.0  0.84329  0.34032  0.21284  1.0000
+  O   O6        1.0  0.24118  0.75882  0.00000  1.0000
+  O   O7        1.0  0.34032  0.84328  0.21284  1.0000
+  O   O8        1.0  0.75882  0.24118  0.00000  1.0000
+  O   O9        1.0  0.05444  0.54673  0.59447  1.0000
+  O   O10       1.0  0.54673  0.05444  0.59447  1.0000

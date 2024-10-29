@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       U4As2Se2
+_chemical_formula_sum              "U4 As2 Se2"
+_cell_length_a       7.07824
+_cell_length_b       7.07824
+_cell_length_c       5.77522
+_cell_angle_alpha    65.9827
+_cell_angle_beta     65.9827
+_cell_angle_gamma    48.1953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.87377  0.87377  0.88037  1.0000
+  U   U2        1.0  0.37582  0.37582  0.37045  1.0000
+  U   U3        1.0  0.12623  0.12623  0.11963  1.0000
+  U   U4        1.0  0.62418  0.62418  0.62955  1.0000
+  As  As1       1.0  0.62470  0.62470  0.13042  1.0000
+  As  As2       1.0  0.37530  0.37530  0.86958  1.0000
+  Se  Se1       1.0  0.12486  0.12486  0.62705  1.0000
+  Se  Se2       1.0  0.87514  0.87514  0.37295  1.0000

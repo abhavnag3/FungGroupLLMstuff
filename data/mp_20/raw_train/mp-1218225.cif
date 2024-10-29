@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2La2Cu2Sb2O12
+_chemical_formula_sum              "Sr2 La2 Cu2 Sb2 O12"
+_cell_length_a       5.56386
+_cell_length_b       5.51693
+_cell_length_c       10.1862
+_cell_angle_alpha    58.1638
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.78157  0.76571  0.74811  1.0000
+  Sr  Sr2       1.0  0.21843  0.76571  0.24811  1.0000
+  La  La1       1.0  0.71006  0.22525  0.25389  1.0000
+  La  La2       1.0  0.28994  0.22525  0.75389  1.0000
+  Cu  Cu1       1.0  0.75265  0.00492  0.99785  1.0000
+  Cu  Cu2       1.0  0.24735  0.00492  0.49785  1.0000
+  Sb  Sb1       1.0  0.75066  0.49915  0.50037  1.0000
+  Sb  Sb2       1.0  0.24934  0.49915  0.00037  1.0000
+  O   O1        1.0  0.23681  0.62949  0.77755  1.0000
+  O   O2        1.0  0.76319  0.62949  0.27755  1.0000
+  O   O3        1.0  0.27200  0.34655  0.22479  1.0000
+  O   O4        1.0  0.72800  0.34655  0.72479  1.0000
+  O   O5        1.0  0.52778  0.17395  0.54448  1.0000
+  O   O6        1.0  0.47222  0.17395  0.04448  1.0000
+  O   O7        1.0  0.95950  0.83915  0.45255  1.0000
+  O   O8        1.0  0.04050  0.83915  0.95255  1.0000
+  O   O9        1.0  0.04224  0.24353  0.55064  1.0000
+  O   O10       1.0  0.95776  0.24353  0.05064  1.0000
+  O   O11       1.0  0.47094  0.77232  0.44977  1.0000
+  O   O12       1.0  0.52906  0.77232  0.94977  1.0000

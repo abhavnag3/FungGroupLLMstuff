@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Al8Si8
+_chemical_formula_sum              "Ba4 Al8 Si8"
+_cell_length_a       4.2617
+_cell_length_b       10.1412
+_cell_length_c       10.9442
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.24778  0.17477  1.0000
+  Ba  Ba2       1.0  0.75000  0.75222  0.82523  1.0000
+  Ba  Ba3       1.0  0.25000  0.74778  0.32523  1.0000
+  Ba  Ba4       1.0  0.75000  0.25222  0.67477  1.0000
+  Al  Al1       1.0  0.25000  0.60068  0.04736  1.0000
+  Al  Al2       1.0  0.75000  0.39932  0.95264  1.0000
+  Al  Al3       1.0  0.25000  0.10068  0.45264  1.0000
+  Al  Al4       1.0  0.75000  0.89932  0.54736  1.0000
+  Al  Al5       1.0  0.25000  0.54163  0.61866  1.0000
+  Al  Al6       1.0  0.75000  0.45837  0.38134  1.0000
+  Al  Al7       1.0  0.25000  0.04163  0.88134  1.0000
+  Al  Al8       1.0  0.75000  0.95837  0.11866  1.0000
+  Si  Si1       1.0  0.25000  0.97601  0.65599  1.0000
+  Si  Si2       1.0  0.75000  0.02399  0.34402  1.0000
+  Si  Si3       1.0  0.25000  0.47601  0.84401  1.0000
+  Si  Si4       1.0  0.75000  0.52399  0.15599  1.0000
+  Si  Si5       1.0  0.25000  0.35477  0.45866  1.0000
+  Si  Si6       1.0  0.75000  0.64523  0.54134  1.0000
+  Si  Si7       1.0  0.25000  0.85477  0.04134  1.0000
+  Si  Si8       1.0  0.75000  0.14523  0.95866  1.0000

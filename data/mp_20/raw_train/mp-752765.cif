@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       LiV2C4O12
+_chemical_formula_sum              "Li1 V2 C4 O12"
+_cell_length_a       5.73268
+_cell_length_b       8.14487
+_cell_length_c       6.50557
+_cell_angle_alpha    94.2694
+_cell_angle_beta     67.2653
+_cell_angle_gamma    105.34
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.26263  0.18392  0.48752  1.0000
+  V   V1        1.0  0.09357  0.99967  0.97960  1.0000
+  V   V2        1.0  0.86527  0.49767  0.51574  1.0000
+  C   C1        1.0  0.00368  0.78353  0.63055  1.0000
+  C   C2        1.0  0.02444  0.72048  0.12134  1.0000
+  C   C3        1.0  0.42025  0.27568  0.88245  1.0000
+  C   C4        1.0  0.83346  0.20945  0.34586  1.0000
+  O   O1        1.0  0.09531  0.94267  0.68429  1.0000
+  O   O2        1.0  0.24047  0.84679  0.07713  1.0000
+  O   O3        1.0  0.13156  0.66995  0.60827  1.0000
+  O   O4        1.0  0.79394  0.74190  0.59247  1.0000
+  O   O5        1.0  0.84707  0.76220  0.07667  1.0000
+  O   O6        1.0  0.00395  0.57723  0.19966  1.0000
+  O   O7        1.0  0.60703  0.40854  0.81820  1.0000
+  O   O8        1.0  0.22112  0.23599  0.81958  1.0000
+  O   O9        1.0  0.01736  0.28251  0.41849  1.0000
+  O   O10       1.0  0.64294  0.27951  0.39627  1.0000
+  O   O11       1.0  0.40863  0.15888  0.01625  1.0000
+  O   O12       1.0  0.83662  0.07089  0.23360  1.0000

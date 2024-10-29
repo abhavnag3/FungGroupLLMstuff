@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba4Fe4O10
+_chemical_formula_sum              "Ba4 Fe4 O10"
+_cell_length_a       9.18572
+_cell_length_b       9.18572
+_cell_length_c       9.18572
+_cell_angle_alpha    143.145
+_cell_angle_beta     142.43
+_cell_angle_gamma    53.6466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.87813  0.38752  0.48997  1.0000
+  Ba  Ba2       1.0  0.12187  0.61184  0.50940  1.0000
+  Ba  Ba3       1.0  0.39756  0.88752  0.50940  1.0000
+  Ba  Ba4       1.0  0.60244  0.11184  0.48997  1.0000
+  Fe  Fe1       1.0  1.00000  0.99685  0.99685  1.0000
+  Fe  Fe2       1.0  0.50000  0.49685  0.99685  1.0000
+  Fe  Fe3       1.0  0.81918  0.77546  0.09464  1.0000
+  Fe  Fe4       1.0  0.18082  0.27546  0.95629  1.0000
+  O   O1        1.0  0.75157  0.75271  0.49566  1.0000
+  O   O2        1.0  0.24843  0.74408  0.00113  1.0000
+  O   O3        1.0  0.75705  0.25271  0.00113  1.0000
+  O   O4        1.0  0.24295  0.24408  0.49566  1.0000
+  O   O5        1.0  0.82253  0.84664  0.95009  1.0000
+  O   O6        1.0  0.17747  0.12756  0.02411  1.0000
+  O   O7        1.0  0.39655  0.34664  0.02411  1.0000
+  O   O8        1.0  0.60345  0.62756  0.95009  1.0000
+  O   O9        1.0  0.90936  0.09333  0.50268  1.0000
+  O   O10       1.0  0.09065  0.59333  0.18397  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ti2Sn2O6
+_chemical_formula_sum              "Ti2 Sn2 O6"
+_cell_length_a       7.42635
+_cell_length_b       7.42635
+_cell_length_c       7.42635
+_cell_angle_alpha    40.5085
+_cell_angle_beta     40.5085
+_cell_angle_gamma    40.5085
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.66527  0.66527  0.66527  1.0000
+  Ti  Ti2       1.0  0.33473  0.33473  0.33473  1.0000
+  Sn  Sn1       1.0  0.89190  0.89190  0.89190  1.0000
+  Sn  Sn2       1.0  0.10809  0.10809  0.10809  1.0000
+  O   O1        1.0  0.58904  0.94679  0.30569  1.0000
+  O   O2        1.0  0.30569  0.58904  0.94679  1.0000
+  O   O3        1.0  0.05321  0.69431  0.41096  1.0000
+  O   O4        1.0  0.94679  0.30569  0.58904  1.0000
+  O   O5        1.0  0.69431  0.41096  0.05321  1.0000
+  O   O6        1.0  0.41096  0.05321  0.69431  1.0000

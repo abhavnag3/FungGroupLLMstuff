@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb10Al3Si3
+_chemical_formula_sum              "Nb10 Al3 Si3"
+_cell_length_a       5.159
+_cell_length_b       7.66647
+_cell_length_c       7.68518
+_cell_angle_alpha    96.4844
+_cell_angle_beta     109.612
+_cell_angle_gamma    70.3384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.42241  0.85336  0.69818  1.0000
+  Nb  Nb2       1.0  0.58174  0.14108  0.30456  1.0000
+  Nb  Nb3       1.0  0.92385  0.29973  0.14743  1.0000
+  Nb  Nb4       1.0  0.07299  0.70060  0.84659  1.0000
+  Nb  Nb5       1.0  0.72358  0.70027  0.14743  1.0000
+  Nb  Nb6       1.0  0.27360  0.29940  0.84659  1.0000
+  Nb  Nb7       1.0  0.77577  0.14664  0.69818  1.0000
+  Nb  Nb8       1.0  0.22282  0.85891  0.30456  1.0000
+  Nb  Nb9       1.0  0.25063  0.50000  0.50372  1.0000
+  Nb  Nb10      1.0  0.75310  0.50000  0.50372  1.0000
+  Al  Al1       1.0  0.25010  0.00000  0.00020  1.0000
+  Al  Al2       1.0  0.75010  0.00000  0.00020  1.0000
+  Al  Al3       1.0  0.33490  0.50000  0.16981  1.0000
+  Si  Si1       1.0  0.66533  0.50000  0.83067  1.0000
+  Si  Si2       1.0  0.83611  0.82686  0.49907  1.0000
+  Si  Si3       1.0  0.16296  0.17314  0.49907  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tm2H4Cl2O4
+_chemical_formula_sum              "Tm2 H4 Cl2 O4"
+_cell_length_a       3.54845
+_cell_length_b       6.18774
+_cell_length_c       6.63499
+_cell_angle_alpha    105.383
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.75000  0.71833  0.89096  1.0000
+  Tm  Tm2       1.0  0.25000  0.28167  0.10904  1.0000
+  H   H1        1.0  0.25000  0.87339  0.23118  1.0000
+  H   H2        1.0  0.75000  0.12661  0.76882  1.0000
+  H   H3        1.0  0.25000  0.35703  0.69823  1.0000
+  H   H4        1.0  0.75000  0.64297  0.30177  1.0000
+  Cl  Cl1       1.0  0.25000  0.77044  0.57797  1.0000
+  Cl  Cl2       1.0  0.75000  0.22956  0.42203  1.0000
+  O   O1        1.0  0.25000  0.89411  0.09037  1.0000
+  O   O2        1.0  0.75000  0.10590  0.90963  1.0000
+  O   O3        1.0  0.25000  0.45272  0.84119  1.0000
+  O   O4        1.0  0.75000  0.54728  0.15881  1.0000

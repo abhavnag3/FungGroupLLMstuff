@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ti2VTe4
+_chemical_formula_sum              "Ti2 V1 Te4"
+_cell_length_a       7.45395
+_cell_length_b       7.45395
+_cell_length_c       6.94238
+_cell_angle_alpha    63.2318
+_cell_angle_beta     63.2318
+_cell_angle_gamma    29.9869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.74845  0.74845  0.29535  1.0000
+  Ti  Ti2       1.0  0.25155  0.25155  0.70466  1.0000
+  V   V1        1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.89258  0.89258  0.44649  1.0000
+  Te  Te2       1.0  0.10742  0.10742  0.55351  1.0000
+  Te  Te3       1.0  0.63378  0.63378  0.03270  1.0000
+  Te  Te4       1.0  0.36622  0.36622  0.96730  1.0000

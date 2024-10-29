@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       KMgMn2AlGe3O10F2
+_chemical_formula_sum              "K1 Mg1 Mn2 Al1 Ge3 O10 F2"
+_cell_length_a       5.55973
+_cell_length_b       5.55563
+_cell_length_c       10.7018
+_cell_angle_alpha    84.9472
+_cell_angle_beta     84.7132
+_cell_angle_gamma    119.876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.49363  0.48963  0.02496  1.0000
+  Mg  Mg1       1.0  0.33123  0.67244  0.49409  1.0000
+  Mn  Mn1       1.0  0.99747  0.99523  0.48978  1.0000
+  Mn  Mn2       1.0  0.67837  0.34067  0.48980  1.0000
+  Al  Al1       1.0  0.09561  0.75742  0.22392  1.0000
+  Ge  Ge1       1.0  0.75722  0.08930  0.21923  1.0000
+  Ge  Ge2       1.0  0.91400  0.24387  0.77342  1.0000
+  Ge  Ge3       1.0  0.24580  0.90742  0.77307  1.0000
+  O   O1        1.0  0.01918  0.01642  0.16625  1.0000
+  O   O2        1.0  0.99267  0.98913  0.83949  1.0000
+  O   O3        1.0  0.87212  0.44383  0.16686  1.0000
+  O   O4        1.0  0.44779  0.87531  0.15946  1.0000
+  O   O5        1.0  0.11575  0.55172  0.84266  1.0000
+  O   O6        1.0  0.55634  0.11717  0.83852  1.0000
+  O   O7        1.0  0.04869  0.70363  0.39346  1.0000
+  O   O8        1.0  0.68875  0.02413  0.39114  1.0000
+  O   O9        1.0  0.97503  0.30617  0.60721  1.0000
+  O   O10       1.0  0.29897  0.95750  0.60670  1.0000
+  F   F1        1.0  0.36553  0.38700  0.40080  1.0000
+  F   F2        1.0  0.60586  0.63201  0.59918  1.0000

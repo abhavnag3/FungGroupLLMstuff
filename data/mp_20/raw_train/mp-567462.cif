@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sc6Rh2C8
+_chemical_formula_sum              "Sc6 Rh2 C8"
+_cell_length_a       6.77317
+_cell_length_b       6.77317
+_cell_length_c       5.62866
+_cell_angle_alpha    83.5361
+_cell_angle_beta     83.5361
+_cell_angle_gamma    130.897
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.24089  0.24089  0.24029  1.0000
+  Sc  Sc2       1.0  0.18845  0.81155  0.00000  1.0000
+  Sc  Sc3       1.0  0.68980  0.31020  0.50000  1.0000
+  Sc  Sc4       1.0  0.75911  0.75911  0.75971  1.0000
+  Sc  Sc5       1.0  0.31020  0.68980  0.50000  1.0000
+  Sc  Sc6       1.0  0.81155  0.18845  0.00000  1.0000
+  Rh  Rh1       1.0  0.73115  0.73115  0.26910  1.0000
+  Rh  Rh2       1.0  0.26885  0.26885  0.73090  1.0000
+  C   C1        1.0  0.79317  0.05019  0.41819  1.0000
+  C   C2        1.0  0.54749  0.28936  0.92177  1.0000
+  C   C3        1.0  0.94981  0.20683  0.58181  1.0000
+  C   C4        1.0  0.20683  0.94981  0.58181  1.0000
+  C   C5        1.0  0.45251  0.71064  0.07823  1.0000
+  C   C6        1.0  0.71064  0.45251  0.07823  1.0000
+  C   C7        1.0  0.28936  0.54749  0.92177  1.0000
+  C   C8        1.0  0.05019  0.79317  0.41819  1.0000

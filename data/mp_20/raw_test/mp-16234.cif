@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cs2Ag6Se4
+_chemical_formula_sum              "Cs2 Ag6 Se4"
+_cell_length_a       8.75469
+_cell_length_b       8.75469
+_cell_length_c       9.36034
+_cell_angle_alpha    68.1742
+_cell_angle_beta     68.1742
+_cell_angle_gamma    29.7318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.86308  0.86308  0.04798  1.0000
+  Cs  Cs2       1.0  0.13692  0.13692  0.95202  1.0000
+  Ag  Ag1       1.0  0.31160  0.31160  0.43699  1.0000
+  Ag  Ag2       1.0  0.94215  0.94215  0.40346  1.0000
+  Ag  Ag3       1.0  0.58985  0.58985  0.36368  1.0000
+  Ag  Ag4       1.0  0.41015  0.41015  0.63631  1.0000
+  Ag  Ag5       1.0  0.05785  0.05785  0.59654  1.0000
+  Ag  Ag6       1.0  0.68840  0.68840  0.56302  1.0000
+  Se  Se1       1.0  0.47841  0.47841  0.22947  1.0000
+  Se  Se2       1.0  0.52159  0.52159  0.77053  1.0000
+  Se  Se3       1.0  0.80607  0.80607  0.68429  1.0000
+  Se  Se4       1.0  0.19393  0.19393  0.31571  1.0000

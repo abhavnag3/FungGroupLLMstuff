@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Yb4Ge2S8
+_chemical_formula_sum              "Yb4 Ge2 S8"
+_cell_length_a       6.66078
+_cell_length_b       6.49318
+_cell_length_c       7.67839
+_cell_angle_alpha    72.4212
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.25000  0.72008  0.94697  1.0000
+  Yb  Yb2       1.0  0.75000  0.27992  0.05303  1.0000
+  Yb  Yb3       1.0  0.25000  0.74240  0.43779  1.0000
+  Yb  Yb4       1.0  0.75000  0.25760  0.56221  1.0000
+  Ge  Ge1       1.0  0.25000  0.26016  0.80544  1.0000
+  Ge  Ge2       1.0  0.75000  0.73984  0.19456  1.0000
+  S   S1        1.0  0.25000  0.06977  0.09681  1.0000
+  S   S2        1.0  0.75000  0.93023  0.90319  1.0000
+  S   S3        1.0  0.25000  0.06305  0.61701  1.0000
+  S   S4        1.0  0.75000  0.93695  0.38299  1.0000
+  S   S5        1.0  0.50218  0.49794  0.74396  1.0000
+  S   S6        1.0  0.00218  0.50206  0.25604  1.0000
+  S   S7        1.0  0.49782  0.50206  0.25604  1.0000
+  S   S8        1.0  0.99782  0.49794  0.74396  1.0000

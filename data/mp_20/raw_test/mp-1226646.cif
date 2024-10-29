@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CeU3Al8
+_chemical_formula_sum              "Ce1 U3 Al8"
+_cell_length_a       9.52579
+_cell_length_b       9.52579
+_cell_length_c       9.52579
+_cell_angle_alpha    33.6318
+_cell_angle_beta     33.6318
+_cell_angle_gamma    33.6318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.87421  0.87421  0.87421  1.0000
+  U   U1        1.0  0.37622  0.37622  0.37622  1.0000
+  U   U2        1.0  0.00296  0.00296  0.00296  1.0000
+  U   U3        1.0  0.49657  0.49657  0.49657  1.0000
+  Al  Al1       1.0  0.43814  0.93853  0.43814  1.0000
+  Al  Al2       1.0  0.93737  0.43581  0.93737  1.0000
+  Al  Al3       1.0  0.43814  0.43814  0.93853  1.0000
+  Al  Al4       1.0  0.93737  0.93737  0.43581  1.0000
+  Al  Al5       1.0  0.18715  0.18715  0.18715  1.0000
+  Al  Al6       1.0  0.68755  0.68755  0.68755  1.0000
+  Al  Al7       1.0  0.93853  0.43814  0.43814  1.0000
+  Al  Al8       1.0  0.43581  0.93737  0.93737  1.0000

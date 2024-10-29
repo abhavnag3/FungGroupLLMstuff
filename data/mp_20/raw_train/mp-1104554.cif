@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Mo6PbS8
+_chemical_formula_sum              "Mo6 Pb1 S8"
+_cell_length_a       6.56607
+_cell_length_b       6.66055
+_cell_length_c       6.69145
+_cell_angle_alpha    90.641
+_cell_angle_beta     90.2903
+_cell_angle_gamma    91.0609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.56263  0.58071  0.22742  1.0000
+  Mo  Mo2       1.0  0.43737  0.41929  0.77258  1.0000
+  Mo  Mo3       1.0  0.23573  0.43886  0.41994  1.0000
+  Mo  Mo4       1.0  0.76427  0.56114  0.58006  1.0000
+  Mo  Mo5       1.0  0.41784  0.77193  0.56160  1.0000
+  Mo  Mo6       1.0  0.58216  0.22807  0.43840  1.0000
+  Pb  Pb1       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.37986  0.26166  0.12685  1.0000
+  S   S2        1.0  0.62014  0.73834  0.87315  1.0000
+  S   S3        1.0  0.24918  0.75743  0.24503  1.0000
+  S   S4        1.0  0.75082  0.24257  0.75497  1.0000
+  S   S5        1.0  0.73564  0.87284  0.37652  1.0000
+  S   S6        1.0  0.26437  0.12715  0.62348  1.0000
+  S   S7        1.0  0.12792  0.62102  0.73848  1.0000
+  S   S8        1.0  0.87208  0.37898  0.26152  1.0000

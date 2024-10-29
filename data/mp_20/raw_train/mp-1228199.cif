@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Cr2MoWO12
+_chemical_formula_sum              "Ba4 Cr2 Mo1 W1 O12"
+_cell_length_a       5.77032
+_cell_length_b       5.77002
+_cell_length_c       10.0627
+_cell_angle_alpha    73.434
+_cell_angle_beta     73.4402
+_cell_angle_gamma    60.0272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.87716  0.87715  0.36843  1.0000
+  Ba  Ba2       1.0  0.12285  0.12284  0.63159  1.0000
+  Ba  Ba3       1.0  0.37282  0.37286  0.88176  1.0000
+  Ba  Ba4       1.0  0.62717  0.62714  0.11822  1.0000
+  Cr  Cr1       1.0  0.25115  0.25110  0.24678  1.0000
+  Cr  Cr2       1.0  0.74889  0.74889  0.75325  1.0000
+  Mo  Mo1       1.0  0.99995  0.00001  0.99997  1.0000
+  W   W1        1.0  0.49994  0.50001  0.49997  1.0000
+  O   O1        1.0  0.62183  0.62183  0.61878  1.0000
+  O   O2        1.0  0.37820  0.37818  0.38125  1.0000
+  O   O3        1.0  0.37826  0.86208  0.38138  1.0000
+  O   O4        1.0  0.62175  0.13789  0.61864  1.0000
+  O   O5        1.0  0.86210  0.37824  0.38139  1.0000
+  O   O6        1.0  0.13793  0.62177  0.61861  1.0000
+  O   O7        1.0  0.87641  0.87643  0.86936  1.0000
+  O   O8        1.0  0.12358  0.12355  0.13061  1.0000
+  O   O9        1.0  0.87651  0.37857  0.86890  1.0000
+  O   O10       1.0  0.12348  0.62145  0.13110  1.0000
+  O   O11       1.0  0.37852  0.87656  0.86890  1.0000
+  O   O12       1.0  0.62147  0.12344  0.13111  1.0000

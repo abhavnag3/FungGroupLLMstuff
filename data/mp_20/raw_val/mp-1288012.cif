@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Mn2Cr2O8
+_chemical_formula_sum              "Li4 Mn2 Cr2 O8"
+_cell_length_a       4.11654
+_cell_length_b       7.82018
+_cell_length_c       5.2164
+_cell_angle_alpha    92.5968
+_cell_angle_beta     113.241
+_cell_angle_gamma    105.259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.62552  0.87516  0.37588  1.0000
+  Li  Li2       1.0  0.12411  0.37494  0.87332  1.0000
+  Li  Li3       1.0  0.25210  0.75106  0.75314  1.0000
+  Li  Li4       1.0  0.74734  0.25005  0.24466  1.0000
+  Mn  Mn1       1.0  0.00155  0.99850  0.00464  1.0000
+  Mn  Mn2       1.0  0.49911  0.50233  0.49585  1.0000
+  Cr  Cr1       1.0  0.87388  0.62530  0.12247  1.0000
+  Cr  Cr2       1.0  0.37583  0.12484  0.62680  1.0000
+  O   O1        1.0  0.24934  0.23047  0.26824  1.0000
+  O   O2        1.0  0.76818  0.75206  0.78430  1.0000
+  O   O3        1.0  0.49235  0.00883  0.97588  1.0000
+  O   O4        1.0  0.99051  0.50855  0.47247  1.0000
+  O   O5        1.0  0.11694  0.88316  0.35069  1.0000
+  O   O6        1.0  0.61607  0.38241  0.84970  1.0000
+  O   O7        1.0  0.88579  0.11391  0.65768  1.0000
+  O   O8        1.0  0.38137  0.61844  0.14429  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       BaYb2F8
+_chemical_formula_sum              "Ba1 Yb2 F8"
+_cell_length_a       4.23586
+_cell_length_b       6.39993
+_cell_length_c       6.39993
+_cell_angle_alpha    113.391
+_cell_angle_beta     92.4576
+_cell_angle_gamma    92.4576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.00000  1.0000
+  Yb  Yb1       1.0  0.50000  0.68571  0.31429  1.0000
+  Yb  Yb2       1.0  0.50000  0.31429  0.68571  1.0000
+  F   F1        1.0  0.45893  0.67715  0.93932  1.0000
+  F   F2        1.0  0.54107  0.32285  0.06069  1.0000
+  F   F3        1.0  0.54107  0.06069  0.32285  1.0000
+  F   F4        1.0  0.45893  0.93932  0.67715  1.0000
+  F   F5        1.0  0.81199  0.58060  0.58060  1.0000
+  F   F6        1.0  0.18801  0.41940  0.41940  1.0000
+  F   F7        1.0  0.00000  0.75043  0.24957  1.0000
+  F   F8        1.0  0.00000  0.24957  0.75043  1.0000

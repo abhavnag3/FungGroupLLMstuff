@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba4Bi4O10
+_chemical_formula_sum              "Ba4 Bi4 O10"
+_cell_length_a       7.59683
+_cell_length_b       6.2963
+_cell_length_c       7.60207
+_cell_angle_alpha    79.6
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.92713  0.22041  0.13666  1.0000
+  Ba  Ba2       1.0  0.42713  0.27959  0.86334  1.0000
+  Ba  Ba3       1.0  0.07287  0.77959  0.86334  1.0000
+  Ba  Ba4       1.0  0.57287  0.72041  0.13666  1.0000
+  Bi  Bi1       1.0  0.88220  0.26961  0.63201  1.0000
+  Bi  Bi2       1.0  0.38220  0.23039  0.36799  1.0000
+  Bi  Bi3       1.0  0.11780  0.73039  0.36799  1.0000
+  Bi  Bi4       1.0  0.61780  0.76961  0.63201  1.0000
+  O   O1        1.0  0.77607  0.53916  0.80271  1.0000
+  O   O2        1.0  0.27607  0.96084  0.19729  1.0000
+  O   O3        1.0  0.22393  0.46084  0.19729  1.0000
+  O   O4        1.0  0.72393  0.03916  0.80271  1.0000
+  O   O5        1.0  0.58824  0.26856  0.17997  1.0000
+  O   O6        1.0  0.08824  0.23144  0.82003  1.0000
+  O   O7        1.0  0.41176  0.73144  0.82003  1.0000
+  O   O8        1.0  0.91176  0.76856  0.17997  1.0000
+  O   O9        1.0  0.00000  0.00000  0.50000  1.0000
+  O   O10       1.0  0.50000  0.50000  0.50000  1.0000

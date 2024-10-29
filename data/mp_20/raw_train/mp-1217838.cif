@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ta2Ti2Sb2O12
+_chemical_formula_sum              "Ta2 Ti2 Sb2 O12"
+_cell_length_a       4.89873
+_cell_length_b       5.56349
+_cell_length_c       8.69564
+_cell_angle_alpha    91.3055
+_cell_angle_beta     106.293
+_cell_angle_gamma    90.3793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.58536  0.82195  0.65100  1.0000
+  Ta  Ta2       1.0  0.41464  0.17805  0.34900  1.0000
+  Ti  Ti1       1.0  0.93795  0.67518  0.34668  1.0000
+  Ti  Ti2       1.0  0.06205  0.32482  0.65332  1.0000
+  Sb  Sb1       1.0  0.30066  0.74259  0.99987  1.0000
+  Sb  Sb2       1.0  0.69934  0.25741  0.00013  1.0000
+  O   O1        1.0  0.09217  0.92953  0.27746  1.0000
+  O   O2        1.0  0.82094  0.56351  0.72547  1.0000
+  O   O3        1.0  0.90783  0.07047  0.72254  1.0000
+  O   O4        1.0  0.17906  0.43650  0.27453  1.0000
+  O   O5        1.0  0.65564  0.84699  0.43682  1.0000
+  O   O6        1.0  0.21969  0.65525  0.56087  1.0000
+  O   O7        1.0  0.34436  0.15301  0.56318  1.0000
+  O   O8        1.0  0.78031  0.34475  0.43913  1.0000
+  O   O9        1.0  0.65460  0.58395  0.13700  1.0000
+  O   O10       1.0  0.51829  0.91348  0.86387  1.0000
+  O   O11       1.0  0.34540  0.41605  0.86300  1.0000
+  O   O12       1.0  0.48171  0.08652  0.13613  1.0000

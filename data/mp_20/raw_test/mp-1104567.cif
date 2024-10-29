@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       V2P2O10
+_chemical_formula_sum              "V2 P2 O10"
+_cell_length_a       5.61582
+_cell_length_b       5.61582
+_cell_length_c       6.26577
+_cell_angle_alpha    79.0997
+_cell_angle_beta     79.0997
+_cell_angle_gamma    67.7329
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.18842  0.18842  0.27589  1.0000
+  V   V2        1.0  0.81158  0.81158  0.72411  1.0000
+  P   P1        1.0  0.24826  0.24826  0.75029  1.0000
+  P   P2        1.0  0.75174  0.75174  0.24971  1.0000
+  O   O1        1.0  0.36308  0.36308  0.22648  1.0000
+  O   O2        1.0  0.63692  0.63692  0.77351  1.0000
+  O   O3        1.0  0.13749  0.13749  0.59756  1.0000
+  O   O4        1.0  0.86251  0.86251  0.40244  1.0000
+  O   O5        1.0  0.15095  0.54821  0.70788  1.0000
+  O   O6        1.0  0.54821  0.15095  0.70788  1.0000
+  O   O7        1.0  0.84905  0.45179  0.29212  1.0000
+  O   O8        1.0  0.45180  0.84905  0.29212  1.0000
+  O   O9        1.0  0.84568  0.84568  0.01185  1.0000
+  O   O10       1.0  0.15432  0.15432  0.98815  1.0000

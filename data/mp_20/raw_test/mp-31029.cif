@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Nd2Ni5B4
+_chemical_formula_sum              "Nd2 Ni5 B4"
+_cell_length_a       5.52417
+_cell_length_b       5.52417
+_cell_length_c       6.77831
+_cell_angle_alpha    58.757
+_cell_angle_beta     58.757
+_cell_angle_gamma    54.9227
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.72541  0.72540  0.35108  1.0000
+  Nd  Nd2       1.0  0.27459  0.27459  0.64892  1.0000
+  Ni  Ni1       1.0  0.32691  0.82313  0.12792  1.0000
+  Ni  Ni2       1.0  0.67309  0.17686  0.87208  1.0000
+  Ni  Ni3       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni4       1.0  0.82313  0.32691  0.12792  1.0000
+  Ni  Ni5       1.0  0.17686  0.67309  0.87208  1.0000
+  B   B1        1.0  0.59923  0.59923  0.85974  1.0000
+  B   B2        1.0  0.40077  0.40077  0.14026  1.0000
+  B   B3        1.0  0.22184  0.22184  0.15956  1.0000
+  B   B4        1.0  0.77816  0.77816  0.84044  1.0000

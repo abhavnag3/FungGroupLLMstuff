@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CaAl3Au
+_chemical_formula_sum              "Ca1 Al3 Au1"
+_cell_length_a       4.15497
+_cell_length_b       4.15497
+_cell_length_c       6.59688
+_cell_angle_alpha    71.644
+_cell_angle_beta     71.644
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.99940  0.99940  0.00121  1.0000
+  Al  Al1       1.0  0.74844  0.24843  0.50313  1.0000
+  Al  Al2       1.0  0.24843  0.74844  0.50313  1.0000
+  Al  Al3       1.0  0.39376  0.39376  0.21249  1.0000
+  Au  Au1       1.0  0.60998  0.60998  0.78004  1.0000

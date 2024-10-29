@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       V5Cr5Ge6
+_chemical_formula_sum              "V5 Cr5 Ge6"
+_cell_length_a       4.81739
+_cell_length_b       7.13303
+_cell_length_c       7.11798
+_cell_angle_alpha    96.3167
+_cell_angle_beta     109.779
+_cell_angle_gamma    70.2643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.26766  0.30759  0.84291  1.0000
+  V   V2        1.0  0.76513  0.15856  0.68881  1.0000
+  V   V3        1.0  0.23480  0.84068  0.31029  1.0000
+  V   V4        1.0  0.25088  0.49989  0.50060  1.0000
+  V   V5        1.0  0.74983  0.49989  0.50060  1.0000
+  Cr  Cr1       1.0  0.42278  0.84437  0.68992  1.0000
+  Cr  Cr2       1.0  0.57381  0.15781  0.30543  1.0000
+  Cr  Cr3       1.0  0.92603  0.30480  0.15686  1.0000
+  Cr  Cr4       1.0  0.07446  0.69472  0.84365  1.0000
+  Cr  Cr5       1.0  0.73336  0.69328  0.16001  1.0000
+  Ge  Ge1       1.0  0.25196  0.99759  0.00045  1.0000
+  Ge  Ge2       1.0  0.75091  0.99759  0.00045  1.0000
+  Ge  Ge3       1.0  0.33124  0.49990  0.16239  1.0000
+  Ge  Ge4       1.0  0.66842  0.50337  0.84021  1.0000
+  Ge  Ge5       1.0  0.83189  0.83514  0.49893  1.0000
+  Ge  Ge6       1.0  0.16683  0.16482  0.49849  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Cd3Ga2Te6
+_chemical_formula_sum              "Cd3 Ga2 Te6"
+_cell_length_a       6.28965
+_cell_length_b       8.99027
+_cell_length_c       7.86901
+_cell_angle_alpha    71.1198
+_cell_angle_beta     113.556
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.00639  0.98146  0.01798  1.0000
+  Cd  Cd2       1.0  0.69924  0.16667  0.33333  1.0000
+  Cd  Cd3       1.0  0.32174  0.35187  0.64868  1.0000
+  Ga  Ga1       1.0  0.98705  0.50946  0.99535  1.0000
+  Ga  Ga2       1.0  0.32504  0.82387  0.67132  1.0000
+  Te  Te1       1.0  0.28124  0.72793  0.01448  1.0000
+  Te  Te2       1.0  0.91862  0.88023  0.36106  1.0000
+  Te  Te3       1.0  0.56957  0.07275  0.66945  1.0000
+  Te  Te4       1.0  0.23346  0.26058  0.99722  1.0000
+  Te  Te5       1.0  0.89090  0.45311  0.30561  1.0000
+  Te  Te6       1.0  0.60009  0.60540  0.65219  1.0000

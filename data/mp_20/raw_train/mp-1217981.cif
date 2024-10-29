@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SrNdNiO4
+_chemical_formula_sum              "Sr1 Nd1 Ni1 O4"
+_cell_length_a       6.75917
+_cell_length_b       6.75917
+_cell_length_c       6.75917
+_cell_angle_alpha    147.066
+_cell_angle_beta     147.066
+_cell_angle_gamma    47.2661
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.64125  0.64125  0.00000  1.0000
+  Nd  Nd1       1.0  0.36184  0.36184  0.00000  1.0000
+  Ni  Ni1       1.0  0.00344  0.00343  0.00000  1.0000
+  O   O1        1.0  0.83729  0.83729  0.00000  1.0000
+  O   O2        1.0  0.17273  0.17273  0.00000  1.0000
+  O   O3        1.0  0.99173  0.49173  0.50000  1.0000
+  O   O4        1.0  0.49173  0.99173  0.50000  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sn2Pb2S4
+_chemical_formula_sum              "Sn2 Pb2 S4"
+_cell_length_a       4.17672
+_cell_length_b       4.22782
+_cell_length_c       17.071
+_cell_angle_alpha    87.3401
+_cell_angle_beta     85.658
+_cell_angle_gamma    90.0588
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.32511  0.61329  0.24436  1.0000
+  Sn  Sn2       1.0  0.22358  0.86559  0.58774  1.0000
+  Pb  Pb1       1.0  0.67055  0.38298  0.75912  1.0000
+  Pb  Pb2       1.0  0.77680  0.10904  0.41384  1.0000
+  S   S1        1.0  0.71613  0.44632  0.60094  1.0000
+  S   S2        1.0  0.28408  0.57840  0.39730  1.0000
+  S   S3        1.0  0.17328  0.90136  0.74171  1.0000
+  S   S4        1.0  0.83046  0.10302  0.25500  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2Nb2O8
+_chemical_formula_sum              "Mn2 Nb2 O8"
+_cell_length_a       3.87714
+_cell_length_b       3.87712
+_cell_length_c       10.3572
+_cell_angle_alpha    90.001
+_cell_angle_beta     89.9997
+_cell_angle_gamma    90.0001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.99995  0.49999  0.24999  1.0000
+  Mn  Mn2       1.0  0.50005  0.00001  0.75001  1.0000
+  Nb  Nb1       1.0  0.99999  0.99999  0.99994  1.0000
+  Nb  Nb2       1.0  0.50001  0.49999  0.50006  1.0000
+  O   O1        1.0  0.50000  1.00000  0.96341  1.0000
+  O   O2        1.0  1.00000  0.50000  0.46357  1.0000
+  O   O3        1.0  0.50000  0.99999  0.53659  1.0000
+  O   O4        1.0  1.00000  0.50000  0.03644  1.0000
+  O   O5        1.0  0.99997  0.00001  0.80035  1.0000
+  O   O6        1.0  0.50004  0.50000  0.30045  1.0000
+  O   O7        1.0  0.00002  0.00001  0.19956  1.0000
+  O   O8        1.0  0.49999  0.50001  0.69963  1.0000

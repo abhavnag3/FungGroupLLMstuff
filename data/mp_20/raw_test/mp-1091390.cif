@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ca2Ge4Pt4
+_chemical_formula_sum              "Ca2 Ge4 Pt4"
+_cell_length_a       4.27468
+_cell_length_b       4.28663
+_cell_length_c       10.5021
+_cell_angle_alpha    89.6361
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.25000  0.25093  0.25111  1.0000
+  Ca  Ca2       1.0  0.75000  0.74907  0.74889  1.0000
+  Ge  Ge1       1.0  0.25000  0.23901  0.86734  1.0000
+  Ge  Ge2       1.0  0.75000  0.76099  0.13266  1.0000
+  Ge  Ge3       1.0  0.25000  0.74854  0.50035  1.0000
+  Ge  Ge4       1.0  0.75000  0.25146  0.49965  1.0000
+  Pt  Pt1       1.0  0.25000  0.24644  0.63338  1.0000
+  Pt  Pt2       1.0  0.75000  0.75356  0.36662  1.0000
+  Pt  Pt3       1.0  0.25000  0.73832  0.99951  1.0000
+  Pt  Pt4       1.0  0.75000  0.26168  0.00049  1.0000

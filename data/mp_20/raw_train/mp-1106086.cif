@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr14Rh6
+_chemical_formula_sum              "Pr14 Rh6"
+_cell_length_a       6.38085
+_cell_length_b       10.2701
+_cell_length_c       10.2701
+_cell_angle_alpha    120.011
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.46537  0.33332  0.66668  1.0000
+  Pr  Pr2       1.0  0.96537  0.66668  0.33332  1.0000
+  Pr  Pr3       1.0  0.25107  0.12582  0.87418  1.0000
+  Pr  Pr4       1.0  0.25111  0.74836  0.87415  1.0000
+  Pr  Pr5       1.0  0.25111  0.12585  0.25164  1.0000
+  Pr  Pr6       1.0  0.75107  0.87418  0.12582  1.0000
+  Pr  Pr7       1.0  0.75111  0.25164  0.12585  1.0000
+  Pr  Pr8       1.0  0.75111  0.87415  0.74836  1.0000
+  Pr  Pr9       1.0  0.44128  0.54176  0.45824  1.0000
+  Pr  Pr10      1.0  0.44121  0.91640  0.45819  1.0000
+  Pr  Pr11      1.0  0.44121  0.54182  0.08360  1.0000
+  Pr  Pr12      1.0  0.94128  0.45824  0.54176  1.0000
+  Pr  Pr13      1.0  0.94121  0.08360  0.54182  1.0000
+  Pr  Pr14      1.0  0.94121  0.45818  0.91640  1.0000
+  Rh  Rh1       1.0  0.18367  0.81144  0.18857  1.0000
+  Rh  Rh2       1.0  0.18349  0.37724  0.18859  1.0000
+  Rh  Rh3       1.0  0.18349  0.81141  0.62276  1.0000
+  Rh  Rh4       1.0  0.68367  0.18857  0.81144  1.0000
+  Rh  Rh5       1.0  0.68349  0.62276  0.81141  1.0000
+  Rh  Rh6       1.0  0.68349  0.18859  0.37724  1.0000

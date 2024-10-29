@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       La6In2Pb8
+_chemical_formula_sum              "La6 In2 Pb8"
+_cell_length_a       8.93726
+_cell_length_b       8.93726
+_cell_length_c       8.94404
+_cell_angle_alpha    60.3927
+_cell_angle_beta     60.3927
+_cell_angle_gamma    90.6386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.66130  0.16130  0.17873  1.0000
+  La  La2       1.0  0.34003  0.84003  0.82127  1.0000
+  La  La3       1.0  0.15975  0.34056  0.50000  1.0000
+  La  La4       1.0  0.84056  0.65975  0.50000  1.0000
+  La  La5       1.0  0.75020  0.75020  0.00000  1.0000
+  La  La6       1.0  0.25020  0.25020  0.00000  1.0000
+  In  In1       1.0  0.32184  0.82184  0.21407  1.0000
+  In  In2       1.0  0.03591  0.53591  0.78593  1.0000
+  Pb  Pb1       1.0  0.50026  0.50026  0.00000  1.0000
+  Pb  Pb2       1.0  0.00026  0.00026  0.00000  1.0000
+  Pb  Pb3       1.0  0.82181  0.03503  0.50000  1.0000
+  Pb  Pb4       1.0  0.53502  0.32181  0.50000  1.0000
+  Pb  Pb5       1.0  0.67602  0.17602  0.78973  1.0000
+  Pb  Pb6       1.0  0.96575  0.46575  0.21027  1.0000
+  Pb  Pb7       1.0  0.17807  0.96300  0.50000  1.0000
+  Pb  Pb8       1.0  0.46300  0.67807  0.50000  1.0000

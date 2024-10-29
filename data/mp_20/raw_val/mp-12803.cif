@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       BaEr2F8
+_chemical_formula_sum              "Ba1 Er2 F8"
+_cell_length_a       6.33112
+_cell_length_b       6.33112
+_cell_length_c       4.2923
+_cell_angle_alpha    84.9698
+_cell_angle_beta     84.9698
+_cell_angle_gamma    112.862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.00000  1.0000
+  Er  Er1       1.0  0.32428  0.67572  0.50000  1.0000
+  Er  Er2       1.0  0.67572  0.32428  0.50000  1.0000
+  F   F1        1.0  0.73786  0.26214  0.00000  1.0000
+  F   F2        1.0  0.26214  0.73786  0.00000  1.0000
+  F   F3        1.0  0.60642  0.60642  0.22847  1.0000
+  F   F4        1.0  0.04570  0.32877  0.43830  1.0000
+  F   F5        1.0  0.67123  0.95430  0.56170  1.0000
+  F   F6        1.0  0.95430  0.67123  0.56170  1.0000
+  F   F7        1.0  0.32877  0.04570  0.43830  1.0000
+  F   F8        1.0  0.39358  0.39358  0.77153  1.0000

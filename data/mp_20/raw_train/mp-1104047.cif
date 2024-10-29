@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Al12Tc3
+_chemical_formula_sum              "Al12 Tc3"
+_cell_length_a       9.17736
+_cell_length_b       9.17736
+_cell_length_c       5.17035
+_cell_angle_alpha    86.8374
+_cell_angle_beta     86.8374
+_cell_angle_gamma    147.081
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.85218  0.85218  0.50625  1.0000
+  Al  Al2       1.0  0.50659  0.50659  0.14594  1.0000
+  Al  Al3       1.0  0.26272  0.41576  0.68077  1.0000
+  Al  Al4       1.0  0.41576  0.26272  0.68077  1.0000
+  Al  Al5       1.0  0.06183  0.30159  0.21336  1.0000
+  Al  Al6       1.0  0.30159  0.06183  0.21336  1.0000
+  Al  Al7       1.0  0.94192  0.69218  0.81036  1.0000
+  Al  Al8       1.0  0.69218  0.94192  0.81036  1.0000
+  Al  Al9       1.0  0.08229  0.54862  0.59243  1.0000
+  Al  Al10      1.0  0.54862  0.08229  0.59243  1.0000
+  Al  Al11      1.0  0.23145  0.72897  0.07170  1.0000
+  Al  Al12      1.0  0.72897  0.23145  0.07170  1.0000
+  Tc  Tc1       1.0  0.01303  0.01303  0.99268  1.0000
+  Tc  Tc2       1.0  0.80539  0.53248  0.33195  1.0000
+  Tc  Tc3       1.0  0.53248  0.80539  0.33195  1.0000

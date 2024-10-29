@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Nd4Se8
+_chemical_formula_sum              "Ba2 Nd4 Se8"
+_cell_length_a       7.98922
+_cell_length_b       7.98922
+_cell_length_c       7.98922
+_cell_angle_alpha    109.407
+_cell_angle_beta     109.407
+_cell_angle_gamma    109.6
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ba  Ba2       1.0  0.75000  0.25000  0.50000  1.0000
+  Nd  Nd1       1.0  0.62500  0.99854  0.87354  1.0000
+  Nd  Nd2       1.0  0.00146  0.87500  0.62646  1.0000
+  Nd  Nd3       1.0  0.12500  0.75146  0.12646  1.0000
+  Nd  Nd4       1.0  0.24854  0.37500  0.37354  1.0000
+  Se  Se1       1.0  0.35372  0.10801  0.08947  1.0000
+  Se  Se2       1.0  0.35801  0.10372  0.58947  1.0000
+  Se  Se3       1.0  0.73575  0.64628  0.75429  1.0000
+  Se  Se4       1.0  0.89199  0.98146  0.24571  1.0000
+  Se  Se5       1.0  0.51425  0.76854  0.41053  1.0000
+  Se  Se6       1.0  0.89628  0.48575  0.25429  1.0000
+  Se  Se7       1.0  0.23146  0.64199  0.74571  1.0000
+  Se  Se8       1.0  0.01854  0.26425  0.91053  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       MgCr4S8
+_chemical_formula_sum              "Mg1 Cr4 S8"
+_cell_length_a       7.03496
+_cell_length_b       7.03239
+_cell_length_c       7.04106
+_cell_angle_alpha    60.0685
+_cell_angle_beta     60.0826
+_cell_angle_gamma    60.0299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.12496  0.12515  0.12452  1.0000
+  Cr  Cr1       1.0  0.50835  0.50867  0.50734  1.0000
+  Cr  Cr2       1.0  0.50771  0.50784  0.97701  1.0000
+  Cr  Cr3       1.0  0.97640  0.50751  0.50773  1.0000
+  Cr  Cr4       1.0  0.50756  0.97602  0.50778  1.0000
+  S   S1        1.0  0.74444  0.74425  0.74448  1.0000
+  S   S2        1.0  0.26473  0.26460  0.70647  1.0000
+  S   S3        1.0  0.26433  0.70670  0.26479  1.0000
+  S   S4        1.0  0.70659  0.26432  0.26486  1.0000
+  S   S5        1.0  0.74443  0.26656  0.74471  1.0000
+  S   S6        1.0  0.26630  0.74445  0.74484  1.0000
+  S   S7        1.0  0.26436  0.26422  0.26449  1.0000
+  S   S8        1.0  0.74487  0.74471  0.26597  1.0000

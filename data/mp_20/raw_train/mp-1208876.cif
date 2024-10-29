@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sm2Hf2F14
+_chemical_formula_sum              "Sm2 Hf2 F14"
+_cell_length_a       5.77506
+_cell_length_b       6.20454
+_cell_length_c       8.37789
+_cell_angle_alpha    101.741
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.69860  0.65734  0.68719  1.0000
+  Sm  Sm2       1.0  0.19860  0.34266  0.31281  1.0000
+  Hf  Hf1       1.0  0.70842  0.81123  0.22397  1.0000
+  Hf  Hf2       1.0  0.20842  0.18877  0.77603  1.0000
+  F   F1        1.0  0.88589  0.44990  0.47508  1.0000
+  F   F2        1.0  0.38589  0.55010  0.52492  1.0000
+  F   F3        1.0  0.42247  0.93155  0.76930  1.0000
+  F   F4        1.0  0.92247  0.06845  0.23070  1.0000
+  F   F5        1.0  0.94782  0.96831  0.76073  1.0000
+  F   F6        1.0  0.44782  0.03169  0.23927  1.0000
+  F   F7        1.0  0.99876  0.44989  0.78666  1.0000
+  F   F8        1.0  0.49876  0.55011  0.21334  1.0000
+  F   F9        1.0  0.70529  0.75669  0.98048  1.0000
+  F   F10       1.0  0.20529  0.24331  0.01952  1.0000
+  F   F11       1.0  0.71273  0.85927  0.46867  1.0000
+  F   F12       1.0  0.21273  0.14073  0.53133  1.0000
+  F   F13       1.0  0.49638  0.37563  0.78324  1.0000
+  F   F14       1.0  0.99638  0.62437  0.21676  1.0000

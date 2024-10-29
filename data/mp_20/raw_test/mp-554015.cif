@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       CsKCl2O8
+_chemical_formula_sum              "Cs1 K1 Cl2 O8"
+_cell_length_a       8.11371
+_cell_length_b       8.11371
+_cell_length_c       8.11371
+_cell_angle_alpha    42.663
+_cell_angle_beta     42.663
+_cell_angle_gamma    42.663
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.50000  0.50000  0.50000  1.0000
+  K   K1        1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.26596  0.26596  0.26596  1.0000
+  Cl  Cl2       1.0  0.73404  0.73404  0.73404  1.0000
+  O   O1        1.0  0.89152  0.48699  0.89152  1.0000
+  O   O2        1.0  0.66806  0.66807  0.66807  1.0000
+  O   O3        1.0  0.10848  0.51301  0.10848  1.0000
+  O   O4        1.0  0.89152  0.89152  0.48699  1.0000
+  O   O5        1.0  0.10848  0.10848  0.51301  1.0000
+  O   O6        1.0  0.51301  0.10848  0.10848  1.0000
+  O   O7        1.0  0.33193  0.33193  0.33193  1.0000
+  O   O8        1.0  0.48699  0.89152  0.89152  1.0000

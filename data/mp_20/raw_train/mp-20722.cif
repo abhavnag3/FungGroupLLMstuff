@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CeFeGe3
+_chemical_formula_sum              "Ce1 Fe1 Ge3"
+_cell_length_a       5.82641
+_cell_length_b       5.82641
+_cell_length_c       5.82641
+_cell_angle_alpha    136.737
+_cell_angle_beta     136.737
+_cell_angle_gamma    62.8423
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.32776  0.32776  0.00000  1.0000
+  Fe  Fe1       1.0  0.99885  0.99885  0.00000  1.0000
+  Ge  Ge1       1.0  0.09027  0.59027  0.50000  1.0000
+  Ge  Ge2       1.0  0.77126  0.77126  0.00000  1.0000
+  Ge  Ge3       1.0  0.59027  0.09027  0.50000  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ZnHg4Te5
+_chemical_formula_sum              "Zn1 Hg4 Te5"
+_cell_length_a       19.1708
+_cell_length_b       19.1708
+_cell_length_c       19.1708
+_cell_angle_alpha    13.9546
+_cell_angle_beta     13.9546
+_cell_angle_gamma    13.9546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.59974  0.59974  0.59974  1.0000
+  Hg  Hg1       1.0  0.99859  0.99859  0.99859  1.0000
+  Hg  Hg2       1.0  0.39979  0.39979  0.39979  1.0000
+  Hg  Hg3       1.0  0.80036  0.80036  0.80036  1.0000
+  Hg  Hg4       1.0  0.20208  0.20208  0.20208  1.0000
+  Te  Te1       1.0  0.04894  0.04894  0.04894  1.0000
+  Te  Te2       1.0  0.44986  0.44986  0.44986  1.0000
+  Te  Te3       1.0  0.85066  0.85066  0.85066  1.0000
+  Te  Te4       1.0  0.25289  0.25289  0.25289  1.0000
+  Te  Te5       1.0  0.64709  0.64709  0.64709  1.0000

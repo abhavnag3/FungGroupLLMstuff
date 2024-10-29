@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Cs2Hg3Ge2S8
+_chemical_formula_sum              "Cs2 Hg3 Ge2 S8"
+_cell_length_a       6.72539
+_cell_length_b       8.09707
+_cell_length_c       9.44746
+_cell_angle_alpha    108.02
+_cell_angle_beta     92.3522
+_cell_angle_gamma    106.689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.61039  0.45890  0.24246  1.0000
+  Cs  Cs2       1.0  0.38961  0.54110  0.75754  1.0000
+  Hg  Hg1       1.0  0.81707  0.07022  0.38750  1.0000
+  Hg  Hg2       1.0  0.18293  0.92978  0.61250  1.0000
+  Hg  Hg3       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.24063  0.84522  0.24219  1.0000
+  Ge  Ge2       1.0  0.75937  0.15478  0.75781  1.0000
+  S   S1        1.0  0.44329  0.13324  0.83420  1.0000
+  S   S2        1.0  0.55671  0.86676  0.16580  1.0000
+  S   S3        1.0  0.16662  0.66108  0.38016  1.0000
+  S   S4        1.0  0.83338  0.33892  0.61984  1.0000
+  S   S5        1.0  0.98438  0.28150  0.97755  1.0000
+  S   S6        1.0  0.01562  0.71850  0.02245  1.0000
+  S   S7        1.0  0.21654  0.12024  0.37140  1.0000
+  S   S8        1.0  0.78346  0.87976  0.62860  1.0000

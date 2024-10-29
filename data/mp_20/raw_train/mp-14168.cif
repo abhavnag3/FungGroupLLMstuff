@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K4Ge2F12
+_chemical_formula_sum              "K4 Ge2 F12"
+_cell_length_a       5.85286
+_cell_length_b       5.85286
+_cell_length_c       9.5524
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.00000  0.00000  0.09433  1.0000
+  K   K2        1.0  0.00000  0.00000  0.59433  1.0000
+  K   K3        1.0  0.66667  0.33333  0.37119  1.0000
+  K   K4        1.0  0.33333  0.66667  0.87119  1.0000
+  Ge  Ge1       1.0  0.66667  0.33333  0.75771  1.0000
+  Ge  Ge2       1.0  0.33333  0.66667  0.25771  1.0000
+  F   F1        1.0  0.51976  0.48024  0.64498  1.0000
+  F   F2        1.0  0.03952  0.51976  0.14498  1.0000
+  F   F3        1.0  0.48024  0.96048  0.14498  1.0000
+  F   F4        1.0  0.51976  0.03952  0.64498  1.0000
+  F   F5        1.0  0.96048  0.48024  0.64498  1.0000
+  F   F6        1.0  0.48024  0.51976  0.14498  1.0000
+  F   F7        1.0  0.18264  0.81736  0.36395  1.0000
+  F   F8        1.0  0.36528  0.18264  0.86395  1.0000
+  F   F9        1.0  0.81736  0.63472  0.86395  1.0000
+  F   F10       1.0  0.18264  0.36528  0.36395  1.0000
+  F   F11       1.0  0.63472  0.81736  0.36395  1.0000
+  F   F12       1.0  0.81736  0.18264  0.86395  1.0000

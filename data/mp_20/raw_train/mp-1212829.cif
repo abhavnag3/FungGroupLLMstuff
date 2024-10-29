@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Dy10Si4Sb4
+_chemical_formula_sum              "Dy10 Si4 Sb4"
+_cell_length_a       8.54007
+_cell_length_b       8.54007
+_cell_length_c       7.83837
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    125.578
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.04022  0.29283  0.33443  1.0000
+  Dy  Dy2       1.0  0.95978  0.70717  0.66557  1.0000
+  Dy  Dy3       1.0  0.45978  0.20717  0.83443  1.0000
+  Dy  Dy4       1.0  0.79283  0.54022  0.16557  1.0000
+  Dy  Dy5       1.0  0.54022  0.79283  0.16557  1.0000
+  Dy  Dy6       1.0  0.20717  0.45978  0.83443  1.0000
+  Dy  Dy7       1.0  0.70717  0.95978  0.66557  1.0000
+  Dy  Dy8       1.0  0.29283  0.04022  0.33443  1.0000
+  Dy  Dy9       1.0  0.00000  0.00000  0.00000  1.0000
+  Dy  Dy10      1.0  0.50000  0.50000  0.50000  1.0000
+  Si  Si1       1.0  0.36766  0.36766  0.13120  1.0000
+  Si  Si2       1.0  0.63234  0.63234  0.86880  1.0000
+  Si  Si3       1.0  0.13234  0.13234  0.63120  1.0000
+  Si  Si4       1.0  0.86766  0.86766  0.36880  1.0000
+  Sb  Sb1       1.0  0.79429  0.20571  0.00000  1.0000
+  Sb  Sb2       1.0  0.20571  0.79429  0.00000  1.0000
+  Sb  Sb3       1.0  0.70571  0.29429  0.50000  1.0000
+  Sb  Sb4       1.0  0.29429  0.70571  0.50000  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaNi4Ge3
+_chemical_formula_sum              "Ga1 Ni4 Ge3"
+_cell_length_a       6.12003
+_cell_length_b       6.12003
+_cell_length_c       4.88958
+_cell_angle_alpha    80.0014
+_cell_angle_beta     80.0014
+_cell_angle_gamma    36.3641
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.42929  0.42929  0.28664  1.0000
+  Ni  Ni1       1.0  0.00166  0.00166  0.99860  1.0000
+  Ni  Ni2       1.0  0.20342  0.20342  0.66958  1.0000
+  Ni  Ni3       1.0  0.79500  0.79500  0.33154  1.0000
+  Ni  Ni4       1.0  0.00096  0.00096  0.50079  1.0000
+  Ge  Ge1       1.0  0.56854  0.56854  0.71270  1.0000
+  Ge  Ge2       1.0  0.18589  0.18589  0.17775  1.0000
+  Ge  Ge3       1.0  0.81524  0.81524  0.82239  1.0000

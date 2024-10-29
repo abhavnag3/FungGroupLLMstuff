@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Zr2Ga3Co
+_chemical_formula_sum              "Zr2 Ga3 Co1"
+_cell_length_a       5.34289
+_cell_length_b       5.34289
+_cell_length_c       6.54809
+_cell_angle_alpha    52.8936
+_cell_angle_beta     52.8936
+_cell_angle_gamma    46.0032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.54117  0.54117  0.70968  1.0000
+  Zr  Zr2       1.0  0.45578  0.45578  0.29530  1.0000
+  Ga  Ga1       1.0  0.85247  0.85247  0.67505  1.0000
+  Ga  Ga2       1.0  0.82236  0.82236  0.13390  1.0000
+  Ga  Ga3       1.0  0.16238  0.16238  0.89926  1.0000
+  Co  Co1       1.0  0.16584  0.16584  0.28680  1.0000

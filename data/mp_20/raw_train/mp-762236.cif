@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Al6Cr2O12
+_chemical_formula_sum              "Al6 Cr2 O12"
+_cell_length_a       5.24393
+_cell_length_b       4.87694
+_cell_length_c       7.18082
+_cell_angle_alpha    90.0002
+_cell_angle_beta     95.7074
+_cell_angle_gamma    90.0002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.29360  0.00141  0.85311  1.0000
+  Al  Al2       1.0  0.80104  0.50139  0.85045  1.0000
+  Al  Al3       1.0  0.20477  0.50238  0.64664  1.0000
+  Al  Al4       1.0  0.29360  0.99859  0.35311  1.0000
+  Al  Al5       1.0  0.80104  0.49861  0.35046  1.0000
+  Al  Al6       1.0  0.20477  0.49761  0.14664  1.0000
+  Cr  Cr1       1.0  0.69983  0.00155  0.64926  1.0000
+  Cr  Cr2       1.0  0.69983  0.99845  0.14927  1.0000
+  O   O1        1.0  0.64516  0.16551  0.89697  1.0000
+  O   O2        1.0  0.85313  0.36325  0.59521  1.0000
+  O   O3        1.0  0.15300  0.34238  0.90325  1.0000
+  O   O4        1.0  0.33822  0.15398  0.59464  1.0000
+  O   O5        1.0  0.49985  0.68928  0.75434  1.0000
+  O   O6        1.0  0.01140  0.79922  0.75612  1.0000
+  O   O7        1.0  0.49985  0.31072  0.25434  1.0000
+  O   O8        1.0  0.64516  0.83449  0.39698  1.0000
+  O   O9        1.0  0.85313  0.63675  0.09521  1.0000
+  O   O10       1.0  0.15300  0.65762  0.40325  1.0000
+  O   O11       1.0  0.01140  0.20077  0.25612  1.0000
+  O   O12       1.0  0.33822  0.84602  0.09464  1.0000

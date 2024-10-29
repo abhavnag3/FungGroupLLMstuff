@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La4Al4Pt4
+_chemical_formula_sum              "La4 Al4 Pt4"
+_cell_length_a       4.56764
+_cell_length_b       7.31145
+_cell_length_c       7.8918
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.25000  0.03416  0.68071  1.0000
+  La  La2       1.0  0.25000  0.53416  0.81929  1.0000
+  La  La3       1.0  0.75000  0.96584  0.31929  1.0000
+  La  La4       1.0  0.75000  0.46584  0.18071  1.0000
+  Al  Al1       1.0  0.25000  0.14351  0.06852  1.0000
+  Al  Al2       1.0  0.25000  0.64351  0.43148  1.0000
+  Al  Al3       1.0  0.75000  0.85649  0.93148  1.0000
+  Al  Al4       1.0  0.75000  0.35649  0.56852  1.0000
+  Pt  Pt1       1.0  0.25000  0.28644  0.38947  1.0000
+  Pt  Pt2       1.0  0.25000  0.78644  0.11053  1.0000
+  Pt  Pt3       1.0  0.75000  0.71356  0.61053  1.0000
+  Pt  Pt4       1.0  0.75000  0.21356  0.88947  1.0000

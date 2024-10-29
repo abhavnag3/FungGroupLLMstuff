@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn2Sn2F8
+_chemical_formula_sum              "Zn2 Sn2 F8"
+_cell_length_a       5.16879
+_cell_length_b       5.57316
+_cell_length_c       6.66848
+_cell_angle_alpha    107.731
+_cell_angle_beta     110.355
+_cell_angle_gamma    89.8744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25401  0.24763  0.50188  1.0000
+  Zn  Zn2       1.0  0.75112  0.74487  0.50267  1.0000
+  Sn  Sn1       1.0  0.01477  0.52252  0.04718  1.0000
+  Sn  Sn2       1.0  0.48557  0.99357  0.96173  1.0000
+  F   F1        1.0  0.43771  0.70727  0.18704  1.0000
+  F   F2        1.0  0.06696  0.79388  0.81880  1.0000
+  F   F3        1.0  0.60123  0.07302  0.62583  1.0000
+  F   F4        1.0  0.50672  0.59197  0.63700  1.0000
+  F   F5        1.0  0.89994  0.41737  0.37505  1.0000
+  F   F6        1.0  0.00022  0.89769  0.36609  1.0000
+  F   F7        1.0  0.27617  0.22945  0.19643  1.0000
+  F   F8        1.0  0.22723  0.27030  0.80631  1.0000

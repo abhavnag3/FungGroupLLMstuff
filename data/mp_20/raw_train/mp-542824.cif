@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ce3Ag4Sn4
+_chemical_formula_sum              "Ce3 Ag4 Sn4"
+_cell_length_a       8.95232
+_cell_length_b       8.95232
+_cell_length_c       8.95232
+_cell_angle_alpha    149.325
+_cell_angle_beta     131.015
+_cell_angle_gamma    58.9132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ce  Ce2       1.0  0.12968  0.12968  0.00000  1.0000
+  Ce  Ce3       1.0  0.87032  0.87032  0.00000  1.0000
+  Ag  Ag1       1.0  0.52475  0.33084  0.19390  1.0000
+  Ag  Ag2       1.0  0.47525  0.66916  0.80610  1.0000
+  Ag  Ag3       1.0  0.86306  0.66916  0.19390  1.0000
+  Ag  Ag4       1.0  0.13694  0.33084  0.80610  1.0000
+  Sn  Sn1       1.0  0.71536  0.21536  0.50000  1.0000
+  Sn  Sn2       1.0  0.28464  0.78464  0.50000  1.0000
+  Sn  Sn3       1.0  0.19457  0.50000  0.69457  1.0000
+  Sn  Sn4       1.0  0.80543  0.50000  0.30543  1.0000

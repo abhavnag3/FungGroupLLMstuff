@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ba4V4N8
+_chemical_formula_sum              "Ba4 V4 N8"
+_cell_length_a       6.66306
+_cell_length_b       11.9901
+_cell_length_c       7.79216
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    25.8754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.16775  0.56933  1.0000
+  Ba  Ba2       1.0  0.00000  0.83225  0.43067  1.0000
+  Ba  Ba3       1.0  1.00000  0.33225  0.06933  1.0000
+  Ba  Ba4       1.0  0.00000  0.66775  0.93067  1.0000
+  V   V1        1.0  0.00000  0.44446  0.64183  1.0000
+  V   V2        1.0  0.00000  0.55554  0.35817  1.0000
+  V   V3        1.0  0.00000  0.05554  0.14183  1.0000
+  V   V4        1.0  1.00000  0.94446  0.85817  1.0000
+  N   N1        1.0  0.00000  0.10209  0.91171  1.0000
+  N   N2        1.0  1.00000  0.89791  0.08829  1.0000
+  N   N3        1.0  0.00000  0.39791  0.41171  1.0000
+  N   N4        1.0  0.00000  0.60209  0.58829  1.0000
+  N   N5        1.0  0.50000  0.63282  0.75000  1.0000
+  N   N6        1.0  0.50000  0.86718  0.25000  1.0000
+  N   N7        1.0  0.50000  0.36718  0.25000  1.0000
+  N   N8        1.0  0.50000  0.13282  0.75000  1.0000

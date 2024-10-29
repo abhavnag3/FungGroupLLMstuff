@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Pr4Se8
+_chemical_formula_sum              "Ba2 Pr4 Se8"
+_cell_length_a       8.02096
+_cell_length_b       8.02096
+_cell_length_c       8.02096
+_cell_angle_alpha    109.399
+_cell_angle_beta     109.399
+_cell_angle_gamma    109.616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.75000  0.50000  1.0000
+  Ba  Ba2       1.0  0.00000  0.00000  0.00000  1.0000
+  Pr  Pr1       1.0  0.74932  0.37500  0.87432  1.0000
+  Pr  Pr2       1.0  0.62500  0.49932  0.37432  1.0000
+  Pr  Pr3       1.0  0.50068  0.87500  0.12568  1.0000
+  Pr  Pr4       1.0  0.12500  0.25068  0.62568  1.0000
+  Se  Se1       1.0  0.39084  0.14474  0.90983  1.0000
+  Se  Se2       1.0  0.73101  0.98491  0.59017  1.0000
+  Se  Se3       1.0  0.51899  0.60916  0.75390  1.0000
+  Se  Se4       1.0  0.23491  0.48101  0.09017  1.0000
+  Se  Se5       1.0  0.39474  0.14084  0.40983  1.0000
+  Se  Se6       1.0  0.85916  0.26899  0.25390  1.0000
+  Se  Se7       1.0  0.01510  0.60526  0.74610  1.0000
+  Se  Se8       1.0  0.85526  0.76509  0.24610  1.0000

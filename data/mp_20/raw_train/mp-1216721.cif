@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tm5Te4Se
+_chemical_formula_sum              "Tm5 Te4 Se1"
+_cell_length_a       7.47927
+_cell_length_b       7.47927
+_cell_length_c       10.3015
+_cell_angle_alpha    62.0873
+_cell_angle_beta     62.0873
+_cell_angle_gamma    32.7995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.00000  0.00000  0.50000  1.0000
+  Tm  Tm2       1.0  0.58376  0.58376  0.08817  1.0000
+  Tm  Tm3       1.0  0.18414  0.18414  0.73021  1.0000
+  Tm  Tm4       1.0  0.81586  0.81586  0.26979  1.0000
+  Tm  Tm5       1.0  0.41624  0.41624  0.91183  1.0000
+  Te  Te1       1.0  0.60946  0.60946  0.58916  1.0000
+  Te  Te2       1.0  0.19355  0.19355  0.19199  1.0000
+  Te  Te3       1.0  0.80645  0.80645  0.80801  1.0000
+  Te  Te4       1.0  0.39054  0.39054  0.41084  1.0000
+  Se  Se1       1.0  0.00000  0.00000  0.00000  1.0000

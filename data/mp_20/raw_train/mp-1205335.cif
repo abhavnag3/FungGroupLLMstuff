@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rb2Ag6S4
+_chemical_formula_sum              "Rb2 Ag6 S4"
+_cell_length_a       8.39688
+_cell_length_b       8.39688
+_cell_length_c       8.97512
+_cell_angle_alpha    66.1523
+_cell_angle_beta     66.1523
+_cell_angle_gamma    29.9828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.13454  0.13454  0.95549  1.0000
+  Rb  Rb2       1.0  0.86546  0.86546  0.04451  1.0000
+  Ag  Ag1       1.0  0.59839  0.59839  0.34637  1.0000
+  Ag  Ag2       1.0  0.40161  0.40161  0.65363  1.0000
+  Ag  Ag3       1.0  0.68737  0.68737  0.58320  1.0000
+  Ag  Ag4       1.0  0.31262  0.31262  0.41680  1.0000
+  Ag  Ag5       1.0  0.05729  0.05729  0.60022  1.0000
+  Ag  Ag6       1.0  0.94271  0.94271  0.39979  1.0000
+  S   S1        1.0  0.19683  0.19683  0.30302  1.0000
+  S   S2        1.0  0.80317  0.80317  0.69698  1.0000
+  S   S3        1.0  0.51745  0.51745  0.77471  1.0000
+  S   S4        1.0  0.48255  0.48255  0.22529  1.0000

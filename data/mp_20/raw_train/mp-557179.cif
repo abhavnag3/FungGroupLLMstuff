@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Na2Sb2S4
+_chemical_formula_sum              "Na2 Sb2 S4"
+_cell_length_a       7.01486
+_cell_length_b       7.01486
+_cell_length_c       5.94228
+_cell_angle_alpha    66.5074
+_cell_angle_beta     66.5074
+_cell_angle_gamma    46.9447
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.62633  0.62633  0.13544  1.0000
+  Na  Na2       1.0  0.37367  0.37367  0.86456  1.0000
+  Sb  Sb1       1.0  0.86863  0.86863  0.41056  1.0000
+  Sb  Sb2       1.0  0.13137  0.13137  0.58944  1.0000
+  S   S1        1.0  0.11830  0.11830  0.19012  1.0000
+  S   S2        1.0  0.63734  0.63734  0.63245  1.0000
+  S   S3        1.0  0.88170  0.88170  0.80988  1.0000
+  S   S4        1.0  0.36266  0.36266  0.36755  1.0000

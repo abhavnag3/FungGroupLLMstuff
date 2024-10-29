@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       KNaB2H8
+_chemical_formula_sum              "K1 Na1 B2 H8"
+_cell_length_a       7.87129
+_cell_length_b       7.87129
+_cell_length_c       7.87129
+_cell_angle_alpha    33.6561
+_cell_angle_beta     33.6561
+_cell_angle_gamma    33.6561
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.35251  0.35251  0.35251  1.0000
+  Na  Na1       1.0  0.85647  0.85647  0.85647  1.0000
+  B   B1        1.0  0.59213  0.59213  0.59213  1.0000
+  B   B2        1.0  0.10375  0.10375  0.10375  1.0000
+  H   H1        1.0  0.85719  0.36558  0.14152  1.0000
+  H   H2        1.0  0.53708  0.53708  0.53708  1.0000
+  H   H3        1.0  0.14152  0.85719  0.36558  1.0000
+  H   H4        1.0  0.31804  0.75636  0.75838  1.0000
+  H   H5        1.0  0.36558  0.14152  0.85719  1.0000
+  H   H6        1.0  0.04837  0.04837  0.04837  1.0000
+  H   H7        1.0  0.75838  0.31804  0.75636  1.0000
+  H   H8        1.0  0.75636  0.75838  0.31804  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb3HoCo8
+_chemical_formula_sum              "Tb3 Ho1 Co8"
+_cell_length_a       5.04749
+_cell_length_b       5.04749
+_cell_length_c       8.78794
+_cell_angle_alpha    73.3106
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.81253  0.12505  0.56242  1.0000
+  Tb  Tb2       1.0  0.18749  0.87497  0.43754  1.0000
+  Tb  Tb3       1.0  0.68740  0.87480  0.93780  1.0000
+  Ho  Ho1       1.0  0.31258  0.12516  0.06227  1.0000
+  Co  Co1       1.0  0.99997  0.49994  0.00009  1.0000
+  Co  Co2       1.0  0.50002  0.50004  0.49995  1.0000
+  Co  Co3       1.0  0.75010  0.00019  0.24968  1.0000
+  Co  Co4       1.0  0.24999  0.99999  0.75030  1.0000
+  Co  Co5       1.0  0.75010  0.50022  0.24968  1.0000
+  Co  Co6       1.0  0.25000  0.49971  0.75030  1.0000
+  Co  Co7       1.0  0.25012  0.50022  0.24968  1.0000
+  Co  Co8       1.0  0.74971  0.49971  0.75030  1.0000

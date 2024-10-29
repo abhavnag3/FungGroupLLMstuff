@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       ZnNi9O10
+_chemical_formula_sum              "Zn1 Ni9 O10"
+_cell_length_a       5.19347
+_cell_length_b       5.99483
+_cell_length_c       6.71379
+_cell_angle_alpha    102.913
+_cell_angle_beta     97.4804
+_cell_angle_gamma    106.771
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni2       1.0  0.40028  0.79947  0.79940  1.0000
+  Ni  Ni3       1.0  0.40024  0.30020  0.79909  1.0000
+  Ni  Ni4       1.0  0.20033  0.40068  0.40124  1.0000
+  Ni  Ni5       1.0  0.79967  0.59932  0.59876  1.0000
+  Ni  Ni6       1.0  0.79947  0.10017  0.59970  1.0000
+  Ni  Ni7       1.0  0.20053  0.89983  0.40030  1.0000
+  Ni  Ni8       1.0  0.59976  0.69980  0.20091  1.0000
+  Ni  Ni9       1.0  0.59972  0.20053  0.20060  1.0000
+  O   O1        1.0  0.69616  0.15153  0.89929  1.0000
+  O   O2        1.0  0.09921  0.45032  0.70047  1.0000
+  O   O3        1.0  0.69659  0.64598  0.89845  1.0000
+  O   O4        1.0  0.10059  0.94893  0.69617  1.0000
+  O   O5        1.0  0.50006  0.25002  0.49893  1.0000
+  O   O6        1.0  0.49994  0.74998  0.50107  1.0000
+  O   O7        1.0  0.30341  0.35402  0.10155  1.0000
+  O   O8        1.0  0.90079  0.54968  0.29953  1.0000
+  O   O9        1.0  0.89941  0.05107  0.30383  1.0000
+  O   O10       1.0  0.30384  0.84847  0.10071  1.0000

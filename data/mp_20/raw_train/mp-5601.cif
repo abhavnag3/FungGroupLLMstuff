@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho4Co4Sn4
+_chemical_formula_sum              "Ho4 Co4 Sn4"
+_cell_length_a       4.57929
+_cell_length_b       7.23886
+_cell_length_c       7.30341
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.47668  0.70048  1.0000
+  Ho  Ho2       1.0  0.25000  0.97668  0.79952  1.0000
+  Ho  Ho3       1.0  0.75000  0.02332  0.20048  1.0000
+  Ho  Ho4       1.0  0.75000  0.52332  0.29952  1.0000
+  Co  Co1       1.0  0.75000  0.84195  0.55874  1.0000
+  Co  Co2       1.0  0.25000  0.15805  0.44126  1.0000
+  Co  Co3       1.0  0.75000  0.34195  0.94126  1.0000
+  Co  Co4       1.0  0.25000  0.65805  0.05874  1.0000
+  Sn  Sn1       1.0  0.75000  0.70210  0.89182  1.0000
+  Sn  Sn2       1.0  0.25000  0.79790  0.39182  1.0000
+  Sn  Sn3       1.0  0.25000  0.29790  0.10818  1.0000
+  Sn  Sn4       1.0  0.75000  0.20210  0.60818  1.0000

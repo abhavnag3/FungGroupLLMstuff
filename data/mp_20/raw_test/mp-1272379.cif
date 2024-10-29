@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Co4H8O8
+_chemical_formula_sum              "Co4 H8 O8"
+_cell_length_a       5.57369
+_cell_length_b       6.4
+_cell_length_c       6.47702
+_cell_angle_alpha    111.982
+_cell_angle_beta     121.058
+_cell_angle_gamma    91.2593
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.03292  0.97683  0.97630  1.0000
+  Co  Co2       1.0  0.53418  0.72894  0.97634  1.0000
+  Co  Co3       1.0  0.03265  0.47660  0.97597  1.0000
+  Co  Co4       1.0  0.53444  0.22914  0.97641  1.0000
+  H   H1        1.0  0.95453  0.55458  0.57064  1.0000
+  H   H2        1.0  0.45584  0.30647  0.57009  1.0000
+  H   H3        1.0  0.95467  0.05441  0.57072  1.0000
+  H   H4        1.0  0.45588  0.80654  0.57009  1.0000
+  H   H5        1.0  0.61664  0.64757  0.38180  1.0000
+  H   H6        1.0  0.11566  0.39763  0.38229  1.0000
+  H   H7        1.0  0.61691  0.14768  0.38199  1.0000
+  H   H8        1.0  0.11598  0.89757  0.38245  1.0000
+  O   O1        1.0  0.07516  0.64104  0.76652  1.0000
+  O   O2        1.0  0.57497  0.39275  0.76598  1.0000
+  O   O3        1.0  0.07523  0.14109  0.76657  1.0000
+  O   O4        1.0  0.57492  0.89278  0.76599  1.0000
+  O   O5        1.0  0.49245  0.56375  0.18581  1.0000
+  O   O6        1.0  0.99284  0.31269  0.18634  1.0000
+  O   O7        1.0  0.49282  0.06398  0.18598  1.0000
+  O   O8        1.0  0.99263  0.81250  0.18650  1.0000

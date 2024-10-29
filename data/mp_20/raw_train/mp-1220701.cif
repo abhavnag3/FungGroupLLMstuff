@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Nb3Ir2Se10
+_chemical_formula_sum              "Nb3 Ir2 Se10"
+_cell_length_a       5.79806
+_cell_length_b       7.75886
+_cell_length_c       9.25786
+_cell_angle_alpha    113.642
+_cell_angle_beta     106.907
+_cell_angle_gamma    90.1865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.33558  0.64287  0.64829  1.0000
+  Nb  Nb2       1.0  0.50000  0.00000  0.00000  1.0000
+  Nb  Nb3       1.0  0.66442  0.35713  0.35171  1.0000
+  Ir  Ir1       1.0  0.88789  0.79303  0.79296  1.0000
+  Ir  Ir2       1.0  0.11211  0.20697  0.20704  1.0000
+  Se  Se1       1.0  0.26942  0.65898  0.91082  1.0000
+  Se  Se2       1.0  0.46522  0.03609  0.29255  1.0000
+  Se  Se3       1.0  0.68962  0.45693  0.68288  1.0000
+  Se  Se4       1.0  0.89672  0.86692  0.09053  1.0000
+  Se  Se5       1.0  0.08939  0.27955  0.49324  1.0000
+  Se  Se6       1.0  0.10329  0.13308  0.90947  1.0000
+  Se  Se7       1.0  0.31038  0.54307  0.31712  1.0000
+  Se  Se8       1.0  0.53478  0.96391  0.70745  1.0000
+  Se  Se9       1.0  0.73058  0.34102  0.08918  1.0000
+  Se  Se10      1.0  0.91061  0.72045  0.50676  1.0000

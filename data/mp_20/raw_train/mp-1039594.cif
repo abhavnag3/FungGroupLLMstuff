@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce3Mg3
+_chemical_formula_sum              "Ce3 Mg3"
+_cell_length_a       6.71401
+_cell_length_b       6.71401
+_cell_length_c       7.6529
+_cell_angle_alpha    76.1643
+_cell_angle_beta     76.1643
+_cell_angle_gamma    27.3077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.66613  0.66613  0.65518  1.0000
+  Ce  Ce2       1.0  0.07881  0.07881  0.39206  1.0000
+  Ce  Ce3       1.0  0.69935  0.69935  0.07039  1.0000
+  Mg  Mg1       1.0  0.98425  0.98425  0.00105  1.0000
+  Mg  Mg2       1.0  0.39005  0.39005  0.72121  1.0000
+  Mg  Mg3       1.0  0.34807  0.34807  0.32679  1.0000

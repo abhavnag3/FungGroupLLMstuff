@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr8Pd4
+_chemical_formula_sum              "Sr8 Pd4"
+_cell_length_a       4.95512
+_cell_length_b       8.32258
+_cell_length_c       9.82003
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75000  0.64399  0.07355  1.0000
+  Sr  Sr2       1.0  0.75000  0.14399  0.42645  1.0000
+  Sr  Sr3       1.0  0.25000  0.35601  0.92645  1.0000
+  Sr  Sr4       1.0  0.25000  0.85601  0.57355  1.0000
+  Sr  Sr5       1.0  0.75000  0.52106  0.66297  1.0000
+  Sr  Sr6       1.0  0.75000  0.02106  0.83703  1.0000
+  Sr  Sr7       1.0  0.25000  0.47894  0.33703  1.0000
+  Sr  Sr8       1.0  0.25000  0.97894  0.16297  1.0000
+  Pd  Pd1       1.0  0.75000  0.25338  0.11040  1.0000
+  Pd  Pd2       1.0  0.75000  0.75338  0.38960  1.0000
+  Pd  Pd3       1.0  0.25000  0.74662  0.88960  1.0000
+  Pd  Pd4       1.0  0.25000  0.24662  0.61040  1.0000

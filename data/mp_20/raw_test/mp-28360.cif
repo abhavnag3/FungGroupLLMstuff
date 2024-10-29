@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Cr2Cl12
+_chemical_formula_sum              "Na6 Cr2 Cl12"
+_cell_length_a       6.90508
+_cell_length_b       6.90508
+_cell_length_c       12.1504
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.75000  1.0000
+  Na  Na2       1.0  0.00000  0.00000  0.25000  1.0000
+  Na  Na3       1.0  0.66667  0.33333  0.45578  1.0000
+  Na  Na4       1.0  0.66667  0.33333  0.04422  1.0000
+  Na  Na5       1.0  0.33333  0.66667  0.54422  1.0000
+  Na  Na6       1.0  0.33333  0.66667  0.95578  1.0000
+  Cr  Cr1       1.0  0.33333  0.66667  0.25000  1.0000
+  Cr  Cr2       1.0  0.66667  0.33333  0.75000  1.0000
+  Cl  Cl1       1.0  0.38274  0.32249  0.86474  1.0000
+  Cl  Cl2       1.0  0.93974  0.61726  0.86474  1.0000
+  Cl  Cl3       1.0  0.38274  0.06026  0.63526  1.0000
+  Cl  Cl4       1.0  0.93974  0.32249  0.63526  1.0000
+  Cl  Cl5       1.0  0.32249  0.93974  0.13525  1.0000
+  Cl  Cl6       1.0  0.67751  0.61726  0.63526  1.0000
+  Cl  Cl7       1.0  0.06026  0.38274  0.13525  1.0000
+  Cl  Cl8       1.0  0.61726  0.67751  0.13525  1.0000
+  Cl  Cl9       1.0  0.32248  0.38274  0.36474  1.0000
+  Cl  Cl10      1.0  0.61726  0.93974  0.36474  1.0000
+  Cl  Cl11      1.0  0.06026  0.67751  0.36474  1.0000
+  Cl  Cl12      1.0  0.67751  0.06026  0.86474  1.0000

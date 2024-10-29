@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Cs6Fe2O5
+_chemical_formula_sum              "Cs6 Fe2 O5"
+_cell_length_a       7.31991
+_cell_length_b       7.31991
+_cell_length_c       7.48292
+_cell_angle_alpha    87.0996
+_cell_angle_beta     87.0996
+_cell_angle_gamma    117.67
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.99195  0.99194  0.36585  1.0000
+  Cs  Cs2       1.0  0.70282  0.70282  0.99556  1.0000
+  Cs  Cs3       1.0  0.59622  0.10918  0.68442  1.0000
+  Cs  Cs4       1.0  0.10918  0.59622  0.68442  1.0000
+  Cs  Cs5       1.0  0.56635  0.13951  0.18146  1.0000
+  Cs  Cs6       1.0  0.13951  0.56635  0.18146  1.0000
+  Fe  Fe1       1.0  0.16249  0.16249  0.87780  1.0000
+  Fe  Fe2       1.0  0.55189  0.55189  0.50965  1.0000
+  O   O1        1.0  0.38949  0.38949  0.72986  1.0000
+  O   O2        1.0  0.51291  0.77489  0.40988  1.0000
+  O   O3        1.0  0.77489  0.51291  0.40988  1.0000
+  O   O4        1.0  0.18374  0.92217  0.95758  1.0000
+  O   O5        1.0  0.92217  0.18374  0.95758  1.0000

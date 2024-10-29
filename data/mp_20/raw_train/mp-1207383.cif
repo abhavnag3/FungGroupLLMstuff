@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Zr5Zn4Si4
+_chemical_formula_sum              "Zr5 Zn4 Si4"
+_cell_length_a       7.90414
+_cell_length_b       7.90414
+_cell_length_c       7.90414
+_cell_angle_alpha    93.3775
+_cell_angle_beta     93.3775
+_cell_angle_gamma    151.905
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.37060  0.29881  0.66941  1.0000
+  Zr  Zr2       1.0  0.62940  0.70118  0.33059  1.0000
+  Zr  Zr3       1.0  0.70118  0.37060  0.07178  1.0000
+  Zr  Zr4       1.0  0.29881  0.62940  0.92822  1.0000
+  Zr  Zr5       1.0  0.00000  0.00000  0.00000  1.0000
+  Zn  Zn1       1.0  0.10475  0.41445  0.51920  1.0000
+  Zn  Zn2       1.0  0.89525  0.58555  0.48080  1.0000
+  Zn  Zn3       1.0  0.58555  0.10475  0.69030  1.0000
+  Zn  Zn4       1.0  0.41445  0.89525  0.30970  1.0000
+  Si  Si1       1.0  0.24350  0.05947  0.30296  1.0000
+  Si  Si2       1.0  0.75650  0.94053  0.69704  1.0000
+  Si  Si3       1.0  0.94053  0.24350  0.18403  1.0000
+  Si  Si4       1.0  0.05947  0.75650  0.81597  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K2Li2Sn2O4
+_chemical_formula_sum              "K2 Li2 Sn2 O4"
+_cell_length_a       7.11384
+_cell_length_b       7.11384
+_cell_length_c       10.0026
+_cell_angle_alpha    54.2984
+_cell_angle_beta     54.2984
+_cell_angle_gamma    27.5568
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.49550  0.49550  0.69642  1.0000
+  K   K2        1.0  0.50450  0.50450  0.30358  1.0000
+  Li  Li1       1.0  0.24331  0.24330  0.42381  1.0000
+  Li  Li2       1.0  0.75670  0.75670  0.57619  1.0000
+  Sn  Sn1       1.0  0.19807  0.19807  0.83819  1.0000
+  Sn  Sn2       1.0  0.80193  0.80193  0.16181  1.0000
+  O   O1        1.0  0.83328  0.83328  0.33938  1.0000
+  O   O2        1.0  0.17798  0.17798  0.29314  1.0000
+  O   O3        1.0  0.82203  0.82202  0.70686  1.0000
+  O   O4        1.0  0.16672  0.16672  0.66062  1.0000

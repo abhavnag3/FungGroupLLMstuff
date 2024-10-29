@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Ce2NiPt
+_chemical_formula_sum              "Ce2 Ni1 Pt1"
+_cell_length_a       5.76113
+_cell_length_b       5.76113
+_cell_length_c       4.31313
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    141.987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.13765  0.86235  0.00000  1.0000
+  Ce  Ce2       1.0  0.86571  0.13429  0.50000  1.0000
+  Ni  Ni1       1.0  0.41090  0.58910  0.00000  1.0000
+  Pt  Pt1       1.0  0.58574  0.41426  0.50000  1.0000

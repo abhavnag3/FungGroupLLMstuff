@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cr12C4
+_chemical_formula_sum              "Cr12 C4"
+_cell_length_a       4.52527
+_cell_length_b       5.18604
+_cell_length_c       6.65882
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.34232  0.67800  0.05964  1.0000
+  Cr  Cr2       1.0  0.15768  0.17800  0.44036  1.0000
+  Cr  Cr3       1.0  0.65768  0.32200  0.55964  1.0000
+  Cr  Cr4       1.0  0.84232  0.82200  0.94036  1.0000
+  Cr  Cr5       1.0  0.65768  0.32200  0.94036  1.0000
+  Cr  Cr6       1.0  0.84232  0.82200  0.55964  1.0000
+  Cr  Cr7       1.0  0.34232  0.67800  0.44036  1.0000
+  Cr  Cr8       1.0  0.15768  0.17800  0.05964  1.0000
+  Cr  Cr9       1.0  0.84152  0.53091  0.25000  1.0000
+  Cr  Cr10      1.0  0.65848  0.03091  0.25000  1.0000
+  Cr  Cr11      1.0  0.15848  0.46909  0.75000  1.0000
+  Cr  Cr12      1.0  0.34153  0.96909  0.75000  1.0000
+  C   C1        1.0  0.06785  0.87388  0.25000  1.0000
+  C   C2        1.0  0.43215  0.37388  0.25000  1.0000
+  C   C3        1.0  0.93215  0.12612  0.75000  1.0000
+  C   C4        1.0  0.56785  0.62612  0.75000  1.0000

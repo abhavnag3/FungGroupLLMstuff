@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       V4FeNiO12
+_chemical_formula_sum              "V4 Fe1 Ni1 O12"
+_cell_length_a       5.91265
+_cell_length_b       6.82717
+_cell_length_c       6.8418
+_cell_angle_alpha    96.2058
+_cell_angle_beta     74.6273
+_cell_angle_gamma    105.295
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.75241  0.20561  0.61518  1.0000
+  V   V2        1.0  0.74795  0.61512  0.20570  1.0000
+  V   V3        1.0  0.25710  0.38779  0.79214  1.0000
+  V   V4        1.0  0.24297  0.79229  0.38757  1.0000
+  Fe  Fe1       1.0  0.74935  0.08612  0.08632  1.0000
+  Ni  Ni1       1.0  0.25028  0.91453  0.91427  1.0000
+  O   O1        1.0  0.62899  0.03847  0.80893  1.0000
+  O   O2        1.0  0.86998  0.80973  0.03899  1.0000
+  O   O3        1.0  0.76967  0.08519  0.38666  1.0000
+  O   O4        1.0  0.73091  0.38582  0.08553  1.0000
+  O   O5        1.0  0.14806  0.19569  0.96029  1.0000
+  O   O6        1.0  0.35244  0.96078  0.19584  1.0000
+  O   O7        1.0  0.55405  0.37204  0.64661  1.0000
+  O   O8        1.0  0.94604  0.64671  0.37145  1.0000
+  O   O9        1.0  0.05050  0.34668  0.63124  1.0000
+  O   O10       1.0  0.45013  0.63090  0.34659  1.0000
+  O   O11       1.0  0.27429  0.61905  0.90808  1.0000
+  O   O12       1.0  0.22489  0.90746  0.61864  1.0000

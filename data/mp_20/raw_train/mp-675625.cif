@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K2N2O6
+_chemical_formula_sum              "K2 N2 O6"
+_cell_length_a       4.62593
+_cell_length_b       5.57294
+_cell_length_c       7.24597
+_cell_angle_alpha    89.9074
+_cell_angle_beta     73.4784
+_cell_angle_gamma    89.8348
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.02262  0.00203  0.98178  1.0000
+  K   K2        1.0  0.53330  0.49796  0.49012  1.0000
+  N   N1        1.0  0.63237  0.49919  0.93399  1.0000
+  N   N2        1.0  0.04128  0.00088  0.47915  1.0000
+  O   O1        1.0  0.15751  0.89136  0.59317  1.0000
+  O   O2        1.0  0.77138  0.49875  0.06294  1.0000
+  O   O3        1.0  0.92529  0.88365  0.36774  1.0000
+  O   O4        1.0  0.56627  0.69614  0.86869  1.0000
+  O   O5        1.0  0.56608  0.30168  0.86936  1.0000
+  O   O6        1.0  0.04190  0.22836  0.47406  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy10In6
+_chemical_formula_sum              "Dy10 In6"
+_cell_length_a       9.1958
+_cell_length_b       9.1958
+_cell_length_c       9.1958
+_cell_angle_alpha    96.0957
+_cell_angle_beta     96.0957
+_cell_angle_gamma    141.964
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.71947  0.41675  0.13621  1.0000
+  Dy  Dy2       1.0  0.28053  0.58325  0.86379  1.0000
+  Dy  Dy3       1.0  0.58325  0.71947  0.30272  1.0000
+  Dy  Dy4       1.0  0.21946  0.08325  0.30272  1.0000
+  Dy  Dy5       1.0  0.91675  0.21946  0.13621  1.0000
+  Dy  Dy6       1.0  0.75000  0.25000  0.50000  1.0000
+  Dy  Dy7       1.0  0.25000  0.75000  0.50000  1.0000
+  Dy  Dy8       1.0  0.78053  0.91675  0.69728  1.0000
+  Dy  Dy9       1.0  0.41675  0.28053  0.69728  1.0000
+  Dy  Dy10      1.0  0.08325  0.78054  0.86379  1.0000
+  In  In1       1.0  0.83864  0.66136  0.50000  1.0000
+  In  In2       1.0  0.33864  0.83864  0.17728  1.0000
+  In  In3       1.0  0.75000  0.75000  0.00000  1.0000
+  In  In4       1.0  0.66136  0.16136  0.82272  1.0000
+  In  In5       1.0  0.16136  0.33864  0.50000  1.0000
+  In  In6       1.0  0.25000  0.25000  0.00000  1.0000

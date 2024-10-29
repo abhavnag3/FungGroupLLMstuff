@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca12As4N4
+_chemical_formula_sum              "Ca12 As4 N4"
+_cell_length_a       6.74242
+_cell_length_b       6.74444
+_cell_length_c       9.56939
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.03810  0.49393  0.25000  1.0000
+  Ca  Ca2       1.0  0.46190  0.99393  0.25000  1.0000
+  Ca  Ca3       1.0  0.53810  0.00607  0.75000  1.0000
+  Ca  Ca4       1.0  0.96190  0.50607  0.75000  1.0000
+  Ca  Ca5       1.0  0.71724  0.28277  0.01963  1.0000
+  Ca  Ca6       1.0  0.78276  0.78277  0.48037  1.0000
+  Ca  Ca7       1.0  0.21724  0.21723  0.98037  1.0000
+  Ca  Ca8       1.0  0.28276  0.71723  0.51963  1.0000
+  Ca  Ca9       1.0  0.28276  0.71723  0.98037  1.0000
+  Ca  Ca10      1.0  0.21724  0.21723  0.51963  1.0000
+  Ca  Ca11      1.0  0.78276  0.78277  0.01963  1.0000
+  Ca  Ca12      1.0  0.71724  0.28277  0.48037  1.0000
+  As  As1       1.0  0.00212  0.98346  0.75000  1.0000
+  As  As2       1.0  0.49788  0.48346  0.75000  1.0000
+  As  As3       1.0  0.50212  0.51654  0.25000  1.0000
+  As  As4       1.0  0.99788  0.01654  0.25000  1.0000
+  N   N1        1.0  0.50000  0.00000  0.50000  1.0000
+  N   N2        1.0  0.00000  0.50000  0.00000  1.0000
+  N   N3        1.0  0.00000  0.50000  0.50000  1.0000
+  N   N4        1.0  0.50000  0.00000  0.00000  1.0000

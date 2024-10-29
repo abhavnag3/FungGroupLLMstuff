@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nd2Ga8Ni2
+_chemical_formula_sum              "Nd2 Ga8 Ni2"
+_cell_length_a       4.2141
+_cell_length_b       6.54186
+_cell_length_c       8.06761
+_cell_angle_alpha    90
+_cell_angle_beta     105.14
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.88334  0.75000  0.76667  1.0000
+  Nd  Nd2       1.0  0.11666  0.25000  0.23333  1.0000
+  Ga  Ga1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.00000  0.00000  1.0000
+  Ga  Ga3       1.0  0.07340  0.75000  0.14680  1.0000
+  Ga  Ga4       1.0  0.92660  0.25000  0.85320  1.0000
+  Ga  Ga5       1.0  0.68721  0.55240  0.37441  1.0000
+  Ga  Ga6       1.0  0.31279  0.44760  0.62559  1.0000
+  Ga  Ga7       1.0  0.68721  0.94760  0.37441  1.0000
+  Ga  Ga8       1.0  0.31279  0.05240  0.62559  1.0000
+  Ni  Ni1       1.0  0.22343  0.75000  0.44686  1.0000
+  Ni  Ni2       1.0  0.77657  0.25000  0.55314  1.0000

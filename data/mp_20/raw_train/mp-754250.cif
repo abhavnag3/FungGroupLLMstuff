@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4Lu4O8
+_chemical_formula_sum              "Na4 Lu4 O8"
+_cell_length_a       7.28612
+_cell_length_b       7.28612
+_cell_length_c       5.82255
+_cell_angle_alpha    75.8943
+_cell_angle_beta     75.8943
+_cell_angle_gamma    126.363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.55583  0.44417  0.75000  1.0000
+  Na  Na2       1.0  0.68056  0.31944  0.25000  1.0000
+  Na  Na3       1.0  0.31944  0.68056  0.75000  1.0000
+  Na  Na4       1.0  0.44417  0.55583  0.25000  1.0000
+  Lu  Lu1       1.0  0.19312  0.80688  0.25000  1.0000
+  Lu  Lu2       1.0  0.93325  0.06675  0.25000  1.0000
+  Lu  Lu3       1.0  0.06675  0.93325  0.75000  1.0000
+  Lu  Lu4       1.0  0.80688  0.19312  0.75000  1.0000
+  O   O1        1.0  0.13810  0.26521  0.79453  1.0000
+  O   O2        1.0  0.95933  0.58330  0.70772  1.0000
+  O   O3        1.0  0.26521  0.13810  0.29453  1.0000
+  O   O4        1.0  0.41670  0.04067  0.79228  1.0000
+  O   O5        1.0  0.58330  0.95933  0.20772  1.0000
+  O   O6        1.0  0.73479  0.86190  0.70547  1.0000
+  O   O7        1.0  0.04067  0.41670  0.29228  1.0000
+  O   O8        1.0  0.86190  0.73479  0.20547  1.0000

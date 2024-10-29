@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho4B8Ru4
+_chemical_formula_sum              "Ho4 B8 Ru4"
+_cell_length_a       5.30584
+_cell_length_b       5.90114
+_cell_length_c       6.34561
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.51072  0.83677  1.0000
+  Ho  Ho2       1.0  0.25000  0.01072  0.66323  1.0000
+  Ho  Ho3       1.0  0.75000  0.48928  0.16323  1.0000
+  Ho  Ho4       1.0  0.75000  0.98928  0.33677  1.0000
+  B   B1        1.0  0.08369  0.86857  0.03807  1.0000
+  B   B2        1.0  0.41631  0.36857  0.46192  1.0000
+  B   B3        1.0  0.58369  0.13143  0.96193  1.0000
+  B   B4        1.0  0.91631  0.63143  0.53807  1.0000
+  B   B5        1.0  0.91631  0.13143  0.96193  1.0000
+  B   B6        1.0  0.58369  0.63143  0.53807  1.0000
+  B   B7        1.0  0.41631  0.86857  0.03807  1.0000
+  B   B8        1.0  0.08369  0.36857  0.46192  1.0000
+  Ru  Ru1       1.0  0.25000  0.68104  0.31861  1.0000
+  Ru  Ru2       1.0  0.25000  0.18104  0.18139  1.0000
+  Ru  Ru3       1.0  0.75000  0.31896  0.68139  1.0000
+  Ru  Ru4       1.0  0.75000  0.81896  0.81861  1.0000

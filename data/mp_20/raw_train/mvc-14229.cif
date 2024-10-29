@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2Mn2F10
+_chemical_formula_sum              "Mg2 Mn2 F10"
+_cell_length_a       5.28558
+_cell_length_b       5.29977
+_cell_length_c       7.68188
+_cell_angle_alpha    99.5678
+_cell_angle_beta     107.127
+_cell_angle_gamma    110.197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.27677  0.52302  0.75279  1.0000
+  Mg  Mg2       1.0  0.72554  0.47885  0.24509  1.0000
+  Mn  Mn1       1.0  0.00164  0.00091  0.99858  1.0000
+  Mn  Mn2       1.0  0.50152  0.00084  0.49969  1.0000
+  F   F1        1.0  0.40128  0.14949  0.25001  1.0000
+  F   F2        1.0  0.60177  0.85096  0.74843  1.0000
+  F   F3        1.0  0.59798  0.73982  0.36956  1.0000
+  F   F4        1.0  0.86126  0.22220  0.12386  1.0000
+  F   F5        1.0  0.77308  0.68742  0.05666  1.0000
+  F   F6        1.0  0.12683  0.71180  0.43655  1.0000
+  F   F7        1.0  0.23445  0.31663  0.94402  1.0000
+  F   F8        1.0  0.87653  0.28763  0.56323  1.0000
+  F   F9        1.0  0.13521  0.77604  0.87100  1.0000
+  F   F10       1.0  0.40743  0.26236  0.63124  1.0000

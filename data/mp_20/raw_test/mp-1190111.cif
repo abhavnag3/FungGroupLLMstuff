@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ga4H4Cl8
+_chemical_formula_sum              "Ga4 H4 Cl8"
+_cell_length_a       6.96434
+_cell_length_b       6.96434
+_cell_length_c       10.2795
+_cell_angle_alpha    88.7535
+_cell_angle_beta     88.7535
+_cell_angle_gamma    124.86
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.94236  0.67371  0.57573  1.0000
+  Ga  Ga2       1.0  0.32629  0.05764  0.92427  1.0000
+  Ga  Ga3       1.0  0.05764  0.32629  0.42428  1.0000
+  Ga  Ga4       1.0  0.67371  0.94236  0.07573  1.0000
+  H   H1        1.0  0.69829  0.57976  0.63414  1.0000
+  H   H2        1.0  0.42024  0.30171  0.86586  1.0000
+  H   H3        1.0  0.30171  0.42024  0.36586  1.0000
+  H   H4        1.0  0.57976  0.69829  0.13414  1.0000
+  Cl  Cl1       1.0  0.25327  0.03052  0.58125  1.0000
+  Cl  Cl2       1.0  0.96948  0.74673  0.91875  1.0000
+  Cl  Cl3       1.0  0.74673  0.96948  0.41875  1.0000
+  Cl  Cl4       1.0  0.03052  0.25327  0.08125  1.0000
+  Cl  Cl5       1.0  0.92755  0.56068  0.36014  1.0000
+  Cl  Cl6       1.0  0.43931  0.07245  0.13986  1.0000
+  Cl  Cl7       1.0  0.07245  0.43931  0.63986  1.0000
+  Cl  Cl8       1.0  0.56068  0.92755  0.86014  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ce4B4Ir10
+_chemical_formula_sum              "Ce4 B4 Ir10"
+_cell_length_a       11.0507
+_cell_length_b       11.0507
+_cell_length_c       11.0507
+_cell_angle_alpha    28.8667
+_cell_angle_beta     28.8667
+_cell_angle_gamma    28.8667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.15216  0.15215  0.15216  1.0000
+  Ce  Ce2       1.0  0.94872  0.94872  0.94872  1.0000
+  Ce  Ce3       1.0  0.84784  0.84785  0.84784  1.0000
+  Ce  Ce4       1.0  0.05128  0.05128  0.05128  1.0000
+  B   B1        1.0  0.61756  0.61756  0.61756  1.0000
+  B   B2        1.0  0.71663  0.71663  0.71663  1.0000
+  B   B3        1.0  0.38244  0.38244  0.38244  1.0000
+  B   B4        1.0  0.28337  0.28337  0.28337  1.0000
+  Ir  Ir1       1.0  0.40643  0.89931  0.40643  1.0000
+  Ir  Ir2       1.0  0.89931  0.40643  0.40643  1.0000
+  Ir  Ir3       1.0  0.50000  0.50000  0.00000  1.0000
+  Ir  Ir4       1.0  0.50000  0.00000  0.50000  1.0000
+  Ir  Ir5       1.0  0.00000  0.50000  0.50000  1.0000
+  Ir  Ir6       1.0  0.50000  0.50000  0.50000  1.0000
+  Ir  Ir7       1.0  0.59357  0.10069  0.59357  1.0000
+  Ir  Ir8       1.0  0.59357  0.59357  0.10069  1.0000
+  Ir  Ir9       1.0  0.10069  0.59357  0.59357  1.0000
+  Ir  Ir10      1.0  0.40643  0.40643  0.89931  1.0000

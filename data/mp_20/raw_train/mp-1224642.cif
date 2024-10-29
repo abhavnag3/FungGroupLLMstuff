@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf4Al4Fe4
+_chemical_formula_sum              "Hf4 Al4 Fe4"
+_cell_length_a       5.04696
+_cell_length_b       5.04447
+_cell_length_c       8.23681
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.4862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.33514  0.33547  0.55233  1.0000
+  Hf  Hf2       1.0  0.67101  0.67097  0.42746  1.0000
+  Hf  Hf3       1.0  0.67101  0.67097  0.07254  1.0000
+  Hf  Hf4       1.0  0.33514  0.33547  0.94767  1.0000
+  Al  Al1       1.0  0.99341  0.99346  0.49056  1.0000
+  Al  Al2       1.0  0.99341  0.99346  0.00944  1.0000
+  Al  Al3       1.0  0.83357  0.34414  0.75000  1.0000
+  Al  Al4       1.0  0.34494  0.83357  0.75000  1.0000
+  Fe  Fe1       1.0  0.83438  0.83291  0.75000  1.0000
+  Fe  Fe2       1.0  0.17004  0.64970  0.25000  1.0000
+  Fe  Fe3       1.0  0.64912  0.17077  0.25000  1.0000
+  Fe  Fe4       1.0  0.16884  0.16911  0.25000  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Y2Fe8Si4
+_chemical_formula_sum              "Y2 Fe8 Si4"
+_cell_length_a       7.08465
+_cell_length_b       7.08465
+_cell_length_c       3.75993
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.50000  0.50000  0.00000  1.0000
+  Y   Y2        1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe1       1.0  0.58570  0.14567  0.50000  1.0000
+  Fe  Fe2       1.0  0.41430  0.85433  0.50000  1.0000
+  Fe  Fe3       1.0  0.08570  0.35433  0.00000  1.0000
+  Fe  Fe4       1.0  0.91430  0.64567  0.00000  1.0000
+  Fe  Fe5       1.0  0.14567  0.58570  0.50000  1.0000
+  Fe  Fe6       1.0  0.85433  0.41430  0.50000  1.0000
+  Fe  Fe7       1.0  0.35433  0.08570  0.00000  1.0000
+  Fe  Fe8       1.0  0.64567  0.91430  0.00000  1.0000
+  Si  Si1       1.0  0.71914  0.71914  0.50000  1.0000
+  Si  Si2       1.0  0.28086  0.28086  0.50000  1.0000
+  Si  Si3       1.0  0.21914  0.78086  0.00000  1.0000
+  Si  Si4       1.0  0.78086  0.21914  0.00000  1.0000

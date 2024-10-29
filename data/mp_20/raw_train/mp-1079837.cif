@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Gd2B4Os4
+_chemical_formula_sum              "Gd2 B4 Os4"
+_cell_length_a       5.60674
+_cell_length_b       5.60674
+_cell_length_c       5.97628
+_cell_angle_alpha    109.507
+_cell_angle_beta     109.507
+_cell_angle_gamma    106.746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Gd  Gd2       1.0  0.25000  0.75000  0.50000  1.0000
+  B   B1        1.0  0.68868  0.31132  0.00000  1.0000
+  B   B2        1.0  0.31132  0.68868  0.00000  1.0000
+  B   B3        1.0  0.93956  0.06044  0.50000  1.0000
+  B   B4        1.0  0.56044  0.43956  0.50000  1.0000
+  Os  Os1       1.0  0.36203  0.36203  0.72407  1.0000
+  Os  Os2       1.0  0.63797  0.63797  0.27593  1.0000
+  Os  Os3       1.0  0.88777  0.38777  0.77554  1.0000
+  Os  Os4       1.0  0.61223  0.11223  0.22446  1.0000

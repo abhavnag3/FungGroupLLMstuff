@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U8Si6Mo2
+_chemical_formula_sum              "U8 Si6 Mo2"
+_cell_length_a       5.30666
+_cell_length_b       7.98952
+_cell_length_c       7.98952
+_cell_angle_alpha    83.6679
+_cell_angle_beta     70.6036
+_cell_angle_gamma    70.6036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.09692  0.13444  0.67173  1.0000
+  U   U2        1.0  0.90308  0.86556  0.32827  1.0000
+  U   U3        1.0  0.76864  0.32827  0.13444  1.0000
+  U   U4        1.0  0.40308  0.32827  0.86556  1.0000
+  U   U5        1.0  0.23136  0.67173  0.86556  1.0000
+  U   U6        1.0  0.59692  0.67173  0.13444  1.0000
+  U   U7        1.0  0.73136  0.86556  0.67173  1.0000
+  U   U8        1.0  0.26864  0.13444  0.32827  1.0000
+  Si  Si1       1.0  0.14687  0.50000  0.20627  1.0000
+  Si  Si2       1.0  0.85313  0.50000  0.79373  1.0000
+  Si  Si3       1.0  0.35313  0.79373  0.50000  1.0000
+  Si  Si4       1.0  0.64687  0.20627  0.50000  1.0000
+  Si  Si5       1.0  0.25000  0.00000  0.00000  1.0000
+  Si  Si6       1.0  0.75000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.25000  0.50000  0.50000  1.0000
+  Mo  Mo2       1.0  0.75000  0.50000  0.50000  1.0000

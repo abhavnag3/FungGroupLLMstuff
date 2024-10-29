@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Bi4Rh4O12
+_chemical_formula_sum              "Bi4 Rh4 O12"
+_cell_length_a       5.44007
+_cell_length_b       5.92128
+_cell_length_c       7.81221
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.01739  0.93332  0.75000  1.0000
+  Bi  Bi2       1.0  0.48261  0.43332  0.75000  1.0000
+  Bi  Bi3       1.0  0.98261  0.06668  0.25000  1.0000
+  Bi  Bi4       1.0  0.51739  0.56668  0.25000  1.0000
+  Rh  Rh1       1.0  0.00000  0.50000  0.50000  1.0000
+  Rh  Rh2       1.0  0.00000  0.50000  0.00000  1.0000
+  Rh  Rh3       1.0  0.50000  0.00000  0.50000  1.0000
+  Rh  Rh4       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.67431  0.31263  0.04669  1.0000
+  O   O2        1.0  0.67431  0.31263  0.45331  1.0000
+  O   O3        1.0  0.32569  0.68737  0.95331  1.0000
+  O   O4        1.0  0.87941  0.54611  0.75000  1.0000
+  O   O5        1.0  0.82569  0.81263  0.04669  1.0000
+  O   O6        1.0  0.82569  0.81263  0.45331  1.0000
+  O   O7        1.0  0.37941  0.95389  0.25000  1.0000
+  O   O8        1.0  0.62059  0.04611  0.75000  1.0000
+  O   O9        1.0  0.32569  0.68737  0.54669  1.0000
+  O   O10       1.0  0.17431  0.18737  0.95331  1.0000
+  O   O11       1.0  0.17431  0.18737  0.54669  1.0000
+  O   O12       1.0  0.12059  0.45389  0.25000  1.0000

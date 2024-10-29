@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li8Cu4N4
+_chemical_formula_sum              "Li8 Cu4 N4"
+_cell_length_a       4.96455
+_cell_length_b       7.01998
+_cell_length_c       5.20013
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25007  0.62217  0.93727  1.0000
+  Li  Li2       1.0  0.74993  0.37783  0.43726  1.0000
+  Li  Li3       1.0  0.24993  0.62217  0.43726  1.0000
+  Li  Li4       1.0  0.75007  0.37783  0.93727  1.0000
+  Li  Li5       1.0  0.86003  0.06445  0.18823  1.0000
+  Li  Li6       1.0  0.13997  0.93555  0.68823  1.0000
+  Li  Li7       1.0  0.63997  0.06445  0.68823  1.0000
+  Li  Li8       1.0  0.36003  0.93555  0.18823  1.0000
+  Cu  Cu1       1.0  0.75011  0.75352  0.43733  1.0000
+  Cu  Cu2       1.0  0.24989  0.24648  0.93733  1.0000
+  Cu  Cu3       1.0  0.74989  0.75352  0.93733  1.0000
+  Cu  Cu4       1.0  0.25011  0.24648  0.43733  1.0000
+  N   N1        1.0  0.47902  0.76953  0.68717  1.0000
+  N   N2        1.0  0.52098  0.23047  0.18717  1.0000
+  N   N3        1.0  0.02098  0.76953  0.18717  1.0000
+  N   N4        1.0  0.97902  0.23047  0.68717  1.0000

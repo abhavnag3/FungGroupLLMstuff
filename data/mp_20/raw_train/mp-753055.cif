@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       TbBi5O9
+_chemical_formula_sum              "Tb1 Bi5 O9"
+_cell_length_a       3.88842
+_cell_length_b       6.88524
+_cell_length_c       9.57357
+_cell_angle_alpha    84.0929
+_cell_angle_beta     78.4404
+_cell_angle_gamma    88.6235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.02071  0.98848  0.02176  1.0000
+  Bi  Bi1       1.0  0.15169  0.40822  0.65969  1.0000
+  Bi  Bi2       1.0  0.52853  0.45732  0.99729  1.0000
+  Bi  Bi3       1.0  0.33223  0.11287  0.35089  1.0000
+  Bi  Bi4       1.0  0.85889  0.60971  0.32193  1.0000
+  Bi  Bi5       1.0  0.66016  0.87114  0.66115  1.0000
+  O   O1        1.0  0.84991  0.21085  0.52340  1.0000
+  O   O2        1.0  0.18810  0.74536  0.56734  1.0000
+  O   O3        1.0  0.36594  0.44548  0.29039  1.0000
+  O   O4        1.0  0.47462  0.14658  0.10786  1.0000
+  O   O5        1.0  0.05922  0.30360  0.89622  1.0000
+  O   O6        1.0  0.59104  0.90934  0.88723  1.0000
+  O   O7        1.0  0.63865  0.54389  0.73977  1.0000
+  O   O8        1.0  0.92922  0.93620  0.27597  1.0000
+  O   O9        1.0  0.95531  0.64518  0.09142  1.0000

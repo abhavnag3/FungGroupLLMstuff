@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       TbDy3Fe4Co4
+_chemical_formula_sum              "Tb1 Dy3 Fe4 Co4"
+_cell_length_a       5.1016
+_cell_length_b       5.25698
+_cell_length_c       8.718
+_cell_angle_alpha    72.4522
+_cell_angle_beta     90.8238
+_cell_angle_gamma    121.013
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.50008  0.00158  0.49691  1.0000
+  Dy  Dy1       1.0  0.87145  0.74888  0.37369  1.0000
+  Dy  Dy2       1.0  0.37471  0.74822  0.87828  1.0000
+  Dy  Dy3       1.0  0.00351  0.00116  0.00119  1.0000
+  Fe  Fe1       1.0  0.18676  0.37405  0.43865  1.0000
+  Fe  Fe2       1.0  0.68832  0.37604  0.93623  1.0000
+  Fe  Fe3       1.0  0.93801  0.37549  0.18704  1.0000
+  Fe  Fe4       1.0  0.43734  0.37473  0.68788  1.0000
+  Co  Co1       1.0  0.43752  0.37543  0.18708  1.0000
+  Co  Co2       1.0  0.93740  0.37462  0.68799  1.0000
+  Co  Co3       1.0  0.43752  0.87501  0.18708  1.0000
+  Co  Co4       1.0  0.93740  0.87479  0.68799  1.0000

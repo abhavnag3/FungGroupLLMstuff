@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm8Al4
+_chemical_formula_sum              "Sm8 Al4"
+_cell_length_a       5.20815
+_cell_length_b       6.66495
+_cell_length_c       9.6538
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.25000  0.19209  0.92517  1.0000
+  Sm  Sm2       1.0  0.25000  0.69209  0.57483  1.0000
+  Sm  Sm3       1.0  0.75000  0.80791  0.07483  1.0000
+  Sm  Sm4       1.0  0.75000  0.30791  0.42517  1.0000
+  Sm  Sm5       1.0  0.25000  0.02558  0.29274  1.0000
+  Sm  Sm6       1.0  0.25000  0.52558  0.20726  1.0000
+  Sm  Sm7       1.0  0.75000  0.97442  0.70726  1.0000
+  Sm  Sm8       1.0  0.75000  0.47442  0.79274  1.0000
+  Al  Al1       1.0  0.25000  0.21007  0.60166  1.0000
+  Al  Al2       1.0  0.25000  0.71007  0.89834  1.0000
+  Al  Al3       1.0  0.75000  0.78993  0.39834  1.0000
+  Al  Al4       1.0  0.75000  0.28993  0.10166  1.0000

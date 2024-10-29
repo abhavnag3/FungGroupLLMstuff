@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cd4Bi2As2O12
+_chemical_formula_sum              "Cd4 Bi2 As2 O12"
+_cell_length_a       7.5296
+_cell_length_b       7.5296
+_cell_length_c       5.52825
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    108.13
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.40694  0.19825  0.38644  1.0000
+  Cd  Cd2       1.0  0.80175  0.59306  0.38644  1.0000
+  Cd  Cd3       1.0  0.59306  0.80175  0.88644  1.0000
+  Cd  Cd4       1.0  0.19825  0.40694  0.88644  1.0000
+  Bi  Bi1       1.0  0.90645  0.09355  0.39199  1.0000
+  Bi  Bi2       1.0  0.09355  0.90645  0.89199  1.0000
+  As  As1       1.0  0.31658  0.68342  0.34623  1.0000
+  As  As2       1.0  0.68342  0.31658  0.84623  1.0000
+  O   O1        1.0  0.15670  0.15167  0.63230  1.0000
+  O   O2        1.0  0.09274  0.58642  0.23598  1.0000
+  O   O3        1.0  0.15167  0.15670  0.13230  1.0000
+  O   O4        1.0  0.84833  0.84330  0.63230  1.0000
+  O   O5        1.0  0.84330  0.84833  0.13230  1.0000
+  O   O6        1.0  0.55670  0.44330  0.70247  1.0000
+  O   O7        1.0  0.31969  0.68031  0.66129  1.0000
+  O   O8        1.0  0.90726  0.41358  0.73597  1.0000
+  O   O9        1.0  0.58642  0.09274  0.73597  1.0000
+  O   O10       1.0  0.44330  0.55670  0.20247  1.0000
+  O   O11       1.0  0.68031  0.31969  0.16129  1.0000
+  O   O12       1.0  0.41358  0.90726  0.23598  1.0000

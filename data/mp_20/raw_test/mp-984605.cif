@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca6Sn2H4
+_chemical_formula_sum              "Ca6 Sn2 H4"
+_cell_length_a       7.21765
+_cell_length_b       7.21765
+_cell_length_c       5.26807
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    104.152
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.89012  0.10988  0.25000  1.0000
+  Ca  Ca2       1.0  0.40750  0.18588  0.25000  1.0000
+  Ca  Ca3       1.0  0.18588  0.40750  0.75000  1.0000
+  Ca  Ca4       1.0  0.81412  0.59250  0.25000  1.0000
+  Ca  Ca5       1.0  0.59250  0.81412  0.75000  1.0000
+  Ca  Ca6       1.0  0.10988  0.89012  0.75000  1.0000
+  Sn  Sn1       1.0  0.69240  0.30760  0.75000  1.0000
+  Sn  Sn2       1.0  0.30760  0.69240  0.25000  1.0000
+  H   H1        1.0  0.15097  0.15097  0.00000  1.0000
+  H   H2        1.0  0.15097  0.15097  0.50000  1.0000
+  H   H3        1.0  0.84903  0.84903  0.00000  1.0000
+  H   H4        1.0  0.84903  0.84903  0.50000  1.0000

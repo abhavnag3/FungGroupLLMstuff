@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Dy4Pt4
+_chemical_formula_sum              "Dy4 Pt4"
+_cell_length_a       4.55614
+_cell_length_b       5.57155
+_cell_length_c       7.04035
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.25000  0.36205  0.68116  1.0000
+  Dy  Dy2       1.0  0.25000  0.13795  0.18116  1.0000
+  Dy  Dy3       1.0  0.75000  0.63795  0.31884  1.0000
+  Dy  Dy4       1.0  0.75000  0.86205  0.81884  1.0000
+  Pt  Pt1       1.0  0.25000  0.84760  0.54519  1.0000
+  Pt  Pt2       1.0  0.25000  0.65240  0.04519  1.0000
+  Pt  Pt3       1.0  0.75000  0.15240  0.45481  1.0000
+  Pt  Pt4       1.0  0.75000  0.34760  0.95481  1.0000

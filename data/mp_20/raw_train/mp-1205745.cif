@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Er4Mg2Cu4
+_chemical_formula_sum              "Er4 Mg2 Cu4"
+_cell_length_a       3.58167
+_cell_length_b       7.64221
+_cell_length_c       7.64221
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.50000  0.17461  0.67461  1.0000
+  Er  Er2       1.0  0.50000  0.82539  0.32539  1.0000
+  Er  Er3       1.0  0.50000  0.32539  0.17461  1.0000
+  Er  Er4       1.0  0.50000  0.67461  0.82539  1.0000
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mg  Mg2       1.0  0.00000  0.50000  0.50000  1.0000
+  Cu  Cu1       1.0  0.00000  0.61915  0.11915  1.0000
+  Cu  Cu2       1.0  0.00000  0.38085  0.88085  1.0000
+  Cu  Cu3       1.0  0.00000  0.88085  0.61915  1.0000
+  Cu  Cu4       1.0  0.00000  0.11915  0.38085  1.0000

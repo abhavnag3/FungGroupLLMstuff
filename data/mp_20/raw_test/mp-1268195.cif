@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       In4Ag4Se8
+_chemical_formula_sum              "In4 Ag4 Se8"
+_cell_length_a       7.48763
+_cell_length_b       8.75546
+_cell_length_c       7.14165
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.07294  0.62857  0.61308  1.0000
+  In  In2       1.0  0.92706  0.37143  0.11308  1.0000
+  In  In3       1.0  0.42706  0.12857  0.11308  1.0000
+  In  In4       1.0  0.57294  0.87143  0.61308  1.0000
+  Ag  Ag1       1.0  0.08827  0.13018  0.62116  1.0000
+  Ag  Ag2       1.0  0.91173  0.86982  0.12116  1.0000
+  Ag  Ag3       1.0  0.41173  0.63018  0.12116  1.0000
+  Ag  Ag4       1.0  0.58827  0.36982  0.62116  1.0000
+  Se  Se1       1.0  0.07780  0.62202  0.98457  1.0000
+  Se  Se2       1.0  0.92220  0.37798  0.48457  1.0000
+  Se  Se3       1.0  0.42220  0.12202  0.48457  1.0000
+  Se  Se4       1.0  0.57780  0.87798  0.98457  1.0000
+  Se  Se5       1.0  0.09122  0.12196  0.99619  1.0000
+  Se  Se6       1.0  0.90878  0.87804  0.49619  1.0000
+  Se  Se7       1.0  0.40878  0.62196  0.49619  1.0000
+  Se  Se8       1.0  0.59122  0.37804  0.99619  1.0000

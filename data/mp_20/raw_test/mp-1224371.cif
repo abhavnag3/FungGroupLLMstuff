@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge2As2Au2
+_chemical_formula_sum              "Ge2 As2 Au2"
+_cell_length_a       4.94338
+_cell_length_b       4.94338
+_cell_length_c       6.41586
+_cell_angle_alpha    68.7642
+_cell_angle_beta     68.7642
+_cell_angle_gamma    79.9864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.93378  0.19297  0.33006  1.0000
+  Ge  Ge2       1.0  0.30703  0.56622  0.16994  1.0000
+  As  As1       1.0  0.06399  0.80820  0.66386  1.0000
+  As  As2       1.0  0.69180  0.43601  0.83614  1.0000
+  Au  Au1       1.0  0.50326  0.49986  0.49706  1.0000
+  Au  Au2       1.0  0.00015  0.99674  0.00294  1.0000

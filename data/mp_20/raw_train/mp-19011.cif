@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Ni2Te2O12
+_chemical_formula_sum              "Ba4 Ni2 Te2 O12"
+_cell_length_a       5.8806
+_cell_length_b       5.88063
+_cell_length_c       10.24
+_cell_angle_alpha    90.0001
+_cell_angle_beta     73.3136
+_cell_angle_gamma    59.9998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.56885  0.71558  0.14673  1.0000
+  Ba  Ba2       1.0  0.43115  0.28442  0.85327  1.0000
+  Ba  Ba3       1.0  0.25209  0.87395  0.62186  1.0000
+  Ba  Ba4       1.0  0.74791  0.12605  0.37814  1.0000
+  Ni  Ni1       1.0  0.18712  0.40644  0.21931  1.0000
+  Ni  Ni2       1.0  0.81288  0.59356  0.78069  1.0000
+  Te  Te1       1.0  1.00000  0.50000  0.50000  1.0000
+  Te  Te2       1.0  0.00000  1.00000  1.00000  1.0000
+  O   O1        1.0  0.07747  0.72740  0.11767  1.0000
+  O   O2        1.0  0.60973  0.19514  0.11767  1.0000
+  O   O3        1.0  0.07747  0.19514  0.11767  1.0000
+  O   O4        1.0  0.92254  0.80487  0.88233  1.0000
+  O   O5        1.0  0.92254  0.27259  0.88233  1.0000
+  O   O6        1.0  0.39026  0.80487  0.88233  1.0000
+  O   O7        1.0  0.76556  0.84589  0.62299  1.0000
+  O   O8        1.0  0.22290  0.38855  0.62299  1.0000
+  O   O9        1.0  0.77711  0.61145  0.37701  1.0000
+  O   O10       1.0  0.23443  0.15412  0.37701  1.0000
+  O   O11       1.0  0.23444  0.61144  0.37701  1.0000
+  O   O12       1.0  0.76556  0.38855  0.62299  1.0000

@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Er4Zr3O12
+_chemical_formula_sum              "Er4 Zr3 O12"
+_cell_length_a       6.37794
+_cell_length_b       6.39262
+_cell_length_c       6.48635
+_cell_angle_alpha    99.5868
+_cell_angle_beta     98.643
+_cell_angle_gamma    99.7498
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.38944  0.69861  0.86305  1.0000
+  Er  Er2       1.0  0.69212  0.86190  0.39064  1.0000
+  Er  Er3       1.0  0.61056  0.30139  0.13695  1.0000
+  Er  Er4       1.0  0.30788  0.13810  0.60937  1.0000
+  Zr  Zr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr2       1.0  0.85397  0.39326  0.67919  1.0000
+  Zr  Zr3       1.0  0.14603  0.60674  0.32081  1.0000
+  O   O1        1.0  0.03707  0.67756  0.89864  1.0000
+  O   O2        1.0  0.68357  0.92855  0.05901  1.0000
+  O   O3        1.0  0.92124  0.07753  0.68904  1.0000
+  O   O4        1.0  0.96293  0.32244  0.10136  1.0000
+  O   O5        1.0  0.31643  0.07145  0.94100  1.0000
+  O   O6        1.0  0.07877  0.92247  0.31096  1.0000
+  O   O7        1.0  0.59176  0.18546  0.43675  1.0000
+  O   O8        1.0  0.17261  0.42906  0.57169  1.0000
+  O   O9        1.0  0.41449  0.57718  0.17935  1.0000
+  O   O10       1.0  0.40824  0.81454  0.56325  1.0000
+  O   O11       1.0  0.82739  0.57094  0.42831  1.0000
+  O   O12       1.0  0.58551  0.42282  0.82065  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       NaLiFe2Si4O12
+_chemical_formula_sum              "Na1 Li1 Fe2 Si4 O12"
+_cell_length_a       6.60655
+_cell_length_b       6.60655
+_cell_length_c       5.36312
+_cell_angle_alpha    76.1274
+_cell_angle_beta     76.1274
+_cell_angle_gamma    84.377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.29405  0.70595  0.50000  1.0000
+  Li  Li1       1.0  0.74628  0.25372  0.00000  1.0000
+  Fe  Fe1       1.0  0.89715  0.10285  0.50000  1.0000
+  Fe  Fe2       1.0  0.10078  0.89922  0.00000  1.0000
+  Si  Si1       1.0  0.79409  0.61827  0.50127  1.0000
+  Si  Si2       1.0  0.61693  0.79806  0.99846  1.0000
+  Si  Si3       1.0  0.38173  0.20591  0.49873  1.0000
+  Si  Si4       1.0  0.20194  0.38307  0.00154  1.0000
+  O   O1        1.0  0.96312  0.80538  0.39274  1.0000
+  O   O2        1.0  0.80017  0.97190  0.89438  1.0000
+  O   O3        1.0  0.88694  0.38084  0.57295  1.0000
+  O   O4        1.0  0.64965  0.64554  0.28147  1.0000
+  O   O5        1.0  0.38175  0.89772  0.05534  1.0000
+  O   O6        1.0  0.64098  0.65415  0.78114  1.0000
+  O   O7        1.0  0.35446  0.35035  0.71853  1.0000
+  O   O8        1.0  0.61916  0.11306  0.42705  1.0000
+  O   O9        1.0  0.34585  0.35902  0.21886  1.0000
+  O   O10       1.0  0.10228  0.61825  0.94466  1.0000
+  O   O11       1.0  0.19462  0.03688  0.60726  1.0000
+  O   O12       1.0  0.02810  0.19983  0.10562  1.0000

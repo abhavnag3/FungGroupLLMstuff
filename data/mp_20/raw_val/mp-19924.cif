@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       U4Se4S4
+_chemical_formula_sum              "U4 Se4 S4"
+_cell_length_a       4.07952
+_cell_length_b       7.31693
+_cell_length_c       8.66769
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.25000  0.22664  0.87305  1.0000
+  U   U2        1.0  0.75000  0.77336  0.12695  1.0000
+  U   U3        1.0  0.25000  0.72664  0.62695  1.0000
+  U   U4        1.0  0.75000  0.27336  0.37305  1.0000
+  Se  Se1       1.0  0.75000  0.02959  0.66407  1.0000
+  Se  Se2       1.0  0.25000  0.97041  0.33592  1.0000
+  Se  Se3       1.0  0.75000  0.52959  0.83593  1.0000
+  Se  Se4       1.0  0.25000  0.47041  0.16407  1.0000
+  S   S1        1.0  0.25000  0.85464  0.92962  1.0000
+  S   S2        1.0  0.75000  0.14536  0.07038  1.0000
+  S   S3        1.0  0.25000  0.35464  0.57038  1.0000
+  S   S4        1.0  0.75000  0.64536  0.42962  1.0000

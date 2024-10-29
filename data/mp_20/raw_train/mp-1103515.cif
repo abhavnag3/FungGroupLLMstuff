@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Na2UTe2O10
+_chemical_formula_sum              "Na2 U1 Te2 O10"
+_cell_length_a       3.93486
+_cell_length_b       6.76732
+_cell_length_c       8.60819
+_cell_angle_alpha    91.5476
+_cell_angle_beta     90
+_cell_angle_gamma    106.901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.09260  0.18521  0.93108  1.0000
+  Na  Na2       1.0  0.52742  0.05485  0.49942  1.0000
+  U   U1        1.0  0.80993  0.61986  0.71811  1.0000
+  Te  Te1       1.0  0.23959  0.47918  0.36386  1.0000
+  Te  Te2       1.0  0.37789  0.75578  0.07183  1.0000
+  O   O1        1.0  0.95042  0.90084  0.68966  1.0000
+  O   O2        1.0  0.22765  0.45530  0.13550  1.0000
+  O   O3        1.0  0.85957  0.71915  0.02436  1.0000
+  O   O4        1.0  0.66930  0.33860  0.74918  1.0000
+  O   O5        1.0  0.10134  0.20268  0.40209  1.0000
+  O   O6        1.0  0.30002  0.60003  0.57476  1.0000
+  O   O7        1.0  0.38954  0.77907  0.30032  1.0000
+  O   O8        1.0  0.51642  0.03284  0.03537  1.0000
+  O   O9        1.0  0.31861  0.63723  0.86052  1.0000
+  O   O10       1.0  0.75641  0.51283  0.41052  1.0000

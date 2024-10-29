@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Fe3PO7
+_chemical_formula_sum              "Fe3 P1 O7"
+_cell_length_a       5.25253
+_cell_length_b       5.25253
+_cell_length_c       5.25253
+_cell_angle_alpha    101.945
+_cell_angle_beta     101.945
+_cell_angle_gamma    101.945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.45700  0.84681  0.45700  1.0000
+  Fe  Fe2       1.0  0.45700  0.45700  0.84681  1.0000
+  Fe  Fe3       1.0  0.84681  0.45700  0.45700  1.0000
+  P   P1        1.0  0.99854  0.99854  0.99854  1.0000
+  O   O1        1.0  0.16607  0.16607  0.85382  1.0000
+  O   O2        1.0  0.16607  0.85382  0.16607  1.0000
+  O   O3        1.0  0.85382  0.16607  0.16607  1.0000
+  O   O4        1.0  0.60818  0.60818  0.23076  1.0000
+  O   O5        1.0  0.76958  0.76958  0.76958  1.0000
+  O   O6        1.0  0.60818  0.23076  0.60818  1.0000
+  O   O7        1.0  0.23076  0.60818  0.60818  1.0000

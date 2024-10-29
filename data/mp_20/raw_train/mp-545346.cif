@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       LiGaAs2O7
+_chemical_formula_sum              "Li1 Ga1 As2 O7"
+_cell_length_a       5.36614
+_cell_length_b       5.36614
+_cell_length_c       4.77544
+_cell_angle_alpha    81.2142
+_cell_angle_beta     81.2142
+_cell_angle_gamma    102.057
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.24931  0.75069  0.50000  1.0000
+  Ga  Ga1       1.0  0.62469  0.37531  0.50000  1.0000
+  As  As1       1.0  0.17962  0.25295  0.09390  1.0000
+  As  As2       1.0  0.74705  0.82038  0.90611  1.0000
+  O   O1        1.0  0.35866  0.14211  0.33244  1.0000
+  O   O2        1.0  0.85788  0.64134  0.66756  1.0000
+  O   O3        1.0  0.61137  0.05403  0.76140  1.0000
+  O   O4        1.0  0.94597  0.38863  0.23860  1.0000
+  O   O5        1.0  0.54844  0.66221  0.22810  1.0000
+  O   O6        1.0  0.33779  0.45156  0.77190  1.0000
+  O   O7        1.0  0.04988  0.95012  0.00000  1.0000

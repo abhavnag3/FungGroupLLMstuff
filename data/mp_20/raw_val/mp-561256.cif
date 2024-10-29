@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Ti2O2F12
+_chemical_formula_sum              "Ba4 Ti2 O2 F12"
+_cell_length_a       7.4799
+_cell_length_b       7.4799
+_cell_length_c       7.32898
+_cell_angle_alpha    62.5108
+_cell_angle_beta     62.5108
+_cell_angle_gamma    78.2444
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.17720  0.41925  0.15622  1.0000
+  Ba  Ba2       1.0  0.17328  0.82743  0.50068  1.0000
+  Ba  Ba3       1.0  0.82743  0.17328  0.00068  1.0000
+  Ba  Ba4       1.0  0.41925  0.17720  0.65622  1.0000
+  Ti  Ti1       1.0  0.68010  0.66724  0.08620  1.0000
+  Ti  Ti2       1.0  0.66724  0.68010  0.58620  1.0000
+  O   O1        1.0  0.60641  0.73121  0.36430  1.0000
+  O   O2        1.0  0.73121  0.60641  0.86430  1.0000
+  F   F1        1.0  0.15556  0.07303  0.10813  1.0000
+  F   F2        1.0  0.57339  0.39916  0.76401  1.0000
+  F   F3        1.0  0.60502  0.94160  0.94935  1.0000
+  F   F4        1.0  0.39742  0.76150  0.76451  1.0000
+  F   F5        1.0  0.94799  0.76099  0.97987  1.0000
+  F   F6        1.0  0.44565  0.15477  0.28364  1.0000
+  F   F7        1.0  0.15477  0.44565  0.78364  1.0000
+  F   F8        1.0  0.94160  0.60502  0.44935  1.0000
+  F   F9        1.0  0.76150  0.39742  0.26451  1.0000
+  F   F10       1.0  0.39916  0.57339  0.26401  1.0000
+  F   F11       1.0  0.07303  0.15556  0.60813  1.0000
+  F   F12       1.0  0.76099  0.94799  0.47987  1.0000

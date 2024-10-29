@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Eu2H6O6
+_chemical_formula_sum              "Eu2 H6 O6"
+_cell_length_a       3.67927
+_cell_length_b       6.47713
+_cell_length_c       6.51417
+_cell_angle_alpha    62.3493
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.75000  0.34545  0.32264  1.0000
+  Eu  Eu2       1.0  0.25000  0.65455  0.67736  1.0000
+  H   H1        1.0  0.75000  0.86354  0.31997  1.0000
+  H   H2        1.0  0.75000  0.27766  0.85472  1.0000
+  H   H3        1.0  0.75000  0.86012  0.86015  1.0000
+  H   H4        1.0  0.25000  0.13646  0.68003  1.0000
+  H   H5        1.0  0.25000  0.72234  0.14528  1.0000
+  H   H6        1.0  0.25000  0.13988  0.13985  1.0000
+  O   O1        1.0  0.75000  0.69347  0.40583  1.0000
+  O   O2        1.0  0.75000  0.39198  0.91259  1.0000
+  O   O3        1.0  0.75000  0.90565  0.69499  1.0000
+  O   O4        1.0  0.25000  0.30653  0.59417  1.0000
+  O   O5        1.0  0.25000  0.60803  0.08741  1.0000
+  O   O6        1.0  0.25000  0.09435  0.30501  1.0000

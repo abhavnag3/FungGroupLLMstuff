@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GaCo4Ge3
+_chemical_formula_sum              "Ga1 Co4 Ge3"
+_cell_length_a       4.63851
+_cell_length_b       4.63851
+_cell_length_c       4.63851
+_cell_angle_alpha    89.3137
+_cell_angle_beta     89.3137
+_cell_angle_gamma    89.3137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.34118  0.34118  0.34118  1.0000
+  Co  Co1       1.0  0.64147  0.64147  0.64147  1.0000
+  Co  Co2       1.0  0.13210  0.36368  0.86108  1.0000
+  Co  Co3       1.0  0.36368  0.86108  0.13210  1.0000
+  Co  Co4       1.0  0.86108  0.13210  0.36368  1.0000
+  Ge  Ge1       1.0  0.83977  0.65655  0.16417  1.0000
+  Ge  Ge2       1.0  0.65655  0.16417  0.83977  1.0000
+  Ge  Ge3       1.0  0.16417  0.83977  0.65655  1.0000

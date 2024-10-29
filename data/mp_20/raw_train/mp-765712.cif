@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4FeNi3O8
+_chemical_formula_sum              "Li4 Fe1 Ni3 O8"
+_cell_length_a       5.78742
+_cell_length_b       5.82421
+_cell_length_c       5.90383
+_cell_angle_alpha    119.998
+_cell_angle_beta     119.601
+_cell_angle_gamma    61.2101
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.49999  0.50003  0.50001  1.0000
+  Li  Li2       1.0  0.99999  0.50002  0.50001  1.0000
+  Li  Li3       1.0  0.49998  0.99999  0.49999  1.0000
+  Li  Li4       1.0  1.00000  0.00000  0.50000  1.0000
+  Fe  Fe1       1.0  0.49997  0.99997  0.00000  1.0000
+  Ni  Ni1       1.0  0.50009  0.49986  0.99997  1.0000
+  Ni  Ni2       1.0  0.00006  0.50002  0.00006  1.0000
+  Ni  Ni3       1.0  0.99990  0.00010  0.99996  1.0000
+  O   O1        1.0  0.71577  0.74697  0.22956  1.0000
+  O   O2        1.0  0.25273  0.72067  0.22071  1.0000
+  O   O3        1.0  0.77387  0.74621  0.78621  1.0000
+  O   O4        1.0  0.76828  0.22617  0.23768  1.0000
+  O   O5        1.0  0.23167  0.77389  0.76233  1.0000
+  O   O6        1.0  0.22613  0.25384  0.21386  1.0000
+  O   O7        1.0  0.74733  0.27930  0.77923  1.0000
+  O   O8        1.0  0.28423  0.25295  0.77041  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na4Hg4Cl12
+_chemical_formula_sum              "Na4 Hg4 Cl12"
+_cell_length_a       4.19756
+_cell_length_b       7.49083
+_cell_length_c       18.2406
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000  0.09582  0.62529  1.0000
+  Na  Na2       1.0  0.75000  0.40417  0.12529  1.0000
+  Na  Na3       1.0  0.75000  0.90417  0.37471  1.0000
+  Na  Na4       1.0  0.25000  0.59583  0.87471  1.0000
+  Hg  Hg1       1.0  0.25000  0.11225  0.90481  1.0000
+  Hg  Hg2       1.0  0.75000  0.38775  0.40481  1.0000
+  Hg  Hg3       1.0  0.75000  0.88775  0.09519  1.0000
+  Hg  Hg4       1.0  0.25000  0.61225  0.59519  1.0000
+  Cl  Cl1       1.0  0.75000  0.58148  0.30067  1.0000
+  Cl  Cl2       1.0  0.75000  0.08148  0.19934  1.0000
+  Cl  Cl3       1.0  0.25000  0.14857  0.36768  1.0000
+  Cl  Cl4       1.0  0.25000  0.91852  0.80066  1.0000
+  Cl  Cl5       1.0  0.25000  0.71147  0.46849  1.0000
+  Cl  Cl6       1.0  0.25000  0.21147  0.03150  1.0000
+  Cl  Cl7       1.0  0.75000  0.35143  0.86768  1.0000
+  Cl  Cl8       1.0  0.25000  0.64857  0.13232  1.0000
+  Cl  Cl9       1.0  0.75000  0.78853  0.96849  1.0000
+  Cl  Cl10      1.0  0.75000  0.85143  0.63232  1.0000
+  Cl  Cl11      1.0  0.75000  0.28852  0.53151  1.0000
+  Cl  Cl12      1.0  0.25000  0.41852  0.69934  1.0000

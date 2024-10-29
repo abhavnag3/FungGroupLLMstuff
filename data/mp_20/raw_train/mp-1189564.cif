@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na2Nb2Cu4S8
+_chemical_formula_sum              "Na2 Nb2 Cu4 S8"
+_cell_length_a       9.61665
+_cell_length_b       9.61665
+_cell_length_c       7.49889
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.61
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.18829  0.82621  0.75000  1.0000
+  Na  Na2       1.0  0.82621  0.18829  0.25000  1.0000
+  Nb  Nb1       1.0  0.64006  0.86379  0.75000  1.0000
+  Nb  Nb2       1.0  0.86379  0.64006  0.25000  1.0000
+  Cu  Cu1       1.0  0.14647  0.35808  0.75000  1.0000
+  Cu  Cu2       1.0  0.35808  0.14647  0.25000  1.0000
+  Cu  Cu3       1.0  0.72937  0.72937  0.00000  1.0000
+  Cu  Cu4       1.0  0.72937  0.72937  0.50000  1.0000
+  S   S1        1.0  0.98039  0.99235  0.75000  1.0000
+  S   S2        1.0  0.99235  0.98039  0.25000  1.0000
+  S   S3        1.0  0.39937  0.61333  0.00013  1.0000
+  S   S4        1.0  0.61333  0.39937  0.99987  1.0000
+  S   S5        1.0  0.39937  0.61333  0.49987  1.0000
+  S   S6        1.0  0.61333  0.39937  0.50013  1.0000
+  S   S7        1.0  0.79815  0.21826  0.75000  1.0000
+  S   S8        1.0  0.21826  0.79815  0.25000  1.0000

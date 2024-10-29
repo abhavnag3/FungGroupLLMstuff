@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca6Te2O12
+_chemical_formula_sum              "Ca6 Te2 O12"
+_cell_length_a       5.86955
+_cell_length_b       5.62992
+_cell_length_c       9.86804
+_cell_angle_alpha    55.459
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.55322  0.72822  0.25579  1.0000
+  Ca  Ca2       1.0  0.05322  0.27178  0.24421  1.0000
+  Ca  Ca3       1.0  0.44678  0.27178  0.74421  1.0000
+  Ca  Ca4       1.0  0.94678  0.72822  0.75579  1.0000
+  Ca  Ca5       1.0  0.50000  0.50000  0.00000  1.0000
+  Ca  Ca6       1.0  0.00000  0.50000  0.50000  1.0000
+  Te  Te1       1.0  0.50000  0.00000  0.50000  1.0000
+  Te  Te2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.22593  0.75714  0.57186  1.0000
+  O   O2        1.0  0.72593  0.24286  0.92814  1.0000
+  O   O3        1.0  0.77407  0.24286  0.42813  1.0000
+  O   O4        1.0  0.27407  0.75714  0.07186  1.0000
+  O   O5        1.0  0.32067  0.33157  0.45033  1.0000
+  O   O6        1.0  0.82067  0.66843  0.04967  1.0000
+  O   O7        1.0  0.67933  0.66843  0.54967  1.0000
+  O   O8        1.0  0.17933  0.33157  0.95033  1.0000
+  O   O9        1.0  0.05680  0.10990  0.77546  1.0000
+  O   O10       1.0  0.55680  0.89010  0.72454  1.0000
+  O   O11       1.0  0.94320  0.89010  0.22454  1.0000
+  O   O12       1.0  0.44320  0.10990  0.27546  1.0000

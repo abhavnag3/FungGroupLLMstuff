@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Yb4Ga4O12
+_chemical_formula_sum              "Yb4 Ga4 O12"
+_cell_length_a       5.36565
+_cell_length_b       5.61935
+_cell_length_c       7.42522
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.01939  0.43225  0.25000  1.0000
+  Yb  Yb2       1.0  0.98061  0.56775  0.75000  1.0000
+  Yb  Yb3       1.0  0.51939  0.06775  0.75000  1.0000
+  Yb  Yb4       1.0  0.48061  0.93225  0.25000  1.0000
+  Ga  Ga1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ga  Ga3       1.0  0.00000  0.00000  0.50000  1.0000
+  Ga  Ga4       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.30275  0.20485  0.04860  1.0000
+  O   O2        1.0  0.69725  0.79515  0.95140  1.0000
+  O   O3        1.0  0.80275  0.29515  0.95140  1.0000
+  O   O4        1.0  0.69725  0.79515  0.54860  1.0000
+  O   O5        1.0  0.19725  0.70485  0.04860  1.0000
+  O   O6        1.0  0.30275  0.20485  0.45140  1.0000
+  O   O7        1.0  0.19725  0.70485  0.45140  1.0000
+  O   O8        1.0  0.80275  0.29515  0.54860  1.0000
+  O   O9        1.0  0.60156  0.53058  0.25000  1.0000
+  O   O10       1.0  0.39844  0.46942  0.75000  1.0000
+  O   O11       1.0  0.10156  0.96942  0.75000  1.0000
+  O   O12       1.0  0.89844  0.03058  0.25000  1.0000

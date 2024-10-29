@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mo4P4Rh4
+_chemical_formula_sum              "Mo4 P4 Rh4"
+_cell_length_a       3.94642
+_cell_length_b       5.9952
+_cell_length_c       7.03892
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.25000  0.03244  0.16369  1.0000
+  Mo  Mo2       1.0  0.25000  0.53244  0.33631  1.0000
+  Mo  Mo3       1.0  0.75000  0.96756  0.83631  1.0000
+  Mo  Mo4       1.0  0.75000  0.46756  0.66369  1.0000
+  P   P1        1.0  0.25000  0.74815  0.61441  1.0000
+  P   P2        1.0  0.25000  0.24815  0.88559  1.0000
+  P   P3        1.0  0.75000  0.25185  0.38559  1.0000
+  P   P4        1.0  0.75000  0.75185  0.11441  1.0000
+  Rh  Rh1       1.0  0.25000  0.13766  0.57267  1.0000
+  Rh  Rh2       1.0  0.25000  0.63766  0.92733  1.0000
+  Rh  Rh3       1.0  0.75000  0.86234  0.42733  1.0000
+  Rh  Rh4       1.0  0.75000  0.36234  0.07267  1.0000

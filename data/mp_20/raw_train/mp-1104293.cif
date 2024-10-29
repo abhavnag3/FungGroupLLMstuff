@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K4Ag2F8
+_chemical_formula_sum              "K4 Ag2 F8"
+_cell_length_a       10.4425
+_cell_length_b       3.83411
+_cell_length_c       6.50823
+_cell_angle_alpha    87.1964
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.18280  0.47854  0.41579  1.0000
+  K   K2        1.0  0.68280  0.52146  0.08421  1.0000
+  K   K3        1.0  0.81720  0.52146  0.58421  1.0000
+  K   K4        1.0  0.31720  0.47854  0.91579  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.50000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.94747  0.59723  0.22487  1.0000
+  F   F2        1.0  0.44747  0.40277  0.27513  1.0000
+  F   F3        1.0  0.05253  0.40277  0.77512  1.0000
+  F   F4        1.0  0.55253  0.59723  0.72488  1.0000
+  F   F5        1.0  0.18938  0.98281  0.12376  1.0000
+  F   F6        1.0  0.68938  0.01719  0.37624  1.0000
+  F   F7        1.0  0.81062  0.01719  0.87624  1.0000
+  F   F8        1.0  0.31062  0.98281  0.62376  1.0000

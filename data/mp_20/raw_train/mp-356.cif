@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Nd2Co17
+_chemical_formula_sum              "Nd2 Co17"
+_cell_length_a       6.32029
+_cell_length_b       6.32029
+_cell_length_c       6.32029
+_cell_angle_alpha    83.1037
+_cell_angle_beta     83.1037
+_cell_angle_gamma    83.1037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.34464  0.34464  0.34464  1.0000
+  Nd  Nd2       1.0  0.65536  0.65536  0.65536  1.0000
+  Co  Co1       1.0  0.09578  0.09578  0.09578  1.0000
+  Co  Co2       1.0  0.90422  0.90422  0.90422  1.0000
+  Co  Co3       1.0  0.00000  0.00000  0.50000  1.0000
+  Co  Co4       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co5       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co6       1.0  0.71503  0.28497  0.00000  1.0000
+  Co  Co7       1.0  0.28497  0.00000  0.71503  1.0000
+  Co  Co8       1.0  0.00000  0.71503  0.28497  1.0000
+  Co  Co9       1.0  0.28497  0.71503  0.00000  1.0000
+  Co  Co10      1.0  0.71503  0.00000  0.28497  1.0000
+  Co  Co11      1.0  0.00000  0.28497  0.71503  1.0000
+  Co  Co12      1.0  0.14842  0.65701  0.65701  1.0000
+  Co  Co13      1.0  0.65701  0.65701  0.14842  1.0000
+  Co  Co14      1.0  0.65701  0.14842  0.65701  1.0000
+  Co  Co15      1.0  0.34299  0.85158  0.34299  1.0000
+  Co  Co16      1.0  0.85158  0.34299  0.34299  1.0000
+  Co  Co17      1.0  0.34299  0.34299  0.85158  1.0000

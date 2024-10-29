@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ho4NiSn8
+_chemical_formula_sum              "Ho4 Ni1 Sn8"
+_cell_length_a       4.391
+_cell_length_b       4.39743
+_cell_length_c       16.888
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.00000  0.09652  1.0000
+  Ho  Ho2       1.0  0.25000  0.50000  0.60333  1.0000
+  Ho  Ho3       1.0  0.75000  0.50000  0.39829  1.0000
+  Ho  Ho4       1.0  0.75000  0.00000  0.90003  1.0000
+  Ni  Ni1       1.0  0.25000  0.00000  0.31042  1.0000
+  Sn  Sn1       1.0  0.25000  0.00000  0.45682  1.0000
+  Sn  Sn2       1.0  0.25000  0.50000  0.93481  1.0000
+  Sn  Sn3       1.0  0.75000  0.50000  0.05799  1.0000
+  Sn  Sn4       1.0  0.75000  0.00000  0.57465  1.0000
+  Sn  Sn5       1.0  0.25000  0.50000  0.23584  1.0000
+  Sn  Sn6       1.0  0.25000  0.00000  0.74698  1.0000
+  Sn  Sn7       1.0  0.75000  0.00000  0.23621  1.0000
+  Sn  Sn8       1.0  0.75000  0.50000  0.75510  1.0000

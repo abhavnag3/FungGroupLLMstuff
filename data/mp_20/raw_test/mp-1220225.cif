@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Cu2Ag2
+_chemical_formula_sum              "Nd2 Cu2 Ag2"
+_cell_length_a       5.6459
+_cell_length_b       5.6459
+_cell_length_c       7.18632
+_cell_angle_alpha    54.1301
+_cell_angle_beta     54.1301
+_cell_angle_gamma    46.9971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.54737  0.54737  0.70298  1.0000
+  Nd  Nd2       1.0  0.45263  0.45263  0.29702  1.0000
+  Cu  Cu1       1.0  0.14942  0.14942  0.31308  1.0000
+  Cu  Cu2       1.0  0.85058  0.85058  0.68692  1.0000
+  Ag  Ag1       1.0  0.82472  0.82472  0.11298  1.0000
+  Ag  Ag2       1.0  0.17528  0.17528  0.88702  1.0000

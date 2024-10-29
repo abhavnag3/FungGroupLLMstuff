@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       CsAlFe3Si3O12
+_chemical_formula_sum              "Cs1 Al1 Fe3 Si3 O12"
+_cell_length_a       5.40155
+_cell_length_b       5.40281
+_cell_length_c       10.8978
+_cell_angle_alpha    94.6104
+_cell_angle_beta     95.0961
+_cell_angle_gamma    119.908
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.50818  0.50860  0.02014  1.0000
+  Al  Al1       1.0  0.91800  0.25661  0.23786  1.0000
+  Fe  Fe1       1.0  0.00359  0.00383  0.49735  1.0000
+  Fe  Fe2       1.0  0.65311  0.34310  0.49519  1.0000
+  Fe  Fe3       1.0  0.34181  0.64874  0.49749  1.0000
+  Si  Si1       1.0  0.25590  0.91575  0.23257  1.0000
+  Si  Si2       1.0  0.07981  0.74319  0.76120  1.0000
+  Si  Si3       1.0  0.74053  0.07959  0.76088  1.0000
+  O   O1        1.0  0.96159  0.32584  0.40370  1.0000
+  O   O2        1.0  0.32137  0.95983  0.39031  1.0000
+  O   O3        1.0  0.04068  0.68576  0.60964  1.0000
+  O   O4        1.0  0.67768  0.03579  0.60911  1.0000
+  O   O5        1.0  0.06217  0.05099  0.18659  1.0000
+  O   O6        1.0  0.93017  0.93084  0.81010  1.0000
+  O   O7        1.0  0.63724  0.63925  0.40992  1.0000
+  O   O8        1.0  0.37031  0.36400  0.59156  1.0000
+  O   O9        1.0  0.08607  0.57712  0.17572  1.0000
+  O   O10       1.0  0.55522  0.07418  0.17530  1.0000
+  O   O11       1.0  0.92635  0.42981  0.81683  1.0000
+  O   O12       1.0  0.43022  0.92719  0.81854  1.0000

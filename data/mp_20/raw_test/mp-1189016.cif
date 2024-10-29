@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg2U2Pb4O12
+_chemical_formula_sum              "Mg2 U2 Pb4 O12"
+_cell_length_a       5.84456
+_cell_length_b       5.87401
+_cell_length_c       10.272
+_cell_angle_alpha    55.9593
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00000  0.50000  0.00000  1.0000
+  Mg  Mg2       1.0  0.50000  0.50000  0.50000  1.0000
+  U   U1        1.0  0.00000  0.00000  0.50000  1.0000
+  U   U2        1.0  0.50000  0.00000  0.00000  1.0000
+  Pb  Pb1       1.0  0.97245  0.28156  0.73874  1.0000
+  Pb  Pb2       1.0  0.52755  0.28156  0.23874  1.0000
+  Pb  Pb3       1.0  0.02755  0.71844  0.26126  1.0000
+  Pb  Pb4       1.0  0.47245  0.71844  0.76126  1.0000
+  O   O1        1.0  0.51878  0.30349  0.74940  1.0000
+  O   O2        1.0  0.98122  0.30349  0.24940  1.0000
+  O   O3        1.0  0.48122  0.69651  0.25060  1.0000
+  O   O4        1.0  0.01878  0.69651  0.75060  1.0000
+  O   O5        1.0  0.69481  0.71266  0.98612  1.0000
+  O   O6        1.0  0.80519  0.71266  0.48612  1.0000
+  O   O7        1.0  0.30519  0.28735  0.01388  1.0000
+  O   O8        1.0  0.19481  0.28735  0.51388  1.0000
+  O   O9        1.0  0.78909  0.17612  0.02175  1.0000
+  O   O10       1.0  0.71091  0.17612  0.52175  1.0000
+  O   O11       1.0  0.21091  0.82388  0.97825  1.0000
+  O   O12       1.0  0.28909  0.82388  0.47825  1.0000

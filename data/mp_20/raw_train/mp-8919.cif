@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Er4P4Pd4
+_chemical_formula_sum              "Er4 P4 Pd4"
+_cell_length_a       3.98553
+_cell_length_b       6.8835
+_cell_length_c       7.74533
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.25000  0.03140  0.18723  1.0000
+  Er  Er2       1.0  0.75000  0.96860  0.81277  1.0000
+  Er  Er3       1.0  0.25000  0.53140  0.31277  1.0000
+  Er  Er4       1.0  0.75000  0.46860  0.68723  1.0000
+  P   P1        1.0  0.25000  0.74917  0.62326  1.0000
+  P   P2        1.0  0.75000  0.25083  0.37673  1.0000
+  P   P3        1.0  0.25000  0.24917  0.87674  1.0000
+  P   P4        1.0  0.75000  0.75083  0.12326  1.0000
+  Pd  Pd1       1.0  0.75000  0.35256  0.06113  1.0000
+  Pd  Pd2       1.0  0.25000  0.64744  0.93887  1.0000
+  Pd  Pd3       1.0  0.75000  0.85256  0.43887  1.0000
+  Pd  Pd4       1.0  0.25000  0.14744  0.56113  1.0000

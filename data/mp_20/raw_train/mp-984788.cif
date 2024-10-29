@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4ErRu3O12
+_chemical_formula_sum              "Ba4 Er1 Ru3 O12"
+_cell_length_a       10.3757
+_cell_length_b       10.3757
+_cell_length_c       10.3757
+_cell_angle_alpha    33.1985
+_cell_angle_beta     33.1985
+_cell_angle_gamma    33.1985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.28602  0.28602  0.28602  1.0000
+  Ba  Ba2       1.0  0.71398  0.71398  0.71398  1.0000
+  Ba  Ba3       1.0  0.12875  0.12875  0.12875  1.0000
+  Ba  Ba4       1.0  0.87125  0.87125  0.87125  1.0000
+  Er  Er1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ru  Ru1       1.0  0.41334  0.41334  0.41334  1.0000
+  Ru  Ru2       1.0  0.58666  0.58666  0.58666  1.0000
+  Ru  Ru3       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.78254  0.30566  0.78254  1.0000
+  O   O2        1.0  0.78254  0.78254  0.30566  1.0000
+  O   O3        1.0  0.30566  0.78254  0.78254  1.0000
+  O   O4        1.0  0.69434  0.21746  0.21746  1.0000
+  O   O5        1.0  0.21746  0.21746  0.69434  1.0000
+  O   O6        1.0  0.21746  0.69434  0.21746  1.0000
+  O   O7        1.0  0.61265  0.14691  0.61265  1.0000
+  O   O8        1.0  0.61265  0.61265  0.14691  1.0000
+  O   O9        1.0  0.14691  0.61265  0.61265  1.0000
+  O   O10       1.0  0.85309  0.38735  0.38735  1.0000
+  O   O11       1.0  0.38735  0.38735  0.85310  1.0000
+  O   O12       1.0  0.38735  0.85309  0.38735  1.0000

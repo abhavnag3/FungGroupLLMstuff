@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       TeH6O6
+_chemical_formula_sum              "Te1 H6 O6"
+_cell_length_a       5.5675
+_cell_length_b       5.58281
+_cell_length_c       5.69873
+_cell_angle_alpha    92.1948
+_cell_angle_beta     118.297
+_cell_angle_gamma    117.149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.01167  0.00411  0.00029  1.0000
+  H   H1        1.0  0.97100  0.37424  0.78024  1.0000
+  H   H2        1.0  0.59650  0.18307  0.22102  1.0000
+  H   H3        1.0  0.95146  0.76549  0.57709  1.0000
+  H   H4        1.0  0.01039  0.60963  0.20516  1.0000
+  H   H5        1.0  0.42574  0.79828  0.81478  1.0000
+  H   H6        1.0  0.17344  0.34062  0.42609  1.0000
+  O   O1        1.0  0.00286  0.22139  0.74224  1.0000
+  O   O2        1.0  0.47777  0.25218  0.25448  1.0000
+  O   O3        1.0  0.04982  0.76484  0.77438  1.0000
+  O   O4        1.0  0.00713  0.77953  0.25366  1.0000
+  O   O5        1.0  0.54268  0.75220  0.75284  1.0000
+  O   O6        1.0  0.98809  0.25869  0.22566  1.0000

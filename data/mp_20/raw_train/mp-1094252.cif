@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2Sn4
+_chemical_formula_sum              "Mg2 Sn4"
+_cell_length_a       6.73785
+_cell_length_b       6.73785
+_cell_length_c       7.30196
+_cell_angle_alpha    73.4419
+_cell_angle_beta     73.4419
+_cell_angle_gamma    29.0918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.52913  0.52913  0.19925  1.0000
+  Mg  Mg2       1.0  0.47087  0.47087  0.80075  1.0000
+  Sn  Sn1       1.0  0.81767  0.81767  0.13528  1.0000
+  Sn  Sn2       1.0  0.13299  0.13299  0.46624  1.0000
+  Sn  Sn3       1.0  0.86701  0.86701  0.53376  1.0000
+  Sn  Sn4       1.0  0.18233  0.18233  0.86472  1.0000

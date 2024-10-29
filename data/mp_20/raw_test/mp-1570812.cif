@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2V4CrCuO12
+_chemical_formula_sum              "Li2 V4 Cr1 Cu1 O12"
+_cell_length_a       6.92378
+_cell_length_b       6.92401
+_cell_length_c       5.6504
+_cell_angle_alpha    72.2256
+_cell_angle_beta     107.774
+_cell_angle_gamma    103.458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.26513  0.26515  0.25000  1.0000
+  Li  Li2       1.0  0.71806  0.71809  0.75000  1.0000
+  V   V1        1.0  0.16547  0.61402  0.70808  1.0000
+  V   V2        1.0  0.37774  0.81695  0.23296  1.0000
+  V   V3        1.0  0.61393  0.16541  0.79199  1.0000
+  V   V4        1.0  0.81692  0.37777  0.26701  1.0000
+  Cr  Cr1       1.0  0.07316  0.07320  0.74988  1.0000
+  Cu  Cu1       1.0  0.89255  0.89236  0.25025  1.0000
+  O   O1        1.0  0.99994  0.79795  0.66909  1.0000
+  O   O2        1.0  0.11621  0.34809  0.81503  1.0000
+  O   O3        1.0  0.19428  0.98153  0.13179  1.0000
+  O   O4        1.0  0.40867  0.70951  0.56974  1.0000
+  O   O5        1.0  0.34801  0.11611  0.68482  1.0000
+  O   O6        1.0  0.31600  0.62931  0.06407  1.0000
+  O   O7        1.0  0.70942  0.40864  0.93023  1.0000
+  O   O8        1.0  0.60335  0.97232  0.17106  1.0000
+  O   O9        1.0  0.62935  0.31604  0.43598  1.0000
+  O   O10       1.0  0.79793  0.99999  0.83096  1.0000
+  O   O11       1.0  0.97241  0.60331  0.32893  1.0000
+  O   O12       1.0  0.98147  0.19425  0.36813  1.0000

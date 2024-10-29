@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       LiTiP2O7
+_chemical_formula_sum              "Li1 Ti1 P2 O7"
+_cell_length_a       5.30788
+_cell_length_b       5.30788
+_cell_length_c       4.61096
+_cell_angle_alpha    81.4172
+_cell_angle_beta     81.4172
+_cell_angle_gamma    103.042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25279  0.74721  0.00000  1.0000
+  Ti  Ti1       1.0  0.87433  0.12567  0.00000  1.0000
+  P   P1        1.0  0.74573  0.66750  0.58972  1.0000
+  P   P2        1.0  0.33250  0.25427  0.41028  1.0000
+  O   O1        1.0  0.92649  0.81723  0.29272  1.0000
+  O   O2        1.0  0.65347  0.84032  0.80180  1.0000
+  O   O3        1.0  0.86814  0.46342  0.74326  1.0000
+  O   O4        1.0  0.47267  0.52733  0.50000  1.0000
+  O   O5        1.0  0.53658  0.13186  0.25674  1.0000
+  O   O6        1.0  0.15968  0.34653  0.19820  1.0000
+  O   O7        1.0  0.18277  0.07351  0.70728  1.0000

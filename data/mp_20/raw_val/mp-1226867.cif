@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       CdCu2Sn3S8
+_chemical_formula_sum              "Cd1 Cu2 Sn3 S8"
+_cell_length_a       7.51231
+_cell_length_b       7.51231
+_cell_length_c       7.51231
+_cell_angle_alpha    59.9384
+_cell_angle_beta     59.9384
+_cell_angle_gamma    59.9384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cu  Cu1       1.0  0.88278  0.88278  0.88278  1.0000
+  Cu  Cu2       1.0  0.11722  0.11722  0.11722  1.0000
+  Sn  Sn1       1.0  0.50000  0.00000  0.50000  1.0000
+  Sn  Sn2       1.0  0.50000  0.50000  0.00000  1.0000
+  Sn  Sn3       1.0  0.00000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.24912  0.24911  0.73903  1.0000
+  S   S2        1.0  0.73903  0.24912  0.24911  1.0000
+  S   S3        1.0  0.75089  0.26097  0.75089  1.0000
+  S   S4        1.0  0.75052  0.75052  0.75052  1.0000
+  S   S5        1.0  0.75089  0.75089  0.26097  1.0000
+  S   S6        1.0  0.26097  0.75089  0.75089  1.0000
+  S   S7        1.0  0.24912  0.73903  0.24911  1.0000
+  S   S8        1.0  0.24948  0.24948  0.24948  1.0000

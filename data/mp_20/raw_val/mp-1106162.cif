@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb12P4
+_chemical_formula_sum              "Nb12 P4"
+_cell_length_a       5.10482
+_cell_length_b       7.66545
+_cell_length_c       7.66545
+_cell_angle_alpha    83.6344
+_cell_angle_beta     70.5505
+_cell_angle_gamma    70.5505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.85646  0.81634  0.98395  1.0000
+  Nb  Nb2       1.0  0.65676  0.18366  0.01605  1.0000
+  Nb  Nb3       1.0  0.32719  0.01605  0.81634  1.0000
+  Nb  Nb4       1.0  0.15958  0.98395  0.18366  1.0000
+  Nb  Nb5       1.0  0.03703  0.62271  0.33829  1.0000
+  Nb  Nb6       1.0  0.99803  0.37729  0.66171  1.0000
+  Nb  Nb7       1.0  0.34026  0.66171  0.62271  1.0000
+  Nb  Nb8       1.0  0.62468  0.33829  0.37729  1.0000
+  Nb  Nb9       1.0  0.47329  0.59682  0.96868  1.0000
+  Nb  Nb10      1.0  0.03879  0.40318  0.03132  1.0000
+  Nb  Nb11      1.0  0.92989  0.03132  0.59682  1.0000
+  Nb  Nb12      1.0  0.55803  0.96868  0.40318  1.0000
+  P   P1        1.0  0.55072  0.67414  0.26055  1.0000
+  P   P2        1.0  0.48541  0.32586  0.73945  1.0000
+  P   P3        1.0  0.77514  0.73945  0.67414  1.0000
+  P   P4        1.0  0.18873  0.26055  0.32586  1.0000

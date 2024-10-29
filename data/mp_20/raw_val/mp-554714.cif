@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Np4O10
+_chemical_formula_sum              "Np4 O10"
+_cell_length_a       5.71174
+_cell_length_b       5.71174
+_cell_length_c       8.03441
+_cell_angle_alpha    69.4894
+_cell_angle_beta     69.4894
+_cell_angle_gamma    71.4994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.96328  0.03672  0.25000  1.0000
+  Np  Np2       1.0  0.50000  0.50000  0.00000  1.0000
+  Np  Np3       1.0  0.50000  0.50000  0.50000  1.0000
+  Np  Np4       1.0  0.03672  0.96328  0.75000  1.0000
+  O   O1        1.0  0.39563  0.60437  0.75000  1.0000
+  O   O2        1.0  0.26048  0.19847  0.63795  1.0000
+  O   O3        1.0  0.73952  0.80153  0.36205  1.0000
+  O   O4        1.0  0.19847  0.26048  0.13795  1.0000
+  O   O5        1.0  0.60437  0.39563  0.25000  1.0000
+  O   O6        1.0  0.80153  0.73952  0.86205  1.0000
+  O   O7        1.0  0.21017  0.80780  0.03754  1.0000
+  O   O8        1.0  0.80780  0.21017  0.53754  1.0000
+  O   O9        1.0  0.78983  0.19220  0.96246  1.0000
+  O   O10       1.0  0.19220  0.78983  0.46246  1.0000

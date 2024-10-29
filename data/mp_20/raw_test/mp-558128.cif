@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K2Nd4Nb2O12
+_chemical_formula_sum              "K2 Nd4 Nb2 O12"
+_cell_length_a       6.967
+_cell_length_b       6.967
+_cell_length_c       8.84191
+_cell_angle_alpha    75.5894
+_cell_angle_beta     75.5894
+_cell_angle_gamma    48.8528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.88434  0.88434  0.47874  1.0000
+  K   K2        1.0  0.11566  0.11566  0.52126  1.0000
+  Nd  Nd1       1.0  0.87069  0.87069  0.92975  1.0000
+  Nd  Nd2       1.0  0.41198  0.41198  0.20244  1.0000
+  Nd  Nd3       1.0  0.58802  0.58802  0.79756  1.0000
+  Nd  Nd4       1.0  0.12931  0.12931  0.07025  1.0000
+  Nb  Nb1       1.0  0.34115  0.34115  0.70254  1.0000
+  Nb  Nb2       1.0  0.65885  0.65885  0.29746  1.0000
+  O   O1        1.0  0.46944  0.00050  0.83322  1.0000
+  O   O2        1.0  0.31401  0.78139  0.29113  1.0000
+  O   O3        1.0  0.25060  0.74940  0.00000  1.0000
+  O   O4        1.0  0.68599  0.21861  0.70887  1.0000
+  O   O5        1.0  0.78139  0.31401  0.29113  1.0000
+  O   O6        1.0  0.74940  0.25060  0.00000  1.0000
+  O   O7        1.0  0.21861  0.68599  0.70887  1.0000
+  O   O8        1.0  0.53056  0.99950  0.16678  1.0000
+  O   O9        1.0  0.32564  0.32563  0.49885  1.0000
+  O   O10       1.0  0.67436  0.67436  0.50115  1.0000
+  O   O11       1.0  0.99950  0.53056  0.16678  1.0000
+  O   O12       1.0  0.00050  0.46944  0.83322  1.0000

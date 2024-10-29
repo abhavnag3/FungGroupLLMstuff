@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Nb12Zn4Au4
+_chemical_formula_sum              "Nb12 Zn4 Au4"
+_cell_length_a       7.02436
+_cell_length_b       7.02436
+_cell_length_c       7.02436
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.79302  0.95136  0.37714  1.0000
+  Nb  Nb2       1.0  0.70698  0.04864  0.87714  1.0000
+  Nb  Nb3       1.0  0.20698  0.45136  0.12286  1.0000
+  Nb  Nb4       1.0  0.29302  0.54864  0.62286  1.0000
+  Nb  Nb5       1.0  0.95136  0.37714  0.79302  1.0000
+  Nb  Nb6       1.0  0.04864  0.87714  0.70698  1.0000
+  Nb  Nb7       1.0  0.45136  0.12286  0.20698  1.0000
+  Nb  Nb8       1.0  0.54864  0.62286  0.29302  1.0000
+  Nb  Nb9       1.0  0.37714  0.79302  0.95136  1.0000
+  Nb  Nb10      1.0  0.87714  0.70698  0.04864  1.0000
+  Nb  Nb11      1.0  0.12286  0.20698  0.45136  1.0000
+  Nb  Nb12      1.0  0.62286  0.29302  0.54864  1.0000
+  Zn  Zn1       1.0  0.56209  0.43791  0.93791  1.0000
+  Zn  Zn2       1.0  0.43791  0.93791  0.56209  1.0000
+  Zn  Zn3       1.0  0.93791  0.56209  0.43791  1.0000
+  Zn  Zn4       1.0  0.06209  0.06209  0.06209  1.0000
+  Au  Au1       1.0  0.18549  0.81451  0.31451  1.0000
+  Au  Au2       1.0  0.31451  0.18549  0.81451  1.0000
+  Au  Au3       1.0  0.81451  0.31451  0.18549  1.0000
+  Au  Au4       1.0  0.68549  0.68549  0.68549  1.0000

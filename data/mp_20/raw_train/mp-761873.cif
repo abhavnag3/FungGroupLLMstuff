@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K2Ti2F8
+_chemical_formula_sum              "K2 Ti2 F8"
+_cell_length_a       4.01224
+_cell_length_b       7.8333
+_cell_length_c       12.4378
+_cell_angle_alpha    142.303
+_cell_angle_beta     89.2929
+_cell_angle_gamma    75.7617
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.98681  0.50069  0.19173  1.0000
+  K   K2        1.0  0.99857  0.49927  0.80730  1.0000
+  Ti  Ti1       1.0  0.18496  0.11977  0.31077  1.0000
+  Ti  Ti2       1.0  0.80503  0.88026  0.69097  1.0000
+  F   F1        1.0  0.99027  0.50045  0.60027  1.0000
+  F   F2        1.0  0.31999  0.85422  0.05446  1.0000
+  F   F3        1.0  0.67566  0.14344  0.69875  1.0000
+  F   F4        1.0  0.69094  0.10765  0.30517  1.0000
+  F   F5        1.0  0.29892  0.89234  0.69775  1.0000
+  F   F6        1.0  0.31096  0.85775  0.30386  1.0000
+  F   F7        1.0  0.66730  0.14464  0.94696  1.0000
+  F   F8        1.0  0.00413  0.49953  0.40097  1.0000

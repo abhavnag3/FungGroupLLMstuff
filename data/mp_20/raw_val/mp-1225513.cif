@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       ErTiFe11C
+_chemical_formula_sum              "Er1 Ti1 Fe11 C1"
+_cell_length_a       4.8483
+_cell_length_b       6.49698
+_cell_length_c       6.49698
+_cell_angle_alpha    97.7577
+_cell_angle_beta     111.908
+_cell_angle_gamma    68.0919
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.00670  0.99330  0.00670  1.0000
+  Ti  Ti1       1.0  0.63490  0.36510  0.63490  1.0000
+  Fe  Fe1       1.0  0.72373  0.77627  0.22373  1.0000
+  Fe  Fe2       1.0  0.27808  0.22192  0.77808  1.0000
+  Fe  Fe3       1.0  0.49798  0.78150  0.77746  1.0000
+  Fe  Fe4       1.0  0.49798  0.22254  0.21850  1.0000
+  Fe  Fe5       1.0  0.50014  0.99761  0.49918  1.0000
+  Fe  Fe6       1.0  0.00143  0.99761  0.49918  1.0000
+  Fe  Fe7       1.0  0.50014  0.50082  0.00239  1.0000
+  Fe  Fe8       1.0  0.00143  0.50082  0.00239  1.0000
+  Fe  Fe9       1.0  0.35630  0.64370  0.35630  1.0000
+  Fe  Fe10      1.0  0.99981  0.35829  0.35792  1.0000
+  Fe  Fe11      1.0  0.99981  0.64208  0.64171  1.0000
+  C   C1        1.0  0.50157  0.99843  0.00157  1.0000

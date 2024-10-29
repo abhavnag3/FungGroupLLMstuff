@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       K8CaTe6
+_chemical_formula_sum              "K8 Ca1 Te6"
+_cell_length_a       10.0977
+_cell_length_b       10.0977
+_cell_length_c       10.0977
+_cell_angle_alpha    95.6104
+_cell_angle_beta     95.6104
+_cell_angle_gamma    143.559
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.66515  0.47430  0.63426  1.0000
+  K   K2        1.0  0.84004  0.03089  0.36574  1.0000
+  K   K3        1.0  0.15996  0.52570  0.19085  1.0000
+  K   K4        1.0  0.33485  0.96910  0.80915  1.0000
+  K   K5        1.0  0.96910  0.33485  0.80915  1.0000
+  K   K6        1.0  0.52570  0.15996  0.19085  1.0000
+  K   K7        1.0  0.03089  0.84004  0.36574  1.0000
+  K   K8        1.0  0.47430  0.66515  0.63426  1.0000
+  Ca  Ca1       1.0  0.50000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.58883  0.88171  0.00000  1.0000
+  Te  Te2       1.0  0.88171  0.58883  0.00000  1.0000
+  Te  Te3       1.0  0.11829  0.11829  0.70711  1.0000
+  Te  Te4       1.0  0.41117  0.41117  0.29289  1.0000
+  Te  Te5       1.0  0.50000  0.00000  0.50000  1.0000
+  Te  Te6       1.0  0.00000  0.50000  0.50000  1.0000

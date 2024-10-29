@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er4Cu4P8
+_chemical_formula_sum              "Er4 Cu4 P8"
+_cell_length_a       3.69985
+_cell_length_b       3.73237
+_cell_length_c       19.3305
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.25000  0.72646  0.38275  1.0000
+  Er  Er2       1.0  0.25000  0.77354  0.88275  1.0000
+  Er  Er3       1.0  0.75000  0.27354  0.61725  1.0000
+  Er  Er4       1.0  0.75000  0.22646  0.11725  1.0000
+  Cu  Cu1       1.0  0.25000  0.22886  0.25004  1.0000
+  Cu  Cu2       1.0  0.75000  0.77114  0.74996  1.0000
+  Cu  Cu3       1.0  0.25000  0.27114  0.75004  1.0000
+  Cu  Cu4       1.0  0.75000  0.72886  0.24996  1.0000
+  P   P1        1.0  0.75000  0.80261  0.50134  1.0000
+  P   P2        1.0  0.75000  0.69739  0.00134  1.0000
+  P   P3        1.0  0.25000  0.19739  0.49866  1.0000
+  P   P4        1.0  0.25000  0.30261  0.99866  1.0000
+  P   P5        1.0  0.25000  0.72776  0.17062  1.0000
+  P   P6        1.0  0.75000  0.22776  0.32937  1.0000
+  P   P7        1.0  0.75000  0.27224  0.82937  1.0000
+  P   P8        1.0  0.25000  0.77224  0.67063  1.0000

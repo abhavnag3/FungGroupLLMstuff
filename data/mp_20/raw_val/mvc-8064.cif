@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti2Ge4O12
+_chemical_formula_sum              "Ti2 Ge4 O12"
+_cell_length_a       6.76553
+_cell_length_b       6.76553
+_cell_length_c       5.59248
+_cell_angle_alpha    76.4366
+_cell_angle_beta     76.4366
+_cell_angle_gamma    83.9662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.10702  0.89298  0.75000  1.0000
+  Ti  Ti2       1.0  0.89298  0.10702  0.25000  1.0000
+  Ge  Ge1       1.0  0.20877  0.38023  0.77283  1.0000
+  Ge  Ge2       1.0  0.61977  0.79123  0.72717  1.0000
+  Ge  Ge3       1.0  0.79123  0.61977  0.22717  1.0000
+  Ge  Ge4       1.0  0.38023  0.20877  0.27283  1.0000
+  O   O1        1.0  0.38516  0.34629  0.50025  1.0000
+  O   O2        1.0  0.65371  0.61484  0.99975  1.0000
+  O   O3        1.0  0.61484  0.65371  0.49975  1.0000
+  O   O4        1.0  0.34629  0.38516  0.00025  1.0000
+  O   O5        1.0  0.63058  0.09699  0.21432  1.0000
+  O   O6        1.0  0.90301  0.36942  0.28568  1.0000
+  O   O7        1.0  0.36942  0.90301  0.78568  1.0000
+  O   O8        1.0  0.09699  0.63058  0.71432  1.0000
+  O   O9        1.0  0.04006  0.17611  0.88370  1.0000
+  O   O10       1.0  0.82389  0.95994  0.61630  1.0000
+  O   O11       1.0  0.95994  0.82389  0.11630  1.0000
+  O   O12       1.0  0.17611  0.04006  0.38370  1.0000

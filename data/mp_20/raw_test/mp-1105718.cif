@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ni4Bi4O12
+_chemical_formula_sum              "Ni4 Bi4 O12"
+_cell_length_a       5.45835
+_cell_length_b       5.72499
+_cell_length_c       7.84557
+_cell_angle_alpha    92.2267
+_cell_angle_beta     90.3646
+_cell_angle_gamma    91.8938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni3       1.0  0.50000  0.00000  0.50000  1.0000
+  Ni  Ni4       1.0  0.00000  0.50000  0.50000  1.0000
+  Bi  Bi1       1.0  0.98874  0.94086  0.77091  1.0000
+  Bi  Bi2       1.0  0.01126  0.05914  0.22909  1.0000
+  Bi  Bi3       1.0  0.49025  0.56109  0.27868  1.0000
+  Bi  Bi4       1.0  0.50975  0.43891  0.72132  1.0000
+  O   O1        1.0  0.14161  0.53889  0.74881  1.0000
+  O   O2        1.0  0.85839  0.46111  0.25119  1.0000
+  O   O3        1.0  0.60827  0.92438  0.24166  1.0000
+  O   O4        1.0  0.39173  0.07562  0.75834  1.0000
+  O   O5        1.0  0.16704  0.82881  0.02979  1.0000
+  O   O6        1.0  0.83296  0.17119  0.97021  1.0000
+  O   O7        1.0  0.68554  0.66714  0.91224  1.0000
+  O   O8        1.0  0.31446  0.33286  0.08775  1.0000
+  O   O9        1.0  0.78654  0.22642  0.58744  1.0000
+  O   O10       1.0  0.21346  0.77358  0.41256  1.0000
+  O   O11       1.0  0.32714  0.31311  0.45721  1.0000
+  O   O12       1.0  0.67286  0.68689  0.54279  1.0000

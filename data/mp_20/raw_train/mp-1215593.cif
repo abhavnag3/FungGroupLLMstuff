@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn2Ge2As2P2
+_chemical_formula_sum              "Zn2 Ge2 As2 P2"
+_cell_length_a       6.8331
+_cell_length_b       6.8331
+_cell_length_c       6.8331
+_cell_angle_alpha    131.583
+_cell_angle_beta     131.258
+_cell_angle_gamma    71.1462
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.63106  0.38106  0.25000  1.0000
+  Zn  Zn2       1.0  0.86894  0.11894  0.75000  1.0000
+  Ge  Ge1       1.0  0.12969  0.87969  0.25000  1.0000
+  Ge  Ge2       1.0  0.37031  0.62031  0.75000  1.0000
+  As  As1       1.0  0.25000  0.49908  0.24908  1.0000
+  As  As2       1.0  0.75000  0.00092  0.25092  1.0000
+  P   P1        1.0  0.49426  0.25000  0.74426  1.0000
+  P   P2        1.0  0.00574  0.75000  0.75574  1.0000

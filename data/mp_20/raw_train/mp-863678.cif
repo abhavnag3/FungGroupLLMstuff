@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       KZn4Sb3O12
+_chemical_formula_sum              "K1 Zn4 Sb3 O12"
+_cell_length_a       6.84341
+_cell_length_b       6.84341
+_cell_length_c       6.84341
+_cell_angle_alpha    107.757
+_cell_angle_beta     107.757
+_cell_angle_gamma    107.757
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.49568  0.49568  0.49568  1.0000
+  Zn  Zn1       1.0  0.63884  0.02525  0.51078  1.0000
+  Zn  Zn2       1.0  0.02525  0.51078  0.63884  1.0000
+  Zn  Zn3       1.0  0.51078  0.63884  0.02525  1.0000
+  Zn  Zn4       1.0  0.98193  0.98193  0.98193  1.0000
+  Sb  Sb1       1.0  0.19561  0.06829  0.65441  1.0000
+  Sb  Sb2       1.0  0.65441  0.19561  0.06829  1.0000
+  Sb  Sb3       1.0  0.06829  0.65441  0.19561  1.0000
+  O   O1        1.0  0.65477  0.89439  0.96223  1.0000
+  O   O2        1.0  0.96223  0.65477  0.89439  1.0000
+  O   O3        1.0  0.73127  0.25111  0.39084  1.0000
+  O   O4        1.0  0.39084  0.73127  0.25111  1.0000
+  O   O5        1.0  0.89439  0.96223  0.65477  1.0000
+  O   O6        1.0  0.25111  0.39084  0.73127  1.0000
+  O   O7        1.0  0.11755  0.98567  0.32144  1.0000
+  O   O8        1.0  0.98567  0.32144  0.11755  1.0000
+  O   O9        1.0  0.32144  0.11755  0.98567  1.0000
+  O   O10       1.0  0.16426  0.73601  0.53580  1.0000
+  O   O11       1.0  0.73601  0.53580  0.16426  1.0000
+  O   O12       1.0  0.53580  0.16426  0.73601  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ga2Hg6As2S2Cl8
+_chemical_formula_sum              "Ga2 Hg6 As2 S2 Cl8"
+_cell_length_a       7.51813
+_cell_length_b       7.51813
+_cell_length_c       12.4283
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.00000  0.00000  0.26094  1.0000
+  Ga  Ga2       1.0  0.00000  0.00000  0.76094  1.0000
+  Hg  Hg1       1.0  0.50167  0.00334  0.46701  1.0000
+  Hg  Hg2       1.0  0.50167  0.49833  0.46701  1.0000
+  Hg  Hg3       1.0  0.99666  0.49833  0.46701  1.0000
+  Hg  Hg4       1.0  0.49833  0.99666  0.96701  1.0000
+  Hg  Hg5       1.0  0.49833  0.50167  0.96701  1.0000
+  Hg  Hg6       1.0  0.00334  0.50167  0.96701  1.0000
+  As  As1       1.0  0.66667  0.33333  0.57429  1.0000
+  As  As2       1.0  0.33333  0.66667  0.07429  1.0000
+  S   S1        1.0  0.33333  0.66667  0.37565  1.0000
+  S   S2        1.0  0.66667  0.33333  0.87565  1.0000
+  Cl  Cl1       1.0  0.32270  0.16135  0.20853  1.0000
+  Cl  Cl2       1.0  0.83865  0.67730  0.20853  1.0000
+  Cl  Cl3       1.0  0.83865  0.16135  0.20853  1.0000
+  Cl  Cl4       1.0  0.67730  0.83865  0.70853  1.0000
+  Cl  Cl5       1.0  0.16135  0.32270  0.70853  1.0000
+  Cl  Cl6       1.0  0.16135  0.83865  0.70853  1.0000
+  Cl  Cl7       1.0  0.00000  0.00000  0.44036  1.0000
+  Cl  Cl8       1.0  0.00000  0.00000  0.94036  1.0000

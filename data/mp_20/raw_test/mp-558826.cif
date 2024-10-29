@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K2Ho2Be2F12
+_chemical_formula_sum              "K2 Ho2 Be2 F12"
+_cell_length_a       5.84194
+_cell_length_b       6.42386
+_cell_length_c       7.08614
+_cell_angle_alpha    66.9887
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.25000  0.57140  0.79544  1.0000
+  K   K2        1.0  0.75000  0.42860  0.20456  1.0000
+  Ho  Ho1       1.0  0.25000  0.88811  0.18024  1.0000
+  Ho  Ho2       1.0  0.75000  0.11189  0.81977  1.0000
+  Be  Be1       1.0  0.25000  0.26690  0.46405  1.0000
+  Be  Be2       1.0  0.75000  0.73311  0.53595  1.0000
+  F   F1        1.0  0.25000  0.48862  0.26264  1.0000
+  F   F2        1.0  0.53446  0.73274  0.40454  1.0000
+  F   F3        1.0  0.46554  0.26726  0.59545  1.0000
+  F   F4        1.0  0.50152  0.82179  0.96523  1.0000
+  F   F5        1.0  0.49848  0.17821  0.03477  1.0000
+  F   F6        1.0  0.00152  0.17821  0.03477  1.0000
+  F   F7        1.0  0.99848  0.82179  0.96523  1.0000
+  F   F8        1.0  0.75000  0.94278  0.59116  1.0000
+  F   F9        1.0  0.96554  0.73274  0.40454  1.0000
+  F   F10       1.0  0.03446  0.26726  0.59545  1.0000
+  F   F11       1.0  0.25000  0.05722  0.40884  1.0000
+  F   F12       1.0  0.75000  0.51138  0.73736  1.0000

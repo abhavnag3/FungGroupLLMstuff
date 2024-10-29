@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Hg2Cl4O12
+_chemical_formula_sum              "Hg2 Cl4 O12"
+_cell_length_a       5.61724
+_cell_length_b       5.8314
+_cell_length_c       9.44859
+_cell_angle_alpha    79.1436
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.27702  0.92848  0.18638  1.0000
+  Hg  Hg2       1.0  0.77702  0.07152  0.81362  1.0000
+  Cl  Cl1       1.0  0.75543  0.73149  0.60407  1.0000
+  Cl  Cl2       1.0  0.28662  0.35595  0.86126  1.0000
+  Cl  Cl3       1.0  0.78662  0.64405  0.13874  1.0000
+  Cl  Cl4       1.0  0.25543  0.26851  0.39593  1.0000
+  O   O1        1.0  0.92567  0.93376  0.59003  1.0000
+  O   O2        1.0  0.58654  0.77781  0.72632  1.0000
+  O   O3        1.0  0.59780  0.83613  0.06660  1.0000
+  O   O4        1.0  0.89042  0.73091  0.26465  1.0000
+  O   O5        1.0  0.88778  0.51033  0.65670  1.0000
+  O   O6        1.0  0.47135  0.33603  0.97494  1.0000
+  O   O7        1.0  0.97135  0.66397  0.02506  1.0000
+  O   O8        1.0  0.38778  0.48967  0.34330  1.0000
+  O   O9        1.0  0.39042  0.26909  0.73535  1.0000
+  O   O10       1.0  0.09780  0.16387  0.93340  1.0000
+  O   O11       1.0  0.08654  0.22219  0.27368  1.0000
+  O   O12       1.0  0.42567  0.06624  0.40997  1.0000

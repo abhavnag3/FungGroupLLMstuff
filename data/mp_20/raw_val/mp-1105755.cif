@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nd10Tl6
+_chemical_formula_sum              "Nd10 Tl6"
+_cell_length_a       6.35823
+_cell_length_b       9.46144
+_cell_length_c       9.46144
+_cell_angle_alpha    83.5174
+_cell_angle_beta     70.3662
+_cell_angle_gamma    70.3662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.21742  0.69647  0.86869  1.0000
+  Nd  Nd2       1.0  0.78258  0.30353  0.13131  1.0000
+  Nd  Nd3       1.0  0.28258  0.13131  0.30353  1.0000
+  Nd  Nd4       1.0  0.71742  0.86869  0.69647  1.0000
+  Nd  Nd5       1.0  0.08611  0.13131  0.69647  1.0000
+  Nd  Nd6       1.0  0.91389  0.86869  0.30353  1.0000
+  Nd  Nd7       1.0  0.58611  0.69647  0.13131  1.0000
+  Nd  Nd8       1.0  0.41389  0.30353  0.86869  1.0000
+  Nd  Nd9       1.0  0.75000  0.50000  0.50000  1.0000
+  Nd  Nd10      1.0  0.25000  0.50000  0.50000  1.0000
+  Tl  Tl1       1.0  0.65996  0.18009  0.50000  1.0000
+  Tl  Tl2       1.0  0.34004  0.81991  0.50000  1.0000
+  Tl  Tl3       1.0  0.84004  0.50000  0.81991  1.0000
+  Tl  Tl4       1.0  0.15996  0.50000  0.18009  1.0000
+  Tl  Tl5       1.0  0.25000  0.00000  0.00000  1.0000
+  Tl  Tl6       1.0  0.75000  0.00000  0.00000  1.0000

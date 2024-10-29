@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Er4Si8Mo6
+_chemical_formula_sum              "Er4 Si8 Mo6"
+_cell_length_a       6.90665
+_cell_length_b       6.71833
+_cell_length_c       6.84227
+_cell_angle_alpha    71.0296
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.66955  0.43912  0.19070  1.0000
+  Er  Er2       1.0  0.16955  0.06088  0.80930  1.0000
+  Er  Er3       1.0  0.33045  0.56088  0.80930  1.0000
+  Er  Er4       1.0  0.83045  0.93912  0.19070  1.0000
+  Si  Si1       1.0  0.45644  0.13243  0.09005  1.0000
+  Si  Si2       1.0  0.95644  0.36757  0.90995  1.0000
+  Si  Si3       1.0  0.54356  0.86757  0.90995  1.0000
+  Si  Si4       1.0  0.04356  0.63243  0.09005  1.0000
+  Si  Si5       1.0  0.86821  0.12915  0.50387  1.0000
+  Si  Si6       1.0  0.36821  0.37085  0.49613  1.0000
+  Si  Si7       1.0  0.13179  0.87085  0.49613  1.0000
+  Si  Si8       1.0  0.63179  0.62915  0.50387  1.0000
+  Mo  Mo1       1.0  0.50000  0.00000  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.50000  0.50000  1.0000
+  Mo  Mo3       1.0  0.16251  0.25033  0.24808  1.0000
+  Mo  Mo4       1.0  0.66251  0.24968  0.75192  1.0000
+  Mo  Mo5       1.0  0.83749  0.74967  0.75192  1.0000
+  Mo  Mo6       1.0  0.33749  0.75033  0.24808  1.0000

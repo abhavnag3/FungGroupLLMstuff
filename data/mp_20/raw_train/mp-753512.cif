@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti3W3O12
+_chemical_formula_sum              "Ti3 W3 O12"
+_cell_length_a       3.12368
+_cell_length_b       4.71397
+_cell_length_c       14.1824
+_cell_angle_alpha    89.9534
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.00000  0.99767  0.34107  1.0000
+  Ti  Ti2       1.0  0.00000  0.00233  0.65893  1.0000
+  Ti  Ti3       1.0  0.50000  0.50000  0.50000  1.0000
+  W   W1        1.0  0.00000  0.00000  0.00000  1.0000
+  W   W2        1.0  0.50000  0.50017  0.17458  1.0000
+  W   W3        1.0  0.50000  0.49983  0.82542  1.0000
+  O   O1        1.0  0.50000  0.81221  0.40327  1.0000
+  O   O2        1.0  0.50000  0.79224  0.06846  1.0000
+  O   O3        1.0  0.50000  0.80750  0.72390  1.0000
+  O   O4        1.0  0.00000  0.68692  0.56361  1.0000
+  O   O5        1.0  0.00000  0.70485  0.89511  1.0000
+  O   O6        1.0  0.00000  0.71079  0.24196  1.0000
+  O   O7        1.0  0.00000  0.31308  0.43639  1.0000
+  O   O8        1.0  0.00000  0.29515  0.10489  1.0000
+  O   O9        1.0  0.00000  0.28921  0.75804  1.0000
+  O   O10       1.0  0.50000  0.18779  0.59673  1.0000
+  O   O11       1.0  0.50000  0.19250  0.27610  1.0000
+  O   O12       1.0  0.50000  0.20776  0.93154  1.0000

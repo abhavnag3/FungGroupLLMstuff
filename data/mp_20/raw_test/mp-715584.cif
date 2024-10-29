@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mo4O12
+_chemical_formula_sum              "Mo4 O12"
+_cell_length_a       5.47523
+_cell_length_b       5.65551
+_cell_length_c       7.28724
+_cell_angle_alpha    89.4071
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.75470  0.30277  0.50152  1.0000
+  Mo  Mo2       1.0  0.24530  0.80276  0.50152  1.0000
+  Mo  Mo3       1.0  0.25144  0.95889  0.00127  1.0000
+  Mo  Mo4       1.0  0.74856  0.45888  0.00127  1.0000
+  O   O1        1.0  0.01786  0.12978  0.46004  1.0000
+  O   O2        1.0  0.98214  0.62978  0.46004  1.0000
+  O   O3        1.0  0.01597  0.16453  0.04570  1.0000
+  O   O4        1.0  0.98403  0.66453  0.04570  1.0000
+  O   O5        1.0  0.17371  0.88890  0.75241  1.0000
+  O   O6        1.0  0.82629  0.38890  0.75241  1.0000
+  O   O7        1.0  0.46509  0.58105  0.54590  1.0000
+  O   O8        1.0  0.53491  0.08105  0.54590  1.0000
+  O   O9        1.0  0.32861  0.87551  0.25321  1.0000
+  O   O10       1.0  0.67139  0.37551  0.25321  1.0000
+  O   O11       1.0  0.50182  0.14978  0.96075  1.0000
+  O   O12       1.0  0.49818  0.64978  0.96075  1.0000

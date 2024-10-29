@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Rb4Sn2As4
+_chemical_formula_sum              "Rb4 Sn2 As4"
+_cell_length_a       8.79795
+_cell_length_b       8.79795
+_cell_length_c       8.79795
+_cell_angle_alpha    132.646
+_cell_angle_beta     128.814
+_cell_angle_gamma    72.2863
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.01555  0.85553  0.16002  1.0000
+  Rb  Rb2       1.0  0.30449  0.64447  0.66002  1.0000
+  Rb  Rb3       1.0  0.98445  0.14447  0.83998  1.0000
+  Rb  Rb4       1.0  0.69551  0.35553  0.33998  1.0000
+  Sn  Sn1       1.0  0.50000  0.25000  0.75000  1.0000
+  Sn  Sn2       1.0  0.50000  0.75000  0.25000  1.0000
+  As  As1       1.0  0.21632  0.39654  0.81978  1.0000
+  As  As2       1.0  0.42324  0.10346  0.31978  1.0000
+  As  As3       1.0  0.78368  0.60346  0.18022  1.0000
+  As  As4       1.0  0.57676  0.89654  0.68022  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Li3Fe2Si2O8
+_chemical_formula_sum              "Li3 Fe2 Si2 O8"
+_cell_length_a       5.29829
+_cell_length_b       6.47908
+_cell_length_c       5.26111
+_cell_angle_alpha    90.3057
+_cell_angle_beta     91.5775
+_cell_angle_gamma    91.4069
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.82907  0.25138  0.80901  1.0000
+  Li  Li2       1.0  0.68549  0.50002  0.31221  1.0000
+  Li  Li3       1.0  0.30502  0.00143  0.69296  1.0000
+  Fe  Fe1       1.0  0.31380  0.51326  0.68707  1.0000
+  Fe  Fe2       1.0  0.67395  0.99140  0.31864  1.0000
+  Si  Si1       1.0  0.18673  0.25238  0.18152  1.0000
+  Si  Si2       1.0  0.82618  0.74631  0.82216  1.0000
+  O   O1        1.0  0.75827  0.75928  0.12735  1.0000
+  O   O2        1.0  0.12546  0.75956  0.77334  1.0000
+  O   O3        1.0  0.87249  0.23140  0.22818  1.0000
+  O   O4        1.0  0.20406  0.24994  0.86928  1.0000
+  O   O5        1.0  0.31322  0.45958  0.30578  1.0000
+  O   O6        1.0  0.32670  0.05071  0.30816  1.0000
+  O   O7        1.0  0.70498  0.52826  0.70171  1.0000
+  O   O8        1.0  0.69644  0.95508  0.68451  1.0000

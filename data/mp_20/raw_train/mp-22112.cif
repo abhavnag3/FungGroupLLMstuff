@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Co2W2O12
+_chemical_formula_sum              "Ba4 Co2 W2 O12"
+_cell_length_a       5.8159
+_cell_length_b       10.0885
+_cell_length_c       5.81786
+_cell_angle_alpha    73.3986
+_cell_angle_beta     119.92
+_cell_angle_gamma    106.629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.37474  0.12433  0.62509  1.0000
+  Ba  Ba2       1.0  0.87486  0.62433  0.12516  1.0000
+  Ba  Ba3       1.0  0.12514  0.37567  0.87484  1.0000
+  Ba  Ba4       1.0  0.62526  0.87567  0.37491  1.0000
+  Co  Co1       1.0  1.00000  0.00000  1.00000  1.0000
+  Co  Co2       1.0  0.50000  0.50000  0.50000  1.0000
+  W   W1        1.0  0.74981  0.25000  0.24985  1.0000
+  W   W2        1.0  0.25020  0.75000  0.75015  1.0000
+  O   O1        1.0  0.13054  0.86947  0.86932  1.0000
+  O   O2        1.0  0.63055  0.36949  0.36937  1.0000
+  O   O3        1.0  0.36903  0.63092  0.10699  1.0000
+  O   O4        1.0  0.86903  0.13102  0.60685  1.0000
+  O   O5        1.0  0.60721  0.86919  0.86907  1.0000
+  O   O6        1.0  0.10703  0.36906  0.36904  1.0000
+  O   O7        1.0  0.89297  0.63094  0.63096  1.0000
+  O   O8        1.0  0.39279  0.13081  0.13093  1.0000
+  O   O9        1.0  0.13097  0.86898  0.39314  1.0000
+  O   O10       1.0  0.63097  0.36908  0.89301  1.0000
+  O   O11       1.0  0.36945  0.63050  0.63063  1.0000
+  O   O12       1.0  0.86946  0.13053  0.13068  1.0000

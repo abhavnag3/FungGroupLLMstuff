@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Li3Mg3
+_chemical_formula_sum              "Li3 Mg3"
+_cell_length_a       5.77469
+_cell_length_b       5.77469
+_cell_length_c       7.01947
+_cell_angle_alpha    72.4243
+_cell_angle_beta     72.4243
+_cell_angle_gamma    33.4758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.96828  0.96828  0.05249  1.0000
+  Li  Li2       1.0  0.63125  0.63124  0.73162  1.0000
+  Li  Li3       1.0  0.98226  0.98226  0.55707  1.0000
+  Mg  Mg1       1.0  0.31029  0.31029  0.87338  1.0000
+  Mg  Mg2       1.0  0.30984  0.30984  0.39900  1.0000
+  Mg  Mg3       1.0  0.63142  0.63142  0.21978  1.0000

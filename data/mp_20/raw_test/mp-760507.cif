@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       As2Rh2O8
+_chemical_formula_sum              "As2 Rh2 O8"
+_cell_length_a       5.47604
+_cell_length_b       5.47604
+_cell_length_c       5.47604
+_cell_angle_alpha    107.8
+_cell_angle_beta     107.8
+_cell_angle_gamma    112.867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.75435  0.25435  0.50000  1.0000
+  As  As2       1.0  0.50435  0.50435  0.00000  1.0000
+  Rh  Rh1       1.0  0.24426  0.74426  0.50000  1.0000
+  Rh  Rh2       1.0  0.99426  0.99426  0.00000  1.0000
+  O   O1        1.0  0.45702  0.26553  0.19149  1.0000
+  O   O2        1.0  0.92397  0.73517  0.18880  1.0000
+  O   O3        1.0  0.51553  0.82404  0.30851  1.0000
+  O   O4        1.0  0.98517  0.29637  0.31120  1.0000
+  O   O5        1.0  0.98517  0.67397  0.68880  1.0000
+  O   O6        1.0  0.51553  0.20702  0.69149  1.0000
+  O   O7        1.0  0.54637  0.73517  0.81120  1.0000
+  O   O8        1.0  0.07404  0.26553  0.80851  1.0000

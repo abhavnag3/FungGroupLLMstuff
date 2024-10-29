@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       La5Cu4As4Cl2O4
+_chemical_formula_sum              "La5 Cu4 As4 Cl2 O4"
+_cell_length_a       4.13176
+_cell_length_b       4.13176
+_cell_length_c       21.2079
+_cell_angle_alpha    95.5901
+_cell_angle_beta     95.5901
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.63858  0.63858  0.27717  1.0000
+  La  La2       1.0  0.36142  0.36142  0.72283  1.0000
+  La  La3       1.0  0.19591  0.19591  0.39183  1.0000
+  La  La4       1.0  0.80409  0.80409  0.60817  1.0000
+  La  La5       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.06455  0.56455  0.12909  1.0000
+  Cu  Cu2       1.0  0.56455  0.06455  0.12909  1.0000
+  Cu  Cu3       1.0  0.93545  0.43545  0.87091  1.0000
+  Cu  Cu4       1.0  0.43545  0.93545  0.87091  1.0000
+  As  As1       1.0  0.53034  0.53034  0.06068  1.0000
+  As  As2       1.0  0.46966  0.46966  0.93932  1.0000
+  As  As3       1.0  0.09585  0.09585  0.19170  1.0000
+  As  As4       1.0  0.90415  0.90415  0.80830  1.0000
+  Cl  Cl1       1.0  0.72840  0.72840  0.45680  1.0000
+  Cl  Cl2       1.0  0.27160  0.27160  0.54320  1.0000
+  O   O1        1.0  0.66722  0.16722  0.33444  1.0000
+  O   O2        1.0  0.16722  0.66722  0.33444  1.0000
+  O   O3        1.0  0.33278  0.83278  0.66556  1.0000
+  O   O4        1.0  0.83278  0.33278  0.66556  1.0000

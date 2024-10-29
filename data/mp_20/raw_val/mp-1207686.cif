@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tm2Ti2Cl2O6
+_chemical_formula_sum              "Tm2 Ti2 Cl2 O6"
+_cell_length_a       5.28906
+_cell_length_b       5.28906
+_cell_length_c       9.74768
+_cell_angle_alpha    74.3216
+_cell_angle_beta     74.3216
+_cell_angle_gamma    43.1293
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.27674  0.27674  0.20457  1.0000
+  Tm  Tm2       1.0  0.72326  0.72326  0.79543  1.0000
+  Ti  Ti1       1.0  0.88242  0.88241  0.42684  1.0000
+  Ti  Ti2       1.0  0.11758  0.11758  0.57316  1.0000
+  Cl  Cl1       1.0  0.61589  0.61589  0.09269  1.0000
+  Cl  Cl2       1.0  0.38411  0.38411  0.90731  1.0000
+  O   O1        1.0  0.84790  0.84790  0.24733  1.0000
+  O   O2        1.0  0.15210  0.15210  0.75267  1.0000
+  O   O3        1.0  0.66762  0.66762  0.56797  1.0000
+  O   O4        1.0  0.33238  0.33238  0.43203  1.0000
+  O   O5        1.0  0.92136  0.92136  0.62694  1.0000
+  O   O6        1.0  0.07864  0.07864  0.37306  1.0000

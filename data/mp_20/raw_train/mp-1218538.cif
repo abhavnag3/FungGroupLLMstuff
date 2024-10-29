@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4ZnIr3O12
+_chemical_formula_sum              "Sr4 Zn1 Ir3 O12"
+_cell_length_a       5.64313
+_cell_length_b       5.67401
+_cell_length_c       7.96441
+_cell_angle_alpha    89.5694
+_cell_angle_beta     89.9087
+_cell_angle_gamma    89.948
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.49723  0.53423  0.75782  1.0000
+  Sr  Sr2       1.0  0.00964  0.03844  0.75847  1.0000
+  Sr  Sr3       1.0  0.50277  0.46577  0.24218  1.0000
+  Sr  Sr4       1.0  0.99036  0.96156  0.24153  1.0000
+  Zn  Zn1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ir  Ir1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ir  Ir2       1.0  0.00000  0.50000  0.50000  1.0000
+  Ir  Ir3       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.22511  0.79020  0.97037  1.0000
+  O   O2        1.0  0.29801  0.29905  0.53804  1.0000
+  O   O3        1.0  0.79837  0.20292  0.46346  1.0000
+  O   O4        1.0  0.70744  0.72392  0.03246  1.0000
+  O   O5        1.0  0.77489  0.20980  0.02963  1.0000
+  O   O6        1.0  0.70199  0.70095  0.46196  1.0000
+  O   O7        1.0  0.20162  0.79708  0.53654  1.0000
+  O   O8        1.0  0.29256  0.27608  0.96754  1.0000
+  O   O9        1.0  0.57379  0.98736  0.75105  1.0000
+  O   O10       1.0  0.94010  0.49302  0.74058  1.0000
+  O   O11       1.0  0.42621  0.01264  0.24895  1.0000
+  O   O12       1.0  0.05990  0.50698  0.25942  1.0000

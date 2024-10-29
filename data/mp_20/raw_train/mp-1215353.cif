@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4GeSb7
+_chemical_formula_sum              "Zr4 Ge1 Sb7"
+_cell_length_a       3.9931
+_cell_length_b       7.38083
+_cell_length_c       9.68274
+_cell_angle_alpha    89.5508
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.00000  0.75841  0.66050  1.0000
+  Zr  Zr2       1.0  0.00000  0.26359  0.83171  1.0000
+  Zr  Zr3       1.0  0.50000  0.24185  0.34138  1.0000
+  Zr  Zr4       1.0  0.50000  0.73990  0.16519  1.0000
+  Ge  Ge1       1.0  0.00000  0.36808  0.54561  1.0000
+  Sb  Sb1       1.0  0.00000  0.43274  0.14960  1.0000
+  Sb  Sb2       1.0  0.00000  0.93096  0.35483  1.0000
+  Sb  Sb3       1.0  0.50000  0.56819  0.84983  1.0000
+  Sb  Sb4       1.0  0.50000  0.07932  0.64128  1.0000
+  Sb  Sb5       1.0  0.00000  0.86860  0.95321  1.0000
+  Sb  Sb6       1.0  0.50000  0.61417  0.46085  1.0000
+  Sb  Sb7       1.0  0.50000  0.13418  0.04600  1.0000

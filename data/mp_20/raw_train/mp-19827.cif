@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ce4Al4Pt4
+_chemical_formula_sum              "Ce4 Al4 Pt4"
+_cell_length_a       4.38852
+_cell_length_b       7.13838
+_cell_length_c       7.92147
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.75000  0.47518  0.18554  1.0000
+  Ce  Ce2       1.0  0.25000  0.02482  0.68554  1.0000
+  Ce  Ce3       1.0  0.75000  0.97518  0.31445  1.0000
+  Ce  Ce4       1.0  0.25000  0.52482  0.81446  1.0000
+  Al  Al1       1.0  0.25000  0.64863  0.43161  1.0000
+  Al  Al2       1.0  0.25000  0.14863  0.06839  1.0000
+  Al  Al3       1.0  0.75000  0.35137  0.56839  1.0000
+  Al  Al4       1.0  0.75000  0.85137  0.93161  1.0000
+  Pt  Pt1       1.0  0.25000  0.77750  0.10737  1.0000
+  Pt  Pt2       1.0  0.25000  0.27750  0.39263  1.0000
+  Pt  Pt3       1.0  0.75000  0.72250  0.60737  1.0000
+  Pt  Pt4       1.0  0.75000  0.22250  0.89263  1.0000

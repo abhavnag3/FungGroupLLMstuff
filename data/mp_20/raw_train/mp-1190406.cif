@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K4Hg4I12
+_chemical_formula_sum              "K4 Hg4 I12"
+_cell_length_a       8.49522
+_cell_length_b       9.296
+_cell_length_c       12.5462
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.21356  0.49639  0.63907  1.0000
+  K   K2        1.0  0.78644  0.50361  0.13907  1.0000
+  K   K3        1.0  0.71356  0.00361  0.13907  1.0000
+  K   K4        1.0  0.28644  0.99639  0.63907  1.0000
+  Hg  Hg1       1.0  0.31103  0.75384  0.99554  1.0000
+  Hg  Hg2       1.0  0.68897  0.24616  0.49554  1.0000
+  Hg  Hg3       1.0  0.81103  0.74616  0.49554  1.0000
+  Hg  Hg4       1.0  0.18897  0.25384  0.99554  1.0000
+  I   I1        1.0  0.23225  0.50680  0.13431  1.0000
+  I   I2        1.0  0.76775  0.49319  0.63431  1.0000
+  I   I3        1.0  0.73225  0.99320  0.63431  1.0000
+  I   I4        1.0  0.26775  0.00681  0.13431  1.0000
+  I   I5        1.0  0.09784  0.76034  0.82572  1.0000
+  I   I6        1.0  0.90216  0.23966  0.32572  1.0000
+  I   I7        1.0  0.59784  0.73966  0.32572  1.0000
+  I   I8        1.0  0.40216  0.26034  0.82572  1.0000
+  I   I9        1.0  0.63060  0.73782  0.94536  1.0000
+  I   I10       1.0  0.36940  0.26218  0.44536  1.0000
+  I   I11       1.0  0.13060  0.76218  0.44536  1.0000
+  I   I12       1.0  0.86940  0.23782  0.94536  1.0000

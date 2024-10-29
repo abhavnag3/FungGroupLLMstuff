@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Er2CuSi3
+_chemical_formula_sum              "Er2 Cu1 Si3"
+_cell_length_a       7.485
+_cell_length_b       7.485
+_cell_length_c       7.485
+_cell_angle_alpha    149.523
+_cell_angle_beta     148.512
+_cell_angle_gamma    44.3909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.75267  0.25266  0.50000  1.0000
+  Er  Er2       1.0  0.99770  0.99770  0.00000  1.0000
+  Cu  Cu1       1.0  0.16405  0.66405  0.50000  1.0000
+  Si  Si1       1.0  0.58793  0.58793  0.00000  1.0000
+  Si  Si2       1.0  0.32703  0.82703  0.50000  1.0000
+  Si  Si3       1.0  0.42062  0.42062  0.00000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg4In4Br12
+_chemical_formula_sum              "Mg4 In4 Br12"
+_cell_length_a       4.01046
+_cell_length_b       9.64231
+_cell_length_c       15.659
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.25000  0.16150  0.55327  1.0000
+  Mg  Mg2       1.0  0.75000  0.83850  0.44673  1.0000
+  Mg  Mg3       1.0  0.25000  0.66150  0.94673  1.0000
+  Mg  Mg4       1.0  0.75000  0.33850  0.05327  1.0000
+  In  In1       1.0  0.25000  0.47157  0.32442  1.0000
+  In  In2       1.0  0.75000  0.52843  0.67558  1.0000
+  In  In3       1.0  0.25000  0.97157  0.17558  1.0000
+  In  In4       1.0  0.75000  0.02843  0.82442  1.0000
+  Br  Br1       1.0  0.75000  0.47994  0.90087  1.0000
+  Br  Br2       1.0  0.25000  0.52006  0.09913  1.0000
+  Br  Br3       1.0  0.75000  0.97994  0.59913  1.0000
+  Br  Br4       1.0  0.25000  0.02006  0.40087  1.0000
+  Br  Br5       1.0  0.75000  0.82512  0.00258  1.0000
+  Br  Br6       1.0  0.25000  0.17488  0.99742  1.0000
+  Br  Br7       1.0  0.75000  0.32512  0.49742  1.0000
+  Br  Br8       1.0  0.25000  0.67488  0.50258  1.0000
+  Br  Br9       1.0  0.75000  0.22617  0.20657  1.0000
+  Br  Br10      1.0  0.25000  0.77383  0.79343  1.0000
+  Br  Br11      1.0  0.75000  0.72617  0.29343  1.0000
+  Br  Br12      1.0  0.25000  0.27383  0.70657  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       CsGaP3HO10
+_chemical_formula_sum              "Cs1 Ga1 P3 H1 O10"
+_cell_length_a       6.36809
+_cell_length_b       6.36809
+_cell_length_c       6.30166
+_cell_angle_alpha    74.4458
+_cell_angle_beta     74.4458
+_cell_angle_gamma    87.7738
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.05337  0.94663  0.50000  1.0000
+  Ga  Ga1       1.0  0.39036  0.60964  0.00000  1.0000
+  P   P1        1.0  0.85404  0.50914  0.10482  1.0000
+  P   P2        1.0  0.49086  0.14596  0.89518  1.0000
+  P   P3        1.0  0.48715  0.51285  0.50000  1.0000
+  H   H1        1.0  0.80261  0.19739  0.00000  1.0000
+  O   O1        1.0  0.86160  0.26109  0.13959  1.0000
+  O   O2        1.0  0.73891  0.13840  0.86041  1.0000
+  O   O3        1.0  0.44664  0.65851  0.65985  1.0000
+  O   O4        1.0  0.34148  0.55336  0.34015  1.0000
+  O   O5        1.0  0.37991  0.28876  0.05007  1.0000
+  O   O6        1.0  0.71124  0.62009  0.94993  1.0000
+  O   O7        1.0  0.37383  0.92593  0.96502  1.0000
+  O   O8        1.0  0.07407  0.62617  0.03498  1.0000
+  O   O9        1.0  0.45528  0.26065  0.63902  1.0000
+  O   O10       1.0  0.73935  0.54472  0.36098  1.0000

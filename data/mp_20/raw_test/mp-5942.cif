@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4As4S8
+_chemical_formula_sum              "Na4 As4 S8"
+_cell_length_a       11.6965
+_cell_length_b       5.65594
+_cell_length_c       5.97274
+_cell_angle_alpha    89.5199
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.37466  0.23840  0.50807  1.0000
+  Na  Na2       1.0  0.62534  0.76160  0.49193  1.0000
+  Na  Na3       1.0  0.12534  0.73840  0.50807  1.0000
+  Na  Na4       1.0  0.87466  0.26160  0.49193  1.0000
+  As  As1       1.0  0.64542  0.23930  0.93479  1.0000
+  As  As2       1.0  0.14542  0.26070  0.06521  1.0000
+  As  As3       1.0  0.35458  0.76070  0.06521  1.0000
+  As  As4       1.0  0.85458  0.73930  0.93479  1.0000
+  S   S1        1.0  0.83956  0.32677  0.99791  1.0000
+  S   S2        1.0  0.66044  0.82676  0.99791  1.0000
+  S   S3        1.0  0.33956  0.17324  0.00209  1.0000
+  S   S4        1.0  0.16044  0.67324  0.00209  1.0000
+  S   S5        1.0  0.87412  0.76139  0.56885  1.0000
+  S   S6        1.0  0.37412  0.73861  0.43115  1.0000
+  S   S7        1.0  0.12588  0.23861  0.43115  1.0000
+  S   S8        1.0  0.62588  0.26139  0.56885  1.0000

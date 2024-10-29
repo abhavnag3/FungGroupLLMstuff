@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cr2B8
+_chemical_formula_sum              "Cr2 B8"
+_cell_length_a       2.85371
+_cell_length_b       4.72674
+_cell_length_c       5.47988
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr2       1.0  0.00000  0.00000  0.00000  1.0000
+  B   B1        1.0  0.50000  0.66504  0.86647  1.0000
+  B   B2        1.0  0.50000  0.33496  0.13353  1.0000
+  B   B3        1.0  0.00000  0.16504  0.63353  1.0000
+  B   B4        1.0  0.00000  0.83496  0.36648  1.0000
+  B   B5        1.0  0.50000  0.72336  0.17835  1.0000
+  B   B6        1.0  0.50000  0.27664  0.82165  1.0000
+  B   B7        1.0  0.00000  0.22336  0.32165  1.0000
+  B   B8        1.0  0.00000  0.77664  0.67835  1.0000

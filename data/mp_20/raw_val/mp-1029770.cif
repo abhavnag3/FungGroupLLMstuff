@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ba4Cr4N8
+_chemical_formula_sum              "Ba4 Cr4 N8"
+_cell_length_a       6.4682
+_cell_length_b       6.4682
+_cell_length_c       7.82344
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    125.914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.84117  0.15883  0.55974  1.0000
+  Ba  Ba2       1.0  0.15883  0.84117  0.44026  1.0000
+  Ba  Ba3       1.0  0.65883  0.34117  0.05974  1.0000
+  Ba  Ba4       1.0  0.34117  0.65883  0.94026  1.0000
+  Cr  Cr1       1.0  0.55095  0.44905  0.63550  1.0000
+  Cr  Cr2       1.0  0.44905  0.55095  0.36450  1.0000
+  Cr  Cr3       1.0  0.94905  0.05094  0.13550  1.0000
+  Cr  Cr4       1.0  0.05094  0.94905  0.86450  1.0000
+  N   N1        1.0  0.89352  0.10648  0.91079  1.0000
+  N   N2        1.0  0.10648  0.89352  0.08921  1.0000
+  N   N3        1.0  0.60648  0.39352  0.41079  1.0000
+  N   N4        1.0  0.39352  0.60648  0.58921  1.0000
+  N   N5        1.0  0.34265  0.15735  0.75000  1.0000
+  N   N6        1.0  0.15735  0.34265  0.25000  1.0000
+  N   N7        1.0  0.65735  0.84265  0.25000  1.0000
+  N   N8        1.0  0.84265  0.65735  0.75000  1.0000

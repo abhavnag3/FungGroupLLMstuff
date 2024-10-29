@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Bi2Pb3F12
+_chemical_formula_sum              "Bi2 Pb3 F12"
+_cell_length_a       4.32393
+_cell_length_b       4.33481
+_cell_length_c       17.2561
+_cell_angle_alpha    84.6521
+_cell_angle_beta     83.7788
+_cell_angle_gamma    60.3109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.29722  0.09925  0.38766  1.0000
+  Bi  Bi2       1.0  0.72578  0.66077  0.17842  1.0000
+  Pb  Pb1       1.0  0.02352  0.04298  0.99119  1.0000
+  Pb  Pb2       1.0  0.41636  0.47113  0.79234  1.0000
+  Pb  Pb3       1.0  0.80286  0.84340  0.59239  1.0000
+  F   F1        1.0  0.33612  0.45371  0.93436  1.0000
+  F   F2        1.0  0.06827  0.12396  0.83970  1.0000
+  F   F3        1.0  0.15106  0.13737  0.53056  1.0000
+  F   F4        1.0  0.77189  0.81342  0.74264  1.0000
+  F   F5        1.0  0.49348  0.49661  0.38264  1.0000
+  F   F6        1.0  0.45309  0.47426  0.63353  1.0000
+  F   F7        1.0  0.87045  0.09226  0.14537  1.0000
+  F   F8        1.0  0.80119  0.82940  0.44923  1.0000
+  F   F9        1.0  0.76224  0.87864  0.29993  1.0000
+  F   F10       1.0  0.14814  0.24782  0.25339  1.0000
+  F   F11       1.0  0.21309  0.46578  0.10805  1.0000
+  F   F12       1.0  0.62124  0.76926  0.03858  1.0000

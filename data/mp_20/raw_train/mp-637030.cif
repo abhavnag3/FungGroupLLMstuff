@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Gd2Al6Si4Pt
+_chemical_formula_sum              "Gd2 Al6 Si4 Pt1"
+_cell_length_a       17.1802
+_cell_length_b       17.1802
+_cell_length_c       17.1802
+_cell_angle_alpha    13.9126
+_cell_angle_beta     13.9126
+_cell_angle_gamma    13.9126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.43362  0.43362  0.43362  1.0000
+  Gd  Gd2       1.0  0.56638  0.56637  0.56637  1.0000
+  Al  Al1       1.0  0.68163  0.68163  0.68163  1.0000
+  Al  Al2       1.0  0.95035  0.95035  0.95035  1.0000
+  Al  Al3       1.0  0.04965  0.04965  0.04965  1.0000
+  Al  Al4       1.0  0.31837  0.31837  0.31837  1.0000
+  Al  Al5       1.0  0.18513  0.18513  0.18513  1.0000
+  Al  Al6       1.0  0.81487  0.81487  0.81487  1.0000
+  Si  Si1       1.0  0.13524  0.13524  0.13524  1.0000
+  Si  Si2       1.0  0.73348  0.73348  0.73348  1.0000
+  Si  Si3       1.0  0.86476  0.86476  0.86476  1.0000
+  Si  Si4       1.0  0.26652  0.26652  0.26652  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000

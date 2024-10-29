@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ga4Se6
+_chemical_formula_sum              "Ga4 Se6"
+_cell_length_a       6.89658
+_cell_length_b       6.89658
+_cell_length_c       6.7699
+_cell_angle_alpha    80.9525
+_cell_angle_beta     80.9525
+_cell_angle_gamma    120.814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.78298  0.28073  0.49486  1.0000
+  Ga  Ga2       1.0  0.28073  0.78298  0.99486  1.0000
+  Ga  Ga3       1.0  0.41383  0.58394  0.49901  1.0000
+  Ga  Ga4       1.0  0.58394  0.41383  0.99901  1.0000
+  Se  Se1       1.0  0.58444  0.74038  0.11338  1.0000
+  Se  Se2       1.0  0.74038  0.58444  0.61338  1.0000
+  Se  Se3       1.0  0.04690  0.21867  0.63764  1.0000
+  Se  Se4       1.0  0.21867  0.04690  0.13764  1.0000
+  Se  Se5       1.0  0.38704  0.90150  0.60751  1.0000
+  Se  Se6       1.0  0.90150  0.38704  0.10751  1.0000

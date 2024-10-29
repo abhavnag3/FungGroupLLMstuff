@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta2Al2O8
+_chemical_formula_sum              "Ta2 Al2 O8"
+_cell_length_a       6.424
+_cell_length_b       6.424
+_cell_length_c       6.51564
+_cell_angle_alpha    73.1349
+_cell_angle_beta     73.1349
+_cell_angle_gamma    34.5296
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.89443  0.89443  0.23308  1.0000
+  Ta  Ta2       1.0  0.10557  0.10557  0.76692  1.0000
+  Al  Al1       1.0  0.79931  0.79931  0.82039  1.0000
+  Al  Al2       1.0  0.20069  0.20069  0.17961  1.0000
+  O   O1        1.0  0.35829  0.35829  0.20338  1.0000
+  O   O2        1.0  0.64171  0.64171  0.79662  1.0000
+  O   O3        1.0  0.94268  0.94268  0.86388  1.0000
+  O   O4        1.0  0.05732  0.05732  0.13612  1.0000
+  O   O5        1.0  0.14114  0.14114  0.47416  1.0000
+  O   O6        1.0  0.85886  0.85886  0.52584  1.0000
+  O   O7        1.0  0.26194  0.26194  0.85825  1.0000
+  O   O8        1.0  0.73806  0.73806  0.14175  1.0000

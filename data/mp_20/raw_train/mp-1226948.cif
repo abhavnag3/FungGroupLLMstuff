@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Ce2Ge3
+_chemical_formula_sum              "Ce2 Ge3"
+_cell_length_a       4.18956
+_cell_length_b       4.04419
+_cell_length_c       7.72838
+_cell_angle_alpha    74.8323
+_cell_angle_beta     74.2732
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.75138  0.25138  0.49724  1.0000
+  Ce  Ce2       1.0  0.99910  0.99910  0.00181  1.0000
+  Ge  Ge1       1.0  0.59549  0.59549  0.80901  1.0000
+  Ge  Ge2       1.0  0.31442  0.81442  0.37115  1.0000
+  Ge  Ge3       1.0  0.42171  0.42171  0.15659  1.0000

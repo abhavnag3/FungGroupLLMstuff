@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Bi8Ru2I4
+_chemical_formula_sum              "Bi8 Ru2 I4"
+_cell_length_a       9.46096
+_cell_length_b       9.46096
+_cell_length_c       9.46096
+_cell_angle_alpha    97.6027
+_cell_angle_beta     97.6027
+_cell_angle_gamma    137.34
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.16234  0.94171  0.10405  1.0000
+  Bi  Bi2       1.0  0.05829  0.16234  0.22063  1.0000
+  Bi  Bi3       1.0  0.94171  0.83766  0.77937  1.0000
+  Bi  Bi4       1.0  0.83766  0.05829  0.89595  1.0000
+  Bi  Bi5       1.0  0.58520  0.32769  0.91289  1.0000
+  Bi  Bi6       1.0  0.67231  0.58520  0.25750  1.0000
+  Bi  Bi7       1.0  0.32770  0.41480  0.74250  1.0000
+  Bi  Bi8       1.0  0.41480  0.67231  0.08711  1.0000
+  Ru  Ru1       1.0  0.29048  0.29048  0.00000  1.0000
+  Ru  Ru2       1.0  0.70952  0.70952  0.00000  1.0000
+  I   I1        1.0  0.83723  0.38433  0.22156  1.0000
+  I   I2        1.0  0.61567  0.83723  0.45291  1.0000
+  I   I3        1.0  0.38433  0.16277  0.54709  1.0000
+  I   I4        1.0  0.16277  0.61567  0.77844  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       U4Ni2Ge4Pd2
+_chemical_formula_sum              "U4 Ni2 Ge4 Pd2"
+_cell_length_a       4.41711
+_cell_length_b       6.73304
+_cell_length_c       7.50477
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.50000  0.50865  0.04348  1.0000
+  U   U2        1.0  0.50000  0.00865  0.95652  1.0000
+  U   U3        1.0  0.00000  0.48935  0.46666  1.0000
+  U   U4        1.0  0.00000  0.98935  0.53334  1.0000
+  Ni  Ni1       1.0  0.50000  0.31073  0.67491  1.0000
+  Ni  Ni2       1.0  0.50000  0.81073  0.32509  1.0000
+  Ge  Ge1       1.0  0.50000  0.70460  0.64895  1.0000
+  Ge  Ge2       1.0  0.50000  0.20460  0.35105  1.0000
+  Ge  Ge3       1.0  0.00000  0.28767  0.82836  1.0000
+  Ge  Ge4       1.0  0.00000  0.78767  0.17164  1.0000
+  Pd  Pd1       1.0  0.00000  0.69900  0.83439  1.0000
+  Pd  Pd2       1.0  0.00000  0.19900  0.16562  1.0000

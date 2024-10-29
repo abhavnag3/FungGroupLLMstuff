@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn12C4
+_chemical_formula_sum              "Mn12 C4"
+_cell_length_a       4.93946
+_cell_length_b       6.7042
+_cell_length_c       4.43668
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.68543  0.06585  0.34211  1.0000
+  Mn  Mn2       1.0  0.18543  0.43416  0.15789  1.0000
+  Mn  Mn3       1.0  0.31457  0.56585  0.65789  1.0000
+  Mn  Mn4       1.0  0.81457  0.93416  0.84211  1.0000
+  Mn  Mn5       1.0  0.31457  0.93416  0.65789  1.0000
+  Mn  Mn6       1.0  0.81457  0.56585  0.84211  1.0000
+  Mn  Mn7       1.0  0.68543  0.43416  0.34211  1.0000
+  Mn  Mn8       1.0  0.18543  0.06585  0.15789  1.0000
+  Mn  Mn9       1.0  0.53140  0.25000  0.83956  1.0000
+  Mn  Mn10      1.0  0.03140  0.25000  0.66044  1.0000
+  Mn  Mn11      1.0  0.46860  0.75000  0.16044  1.0000
+  Mn  Mn12      1.0  0.96860  0.75000  0.33956  1.0000
+  C   C1        1.0  0.87841  0.25000  0.06561  1.0000
+  C   C2        1.0  0.37841  0.25000  0.43439  1.0000
+  C   C3        1.0  0.12159  0.75000  0.93439  1.0000
+  C   C4        1.0  0.62159  0.75000  0.56561  1.0000

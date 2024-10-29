@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       YFe6Co5W
+_chemical_formula_sum              "Y1 Fe6 Co5 W1"
+_cell_length_a       4.70588
+_cell_length_b       6.41432
+_cell_length_c       6.41432
+_cell_angle_alpha    97.6397
+_cell_angle_beta     111.52
+_cell_angle_gamma    68.48
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00000  0.00421  0.00421  1.0000
+  Fe  Fe1       1.0  0.49753  0.00396  0.50153  1.0000
+  Fe  Fe2       1.0  0.00004  0.00396  0.50153  1.0000
+  Fe  Fe3       1.0  0.50247  0.50153  0.00396  1.0000
+  Fe  Fe4       1.0  0.99996  0.50153  0.00396  1.0000
+  Fe  Fe5       1.0  0.50000  0.77396  0.77396  1.0000
+  Fe  Fe6       1.0  0.50000  0.23063  0.23063  1.0000
+  Co  Co1       1.0  0.63998  0.36065  0.64061  1.0000
+  Co  Co2       1.0  0.36002  0.64061  0.36065  1.0000
+  Co  Co3       1.0  0.00000  0.35058  0.35058  1.0000
+  Co  Co4       1.0  0.72315  0.77619  0.22249  1.0000
+  Co  Co5       1.0  0.27685  0.22249  0.77619  1.0000
+  W   W1        1.0  0.00000  0.62969  0.62969  1.0000

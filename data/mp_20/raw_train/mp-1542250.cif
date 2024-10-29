@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2Mo4O8
+_chemical_formula_sum              "Mg2 Mo4 O8"
+_cell_length_a       6.19165
+_cell_length_b       6.43639
+_cell_length_c       6.18917
+_cell_angle_alpha    90.326
+_cell_angle_beta     117.176
+_cell_angle_gamma    121.093
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.24382  0.12190  0.87815  1.0000
+  Mg  Mg2       1.0  0.75619  0.87812  0.12186  1.0000
+  Mo  Mo1       1.0  0.49999  0.99999  0.50000  1.0000
+  Mo  Mo2       1.0  0.50000  0.50000  0.50000  1.0000
+  Mo  Mo3       1.0  0.00000  0.50000  0.99999  1.0000
+  Mo  Mo4       1.0  1.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.01229  0.74688  0.25622  1.0000
+  O   O2        1.0  0.49021  0.74650  0.73453  1.0000
+  O   O3        1.0  0.48468  0.74107  0.25604  1.0000
+  O   O4        1.0  0.98742  0.73457  0.74683  1.0000
+  O   O5        1.0  0.51533  0.25893  0.74396  1.0000
+  O   O6        1.0  0.50979  0.25348  0.26547  1.0000
+  O   O7        1.0  0.01259  0.26545  0.25317  1.0000
+  O   O8        1.0  0.98769  0.25311  0.74377  1.0000

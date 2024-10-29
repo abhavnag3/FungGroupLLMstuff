@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Te3WO12
+_chemical_formula_sum              "Te3 W1 O12"
+_cell_length_a       8.53987
+_cell_length_b       4.98631
+_cell_length_c       5.23885
+_cell_angle_alpha    88.7098
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.57965  0.50000  0.00000  1.0000
+  Te  Te2       1.0  0.08770  0.00000  0.50000  1.0000
+  Te  Te3       1.0  0.39785  0.50000  0.50000  1.0000
+  W   W1        1.0  0.89857  0.00000  0.00000  1.0000
+  O   O1        1.0  0.74273  0.25578  0.89424  1.0000
+  O   O2        1.0  0.41973  0.28568  0.81683  1.0000
+  O   O3        1.0  0.06322  0.20360  0.80938  1.0000
+  O   O4        1.0  0.56361  0.70768  0.68114  1.0000
+  O   O5        1.0  0.92730  0.79092  0.69053  1.0000
+  O   O6        1.0  0.24528  0.74928  0.63714  1.0000
+  O   O7        1.0  0.24528  0.25072  0.36285  1.0000
+  O   O8        1.0  0.92730  0.20908  0.30947  1.0000
+  O   O9        1.0  0.56361  0.29232  0.31886  1.0000
+  O   O10       1.0  0.06322  0.79640  0.19062  1.0000
+  O   O11       1.0  0.41973  0.71432  0.18318  1.0000
+  O   O12       1.0  0.74273  0.74422  0.10576  1.0000

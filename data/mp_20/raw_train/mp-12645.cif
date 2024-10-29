@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Ho4O8
+_chemical_formula_sum              "Li4 Ho4 O8"
+_cell_length_a       6.15786
+_cell_length_b       6.20707
+_cell_length_c       6.28395
+_cell_angle_alpha    60.4575
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.34540  0.70912  0.06337  1.0000
+  Li  Li2       1.0  0.84540  0.29088  0.43663  1.0000
+  Li  Li3       1.0  0.65460  0.29088  0.93663  1.0000
+  Li  Li4       1.0  0.15460  0.70912  0.56337  1.0000
+  Ho  Ho1       1.0  0.86973  0.76668  0.97847  1.0000
+  Ho  Ho2       1.0  0.63027  0.76668  0.47847  1.0000
+  Ho  Ho3       1.0  0.13027  0.23332  0.02153  1.0000
+  Ho  Ho4       1.0  0.36973  0.23332  0.52153  1.0000
+  O   O1        1.0  0.60923  0.54729  0.26467  1.0000
+  O   O2        1.0  0.82944  0.00914  0.15601  1.0000
+  O   O3        1.0  0.10923  0.45271  0.23533  1.0000
+  O   O4        1.0  0.39077  0.45271  0.73533  1.0000
+  O   O5        1.0  0.17056  0.99086  0.84399  1.0000
+  O   O6        1.0  0.32944  0.99086  0.34399  1.0000
+  O   O7        1.0  0.67056  0.00914  0.65601  1.0000
+  O   O8        1.0  0.89077  0.54728  0.76467  1.0000

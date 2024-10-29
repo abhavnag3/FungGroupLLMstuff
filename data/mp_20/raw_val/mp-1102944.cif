@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb4Al4Pt4
+_chemical_formula_sum              "Tb4 Al4 Pt4"
+_cell_length_a       4.44437
+_cell_length_b       6.9261
+_cell_length_c       7.76854
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.25000  0.02959  0.68256  1.0000
+  Tb  Tb2       1.0  0.25000  0.52959  0.81744  1.0000
+  Tb  Tb3       1.0  0.75000  0.97041  0.31744  1.0000
+  Tb  Tb4       1.0  0.75000  0.47041  0.18256  1.0000
+  Al  Al1       1.0  0.25000  0.14751  0.06507  1.0000
+  Al  Al2       1.0  0.25000  0.64751  0.43493  1.0000
+  Al  Al3       1.0  0.75000  0.85249  0.93493  1.0000
+  Al  Al4       1.0  0.75000  0.35249  0.56507  1.0000
+  Pt  Pt1       1.0  0.25000  0.27611  0.38619  1.0000
+  Pt  Pt2       1.0  0.25000  0.77611  0.11381  1.0000
+  Pt  Pt3       1.0  0.75000  0.72389  0.61381  1.0000
+  Pt  Pt4       1.0  0.75000  0.22389  0.88619  1.0000

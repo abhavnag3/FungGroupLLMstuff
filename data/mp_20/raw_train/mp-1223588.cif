@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       KFe4Si3O12
+_chemical_formula_sum              "K1 Fe4 Si3 O12"
+_cell_length_a       5.39723
+_cell_length_b       5.39852
+_cell_length_c       10.5557
+_cell_angle_alpha    94.809
+_cell_angle_beta     95.7779
+_cell_angle_gamma    119.849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.49324  0.49103  0.97772  1.0000
+  Fe  Fe1       1.0  0.99540  0.99591  0.50149  1.0000
+  Fe  Fe2       1.0  0.65636  0.34791  0.49884  1.0000
+  Fe  Fe3       1.0  0.34912  0.65617  0.50429  1.0000
+  Fe  Fe4       1.0  0.09345  0.75916  0.77576  1.0000
+  Si  Si1       1.0  0.75636  0.09805  0.78088  1.0000
+  Si  Si2       1.0  0.90712  0.24393  0.22805  1.0000
+  Si  Si3       1.0  0.24765  0.90810  0.22862  1.0000
+  O   O1        1.0  0.02195  0.05033  0.83079  1.0000
+  O   O2        1.0  0.05596  0.05562  0.17820  1.0000
+  O   O3        1.0  0.84900  0.42674  0.84013  1.0000
+  O   O4        1.0  0.47550  0.87842  0.84166  1.0000
+  O   O5        1.0  0.05839  0.55660  0.17122  1.0000
+  O   O6        1.0  0.55491  0.05890  0.16845  1.0000
+  O   O7        1.0  0.36615  0.36009  0.59010  1.0000
+  O   O8        1.0  0.62561  0.63398  0.40327  1.0000
+  O   O9        1.0  0.04056  0.67388  0.59269  1.0000
+  O   O10       1.0  0.68305  0.04178  0.61748  1.0000
+  O   O11       1.0  0.95123  0.30512  0.38475  1.0000
+  O   O12       1.0  0.31899  0.95827  0.38561  1.0000

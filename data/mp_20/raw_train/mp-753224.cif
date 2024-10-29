@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Li3Co2Ge2O8
+_chemical_formula_sum              "Li3 Co2 Ge2 O8"
+_cell_length_a       5.14921
+_cell_length_b       5.5604
+_cell_length_c       6.53028
+_cell_angle_alpha    89.7663
+_cell_angle_beta     89.3096
+_cell_angle_gamma    89.8736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50112  0.16921  0.99999  1.0000
+  Li  Li2       1.0  0.00323  0.33673  0.25504  1.0000
+  Li  Li3       1.0  0.99499  0.82997  0.50650  1.0000
+  Co  Co1       1.0  0.99389  0.83009  0.99176  1.0000
+  Co  Co2       1.0  0.50500  0.16800  0.50014  1.0000
+  Ge  Ge1       1.0  0.99262  0.32473  0.75197  1.0000
+  Ge  Ge2       1.0  0.49888  0.67636  0.25774  1.0000
+  O   O1        1.0  0.65753  0.27689  0.74920  1.0000
+  O   O2        1.0  0.60807  0.83859  0.46905  1.0000
+  O   O3        1.0  0.60416  0.37226  0.26333  1.0000
+  O   O4        1.0  0.62844  0.83276  0.03796  1.0000
+  O   O5        1.0  0.14534  0.68587  0.23938  1.0000
+  O   O6        1.0  0.10589  0.16819  0.98177  1.0000
+  O   O7        1.0  0.06838  0.63904  0.76222  1.0000
+  O   O8        1.0  0.12219  0.18748  0.52671  1.0000

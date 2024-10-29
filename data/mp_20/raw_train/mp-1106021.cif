@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tm4Ge10Rh6
+_chemical_formula_sum              "Tm4 Ge10 Rh6"
+_cell_length_a       8.33573
+_cell_length_b       8.33573
+_cell_length_c       5.90121
+_cell_angle_alpha    70.7053
+_cell_angle_beta     70.7053
+_cell_angle_gamma    92.6007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.86577  0.59135  0.76739  1.0000
+  Tm  Tm2       1.0  0.40865  0.13423  0.73261  1.0000
+  Tm  Tm3       1.0  0.13423  0.40865  0.23261  1.0000
+  Tm  Tm4       1.0  0.59135  0.86577  0.26739  1.0000
+  Ge  Ge1       1.0  0.07203  0.26296  0.83294  1.0000
+  Ge  Ge2       1.0  0.73704  0.92797  0.66706  1.0000
+  Ge  Ge3       1.0  0.92797  0.73704  0.16706  1.0000
+  Ge  Ge4       1.0  0.26296  0.07203  0.33294  1.0000
+  Ge  Ge5       1.0  0.21219  0.78780  0.75000  1.0000
+  Ge  Ge6       1.0  0.78780  0.21220  0.25000  1.0000
+  Ge  Ge7       1.0  0.50791  0.49209  0.75000  1.0000
+  Ge  Ge8       1.0  0.49209  0.50791  0.25000  1.0000
+  Ge  Ge9       1.0  0.77821  0.22179  0.75000  1.0000
+  Ge  Ge10      1.0  0.22179  0.77821  0.25000  1.0000
+  Rh  Rh1       1.0  0.25299  0.53994  0.61827  1.0000
+  Rh  Rh2       1.0  0.46006  0.74701  0.88173  1.0000
+  Rh  Rh3       1.0  0.74701  0.46006  0.38173  1.0000
+  Rh  Rh4       1.0  0.53994  0.25299  0.11827  1.0000
+  Rh  Rh5       1.0  0.00199  0.99801  0.75000  1.0000
+  Rh  Rh6       1.0  0.99801  0.00199  0.25000  1.0000

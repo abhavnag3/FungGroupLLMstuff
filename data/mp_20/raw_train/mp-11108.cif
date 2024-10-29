@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2P6
+_chemical_formula_sum              "Sr2 P6"
+_cell_length_a       5.90416
+_cell_length_b       5.90416
+_cell_length_c       5.74409
+_cell_angle_alpha    71.8974
+_cell_angle_beta     71.8974
+_cell_angle_gamma    77.0221
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.33701  0.33701  0.85249  1.0000
+  Sr  Sr2       1.0  0.66299  0.66299  0.14751  1.0000
+  P   P1        1.0  0.01140  0.01140  0.69081  1.0000
+  P   P2        1.0  0.98860  0.98860  0.30919  1.0000
+  P   P3        1.0  0.60499  0.11476  0.32094  1.0000
+  P   P4        1.0  0.88524  0.39501  0.67906  1.0000
+  P   P5        1.0  0.39501  0.88524  0.67906  1.0000
+  P   P6        1.0  0.11476  0.60499  0.32094  1.0000

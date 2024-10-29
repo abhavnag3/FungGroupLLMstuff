@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba2Ni2F8
+_chemical_formula_sum              "Ba2 Ni2 F8"
+_cell_length_a       7.67984
+_cell_length_b       7.67984
+_cell_length_c       5.90879
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    148.228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.14719  0.85281  0.04172  1.0000
+  Ba  Ba2       1.0  0.85281  0.14719  0.54172  1.0000
+  Ni  Ni1       1.0  0.41372  0.58628  0.99961  1.0000
+  Ni  Ni2       1.0  0.58628  0.41372  0.49961  1.0000
+  F   F1        1.0  0.33602  0.66398  0.27203  1.0000
+  F   F2        1.0  0.07888  0.92112  0.48941  1.0000
+  F   F3        1.0  0.47195  0.52805  0.68082  1.0000
+  F   F4        1.0  0.52805  0.47195  0.18082  1.0000
+  F   F5        1.0  0.30209  0.69791  0.80671  1.0000
+  F   F6        1.0  0.69791  0.30209  0.30671  1.0000
+  F   F7        1.0  0.66398  0.33602  0.77203  1.0000
+  F   F8        1.0  0.92112  0.07888  0.98942  1.0000

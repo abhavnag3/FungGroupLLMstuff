@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K4As4Se8
+_chemical_formula_sum              "K4 As4 Se8"
+_cell_length_a       6.87739
+_cell_length_b       6.87739
+_cell_length_c       12.8873
+_cell_angle_alpha    80.1551
+_cell_angle_beta     80.1551
+_cell_angle_gamma    109.504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.78980  0.34091  0.25550  1.0000
+  K   K2        1.0  0.12607  0.13307  0.49501  1.0000
+  K   K3        1.0  0.34091  0.78980  0.75550  1.0000
+  K   K4        1.0  0.13307  0.12607  0.99501  1.0000
+  As  As1       1.0  0.40792  0.69505  0.17662  1.0000
+  As  As2       1.0  0.54186  0.69611  0.44440  1.0000
+  As  As3       1.0  0.69505  0.40793  0.67662  1.0000
+  As  As4       1.0  0.69611  0.54186  0.94440  1.0000
+  Se  Se1       1.0  0.31113  0.32467  0.20874  1.0000
+  Se  Se2       1.0  0.61281  0.84803  0.98391  1.0000
+  Se  Se3       1.0  0.58253  0.01305  0.49765  1.0000
+  Se  Se4       1.0  0.73126  0.81902  0.24799  1.0000
+  Se  Se5       1.0  0.32467  0.31113  0.70874  1.0000
+  Se  Se6       1.0  0.84803  0.61281  0.48391  1.0000
+  Se  Se7       1.0  0.01305  0.58253  0.99765  1.0000
+  Se  Se8       1.0  0.81902  0.73126  0.74799  1.0000

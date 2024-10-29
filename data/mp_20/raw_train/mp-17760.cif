@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er4Ge8Pt4
+_chemical_formula_sum              "Er4 Ge8 Pt4"
+_cell_length_a       9.57634
+_cell_length_b       9.57634
+_cell_length_c       9.57634
+_cell_angle_alpha    153.938
+_cell_angle_beta     125.607
+_cell_angle_gamma    61.2792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.70043  0.20043  0.50000  1.0000
+  Er  Er2       1.0  0.26312  0.00000  0.26312  1.0000
+  Er  Er3       1.0  0.29957  0.79957  0.50000  1.0000
+  Er  Er4       1.0  0.73688  0.00000  0.73688  1.0000
+  Ge  Ge1       1.0  0.05123  0.20109  0.85014  1.0000
+  Ge  Ge2       1.0  0.94877  0.79891  0.14986  1.0000
+  Ge  Ge3       1.0  0.64905  0.79891  0.85014  1.0000
+  Ge  Ge4       1.0  0.35095  0.20109  0.14986  1.0000
+  Ge  Ge5       1.0  0.57379  0.57379  0.00000  1.0000
+  Ge  Ge6       1.0  0.92694  0.42694  0.50000  1.0000
+  Ge  Ge7       1.0  0.07306  0.57306  0.50000  1.0000
+  Ge  Ge8       1.0  0.42621  0.42621  0.00000  1.0000
+  Pt  Pt1       1.0  0.60303  0.35264  0.25039  1.0000
+  Pt  Pt2       1.0  0.39697  0.64736  0.74961  1.0000
+  Pt  Pt3       1.0  0.89774  0.64736  0.25039  1.0000
+  Pt  Pt4       1.0  0.10226  0.35264  0.74961  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu2V2O8
+_chemical_formula_sum              "Eu2 V2 O8"
+_cell_length_a       6.86046
+_cell_length_b       6.86046
+_cell_length_c       6.86046
+_cell_angle_alpha    135.577
+_cell_angle_beta     135.577
+_cell_angle_gamma    64.635
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.75000  0.25000  0.50000  1.0000
+  Eu  Eu2       1.0  0.00000  0.00000  0.00000  1.0000
+  V   V1        1.0  0.25000  0.75000  0.50000  1.0000
+  V   V2        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.17281  0.27520  0.60822  1.0000
+  O   O2        1.0  0.66699  0.56459  0.39178  1.0000
+  O   O3        1.0  0.31459  0.42281  0.39761  1.0000
+  O   O4        1.0  0.02520  0.91699  0.60239  1.0000
+  O   O5        1.0  0.57719  0.97480  0.89178  1.0000
+  O   O6        1.0  0.08302  0.68541  0.10822  1.0000
+  O   O7        1.0  0.43541  0.82719  0.10239  1.0000
+  O   O8        1.0  0.72480  0.33302  0.89761  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb4Ge4Pt4
+_chemical_formula_sum              "Yb4 Ge4 Pt4"
+_cell_length_a       4.42195
+_cell_length_b       7.06352
+_cell_length_c       7.48808
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.75000  0.49057  0.79932  1.0000
+  Yb  Yb2       1.0  0.25000  0.00942  0.29932  1.0000
+  Yb  Yb3       1.0  0.75000  0.99057  0.70068  1.0000
+  Yb  Yb4       1.0  0.25000  0.50943  0.20068  1.0000
+  Ge  Ge1       1.0  0.25000  0.68369  0.58274  1.0000
+  Ge  Ge2       1.0  0.25000  0.18369  0.91726  1.0000
+  Ge  Ge3       1.0  0.75000  0.31631  0.41726  1.0000
+  Ge  Ge4       1.0  0.75000  0.81631  0.08274  1.0000
+  Pt  Pt1       1.0  0.25000  0.79722  0.90787  1.0000
+  Pt  Pt2       1.0  0.25000  0.29722  0.59213  1.0000
+  Pt  Pt3       1.0  0.75000  0.70278  0.40787  1.0000
+  Pt  Pt4       1.0  0.75000  0.20278  0.09213  1.0000

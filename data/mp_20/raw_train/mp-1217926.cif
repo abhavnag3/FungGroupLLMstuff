@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ta3Si12Mo3
+_chemical_formula_sum              "Ta3 Si12 Mo3"
+_cell_length_a       13.1259
+_cell_length_b       4.71636
+_cell_length_c       4.73418
+_cell_angle_alpha    60.2833
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.24955  0.00000  0.50000  1.0000
+  Ta  Ta2       1.0  0.58350  0.50000  0.50000  1.0000
+  Ta  Ta3       1.0  0.08355  0.50000  0.50000  1.0000
+  Si  Si1       1.0  0.91588  0.84244  0.32404  1.0000
+  Si  Si2       1.0  0.41660  0.83833  0.32016  1.0000
+  Si  Si3       1.0  0.75093  0.32359  0.84083  1.0000
+  Si  Si4       1.0  0.25103  0.32024  0.84184  1.0000
+  Si  Si5       1.0  0.58337  0.83966  0.83573  1.0000
+  Si  Si6       1.0  0.08218  0.83622  0.84353  1.0000
+  Si  Si7       1.0  0.91588  0.15756  0.67596  1.0000
+  Si  Si8       1.0  0.41660  0.16167  0.67984  1.0000
+  Si  Si9       1.0  0.75093  0.67641  0.15917  1.0000
+  Si  Si10      1.0  0.25103  0.67976  0.15816  1.0000
+  Si  Si11      1.0  0.58337  0.16034  0.16428  1.0000
+  Si  Si12      1.0  0.08218  0.16378  0.15647  1.0000
+  Mo  Mo1       1.0  0.91637  0.50000  0.00000  1.0000
+  Mo  Mo2       1.0  0.41654  0.50000  0.00000  1.0000
+  Mo  Mo3       1.0  0.75049  0.00000  0.50000  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al3P3Pd12
+_chemical_formula_sum              "Al3 P3 Pd12"
+_cell_length_a       3.46438
+_cell_length_b       6.66086
+_cell_length_c       11.5204
+_cell_angle_alpha    89.8965
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00000  0.50218  0.16643  1.0000
+  Al  Al2       1.0  0.00000  0.49836  0.83432  1.0000
+  Al  Al3       1.0  0.00000  0.00142  0.33214  1.0000
+  P   P1        1.0  0.50000  0.00164  0.00058  1.0000
+  P   P2        1.0  0.50000  0.49724  0.49984  1.0000
+  P   P3        1.0  0.00000  0.99701  0.66708  1.0000
+  Pd  Pd1       1.0  0.00000  0.74386  0.99856  1.0000
+  Pd  Pd2       1.0  0.00000  0.23626  0.50568  1.0000
+  Pd  Pd3       1.0  0.00000  0.63659  0.63054  1.0000
+  Pd  Pd4       1.0  0.00000  0.13048  0.12720  1.0000
+  Pd  Pd5       1.0  0.00000  0.12370  0.86382  1.0000
+  Pd  Pd6       1.0  0.00000  0.63014  0.37342  1.0000
+  Pd  Pd7       1.0  0.50000  0.89911  0.50515  1.0000
+  Pd  Pd8       1.0  0.50000  0.39172  0.99852  1.0000
+  Pd  Pd9       1.0  0.50000  0.80720  0.79834  1.0000
+  Pd  Pd10      1.0  0.50000  0.30299  0.30451  1.0000
+  Pd  Pd11      1.0  0.50000  0.29814  0.69491  1.0000
+  Pd  Pd12      1.0  0.50000  0.80217  0.19896  1.0000

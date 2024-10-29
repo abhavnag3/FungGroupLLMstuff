@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Pr4Te8
+_chemical_formula_sum              "Ca2 Pr4 Te8"
+_cell_length_a       8.32625
+_cell_length_b       8.32625
+_cell_length_c       8.32625
+_cell_angle_alpha    109.737
+_cell_angle_beta     109.737
+_cell_angle_gamma    108.94
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.25000  0.50000  1.0000
+  Ca  Ca2       1.0  0.00000  0.00000  0.00000  1.0000
+  Pr  Pr1       1.0  0.50073  0.12500  0.87573  1.0000
+  Pr  Pr2       1.0  0.87500  0.75073  0.37573  1.0000
+  Pr  Pr3       1.0  0.24927  0.62500  0.12427  1.0000
+  Pr  Pr4       1.0  0.37500  0.49927  0.62427  1.0000
+  Te  Te1       1.0  0.97618  0.37488  0.24780  1.0000
+  Te  Te2       1.0  0.47838  0.37708  0.25220  1.0000
+  Te  Te3       1.0  0.62512  0.87292  0.60130  1.0000
+  Te  Te4       1.0  0.12488  0.22618  0.74780  1.0000
+  Te  Te5       1.0  0.77382  0.52162  0.89870  1.0000
+  Te  Te6       1.0  0.62292  0.87512  0.10130  1.0000
+  Te  Te7       1.0  0.27162  0.02382  0.39870  1.0000
+  Te  Te8       1.0  0.12708  0.72838  0.75220  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Nb7Ni6
+_chemical_formula_sum              "Nb7 Ni6"
+_cell_length_a       4.94412
+_cell_length_b       4.94412
+_cell_length_c       9.4242
+_cell_angle_alpha    74.7928
+_cell_angle_beta     74.7928
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nb  Nb2       1.0  0.16478  0.16478  0.50565  1.0000
+  Nb  Nb3       1.0  0.83522  0.83522  0.49435  1.0000
+  Nb  Nb4       1.0  0.34616  0.34616  0.96153  1.0000
+  Nb  Nb5       1.0  0.65384  0.65384  0.03847  1.0000
+  Nb  Nb6       1.0  0.45139  0.45139  0.64583  1.0000
+  Nb  Nb7       1.0  0.54861  0.54861  0.35417  1.0000
+  Ni  Ni1       1.0  0.58363  0.09027  0.23583  1.0000
+  Ni  Ni2       1.0  0.09027  0.09027  0.23583  1.0000
+  Ni  Ni3       1.0  0.09027  0.58363  0.23583  1.0000
+  Ni  Ni4       1.0  0.41637  0.90973  0.76417  1.0000
+  Ni  Ni5       1.0  0.90973  0.90973  0.76417  1.0000
+  Ni  Ni6       1.0  0.90973  0.41637  0.76417  1.0000

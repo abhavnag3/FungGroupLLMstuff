@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pr4P4Au2O2
+_chemical_formula_sum              "Pr4 P4 Au2 O2"
+_cell_length_a       4.27186
+_cell_length_b       7.96373
+_cell_length_c       7.9788
+_cell_angle_alpha    78.0727
+_cell_angle_beta     74.4725
+_cell_angle_gamma    74.4424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.13241  0.68812  0.04705  1.0000
+  Pr  Pr2       1.0  0.86759  0.31188  0.95295  1.0000
+  Pr  Pr3       1.0  0.17209  0.26996  0.38587  1.0000
+  Pr  Pr4       1.0  0.82791  0.73004  0.61413  1.0000
+  P   P1        1.0  0.54844  0.54654  0.35657  1.0000
+  P   P2        1.0  0.45156  0.45346  0.64343  1.0000
+  P   P3        1.0  0.14764  0.97213  0.73259  1.0000
+  P   P4        1.0  0.85236  0.02787  0.26741  1.0000
+  Au  Au1       1.0  0.41161  0.87460  0.30218  1.0000
+  Au  Au2       1.0  0.58839  0.12540  0.69782  1.0000
+  O   O1        1.0  0.27834  0.36993  0.07340  1.0000
+  O   O2        1.0  0.72167  0.63007  0.92660  1.0000

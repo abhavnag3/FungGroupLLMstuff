@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mn2Cr2F10
+_chemical_formula_sum              "Mn2 Cr2 F10"
+_cell_length_a       5.43416
+_cell_length_b       5.43416
+_cell_length_c       7.51949
+_cell_angle_alpha    69.7012
+_cell_angle_beta     69.7012
+_cell_angle_gamma    72.3551
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.46685  0.53315  0.75000  1.0000
+  Mn  Mn2       1.0  0.53315  0.46685  0.25000  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.27402  0.20903  0.37167  1.0000
+  F   F2        1.0  0.79097  0.72598  0.12833  1.0000
+  F   F3        1.0  0.72598  0.79097  0.62833  1.0000
+  F   F4        1.0  0.20903  0.27402  0.87167  1.0000
+  F   F5        1.0  0.09469  0.90531  0.75000  1.0000
+  F   F6        1.0  0.90531  0.09469  0.25000  1.0000
+  F   F7        1.0  0.31638  0.71914  0.03503  1.0000
+  F   F8        1.0  0.28086  0.68363  0.46497  1.0000
+  F   F9        1.0  0.68362  0.28086  0.96497  1.0000
+  F   F10       1.0  0.71914  0.31637  0.53503  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Te8Mo4
+_chemical_formula_sum              "Te8 Mo4"
+_cell_length_a       3.48688
+_cell_length_b       6.36619
+_cell_length_c       15.5479
+_cell_angle_alpha    87.6121
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.75000  0.58097  0.90510  1.0000
+  Te  Te2       1.0  0.25000  0.41903  0.09490  1.0000
+  Te  Te3       1.0  0.25000  0.09138  0.86675  1.0000
+  Te  Te4       1.0  0.75000  0.90862  0.13325  1.0000
+  Te  Te5       1.0  0.25000  0.56399  0.63327  1.0000
+  Te  Te6       1.0  0.75000  0.43601  0.36673  1.0000
+  Te  Te7       1.0  0.75000  0.06158  0.59475  1.0000
+  Te  Te8       1.0  0.25000  0.93842  0.40525  1.0000
+  Mo  Mo1       1.0  0.75000  0.18174  0.99352  1.0000
+  Mo  Mo2       1.0  0.25000  0.81826  0.00648  1.0000
+  Mo  Mo3       1.0  0.25000  0.31967  0.49349  1.0000
+  Mo  Mo4       1.0  0.75000  0.68033  0.50651  1.0000

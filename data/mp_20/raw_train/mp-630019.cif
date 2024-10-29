@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd2Al4Ni2
+_chemical_formula_sum              "Gd2 Al4 Ni2"
+_cell_length_a       4.11439
+_cell_length_b       5.47991
+_cell_length_c       6.85643
+_cell_angle_alpha    89.6976
+_cell_angle_beta     89.9882
+_cell_angle_gamma    111.96
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.06671  0.13110  0.74815  1.0000
+  Gd  Gd2       1.0  0.94150  0.87848  0.24898  1.0000
+  Al  Al1       1.0  0.65896  0.31609  0.44297  1.0000
+  Al  Al2       1.0  0.34696  0.69120  0.94319  1.0000
+  Al  Al3       1.0  0.34766  0.69413  0.55392  1.0000
+  Al  Al4       1.0  0.66184  0.32058  0.05450  1.0000
+  Ni  Ni1       1.0  0.79100  0.57817  0.74703  1.0000
+  Ni  Ni2       1.0  0.21772  0.43257  0.24915  1.0000

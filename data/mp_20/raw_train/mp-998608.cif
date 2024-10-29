@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tl2Ag2Br6
+_chemical_formula_sum              "Tl2 Ag2 Br6"
+_cell_length_a       7.61296
+_cell_length_b       7.61296
+_cell_length_c       7.61296
+_cell_angle_alpha    60.5848
+_cell_angle_beta     60.5848
+_cell_angle_gamma    60.5848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.27392  0.27392  0.27392  1.0000
+  Tl  Tl2       1.0  0.77392  0.77392  0.77392  1.0000
+  Ag  Ag1       1.0  0.00245  0.00245  0.00245  1.0000
+  Ag  Ag2       1.0  0.50245  0.50245  0.50245  1.0000
+  Br  Br1       1.0  0.80776  0.24767  0.69671  1.0000
+  Br  Br2       1.0  0.69671  0.80776  0.24767  1.0000
+  Br  Br3       1.0  0.24767  0.69671  0.80776  1.0000
+  Br  Br4       1.0  0.30776  0.19671  0.74767  1.0000
+  Br  Br5       1.0  0.19670  0.74767  0.30776  1.0000
+  Br  Br6       1.0  0.74767  0.30776  0.19670  1.0000

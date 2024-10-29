@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta4Al4Cu4
+_chemical_formula_sum              "Ta4 Al4 Cu4"
+_cell_length_a       4.9808
+_cell_length_b       4.98077
+_cell_length_c       8.09194
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    61.1493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.33478  0.33478  0.56185  1.0000
+  Ta  Ta2       1.0  0.66312  0.66311  0.43372  1.0000
+  Ta  Ta3       1.0  0.66312  0.66311  0.06628  1.0000
+  Ta  Ta4       1.0  0.33478  0.33478  0.93815  1.0000
+  Al  Al1       1.0  0.99481  0.99482  0.48702  1.0000
+  Al  Al2       1.0  0.99481  0.99482  0.01298  1.0000
+  Al  Al3       1.0  0.83322  0.34956  0.75000  1.0000
+  Al  Al4       1.0  0.34957  0.83322  0.75000  1.0000
+  Cu  Cu1       1.0  0.83654  0.83654  0.75000  1.0000
+  Cu  Cu2       1.0  0.17263  0.65129  0.25000  1.0000
+  Cu  Cu3       1.0  0.65129  0.17264  0.25000  1.0000
+  Cu  Cu4       1.0  0.17132  0.17133  0.25000  1.0000

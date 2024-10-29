@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti4Si4Pt4
+_chemical_formula_sum              "Ti4 Si4 Pt4"
+_cell_length_a       3.82307
+_cell_length_b       6.37122
+_cell_length_c       7.39789
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.25000  0.02690  0.32545  1.0000
+  Ti  Ti2       1.0  0.25000  0.52690  0.17455  1.0000
+  Ti  Ti3       1.0  0.75000  0.97310  0.67455  1.0000
+  Ti  Ti4       1.0  0.75000  0.47310  0.82545  1.0000
+  Si  Si1       1.0  0.25000  0.25751  0.62431  1.0000
+  Si  Si2       1.0  0.25000  0.75751  0.87569  1.0000
+  Si  Si3       1.0  0.75000  0.74249  0.37569  1.0000
+  Si  Si4       1.0  0.75000  0.24249  0.12431  1.0000
+  Pt  Pt1       1.0  0.25000  0.14882  0.93538  1.0000
+  Pt  Pt2       1.0  0.25000  0.64882  0.56462  1.0000
+  Pt  Pt3       1.0  0.75000  0.85118  0.06462  1.0000
+  Pt  Pt4       1.0  0.75000  0.35118  0.43538  1.0000

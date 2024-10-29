@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sc12In2Co4
+_chemical_formula_sum              "Sc12 In2 Co4"
+_cell_length_a       7.81026
+_cell_length_b       7.81026
+_cell_length_c       7.81026
+_cell_angle_alpha    111.079
+_cell_angle_beta     110.732
+_cell_angle_gamma    106.639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.45161  0.23529  0.21632  1.0000
+  Sc  Sc2       1.0  0.54839  0.76471  0.78368  1.0000
+  Sc  Sc3       1.0  0.01897  0.23529  0.78368  1.0000
+  Sc  Sc4       1.0  0.98103  0.76471  0.21632  1.0000
+  Sc  Sc5       1.0  0.31302  0.61169  0.29867  1.0000
+  Sc  Sc6       1.0  0.68698  0.38831  0.70133  1.0000
+  Sc  Sc7       1.0  0.31302  0.01435  0.70133  1.0000
+  Sc  Sc8       1.0  0.68698  0.98565  0.29867  1.0000
+  Sc  Sc9       1.0  0.19035  0.28436  0.47472  1.0000
+  Sc  Sc10      1.0  0.80965  0.71563  0.52528  1.0000
+  Sc  Sc11      1.0  0.19035  0.71563  0.90599  1.0000
+  Sc  Sc12      1.0  0.80965  0.28436  0.09401  1.0000
+  In  In1       1.0  0.50000  0.50000  0.00000  1.0000
+  In  In2       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.37012  0.00000  0.37012  1.0000
+  Co  Co2       1.0  0.62988  0.00000  0.62988  1.0000
+  Co  Co3       1.0  0.11823  0.61823  0.50000  1.0000
+  Co  Co4       1.0  0.88177  0.38177  0.50000  1.0000

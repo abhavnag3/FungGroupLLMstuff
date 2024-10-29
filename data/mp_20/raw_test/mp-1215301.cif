@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr2Ti2Cr4Fe4
+_chemical_formula_sum              "Zr2 Ti2 Cr4 Fe4"
+_cell_length_a       4.9522
+_cell_length_b       4.90369
+_cell_length_c       7.92879
+_cell_angle_alpha    90.0076
+_cell_angle_beta     89.9252
+_cell_angle_gamma    119.686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.33244  0.66616  0.07115  1.0000
+  Zr  Zr2       1.0  0.66675  0.33338  0.93416  1.0000
+  Ti  Ti1       1.0  0.66711  0.33354  0.55695  1.0000
+  Ti  Ti2       1.0  0.33187  0.66590  0.44257  1.0000
+  Cr  Cr1       1.0  0.99818  0.99920  0.50050  1.0000
+  Cr  Cr2       1.0  0.99911  0.99963  0.99808  1.0000
+  Cr  Cr3       1.0  0.17252  0.34195  0.74016  1.0000
+  Cr  Cr4       1.0  0.17249  0.83046  0.74016  1.0000
+  Fe  Fe1       1.0  0.65732  0.82864  0.74245  1.0000
+  Fe  Fe2       1.0  0.83125  0.66199  0.25799  1.0000
+  Fe  Fe3       1.0  0.83128  0.16930  0.25800  1.0000
+  Fe  Fe4       1.0  0.33969  0.16986  0.25783  1.0000

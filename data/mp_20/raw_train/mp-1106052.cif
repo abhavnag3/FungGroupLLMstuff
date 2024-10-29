@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Dy2Al3Fe14
+_chemical_formula_sum              "Dy2 Al3 Fe14"
+_cell_length_a       6.44061
+_cell_length_b       6.44061
+_cell_length_c       6.44061
+_cell_angle_alpha    82.3608
+_cell_angle_beta     82.3608
+_cell_angle_gamma    82.3608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.65870  0.65870  0.65870  1.0000
+  Dy  Dy2       1.0  0.34130  0.34130  0.34130  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.50000  1.0000
+  Al  Al2       1.0  0.00000  0.50000  0.00000  1.0000
+  Al  Al3       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe1       1.0  0.29420  0.70580  0.00000  1.0000
+  Fe  Fe2       1.0  0.70580  0.00000  0.29420  1.0000
+  Fe  Fe3       1.0  0.00000  0.29420  0.70580  1.0000
+  Fe  Fe4       1.0  0.29420  0.00000  0.70580  1.0000
+  Fe  Fe5       1.0  1.00000  0.70580  0.29420  1.0000
+  Fe  Fe6       1.0  0.70580  0.29420  0.00000  1.0000
+  Fe  Fe7       1.0  0.34205  0.34205  0.83623  1.0000
+  Fe  Fe8       1.0  0.34205  0.83623  0.34205  1.0000
+  Fe  Fe9       1.0  0.83623  0.34205  0.34205  1.0000
+  Fe  Fe10      1.0  0.65795  0.65795  0.16377  1.0000
+  Fe  Fe11      1.0  0.65795  0.16377  0.65795  1.0000
+  Fe  Fe12      1.0  0.16377  0.65795  0.65795  1.0000
+  Fe  Fe13      1.0  0.90791  0.90791  0.90791  1.0000
+  Fe  Fe14      1.0  0.09209  0.09209  0.09209  1.0000

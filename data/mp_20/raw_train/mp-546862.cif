@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HgPb2Cl2O2
+_chemical_formula_sum              "Hg1 Pb2 Cl2 O2"
+_cell_length_a       6.31573
+_cell_length_b       6.31573
+_cell_length_c       7.91108
+_cell_angle_alpha    59.3893
+_cell_angle_beta     59.3893
+_cell_angle_gamma    36.8518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.00000  0.00000  0.50000  1.0000
+  Pb  Pb1       1.0  0.18272  0.18272  0.74518  1.0000
+  Pb  Pb2       1.0  0.81728  0.81728  0.25482  1.0000
+  Cl  Cl1       1.0  0.56668  0.56668  0.16590  1.0000
+  Cl  Cl2       1.0  0.43332  0.43332  0.83410  1.0000
+  O   O1        1.0  0.80659  0.80659  0.56671  1.0000
+  O   O2        1.0  0.19341  0.19341  0.43329  1.0000

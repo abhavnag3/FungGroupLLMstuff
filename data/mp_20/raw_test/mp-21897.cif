@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb2In8Pt2
+_chemical_formula_sum              "Yb2 In8 Pt2"
+_cell_length_a       8.66579
+_cell_length_b       8.66579
+_cell_length_c       7.68422
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    149.983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.13177  0.86823  0.75000  1.0000
+  Yb  Yb2       1.0  0.86823  0.13177  0.25000  1.0000
+  In  In1       1.0  0.50000  0.50000  0.50000  1.0000
+  In  In2       1.0  0.50000  0.50000  0.00000  1.0000
+  In  In3       1.0  0.06274  0.93726  0.25000  1.0000
+  In  In4       1.0  0.93726  0.06274  0.75000  1.0000
+  In  In5       1.0  0.31814  0.68186  0.95235  1.0000
+  In  In6       1.0  0.68186  0.31814  0.04765  1.0000
+  In  In7       1.0  0.68186  0.31814  0.45235  1.0000
+  In  In8       1.0  0.31814  0.68186  0.54765  1.0000
+  Pt  Pt1       1.0  0.77261  0.22739  0.75000  1.0000
+  Pt  Pt2       1.0  0.22739  0.77261  0.25000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sb4Ru4Se4
+_chemical_formula_sum              "Sb4 Ru4 Se4"
+_cell_length_a       6.36899
+_cell_length_b       6.43342
+_cell_length_c       6.47253
+_cell_angle_alpha    113.027
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.13474  0.85552  0.12329  1.0000
+  Sb  Sb2       1.0  0.63474  0.14448  0.37671  1.0000
+  Sb  Sb3       1.0  0.86526  0.14448  0.87671  1.0000
+  Sb  Sb4       1.0  0.36526  0.85552  0.62329  1.0000
+  Ru  Ru1       1.0  0.50462  0.71262  0.20003  1.0000
+  Ru  Ru2       1.0  0.00462  0.28738  0.29997  1.0000
+  Ru  Ru3       1.0  0.49538  0.28738  0.79997  1.0000
+  Ru  Ru4       1.0  0.99538  0.71262  0.70003  1.0000
+  Se  Se1       1.0  0.86510  0.65120  0.31939  1.0000
+  Se  Se2       1.0  0.36510  0.34880  0.18061  1.0000
+  Se  Se3       1.0  0.13490  0.34880  0.68061  1.0000
+  Se  Se4       1.0  0.63490  0.65120  0.81939  1.0000

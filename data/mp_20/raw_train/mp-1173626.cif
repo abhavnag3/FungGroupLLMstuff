@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nd4C2O10
+_chemical_formula_sum              "Nd4 C2 O10"
+_cell_length_a       3.82131
+_cell_length_b       3.82131
+_cell_length_c       15.7008
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    118.899
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.35513  0.64487  0.40198  1.0000
+  Nd  Nd2       1.0  0.35513  0.64487  0.09803  1.0000
+  Nd  Nd3       1.0  0.64487  0.35513  0.90197  1.0000
+  Nd  Nd4       1.0  0.64487  0.35513  0.59803  1.0000
+  C   C1        1.0  0.09605  0.90395  0.25000  1.0000
+  C   C2        1.0  0.90395  0.09605  0.75000  1.0000
+  O   O1        1.0  0.00026  0.99974  0.67842  1.0000
+  O   O2        1.0  0.29068  0.70932  0.25000  1.0000
+  O   O3        1.0  0.99974  0.00026  0.32158  1.0000
+  O   O4        1.0  0.00026  0.99974  0.82158  1.0000
+  O   O5        1.0  0.31519  0.68481  0.93051  1.0000
+  O   O6        1.0  0.31519  0.68481  0.56949  1.0000
+  O   O7        1.0  0.68481  0.31519  0.43051  1.0000
+  O   O8        1.0  0.68481  0.31519  0.06949  1.0000
+  O   O9        1.0  0.99974  0.00026  0.17842  1.0000
+  O   O10       1.0  0.70932  0.29068  0.75000  1.0000

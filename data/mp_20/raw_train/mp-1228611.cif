@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Al4Pb2Se8
+_chemical_formula_sum              "Al4 Pb2 Se8"
+_cell_length_a       6.29021
+_cell_length_b       6.32361
+_cell_length_c       11.0446
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.577
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.22165  0.95086  0.50000  1.0000
+  Al  Al2       1.0  0.77402  0.23354  0.50000  1.0000
+  Al  Al3       1.0  0.76367  0.24294  0.00000  1.0000
+  Al  Al4       1.0  0.23767  0.76052  0.00000  1.0000
+  Pb  Pb1       1.0  0.50057  0.49560  0.24976  1.0000
+  Pb  Pb2       1.0  0.50057  0.49560  0.75024  1.0000
+  Se  Se1       1.0  0.80835  0.63479  0.50000  1.0000
+  Se  Se2       1.0  0.18588  0.31796  0.50000  1.0000
+  Se  Se3       1.0  0.35018  0.18685  0.00000  1.0000
+  Se  Se4       1.0  0.65087  0.81815  0.00000  1.0000
+  Se  Se5       1.0  0.00035  0.50188  0.16683  1.0000
+  Se  Se6       1.0  0.49843  0.01521  0.33378  1.0000
+  Se  Se7       1.0  0.00035  0.50188  0.83317  1.0000
+  Se  Se8       1.0  0.49843  0.01521  0.66622  1.0000

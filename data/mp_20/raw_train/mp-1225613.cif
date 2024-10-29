@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4In4Ge4
+_chemical_formula_sum              "Eu4 In4 Ge4"
+_cell_length_a       4.00879
+_cell_length_b       4.88828
+_cell_length_c       16.2086
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.75427  0.48046  0.89257  1.0000
+  Eu  Eu2       1.0  0.74573  0.98046  0.60743  1.0000
+  Eu  Eu3       1.0  0.25427  0.51954  0.10743  1.0000
+  Eu  Eu4       1.0  0.24573  0.01954  0.39257  1.0000
+  In  In1       1.0  0.84964  0.99913  0.20957  1.0000
+  In  In2       1.0  0.65036  0.49913  0.29043  1.0000
+  In  In3       1.0  0.34964  0.00087  0.79043  1.0000
+  In  In4       1.0  0.15036  0.50087  0.70957  1.0000
+  Ge  Ge1       1.0  0.74956  0.07163  0.04334  1.0000
+  Ge  Ge2       1.0  0.75044  0.57163  0.45666  1.0000
+  Ge  Ge3       1.0  0.24956  0.92837  0.95666  1.0000
+  Ge  Ge4       1.0  0.25044  0.42837  0.54334  1.0000

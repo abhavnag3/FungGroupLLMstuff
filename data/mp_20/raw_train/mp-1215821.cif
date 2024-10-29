@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       YZr2Co9
+_chemical_formula_sum              "Y1 Zr2 Co9"
+_cell_length_a       4.84794
+_cell_length_b       4.84794
+_cell_length_c       8.47427
+_cell_angle_alpha    90
+_cell_angle_beta     73.3791
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.27905  0.13953  0.58142  1.0000
+  Zr  Zr1       1.0  0.72581  0.86291  0.41129  1.0000
+  Zr  Zr2       1.0  0.99951  0.99976  0.00073  1.0000
+  Co  Co1       1.0  0.66148  0.58017  0.75835  1.0000
+  Co  Co2       1.0  0.16034  0.58017  0.75835  1.0000
+  Co  Co3       1.0  0.66148  0.08131  0.75835  1.0000
+  Co  Co4       1.0  0.33659  0.41974  0.24368  1.0000
+  Co  Co5       1.0  0.83947  0.41974  0.24368  1.0000
+  Co  Co6       1.0  0.33659  0.91685  0.24368  1.0000
+  Co  Co7       1.0  0.66641  0.33321  0.00038  1.0000
+  Co  Co8       1.0  0.33275  0.66638  0.00088  1.0000
+  Co  Co9       1.0  0.00052  0.50026  0.49921  1.0000

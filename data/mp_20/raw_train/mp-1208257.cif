@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ti8Cr2Bi4
+_chemical_formula_sum              "Ti8 Cr2 Bi4"
+_cell_length_a       7.89047
+_cell_length_b       7.89047
+_cell_length_c       7.89047
+_cell_angle_alpha    95.9593
+_cell_angle_beta     95.9593
+_cell_angle_gamma    142.406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.08005  0.19235  0.27240  1.0000
+  Ti  Ti2       1.0  0.91995  0.80765  0.72760  1.0000
+  Ti  Ti3       1.0  0.80765  0.08005  0.88770  1.0000
+  Ti  Ti4       1.0  0.41995  0.69235  0.11230  1.0000
+  Ti  Ti5       1.0  0.19235  0.91995  0.11230  1.0000
+  Ti  Ti6       1.0  0.58005  0.30765  0.88770  1.0000
+  Ti  Ti7       1.0  0.69235  0.58005  0.27240  1.0000
+  Ti  Ti8       1.0  0.30765  0.41995  0.72760  1.0000
+  Cr  Cr1       1.0  0.25000  0.25000  0.00000  1.0000
+  Cr  Cr2       1.0  0.75000  0.75000  0.00000  1.0000
+  Bi  Bi1       1.0  0.13908  0.63908  0.77816  1.0000
+  Bi  Bi2       1.0  0.86092  0.36092  0.22184  1.0000
+  Bi  Bi3       1.0  0.36092  0.13908  0.50000  1.0000
+  Bi  Bi4       1.0  0.63908  0.86092  0.50000  1.0000

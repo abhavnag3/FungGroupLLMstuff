@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       U2I8
+_chemical_formula_sum              "U2 I8"
+_cell_length_a       9.60905
+_cell_length_b       9.60905
+_cell_length_c       8.17908
+_cell_angle_alpha    87.2007
+_cell_angle_beta     87.2007
+_cell_angle_gamma    117.687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.08036  0.91964  0.75000  1.0000
+  U   U2        1.0  0.91964  0.08036  0.25000  1.0000
+  I   I1        1.0  0.99237  0.40607  0.27125  1.0000
+  I   I2        1.0  0.40607  0.99237  0.77125  1.0000
+  I   I3        1.0  0.16001  0.21800  0.94298  1.0000
+  I   I4        1.0  0.83999  0.78200  0.05702  1.0000
+  I   I5        1.0  0.21800  0.16001  0.44298  1.0000
+  I   I6        1.0  0.00763  0.59393  0.72875  1.0000
+  I   I7        1.0  0.78200  0.84000  0.55702  1.0000
+  I   I8        1.0  0.59393  0.00763  0.22875  1.0000

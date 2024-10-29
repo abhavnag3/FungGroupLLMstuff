@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       CsBa2Zn2F9
+_chemical_formula_sum              "Cs1 Ba2 Zn2 F9"
+_cell_length_a       7.96197
+_cell_length_b       7.96197
+_cell_length_c       7.96196
+_cell_angle_alpha    44.2961
+_cell_angle_beta     44.2961
+_cell_angle_gamma    44.2961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.21465  0.21465  0.21465  1.0000
+  Ba  Ba1       1.0  0.99926  0.99926  0.99926  1.0000
+  Ba  Ba2       1.0  0.79235  0.79235  0.79235  1.0000
+  Zn  Zn1       1.0  0.39070  0.39070  0.39070  1.0000
+  Zn  Zn2       1.0  0.60423  0.60423  0.60423  1.0000
+  F   F1        1.0  0.26534  0.77231  0.26534  1.0000
+  F   F2        1.0  0.77231  0.26534  0.26534  1.0000
+  F   F3        1.0  0.26534  0.26534  0.77231  1.0000
+  F   F4        1.0  0.73455  0.21802  0.73455  1.0000
+  F   F5        1.0  0.21802  0.73455  0.73455  1.0000
+  F   F6        1.0  0.73455  0.73455  0.21802  1.0000
+  F   F7        1.0  0.98826  0.51021  0.51021  1.0000
+  F   F8        1.0  0.51021  0.51021  0.98826  1.0000
+  F   F9        1.0  0.51021  0.98826  0.51021  1.0000

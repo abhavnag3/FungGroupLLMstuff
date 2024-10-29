@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Y2AlSi2
+_chemical_formula_sum              "Y2 Al1 Si2"
+_cell_length_a       5.61782
+_cell_length_b       5.61782
+_cell_length_c       5.61782
+_cell_angle_alpha    137.636
+_cell_angle_beta     117.413
+_cell_angle_gamma    78.5051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.71111  0.21111  0.50000  1.0000
+  Y   Y2        1.0  0.28889  0.78889  0.50000  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.00000  1.0000
+  Si  Si1       1.0  0.28900  0.50000  0.78900  1.0000
+  Si  Si2       1.0  0.71100  0.50000  0.21100  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4P14Cl2
+_chemical_formula_sum              "Ba4 P14 Cl2"
+_cell_length_a       6.92967
+_cell_length_b       6.42157
+_cell_length_c       11.8797
+_cell_angle_alpha    84.7677
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.22926  0.95434  1.0000
+  Ba  Ba2       1.0  0.25000  0.43276  0.34694  1.0000
+  Ba  Ba3       1.0  0.75000  0.77074  0.04566  1.0000
+  Ba  Ba4       1.0  0.75000  0.56724  0.65306  1.0000
+  P   P1        1.0  0.25000  0.00890  0.55051  1.0000
+  P   P2        1.0  0.99397  0.11702  0.19524  1.0000
+  P   P3        1.0  0.75000  0.32156  0.22237  1.0000
+  P   P4        1.0  0.25000  0.67447  0.59348  1.0000
+  P   P5        1.0  0.41970  0.14472  0.68689  1.0000
+  P   P6        1.0  0.08030  0.14472  0.68689  1.0000
+  P   P7        1.0  0.91970  0.85528  0.31311  1.0000
+  P   P8        1.0  0.00603  0.88298  0.80476  1.0000
+  P   P9        1.0  0.25000  0.67844  0.77763  1.0000
+  P   P10       1.0  0.49397  0.88298  0.80476  1.0000
+  P   P11       1.0  0.58030  0.85528  0.31311  1.0000
+  P   P12       1.0  0.75000  0.32553  0.40652  1.0000
+  P   P13       1.0  0.50603  0.11702  0.19524  1.0000
+  P   P14       1.0  0.75000  0.99110  0.44949  1.0000
+  Cl  Cl1       1.0  0.75000  0.36504  0.91101  1.0000
+  Cl  Cl2       1.0  0.25000  0.63496  0.08899  1.0000

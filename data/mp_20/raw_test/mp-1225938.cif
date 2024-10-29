@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs2Mg2Co2F12
+_chemical_formula_sum              "Cs2 Mg2 Co2 F12"
+_cell_length_a       7.39053
+_cell_length_b       7.39053
+_cell_length_c       7.39053
+_cell_angle_alpha    120.902
+_cell_angle_beta     119.224
+_cell_angle_gamma    89.8967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.37021  0.62021  0.75000  1.0000
+  Cs  Cs2       1.0  0.62979  0.37979  0.25000  1.0000
+  Mg  Mg1       1.0  0.00000  0.00000  0.50000  1.0000
+  Mg  Mg2       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.31718  0.06718  0.25000  1.0000
+  F   F2        1.0  0.92964  0.67964  0.25000  1.0000
+  F   F3        1.0  0.32399  0.69349  0.26133  1.0000
+  F   F4        1.0  0.93216  0.06266  0.23867  1.0000
+  F   F5        1.0  0.32399  0.06266  0.63050  1.0000
+  F   F6        1.0  0.93217  0.69349  0.86950  1.0000
+  F   F7        1.0  0.68282  0.93282  0.75000  1.0000
+  F   F8        1.0  0.07036  0.32036  0.75000  1.0000
+  F   F9        1.0  0.67601  0.30651  0.73867  1.0000
+  F   F10       1.0  0.06783  0.93734  0.76133  1.0000
+  F   F11       1.0  0.67601  0.93734  0.36950  1.0000
+  F   F12       1.0  0.06784  0.30651  0.13050  1.0000

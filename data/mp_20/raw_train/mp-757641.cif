@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       V5CoO12
+_chemical_formula_sum              "V5 Co1 O12"
+_cell_length_a       6.79555
+_cell_length_b       6.79555
+_cell_length_c       5.85731
+_cell_angle_alpha    75.182
+_cell_angle_beta     104.818
+_cell_angle_gamma    95.6053
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.20488  0.61094  0.75808  1.0000
+  V   V2        1.0  0.39106  0.79456  0.26305  1.0000
+  V   V3        1.0  0.61094  0.20488  0.74192  1.0000
+  V   V4        1.0  0.79456  0.39106  0.23695  1.0000
+  V   V5        1.0  0.91683  0.91683  0.25000  1.0000
+  Co  Co1       1.0  0.08773  0.08773  0.75000  1.0000
+  O   O1        1.0  0.03588  0.80893  0.63205  1.0000
+  O   O2        1.0  0.08835  0.37852  0.77788  1.0000
+  O   O3        1.0  0.18964  0.96405  0.14974  1.0000
+  O   O4        1.0  0.37142  0.64051  0.55988  1.0000
+  O   O5        1.0  0.37852  0.08835  0.72212  1.0000
+  O   O6        1.0  0.34771  0.63271  0.05173  1.0000
+  O   O7        1.0  0.64051  0.37142  0.94012  1.0000
+  O   O8        1.0  0.63248  0.90380  0.28453  1.0000
+  O   O9        1.0  0.63271  0.34771  0.44827  1.0000
+  O   O10       1.0  0.80893  0.03588  0.86795  1.0000
+  O   O11       1.0  0.90380  0.63248  0.21547  1.0000
+  O   O12       1.0  0.96405  0.18964  0.35025  1.0000

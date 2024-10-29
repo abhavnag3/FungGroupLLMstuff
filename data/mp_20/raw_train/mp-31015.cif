@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ta3SBr7
+_chemical_formula_sum              "Ta3 S1 Br7"
+_cell_length_a       7.16423
+_cell_length_b       7.16423
+_cell_length_c       9.27274
+_cell_angle_alpha    55.123
+_cell_angle_beta     55.123
+_cell_angle_gamma    59.9978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.24525  0.64726  0.38708  1.0000
+  Ta  Ta2       1.0  0.64726  0.24525  0.38708  1.0000
+  Ta  Ta3       1.0  0.64729  0.64729  0.38699  1.0000
+  S   S1        1.0  0.63680  0.63680  0.13644  1.0000
+  Br  Br1       1.0  0.72715  0.22419  0.63328  1.0000
+  Br  Br2       1.0  0.22419  0.72715  0.63328  1.0000
+  Br  Br3       1.0  0.74807  0.74807  0.58651  1.0000
+  Br  Br4       1.0  0.11558  0.11558  0.18218  1.0000
+  Br  Br5       1.0  0.22406  0.22406  0.63360  1.0000
+  Br  Br6       1.0  0.61102  0.11572  0.18247  1.0000
+  Br  Br7       1.0  0.11572  0.61102  0.18247  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2Bi2O4
+_chemical_formula_sum              "K2 Bi2 O4"
+_cell_length_a       5.70648
+_cell_length_b       5.70648
+_cell_length_c       6.08178
+_cell_angle_alpha    66.5289
+_cell_angle_beta     66.5289
+_cell_angle_gamma    91.9822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.86866  0.13134  0.75000  1.0000
+  K   K2        1.0  0.13134  0.86866  0.25000  1.0000
+  Bi  Bi1       1.0  0.59917  0.40083  0.25000  1.0000
+  Bi  Bi2       1.0  0.40083  0.59917  0.75000  1.0000
+  O   O1        1.0  0.24011  0.37515  0.22187  1.0000
+  O   O2        1.0  0.62485  0.75989  0.27813  1.0000
+  O   O3        1.0  0.37515  0.24011  0.72188  1.0000
+  O   O4        1.0  0.75989  0.62485  0.77812  1.0000

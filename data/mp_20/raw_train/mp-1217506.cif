@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       TbTiFe11
+_chemical_formula_sum              "Tb1 Ti1 Fe11"
+_cell_length_a       4.68548
+_cell_length_b       6.45081
+_cell_length_c       6.45081
+_cell_angle_alpha    97.9347
+_cell_angle_beta     111.295
+_cell_angle_gamma    68.705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.00554  0.99447  0.00553  1.0000
+  Ti  Ti1       1.0  0.63267  0.36733  0.63267  1.0000
+  Fe  Fe1       1.0  0.73225  0.76775  0.23225  1.0000
+  Fe  Fe2       1.0  0.27295  0.22705  0.77295  1.0000
+  Fe  Fe3       1.0  0.49869  0.78272  0.78009  1.0000
+  Fe  Fe4       1.0  0.49868  0.21991  0.21728  1.0000
+  Fe  Fe5       1.0  0.50186  0.99851  0.50045  1.0000
+  Fe  Fe6       1.0  0.00009  0.99851  0.50045  1.0000
+  Fe  Fe7       1.0  0.50186  0.49954  0.00149  1.0000
+  Fe  Fe8       1.0  0.00009  0.49954  0.00149  1.0000
+  Fe  Fe9       1.0  0.35428  0.64572  0.35428  1.0000
+  Fe  Fe10      1.0  0.00053  0.35605  0.35710  1.0000
+  Fe  Fe11      1.0  0.00053  0.64290  0.64395  1.0000

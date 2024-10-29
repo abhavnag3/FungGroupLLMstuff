@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy3Si3Ni
+_chemical_formula_sum              "Dy3 Si3 Ni1"
+_cell_length_a       3.96477
+_cell_length_b       4.13013
+_cell_length_c       9.2022
+_cell_angle_alpha    77.0318
+_cell_angle_beta     77.5595
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.68447  0.18447  0.63106  1.0000
+  Dy  Dy2       1.0  0.31847  0.81847  0.36307  1.0000
+  Dy  Dy3       1.0  0.99942  0.99942  0.00117  1.0000
+  Si  Si1       1.0  0.86227  0.36227  0.27546  1.0000
+  Si  Si2       1.0  0.14269  0.64269  0.71462  1.0000
+  Si  Si3       1.0  0.55986  0.55986  0.88028  1.0000
+  Ni  Ni1       1.0  0.43282  0.43282  0.13435  1.0000

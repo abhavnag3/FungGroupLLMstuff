@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Si2Ge2
+_chemical_formula_sum              "Pr2 Si2 Ge2"
+_cell_length_a       8.27479
+_cell_length_b       8.27479
+_cell_length_c       8.27479
+_cell_angle_alpha    151.044
+_cell_angle_beta     150.36
+_cell_angle_gamma    41.9149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.38093  0.63093  0.75000  1.0000
+  Pr  Pr2       1.0  0.61907  0.36907  0.25000  1.0000
+  Si  Si1       1.0  0.96177  0.21177  0.75000  1.0000
+  Si  Si2       1.0  0.03823  0.78823  0.25000  1.0000
+  Ge  Ge1       1.0  0.79791  0.04791  0.75000  1.0000
+  Ge  Ge2       1.0  0.20209  0.95209  0.25000  1.0000

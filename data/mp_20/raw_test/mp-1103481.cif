@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Er3Fe4Ge4
+_chemical_formula_sum              "Er3 Fe4 Ge4"
+_cell_length_a       7.82122
+_cell_length_b       7.82122
+_cell_length_c       7.82122
+_cell_angle_alpha    149.005
+_cell_angle_beta     129.174
+_cell_angle_gamma    60.7325
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.50000  0.00000  0.50000  1.0000
+  Er  Er2       1.0  0.87115  0.87115  0.00000  1.0000
+  Er  Er3       1.0  0.12885  0.12885  0.00000  1.0000
+  Fe  Fe1       1.0  0.85537  0.67452  0.18085  1.0000
+  Fe  Fe2       1.0  0.49368  0.67452  0.81915  1.0000
+  Fe  Fe3       1.0  0.50632  0.32548  0.18085  1.0000
+  Fe  Fe4       1.0  0.14463  0.32548  0.81915  1.0000
+  Ge  Ge1       1.0  0.27923  0.77923  0.50000  1.0000
+  Ge  Ge2       1.0  0.72077  0.22077  0.50000  1.0000
+  Ge  Ge3       1.0  0.19573  0.50000  0.69573  1.0000
+  Ge  Ge4       1.0  0.80427  0.50000  0.30427  1.0000

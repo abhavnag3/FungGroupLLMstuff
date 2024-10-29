@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co4P4Se4
+_chemical_formula_sum              "Co4 P4 Se4"
+_cell_length_a       5.60805
+_cell_length_b       5.60805
+_cell_length_c       5.60805
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.48883  0.51118  0.01117  1.0000
+  Co  Co2       1.0  0.51118  0.01117  0.48883  1.0000
+  Co  Co3       1.0  0.01117  0.48883  0.51118  1.0000
+  Co  Co4       1.0  0.98883  0.98883  0.98883  1.0000
+  P   P1        1.0  0.87962  0.12038  0.62038  1.0000
+  P   P2        1.0  0.12038  0.62038  0.87962  1.0000
+  P   P3        1.0  0.62038  0.87962  0.12038  1.0000
+  P   P4        1.0  0.37962  0.37962  0.37962  1.0000
+  Se  Se1       1.0  0.11985  0.88015  0.38015  1.0000
+  Se  Se2       1.0  0.88015  0.38015  0.11985  1.0000
+  Se  Se3       1.0  0.38015  0.11985  0.88015  1.0000
+  Se  Se4       1.0  0.61985  0.61985  0.61985  1.0000

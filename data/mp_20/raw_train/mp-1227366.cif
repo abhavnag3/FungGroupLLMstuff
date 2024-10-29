@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BeZn3S4
+_chemical_formula_sum              "Be1 Zn3 S4"
+_cell_length_a       3.75161
+_cell_length_b       3.75161
+_cell_length_c       12.4865
+_cell_angle_alpha    81.3599
+_cell_angle_beta     98.6401
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.25060  0.74940  0.75181  1.0000
+  Zn  Zn1       1.0  0.99710  0.00290  0.99131  1.0000
+  Zn  Zn2       1.0  0.75016  0.24984  0.25049  1.0000
+  Zn  Zn3       1.0  0.50343  0.49657  0.51028  1.0000
+  S   S1        1.0  0.06051  0.93949  0.18153  1.0000
+  S   S2        1.0  0.81360  0.18640  0.44079  1.0000
+  S   S3        1.0  0.56715  0.43285  0.70146  1.0000
+  S   S4        1.0  0.30744  0.69256  0.92233  1.0000

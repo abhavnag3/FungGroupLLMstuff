@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li6In2Br12
+_chemical_formula_sum              "Li6 In2 Br12"
+_cell_length_a       6.83926
+_cell_length_b       6.83926
+_cell_length_c       13.2784
+_cell_angle_alpha    84.8488
+_cell_angle_beta     84.8488
+_cell_angle_gamma    119.789
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.66051  0.82111  0.00039  1.0000
+  Li  Li2       1.0  0.59300  0.40700  0.25000  1.0000
+  Li  Li3       1.0  0.17889  0.33949  0.49961  1.0000
+  Li  Li4       1.0  0.82111  0.66051  0.50039  1.0000
+  Li  Li5       1.0  0.40700  0.59300  0.75000  1.0000
+  Li  Li6       1.0  0.33949  0.17889  0.99961  1.0000
+  In  In1       1.0  0.00000  0.50000  0.00000  1.0000
+  In  In2       1.0  0.50000  0.00000  0.50000  1.0000
+  Br  Br1       1.0  0.63163  0.13909  0.11789  1.0000
+  Br  Br2       1.0  0.94909  0.77789  0.11944  1.0000
+  Br  Br3       1.0  0.29108  0.45963  0.11916  1.0000
+  Br  Br4       1.0  0.54037  0.70892  0.38084  1.0000
+  Br  Br5       1.0  0.22211  0.05091  0.38056  1.0000
+  Br  Br6       1.0  0.86091  0.36837  0.38211  1.0000
+  Br  Br7       1.0  0.13909  0.63163  0.61788  1.0000
+  Br  Br8       1.0  0.45963  0.29108  0.61916  1.0000
+  Br  Br9       1.0  0.77789  0.94909  0.61944  1.0000
+  Br  Br10      1.0  0.70892  0.54037  0.88084  1.0000
+  Br  Br11      1.0  0.05091  0.22211  0.88056  1.0000
+  Br  Br12      1.0  0.36837  0.86091  0.88212  1.0000

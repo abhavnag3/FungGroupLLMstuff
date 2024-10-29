@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Si6O12
+_chemical_formula_sum              "Si6 O12"
+_cell_length_a       7.65326
+_cell_length_b       7.65326
+_cell_length_c       7.65326
+_cell_angle_alpha    110.712
+_cell_angle_beta     110.712
+_cell_angle_gamma    110.712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.27026  0.05690  0.78551  1.0000
+  Si  Si2       1.0  0.05690  0.78551  0.27026  1.0000
+  Si  Si3       1.0  0.72974  0.94310  0.21449  1.0000
+  Si  Si4       1.0  0.94310  0.21449  0.72974  1.0000
+  Si  Si5       1.0  0.78551  0.27026  0.05690  1.0000
+  Si  Si6       1.0  0.21449  0.72974  0.94310  1.0000
+  O   O1        1.0  0.77646  0.02941  0.46301  1.0000
+  O   O2        1.0  0.84285  0.80323  0.16487  1.0000
+  O   O3        1.0  0.53699  0.22354  0.97059  1.0000
+  O   O4        1.0  0.22354  0.97059  0.53699  1.0000
+  O   O5        1.0  0.83513  0.15715  0.19677  1.0000
+  O   O6        1.0  0.19677  0.83513  0.15715  1.0000
+  O   O7        1.0  0.80323  0.16487  0.84285  1.0000
+  O   O8        1.0  0.15715  0.19677  0.83513  1.0000
+  O   O9        1.0  0.16487  0.84285  0.80323  1.0000
+  O   O10       1.0  0.97059  0.53699  0.22355  1.0000
+  O   O11       1.0  0.02941  0.46301  0.77645  1.0000
+  O   O12       1.0  0.46301  0.77645  0.02941  1.0000

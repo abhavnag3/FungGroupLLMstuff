@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb12Al3Ge
+_chemical_formula_sum              "Nb12 Al3 Ge1"
+_cell_length_a       5.1989
+_cell_length_b       5.20215
+_cell_length_c       10.3936
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.50000  0.00000  0.37510  1.0000
+  Nb  Nb2       1.0  0.50000  0.00000  0.87496  1.0000
+  Nb  Nb3       1.0  0.75068  0.50000  0.00000  1.0000
+  Nb  Nb4       1.0  0.75006  0.50000  0.50000  1.0000
+  Nb  Nb5       1.0  0.00000  0.74970  0.25023  1.0000
+  Nb  Nb6       1.0  0.00000  0.74970  0.74977  1.0000
+  Nb  Nb7       1.0  0.50000  0.00000  0.12504  1.0000
+  Nb  Nb8       1.0  0.50000  0.00000  0.62490  1.0000
+  Nb  Nb9       1.0  0.24932  0.50000  0.00000  1.0000
+  Nb  Nb10      1.0  0.24994  0.50000  0.50000  1.0000
+  Nb  Nb11      1.0  0.00000  0.25030  0.25023  1.0000
+  Nb  Nb12      1.0  0.00000  0.25030  0.74977  1.0000
+  Al  Al1       1.0  0.50000  0.50000  0.25014  1.0000
+  Al  Al2       1.0  0.50000  0.50000  0.74986  1.0000
+  Al  Al3       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.50000  1.0000

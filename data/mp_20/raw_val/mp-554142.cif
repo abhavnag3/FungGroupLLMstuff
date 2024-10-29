@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ge2Te4O12
+_chemical_formula_sum              "Ge2 Te4 O12"
+_cell_length_a       7.1323
+_cell_length_b       5.31229
+_cell_length_c       9.05303
+_cell_angle_alpha    55.6061
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ge  Ge2       1.0  0.50000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.84211  0.80544  0.71549  1.0000
+  Te  Te2       1.0  0.15789  0.19456  0.28451  1.0000
+  Te  Te3       1.0  0.65789  0.80544  0.21549  1.0000
+  Te  Te4       1.0  0.34211  0.19456  0.78451  1.0000
+  O   O1        1.0  0.41602  0.31547  0.24077  1.0000
+  O   O2        1.0  0.58398  0.68453  0.75923  1.0000
+  O   O3        1.0  0.28621  0.76991  0.91418  1.0000
+  O   O4        1.0  0.78621  0.23009  0.58582  1.0000
+  O   O5        1.0  0.08398  0.31547  0.74077  1.0000
+  O   O6        1.0  0.64903  0.79592  0.00522  1.0000
+  O   O7        1.0  0.14903  0.20408  0.49478  1.0000
+  O   O8        1.0  0.35097  0.20408  0.99478  1.0000
+  O   O9        1.0  0.85097  0.79592  0.50522  1.0000
+  O   O10       1.0  0.71379  0.23009  0.08582  1.0000
+  O   O11       1.0  0.21379  0.76991  0.41418  1.0000
+  O   O12       1.0  0.91602  0.68453  0.25923  1.0000

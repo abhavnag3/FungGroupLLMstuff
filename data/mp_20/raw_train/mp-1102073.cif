@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr4Cd4Pt4
+_chemical_formula_sum              "Sr4 Cd4 Pt4"
+_cell_length_a       4.56131
+_cell_length_b       7.59583
+_cell_length_c       8.7132
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000  0.02977  0.31951  1.0000
+  Sr  Sr2       1.0  0.25000  0.52977  0.18049  1.0000
+  Sr  Sr3       1.0  0.75000  0.97023  0.68049  1.0000
+  Sr  Sr4       1.0  0.75000  0.47023  0.81951  1.0000
+  Cd  Cd1       1.0  0.25000  0.14497  0.93439  1.0000
+  Cd  Cd2       1.0  0.25000  0.64497  0.56561  1.0000
+  Cd  Cd3       1.0  0.75000  0.85503  0.06561  1.0000
+  Cd  Cd4       1.0  0.75000  0.35503  0.43439  1.0000
+  Pt  Pt1       1.0  0.25000  0.26965  0.62298  1.0000
+  Pt  Pt2       1.0  0.25000  0.76965  0.87702  1.0000
+  Pt  Pt3       1.0  0.75000  0.73035  0.37702  1.0000
+  Pt  Pt4       1.0  0.75000  0.23035  0.12298  1.0000

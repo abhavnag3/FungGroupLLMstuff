@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nb2SiTe4
+_chemical_formula_sum              "Nb2 Si1 Te4"
+_cell_length_a       6.89509
+_cell_length_b       3.56598
+_cell_length_c       8.8399
+_cell_angle_alpha    110.637
+_cell_angle_beta     75.0552
+_cell_angle_gamma    89.9624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.21061  0.49221  0.99988  1.0000
+  Nb  Nb2       1.0  0.78880  0.49273  0.99969  1.0000
+  Si  Si1       1.0  0.50004  0.99177  0.99943  1.0000
+  Te  Te1       1.0  0.07394  0.79990  0.77777  1.0000
+  Te  Te2       1.0  0.41038  0.73090  0.27173  1.0000
+  Te  Te3       1.0  0.59011  0.25391  0.72766  1.0000
+  Te  Te4       1.0  0.92613  0.18539  0.22186  1.0000

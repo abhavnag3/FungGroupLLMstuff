@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2P2O8
+_chemical_formula_sum              "Fe2 P2 O8"
+_cell_length_a       5.24397
+_cell_length_b       5.25249
+_cell_length_c       6.38644
+_cell_angle_alpha    86.3213
+_cell_angle_beta     106.79
+_cell_angle_gamma    111.173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25621  0.79706  0.29300  1.0000
+  Fe  Fe2       1.0  0.74379  0.20294  0.70700  1.0000
+  P   P1        1.0  0.86832  0.17464  0.22838  1.0000
+  P   P2        1.0  0.13168  0.82536  0.77162  1.0000
+  O   O1        1.0  0.13382  0.41500  0.35274  1.0000
+  O   O2        1.0  0.35539  0.90236  0.63319  1.0000
+  O   O3        1.0  0.94554  0.92133  0.21654  1.0000
+  O   O4        1.0  0.72870  0.25567  0.00107  1.0000
+  O   O5        1.0  0.27130  0.74433  0.99893  1.0000
+  O   O6        1.0  0.05446  0.07867  0.78346  1.0000
+  O   O7        1.0  0.64461  0.09764  0.36681  1.0000
+  O   O8        1.0  0.86618  0.58500  0.64726  1.0000

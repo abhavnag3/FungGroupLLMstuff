@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Li4Co2Ni3O10
+_chemical_formula_sum              "Li4 Co2 Ni3 O10"
+_cell_length_a       4.99282
+_cell_length_b       5.05357
+_cell_length_c       7.58081
+_cell_angle_alpha    101.699
+_cell_angle_beta     108.805
+_cell_angle_gamma    100.992
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.69466  0.60968  0.21967  1.0000
+  Li  Li2       1.0  0.09015  0.77411  0.59218  1.0000
+  Li  Li3       1.0  0.90985  0.22590  0.40781  1.0000
+  Li  Li4       1.0  0.30533  0.39032  0.78033  1.0000
+  Co  Co1       1.0  0.30559  0.89677  0.30910  1.0000
+  Co  Co2       1.0  0.69441  0.10323  0.69090  1.0000
+  Ni  Ni1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.10416  0.30431  0.10379  1.0000
+  Ni  Ni3       1.0  0.89584  0.69569  0.89621  1.0000
+  O   O1        1.0  0.92130  0.94691  0.15206  1.0000
+  O   O2        1.0  0.67514  0.88819  0.45144  1.0000
+  O   O3        1.0  0.29907  0.67597  0.06159  1.0000
+  O   O4        1.0  0.52316  0.78655  0.76888  1.0000
+  O   O5        1.0  0.09999  0.57464  0.33181  1.0000
+  O   O6        1.0  0.90001  0.42536  0.66819  1.0000
+  O   O7        1.0  0.47684  0.21345  0.23112  1.0000
+  O   O8        1.0  0.70093  0.32403  0.93841  1.0000
+  O   O9        1.0  0.32486  0.11181  0.54856  1.0000
+  O   O10       1.0  0.07870  0.05309  0.84794  1.0000

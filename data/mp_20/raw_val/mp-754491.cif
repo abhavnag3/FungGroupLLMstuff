@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Fe4Hg2O8
+_chemical_formula_sum              "Fe4 Hg2 O8"
+_cell_length_a       6.30779
+_cell_length_b       6.29627
+_cell_length_c       6.31162
+_cell_angle_alpha    60.0455
+_cell_angle_beta     120.177
+_cell_angle_gamma    119.893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00008  0.50021  0.99975  1.0000
+  Fe  Fe2       1.0  0.50018  0.50020  0.49993  1.0000
+  Fe  Fe3       1.0  0.99998  0.99982  0.49996  1.0000
+  Fe  Fe4       1.0  0.99977  0.49983  0.50016  1.0000
+  Hg  Hg1       1.0  0.37491  0.12492  0.12512  1.0000
+  Hg  Hg2       1.0  0.62495  0.87497  0.87508  1.0000
+  O   O1        1.0  0.80978  0.27049  0.26874  1.0000
+  O   O2        1.0  0.23128  0.27050  0.69024  1.0000
+  O   O3        1.0  0.22949  0.26886  0.27049  1.0000
+  O   O4        1.0  0.22950  0.69017  0.27054  1.0000
+  O   O5        1.0  0.77056  0.30984  0.72946  1.0000
+  O   O6        1.0  0.77057  0.73132  0.72944  1.0000
+  O   O7        1.0  0.19014  0.72945  0.73121  1.0000
+  O   O8        1.0  0.76880  0.72942  0.30989  1.0000

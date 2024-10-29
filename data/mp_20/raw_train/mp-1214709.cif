@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ba2EuCu4O8
+_chemical_formula_sum              "Ba2 Eu1 Cu4 O8"
+_cell_length_a       13.9995
+_cell_length_b       13.9995
+_cell_length_c       3.9139
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    164.064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.63536  0.36464  0.50000  1.0000
+  Ba  Ba2       1.0  0.36464  0.63536  0.50000  1.0000
+  Eu  Eu1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cu  Cu1       1.0  0.93722  0.06278  0.00000  1.0000
+  Cu  Cu2       1.0  0.06278  0.93722  0.00000  1.0000
+  Cu  Cu3       1.0  0.78730  0.21270  0.00000  1.0000
+  Cu  Cu4       1.0  0.21270  0.78730  0.00000  1.0000
+  O   O1        1.0  0.85407  0.14593  0.00000  1.0000
+  O   O2        1.0  0.14593  0.85407  0.00000  1.0000
+  O   O3        1.0  0.55441  0.44559  0.00000  1.0000
+  O   O4        1.0  0.44559  0.55441  0.00000  1.0000
+  O   O5        1.0  0.71918  0.28081  0.00000  1.0000
+  O   O6        1.0  0.28082  0.71918  0.00000  1.0000
+  O   O7        1.0  0.94508  0.05492  0.50000  1.0000
+  O   O8        1.0  0.05492  0.94508  0.50000  1.0000

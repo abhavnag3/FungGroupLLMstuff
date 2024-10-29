@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zr2Ti4Al2
+_chemical_formula_sum              "Zr2 Ti4 Al2"
+_cell_length_a       5.9303
+_cell_length_b       5.9303
+_cell_length_c       4.795
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.94
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.33574  0.16639  0.50000  1.0000
+  Zr  Zr2       1.0  0.83361  0.66426  0.50000  1.0000
+  Ti  Ti1       1.0  0.83100  0.16900  0.50000  1.0000
+  Ti  Ti2       1.0  0.65568  0.83530  0.00000  1.0000
+  Ti  Ti3       1.0  0.16470  0.34432  0.00000  1.0000
+  Ti  Ti4       1.0  0.17408  0.82592  0.00000  1.0000
+  Al  Al1       1.0  0.33372  0.66628  0.50000  1.0000
+  Al  Al2       1.0  0.67126  0.32874  0.00000  1.0000

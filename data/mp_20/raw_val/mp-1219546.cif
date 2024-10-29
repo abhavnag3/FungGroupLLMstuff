@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Re4Se4S4
+_chemical_formula_sum              "Re4 Se4 S4"
+_cell_length_a       6.51387
+_cell_length_b       7.06851
+_cell_length_c       6.72714
+_cell_angle_alpha    92.73
+_cell_angle_beta     119.949
+_cell_angle_gamma    103.321
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.75295  0.49076  0.31538  1.0000
+  Re  Re2       1.0  0.24705  0.50924  0.68462  1.0000
+  Re  Re3       1.0  0.29539  0.49819  0.28594  1.0000
+  Re  Re4       1.0  0.70461  0.50181  0.71406  1.0000
+  Se  Se1       1.0  0.48350  0.21860  0.37697  1.0000
+  Se  Se2       1.0  0.51650  0.78140  0.62303  1.0000
+  Se  Se3       1.0  0.50047  0.71970  0.11389  1.0000
+  Se  Se4       1.0  0.49954  0.28030  0.88611  1.0000
+  S   S1        1.0  0.97360  0.66892  0.13446  1.0000
+  S   S2        1.0  0.02640  0.33108  0.86554  1.0000
+  S   S3        1.0  0.99518  0.26821  0.34367  1.0000
+  S   S4        1.0  0.00482  0.73179  0.65633  1.0000

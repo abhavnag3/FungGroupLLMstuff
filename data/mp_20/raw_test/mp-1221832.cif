@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       MnCdCu4Sn2Se8
+_chemical_formula_sum              "Mn1 Cd1 Cu4 Sn2 Se8"
+_cell_length_a       7.11589
+_cell_length_b       7.11589
+_cell_length_c       11.6887
+_cell_angle_alpha    65.812
+_cell_angle_beta     65.812
+_cell_angle_gamma    48.5126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.99987  0.00014  0.00000  1.0000
+  Cd  Cd1       1.0  0.99978  0.00022  0.50000  1.0000
+  Cu  Cu1       1.0  0.75029  0.74879  0.87574  1.0000
+  Cu  Cu2       1.0  0.74960  0.75128  0.37432  1.0000
+  Cu  Cu3       1.0  0.25121  0.24971  0.12426  1.0000
+  Cu  Cu4       1.0  0.24872  0.25040  0.62568  1.0000
+  Sn  Sn1       1.0  0.49978  0.50014  0.75182  1.0000
+  Sn  Sn2       1.0  0.49987  0.50022  0.24818  1.0000
+  Se  Se1       1.0  0.60240  0.11262  0.69927  1.0000
+  Se  Se2       1.0  0.62098  0.10774  0.18928  1.0000
+  Se  Se3       1.0  0.10741  0.62173  0.94597  1.0000
+  Se  Se4       1.0  0.11343  0.60125  0.44367  1.0000
+  Se  Se5       1.0  0.37827  0.89259  0.05403  1.0000
+  Se  Se6       1.0  0.39875  0.88657  0.55633  1.0000
+  Se  Se7       1.0  0.88738  0.39760  0.30073  1.0000
+  Se  Se8       1.0  0.89226  0.37903  0.81072  1.0000

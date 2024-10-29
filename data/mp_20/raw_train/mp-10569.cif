@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb4Si4Ir4
+_chemical_formula_sum              "Yb4 Si4 Ir4"
+_cell_length_a       4.29491
+_cell_length_b       6.91846
+_cell_length_c       7.19021
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.25000  0.82736  0.50690  1.0000
+  Yb  Yb2       1.0  0.75000  0.32736  0.99310  1.0000
+  Yb  Yb3       1.0  0.25000  0.67264  0.00690  1.0000
+  Yb  Yb4       1.0  0.75000  0.17264  0.49310  1.0000
+  Si  Si1       1.0  0.75000  0.61156  0.31048  1.0000
+  Si  Si2       1.0  0.75000  0.88844  0.81048  1.0000
+  Si  Si3       1.0  0.25000  0.38844  0.68952  1.0000
+  Si  Si4       1.0  0.25000  0.11156  0.18952  1.0000
+  Ir  Ir1       1.0  0.75000  0.92658  0.14814  1.0000
+  Ir  Ir2       1.0  0.75000  0.57342  0.64814  1.0000
+  Ir  Ir3       1.0  0.25000  0.42658  0.35186  1.0000
+  Ir  Ir4       1.0  0.25000  0.07342  0.85186  1.0000

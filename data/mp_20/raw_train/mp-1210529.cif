@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Er2Br12
+_chemical_formula_sum              "Na6 Er2 Br12"
+_cell_length_a       7.71672
+_cell_length_b       7.40004
+_cell_length_c       13.1183
+_cell_angle_alpha    55.7701
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.50000  0.50000  1.0000
+  Na  Na2       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na3       1.0  0.44084  0.24289  0.74363  1.0000
+  Na  Na4       1.0  0.55916  0.75711  0.25637  1.0000
+  Na  Na5       1.0  0.94084  0.75711  0.75637  1.0000
+  Na  Na6       1.0  0.05916  0.24289  0.24363  1.0000
+  Er  Er1       1.0  0.00000  0.00000  0.00000  1.0000
+  Er  Er2       1.0  0.50000  0.00000  0.50000  1.0000
+  Br  Br1       1.0  0.69671  0.90585  0.92265  1.0000
+  Br  Br2       1.0  0.30329  0.09415  0.07735  1.0000
+  Br  Br3       1.0  0.19671  0.09415  0.57735  1.0000
+  Br  Br4       1.0  0.80329  0.90586  0.42265  1.0000
+  Br  Br5       1.0  0.06237  0.37018  0.76091  1.0000
+  Br  Br6       1.0  0.93763  0.62982  0.23909  1.0000
+  Br  Br7       1.0  0.56237  0.62982  0.73909  1.0000
+  Br  Br8       1.0  0.43763  0.37018  0.26091  1.0000
+  Br  Br9       1.0  0.17900  0.75104  0.93727  1.0000
+  Br  Br10      1.0  0.82100  0.24896  0.06273  1.0000
+  Br  Br11      1.0  0.67900  0.24896  0.56273  1.0000
+  Br  Br12      1.0  0.32100  0.75104  0.43727  1.0000

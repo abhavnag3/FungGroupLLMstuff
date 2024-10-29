@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4Li2V2O8
+_chemical_formula_sum              "Cs4 Li2 V2 O8"
+_cell_length_a       6.97663
+_cell_length_b       6.97663
+_cell_length_c       8.3338
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    127.86
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.39310  0.60690  0.54247  1.0000
+  Cs  Cs2       1.0  0.60690  0.39310  0.04247  1.0000
+  Cs  Cs3       1.0  0.07218  0.92782  0.41183  1.0000
+  Cs  Cs4       1.0  0.92782  0.07218  0.91183  1.0000
+  Li  Li1       1.0  0.20420  0.79580  0.82326  1.0000
+  Li  Li2       1.0  0.79580  0.20420  0.32326  1.0000
+  V   V1        1.0  0.70012  0.29988  0.60452  1.0000
+  V   V2        1.0  0.29988  0.70012  0.10452  1.0000
+  O   O1        1.0  0.10103  0.42922  0.21039  1.0000
+  O   O2        1.0  0.89897  0.57078  0.71039  1.0000
+  O   O3        1.0  0.36047  0.63953  0.91561  1.0000
+  O   O4        1.0  0.63953  0.36047  0.41561  1.0000
+  O   O5        1.0  0.57078  0.89897  0.21039  1.0000
+  O   O6        1.0  0.42922  0.10103  0.71039  1.0000
+  O   O7        1.0  0.83705  0.16295  0.56052  1.0000
+  O   O8        1.0  0.16295  0.83705  0.06052  1.0000

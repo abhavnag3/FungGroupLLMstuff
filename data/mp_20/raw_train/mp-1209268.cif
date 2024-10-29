@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Rb2Er2Be2F12
+_chemical_formula_sum              "Rb2 Er2 Be2 F12"
+_cell_length_a       5.85754
+_cell_length_b       6.52466
+_cell_length_c       7.18261
+_cell_angle_alpha    66.3383
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.25000  0.07694  0.79044  1.0000
+  Rb  Rb2       1.0  0.75000  0.92306  0.20956  1.0000
+  Er  Er1       1.0  0.25000  0.39070  0.17977  1.0000
+  Er  Er2       1.0  0.75000  0.60930  0.82023  1.0000
+  Be  Be1       1.0  0.25000  0.76599  0.46472  1.0000
+  Be  Be2       1.0  0.75000  0.23401  0.53527  1.0000
+  F   F1        1.0  0.46599  0.76043  0.59669  1.0000
+  F   F2        1.0  0.53401  0.23957  0.40331  1.0000
+  F   F3        1.0  0.96599  0.23957  0.40331  1.0000
+  F   F4        1.0  0.03401  0.76043  0.59669  1.0000
+  F   F5        1.0  0.25000  0.56595  0.40048  1.0000
+  F   F6        1.0  0.75000  0.43406  0.59952  1.0000
+  F   F7        1.0  0.49920  0.67288  0.03217  1.0000
+  F   F8        1.0  0.50080  0.32712  0.96783  1.0000
+  F   F9        1.0  0.99920  0.32712  0.96783  1.0000
+  F   F10       1.0  0.00080  0.67288  0.03217  1.0000
+  F   F11       1.0  0.25000  0.99276  0.26900  1.0000
+  F   F12       1.0  0.75000  0.00724  0.73099  1.0000

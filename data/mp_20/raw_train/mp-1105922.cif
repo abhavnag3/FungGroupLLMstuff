@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba4Dy2Ga2Te10
+_chemical_formula_sum              "Ba4 Dy2 Ga2 Te10"
+_cell_length_a       10.4528
+_cell_length_b       10.4528
+_cell_length_c       14.3182
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    155.034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.12710  0.87290  0.82073  1.0000
+  Ba  Ba2       1.0  0.87290  0.12710  0.32073  1.0000
+  Ba  Ba3       1.0  0.12111  0.87889  0.18231  1.0000
+  Ba  Ba4       1.0  0.87889  0.12111  0.68231  1.0000
+  Dy  Dy1       1.0  0.20481  0.79519  0.52023  1.0000
+  Dy  Dy2       1.0  0.79519  0.20481  0.02023  1.0000
+  Ga  Ga1       1.0  0.44056  0.55944  0.92349  1.0000
+  Ga  Ga2       1.0  0.55944  0.44056  0.42349  1.0000
+  Te  Te1       1.0  0.35191  0.64809  0.50287  1.0000
+  Te  Te2       1.0  0.64809  0.35191  0.00287  1.0000
+  Te  Te3       1.0  0.29637  0.70363  0.16432  1.0000
+  Te  Te4       1.0  0.70363  0.29637  0.66432  1.0000
+  Te  Te5       1.0  0.31289  0.68712  0.86651  1.0000
+  Te  Te6       1.0  0.68711  0.31289  0.36651  1.0000
+  Te  Te7       1.0  0.50156  0.49844  0.76305  1.0000
+  Te  Te8       1.0  0.49844  0.50156  0.26305  1.0000
+  Te  Te9       1.0  0.04502  0.95498  0.53164  1.0000
+  Te  Te10      1.0  0.95498  0.04502  0.03164  1.0000

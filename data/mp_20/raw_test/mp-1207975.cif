@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tm12Os4
+_chemical_formula_sum              "Tm12 Os4"
+_cell_length_a       7.33738
+_cell_length_b       8.92905
+_cell_length_c       6.21902
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.04027  0.25000  0.63188  1.0000
+  Tm  Tm2       1.0  0.95973  0.75000  0.36812  1.0000
+  Tm  Tm3       1.0  0.45973  0.75000  0.13188  1.0000
+  Tm  Tm4       1.0  0.54027  0.25000  0.86812  1.0000
+  Tm  Tm5       1.0  0.17504  0.06230  0.16753  1.0000
+  Tm  Tm6       1.0  0.82496  0.93770  0.83247  1.0000
+  Tm  Tm7       1.0  0.32496  0.93770  0.66753  1.0000
+  Tm  Tm8       1.0  0.82496  0.56230  0.83247  1.0000
+  Tm  Tm9       1.0  0.67504  0.06230  0.33247  1.0000
+  Tm  Tm10      1.0  0.17504  0.43770  0.16753  1.0000
+  Tm  Tm11      1.0  0.67504  0.43770  0.33247  1.0000
+  Tm  Tm12      1.0  0.32496  0.56230  0.66753  1.0000
+  Os  Os1       1.0  0.38272  0.25000  0.46058  1.0000
+  Os  Os2       1.0  0.61728  0.75000  0.53942  1.0000
+  Os  Os3       1.0  0.11728  0.75000  0.96058  1.0000
+  Os  Os4       1.0  0.88272  0.25000  0.03942  1.0000

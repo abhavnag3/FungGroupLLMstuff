@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       VCr2Te4
+_chemical_formula_sum              "V1 Cr2 Te4"
+_cell_length_a       7.27234
+_cell_length_b       7.27234
+_cell_length_c       6.99063
+_cell_angle_alpha    62.5044
+_cell_angle_beta     62.5044
+_cell_angle_gamma    31.9742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr1       1.0  0.74044  0.74044  0.27692  1.0000
+  Cr  Cr2       1.0  0.25956  0.25956  0.72308  1.0000
+  Te  Te1       1.0  0.87963  0.87963  0.45130  1.0000
+  Te  Te2       1.0  0.12037  0.12037  0.54870  1.0000
+  Te  Te3       1.0  0.63131  0.63132  0.02943  1.0000
+  Te  Te4       1.0  0.36868  0.36868  0.97057  1.0000

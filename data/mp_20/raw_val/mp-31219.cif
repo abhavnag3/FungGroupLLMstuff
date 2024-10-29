@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Si6W10
+_chemical_formula_sum              "Si6 W10"
+_cell_length_a       7.27988
+_cell_length_b       7.27988
+_cell_length_c       7.27988
+_cell_angle_alpha    96.7695
+_cell_angle_beta     96.7695
+_cell_angle_gamma    139.84
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.75000  0.75000  0.00000  1.0000
+  Si  Si2       1.0  0.25000  0.25000  0.00000  1.0000
+  Si  Si3       1.0  0.33200  0.16800  0.50000  1.0000
+  Si  Si4       1.0  0.83200  0.33200  0.16401  1.0000
+  Si  Si5       1.0  0.16800  0.66800  0.83599  1.0000
+  Si  Si6       1.0  0.66800  0.83200  0.50000  1.0000
+  W   W1        1.0  0.72398  0.57503  0.29902  1.0000
+  W   W2        1.0  0.27602  0.42496  0.70098  1.0000
+  W   W3        1.0  0.75000  0.25000  0.50000  1.0000
+  W   W4        1.0  0.25000  0.75000  0.50000  1.0000
+  W   W5        1.0  0.57503  0.27602  0.85105  1.0000
+  W   W6        1.0  0.42497  0.72398  0.14895  1.0000
+  W   W7        1.0  0.77602  0.07504  0.85105  1.0000
+  W   W8        1.0  0.92497  0.77602  0.70098  1.0000
+  W   W9        1.0  0.07503  0.22398  0.29902  1.0000
+  W   W10       1.0  0.22398  0.92497  0.14895  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2Pr4Ir2O12
+_chemical_formula_sum              "Li2 Pr4 Ir2 O12"
+_cell_length_a       5.83676
+_cell_length_b       5.48859
+_cell_length_c       9.52792
+_cell_angle_alpha    55.3524
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  Li  Li2       1.0  0.50000  0.00000  0.50000  1.0000
+  Pr  Pr1       1.0  0.07026  0.76852  0.74824  1.0000
+  Pr  Pr2       1.0  0.57026  0.23148  0.75176  1.0000
+  Pr  Pr3       1.0  0.42974  0.76852  0.24824  1.0000
+  Pr  Pr4       1.0  0.92974  0.23148  0.25176  1.0000
+  Ir  Ir1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ir  Ir2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.28706  0.26713  0.55058  1.0000
+  O   O2        1.0  0.78706  0.73287  0.94942  1.0000
+  O   O3        1.0  0.71294  0.73287  0.44943  1.0000
+  O   O4        1.0  0.21294  0.26713  0.05058  1.0000
+  O   O5        1.0  0.02665  0.65234  0.25435  1.0000
+  O   O6        1.0  0.52665  0.34766  0.24565  1.0000
+  O   O7        1.0  0.31076  0.84357  0.95339  1.0000
+  O   O8        1.0  0.81076  0.15643  0.54661  1.0000
+  O   O9        1.0  0.68924  0.15643  0.04661  1.0000
+  O   O10       1.0  0.18924  0.84357  0.45339  1.0000
+  O   O11       1.0  0.47335  0.65234  0.75435  1.0000
+  O   O12       1.0  0.97335  0.34766  0.74565  1.0000

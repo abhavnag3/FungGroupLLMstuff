@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       NaGe6As6
+_chemical_formula_sum              "Na1 Ge6 As6"
+_cell_length_a       11.4683
+_cell_length_b       11.4683
+_cell_length_c       7.34268
+_cell_angle_alpha    87.2005
+_cell_angle_beta     87.2005
+_cell_angle_gamma    19.5214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.05373  0.05373  0.53162  1.0000
+  Ge  Ge2       1.0  0.94627  0.94627  0.46838  1.0000
+  Ge  Ge3       1.0  0.31932  0.31932  0.67023  1.0000
+  Ge  Ge4       1.0  0.68068  0.68068  0.32977  1.0000
+  Ge  Ge5       1.0  0.32010  0.32010  0.32421  1.0000
+  Ge  Ge6       1.0  0.67990  0.67990  0.67579  1.0000
+  As  As1       1.0  0.11777  0.11777  0.23765  1.0000
+  As  As2       1.0  0.88223  0.88223  0.76235  1.0000
+  As  As3       1.0  0.22067  0.22067  0.84588  1.0000
+  As  As4       1.0  0.77933  0.77933  0.15412  1.0000
+  As  As5       1.0  0.57127  0.57127  0.74164  1.0000
+  As  As6       1.0  0.42873  0.42873  0.25836  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2La4Ru2O12
+_chemical_formula_sum              "Na2 La4 Ru2 O12"
+_cell_length_a       6.01683
+_cell_length_b       5.63977
+_cell_length_c       9.81771
+_cell_angle_alpha    55.5748
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Na  Na2       1.0  0.50000  0.00000  0.50000  1.0000
+  La  La1       1.0  0.43239  0.77148  0.24659  1.0000
+  La  La2       1.0  0.93239  0.22852  0.25341  1.0000
+  La  La3       1.0  0.56761  0.22852  0.75341  1.0000
+  La  La4       1.0  0.06761  0.77148  0.74659  1.0000
+  Ru  Ru1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ru  Ru2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.72166  0.73331  0.43259  1.0000
+  O   O2        1.0  0.22165  0.26669  0.06741  1.0000
+  O   O3        1.0  0.27835  0.26669  0.56741  1.0000
+  O   O4        1.0  0.77834  0.73331  0.93259  1.0000
+  O   O5        1.0  0.04899  0.61441  0.27038  1.0000
+  O   O6        1.0  0.54899  0.38559  0.22962  1.0000
+  O   O7        1.0  0.95101  0.38559  0.72962  1.0000
+  O   O8        1.0  0.45101  0.61441  0.77038  1.0000
+  O   O9        1.0  0.32659  0.83977  0.94914  1.0000
+  O   O10       1.0  0.82659  0.16023  0.55086  1.0000
+  O   O11       1.0  0.67341  0.16023  0.05086  1.0000
+  O   O12       1.0  0.17341  0.83977  0.44914  1.0000

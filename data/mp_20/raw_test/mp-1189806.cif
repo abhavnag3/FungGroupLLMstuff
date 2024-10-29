@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Yb4Cu2Ge12
+_chemical_formula_sum              "Yb4 Cu2 Ge12"
+_cell_length_a       5.78523
+_cell_length_b       5.78523
+_cell_length_c       10.9673
+_cell_angle_alpha    82.7695
+_cell_angle_beta     82.7695
+_cell_angle_gamma    91.5294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.33402  0.83438  0.66343  1.0000
+  Yb  Yb2       1.0  0.83438  0.33402  0.66343  1.0000
+  Yb  Yb3       1.0  0.66598  0.16562  0.33657  1.0000
+  Yb  Yb4       1.0  0.16562  0.66598  0.33657  1.0000
+  Cu  Cu1       1.0  0.30238  0.30238  0.78665  1.0000
+  Cu  Cu2       1.0  0.69762  0.69762  0.21335  1.0000
+  Ge  Ge1       1.0  0.00086  0.00086  0.88422  1.0000
+  Ge  Ge2       1.0  0.99914  0.99914  0.11578  1.0000
+  Ge  Ge3       1.0  0.55677  0.55677  0.88409  1.0000
+  Ge  Ge4       1.0  0.44323  0.44323  0.11591  1.0000
+  Ge  Ge5       1.0  0.85926  0.85926  0.58012  1.0000
+  Ge  Ge6       1.0  0.14074  0.14074  0.41988  1.0000
+  Ge  Ge7       1.0  0.35535  0.35535  0.56123  1.0000
+  Ge  Ge8       1.0  0.64465  0.64465  0.43877  1.0000
+  Ge  Ge9       1.0  0.55476  0.00272  0.88478  1.0000
+  Ge  Ge10      1.0  0.00272  0.55476  0.88478  1.0000
+  Ge  Ge11      1.0  0.44524  0.99728  0.11522  1.0000
+  Ge  Ge12      1.0  0.99728  0.44524  0.11522  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al3GaN4
+_chemical_formula_sum              "Al3 Ga1 N4"
+_cell_length_a       3.14859
+_cell_length_b       5.07768
+_cell_length_c       5.45159
+_cell_angle_alpha    89.9661
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.50000  0.49979  0.83271  1.0000
+  Al  Al2       1.0  0.50000  0.00086  0.16494  1.0000
+  Al  Al3       1.0  0.00000  0.00073  0.66856  1.0000
+  Ga  Ga1       1.0  0.00000  0.49994  0.33368  1.0000
+  N   N1        1.0  0.00000  0.11052  0.33378  1.0000
+  N   N2        1.0  0.50000  0.12260  0.83285  1.0000
+  N   N3        1.0  0.50000  0.62586  0.15892  1.0000
+  N   N4        1.0  0.00000  0.62331  0.67456  1.0000

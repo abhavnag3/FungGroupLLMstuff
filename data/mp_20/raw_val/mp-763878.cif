@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li2Mn4O4F6
+_chemical_formula_sum              "Li2 Mn4 O4 F6"
+_cell_length_a       5.31337
+_cell_length_b       5.31337
+_cell_length_c       9.99362
+_cell_angle_alpha    89.3744
+_cell_angle_beta     89.3744
+_cell_angle_gamma    44.8024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.86334  0.86334  0.06014  1.0000
+  Li  Li2       1.0  0.13666  0.13666  0.93985  1.0000
+  Mn  Mn1       1.0  0.85960  0.85960  0.44230  1.0000
+  Mn  Mn2       1.0  0.81599  0.81599  0.74938  1.0000
+  Mn  Mn3       1.0  0.18401  0.18401  0.25062  1.0000
+  Mn  Mn4       1.0  0.14040  0.14040  0.55770  1.0000
+  O   O1        1.0  0.95268  0.95268  0.61417  1.0000
+  O   O2        1.0  0.31061  0.31061  0.42458  1.0000
+  O   O3        1.0  0.68939  0.68939  0.57542  1.0000
+  O   O4        1.0  0.04732  0.04732  0.38583  1.0000
+  F   F1        1.0  0.95347  0.95347  0.88138  1.0000
+  F   F2        1.0  0.31297  0.31297  0.09384  1.0000
+  F   F3        1.0  0.76339  0.76339  0.26082  1.0000
+  F   F4        1.0  0.23661  0.23661  0.73918  1.0000
+  F   F5        1.0  0.68703  0.68703  0.90616  1.0000
+  F   F6        1.0  0.04653  0.04653  0.11862  1.0000

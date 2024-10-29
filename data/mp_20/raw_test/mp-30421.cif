@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Sr9Au6
+_chemical_formula_sum              "Sr9 Au6"
+_cell_length_a       8.3774
+_cell_length_b       8.3774
+_cell_length_c       8.3774
+_cell_angle_alpha    71.2845
+_cell_angle_beta     71.2845
+_cell_angle_gamma    71.2845
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.89354  0.16862  0.65812  1.0000
+  Sr  Sr2       1.0  0.65812  0.89354  0.16862  1.0000
+  Sr  Sr3       1.0  0.16862  0.65812  0.89354  1.0000
+  Sr  Sr4       1.0  0.10646  0.83138  0.34188  1.0000
+  Sr  Sr5       1.0  0.34188  0.10646  0.83138  1.0000
+  Sr  Sr6       1.0  0.83138  0.34188  0.10646  1.0000
+  Sr  Sr7       1.0  0.50000  0.50000  0.50000  1.0000
+  Sr  Sr8       1.0  0.29804  0.29804  0.29804  1.0000
+  Sr  Sr9       1.0  0.70196  0.70196  0.70196  1.0000
+  Au  Au1       1.0  0.90799  0.54373  0.34634  1.0000
+  Au  Au2       1.0  0.34634  0.90799  0.54373  1.0000
+  Au  Au3       1.0  0.54373  0.34634  0.90799  1.0000
+  Au  Au4       1.0  0.09201  0.45627  0.65366  1.0000
+  Au  Au5       1.0  0.65366  0.09201  0.45627  1.0000
+  Au  Au6       1.0  0.45627  0.65366  0.09201  1.0000

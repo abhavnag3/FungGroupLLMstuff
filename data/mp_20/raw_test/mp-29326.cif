@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       La3Re2O10
+_chemical_formula_sum              "La3 Re2 O10"
+_cell_length_a       5.59232
+_cell_length_b       5.59232
+_cell_length_c       7.22979
+_cell_angle_alpha    72.6887
+_cell_angle_beta     72.6887
+_cell_angle_gamma    89.499
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.25692  0.74308  0.50000  1.0000
+  La  La2       1.0  0.74308  0.25692  0.50000  1.0000
+  La  La3       1.0  0.00000  0.00000  0.00000  1.0000
+  Re  Re1       1.0  0.63332  0.63332  0.82534  1.0000
+  Re  Re2       1.0  0.36668  0.36668  0.17466  1.0000
+  O   O1        1.0  0.66653  0.66653  0.53121  1.0000
+  O   O2        1.0  0.33347  0.33347  0.46879  1.0000
+  O   O3        1.0  0.12946  0.60491  0.21253  1.0000
+  O   O4        1.0  0.39509  0.87055  0.78747  1.0000
+  O   O5        1.0  0.87055  0.39509  0.78747  1.0000
+  O   O6        1.0  0.35105  0.35105  0.90736  1.0000
+  O   O7        1.0  0.64895  0.64895  0.09265  1.0000
+  O   O8        1.0  0.09516  0.09516  0.28159  1.0000
+  O   O9        1.0  0.90484  0.90484  0.71841  1.0000
+  O   O10       1.0  0.60491  0.12945  0.21253  1.0000

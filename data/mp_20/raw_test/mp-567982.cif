@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta4Sn8
+_chemical_formula_sum              "Ta4 Sn8"
+_cell_length_a       10.8714
+_cell_length_b       10.0922
+_cell_length_c       5.71066
+_cell_angle_alpha    81.8826
+_cell_angle_beta     66.7832
+_cell_angle_gamma    31.3341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.37295  0.37295  0.62705  1.0000
+  Ta  Ta2       1.0  0.62295  0.62295  0.87705  1.0000
+  Ta  Ta3       1.0  0.87705  0.87705  0.62295  1.0000
+  Ta  Ta4       1.0  0.62705  0.62705  0.37295  1.0000
+  Sn  Sn1       1.0  0.91823  0.58177  0.91823  1.0000
+  Sn  Sn2       1.0  0.66823  0.33177  0.66823  1.0000
+  Sn  Sn3       1.0  0.33154  0.33154  0.16846  1.0000
+  Sn  Sn4       1.0  0.58177  0.91823  0.58177  1.0000
+  Sn  Sn5       1.0  0.08154  0.08154  0.91846  1.0000
+  Sn  Sn6       1.0  0.16846  0.16846  0.33154  1.0000
+  Sn  Sn7       1.0  0.33177  0.66823  0.33177  1.0000
+  Sn  Sn8       1.0  0.91846  0.91846  0.08154  1.0000

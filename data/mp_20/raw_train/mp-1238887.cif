@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ti2Cr2Cu2S8
+_chemical_formula_sum              "Ti2 Cr2 Cu2 S8"
+_cell_length_a       7.04038
+_cell_length_b       7.04038
+_cell_length_c       7.04038
+_cell_angle_alpha    120.916
+_cell_angle_beta     118.966
+_cell_angle_gamma    90.1104
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.00926  0.76494  0.25567  1.0000
+  Ti  Ti2       1.0  0.99074  0.24641  0.75567  1.0000
+  Cr  Cr1       1.0  0.00000  0.24797  0.24796  1.0000
+  Cr  Cr2       1.0  0.50000  0.24797  0.74796  1.0000
+  Cu  Cu1       1.0  0.62111  0.61155  0.49044  1.0000
+  Cu  Cu2       1.0  0.37889  0.86933  0.99044  1.0000
+  S   S1        1.0  0.24882  0.00961  0.26079  1.0000
+  S   S2        1.0  0.76573  0.00916  0.26338  1.0000
+  S   S3        1.0  0.24577  0.00916  0.74343  1.0000
+  S   S4        1.0  0.24190  0.47180  0.72990  1.0000
+  S   S5        1.0  0.75810  0.48800  0.22990  1.0000
+  S   S6        1.0  0.75118  0.01196  0.76079  1.0000
+  S   S7        1.0  0.75423  0.49765  0.76338  1.0000
+  S   S8        1.0  0.23427  0.49765  0.24343  1.0000

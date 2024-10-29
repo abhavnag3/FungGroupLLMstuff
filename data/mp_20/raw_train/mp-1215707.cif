@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zr10CrSb5
+_chemical_formula_sum              "Zr10 Cr1 Sb5"
+_cell_length_a       5.58345
+_cell_length_b       8.41892
+_cell_length_c       8.41892
+_cell_angle_alpha    96.313
+_cell_angle_beta     109.366
+_cell_angle_gamma    70.634
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.41131  0.86355  0.70982  1.0000
+  Zr  Zr2       1.0  0.56504  0.13645  0.29018  1.0000
+  Zr  Zr3       1.0  0.93496  0.29018  0.13645  1.0000
+  Zr  Zr4       1.0  0.08869  0.70982  0.86355  1.0000
+  Zr  Zr5       1.0  0.70149  0.70982  0.13645  1.0000
+  Zr  Zr6       1.0  0.27486  0.29018  0.86355  1.0000
+  Zr  Zr7       1.0  0.79851  0.13645  0.70982  1.0000
+  Zr  Zr8       1.0  0.22514  0.86355  0.29018  1.0000
+  Zr  Zr9       1.0  0.25000  0.50000  0.50000  1.0000
+  Zr  Zr10      1.0  0.75000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.25000  0.00000  0.00000  1.0000
+  Sb  Sb1       1.0  0.33679  0.50000  0.17359  1.0000
+  Sb  Sb2       1.0  0.66321  0.50000  0.82641  1.0000
+  Sb  Sb3       1.0  0.83679  0.82641  0.50000  1.0000
+  Sb  Sb4       1.0  0.16321  0.17359  0.50000  1.0000
+  Sb  Sb5       1.0  0.75000  0.00000  0.00000  1.0000

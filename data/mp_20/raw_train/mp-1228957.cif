@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       CsLa2TaTi2O10
+_chemical_formula_sum              "Cs1 La2 Ta1 Ti2 O10"
+_cell_length_a       3.89483
+_cell_length_b       3.89483
+_cell_length_c       15.7105
+_cell_angle_alpha    89.5713
+_cell_angle_beta     90.4287
+_cell_angle_gamma    90.0664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.49995  0.50005  0.50771  1.0000
+  La  La1       1.0  0.50739  0.49261  0.84571  1.0000
+  La  La2       1.0  0.49953  0.50047  0.12793  1.0000
+  Ta  Ta1       1.0  0.99972  0.00028  0.27804  1.0000
+  Ti  Ti1       1.0  0.98423  0.01578  0.99848  1.0000
+  Ti  Ti2       1.0  0.00041  0.99959  0.71554  1.0000
+  O   O1        1.0  0.98660  0.01340  0.88000  1.0000
+  O   O2        1.0  0.98498  0.01502  0.12881  1.0000
+  O   O3        1.0  0.99884  0.00116  0.60786  1.0000
+  O   O4        1.0  0.00223  0.99777  0.39209  1.0000
+  O   O5        1.0  0.49876  0.99943  0.75146  1.0000
+  O   O6        1.0  0.00057  0.50124  0.75146  1.0000
+  O   O7        1.0  0.49711  0.00357  0.24844  1.0000
+  O   O8        1.0  0.99643  0.50289  0.24844  1.0000
+  O   O9        1.0  0.47615  0.04189  0.00902  1.0000
+  O   O10       1.0  0.95811  0.52385  0.00902  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca4Mg4Pd4
+_chemical_formula_sum              "Ca4 Mg4 Pd4"
+_cell_length_a       4.33441
+_cell_length_b       7.39534
+_cell_length_c       8.55325
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.25000  0.02973  0.32452  1.0000
+  Ca  Ca2       1.0  0.25000  0.52973  0.17548  1.0000
+  Ca  Ca3       1.0  0.75000  0.97027  0.67548  1.0000
+  Ca  Ca4       1.0  0.75000  0.47027  0.82452  1.0000
+  Mg  Mg1       1.0  0.25000  0.14050  0.93783  1.0000
+  Mg  Mg2       1.0  0.25000  0.64050  0.56217  1.0000
+  Mg  Mg3       1.0  0.75000  0.85950  0.06216  1.0000
+  Mg  Mg4       1.0  0.75000  0.35950  0.43783  1.0000
+  Pd  Pd1       1.0  0.25000  0.27139  0.62552  1.0000
+  Pd  Pd2       1.0  0.25000  0.77139  0.87448  1.0000
+  Pd  Pd3       1.0  0.75000  0.72861  0.37448  1.0000
+  Pd  Pd4       1.0  0.75000  0.22861  0.12552  1.0000

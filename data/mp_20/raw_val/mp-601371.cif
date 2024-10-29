@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Gd4Si4
+_chemical_formula_sum              "Gd4 Si4"
+_cell_length_a       3.89651
+_cell_length_b       5.73067
+_cell_length_c       7.99082
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.25000  0.11439  0.68055  1.0000
+  Gd  Gd2       1.0  0.75000  0.61439  0.81945  1.0000
+  Gd  Gd3       1.0  0.75000  0.88561  0.31945  1.0000
+  Gd  Gd4       1.0  0.25000  0.38561  0.18055  1.0000
+  Si  Si1       1.0  0.25000  0.62332  0.53555  1.0000
+  Si  Si2       1.0  0.25000  0.87668  0.03555  1.0000
+  Si  Si3       1.0  0.75000  0.37668  0.46445  1.0000
+  Si  Si4       1.0  0.75000  0.12332  0.96445  1.0000

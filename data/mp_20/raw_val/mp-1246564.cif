@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cr2Co4N6
+_chemical_formula_sum              "Cr2 Co4 N6"
+_cell_length_a       5.09692
+_cell_length_b       5.09585
+_cell_length_c       5.15729
+_cell_angle_alpha    90.004
+_cell_angle_beta     89.9983
+_cell_angle_gamma    119.987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.99999  0.83719  0.94068  1.0000
+  Cr  Cr2       1.0  0.99999  0.16276  0.44066  1.0000
+  Co  Co1       1.0  0.31271  0.83107  0.49396  1.0000
+  Co  Co2       1.0  0.68727  0.51835  0.49397  1.0000
+  Co  Co3       1.0  0.68731  0.16886  0.99400  1.0000
+  Co  Co4       1.0  0.31275  0.48160  0.99391  1.0000
+  N   N1        1.0  0.34462  0.83545  0.85682  1.0000
+  N   N2        1.0  0.65536  0.49084  0.85685  1.0000
+  N   N3        1.0  0.65536  0.16464  0.35688  1.0000
+  N   N4        1.0  0.34463  0.50926  0.35684  1.0000
+  N   N5        1.0  0.99999  0.82920  0.30210  1.0000
+  N   N6        1.0  0.00002  0.17078  0.80209  1.0000

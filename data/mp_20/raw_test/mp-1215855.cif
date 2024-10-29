@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zr10NiSnSb4
+_chemical_formula_sum              "Zr10 Ni1 Sn1 Sb4"
+_cell_length_a       5.56074
+_cell_length_b       8.38364
+_cell_length_c       8.38364
+_cell_angle_alpha    96.3145
+_cell_angle_beta     109.368
+_cell_angle_gamma    70.6315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.43256  0.86035  0.70703  1.0000
+  Zr  Zr2       1.0  0.58589  0.13965  0.29297  1.0000
+  Zr  Zr3       1.0  0.91411  0.29297  0.13965  1.0000
+  Zr  Zr4       1.0  0.06744  0.70703  0.86035  1.0000
+  Zr  Zr5       1.0  0.72554  0.70703  0.13965  1.0000
+  Zr  Zr6       1.0  0.29291  0.29297  0.86035  1.0000
+  Zr  Zr7       1.0  0.77446  0.13965  0.70703  1.0000
+  Zr  Zr8       1.0  0.20709  0.86035  0.29297  1.0000
+  Zr  Zr9       1.0  0.25000  0.50000  0.50000  1.0000
+  Zr  Zr10      1.0  0.75000  0.50000  0.50000  1.0000
+  Ni  Ni1       1.0  0.75000  0.00000  0.00000  1.0000
+  Sn  Sn1       1.0  0.25000  0.00000  0.00000  1.0000
+  Sb  Sb1       1.0  0.33628  0.50000  0.17257  1.0000
+  Sb  Sb2       1.0  0.66372  0.50000  0.82743  1.0000
+  Sb  Sb3       1.0  0.83628  0.82743  0.50000  1.0000
+  Sb  Sb4       1.0  0.16372  0.17257  0.50000  1.0000

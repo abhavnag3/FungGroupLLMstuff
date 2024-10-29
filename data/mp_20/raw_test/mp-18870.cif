@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Mn3Cd2O8
+_chemical_formula_sum              "Mn3 Cd2 O8"
+_cell_length_a       5.04139
+_cell_length_b       5.93192
+_cell_length_c       6.20422
+_cell_angle_alpha    118.558
+_cell_angle_beta     106.34
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50000  1.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.74258  1.00000  1.0000
+  Mn  Mn3       1.0  0.00000  0.25743  0.00000  1.0000
+  Cd  Cd1       1.0  0.65692  0.71945  0.43890  1.0000
+  Cd  Cd2       1.0  0.34308  0.28055  0.56110  1.0000
+  O   O1        1.0  0.04896  0.39634  0.79268  1.0000
+  O   O2        1.0  0.95104  0.60366  0.20732  1.0000
+  O   O3        1.0  0.10024  0.90307  0.80613  1.0000
+  O   O4        1.0  0.89976  0.09693  0.19387  1.0000
+  O   O5        1.0  0.38692  0.32512  0.20689  1.0000
+  O   O6        1.0  0.38692  0.88177  0.20689  1.0000
+  O   O7        1.0  0.61308  0.11823  0.79311  1.0000
+  O   O8        1.0  0.61308  0.67488  0.79311  1.0000

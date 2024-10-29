@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K4Ba2As10
+_chemical_formula_sum              "K4 Ba2 As10"
+_cell_length_a       6.68611
+_cell_length_b       6.68611
+_cell_length_c       11.8619
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    107.387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.76135  0.23866  0.85229  1.0000
+  K   K2        1.0  0.23866  0.76135  0.35229  1.0000
+  K   K3        1.0  0.85797  0.14203  0.22735  1.0000
+  K   K4        1.0  0.14203  0.85797  0.72735  1.0000
+  Ba  Ba1       1.0  0.60598  0.39402  0.52656  1.0000
+  Ba  Ba2       1.0  0.39402  0.60598  0.02656  1.0000
+  As  As1       1.0  0.30049  0.38960  0.75683  1.0000
+  As  As2       1.0  0.69951  0.61040  0.25683  1.0000
+  As  As3       1.0  0.38960  0.30049  0.25683  1.0000
+  As  As4       1.0  0.61040  0.69951  0.75683  1.0000
+  As  As5       1.0  0.94074  0.05926  0.50880  1.0000
+  As  As6       1.0  0.05926  0.94074  0.00880  1.0000
+  As  As7       1.0  0.10458  0.41509  0.58313  1.0000
+  As  As8       1.0  0.89542  0.58491  0.08313  1.0000
+  As  As9       1.0  0.41509  0.10458  0.08313  1.0000
+  As  As10      1.0  0.58491  0.89542  0.58313  1.0000

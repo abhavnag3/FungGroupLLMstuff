@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Dy4CoSn8
+_chemical_formula_sum              "Dy4 Co1 Sn8"
+_cell_length_a       4.37825
+_cell_length_b       4.44953
+_cell_length_c       16.7421
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.25000  0.00000  0.09822  1.0000
+  Dy  Dy2       1.0  0.25000  0.50000  0.60132  1.0000
+  Dy  Dy3       1.0  0.75000  0.50000  0.39580  1.0000
+  Dy  Dy4       1.0  0.75000  0.00000  0.89968  1.0000
+  Co  Co1       1.0  0.25000  0.00000  0.30660  1.0000
+  Sn  Sn1       1.0  0.25000  0.00000  0.45296  1.0000
+  Sn  Sn2       1.0  0.25000  0.50000  0.93773  1.0000
+  Sn  Sn3       1.0  0.75000  0.50000  0.06221  1.0000
+  Sn  Sn4       1.0  0.75000  0.00000  0.57156  1.0000
+  Sn  Sn5       1.0  0.25000  0.50000  0.23695  1.0000
+  Sn  Sn6       1.0  0.25000  0.00000  0.74602  1.0000
+  Sn  Sn7       1.0  0.75000  0.00000  0.23735  1.0000
+  Sn  Sn8       1.0  0.75000  0.50000  0.75360  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca2W2O8
+_chemical_formula_sum              "Ca2 W2 O8"
+_cell_length_a       5.28815
+_cell_length_b       5.42477
+_cell_length_c       6.78807
+_cell_angle_alpha    112.513
+_cell_angle_beta     111.863
+_cell_angle_gamma    92.4564
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.37753  0.12753  0.75505  1.0000
+  Ca  Ca2       1.0  0.62247  0.87247  0.24495  1.0000
+  W   W1        1.0  0.86643  0.61643  0.73286  1.0000
+  W   W2        1.0  0.13357  0.38357  0.26714  1.0000
+  O   O1        1.0  0.28085  0.43890  0.08011  1.0000
+  O   O2        1.0  0.79926  0.14121  0.08011  1.0000
+  O   O3        1.0  0.71915  0.56110  0.91989  1.0000
+  O   O4        1.0  0.20074  0.85879  0.91989  1.0000
+  O   O5        1.0  0.62466  0.77327  0.56623  1.0000
+  O   O6        1.0  0.94157  0.29296  0.56623  1.0000
+  O   O7        1.0  0.37534  0.22673  0.43377  1.0000
+  O   O8        1.0  0.05843  0.70704  0.43377  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       NaZr2CuF11
+_chemical_formula_sum              "Na1 Zr2 Cu1 F11"
+_cell_length_a       5.56927
+_cell_length_b       5.88993
+_cell_length_c       7.76805
+_cell_angle_alpha    110.495
+_cell_angle_beta     96.1511
+_cell_angle_gamma    105.983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr1       1.0  0.48425  0.26795  0.76298  1.0000
+  Zr  Zr2       1.0  0.51576  0.73205  0.23702  1.0000
+  Cu  Cu1       1.0  0.00000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.24858  0.82209  0.11363  1.0000
+  F   F2        1.0  0.19056  0.94480  0.71780  1.0000
+  F   F3        1.0  0.75919  0.48371  0.65852  1.0000
+  F   F4        1.0  0.75142  0.17791  0.88637  1.0000
+  F   F5        1.0  0.34695  0.33923  0.02394  1.0000
+  F   F6        1.0  0.80944  0.05520  0.28220  1.0000
+  F   F7        1.0  0.77799  0.60006  0.34969  1.0000
+  F   F8        1.0  0.22201  0.39994  0.65031  1.0000
+  F   F9        1.0  0.24081  0.51629  0.34148  1.0000
+  F   F10       1.0  0.50000  0.00000  0.50000  1.0000
+  F   F11       1.0  0.65305  0.66077  0.97606  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K2W2Cl12
+_chemical_formula_sum              "K2 W2 Cl12"
+_cell_length_a       6.84022
+_cell_length_b       6.84022
+_cell_length_c       12.29
+_cell_angle_alpha    79.6377
+_cell_angle_beta     79.6377
+_cell_angle_gamma    55.8243
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.88194  0.11806  0.75000  1.0000
+  K   K2        1.0  0.11806  0.88194  0.25000  1.0000
+  W   W1        1.0  0.50000  0.00000  0.50000  1.0000
+  W   W2        1.0  0.00000  0.50000  0.00000  1.0000
+  Cl  Cl1       1.0  0.46156  0.69851  0.60381  1.0000
+  Cl  Cl2       1.0  0.53844  0.30149  0.39619  1.0000
+  Cl  Cl3       1.0  0.30149  0.53844  0.89619  1.0000
+  Cl  Cl4       1.0  0.69851  0.46156  0.10381  1.0000
+  Cl  Cl5       1.0  0.37235  0.20048  0.65962  1.0000
+  Cl  Cl6       1.0  0.62765  0.79952  0.34038  1.0000
+  Cl  Cl7       1.0  0.79952  0.62765  0.84038  1.0000
+  Cl  Cl8       1.0  0.20048  0.37235  0.15962  1.0000
+  Cl  Cl9       1.0  0.79743  0.89482  0.04056  1.0000
+  Cl  Cl10      1.0  0.20257  0.10517  0.95944  1.0000
+  Cl  Cl11      1.0  0.10518  0.20257  0.45944  1.0000
+  Cl  Cl12      1.0  0.89483  0.79743  0.54056  1.0000

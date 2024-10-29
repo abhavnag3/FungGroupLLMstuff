@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Zr3TiO12
+_chemical_formula_sum              "Sr4 Zr3 Ti1 O12"
+_cell_length_a       5.7964
+_cell_length_b       5.82519
+_cell_length_c       8.20686
+_cell_angle_alpha    90
+_cell_angle_beta     89.975
+_cell_angle_gamma    89.982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50618  0.02677  0.75826  1.0000
+  Sr  Sr2       1.0  0.99280  0.52276  0.75809  1.0000
+  Sr  Sr3       1.0  0.49382  0.97323  0.24174  1.0000
+  Sr  Sr4       1.0  0.00720  0.47724  0.24191  1.0000
+  Zr  Zr1       1.0  0.00000  0.00000  0.50000  1.0000
+  Zr  Zr2       1.0  0.50000  0.50000  0.50000  1.0000
+  Zr  Zr3       1.0  0.00000  0.00000  0.00000  1.0000
+  Ti  Ti1       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.43422  0.48729  0.75999  1.0000
+  O   O2        1.0  0.07360  0.98495  0.75113  1.0000
+  O   O3        1.0  0.56578  0.51271  0.24001  1.0000
+  O   O4        1.0  0.92640  0.01505  0.24887  1.0000
+  O   O5        1.0  0.72166  0.76335  0.96681  1.0000
+  O   O6        1.0  0.78816  0.28852  0.54135  1.0000
+  O   O7        1.0  0.28835  0.21228  0.45974  1.0000
+  O   O8        1.0  0.23740  0.72166  0.03357  1.0000
+  O   O9        1.0  0.27834  0.23665  0.03318  1.0000
+  O   O10       1.0  0.21184  0.71148  0.45865  1.0000
+  O   O11       1.0  0.71165  0.78772  0.54026  1.0000
+  O   O12       1.0  0.76260  0.27834  0.96643  1.0000

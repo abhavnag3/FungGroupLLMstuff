@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Co2As4O12
+_chemical_formula_sum              "Co2 As4 O12"
+_cell_length_a       4.86104
+_cell_length_b       4.86099
+_cell_length_c       9.11147
+_cell_angle_alpha    89.9998
+_cell_angle_beta     90.0004
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.00000  0.00000  0.50000  1.0000
+  Co  Co2       1.0  0.00000  0.00000  0.00000  1.0000
+  As  As1       1.0  0.33333  0.66666  0.25000  1.0000
+  As  As2       1.0  0.33333  0.66666  0.75000  1.0000
+  As  As3       1.0  0.66667  0.33333  0.25000  1.0000
+  As  As4       1.0  0.66667  0.33333  0.75000  1.0000
+  O   O1        1.0  0.36277  0.00000  0.13715  1.0000
+  O   O2        1.0  0.36277  0.00000  0.63716  1.0000
+  O   O3        1.0  0.36278  0.36277  0.36285  1.0000
+  O   O4        1.0  0.36278  0.36277  0.86285  1.0000
+  O   O5        1.0  0.00001  0.63723  0.36285  1.0000
+  O   O6        1.0  0.00001  0.63723  0.86285  1.0000
+  O   O7        1.0  0.63722  0.63723  0.13715  1.0000
+  O   O8        1.0  0.63722  0.63723  0.63715  1.0000
+  O   O9        1.0  0.63723  0.00000  0.36284  1.0000
+  O   O10       1.0  0.63723  0.00000  0.86284  1.0000
+  O   O11       1.0  0.99999  0.36277  0.13715  1.0000
+  O   O12       1.0  0.99999  0.36277  0.63715  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr6Ga2N6
+_chemical_formula_sum              "Sr6 Ga2 N6"
+_cell_length_a       7.62718
+_cell_length_b       7.62718
+_cell_length_c       5.44643
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.64224  0.71341  0.75000  1.0000
+  Sr  Sr2       1.0  0.92883  0.64224  0.25000  1.0000
+  Sr  Sr3       1.0  0.71341  0.07117  0.25000  1.0000
+  Sr  Sr4       1.0  0.28659  0.92883  0.75000  1.0000
+  Sr  Sr5       1.0  0.07117  0.35776  0.75000  1.0000
+  Sr  Sr6       1.0  0.35776  0.28659  0.25000  1.0000
+  Ga  Ga1       1.0  0.33333  0.66667  0.25000  1.0000
+  Ga  Ga2       1.0  0.66667  0.33333  0.75000  1.0000
+  N   N1        1.0  0.90491  0.59844  0.75000  1.0000
+  N   N2        1.0  0.30647  0.90491  0.25000  1.0000
+  N   N3        1.0  0.59844  0.69353  0.25000  1.0000
+  N   N4        1.0  0.40156  0.30647  0.75000  1.0000
+  N   N5        1.0  0.69353  0.09509  0.75000  1.0000
+  N   N6        1.0  0.09509  0.40156  0.25000  1.0000

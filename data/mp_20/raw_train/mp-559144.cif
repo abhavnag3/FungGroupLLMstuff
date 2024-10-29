@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ge2Pb6O10
+_chemical_formula_sum              "Ge2 Pb6 O10"
+_cell_length_a       10.6345
+_cell_length_b       5.39642
+_cell_length_c       5.61798
+_cell_angle_alpha    86.7195
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.24335  0.97615  0.45251  1.0000
+  Ge  Ge2       1.0  0.74335  0.02385  0.54749  1.0000
+  Pb  Pb1       1.0  0.00139  0.97545  0.95214  1.0000
+  Pb  Pb2       1.0  0.50139  0.02455  0.04786  1.0000
+  Pb  Pb3       1.0  0.74739  0.49541  0.01265  1.0000
+  Pb  Pb4       1.0  0.51653  0.51635  0.49882  1.0000
+  Pb  Pb5       1.0  0.01653  0.48365  0.50118  1.0000
+  Pb  Pb6       1.0  0.24739  0.50459  0.98735  1.0000
+  O   O1        1.0  0.40782  0.92824  0.47164  1.0000
+  O   O2        1.0  0.04992  0.37933  0.90437  1.0000
+  O   O3        1.0  0.16148  0.82788  0.70013  1.0000
+  O   O4        1.0  0.66148  0.17212  0.29987  1.0000
+  O   O5        1.0  0.90782  0.07176  0.52836  1.0000
+  O   O6        1.0  0.54992  0.62067  0.09563  1.0000
+  O   O7        1.0  0.20949  0.30054  0.41481  1.0000
+  O   O8        1.0  0.18154  0.83720  0.19411  1.0000
+  O   O9        1.0  0.70949  0.69946  0.58519  1.0000
+  O   O10       1.0  0.68154  0.16280  0.80589  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Eu4Ge2S8
+_chemical_formula_sum              "Eu4 Ge2 S8"
+_cell_length_a       6.85946
+_cell_length_b       6.70527
+_cell_length_c       8.04825
+_cell_angle_alpha    72.2345
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.73789  0.28119  0.05319  1.0000
+  Eu  Eu2       1.0  0.23789  0.71881  0.94681  1.0000
+  Eu  Eu3       1.0  0.72178  0.24399  0.56375  1.0000
+  Eu  Eu4       1.0  0.22178  0.75601  0.43625  1.0000
+  Ge  Ge1       1.0  0.76611  0.73644  0.19459  1.0000
+  Ge  Ge2       1.0  0.26611  0.26356  0.80541  1.0000
+  S   S1        1.0  0.81721  0.91979  0.91451  1.0000
+  S   S2        1.0  0.31721  0.08021  0.08549  1.0000
+  S   S3        1.0  0.80646  0.93128  0.37578  1.0000
+  S   S4        1.0  0.30646  0.06872  0.62422  1.0000
+  S   S5        1.0  0.50089  0.53133  0.24966  1.0000
+  S   S6        1.0  0.00089  0.46867  0.75033  1.0000
+  S   S7        1.0  0.50026  0.50970  0.73869  1.0000
+  S   S8        1.0  0.00026  0.49030  0.26131  1.0000

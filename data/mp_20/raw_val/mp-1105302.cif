@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr6P12
+_chemical_formula_sum              "Sr6 P12"
+_cell_length_a       11.9123
+_cell_length_b       6.174
+_cell_length_c       7.51034
+_cell_angle_alpha    53.4004
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.83348  0.21215  0.68491  1.0000
+  Sr  Sr2       1.0  0.33348  0.78785  0.81509  1.0000
+  Sr  Sr3       1.0  0.16652  0.78785  0.31509  1.0000
+  Sr  Sr4       1.0  0.66652  0.21215  0.18491  1.0000
+  Sr  Sr5       1.0  0.50000  0.50000  0.50000  1.0000
+  Sr  Sr6       1.0  0.00000  0.50000  0.00000  1.0000
+  P   P1        1.0  0.59974  0.93245  0.71198  1.0000
+  P   P2        1.0  0.09974  0.06755  0.78802  1.0000
+  P   P3        1.0  0.40026  0.06755  0.28802  1.0000
+  P   P4        1.0  0.90026  0.93245  0.21198  1.0000
+  P   P5        1.0  0.87088  0.79865  0.56063  1.0000
+  P   P6        1.0  0.37088  0.20135  0.93937  1.0000
+  P   P7        1.0  0.12912  0.20135  0.43937  1.0000
+  P   P8        1.0  0.62912  0.79865  0.06063  1.0000
+  P   P9        1.0  0.69526  0.66217  0.66625  1.0000
+  P   P10       1.0  0.19526  0.33783  0.83375  1.0000
+  P   P11       1.0  0.30474  0.33783  0.33375  1.0000
+  P   P12       1.0  0.80474  0.66217  0.16625  1.0000

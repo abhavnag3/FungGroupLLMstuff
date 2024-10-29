@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li6Mn2Co2O10
+_chemical_formula_sum              "Li6 Mn2 Co2 O10"
+_cell_length_a       5.08724
+_cell_length_b       5.12703
+_cell_length_c       7.63302
+_cell_angle_alpha    83.1841
+_cell_angle_beta     71.5402
+_cell_angle_gamma    70.7442
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.50000  0.50000  1.0000
+  Li  Li2       1.0  0.59429  0.49718  0.30482  1.0000
+  Li  Li3       1.0  0.19062  0.50461  0.10347  1.0000
+  Li  Li4       1.0  0.80938  0.49539  0.89653  1.0000
+  Li  Li5       1.0  0.40571  0.50282  0.69518  1.0000
+  Li  Li6       1.0  0.50000  0.00000  0.50000  1.0000
+  Mn  Mn1       1.0  0.90379  0.99253  0.69776  1.0000
+  Mn  Mn2       1.0  0.09621  0.00747  0.30224  1.0000
+  Co  Co1       1.0  0.69232  0.00209  0.11084  1.0000
+  Co  Co2       1.0  0.30768  0.99791  0.88916  1.0000
+  O   O1        1.0  0.66248  0.76784  0.70787  1.0000
+  O   O2        1.0  0.21873  0.77613  0.50033  1.0000
+  O   O3        1.0  0.85714  0.77922  0.28677  1.0000
+  O   O4        1.0  0.41873  0.78257  0.10974  1.0000
+  O   O5        1.0  0.04742  0.76637  0.88922  1.0000
+  O   O6        1.0  0.33751  0.23216  0.29213  1.0000
+  O   O7        1.0  0.95258  0.23363  0.11078  1.0000
+  O   O8        1.0  0.58127  0.21743  0.89026  1.0000
+  O   O9        1.0  0.14286  0.22078  0.71323  1.0000
+  O   O10       1.0  0.78127  0.22387  0.49967  1.0000

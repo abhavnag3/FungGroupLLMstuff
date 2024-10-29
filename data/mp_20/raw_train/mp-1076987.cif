@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ta2Ni2B2
+_chemical_formula_sum              "Ta2 Ni2 B2"
+_cell_length_a       6.84662
+_cell_length_b       6.84662
+_cell_length_c       3.05598
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    152.146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.90146  0.09854  0.75000  1.0000
+  Ta  Ta2       1.0  0.09854  0.90146  0.25000  1.0000
+  Ni  Ni1       1.0  0.70391  0.29609  0.75000  1.0000
+  Ni  Ni2       1.0  0.29609  0.70391  0.25000  1.0000
+  B   B1        1.0  0.53509  0.46491  0.75000  1.0000
+  B   B2        1.0  0.46491  0.53509  0.25000  1.0000

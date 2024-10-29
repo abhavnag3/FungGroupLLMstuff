@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       La10ZnPb5
+_chemical_formula_sum              "La10 Zn1 Pb5"
+_cell_length_a       6.42618
+_cell_length_b       9.66428
+_cell_length_c       9.66428
+_cell_angle_alpha    96.3462
+_cell_angle_beta     109.419
+_cell_angle_gamma    70.5812
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.25000  0.50000  0.50000  1.0000
+  La  La2       1.0  0.75000  0.50000  0.50000  1.0000
+  La  La3       1.0  0.42388  0.86625  0.70241  1.0000
+  La  La4       1.0  0.58773  0.13375  0.29759  1.0000
+  La  La5       1.0  0.91227  0.29759  0.13375  1.0000
+  La  La6       1.0  0.07612  0.70241  0.86625  1.0000
+  La  La7       1.0  0.72147  0.70241  0.13375  1.0000
+  La  La8       1.0  0.29014  0.29759  0.86625  1.0000
+  La  La9       1.0  0.77853  0.13375  0.70241  1.0000
+  La  La10      1.0  0.20986  0.86625  0.29759  1.0000
+  Zn  Zn1       1.0  0.75000  0.00000  0.00000  1.0000
+  Pb  Pb1       1.0  0.33820  0.50000  0.17641  1.0000
+  Pb  Pb2       1.0  0.66180  0.50000  0.82359  1.0000
+  Pb  Pb3       1.0  0.83820  0.82359  0.50000  1.0000
+  Pb  Pb4       1.0  0.16180  0.17641  0.50000  1.0000
+  Pb  Pb5       1.0  0.25000  0.00000  0.00000  1.0000

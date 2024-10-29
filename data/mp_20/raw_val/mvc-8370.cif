@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ge4Mo2O12
+_chemical_formula_sum              "Ge4 Mo2 O12"
+_cell_length_a       6.81748
+_cell_length_b       6.81748
+_cell_length_c       5.67307
+_cell_angle_alpha    77.4422
+_cell_angle_beta     77.4422
+_cell_angle_gamma    83.8236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.20975  0.38467  0.76120  1.0000
+  Ge  Ge2       1.0  0.61533  0.79025  0.73880  1.0000
+  Ge  Ge3       1.0  0.79025  0.61533  0.23880  1.0000
+  Ge  Ge4       1.0  0.38467  0.20975  0.26120  1.0000
+  Mo  Mo1       1.0  0.09640  0.90360  0.75000  1.0000
+  Mo  Mo2       1.0  0.90360  0.09640  0.25000  1.0000
+  O   O1        1.0  0.38558  0.33515  0.50146  1.0000
+  O   O2        1.0  0.66485  0.61442  0.99854  1.0000
+  O   O3        1.0  0.61442  0.66485  0.49854  1.0000
+  O   O4        1.0  0.33515  0.38558  0.00146  1.0000
+  O   O5        1.0  0.62796  0.09937  0.19043  1.0000
+  O   O6        1.0  0.90063  0.37204  0.30957  1.0000
+  O   O7        1.0  0.37204  0.90063  0.80957  1.0000
+  O   O8        1.0  0.09937  0.62796  0.69043  1.0000
+  O   O9        1.0  0.03906  0.18456  0.86458  1.0000
+  O   O10       1.0  0.81544  0.96094  0.63542  1.0000
+  O   O11       1.0  0.96094  0.81544  0.13542  1.0000
+  O   O12       1.0  0.18456  0.03906  0.36458  1.0000

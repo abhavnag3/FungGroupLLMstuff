@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       In5CuTe8
+_chemical_formula_sum              "In5 Cu1 Te8"
+_cell_length_a       7.73241
+_cell_length_b       7.73241
+_cell_length_c       9.01706
+_cell_angle_alpha    89.953
+_cell_angle_beta     89.953
+_cell_angle_gamma    109.289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.50954  0.49046  0.00000  1.0000
+  In  In2       1.0  0.99002  0.00998  0.50000  1.0000
+  In  In3       1.0  0.49982  0.50018  0.50000  1.0000
+  In  In4       1.0  0.51026  0.01039  0.24314  1.0000
+  In  In5       1.0  0.98961  0.48974  0.75686  1.0000
+  Cu  Cu1       1.0  0.99944  0.00056  0.00000  1.0000
+  Te  Te1       1.0  0.89485  0.64257  0.01614  1.0000
+  Te  Te2       1.0  0.38502  0.11057  0.52211  1.0000
+  Te  Te3       1.0  0.35743  0.10515  0.98386  1.0000
+  Te  Te4       1.0  0.88943  0.61498  0.47789  1.0000
+  Te  Te5       1.0  0.85339  0.10436  0.76820  1.0000
+  Te  Te6       1.0  0.34117  0.61563  0.24771  1.0000
+  Te  Te7       1.0  0.89564  0.14661  0.23180  1.0000
+  Te  Te8       1.0  0.38437  0.65883  0.75229  1.0000

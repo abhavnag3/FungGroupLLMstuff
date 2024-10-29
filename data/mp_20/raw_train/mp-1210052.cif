@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Na2Br2F8
+_chemical_formula_sum              "Na2 Br2 F8"
+_cell_length_a       5.84698
+_cell_length_b       5.84698
+_cell_length_c       6.71955
+_cell_angle_alpha    115.79
+_cell_angle_beta     115.79
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000  0.25000  0.50000  1.0000
+  Na  Na2       1.0  0.75000  0.75000  0.50000  1.0000
+  Br  Br1       1.0  0.00000  0.50000  0.00000  1.0000
+  Br  Br2       1.0  0.50000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.29469  0.79469  0.26061  1.0000
+  F   F2        1.0  0.70531  0.20531  0.73939  1.0000
+  F   F3        1.0  0.96592  0.46592  0.26061  1.0000
+  F   F4        1.0  0.46592  0.29469  0.26061  1.0000
+  F   F5        1.0  0.20531  0.03408  0.73939  1.0000
+  F   F6        1.0  0.03408  0.53408  0.73939  1.0000
+  F   F7        1.0  0.53408  0.70531  0.73939  1.0000
+  F   F8        1.0  0.79469  0.96592  0.26061  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       V5S8
+_chemical_formula_sum              "V5 S8"
+_cell_length_a       6.56146
+_cell_length_b       6.56146
+_cell_length_c       7.94999
+_cell_angle_alpha    53.0821
+_cell_angle_beta     53.0821
+_cell_angle_gamma    60.5664
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.00000  0.00000  0.00000  1.0000
+  V   V2        1.0  0.70686  0.29314  0.50000  1.0000
+  V   V3        1.0  0.29314  0.70686  0.50000  1.0000
+  V   V4        1.0  0.27440  0.27440  0.49151  1.0000
+  V   V5        1.0  0.72560  0.72560  0.50849  1.0000
+  S   S1        1.0  0.01718  0.01718  0.28917  1.0000
+  S   S2        1.0  0.98282  0.98282  0.71083  1.0000
+  S   S3        1.0  0.55761  0.55761  0.21906  1.0000
+  S   S4        1.0  0.44239  0.44240  0.78094  1.0000
+  S   S5        1.0  0.03912  0.54000  0.24780  1.0000
+  S   S6        1.0  0.46000  0.96088  0.75220  1.0000
+  S   S7        1.0  0.54000  0.03912  0.24780  1.0000
+  S   S8        1.0  0.96088  0.46000  0.75220  1.0000

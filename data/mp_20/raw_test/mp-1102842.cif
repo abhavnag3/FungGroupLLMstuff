@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Li4Nd3Ge4
+_chemical_formula_sum              "Li4 Nd3 Ge4"
+_cell_length_a       4.4418
+_cell_length_b       6.85437
+_cell_length_c       8.43702
+_cell_angle_alpha    113.967
+_cell_angle_beta     105.262
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.67154  0.97977  0.34307  1.0000
+  Li  Li2       1.0  0.32846  0.02023  0.65693  1.0000
+  Li  Li3       1.0  0.32846  0.63670  0.65693  1.0000
+  Li  Li4       1.0  0.67154  0.36330  0.34307  1.0000
+  Nd  Nd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nd  Nd2       1.0  0.13081  0.63081  0.26163  1.0000
+  Nd  Nd3       1.0  0.86919  0.36919  0.73837  1.0000
+  Ge  Ge1       1.0  0.50000  0.68529  0.00000  1.0000
+  Ge  Ge2       1.0  0.50000  0.31471  0.00000  1.0000
+  Ge  Ge3       1.0  0.78698  0.78698  0.57396  1.0000
+  Ge  Ge4       1.0  0.21302  0.21302  0.42604  1.0000

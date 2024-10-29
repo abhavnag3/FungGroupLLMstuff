@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Lu4Si4Pd8
+_chemical_formula_sum              "Lu4 Si4 Pd8"
+_cell_length_a       5.47195
+_cell_length_b       6.99325
+_cell_length_c       7.21262
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.35697  0.75000  0.02679  1.0000
+  Lu  Lu2       1.0  0.14303  0.75000  0.52679  1.0000
+  Lu  Lu3       1.0  0.64303  0.25000  0.97321  1.0000
+  Lu  Lu4       1.0  0.85697  0.25000  0.47321  1.0000
+  Si  Si1       1.0  0.64210  0.75000  0.37864  1.0000
+  Si  Si2       1.0  0.85790  0.75000  0.87864  1.0000
+  Si  Si3       1.0  0.35790  0.25000  0.62136  1.0000
+  Si  Si4       1.0  0.14210  0.25000  0.12136  1.0000
+  Pd  Pd1       1.0  0.90590  0.55074  0.17914  1.0000
+  Pd  Pd2       1.0  0.59410  0.94926  0.67914  1.0000
+  Pd  Pd3       1.0  0.09410  0.05074  0.82086  1.0000
+  Pd  Pd4       1.0  0.40590  0.44926  0.32086  1.0000
+  Pd  Pd5       1.0  0.09410  0.44926  0.82086  1.0000
+  Pd  Pd6       1.0  0.40590  0.05074  0.32086  1.0000
+  Pd  Pd7       1.0  0.90590  0.94926  0.17914  1.0000
+  Pd  Pd8       1.0  0.59410  0.55074  0.67914  1.0000

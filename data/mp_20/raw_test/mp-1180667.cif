@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La6Fe2O12
+_chemical_formula_sum              "La6 Fe2 O12"
+_cell_length_a       7.58701
+_cell_length_b       7.58701
+_cell_length_c       5.73727
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    103.017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.41309  0.19851  0.53565  1.0000
+  La  La2       1.0  0.80149  0.58691  0.53565  1.0000
+  La  La3       1.0  0.58691  0.80149  0.03565  1.0000
+  La  La4       1.0  0.19851  0.41309  0.03565  1.0000
+  La  La5       1.0  0.10495  0.89505  0.07267  1.0000
+  La  La6       1.0  0.89505  0.10495  0.57267  1.0000
+  Fe  Fe1       1.0  0.30809  0.69191  0.50035  1.0000
+  Fe  Fe2       1.0  0.69191  0.30809  0.00035  1.0000
+  O   O1        1.0  0.17088  0.14797  0.80105  1.0000
+  O   O2        1.0  0.85203  0.82912  0.80105  1.0000
+  O   O3        1.0  0.82912  0.85203  0.30105  1.0000
+  O   O4        1.0  0.14797  0.17088  0.30105  1.0000
+  O   O5        1.0  0.60788  0.08621  0.83193  1.0000
+  O   O6        1.0  0.91379  0.39212  0.83193  1.0000
+  O   O7        1.0  0.39212  0.91379  0.33193  1.0000
+  O   O8        1.0  0.08621  0.60788  0.33193  1.0000
+  O   O9        1.0  0.54409  0.45591  0.86908  1.0000
+  O   O10       1.0  0.45591  0.54409  0.36908  1.0000
+  O   O11       1.0  0.28562  0.71438  0.83075  1.0000
+  O   O12       1.0  0.71438  0.28562  0.33075  1.0000

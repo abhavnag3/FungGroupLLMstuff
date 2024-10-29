@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Na2B2H8
+_chemical_formula_sum              "Na2 B2 H8"
+_cell_length_a       4.39789
+_cell_length_b       4.66271
+_cell_length_c       7.63104
+_cell_angle_alpha    79.217
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.84638  0.07752  1.0000
+  Na  Na2       1.0  0.00000  0.03169  0.58746  1.0000
+  B   B1        1.0  0.00000  0.61282  0.40152  1.0000
+  B   B2        1.0  0.50000  0.93283  0.84852  1.0000
+  H   H1        1.0  0.27912  0.77455  0.84071  1.0000
+  H   H2        1.0  0.72088  0.77455  0.84071  1.0000
+  H   H3        1.0  0.76951  0.75954  0.36126  1.0000
+  H   H4        1.0  0.23049  0.75954  0.36126  1.0000
+  H   H5        1.0  0.00000  0.52678  0.56331  1.0000
+  H   H6        1.0  0.00000  0.40729  0.32084  1.0000
+  H   H7        1.0  0.50000  0.02833  0.98882  1.0000
+  H   H8        1.0  0.50000  0.14169  0.72409  1.0000

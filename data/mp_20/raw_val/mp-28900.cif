@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd4As6Br2
+_chemical_formula_sum              "Cd4 As6 Br2"
+_cell_length_a       6.41328
+_cell_length_b       6.41328
+_cell_length_c       8.18269
+_cell_angle_alpha    82.6613
+_cell_angle_beta     82.6613
+_cell_angle_gamma    97.6059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.38823  0.08700  0.20805  1.0000
+  Cd  Cd2       1.0  0.91300  0.61177  0.29195  1.0000
+  Cd  Cd3       1.0  0.08700  0.38823  0.70805  1.0000
+  Cd  Cd4       1.0  0.61177  0.91300  0.79195  1.0000
+  As  As1       1.0  0.17416  0.07967  0.52830  1.0000
+  As  As2       1.0  0.92033  0.82584  0.97170  1.0000
+  As  As3       1.0  0.82584  0.92033  0.47170  1.0000
+  As  As4       1.0  0.79090  0.20910  0.25000  1.0000
+  As  As5       1.0  0.20910  0.79090  0.75000  1.0000
+  As  As6       1.0  0.07967  0.17416  0.02830  1.0000
+  Br  Br1       1.0  0.36163  0.63837  0.25000  1.0000
+  Br  Br2       1.0  0.63837  0.36163  0.75000  1.0000

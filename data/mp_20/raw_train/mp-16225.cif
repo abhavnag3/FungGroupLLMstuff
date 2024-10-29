@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Y6Si6Rh2
+_chemical_formula_sum              "Y6 Si6 Rh2"
+_cell_length_a       5.70993
+_cell_length_b       5.70993
+_cell_length_c       13.5872
+_cell_angle_alpha    70.7383
+_cell_angle_beta     70.7383
+_cell_angle_gamma    43.5538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.60253  0.60253  0.07887  1.0000
+  Y   Y2        1.0  0.39747  0.39747  0.92113  1.0000
+  Y   Y3        1.0  0.52160  0.52160  0.62473  1.0000
+  Y   Y4        1.0  0.47840  0.47840  0.37527  1.0000
+  Y   Y5        1.0  0.25697  0.25697  0.22726  1.0000
+  Y   Y6        1.0  0.74303  0.74303  0.77274  1.0000
+  Si  Si1       1.0  0.95288  0.95288  0.23659  1.0000
+  Si  Si2       1.0  0.04712  0.04712  0.76341  1.0000
+  Si  Si3       1.0  0.86939  0.86939  0.54391  1.0000
+  Si  Si4       1.0  0.13061  0.13061  0.45609  1.0000
+  Si  Si5       1.0  0.11297  0.11296  0.92483  1.0000
+  Si  Si6       1.0  0.88703  0.88704  0.07517  1.0000
+  Rh  Rh1       1.0  0.75339  0.75339  0.41549  1.0000
+  Rh  Rh2       1.0  0.24661  0.24661  0.58451  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ho3Sn7
+_chemical_formula_sum              "Ho3 Sn7"
+_cell_length_a       13.496
+_cell_length_b       13.496
+_cell_length_c       4.46683
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    161.216
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ho  Ho2       1.0  0.31051  0.68949  0.00000  1.0000
+  Ho  Ho3       1.0  0.68949  0.31051  0.00000  1.0000
+  Sn  Sn1       1.0  0.50000  0.50000  0.00000  1.0000
+  Sn  Sn2       1.0  0.40290  0.59710  0.50000  1.0000
+  Sn  Sn3       1.0  0.59710  0.40290  0.50000  1.0000
+  Sn  Sn4       1.0  0.09641  0.90359  0.00000  1.0000
+  Sn  Sn5       1.0  0.90359  0.09641  0.00000  1.0000
+  Sn  Sn6       1.0  0.21090  0.78910  0.50000  1.0000
+  Sn  Sn7       1.0  0.78910  0.21090  0.50000  1.0000

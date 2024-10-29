@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U6Al4Ge6
+_chemical_formula_sum              "U6 Al4 Ge6"
+_cell_length_a       7.79409
+_cell_length_b       7.79409
+_cell_length_c       7.79409
+_cell_angle_alpha    120.561
+_cell_angle_beta     120.561
+_cell_angle_gamma    89.0309
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.36380  0.17678  0.50000  1.0000
+  U   U2        1.0  0.67678  0.86380  0.50000  1.0000
+  U   U3        1.0  0.17678  0.67678  0.81298  1.0000
+  U   U4        1.0  0.86380  0.36380  0.18702  1.0000
+  U   U5        1.0  0.74654  0.74654  0.00000  1.0000
+  U   U6        1.0  0.24654  0.24654  0.00000  1.0000
+  Al  Al1       1.0  0.69428  0.46802  0.50000  1.0000
+  Al  Al2       1.0  0.96802  0.19428  0.50000  1.0000
+  Al  Al3       1.0  0.46802  0.96802  0.77374  1.0000
+  Al  Al4       1.0  0.19428  0.69428  0.22626  1.0000
+  Ge  Ge1       1.0  0.35946  0.55527  0.50000  1.0000
+  Ge  Ge2       1.0  0.05527  0.85946  0.50000  1.0000
+  Ge  Ge3       1.0  0.55527  0.05527  0.19581  1.0000
+  Ge  Ge4       1.0  0.85946  0.35946  0.80419  1.0000
+  Ge  Ge5       1.0  0.99526  0.99526  0.00000  1.0000
+  Ge  Ge6       1.0  0.49526  0.49526  0.00000  1.0000

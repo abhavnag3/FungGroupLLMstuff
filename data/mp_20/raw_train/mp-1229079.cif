@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ag2Sb2W2O14
+_chemical_formula_sum              "Ag2 Sb2 W2 O14"
+_cell_length_a       7.38045
+_cell_length_b       7.38045
+_cell_length_c       7.38045
+_cell_angle_alpha    120.933
+_cell_angle_beta     119.628
+_cell_angle_gamma    89.5188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ag  Ag2       1.0  0.50000  0.00000  0.00000  1.0000
+  Sb  Sb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sb  Sb2       1.0  0.50000  0.00000  0.50000  1.0000
+  W   W1        1.0  0.00000  0.00000  0.50000  1.0000
+  W   W2        1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.41895  0.66895  0.75000  1.0000
+  O   O2        1.0  0.58105  0.33105  0.25000  1.0000
+  O   O3        1.0  0.32632  0.07632  0.25000  1.0000
+  O   O4        1.0  0.94308  0.69308  0.25000  1.0000
+  O   O5        1.0  0.31057  0.68075  0.24483  1.0000
+  O   O6        1.0  0.93592  0.06574  0.25517  1.0000
+  O   O7        1.0  0.31057  0.06574  0.62982  1.0000
+  O   O8        1.0  0.93592  0.68075  0.87018  1.0000
+  O   O9        1.0  0.67368  0.92368  0.75000  1.0000
+  O   O10       1.0  0.05692  0.30692  0.75000  1.0000
+  O   O11       1.0  0.68943  0.31926  0.75518  1.0000
+  O   O12       1.0  0.06408  0.93426  0.74482  1.0000
+  O   O13       1.0  0.68943  0.93426  0.37018  1.0000
+  O   O14       1.0  0.06408  0.31926  0.12982  1.0000

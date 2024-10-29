@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ni4Ag4O8
+_chemical_formula_sum              "Ni4 Ag4 O8"
+_cell_length_a       5.13073
+_cell_length_b       6.07695
+_cell_length_c       7.27855
+_cell_angle_alpha    62.1777
+_cell_angle_beta     106.15
+_cell_angle_gamma    92.6075
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.49925  0.74852  0.50002  1.0000
+  Ni  Ni2       1.0  0.00077  0.00143  0.50001  1.0000
+  Ni  Ni3       1.0  0.49935  0.24839  0.50006  1.0000
+  Ni  Ni4       1.0  0.00065  0.50159  0.49991  1.0000
+  Ag  Ag1       1.0  0.99972  0.99954  0.99977  1.0000
+  Ag  Ag2       1.0  0.50026  0.25050  0.00022  1.0000
+  Ag  Ag3       1.0  0.99975  0.49952  0.99979  1.0000
+  Ag  Ag4       1.0  0.50025  0.75049  0.00024  1.0000
+  O   O1        1.0  0.88442  0.67498  0.66285  1.0000
+  O   O2        1.0  0.38502  0.92150  0.66337  1.0000
+  O   O3        1.0  0.88438  0.17500  0.66283  1.0000
+  O   O4        1.0  0.38508  0.42152  0.66339  1.0000
+  O   O5        1.0  0.11497  0.82851  0.33662  1.0000
+  O   O6        1.0  0.61559  0.07502  0.33714  1.0000
+  O   O7        1.0  0.11494  0.32848  0.33662  1.0000
+  O   O8        1.0  0.61562  0.57501  0.33717  1.0000

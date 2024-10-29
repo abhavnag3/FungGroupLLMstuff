@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2Ce2C4O12
+_chemical_formula_sum              "Na2 Ce2 C4 O12"
+_cell_length_a       5.19955
+_cell_length_b       6.4493
+_cell_length_c       7.19933
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.48240  0.02796  1.0000
+  Na  Na2       1.0  0.00000  0.51760  0.52796  1.0000
+  Ce  Ce1       1.0  0.50000  0.13041  0.32622  1.0000
+  Ce  Ce2       1.0  0.50000  0.86959  0.82622  1.0000
+  C   C1        1.0  0.50000  0.58078  0.24321  1.0000
+  C   C2        1.0  0.50000  0.41922  0.74321  1.0000
+  C   C3        1.0  0.00000  0.03596  0.99833  1.0000
+  C   C4        1.0  0.00000  0.96404  0.49833  1.0000
+  O   O1        1.0  0.00000  0.14138  0.41545  1.0000
+  O   O2        1.0  0.00000  0.85862  0.91545  1.0000
+  O   O3        1.0  0.28786  0.48429  0.28053  1.0000
+  O   O4        1.0  0.71214  0.51571  0.78053  1.0000
+  O   O5        1.0  0.28786  0.51571  0.78053  1.0000
+  O   O6        1.0  0.71214  0.48429  0.28053  1.0000
+  O   O7        1.0  0.21913  0.12514  0.03417  1.0000
+  O   O8        1.0  0.78087  0.87486  0.53417  1.0000
+  O   O9        1.0  0.21913  0.87486  0.53417  1.0000
+  O   O10       1.0  0.78087  0.12514  0.03417  1.0000
+  O   O11       1.0  0.50000  0.23657  0.66544  1.0000
+  O   O12       1.0  0.50000  0.76343  0.16544  1.0000

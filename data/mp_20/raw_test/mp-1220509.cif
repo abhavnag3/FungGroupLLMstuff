@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Nd4Cu2Te8
+_chemical_formula_sum              "Nd4 Cu2 Te8"
+_cell_length_a       8.38843
+_cell_length_b       6.52644
+_cell_length_c       7.68444
+_cell_angle_alpha    89.8703
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.05486  0.49983  0.22643  1.0000
+  Nd  Nd2       1.0  0.94199  0.00545  0.76350  1.0000
+  Nd  Nd3       1.0  0.44199  0.99455  0.23650  1.0000
+  Nd  Nd4       1.0  0.55486  0.50017  0.77357  1.0000
+  Cu  Cu1       1.0  0.20267  0.68419  0.58736  1.0000
+  Cu  Cu2       1.0  0.70267  0.31581  0.41264  1.0000
+  Te  Te1       1.0  0.41274  0.51450  0.38241  1.0000
+  Te  Te2       1.0  0.59135  0.01953  0.61608  1.0000
+  Te  Te3       1.0  0.09135  0.98047  0.38393  1.0000
+  Te  Te4       1.0  0.91274  0.48550  0.61759  1.0000
+  Te  Te5       1.0  0.24910  0.74915  0.91787  1.0000
+  Te  Te6       1.0  0.74910  0.25085  0.08213  1.0000
+  Te  Te7       1.0  0.74929  0.75312  0.07300  1.0000
+  Te  Te8       1.0  0.24929  0.24688  0.92700  1.0000

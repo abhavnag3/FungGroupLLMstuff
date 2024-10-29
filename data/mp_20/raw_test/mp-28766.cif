@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K4Ti2S6
+_chemical_formula_sum              "K4 Ti2 S6"
+_cell_length_a       7.27657
+_cell_length_b       7.27657
+_cell_length_c       6.53846
+_cell_angle_alpha    88.5636
+_cell_angle_beta     88.5636
+_cell_angle_gamma    70.6056
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.50548  0.17571  0.73682  1.0000
+  K   K2        1.0  0.17571  0.50548  0.23682  1.0000
+  K   K3        1.0  0.82429  0.49452  0.76318  1.0000
+  K   K4        1.0  0.49452  0.82429  0.26318  1.0000
+  Ti  Ti1       1.0  0.08481  0.91519  0.75000  1.0000
+  Ti  Ti2       1.0  0.91519  0.08481  0.25000  1.0000
+  S   S1        1.0  0.65139  0.34861  0.25000  1.0000
+  S   S2        1.0  0.34861  0.65139  0.75000  1.0000
+  S   S3        1.0  0.85616  0.86979  0.00032  1.0000
+  S   S4        1.0  0.13021  0.14384  0.49967  1.0000
+  S   S5        1.0  0.86979  0.85616  0.50033  1.0000
+  S   S6        1.0  0.14384  0.13021  0.99967  1.0000

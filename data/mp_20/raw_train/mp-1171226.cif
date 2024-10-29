@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn2Zn2Si4O12
+_chemical_formula_sum              "Mn2 Zn2 Si4 O12"
+_cell_length_a       5.40911
+_cell_length_b       6.90533
+_cell_length_c       6.90532
+_cell_angle_alpha    87.3427
+_cell_angle_beta     74.9623
+_cell_angle_gamma    74.9621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.74997  0.89402  0.10597  1.0000
+  Mn  Mn2       1.0  0.25001  0.10599  0.89401  1.0000
+  Zn  Zn1       1.0  0.75001  0.23698  0.76303  1.0000
+  Zn  Zn2       1.0  0.25000  0.76304  0.23697  1.0000
+  Si  Si1       1.0  0.21942  0.22041  0.38561  1.0000
+  Si  Si2       1.0  0.28058  0.61439  0.77959  1.0000
+  Si  Si3       1.0  0.71941  0.38561  0.22041  1.0000
+  Si  Si4       1.0  0.78059  0.77959  0.61438  1.0000
+  O   O1        1.0  0.46129  0.32828  0.37664  1.0000
+  O   O2        1.0  0.03871  0.62336  0.67172  1.0000
+  O   O3        1.0  0.53871  0.67172  0.62338  1.0000
+  O   O4        1.0  0.96129  0.37662  0.32828  1.0000
+  O   O5        1.0  0.11745  0.15088  0.61512  1.0000
+  O   O6        1.0  0.38255  0.38488  0.84912  1.0000
+  O   O7        1.0  0.88253  0.84911  0.38485  1.0000
+  O   O8        1.0  0.61747  0.61514  0.15089  1.0000
+  O   O9        1.0  0.83839  0.21336  0.03906  1.0000
+  O   O10       1.0  0.66162  0.96094  0.78664  1.0000
+  O   O11       1.0  0.33843  0.03904  0.21336  1.0000
+  O   O12       1.0  0.16157  0.78664  0.96097  1.0000

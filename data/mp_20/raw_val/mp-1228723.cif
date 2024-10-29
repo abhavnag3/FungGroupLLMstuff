@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba10Br4N5Cl
+_chemical_formula_sum              "Ba10 Br4 N5 Cl1"
+_cell_length_a       4.17552
+_cell_length_b       4.17552
+_cell_length_c       39.7096
+_cell_angle_alpha    86.9862
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.35369  0.70738  0.93893  1.0000
+  Ba  Ba2       1.0  0.15428  0.30856  0.53715  1.0000
+  Ba  Ba3       1.0  0.75428  0.50856  0.73716  1.0000
+  Ba  Ba4       1.0  0.95457  0.90914  0.13629  1.0000
+  Ba  Ba5       1.0  0.55428  0.10856  0.33715  1.0000
+  Ba  Ba6       1.0  0.04543  0.09086  0.86371  1.0000
+  Ba  Ba7       1.0  0.84572  0.69144  0.46285  1.0000
+  Ba  Ba8       1.0  0.44572  0.89144  0.66285  1.0000
+  Ba  Ba9       1.0  0.64631  0.29262  0.06107  1.0000
+  Ba  Ba10      1.0  0.24572  0.49144  0.26284  1.0000
+  Br  Br1       1.0  0.60003  0.20005  0.19992  1.0000
+  Br  Br2       1.0  0.20000  0.40001  0.39999  1.0000
+  Br  Br3       1.0  0.80000  0.59999  0.60001  1.0000
+  Br  Br4       1.0  0.39997  0.79995  0.80008  1.0000
+  N   N1        1.0  0.69960  0.39920  0.90119  1.0000
+  N   N2        1.0  0.50000  0.00000  0.50000  1.0000
+  N   N3        1.0  0.10000  0.20000  0.70000  1.0000
+  N   N4        1.0  0.30040  0.60080  0.09881  1.0000
+  N   N5        1.0  0.90000  0.80000  0.30000  1.0000
+  Cl  Cl1       1.0  0.00000  0.00000  0.00000  1.0000

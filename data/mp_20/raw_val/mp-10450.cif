@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pr2Al2Ge2
+_chemical_formula_sum              "Pr2 Al2 Ge2"
+_cell_length_a       7.99939
+_cell_length_b       7.99939
+_cell_length_c       7.99939
+_cell_angle_alpha    148.786
+_cell_angle_beta     148.786
+_cell_angle_gamma    44.7261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.16672  0.16672  0.00000  1.0000
+  Pr  Pr2       1.0  0.91672  0.41672  0.50000  1.0000
+  Al  Al1       1.0  0.58277  0.58277  0.00000  1.0000
+  Al  Al2       1.0  0.33277  0.83277  0.50000  1.0000
+  Ge  Ge1       1.0  0.49901  0.99901  0.50000  1.0000
+  Ge  Ge2       1.0  0.74901  0.74901  0.00000  1.0000

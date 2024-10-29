@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ta4Si6Mo6
+_chemical_formula_sum              "Ta4 Si6 Mo6"
+_cell_length_a       5.04132
+_cell_length_b       7.37326
+_cell_length_c       7.37326
+_cell_angle_alpha    97.271
+_cell_angle_beta     109.991
+_cell_angle_gamma    70.0095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.42112  0.85245  0.69468  1.0000
+  Ta  Ta2       1.0  0.57888  0.14755  0.30532  1.0000
+  Ta  Ta3       1.0  0.92112  0.30532  0.14755  1.0000
+  Ta  Ta4       1.0  0.07888  0.69468  0.85245  1.0000
+  Si  Si1       1.0  0.25000  0.00000  0.00000  1.0000
+  Si  Si2       1.0  0.75000  0.00000  0.00000  1.0000
+  Si  Si3       1.0  0.33471  0.50154  0.17096  1.0000
+  Si  Si4       1.0  0.66529  0.49846  0.82904  1.0000
+  Si  Si5       1.0  0.83471  0.82904  0.49846  1.0000
+  Si  Si6       1.0  0.16529  0.17096  0.50154  1.0000
+  Mo  Mo1       1.0  0.71895  0.70531  0.14320  1.0000
+  Mo  Mo2       1.0  0.28105  0.29469  0.85680  1.0000
+  Mo  Mo3       1.0  0.78106  0.14320  0.70531  1.0000
+  Mo  Mo4       1.0  0.21895  0.85680  0.29469  1.0000
+  Mo  Mo5       1.0  0.25000  0.50000  0.50000  1.0000
+  Mo  Mo6       1.0  0.75000  0.50000  0.50000  1.0000

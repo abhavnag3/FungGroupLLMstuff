@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr2Ga4Rh4
+_chemical_formula_sum              "Sr2 Ga4 Rh4"
+_cell_length_a       8.62172
+_cell_length_b       7.39248
+_cell_length_c       6.055
+_cell_angle_alpha    79.0678
+_cell_angle_beta     57.3376
+_cell_angle_gamma    43.5946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50000  0.50000  0.50000  1.0000
+  Sr  Sr2       1.0  0.75000  0.75000  0.75000  1.0000
+  Ga  Ga1       1.0  0.81878  0.18122  0.81878  1.0000
+  Ga  Ga2       1.0  0.18122  0.81878  0.18122  1.0000
+  Ga  Ga3       1.0  0.43122  0.06878  0.43122  1.0000
+  Ga  Ga4       1.0  0.06878  0.43122  0.06878  1.0000
+  Rh  Rh1       1.0  0.11610  0.11610  0.88390  1.0000
+  Rh  Rh2       1.0  0.88390  0.88390  0.11610  1.0000
+  Rh  Rh3       1.0  0.13390  0.13390  0.36610  1.0000
+  Rh  Rh4       1.0  0.36610  0.36610  0.13390  1.0000

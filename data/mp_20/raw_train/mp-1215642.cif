@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zn4Si2Ge2N8
+_chemical_formula_sum              "Zn4 Si2 Ge2 N8"
+_cell_length_a       5.15309
+_cell_length_b       5.40145
+_cell_length_c       6.40616
+_cell_angle_alpha    89.8324
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.00445  0.07861  0.62677  1.0000
+  Zn  Zn2       1.0  0.50445  0.92139  0.37323  1.0000
+  Zn  Zn3       1.0  0.50536  0.41156  0.12141  1.0000
+  Zn  Zn4       1.0  0.00536  0.58844  0.87859  1.0000
+  Si  Si1       1.0  0.00463  0.07241  0.12076  1.0000
+  Si  Si2       1.0  0.50463  0.92759  0.87924  1.0000
+  Ge  Ge1       1.0  0.50708  0.42562  0.63015  1.0000
+  Ge  Ge2       1.0  0.00708  0.57437  0.36985  1.0000
+  N   N1        1.0  0.86915  0.43576  0.61193  1.0000
+  N   N2        1.0  0.36915  0.56424  0.38807  1.0000
+  N   N3        1.0  0.34731  0.05757  0.09648  1.0000
+  N   N4        1.0  0.84731  0.94243  0.90352  1.0000
+  N   N5        1.0  0.90421  0.38371  0.13931  1.0000
+  N   N6        1.0  0.40421  0.61629  0.86069  1.0000
+  N   N7        1.0  0.40581  0.09201  0.65361  1.0000
+  N   N8        1.0  0.90581  0.90799  0.34639  1.0000

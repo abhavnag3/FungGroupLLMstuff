@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Te6Mo2W2S2
+_chemical_formula_sum              "Te6 Mo2 W2 S2"
+_cell_length_a       3.45207
+_cell_length_b       3.45207
+_cell_length_c       39.448
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.00000  0.00000  0.32902  1.0000
+  Te  Te2       1.0  0.33333  0.66667  0.04694  1.0000
+  Te  Te3       1.0  0.33333  0.66667  0.42275  1.0000
+  Te  Te4       1.0  0.33333  0.66667  0.14086  1.0000
+  Te  Te5       1.0  0.33333  0.66667  0.51667  1.0000
+  Te  Te6       1.0  0.00000  0.00000  0.23462  1.0000
+  Mo  Mo1       1.0  0.00000  0.00000  0.09386  1.0000
+  Mo  Mo2       1.0  0.00000  0.00000  0.46968  1.0000
+  W   W1        1.0  0.33333  0.66667  0.28177  1.0000
+  W   W2        1.0  0.33333  0.66667  0.65752  1.0000
+  S   S1        1.0  0.00000  0.00000  0.69534  1.0000
+  S   S2        1.0  0.00000  0.00000  0.61971  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ag4Cl4O12
+_chemical_formula_sum              "Ag4 Cl4 O12"
+_cell_length_a       5.41686
+_cell_length_b       6.96727
+_cell_length_c       8.84306
+_cell_angle_alpha    67.8193
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.26288  0.30786  0.17626  1.0000
+  Ag  Ag2       1.0  0.76288  0.69214  0.32374  1.0000
+  Ag  Ag3       1.0  0.23712  0.30786  0.67626  1.0000
+  Ag  Ag4       1.0  0.73712  0.69214  0.82374  1.0000
+  Cl  Cl1       1.0  0.22261  0.82306  0.02495  1.0000
+  Cl  Cl2       1.0  0.72261  0.17694  0.47505  1.0000
+  Cl  Cl3       1.0  0.27739  0.82306  0.52495  1.0000
+  Cl  Cl4       1.0  0.77739  0.17694  0.97505  1.0000
+  O   O1        1.0  0.84309  0.09178  0.15364  1.0000
+  O   O2        1.0  0.47770  0.72776  0.04334  1.0000
+  O   O3        1.0  0.04397  0.64300  0.10687  1.0000
+  O   O4        1.0  0.54397  0.35700  0.39313  1.0000
+  O   O5        1.0  0.97770  0.27224  0.45666  1.0000
+  O   O6        1.0  0.34309  0.90821  0.34636  1.0000
+  O   O7        1.0  0.65691  0.09178  0.65364  1.0000
+  O   O8        1.0  0.02230  0.72776  0.54334  1.0000
+  O   O9        1.0  0.45603  0.64300  0.60687  1.0000
+  O   O10       1.0  0.95603  0.35700  0.89313  1.0000
+  O   O11       1.0  0.52230  0.27224  0.95666  1.0000
+  O   O12       1.0  0.15691  0.90821  0.84636  1.0000

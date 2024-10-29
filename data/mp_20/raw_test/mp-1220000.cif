@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pr2CuSn4
+_chemical_formula_sum              "Pr2 Cu1 Sn4"
+_cell_length_a       4.52294
+_cell_length_b       4.58713
+_cell_length_c       9.20586
+_cell_angle_alpha    75.5732
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25000  0.89745  0.20509  1.0000
+  Pr  Pr2       1.0  0.75000  0.10281  0.79438  1.0000
+  Cu  Cu1       1.0  0.25000  0.68103  0.63795  1.0000
+  Sn  Sn1       1.0  0.25000  0.25968  0.48063  1.0000
+  Sn  Sn2       1.0  0.75000  0.75922  0.48157  1.0000
+  Sn  Sn3       1.0  0.25000  0.53939  0.92123  1.0000
+  Sn  Sn4       1.0  0.75000  0.43342  0.13315  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr3Mn8Al
+_chemical_formula_sum              "Zr3 Mn8 Al1"
+_cell_length_a       4.86891
+_cell_length_b       4.86891
+_cell_length_c       8.12078
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.66667  0.33333  0.44166  1.0000
+  Zr  Zr2       1.0  0.66667  0.33333  0.06531  1.0000
+  Zr  Zr3       1.0  0.00000  0.00000  0.92342  1.0000
+  Mn  Mn1       1.0  0.33333  0.66667  0.50254  1.0000
+  Mn  Mn2       1.0  0.33333  0.66667  0.00505  1.0000
+  Mn  Mn3       1.0  0.50438  0.00876  0.74522  1.0000
+  Mn  Mn4       1.0  0.50438  0.49562  0.74522  1.0000
+  Mn  Mn5       1.0  0.99124  0.49562  0.74522  1.0000
+  Mn  Mn6       1.0  0.15997  0.31995  0.25422  1.0000
+  Mn  Mn7       1.0  0.15997  0.84003  0.25422  1.0000
+  Mn  Mn8       1.0  0.68005  0.84003  0.25422  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.56372  1.0000

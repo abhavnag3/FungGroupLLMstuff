@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Lu2V2O8
+_chemical_formula_sum              "Lu2 V2 O8"
+_cell_length_a       4.98112
+_cell_length_b       5.05946
+_cell_length_c       6.54803
+_cell_angle_alpha    112.34
+_cell_angle_beta     111.964
+_cell_angle_gamma    90.9379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.62417  0.87417  0.74833  1.0000
+  Lu  Lu2       1.0  0.37583  0.12583  0.25167  1.0000
+  V   V1        1.0  0.13008  0.38008  0.76016  1.0000
+  V   V2        1.0  0.86992  0.61992  0.23984  1.0000
+  O   O1        1.0  0.21354  0.85320  0.41067  1.0000
+  O   O2        1.0  0.30287  0.44253  0.58933  1.0000
+  O   O3        1.0  0.94925  0.28171  0.08442  1.0000
+  O   O4        1.0  0.78646  0.14680  0.58933  1.0000
+  O   O5        1.0  0.63516  0.80270  0.08442  1.0000
+  O   O6        1.0  0.05075  0.71829  0.91558  1.0000
+  O   O7        1.0  0.36484  0.19730  0.91558  1.0000
+  O   O8        1.0  0.69713  0.55747  0.41067  1.0000

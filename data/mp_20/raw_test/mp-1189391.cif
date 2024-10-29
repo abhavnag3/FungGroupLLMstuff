@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Nd3Ga6Co9
+_chemical_formula_sum              "Nd3 Ga6 Co9"
+_cell_length_a       3.84893
+_cell_length_b       9.08645
+_cell_length_c       9.09146
+_cell_angle_alpha    119.982
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.00000  0.00001  0.00000  1.0000
+  Nd  Nd2       1.0  0.50000  0.33333  0.66666  1.0000
+  Nd  Nd3       1.0  0.50000  0.66666  0.33334  1.0000
+  Ga  Ga1       1.0  0.50000  0.31230  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.68793  0.68799  1.0000
+  Ga  Ga3       1.0  0.50000  0.99994  0.31201  1.0000
+  Ga  Ga4       1.0  0.50000  0.68769  0.00000  1.0000
+  Ga  Ga5       1.0  0.50000  0.31206  0.31202  1.0000
+  Ga  Ga6       1.0  0.50000  0.00004  0.68798  1.0000
+  Co  Co1       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co2       1.0  0.00000  0.49999  0.50001  1.0000
+  Co  Co3       1.0  0.00000  0.99998  0.49999  1.0000
+  Co  Co4       1.0  0.00000  0.18240  0.36482  1.0000
+  Co  Co5       1.0  0.00000  0.18263  0.81766  1.0000
+  Co  Co6       1.0  0.00000  0.63501  0.81765  1.0000
+  Co  Co7       1.0  0.00000  0.81759  0.63518  1.0000
+  Co  Co8       1.0  0.00000  0.36496  0.18234  1.0000
+  Co  Co9       1.0  0.00000  0.81736  0.18235  1.0000

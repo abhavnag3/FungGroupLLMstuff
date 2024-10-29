@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       DyMn6GaGe5
+_chemical_formula_sum              "Dy1 Mn6 Ga1 Ge5"
+_cell_length_a       5.16945
+_cell_length_b       5.17202
+_cell_length_c       8.21949
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.0571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.00024  0.99981  0.00000  1.0000
+  Mn  Mn1       1.0  0.50041  0.50045  0.24793  1.0000
+  Mn  Mn2       1.0  0.50043  0.99908  0.24798  1.0000
+  Mn  Mn3       1.0  0.99909  0.50049  0.24800  1.0000
+  Mn  Mn4       1.0  0.50041  0.50045  0.75207  1.0000
+  Mn  Mn5       1.0  0.50043  0.99908  0.75202  1.0000
+  Mn  Mn6       1.0  0.99909  0.50049  0.75200  1.0000
+  Ga  Ga1       1.0  0.33374  0.33309  0.50000  1.0000
+  Ge  Ge1       1.0  0.66646  0.66686  0.00000  1.0000
+  Ge  Ge2       1.0  0.33353  0.33309  0.00000  1.0000
+  Ge  Ge3       1.0  0.99983  0.00005  0.34303  1.0000
+  Ge  Ge4       1.0  0.99983  0.00005  0.65697  1.0000
+  Ge  Ge5       1.0  0.66632  0.66700  0.50000  1.0000

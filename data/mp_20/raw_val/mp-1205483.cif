@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Tm2C3N6
+_chemical_formula_sum              "Tm2 C3 N6"
+_cell_length_a       7.33109
+_cell_length_b       7.33109
+_cell_length_c       5.20244
+_cell_angle_alpha    84.0381
+_cell_angle_beta     84.0381
+_cell_angle_gamma    29.6143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.86572  0.86572  0.56945  1.0000
+  Tm  Tm2       1.0  0.13428  0.13428  0.43055  1.0000
+  C   C1        1.0  0.32796  0.32796  0.09396  1.0000
+  C   C2        1.0  0.67204  0.67204  0.90604  1.0000
+  C   C3        1.0  0.00000  0.00000  0.00000  1.0000
+  N   N1        1.0  0.98853  0.98853  0.23816  1.0000
+  N   N2        1.0  0.01147  0.01147  0.76184  1.0000
+  N   N3        1.0  0.68992  0.68992  0.66558  1.0000
+  N   N4        1.0  0.31008  0.31008  0.33442  1.0000
+  N   N5        1.0  0.65745  0.65745  0.14095  1.0000
+  N   N6        1.0  0.34255  0.34255  0.85905  1.0000

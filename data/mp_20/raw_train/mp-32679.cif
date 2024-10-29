@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Nb10C7
+_chemical_formula_sum              "Nb10 C7"
+_cell_length_a       8.34787
+_cell_length_b       8.34787
+_cell_length_c       5.51651
+_cell_angle_alpha    83.6098
+_cell_angle_beta     83.6098
+_cell_angle_gamma    141.51
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.43917  0.04771  0.73154  1.0000
+  Nb  Nb2       1.0  0.04771  0.43917  0.73154  1.0000
+  Nb  Nb3       1.0  0.95229  0.56083  0.26846  1.0000
+  Nb  Nb4       1.0  0.64718  0.85156  0.75860  1.0000
+  Nb  Nb5       1.0  0.56083  0.95229  0.26846  1.0000
+  Nb  Nb6       1.0  0.26378  0.26378  0.76398  1.0000
+  Nb  Nb7       1.0  0.14844  0.35282  0.24140  1.0000
+  Nb  Nb8       1.0  0.85156  0.64718  0.75860  1.0000
+  Nb  Nb9       1.0  0.73622  0.73622  0.23602  1.0000
+  Nb  Nb10      1.0  0.35282  0.14844  0.24140  1.0000
+  C   C1        1.0  0.19965  0.80035  0.50000  1.0000
+  C   C2        1.0  0.80035  0.19965  0.50000  1.0000
+  C   C3        1.0  0.39890  0.60110  0.50000  1.0000
+  C   C4        1.0  0.89928  0.10072  0.00000  1.0000
+  C   C5        1.0  0.60110  0.39890  0.50000  1.0000
+  C   C6        1.0  0.50000  0.50000  0.00000  1.0000
+  C   C7        1.0  0.10072  0.89928  0.00000  1.0000

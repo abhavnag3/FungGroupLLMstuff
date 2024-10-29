@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K2Ag2Cl6
+_chemical_formula_sum              "K2 Ag2 Cl6"
+_cell_length_a       7.20457
+_cell_length_b       7.20457
+_cell_length_c       7.20457
+_cell_angle_alpha    60.5465
+_cell_angle_beta     60.5465
+_cell_angle_gamma    60.5465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.73549  0.73549  0.73549  1.0000
+  K   K2        1.0  0.23549  0.23549  0.23549  1.0000
+  Ag  Ag1       1.0  0.99610  0.99610  0.99610  1.0000
+  Ag  Ag2       1.0  0.49610  0.49610  0.49610  1.0000
+  Cl  Cl1       1.0  0.74739  0.19714  0.29538  1.0000
+  Cl  Cl2       1.0  0.19715  0.29538  0.74739  1.0000
+  Cl  Cl3       1.0  0.29538  0.74739  0.19714  1.0000
+  Cl  Cl4       1.0  0.79538  0.69715  0.24739  1.0000
+  Cl  Cl5       1.0  0.24739  0.79538  0.69714  1.0000
+  Cl  Cl6       1.0  0.69715  0.24739  0.79538  1.0000

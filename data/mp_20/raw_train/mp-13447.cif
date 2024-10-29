@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn13Rh
+_chemical_formula_sum              "Zn13 Rh1"
+_cell_length_a       6.67816
+_cell_length_b       6.67816
+_cell_length_c       5.15245
+_cell_angle_alpha    80.3957
+_cell_angle_beta     80.3957
+_cell_angle_gamma    69.4082
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zn  Zn2       1.0  0.61839  0.22152  0.32071  1.0000
+  Zn  Zn3       1.0  0.77848  0.38161  0.67929  1.0000
+  Zn  Zn4       1.0  0.38161  0.77848  0.67929  1.0000
+  Zn  Zn5       1.0  0.22152  0.61839  0.32071  1.0000
+  Zn  Zn6       1.0  0.36138  0.99727  0.19782  1.0000
+  Zn  Zn7       1.0  0.00273  0.63862  0.80218  1.0000
+  Zn  Zn8       1.0  0.63862  0.00273  0.80218  1.0000
+  Zn  Zn9       1.0  0.99727  0.36138  0.19782  1.0000
+  Zn  Zn10      1.0  0.77606  0.77606  0.36942  1.0000
+  Zn  Zn11      1.0  0.22394  0.22394  0.63058  1.0000
+  Zn  Zn12      1.0  0.61247  0.61247  0.07133  1.0000
+  Zn  Zn13      1.0  0.38753  0.38753  0.92867  1.0000
+  Rh  Rh1       1.0  0.00000  0.00000  0.50000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba10Ge7O3
+_chemical_formula_sum              "Ba10 Ge7 O3"
+_cell_length_a       12.0804
+_cell_length_b       12.0804
+_cell_length_c       5.04066
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.91879  0.45940  0.00000  1.0000
+  Ba  Ba2       1.0  0.54060  0.45940  0.00000  1.0000
+  Ba  Ba3       1.0  0.54060  0.08121  0.00000  1.0000
+  Ba  Ba4       1.0  0.75028  0.87514  0.00000  1.0000
+  Ba  Ba5       1.0  0.12486  0.24972  0.00000  1.0000
+  Ba  Ba6       1.0  0.12486  0.87514  0.00000  1.0000
+  Ba  Ba7       1.0  0.33931  0.16966  0.50000  1.0000
+  Ba  Ba8       1.0  0.83034  0.16966  0.50000  1.0000
+  Ba  Ba9       1.0  0.83034  0.66069  0.50000  1.0000
+  Ba  Ba10      1.0  0.33333  0.66667  0.00000  1.0000
+  Ge  Ge1       1.0  0.33259  0.45576  0.50000  1.0000
+  Ge  Ge2       1.0  0.54424  0.87682  0.50000  1.0000
+  Ge  Ge3       1.0  0.12318  0.66741  0.50000  1.0000
+  Ge  Ge4       1.0  0.33259  0.87682  0.50000  1.0000
+  Ge  Ge5       1.0  0.12318  0.45576  0.50000  1.0000
+  Ge  Ge6       1.0  0.54424  0.66741  0.50000  1.0000
+  Ge  Ge7       1.0  0.66667  0.33333  0.50000  1.0000
+  O   O1        1.0  0.25865  0.12932  0.00000  1.0000
+  O   O2        1.0  0.87068  0.74135  0.00000  1.0000
+  O   O3        1.0  0.87068  0.12932  0.00000  1.0000

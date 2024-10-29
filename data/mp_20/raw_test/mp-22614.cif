@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2Fe2Ge4O12
+_chemical_formula_sum              "Na2 Fe2 Ge4 O12"
+_cell_length_a       6.81122
+_cell_length_b       6.81122
+_cell_length_c       5.59432
+_cell_angle_alpha    76.7673
+_cell_angle_beta     76.7673
+_cell_angle_gamma    83.09
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.29998  0.70002  0.75000  1.0000
+  Na  Na2       1.0  0.70002  0.29998  0.25000  1.0000
+  Fe  Fe1       1.0  0.90285  0.09715  0.75000  1.0000
+  Fe  Fe2       1.0  0.09715  0.90285  0.25000  1.0000
+  Ge  Ge1       1.0  0.80614  0.62005  0.72622  1.0000
+  Ge  Ge2       1.0  0.37995  0.19386  0.77378  1.0000
+  Ge  Ge3       1.0  0.19386  0.37995  0.27378  1.0000
+  Ge  Ge4       1.0  0.62005  0.80614  0.22622  1.0000
+  O   O1        1.0  0.91043  0.37203  0.79789  1.0000
+  O   O2        1.0  0.62797  0.08957  0.70211  1.0000
+  O   O3        1.0  0.08957  0.62797  0.20211  1.0000
+  O   O4        1.0  0.37203  0.91043  0.29789  1.0000
+  O   O5        1.0  0.97476  0.81504  0.62903  1.0000
+  O   O6        1.0  0.18496  0.02524  0.87097  1.0000
+  O   O7        1.0  0.02524  0.18496  0.37097  1.0000
+  O   O8        1.0  0.81504  0.97476  0.12903  1.0000
+  O   O9        1.0  0.64429  0.63434  0.51456  1.0000
+  O   O10       1.0  0.36566  0.35571  0.98544  1.0000
+  O   O11       1.0  0.35571  0.36566  0.48544  1.0000
+  O   O12       1.0  0.63434  0.64429  0.01456  1.0000

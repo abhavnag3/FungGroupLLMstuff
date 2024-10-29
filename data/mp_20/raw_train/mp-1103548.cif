@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ce3Si4Pd4
+_chemical_formula_sum              "Ce3 Si4 Pd4"
+_cell_length_a       12.6967
+_cell_length_b       12.6967
+_cell_length_c       12.6967
+_cell_angle_alpha    161.423
+_cell_angle_beta     160.854
+_cell_angle_gamma    26.8005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ce  Ce2       1.0  0.64621  0.14621  0.50000  1.0000
+  Ce  Ce3       1.0  0.35379  0.85379  0.50000  1.0000
+  Si  Si1       1.0  0.80376  0.30377  0.50000  1.0000
+  Si  Si2       1.0  0.19624  0.69624  0.50000  1.0000
+  Si  Si3       1.0  0.54843  0.54843  0.00000  1.0000
+  Si  Si4       1.0  0.45157  0.45157  0.00000  1.0000
+  Pd  Pd1       1.0  0.90265  0.40265  0.50000  1.0000
+  Pd  Pd2       1.0  0.09735  0.59735  0.50000  1.0000
+  Pd  Pd3       1.0  0.75053  0.75053  0.00000  1.0000
+  Pd  Pd4       1.0  0.24947  0.24947  0.00000  1.0000

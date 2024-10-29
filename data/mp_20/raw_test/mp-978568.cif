@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Si6Mo2Pt4
+_chemical_formula_sum              "Si6 Mo2 Pt4"
+_cell_length_a       3.51072
+_cell_length_b       5.53767
+_cell_length_c       9.25055
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.50000  0.17245  0.43523  1.0000
+  Si  Si2       1.0  0.50000  0.18400  0.77749  1.0000
+  Si  Si3       1.0  0.00000  0.34448  0.12698  1.0000
+  Si  Si4       1.0  0.50000  0.67245  0.56477  1.0000
+  Si  Si5       1.0  0.50000  0.68400  0.22251  1.0000
+  Si  Si6       1.0  0.00000  0.84448  0.87302  1.0000
+  Mo  Mo1       1.0  0.00000  0.99963  0.60531  1.0000
+  Mo  Mo2       1.0  0.00000  0.49963  0.39469  1.0000
+  Pt  Pt1       1.0  0.00000  0.99979  0.28579  1.0000
+  Pt  Pt2       1.0  0.50000  0.00095  0.02983  1.0000
+  Pt  Pt3       1.0  0.00000  0.49979  0.71421  1.0000
+  Pt  Pt4       1.0  0.50000  0.50095  0.97018  1.0000

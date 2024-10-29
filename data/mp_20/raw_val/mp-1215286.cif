@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Mn4Fe4
+_chemical_formula_sum              "Zr4 Mn4 Fe4"
+_cell_length_a       4.96812
+_cell_length_b       4.96906
+_cell_length_c       8.16446
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    59.7073
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.33323  0.33315  0.56399  1.0000
+  Zr  Zr2       1.0  0.66642  0.66639  0.43723  1.0000
+  Zr  Zr3       1.0  0.66642  0.66639  0.06277  1.0000
+  Zr  Zr4       1.0  0.33323  0.33315  0.93601  1.0000
+  Mn  Mn1       1.0  0.83394  0.83390  0.75000  1.0000
+  Mn  Mn2       1.0  0.16938  0.66138  0.25000  1.0000
+  Mn  Mn3       1.0  0.66130  0.16943  0.25000  1.0000
+  Mn  Mn4       1.0  0.16927  0.16926  0.25000  1.0000
+  Fe  Fe1       1.0  0.00008  0.00016  0.49582  1.0000
+  Fe  Fe2       1.0  0.00008  0.00016  0.00418  1.0000
+  Fe  Fe3       1.0  0.83377  0.33289  0.75000  1.0000
+  Fe  Fe4       1.0  0.33291  0.83374  0.75000  1.0000

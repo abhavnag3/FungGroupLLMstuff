@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Lu12Fe2Pb3
+_chemical_formula_sum              "Lu12 Fe2 Pb3"
+_cell_length_a       8.34856
+_cell_length_b       8.34856
+_cell_length_c       8.34856
+_cell_angle_alpha    110.017
+_cell_angle_beta     110.017
+_cell_angle_gamma    108.385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.30961  0.30961  0.61921  1.0000
+  Lu  Lu2       1.0  0.69039  0.69039  0.38079  1.0000
+  Lu  Lu3       1.0  0.30961  0.69039  0.00000  1.0000
+  Lu  Lu4       1.0  0.69039  0.30961  0.00000  1.0000
+  Lu  Lu5       1.0  0.45834  0.21225  0.24609  1.0000
+  Lu  Lu6       1.0  0.54166  0.78775  0.75391  1.0000
+  Lu  Lu7       1.0  0.96616  0.21225  0.75391  1.0000
+  Lu  Lu8       1.0  0.21225  0.96616  0.75391  1.0000
+  Lu  Lu9       1.0  0.03384  0.78775  0.24609  1.0000
+  Lu  Lu10      1.0  0.78775  0.03384  0.24609  1.0000
+  Lu  Lu11      1.0  0.21225  0.45834  0.24609  1.0000
+  Lu  Lu12      1.0  0.78775  0.54166  0.75391  1.0000
+  Fe  Fe1       1.0  0.38081  0.38081  0.00000  1.0000
+  Fe  Fe2       1.0  0.61919  0.61919  0.00000  1.0000
+  Pb  Pb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pb  Pb2       1.0  0.50000  0.00000  0.50000  1.0000
+  Pb  Pb3       1.0  0.00000  0.50000  0.50000  1.0000

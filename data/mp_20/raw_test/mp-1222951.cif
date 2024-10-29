@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       LaGd3Br4O4
+_chemical_formula_sum              "La1 Gd3 Br4 O4"
+_cell_length_a       9.37885
+_cell_length_b       9.37885
+_cell_length_c       3.95109
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    130.139
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.07466  0.92534  0.50000  1.0000
+  Gd  Gd1       1.0  0.56620  0.43380  0.50000  1.0000
+  Gd  Gd2       1.0  0.68135  0.81924  0.00000  1.0000
+  Gd  Gd3       1.0  0.18076  0.31865  0.00000  1.0000
+  Br  Br1       1.0  0.83562  0.16438  0.50000  1.0000
+  Br  Br2       1.0  0.33295  0.66705  0.50000  1.0000
+  Br  Br3       1.0  0.90529  0.57153  0.00000  1.0000
+  Br  Br4       1.0  0.42847  0.09471  0.00000  1.0000
+  O   O1        1.0  0.74562  0.74837  0.50000  1.0000
+  O   O2        1.0  0.25163  0.25438  0.50000  1.0000
+  O   O3        1.0  0.49819  0.50181  0.00000  1.0000
+  O   O4        1.0  0.99926  0.00074  0.00000  1.0000

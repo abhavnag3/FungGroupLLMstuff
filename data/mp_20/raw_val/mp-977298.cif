@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li4Be4H12
+_chemical_formula_sum              "Li4 Be4 H12"
+_cell_length_a       5.91169
+_cell_length_b       5.91169
+_cell_length_c       4.69228
+_cell_angle_alpha    76.0184
+_cell_angle_beta     76.0184
+_cell_angle_gamma    85.2627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.09933  0.90067  0.25000  1.0000
+  Li  Li2       1.0  0.29096  0.70904  0.75000  1.0000
+  Li  Li3       1.0  0.70905  0.29096  0.25000  1.0000
+  Li  Li4       1.0  0.90067  0.09934  0.75000  1.0000
+  Be  Be1       1.0  0.62713  0.80180  0.26081  1.0000
+  Be  Be2       1.0  0.80180  0.62713  0.76081  1.0000
+  Be  Be3       1.0  0.19820  0.37287  0.23919  1.0000
+  Be  Be4       1.0  0.37287  0.19820  0.73919  1.0000
+  H   H1        1.0  0.79185  0.97996  0.16073  1.0000
+  H   H2        1.0  0.39436  0.88367  0.34160  1.0000
+  H   H3        1.0  0.97996  0.79185  0.66073  1.0000
+  H   H4        1.0  0.63189  0.65608  0.04132  1.0000
+  H   H5        1.0  0.65608  0.63189  0.54132  1.0000
+  H   H6        1.0  0.11633  0.60564  0.15840  1.0000
+  H   H7        1.0  0.88367  0.39436  0.84160  1.0000
+  H   H8        1.0  0.34392  0.36811  0.45868  1.0000
+  H   H9        1.0  0.36811  0.34392  0.95868  1.0000
+  H   H10       1.0  0.02004  0.20815  0.33927  1.0000
+  H   H11       1.0  0.60564  0.11633  0.65840  1.0000
+  H   H12       1.0  0.20815  0.02004  0.83927  1.0000

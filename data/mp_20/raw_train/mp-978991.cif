@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TmMg5
+_chemical_formula_sum              "Tm1 Mg5"
+_cell_length_a       6.33126
+_cell_length_b       6.33126
+_cell_length_c       7.39529
+_cell_angle_alpha    74.3035
+_cell_angle_beta     74.3035
+_cell_angle_gamma    31.0857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.62102  0.62102  0.25767  1.0000
+  Mg  Mg1       1.0  0.98610  0.98610  0.00973  1.0000
+  Mg  Mg2       1.0  0.28866  0.28866  0.92444  1.0000
+  Mg  Mg3       1.0  0.65806  0.65806  0.68577  1.0000
+  Mg  Mg4       1.0  0.94728  0.94728  0.60457  1.0000
+  Mg  Mg5       1.0  0.33223  0.33222  0.35116  1.0000

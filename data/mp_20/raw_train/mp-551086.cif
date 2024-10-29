@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cr2Fe2Bi4O12
+_chemical_formula_sum              "Cr2 Fe2 Bi4 O12"
+_cell_length_a       5.61231
+_cell_length_b       5.61209
+_cell_length_c       9.85419
+_cell_angle_alpha    73.4573
+_cell_angle_beta     73.4581
+_cell_angle_gamma    59.9984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.88710  0.88711  0.33874  1.0000
+  Cr  Cr2       1.0  0.38765  0.38764  0.83706  1.0000
+  Fe  Fe1       1.0  0.13481  0.13480  0.59563  1.0000
+  Fe  Fe2       1.0  0.63518  0.63519  0.09452  1.0000
+  Bi  Bi1       1.0  0.74589  0.74585  0.76225  1.0000
+  Bi  Bi2       1.0  0.24594  0.24592  0.26208  1.0000
+  Bi  Bi3       1.0  0.99720  0.99724  0.00826  1.0000
+  Bi  Bi4       1.0  0.49746  0.49752  0.50741  1.0000
+  O   O1        1.0  0.00147  0.45241  0.94594  1.0000
+  O   O2        1.0  0.50121  0.95050  0.44506  1.0000
+  O   O3        1.0  0.60019  0.00146  0.94596  1.0000
+  O   O4        1.0  0.10329  0.50119  0.44508  1.0000
+  O   O5        1.0  0.45239  0.60022  0.94595  1.0000
+  O   O6        1.0  0.95046  0.10333  0.44506  1.0000
+  O   O7        1.0  0.35039  0.20318  0.69720  1.0000
+  O   O8        1.0  0.84794  0.70501  0.19715  1.0000
+  O   O9        1.0  0.74925  0.35036  0.69720  1.0000
+  O   O10       1.0  0.24994  0.84790  0.19716  1.0000
+  O   O11       1.0  0.20321  0.74923  0.69716  1.0000
+  O   O12       1.0  0.70501  0.24993  0.19713  1.0000

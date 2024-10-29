@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La4Te4Cl4
+_chemical_formula_sum              "La4 Te4 Cl4"
+_cell_length_a       4.53334
+_cell_length_b       8.00574
+_cell_length_c       9.45472
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.25000  0.23839  0.63158  1.0000
+  La  La2       1.0  0.25000  0.73840  0.86842  1.0000
+  La  La3       1.0  0.75000  0.76160  0.36842  1.0000
+  La  La4       1.0  0.75000  0.26160  0.13158  1.0000
+  Te  Te1       1.0  0.25000  0.46170  0.33182  1.0000
+  Te  Te2       1.0  0.25000  0.96171  0.16818  1.0000
+  Te  Te3       1.0  0.75000  0.53829  0.66818  1.0000
+  Te  Te4       1.0  0.75000  0.03830  0.83182  1.0000
+  Cl  Cl1       1.0  0.25000  0.86502  0.56036  1.0000
+  Cl  Cl2       1.0  0.25000  0.36502  0.93964  1.0000
+  Cl  Cl3       1.0  0.75000  0.13498  0.43964  1.0000
+  Cl  Cl4       1.0  0.75000  0.63498  0.06036  1.0000

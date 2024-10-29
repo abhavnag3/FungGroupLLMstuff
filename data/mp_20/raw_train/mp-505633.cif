@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs4Zn6S8
+_chemical_formula_sum              "Cs4 Zn6 S8"
+_cell_length_a       9.58084
+_cell_length_b       9.58084
+_cell_length_c       9.58084
+_cell_angle_alpha    144
+_cell_angle_beta     106.127
+_cell_angle_gamma    85.0215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.87909  0.76572  0.64481  1.0000
+  Cs  Cs2       1.0  0.62091  0.26572  0.88662  1.0000
+  Cs  Cs3       1.0  0.37909  0.73428  0.11338  1.0000
+  Cs  Cs4       1.0  0.12091  0.23428  0.35519  1.0000
+  Zn  Zn1       1.0  0.25000  0.75000  0.50000  1.0000
+  Zn  Zn2       1.0  0.75000  0.25000  0.50000  1.0000
+  Zn  Zn3       1.0  0.02450  0.25000  0.77450  1.0000
+  Zn  Zn4       1.0  0.47550  0.25000  0.22550  1.0000
+  Zn  Zn5       1.0  0.97550  0.75000  0.22550  1.0000
+  Zn  Zn6       1.0  0.52450  0.75000  0.77450  1.0000
+  S   S1        1.0  0.79233  0.93948  0.41581  1.0000
+  S   S2        1.0  0.70767  0.12347  0.14714  1.0000
+  S   S3        1.0  0.97633  0.56052  0.85286  1.0000
+  S   S4        1.0  0.52367  0.37653  0.58419  1.0000
+  S   S5        1.0  0.20767  0.06052  0.58419  1.0000
+  S   S6        1.0  0.29233  0.87653  0.85286  1.0000
+  S   S7        1.0  0.02367  0.43948  0.14714  1.0000
+  S   S8        1.0  0.47633  0.62347  0.41581  1.0000

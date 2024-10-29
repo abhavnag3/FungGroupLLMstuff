@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs4U2Br8O4
+_chemical_formula_sum              "Cs4 U2 Br8 O4"
+_cell_length_a       10.0254
+_cell_length_b       6.68768
+_cell_length_c       10.1606
+_cell_angle_alpha    74.8817
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.88221  0.32012  0.33506  1.0000
+  Cs  Cs2       1.0  0.11779  0.67988  0.66494  1.0000
+  Cs  Cs3       1.0  0.38221  0.67988  0.16494  1.0000
+  Cs  Cs4       1.0  0.61779  0.32012  0.83506  1.0000
+  U   U1        1.0  0.00000  0.00000  0.00000  1.0000
+  U   U2        1.0  0.50000  0.00000  0.50000  1.0000
+  Br  Br1       1.0  0.72996  0.74634  0.52537  1.0000
+  Br  Br2       1.0  0.27004  0.25366  0.47463  1.0000
+  Br  Br3       1.0  0.44209  0.83597  0.78138  1.0000
+  Br  Br4       1.0  0.77004  0.74634  0.02537  1.0000
+  Br  Br5       1.0  0.05791  0.83597  0.28138  1.0000
+  Br  Br6       1.0  0.55791  0.16403  0.21862  1.0000
+  Br  Br7       1.0  0.22996  0.25366  0.97463  1.0000
+  Br  Br8       1.0  0.94209  0.16403  0.71862  1.0000
+  O   O1        1.0  0.60158  0.20073  0.53966  1.0000
+  O   O2        1.0  0.39842  0.79927  0.46034  1.0000
+  O   O3        1.0  0.89842  0.20073  0.03966  1.0000
+  O   O4        1.0  0.10158  0.79927  0.96034  1.0000

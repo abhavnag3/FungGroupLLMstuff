@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2Mn4Te2O12
+_chemical_formula_sum              "Li2 Mn4 Te2 O12"
+_cell_length_a       5.13968
+_cell_length_b       5.18358
+_cell_length_c       8.71334
+_cell_angle_alpha    89.9989
+_cell_angle_beta     92.1944
+_cell_angle_gamma    91.3294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50975  0.50133  0.90577  1.0000
+  Li  Li2       1.0  0.56734  0.89336  0.18923  1.0000
+  Mn  Mn1       1.0  0.51028  0.99197  0.68723  1.0000
+  Mn  Mn2       1.0  0.01677  0.01290  0.39420  1.0000
+  Mn  Mn3       1.0  0.01072  0.46947  0.76183  1.0000
+  Mn  Mn4       1.0  0.01925  0.50352  0.18076  1.0000
+  Te  Te1       1.0  0.51517  0.50334  0.49042  1.0000
+  Te  Te2       1.0  0.01225  0.99481  0.99352  1.0000
+  O   O1        1.0  0.20592  0.82981  0.17047  1.0000
+  O   O2        1.0  0.27000  0.35302  0.33797  1.0000
+  O   O3        1.0  0.69842  0.67404  0.67422  1.0000
+  O   O4        1.0  0.29933  0.80683  0.52132  1.0000
+  O   O5        1.0  0.21277  0.30942  0.98554  1.0000
+  O   O6        1.0  0.76388  0.15142  0.84593  1.0000
+  O   O7        1.0  0.78491  0.69228  0.02490  1.0000
+  O   O8        1.0  0.31790  0.31199  0.65123  1.0000
+  O   O9        1.0  0.83496  0.16948  0.16576  1.0000
+  O   O10       1.0  0.21597  0.81748  0.84779  1.0000
+  O   O11       1.0  0.73825  0.68031  0.34853  1.0000
+  O   O12       1.0  0.74578  0.22083  0.51788  1.0000

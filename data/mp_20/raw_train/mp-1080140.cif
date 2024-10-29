@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sn2P2S6
+_chemical_formula_sum              "Sn2 P2 S6"
+_cell_length_a       6.76219
+_cell_length_b       6.76219
+_cell_length_c       7.20178
+_cell_angle_alpha    81.0724
+_cell_angle_beta     81.0724
+_cell_angle_gamma    120.116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.66693  0.33307  0.00000  1.0000
+  Sn  Sn2       1.0  0.33307  0.66693  0.00000  1.0000
+  P   P1        1.0  0.05471  0.05471  0.83520  1.0000
+  P   P2        1.0  0.94529  0.94529  0.16480  1.0000
+  S   S1        1.0  0.79160  0.79160  0.75040  1.0000
+  S   S2        1.0  0.20840  0.20840  0.24960  1.0000
+  S   S3        1.0  0.08373  0.37326  0.74658  1.0000
+  S   S4        1.0  0.37326  0.08373  0.74658  1.0000
+  S   S5        1.0  0.91627  0.62674  0.25342  1.0000
+  S   S6        1.0  0.62674  0.91627  0.25342  1.0000

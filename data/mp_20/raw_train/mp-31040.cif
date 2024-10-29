@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Nb2Cl8
+_chemical_formula_sum              "Nb2 Cl8"
+_cell_length_a       7.40953
+_cell_length_b       7.40953
+_cell_length_c       8.73878
+_cell_angle_alpha    55.0885
+_cell_angle_beta     55.0885
+_cell_angle_gamma    55.4741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.22000  0.78000  0.00000  1.0000
+  Nb  Nb2       1.0  0.78000  0.22000  0.00000  1.0000
+  Cl  Cl1       1.0  0.66680  0.66680  0.85560  1.0000
+  Cl  Cl2       1.0  0.33320  0.33320  0.14440  1.0000
+  Cl  Cl3       1.0  0.80823  0.80823  0.16601  1.0000
+  Cl  Cl4       1.0  0.19177  0.19177  0.83399  1.0000
+  Cl  Cl5       1.0  0.73440  0.22326  0.28465  1.0000
+  Cl  Cl6       1.0  0.77674  0.26560  0.71535  1.0000
+  Cl  Cl7       1.0  0.26560  0.77674  0.71535  1.0000
+  Cl  Cl8       1.0  0.22326  0.73440  0.28465  1.0000

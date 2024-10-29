@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       As2I4F12
+_chemical_formula_sum              "As2 I4 F12"
+_cell_length_a       8.16259
+_cell_length_b       8.16259
+_cell_length_c       6.03323
+_cell_angle_alpha    81.289
+_cell_angle_beta     81.289
+_cell_angle_gamma    78.4431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.30633  0.30633  0.43243  1.0000
+  As  As2       1.0  0.69367  0.69367  0.56757  1.0000
+  I   I1        1.0  0.07729  0.76078  0.89356  1.0000
+  I   I2        1.0  0.76078  0.07729  0.89356  1.0000
+  I   I3        1.0  0.23922  0.92271  0.10644  1.0000
+  I   I4        1.0  0.92271  0.23922  0.10644  1.0000
+  F   F1        1.0  0.78900  0.54382  0.38351  1.0000
+  F   F2        1.0  0.15220  0.39510  0.24112  1.0000
+  F   F3        1.0  0.43988  0.43988  0.28240  1.0000
+  F   F4        1.0  0.54382  0.78900  0.38351  1.0000
+  F   F5        1.0  0.60490  0.84780  0.75888  1.0000
+  F   F6        1.0  0.84780  0.60490  0.75888  1.0000
+  F   F7        1.0  0.83236  0.83236  0.43297  1.0000
+  F   F8        1.0  0.21100  0.45618  0.61649  1.0000
+  F   F9        1.0  0.45618  0.21100  0.61649  1.0000
+  F   F10       1.0  0.16764  0.16764  0.56703  1.0000
+  F   F11       1.0  0.56012  0.56012  0.71760  1.0000
+  F   F12       1.0  0.39510  0.15220  0.24112  1.0000

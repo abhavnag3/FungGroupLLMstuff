@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Ge2Pt2
+_chemical_formula_sum              "Nd2 Ge2 Pt2"
+_cell_length_a       5.76279
+_cell_length_b       5.76279
+_cell_length_c       7.34336
+_cell_angle_alpha    51.4884
+_cell_angle_beta     51.4884
+_cell_angle_gamma    45.2309
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.54539  0.54539  0.69148  1.0000
+  Nd  Nd2       1.0  0.45461  0.45461  0.30852  1.0000
+  Ge  Ge1       1.0  0.83827  0.83827  0.09809  1.0000
+  Ge  Ge2       1.0  0.16173  0.16173  0.90191  1.0000
+  Pt  Pt1       1.0  0.18029  0.18029  0.28061  1.0000
+  Pt  Pt2       1.0  0.81971  0.81971  0.71939  1.0000

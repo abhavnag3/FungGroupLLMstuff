@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb4Al4Au4
+_chemical_formula_sum              "Yb4 Al4 Au4"
+_cell_length_a       4.48866
+_cell_length_b       7.1736
+_cell_length_c       7.92197
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.75000  0.47258  0.82444  1.0000
+  Yb  Yb2       1.0  0.25000  0.02742  0.32443  1.0000
+  Yb  Yb3       1.0  0.75000  0.97258  0.67556  1.0000
+  Yb  Yb4       1.0  0.25000  0.52742  0.17556  1.0000
+  Al  Al1       1.0  0.25000  0.64135  0.55883  1.0000
+  Al  Al2       1.0  0.25000  0.14135  0.94117  1.0000
+  Al  Al3       1.0  0.75000  0.35865  0.44117  1.0000
+  Al  Al4       1.0  0.75000  0.85865  0.05883  1.0000
+  Au  Au1       1.0  0.25000  0.77900  0.87179  1.0000
+  Au  Au2       1.0  0.25000  0.27900  0.62821  1.0000
+  Au  Au3       1.0  0.75000  0.72100  0.37179  1.0000
+  Au  Au4       1.0  0.75000  0.22100  0.12821  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ta4H4O12
+_chemical_formula_sum              "Ta4 H4 O12"
+_cell_length_a       7.50101
+_cell_length_b       7.50101
+_cell_length_c       7.50101
+_cell_angle_alpha    117.745
+_cell_angle_beta     117.745
+_cell_angle_gamma    93.9526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.87500  0.12500  0.25000  1.0000
+  Ta  Ta2       1.0  0.37500  0.12500  0.25000  1.0000
+  Ta  Ta3       1.0  0.87500  0.62500  0.75000  1.0000
+  Ta  Ta4       1.0  0.87500  0.12500  0.75000  1.0000
+  H   H1        1.0  0.69888  0.69888  0.00000  1.0000
+  H   H2        1.0  0.30112  0.30112  0.00000  1.0000
+  H   H3        1.0  0.44888  0.94888  0.50000  1.0000
+  H   H4        1.0  0.05112  0.55112  0.50000  1.0000
+  O   O1        1.0  0.79394  0.79394  0.00000  1.0000
+  O   O2        1.0  0.82474  0.17526  0.00000  1.0000
+  O   O3        1.0  0.82474  0.82474  0.64948  1.0000
+  O   O4        1.0  0.17526  0.17526  0.35052  1.0000
+  O   O5        1.0  0.54394  0.04394  0.50000  1.0000
+  O   O6        1.0  0.57474  0.42526  0.50000  1.0000
+  O   O7        1.0  0.17526  0.82474  0.00000  1.0000
+  O   O8        1.0  0.20606  0.20606  0.00000  1.0000
+  O   O9        1.0  0.57474  0.07474  0.14948  1.0000
+  O   O10       1.0  0.92526  0.42526  0.85052  1.0000
+  O   O11       1.0  0.92526  0.07474  0.50000  1.0000
+  O   O12       1.0  0.95606  0.45606  0.50000  1.0000

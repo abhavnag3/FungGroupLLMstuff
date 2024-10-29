@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs4Si2P4
+_chemical_formula_sum              "Cs4 Si2 P4"
+_cell_length_a       8.71951
+_cell_length_b       8.71951
+_cell_length_c       8.71951
+_cell_angle_alpha    138.13
+_cell_angle_beta     127.764
+_cell_angle_gamma    69.0796
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.97445  0.14633  0.82812  1.0000
+  Cs  Cs2       1.0  0.02554  0.85367  0.17188  1.0000
+  Cs  Cs3       1.0  0.68179  0.35367  0.32812  1.0000
+  Cs  Cs4       1.0  0.31821  0.64633  0.67188  1.0000
+  Si  Si1       1.0  0.50000  0.75000  0.25000  1.0000
+  Si  Si2       1.0  0.50000  0.25000  0.75000  1.0000
+  P   P1        1.0  0.73452  0.58724  0.14728  1.0000
+  P   P2        1.0  0.56004  0.91276  0.64728  1.0000
+  P   P3        1.0  0.43996  0.08724  0.35272  1.0000
+  P   P4        1.0  0.26549  0.41276  0.85272  1.0000

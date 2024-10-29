@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K6Li2Ir2O8
+_chemical_formula_sum              "K6 Li2 Ir2 O8"
+_cell_length_a       7.31946
+_cell_length_b       7.31946
+_cell_length_c       5.99232
+_cell_angle_alpha    79.6611
+_cell_angle_beta     79.6611
+_cell_angle_gamma    84.5407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.06572  0.24369  0.02607  1.0000
+  K   K2        1.0  0.59479  0.40520  0.25000  1.0000
+  K   K3        1.0  0.24369  0.06572  0.52607  1.0000
+  K   K4        1.0  0.75631  0.93428  0.47393  1.0000
+  K   K5        1.0  0.93428  0.75631  0.97393  1.0000
+  K   K6        1.0  0.40520  0.59479  0.75000  1.0000
+  Li  Li1       1.0  0.73182  0.26817  0.75000  1.0000
+  Li  Li2       1.0  0.26817  0.73182  0.25000  1.0000
+  Ir  Ir1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ir  Ir2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.20369  0.48054  0.24626  1.0000
+  O   O2        1.0  0.91319  0.26508  0.46986  1.0000
+  O   O3        1.0  0.48054  0.20369  0.74626  1.0000
+  O   O4        1.0  0.26508  0.91319  0.96986  1.0000
+  O   O5        1.0  0.08681  0.73492  0.53014  1.0000
+  O   O6        1.0  0.73492  0.08681  0.03013  1.0000
+  O   O7        1.0  0.51946  0.79631  0.25374  1.0000
+  O   O8        1.0  0.79631  0.51946  0.75374  1.0000

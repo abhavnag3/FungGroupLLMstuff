@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Th14Os6
+_chemical_formula_sum              "Th14 Os6"
+_cell_length_a       10.0339
+_cell_length_b       10.0339
+_cell_length_c       6.3476
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.46049  0.53951  0.30030  1.0000
+  Th  Th2       1.0  0.07902  0.53951  0.30030  1.0000
+  Th  Th3       1.0  0.92098  0.46049  0.80030  1.0000
+  Th  Th4       1.0  0.25249  0.12624  0.50143  1.0000
+  Th  Th5       1.0  0.53951  0.07902  0.80030  1.0000
+  Th  Th6       1.0  0.74751  0.87376  0.00143  1.0000
+  Th  Th7       1.0  0.66667  0.33333  0.28595  1.0000
+  Th  Th8       1.0  0.12624  0.87376  0.00143  1.0000
+  Th  Th9       1.0  0.46049  0.92098  0.30030  1.0000
+  Th  Th10      1.0  0.53951  0.46049  0.80030  1.0000
+  Th  Th11      1.0  0.87376  0.12624  0.50143  1.0000
+  Th  Th12      1.0  0.12624  0.25249  0.00143  1.0000
+  Th  Th13      1.0  0.87376  0.74751  0.50143  1.0000
+  Th  Th14      1.0  0.33333  0.66667  0.78595  1.0000
+  Os  Os1       1.0  0.81264  0.62528  0.05028  1.0000
+  Os  Os2       1.0  0.81264  0.18736  0.05028  1.0000
+  Os  Os3       1.0  0.62528  0.81264  0.55028  1.0000
+  Os  Os4       1.0  0.37472  0.18736  0.05028  1.0000
+  Os  Os5       1.0  0.18736  0.37472  0.55028  1.0000
+  Os  Os6       1.0  0.18736  0.81264  0.55028  1.0000

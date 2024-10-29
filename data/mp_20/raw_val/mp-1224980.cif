@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       FeCu3S8
+_chemical_formula_sum              "Fe1 Cu3 S8"
+_cell_length_a       5.69683
+_cell_length_b       5.69683
+_cell_length_c       5.69683
+_cell_angle_alpha    89.5038
+_cell_angle_beta     89.5038
+_cell_angle_gamma    89.5038
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cu  Cu2       1.0  0.50000  0.00000  0.50000  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.90198  0.09759  0.62124  1.0000
+  S   S2        1.0  0.09759  0.62124  0.90198  1.0000
+  S   S3        1.0  0.62124  0.90198  0.09759  1.0000
+  S   S4        1.0  0.39833  0.39833  0.39833  1.0000
+  S   S5        1.0  0.09802  0.90241  0.37876  1.0000
+  S   S6        1.0  0.90241  0.37876  0.09802  1.0000
+  S   S7        1.0  0.37876  0.09802  0.90241  1.0000
+  S   S8        1.0  0.60167  0.60167  0.60167  1.0000

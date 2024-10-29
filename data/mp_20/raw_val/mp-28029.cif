@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tc4P12
+_chemical_formula_sum              "Tc4 P12"
+_cell_length_a       3.11689
+_cell_length_b       5.17277
+_cell_length_c       15.4427
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tc  Tc1       1.0  0.25000  0.35050  0.65049  1.0000
+  Tc  Tc2       1.0  0.75000  0.64950  0.34951  1.0000
+  Tc  Tc3       1.0  0.75000  0.85050  0.84951  1.0000
+  Tc  Tc4       1.0  0.25000  0.14950  0.15049  1.0000
+  P   P1        1.0  0.25000  0.52233  0.79281  1.0000
+  P   P2        1.0  0.75000  0.47767  0.20719  1.0000
+  P   P3        1.0  0.75000  0.02233  0.70719  1.0000
+  P   P4        1.0  0.25000  0.97767  0.29281  1.0000
+  P   P5        1.0  0.25000  0.35308  0.01280  1.0000
+  P   P6        1.0  0.75000  0.64692  0.98720  1.0000
+  P   P7        1.0  0.75000  0.85308  0.48720  1.0000
+  P   P8        1.0  0.25000  0.14692  0.51280  1.0000
+  P   P9        1.0  0.25000  0.31969  0.38145  1.0000
+  P   P10       1.0  0.75000  0.68031  0.61855  1.0000
+  P   P11       1.0  0.75000  0.81969  0.11855  1.0000
+  P   P12       1.0  0.25000  0.18031  0.88145  1.0000

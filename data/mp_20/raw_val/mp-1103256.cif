@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe4Sb4Se4
+_chemical_formula_sum              "Fe4 Sb4 Se4"
+_cell_length_a       6.13133
+_cell_length_b       6.25418
+_cell_length_c       6.26121
+_cell_angle_alpha    113.715
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.50849  0.70840  0.20157  1.0000
+  Fe  Fe2       1.0  0.00849  0.29160  0.29843  1.0000
+  Fe  Fe3       1.0  0.49151  0.29160  0.79843  1.0000
+  Fe  Fe4       1.0  0.99151  0.70840  0.70157  1.0000
+  Sb  Sb1       1.0  0.13832  0.85721  0.12549  1.0000
+  Sb  Sb2       1.0  0.63832  0.14278  0.37451  1.0000
+  Sb  Sb3       1.0  0.86168  0.14278  0.87451  1.0000
+  Sb  Sb4       1.0  0.36168  0.85721  0.62549  1.0000
+  Se  Se1       1.0  0.85928  0.64644  0.32891  1.0000
+  Se  Se2       1.0  0.35929  0.35356  0.17109  1.0000
+  Se  Se3       1.0  0.14072  0.35356  0.67109  1.0000
+  Se  Se4       1.0  0.64072  0.64644  0.82891  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tm12Co5Bi
+_chemical_formula_sum              "Tm12 Co5 Bi1"
+_cell_length_a       8.19307
+_cell_length_b       8.19307
+_cell_length_c       8.19307
+_cell_angle_alpha    110.986
+_cell_angle_beta     110.846
+_cell_angle_gamma    106.619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.28448  0.18256  0.46704  1.0000
+  Tm  Tm2       1.0  0.71552  0.81744  0.53296  1.0000
+  Tm  Tm3       1.0  0.28448  0.81744  0.10193  1.0000
+  Tm  Tm4       1.0  0.71552  0.18256  0.89807  1.0000
+  Tm  Tm5       1.0  0.61912  0.31132  0.30780  1.0000
+  Tm  Tm6       1.0  0.38088  0.68868  0.69220  1.0000
+  Tm  Tm7       1.0  0.00352  0.31132  0.69220  1.0000
+  Tm  Tm8       1.0  0.99648  0.68868  0.30780  1.0000
+  Tm  Tm9       1.0  0.21122  0.40769  0.19648  1.0000
+  Tm  Tm10      1.0  0.78878  0.59231  0.80352  1.0000
+  Tm  Tm11      1.0  0.21122  0.01474  0.80352  1.0000
+  Tm  Tm12      1.0  0.78878  0.98526  0.19648  1.0000
+  Co  Co1       1.0  0.00000  0.37481  0.37481  1.0000
+  Co  Co2       1.0  0.00000  0.62519  0.62519  1.0000
+  Co  Co3       1.0  0.38802  0.88802  0.50000  1.0000
+  Co  Co4       1.0  0.61198  0.11198  0.50000  1.0000
+  Co  Co5       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi1       1.0  0.50000  0.50000  0.00000  1.0000

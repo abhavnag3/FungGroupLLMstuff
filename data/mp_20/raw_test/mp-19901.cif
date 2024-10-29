@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4In4Au4
+_chemical_formula_sum              "Eu4 In4 Au4"
+_cell_length_a       4.75312
+_cell_length_b       7.58104
+_cell_length_c       8.5733
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.75000  0.47469  0.81554  1.0000
+  Eu  Eu2       1.0  0.25000  0.02531  0.31554  1.0000
+  Eu  Eu3       1.0  0.75000  0.97469  0.68446  1.0000
+  Eu  Eu4       1.0  0.25000  0.52531  0.18446  1.0000
+  In  In1       1.0  0.25000  0.65717  0.56546  1.0000
+  In  In2       1.0  0.25000  0.15717  0.93454  1.0000
+  In  In3       1.0  0.75000  0.34283  0.43454  1.0000
+  In  In4       1.0  0.75000  0.84283  0.06546  1.0000
+  Au  Au1       1.0  0.25000  0.77393  0.88323  1.0000
+  Au  Au2       1.0  0.25000  0.27393  0.61677  1.0000
+  Au  Au3       1.0  0.75000  0.72607  0.38322  1.0000
+  Au  Au4       1.0  0.75000  0.22607  0.11678  1.0000

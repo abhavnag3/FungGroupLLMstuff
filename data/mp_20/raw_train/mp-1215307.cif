@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Al4Mo4
+_chemical_formula_sum              "Zr4 Al4 Mo4"
+_cell_length_a       5.31884
+_cell_length_b       5.31884
+_cell_length_c       8.88974
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.33476  0.66524  0.18612  1.0000
+  Zr  Zr2       1.0  0.66985  0.33015  0.31475  1.0000
+  Zr  Zr3       1.0  0.66985  0.33015  0.68525  1.0000
+  Zr  Zr4       1.0  0.33476  0.66524  0.81388  1.0000
+  Al  Al1       1.0  0.99569  0.00431  0.24902  1.0000
+  Al  Al2       1.0  0.99569  0.00431  0.75098  1.0000
+  Al  Al3       1.0  0.83127  0.65857  0.00000  1.0000
+  Al  Al4       1.0  0.34143  0.16873  0.00000  1.0000
+  Mo  Mo1       1.0  0.83235  0.16765  0.00000  1.0000
+  Mo  Mo2       1.0  0.16870  0.34279  0.50000  1.0000
+  Mo  Mo3       1.0  0.65721  0.83130  0.50000  1.0000
+  Mo  Mo4       1.0  0.16859  0.83142  0.50000  1.0000

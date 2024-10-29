@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nb2CrSe4
+_chemical_formula_sum              "Nb2 Cr1 Se4"
+_cell_length_a       7.0825
+_cell_length_b       7.0825
+_cell_length_c       6.38954
+_cell_angle_alpha    65.1518
+_cell_angle_beta     65.1518
+_cell_angle_gamma    28.9037
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.74331  0.74331  0.32104  1.0000
+  Nb  Nb2       1.0  0.25669  0.25669  0.67896  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Se  Se1       1.0  0.10031  0.10031  0.55449  1.0000
+  Se  Se2       1.0  0.63571  0.63571  0.02364  1.0000
+  Se  Se3       1.0  0.89969  0.89969  0.44551  1.0000
+  Se  Se4       1.0  0.36429  0.36429  0.97636  1.0000

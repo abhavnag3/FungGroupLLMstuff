@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Co4Sn2O8
+_chemical_formula_sum              "Co4 Sn2 O8"
+_cell_length_a       6.20422
+_cell_length_b       6.20422
+_cell_length_c       6.20422
+_cell_angle_alpha    121.244
+_cell_angle_beta     118.921
+_cell_angle_gamma    89.8695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.11181  0.86181  0.25000  1.0000
+  Co  Co2       1.0  0.88819  0.13819  0.75000  1.0000
+  Co  Co3       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co4       1.0  0.50000  0.50000  0.50000  1.0000
+  Sn  Sn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn2       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.74826  0.26503  0.01677  1.0000
+  O   O2        1.0  0.74826  0.73149  0.48323  1.0000
+  O   O3        1.0  0.74664  0.26474  0.48190  1.0000
+  O   O4        1.0  0.28285  0.26474  0.01810  1.0000
+  O   O5        1.0  0.71715  0.73526  0.98189  1.0000
+  O   O6        1.0  0.25336  0.73526  0.51811  1.0000
+  O   O7        1.0  0.25174  0.26851  0.51677  1.0000
+  O   O8        1.0  0.25174  0.73497  0.98323  1.0000

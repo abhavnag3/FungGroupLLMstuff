@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       U5S10
+_chemical_formula_sum              "U5 S10"
+_cell_length_a       5.2131
+_cell_length_b       7.93112
+_cell_length_c       7.93112
+_cell_angle_alpha    96.2006
+_cell_angle_beta     109.187
+_cell_angle_gamma    70.8132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.33826  0.50000  0.17653  1.0000
+  U   U2        1.0  0.66174  0.50000  0.82347  1.0000
+  U   U3        1.0  0.83826  0.82347  0.50000  1.0000
+  U   U4        1.0  0.16174  0.17653  0.50000  1.0000
+  U   U5        1.0  0.25000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.41595  0.86230  0.69951  1.0000
+  S   S2        1.0  0.57873  0.13770  0.30049  1.0000
+  S   S3        1.0  0.92127  0.30049  0.13770  1.0000
+  S   S4        1.0  0.08405  0.69951  0.86230  1.0000
+  S   S5        1.0  0.71643  0.69951  0.13770  1.0000
+  S   S6        1.0  0.27824  0.30049  0.86230  1.0000
+  S   S7        1.0  0.78357  0.13770  0.69951  1.0000
+  S   S8        1.0  0.22176  0.86230  0.30049  1.0000
+  S   S9        1.0  0.25000  0.50000  0.50000  1.0000
+  S   S10       1.0  0.75000  0.50000  0.50000  1.0000

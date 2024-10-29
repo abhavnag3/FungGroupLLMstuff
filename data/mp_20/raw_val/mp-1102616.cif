@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co8Ge4
+_chemical_formula_sum              "Co8 Ge4"
+_cell_length_a       3.8226
+_cell_length_b       5.0621
+_cell_length_c       7.21646
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.75000  0.17446  0.56116  1.0000
+  Co  Co2       1.0  0.75000  0.67446  0.93884  1.0000
+  Co  Co3       1.0  0.25000  0.82554  0.43884  1.0000
+  Co  Co4       1.0  0.25000  0.32554  0.06116  1.0000
+  Co  Co5       1.0  0.75000  0.53792  0.28116  1.0000
+  Co  Co6       1.0  0.75000  0.03792  0.21884  1.0000
+  Co  Co7       1.0  0.25000  0.46208  0.71884  1.0000
+  Co  Co8       1.0  0.25000  0.96208  0.78116  1.0000
+  Ge  Ge1       1.0  0.75000  0.20661  0.89081  1.0000
+  Ge  Ge2       1.0  0.75000  0.70661  0.60919  1.0000
+  Ge  Ge3       1.0  0.25000  0.79339  0.10919  1.0000
+  Ge  Ge4       1.0  0.25000  0.29339  0.39081  1.0000

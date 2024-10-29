@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cd4Sb4S8Cl4
+_chemical_formula_sum              "Cd4 Sb4 S8 Cl4"
+_cell_length_a       3.94832
+_cell_length_b       9.74261
+_cell_length_c       12.7139
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.75000  0.50042  0.76934  1.0000
+  Cd  Cd2       1.0  0.25000  0.99958  0.26934  1.0000
+  Cd  Cd3       1.0  0.25000  0.49958  0.23066  1.0000
+  Cd  Cd4       1.0  0.75000  0.00042  0.73066  1.0000
+  Sb  Sb1       1.0  0.75000  0.31679  0.46729  1.0000
+  Sb  Sb2       1.0  0.75000  0.81679  0.03271  1.0000
+  Sb  Sb3       1.0  0.25000  0.68321  0.53271  1.0000
+  Sb  Sb4       1.0  0.25000  0.18321  0.96729  1.0000
+  S   S1        1.0  0.75000  0.74035  0.66598  1.0000
+  S   S2        1.0  0.75000  0.55174  0.38949  1.0000
+  S   S3        1.0  0.25000  0.94826  0.88948  1.0000
+  S   S4        1.0  0.75000  0.05174  0.11052  1.0000
+  S   S5        1.0  0.25000  0.25965  0.33402  1.0000
+  S   S6        1.0  0.25000  0.44826  0.61052  1.0000
+  S   S7        1.0  0.25000  0.75965  0.16598  1.0000
+  S   S8        1.0  0.75000  0.24036  0.83402  1.0000
+  Cl  Cl1       1.0  0.25000  0.57281  0.89379  1.0000
+  Cl  Cl2       1.0  0.25000  0.07281  0.60621  1.0000
+  Cl  Cl3       1.0  0.75000  0.92719  0.39379  1.0000
+  Cl  Cl4       1.0  0.75000  0.42719  0.10621  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr2U2I12
+_chemical_formula_sum              "Sr2 U2 I12"
+_cell_length_a       8.1015
+_cell_length_b       8.1015
+_cell_length_c       15.326
+_cell_angle_alpha    84.138
+_cell_angle_beta     84.138
+_cell_angle_gamma    119.438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.08438  0.91562  0.25000  1.0000
+  Sr  Sr2       1.0  0.91562  0.08438  0.75000  1.0000
+  U   U1        1.0  0.41825  0.58175  0.25000  1.0000
+  U   U2        1.0  0.58175  0.41825  0.75000  1.0000
+  I   I1        1.0  0.31988  0.46204  0.63340  1.0000
+  I   I2        1.0  0.46204  0.31988  0.13340  1.0000
+  I   I3        1.0  0.23513  0.07813  0.86922  1.0000
+  I   I4        1.0  0.07813  0.23513  0.36922  1.0000
+  I   I5        1.0  0.17107  0.63962  0.12842  1.0000
+  I   I6        1.0  0.63963  0.17107  0.62842  1.0000
+  I   I7        1.0  0.36037  0.82893  0.37158  1.0000
+  I   I8        1.0  0.82893  0.36037  0.87158  1.0000
+  I   I9        1.0  0.76487  0.92187  0.13078  1.0000
+  I   I10       1.0  0.92187  0.76487  0.63078  1.0000
+  I   I11       1.0  0.53796  0.68012  0.86660  1.0000
+  I   I12       1.0  0.68012  0.53796  0.36660  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       V2Rh2O8
+_chemical_formula_sum              "V2 Rh2 O8"
+_cell_length_a       5.50388
+_cell_length_b       5.50388
+_cell_length_c       5.50388
+_cell_angle_alpha    106.683
+_cell_angle_beta     106.683
+_cell_angle_gamma    115.203
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.25893  0.75893  0.50000  1.0000
+  V   V2        1.0  0.00893  0.00893  0.00000  1.0000
+  Rh  Rh1       1.0  0.74662  0.24662  0.50000  1.0000
+  Rh  Rh2       1.0  0.49662  0.49662  0.00000  1.0000
+  O   O1        1.0  0.95918  0.76696  0.19223  1.0000
+  O   O2        1.0  0.42982  0.23027  0.19955  1.0000
+  O   O3        1.0  0.01696  0.32473  0.30777  1.0000
+  O   O4        1.0  0.48027  0.78072  0.30045  1.0000
+  O   O5        1.0  0.01696  0.70918  0.69223  1.0000
+  O   O6        1.0  0.48027  0.17982  0.69955  1.0000
+  O   O7        1.0  0.57473  0.76696  0.80777  1.0000
+  O   O8        1.0  0.03072  0.23027  0.80045  1.0000

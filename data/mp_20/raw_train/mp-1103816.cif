@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Ga2H10
+_chemical_formula_sum              "Ba2 Ga2 H10"
+_cell_length_a       4.61166
+_cell_length_b       5.02456
+_cell_length_c       8.59863
+_cell_angle_alpha    89.8271
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75824  0.75419  0.33995  1.0000
+  Ba  Ba2       1.0  0.25824  0.24581  0.66005  1.0000
+  Ga  Ga1       1.0  0.17082  0.25599  0.14414  1.0000
+  Ga  Ga2       1.0  0.67082  0.74401  0.85586  1.0000
+  H   H1        1.0  0.82213  0.25586  0.15777  1.0000
+  H   H2        1.0  0.32214  0.74414  0.84223  1.0000
+  H   H3        1.0  0.27187  0.00862  0.25012  1.0000
+  H   H4        1.0  0.77187  0.99138  0.74988  1.0000
+  H   H5        1.0  0.27158  0.52273  0.23179  1.0000
+  H   H6        1.0  0.77158  0.47727  0.76821  1.0000
+  H   H7        1.0  0.29564  0.23927  0.97403  1.0000
+  H   H8        1.0  0.79565  0.76073  0.02597  1.0000
+  H   H9        1.0  0.76122  0.25350  0.48286  1.0000
+  H   H10       1.0  0.26122  0.74650  0.51714  1.0000

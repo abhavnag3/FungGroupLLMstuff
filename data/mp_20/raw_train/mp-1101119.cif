@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiCr2Se4
+_chemical_formula_sum              "Ti1 Cr2 Se4"
+_cell_length_a       3.63054
+_cell_length_b       6.39753
+_cell_length_c       6.98896
+_cell_angle_alpha    115.474
+_cell_angle_beta     74.9457
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24409  0.78785  0.51182  1.0000
+  Cr  Cr1       1.0  0.75816  0.21665  0.48367  1.0000
+  Cr  Cr2       1.0  0.49850  0.50178  0.00300  1.0000
+  Se  Se1       1.0  0.86526  0.47018  0.26948  1.0000
+  Se  Se2       1.0  0.13420  0.52175  0.73161  1.0000
+  Se  Se3       1.0  0.38165  0.95129  0.23670  1.0000
+  Se  Se4       1.0  0.61814  0.05051  0.76372  1.0000

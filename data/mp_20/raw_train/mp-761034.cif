@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf5N5O2
+_chemical_formula_sum              "Hf5 N5 O2"
+_cell_length_a       5.40231
+_cell_length_b       5.40231
+_cell_length_c       9.16993
+_cell_angle_alpha    74.8499
+_cell_angle_beta     74.8499
+_cell_angle_gamma    33.0051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.10933  0.10933  0.07997  1.0000
+  Hf  Hf2       1.0  0.69849  0.69849  0.70042  1.0000
+  Hf  Hf3       1.0  0.30635  0.30635  0.29789  1.0000
+  Hf  Hf4       1.0  0.88779  0.88779  0.91857  1.0000
+  Hf  Hf5       1.0  0.98944  0.98944  0.49374  1.0000
+  N   N1        1.0  0.50835  0.50835  0.98537  1.0000
+  N   N2        1.0  0.74042  0.74042  0.14391  1.0000
+  N   N3        1.0  0.26604  0.26604  0.84798  1.0000
+  N   N4        1.0  0.33816  0.33816  0.55302  1.0000
+  N   N5        1.0  0.95494  0.95494  0.28364  1.0000
+  O   O1        1.0  0.04565  0.04565  0.70538  1.0000
+  O   O2        1.0  0.65378  0.65378  0.44818  1.0000

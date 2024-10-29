@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr2Li2Ni2F12
+_chemical_formula_sum              "Sr2 Li2 Ni2 F12"
+_cell_length_a       5.22323
+_cell_length_b       5.22323
+_cell_length_c       10.4701
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sr  Sr2       1.0  0.00000  0.00000  0.50000  1.0000
+  Li  Li1       1.0  0.33333  0.66667  0.25000  1.0000
+  Li  Li2       1.0  0.66667  0.33333  0.75000  1.0000
+  Ni  Ni1       1.0  0.66667  0.33333  0.25000  1.0000
+  Ni  Ni2       1.0  0.33333  0.66667  0.75000  1.0000
+  F   F1        1.0  0.37745  0.01987  0.14572  1.0000
+  F   F2        1.0  0.62255  0.64242  0.64572  1.0000
+  F   F3        1.0  0.35758  0.98013  0.64572  1.0000
+  F   F4        1.0  0.01986  0.37745  0.64572  1.0000
+  F   F5        1.0  0.98013  0.62255  0.35428  1.0000
+  F   F6        1.0  0.98013  0.35758  0.14572  1.0000
+  F   F7        1.0  0.64242  0.62255  0.14572  1.0000
+  F   F8        1.0  0.64242  0.01987  0.35428  1.0000
+  F   F9        1.0  0.01986  0.64242  0.85428  1.0000
+  F   F10       1.0  0.37745  0.35758  0.35428  1.0000
+  F   F11       1.0  0.62255  0.98013  0.85428  1.0000
+  F   F12       1.0  0.35758  0.37745  0.85428  1.0000

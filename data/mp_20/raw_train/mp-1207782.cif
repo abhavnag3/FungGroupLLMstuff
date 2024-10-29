@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Y6Co4Si6
+_chemical_formula_sum              "Y6 Co4 Si6"
+_cell_length_a       5.6534
+_cell_length_b       5.6534
+_cell_length_c       13.6926
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    137.275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.63847  0.36153  0.25000  1.0000
+  Y   Y2        1.0  0.36153  0.63847  0.75000  1.0000
+  Y   Y3        1.0  0.92050  0.07950  0.11260  1.0000
+  Y   Y4        1.0  0.07950  0.92050  0.88740  1.0000
+  Y   Y5        1.0  0.07950  0.92050  0.61260  1.0000
+  Y   Y6        1.0  0.92050  0.07950  0.38740  1.0000
+  Co  Co1       1.0  0.78562  0.21438  0.58123  1.0000
+  Co  Co2       1.0  0.21438  0.78562  0.41877  1.0000
+  Co  Co3       1.0  0.21438  0.78562  0.08123  1.0000
+  Co  Co4       1.0  0.78562  0.21438  0.91877  1.0000
+  Si  Si1       1.0  0.33038  0.66962  0.25000  1.0000
+  Si  Si2       1.0  0.66962  0.33038  0.75000  1.0000
+  Si  Si3       1.0  0.62035  0.37965  0.03883  1.0000
+  Si  Si4       1.0  0.37965  0.62035  0.96117  1.0000
+  Si  Si5       1.0  0.37965  0.62035  0.53883  1.0000
+  Si  Si6       1.0  0.62035  0.37965  0.46117  1.0000

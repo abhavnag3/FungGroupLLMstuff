@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Nb10Ge7
+_chemical_formula_sum              "Nb10 Ge7"
+_cell_length_a       5.43335
+_cell_length_b       7.8418
+_cell_length_c       7.84063
+_cell_angle_alpha    120.005
+_cell_angle_beta     90.0073
+_cell_angle_gamma    89.9854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.76990  0.26403  0.00000  1.0000
+  Nb  Nb2       1.0  0.76992  0.73577  0.73595  1.0000
+  Nb  Nb3       1.0  0.76992  0.99982  0.26405  1.0000
+  Nb  Nb4       1.0  0.23005  0.73590  0.00000  1.0000
+  Nb  Nb5       1.0  0.23009  0.26400  0.26418  1.0000
+  Nb  Nb6       1.0  0.23009  0.99982  0.73582  1.0000
+  Nb  Nb7       1.0  0.50001  0.33329  0.66662  1.0000
+  Nb  Nb8       1.0  0.50001  0.66667  0.33338  1.0000
+  Nb  Nb9       1.0  0.00001  0.66693  0.33334  1.0000
+  Nb  Nb10      1.0  0.00001  0.33359  0.66666  1.0000
+  Ge  Ge1       1.0  0.74459  0.60926  0.00000  1.0000
+  Ge  Ge2       1.0  0.74464  0.39113  0.39127  1.0000
+  Ge  Ge3       1.0  0.74464  0.99986  0.60873  1.0000
+  Ge  Ge4       1.0  0.25547  0.39123  0.00000  1.0000
+  Ge  Ge5       1.0  0.25533  0.60900  0.60910  1.0000
+  Ge  Ge6       1.0  0.25533  0.99990  0.39091  1.0000
+  Ge  Ge7       1.0  0.49996  0.99980  0.00000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Fe2B6Rh12
+_chemical_formula_sum              "Fe2 B6 Rh12"
+_cell_length_a       7.50855
+_cell_length_b       7.50855
+_cell_length_c       4.76077
+_cell_angle_alpha    89.8058
+_cell_angle_beta     89.8058
+_cell_angle_gamma    60.0928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.90832  0.54997  0.04437  1.0000
+  Fe  Fe2       1.0  0.54998  0.90832  0.04437  1.0000
+  B   B1        1.0  0.81512  0.37335  0.77014  1.0000
+  B   B2        1.0  0.81605  0.81605  0.76675  1.0000
+  B   B3        1.0  0.37335  0.81512  0.77014  1.0000
+  B   B4        1.0  0.18773  0.62009  0.27605  1.0000
+  B   B5        1.0  0.18923  0.18923  0.27896  1.0000
+  B   B6        1.0  0.62009  0.18773  0.27605  1.0000
+  Rh  Rh1       1.0  0.87593  0.24972  0.36301  1.0000
+  Rh  Rh2       1.0  0.87113  0.87113  0.35020  1.0000
+  Rh  Rh3       1.0  0.24972  0.87593  0.36301  1.0000
+  Rh  Rh4       1.0  0.12247  0.74732  0.86904  1.0000
+  Rh  Rh5       1.0  0.12811  0.12811  0.87298  1.0000
+  Rh  Rh6       1.0  0.74732  0.12247  0.86904  1.0000
+  Rh  Rh7       1.0  0.66786  0.66786  0.53721  1.0000
+  Rh  Rh8       1.0  0.33262  0.33262  0.04797  1.0000
+  Rh  Rh9       1.0  0.45672  0.45672  0.52530  1.0000
+  Rh  Rh10      1.0  0.07834  0.45917  0.53953  1.0000
+  Rh  Rh11      1.0  0.45917  0.07834  0.53953  1.0000
+  Rh  Rh12      1.0  0.55135  0.55135  0.02092  1.0000

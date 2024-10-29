@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LiNiSnO4
+_chemical_formula_sum              "Li1 Ni1 Sn1 O4"
+_cell_length_a       5.18711
+_cell_length_b       3.04496
+_cell_length_c       5.32765
+_cell_angle_alpha    89.9989
+_cell_angle_beta     72.7159
+_cell_angle_gamma    90.0004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.50000  0.50000  0.00000  1.0000
+  Sn  Sn1       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.69912  0.00000  0.79793  1.0000
+  O   O2        1.0  0.72852  0.50001  0.26792  1.0000
+  O   O3        1.0  0.27149  0.49999  0.73208  1.0000
+  O   O4        1.0  0.30088  1.00000  0.20207  1.0000

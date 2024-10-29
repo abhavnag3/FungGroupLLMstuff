@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       LiP2WO7
+_chemical_formula_sum              "Li1 P2 W1 O7"
+_cell_length_a       5.4658
+_cell_length_b       5.4658
+_cell_length_c       4.58254
+_cell_angle_alpha    82.1833
+_cell_angle_beta     82.1833
+_cell_angle_gamma    103.721
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.08673  0.91327  0.00000  1.0000
+  P   P1        1.0  0.58397  0.00372  0.41403  1.0000
+  P   P2        1.0  0.99628  0.41603  0.58597  1.0000
+  W   W1        1.0  0.45886  0.54114  0.00000  1.0000
+  O   O1        1.0  0.41033  0.86475  0.71283  1.0000
+  O   O2        1.0  0.45057  0.17590  0.24709  1.0000
+  O   O3        1.0  0.68906  0.82749  0.22138  1.0000
+  O   O4        1.0  0.17251  0.31094  0.77862  1.0000
+  O   O5        1.0  0.13525  0.58967  0.28717  1.0000
+  O   O6        1.0  0.83980  0.16020  0.50000  1.0000
+  O   O7        1.0  0.82410  0.54943  0.75291  1.0000

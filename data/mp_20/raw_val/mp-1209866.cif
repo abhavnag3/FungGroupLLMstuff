@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       NdZr3F15
+_chemical_formula_sum              "Nd1 Zr3 F15"
+_cell_length_a       7.51138
+_cell_length_b       7.51138
+_cell_length_c       7.51138
+_cell_angle_alpha    112.712
+_cell_angle_beta     112.712
+_cell_angle_gamma    112.712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.99952  0.99952  0.99952  1.0000
+  Zr  Zr1       1.0  0.36014  0.79083  0.36014  1.0000
+  Zr  Zr2       1.0  0.36014  0.36014  0.79083  1.0000
+  Zr  Zr3       1.0  0.79084  0.36014  0.36014  1.0000
+  F   F1        1.0  0.64691  0.43322  0.10356  1.0000
+  F   F2        1.0  0.10356  0.64691  0.43322  1.0000
+  F   F3        1.0  0.10356  0.43322  0.64691  1.0000
+  F   F4        1.0  0.43322  0.10356  0.64691  1.0000
+  F   F5        1.0  0.43322  0.64691  0.10356  1.0000
+  F   F6        1.0  0.64691  0.10356  0.43322  1.0000
+  F   F7        1.0  0.10147  0.76192  0.10147  1.0000
+  F   F8        1.0  0.10147  0.10147  0.76192  1.0000
+  F   F9        1.0  0.76192  0.10147  0.10147  1.0000
+  F   F10       1.0  0.64384  0.86486  0.64384  1.0000
+  F   F11       1.0  0.64384  0.64384  0.86486  1.0000
+  F   F12       1.0  0.86486  0.64384  0.64384  1.0000
+  F   F13       1.0  0.18401  0.41950  0.18401  1.0000
+  F   F14       1.0  0.18401  0.18401  0.41950  1.0000
+  F   F15       1.0  0.41950  0.18401  0.18401  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tb2Cu6S6
+_chemical_formula_sum              "Tb2 Cu6 S6"
+_cell_length_a       7.46011
+_cell_length_b       7.46011
+_cell_length_c       7.46011
+_cell_angle_alpha    53.2813
+_cell_angle_beta     53.2813
+_cell_angle_gamma    53.2813
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.83352  0.83352  0.83352  1.0000
+  Tb  Tb2       1.0  0.16648  0.16648  0.16648  1.0000
+  Cu  Cu1       1.0  0.62336  0.28500  0.96141  1.0000
+  Cu  Cu2       1.0  0.96141  0.62336  0.28500  1.0000
+  Cu  Cu3       1.0  0.28500  0.96141  0.62336  1.0000
+  Cu  Cu4       1.0  0.71500  0.03859  0.37664  1.0000
+  Cu  Cu5       1.0  0.03859  0.37664  0.71500  1.0000
+  Cu  Cu6       1.0  0.37664  0.71500  0.03859  1.0000
+  S   S1        1.0  0.41661  0.08260  0.74816  1.0000
+  S   S2        1.0  0.08260  0.74816  0.41661  1.0000
+  S   S3        1.0  0.74816  0.41661  0.08260  1.0000
+  S   S4        1.0  0.25184  0.58339  0.91740  1.0000
+  S   S5        1.0  0.91740  0.25184  0.58339  1.0000
+  S   S6        1.0  0.58339  0.91740  0.25184  1.0000

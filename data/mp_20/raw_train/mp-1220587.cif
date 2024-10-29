@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nb3V3Ge2
+_chemical_formula_sum              "Nb3 V3 Ge2"
+_cell_length_a       4.99568
+_cell_length_b       4.99568
+_cell_length_c       4.99568
+_cell_angle_alpha    89.9525
+_cell_angle_beta     90.0475
+_cell_angle_gamma    90.0475
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.50123  0.75000  0.00123  1.0000
+  Nb  Nb2       1.0  0.25000  0.00123  0.49877  1.0000
+  Nb  Nb3       1.0  0.99877  0.49877  0.75000  1.0000
+  V   V1        1.0  0.49967  0.25000  0.99967  1.0000
+  V   V2        1.0  0.75000  0.99967  0.50033  1.0000
+  V   V3        1.0  0.00033  0.50033  0.25000  1.0000
+  Ge  Ge1       1.0  0.50316  0.49684  0.49684  1.0000
+  Ge  Ge2       1.0  0.99684  0.00316  0.00316  1.0000

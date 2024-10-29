@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li10BrN3
+_chemical_formula_sum              "Li10 Br1 N3"
+_cell_length_a       7.44114
+_cell_length_b       7.44114
+_cell_length_c       3.8781
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.77833  0.55666  0.00000  1.0000
+  Li  Li2       1.0  0.44334  0.22167  0.00000  1.0000
+  Li  Li3       1.0  0.77833  0.22167  0.00000  1.0000
+  Li  Li4       1.0  0.16718  0.33435  0.00000  1.0000
+  Li  Li5       1.0  0.49165  0.50835  0.50000  1.0000
+  Li  Li6       1.0  0.01670  0.50835  0.50000  1.0000
+  Li  Li7       1.0  0.49165  0.98330  0.50000  1.0000
+  Li  Li8       1.0  0.33333  0.66667  0.00000  1.0000
+  Li  Li9       1.0  0.16718  0.83282  0.00000  1.0000
+  Li  Li10      1.0  0.66565  0.83282  0.00000  1.0000
+  Br  Br1       1.0  0.00000  0.00000  0.50000  1.0000
+  N   N1        1.0  0.49138  0.50862  0.00000  1.0000
+  N   N2        1.0  0.49138  0.98275  0.00000  1.0000
+  N   N3        1.0  0.01725  0.50862  0.00000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La4PtO7
+_chemical_formula_sum              "La4 Pt1 O7"
+_cell_length_a       4.04811
+_cell_length_b       7.0304
+_cell_length_c       7.26036
+_cell_angle_alpha    83.6376
+_cell_angle_beta     73.8879
+_cell_angle_gamma    73.3661
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.41373  0.78219  0.39077  1.0000
+  La  La2       1.0  0.58741  0.22254  0.60520  1.0000
+  La  La3       1.0  0.74477  0.65907  0.84217  1.0000
+  La  La4       1.0  0.24673  0.33786  0.16088  1.0000
+  Pt  Pt1       1.0  0.98569  0.99610  0.00155  1.0000
+  O   O1        1.0  0.79132  0.85357  0.55997  1.0000
+  O   O2        1.0  0.19986  0.15092  0.44545  1.0000
+  O   O3        1.0  0.36343  0.56517  0.69469  1.0000
+  O   O4        1.0  0.62574  0.43111  0.30766  1.0000
+  O   O5        1.0  0.47341  0.97376  0.04733  1.0000
+  O   O6        1.0  0.07521  0.70632  0.10959  1.0000
+  O   O7        1.0  0.88240  0.28471  0.89205  1.0000

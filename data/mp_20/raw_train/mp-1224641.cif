@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Gd2Si2Pd2
+_chemical_formula_sum              "Gd2 Si2 Pd2"
+_cell_length_a       5.56496
+_cell_length_b       5.56496
+_cell_length_c       7.13713
+_cell_angle_alpha    51.5887
+_cell_angle_beta     51.5887
+_cell_angle_gamma    45.998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.45560  0.45560  0.30436  1.0000
+  Gd  Gd2       1.0  0.54440  0.54440  0.69564  1.0000
+  Si  Si1       1.0  0.15519  0.15519  0.89520  1.0000
+  Si  Si2       1.0  0.84481  0.84481  0.10480  1.0000
+  Pd  Pd1       1.0  0.81495  0.81495  0.74174  1.0000
+  Pd  Pd2       1.0  0.18505  0.18505  0.25826  1.0000

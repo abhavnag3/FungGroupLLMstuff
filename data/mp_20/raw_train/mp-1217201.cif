@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti4Mn5V3
+_chemical_formula_sum              "Ti4 Mn5 V3"
+_cell_length_a       4.86379
+_cell_length_b       4.86379
+_cell_length_c       7.89181
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.33371  0.66629  0.31065  1.0000
+  Ti  Ti2       1.0  0.66609  0.33391  0.18390  1.0000
+  Ti  Ti3       1.0  0.66609  0.33391  0.81610  1.0000
+  Ti  Ti4       1.0  0.33371  0.66629  0.68935  1.0000
+  Mn  Mn1       1.0  0.34087  0.17379  0.50000  1.0000
+  Mn  Mn2       1.0  0.82621  0.65913  0.50000  1.0000
+  Mn  Mn3       1.0  0.17209  0.82791  0.00000  1.0000
+  Mn  Mn4       1.0  0.65254  0.82667  0.00000  1.0000
+  Mn  Mn5       1.0  0.17333  0.34746  0.00000  1.0000
+  V   V1        1.0  0.00366  0.99634  0.24378  1.0000
+  V   V2        1.0  0.00366  0.99634  0.75622  1.0000
+  V   V3        1.0  0.82795  0.17205  0.50000  1.0000

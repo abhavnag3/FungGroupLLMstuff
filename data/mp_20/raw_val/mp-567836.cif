@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K4Na2B2P4
+_chemical_formula_sum              "K4 Na2 B2 P4"
+_cell_length_a       6.79609
+_cell_length_b       6.79609
+_cell_length_c       12.1398
+_cell_angle_alpha    61.5188
+_cell_angle_beta     61.5188
+_cell_angle_gamma    43.3575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.98274  0.98274  0.17971  1.0000
+  K   K2        1.0  0.17707  0.17707  0.40864  1.0000
+  K   K3        1.0  0.01726  0.01726  0.82029  1.0000
+  K   K4        1.0  0.82293  0.82293  0.59136  1.0000
+  Na  Na1       1.0  0.29713  0.29713  0.86650  1.0000
+  Na  Na2       1.0  0.70287  0.70287  0.13350  1.0000
+  B   B1        1.0  0.50000  0.50000  0.50000  1.0000
+  B   B2        1.0  0.50000  0.50000  0.00000  1.0000
+  P   P1        1.0  0.33575  0.33575  0.08843  1.0000
+  P   P2        1.0  0.46689  0.46689  0.37387  1.0000
+  P   P3        1.0  0.66425  0.66425  0.91158  1.0000
+  P   P4        1.0  0.53311  0.53311  0.62613  1.0000

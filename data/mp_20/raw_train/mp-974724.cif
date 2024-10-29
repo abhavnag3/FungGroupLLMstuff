@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Re4Cl4O12
+_chemical_formula_sum              "Re4 Cl4 O12"
+_cell_length_a       9.34496
+_cell_length_b       5.8907
+_cell_length_c       9.44567
+_cell_angle_alpha    57.3731
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.27268  0.42536  0.77406  1.0000
+  Re  Re2       1.0  0.77268  0.57464  0.72594  1.0000
+  Re  Re3       1.0  0.72732  0.57464  0.22594  1.0000
+  Re  Re4       1.0  0.22732  0.42536  0.27406  1.0000
+  Cl  Cl1       1.0  0.41885  0.16986  0.73118  1.0000
+  Cl  Cl2       1.0  0.91885  0.83014  0.76882  1.0000
+  Cl  Cl3       1.0  0.58115  0.83014  0.26882  1.0000
+  Cl  Cl4       1.0  0.08115  0.16986  0.23118  1.0000
+  O   O1        1.0  0.33033  0.42914  0.94662  1.0000
+  O   O2        1.0  0.83033  0.57086  0.55338  1.0000
+  O   O3        1.0  0.66967  0.57086  0.05338  1.0000
+  O   O4        1.0  0.16967  0.42914  0.44662  1.0000
+  O   O5        1.0  0.10082  0.29812  0.81320  1.0000
+  O   O6        1.0  0.60082  0.70188  0.68680  1.0000
+  O   O7        1.0  0.89918  0.70188  0.18680  1.0000
+  O   O8        1.0  0.39918  0.29812  0.31320  1.0000
+  O   O9        1.0  0.26835  0.75294  0.60348  1.0000
+  O   O10       1.0  0.76835  0.24706  0.89652  1.0000
+  O   O11       1.0  0.73165  0.24706  0.39652  1.0000
+  O   O12       1.0  0.23165  0.75294  0.10348  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2ScInSi4O12
+_chemical_formula_sum              "Na2 Sc1 In1 Si4 O12"
+_cell_length_a       6.8058
+_cell_length_b       6.8058
+_cell_length_c       5.42203
+_cell_angle_alpha    77.3529
+_cell_angle_beta     77.3529
+_cell_angle_gamma    85.1326
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.30300  0.69700  0.50000  1.0000
+  Na  Na2       1.0  0.69663  0.30337  0.00000  1.0000
+  Sc  Sc1       1.0  0.89145  0.10855  0.50000  1.0000
+  In  In1       1.0  0.10428  0.89572  0.00000  1.0000
+  Si  Si1       1.0  0.79614  0.62165  0.49583  1.0000
+  Si  Si2       1.0  0.37834  0.20386  0.50417  1.0000
+  Si  Si3       1.0  0.20530  0.37664  0.00480  1.0000
+  Si  Si4       1.0  0.62336  0.79470  0.99520  1.0000
+  O   O1        1.0  0.88475  0.39269  0.56040  1.0000
+  O   O2        1.0  0.60731  0.11525  0.43960  1.0000
+  O   O3        1.0  0.11168  0.60108  0.93338  1.0000
+  O   O4        1.0  0.39892  0.88832  0.06662  1.0000
+  O   O5        1.0  0.66216  0.64082  0.26799  1.0000
+  O   O6        1.0  0.35918  0.33784  0.73201  1.0000
+  O   O7        1.0  0.34093  0.35844  0.23123  1.0000
+  O   O8        1.0  0.64156  0.65907  0.76877  1.0000
+  O   O9        1.0  0.95843  0.80251  0.40392  1.0000
+  O   O10       1.0  0.19749  0.04157  0.59608  1.0000
+  O   O11       1.0  0.03830  0.19921  0.10631  1.0000
+  O   O12       1.0  0.80079  0.96170  0.89369  1.0000

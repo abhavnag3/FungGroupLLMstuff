@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pu4Mo4C8
+_chemical_formula_sum              "Pu4 Mo4 C8"
+_cell_length_a       3.27628
+_cell_length_b       5.68841
+_cell_length_c       10.9306
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.25000  0.58332  0.85931  1.0000
+  Pu  Pu2       1.0  0.75000  0.41668  0.14069  1.0000
+  Pu  Pu3       1.0  0.75000  0.91668  0.35931  1.0000
+  Pu  Pu4       1.0  0.25000  0.08332  0.64069  1.0000
+  Mo  Mo1       1.0  0.25000  0.91487  0.10518  1.0000
+  Mo  Mo2       1.0  0.75000  0.08513  0.89482  1.0000
+  Mo  Mo3       1.0  0.75000  0.58513  0.60518  1.0000
+  Mo  Mo4       1.0  0.25000  0.41487  0.39482  1.0000
+  C   C1        1.0  0.25000  0.66361  0.24581  1.0000
+  C   C2        1.0  0.75000  0.33638  0.75419  1.0000
+  C   C3        1.0  0.75000  0.83639  0.74581  1.0000
+  C   C4        1.0  0.25000  0.16362  0.25419  1.0000
+  C   C5        1.0  0.25000  0.73821  0.51083  1.0000
+  C   C6        1.0  0.75000  0.26179  0.48917  1.0000
+  C   C7        1.0  0.75000  0.76179  0.01083  1.0000
+  C   C8        1.0  0.25000  0.23821  0.98917  1.0000

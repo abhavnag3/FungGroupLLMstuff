@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2Si4Ni2
+_chemical_formula_sum              "Mn2 Si4 Ni2"
+_cell_length_a       4.50265
+_cell_length_b       4.50909
+_cell_length_c       4.51984
+_cell_angle_alpha    89.1197
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.35642  0.63766  0.60939  1.0000
+  Mn  Mn2       1.0  0.85642  0.36234  0.39061  1.0000
+  Si  Si1       1.0  0.66073  0.34598  0.90533  1.0000
+  Si  Si2       1.0  0.16073  0.65402  0.09467  1.0000
+  Si  Si3       1.0  0.34366  0.15178  0.41346  1.0000
+  Si  Si4       1.0  0.84366  0.84822  0.58654  1.0000
+  Ni  Ni1       1.0  0.63919  0.85834  0.10553  1.0000
+  Ni  Ni2       1.0  0.13919  0.14166  0.89447  1.0000

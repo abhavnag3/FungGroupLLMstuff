@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CdGa4As4S
+_chemical_formula_sum              "Cd1 Ga4 As4 S1"
+_cell_length_a       4.08587
+_cell_length_b       4.08587
+_cell_length_c       16.9074
+_cell_angle_alpha    96.94
+_cell_angle_beta     83.06
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.99991  0.00009  0.00026  1.0000
+  Ga  Ga1       1.0  0.59860  0.40140  0.20420  1.0000
+  Ga  Ga2       1.0  0.19943  0.80058  0.40172  1.0000
+  Ga  Ga3       1.0  0.79995  0.20005  0.60015  1.0000
+  Ga  Ga4       1.0  0.40087  0.59913  0.79739  1.0000
+  As  As1       1.0  0.94796  0.05204  0.15613  1.0000
+  As  As2       1.0  0.54899  0.45101  0.35302  1.0000
+  As  As3       1.0  0.14963  0.85037  0.55112  1.0000
+  As  As4       1.0  0.75014  0.24986  0.74959  1.0000
+  S   S1        1.0  0.35453  0.64547  0.93642  1.0000

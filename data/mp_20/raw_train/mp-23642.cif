@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       V2Bi2Pb2O10
+_chemical_formula_sum              "V2 Bi2 Pb2 O10"
+_cell_length_a       5.83128
+_cell_length_b       7.32071
+_cell_length_c       7.33338
+_cell_angle_alpha    106.199
+_cell_angle_beta     97.9635
+_cell_angle_gamma    112.393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.34304  0.64833  0.34825  1.0000
+  V   V2        1.0  0.65696  0.35167  0.65175  1.0000
+  Bi  Bi1       1.0  0.90941  0.96787  0.74646  1.0000
+  Bi  Bi2       1.0  0.09059  0.03213  0.25354  1.0000
+  Pb  Pb1       1.0  0.68292  0.31302  0.11137  1.0000
+  Pb  Pb2       1.0  0.31708  0.68698  0.88863  1.0000
+  O   O1        1.0  0.24174  0.02297  0.99737  1.0000
+  O   O2        1.0  0.86592  0.28331  0.78595  1.0000
+  O   O3        1.0  0.84342  0.62157  0.69844  1.0000
+  O   O4        1.0  0.54498  0.20357  0.39490  1.0000
+  O   O5        1.0  0.75826  0.97703  0.00263  1.0000
+  O   O6        1.0  0.45502  0.79643  0.60510  1.0000
+  O   O7        1.0  0.60577  0.67846  0.26030  1.0000
+  O   O8        1.0  0.39422  0.32154  0.73970  1.0000
+  O   O9        1.0  0.13408  0.71669  0.21405  1.0000
+  O   O10       1.0  0.15658  0.37843  0.30156  1.0000

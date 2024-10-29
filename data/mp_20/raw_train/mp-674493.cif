@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       In4Ni2S8
+_chemical_formula_sum              "In4 Ni2 S8"
+_cell_length_a       7.46028
+_cell_length_b       7.46028
+_cell_length_c       7.46028
+_cell_angle_alpha    120.48
+_cell_angle_beta     118.727
+_cell_angle_gamma    90.695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.61519  0.86519  0.75000  1.0000
+  In  In2       1.0  0.00000  0.50000  0.50000  1.0000
+  In  In3       1.0  0.50000  0.50000  0.00000  1.0000
+  In  In4       1.0  0.38481  0.13481  0.25000  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.00000  1.0000
+  S   S1        1.0  0.20388  0.74828  0.45560  1.0000
+  S   S2        1.0  0.79268  0.74828  0.04440  1.0000
+  S   S3        1.0  0.77444  0.76622  0.49177  1.0000
+  S   S4        1.0  0.77444  0.28267  0.00823  1.0000
+  S   S5        1.0  0.22556  0.71733  0.99177  1.0000
+  S   S6        1.0  0.22556  0.23378  0.50823  1.0000
+  S   S7        1.0  0.20732  0.25172  0.95560  1.0000
+  S   S8        1.0  0.79612  0.25172  0.54440  1.0000

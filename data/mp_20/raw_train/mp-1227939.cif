@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       BaLa3Ni2O8
+_chemical_formula_sum              "Ba1 La3 Ni2 O8"
+_cell_length_a       5.49248
+_cell_length_b       5.52894
+_cell_length_c       6.99992
+_cell_angle_alpha    90.0002
+_cell_angle_beta     66.8965
+_cell_angle_gamma    89.9999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.85556  0.50000  0.28885  1.0000
+  La  La1       1.0  0.36218  0.99999  0.27565  1.0000
+  La  La2       1.0  0.63953  0.00000  0.72085  1.0000
+  La  La3       1.0  0.13643  0.50000  0.72704  1.0000
+  Ni  Ni1       1.0  0.49821  0.49998  0.00374  1.0000
+  Ni  Ni2       1.0  0.99673  0.00001  0.00649  1.0000
+  O   O1        1.0  0.18246  0.99998  0.63514  1.0000
+  O   O2        1.0  0.65763  0.50000  0.68482  1.0000
+  O   O3        1.0  0.32227  0.50003  0.35543  1.0000
+  O   O4        1.0  0.82347  0.00003  0.35296  1.0000
+  O   O5        1.0  0.75515  0.23788  0.98723  1.0000
+  O   O6        1.0  0.25760  0.76209  0.98730  1.0000
+  O   O7        1.0  0.75520  0.76208  0.98723  1.0000
+  O   O8        1.0  0.25758  0.23795  0.98727  1.0000

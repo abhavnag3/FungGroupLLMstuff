@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y10Ge4Sb4
+_chemical_formula_sum              "Y10 Ge4 Sb4"
+_cell_length_a       8.56986
+_cell_length_b       8.56986
+_cell_length_c       7.94436
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    124.85
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.03683  0.29219  0.33629  1.0000
+  Y   Y2        1.0  0.96317  0.70781  0.66371  1.0000
+  Y   Y3        1.0  0.46317  0.20781  0.83629  1.0000
+  Y   Y4        1.0  0.79219  0.53683  0.16371  1.0000
+  Y   Y5        1.0  0.53683  0.79219  0.16371  1.0000
+  Y   Y6        1.0  0.20781  0.46317  0.83629  1.0000
+  Y   Y7        1.0  0.70781  0.96317  0.66371  1.0000
+  Y   Y8        1.0  0.29219  0.03683  0.33629  1.0000
+  Y   Y9        1.0  0.00000  0.00000  0.00000  1.0000
+  Y   Y10       1.0  0.50000  0.50000  0.50000  1.0000
+  Ge  Ge1       1.0  0.36172  0.36172  0.13705  1.0000
+  Ge  Ge2       1.0  0.63828  0.63828  0.86296  1.0000
+  Ge  Ge3       1.0  0.13828  0.13828  0.63704  1.0000
+  Ge  Ge4       1.0  0.86172  0.86172  0.36296  1.0000
+  Sb  Sb1       1.0  0.79515  0.20485  0.00000  1.0000
+  Sb  Sb2       1.0  0.20485  0.79515  0.00000  1.0000
+  Sb  Sb3       1.0  0.70485  0.29515  0.50000  1.0000
+  Sb  Sb4       1.0  0.29515  0.70485  0.50000  1.0000

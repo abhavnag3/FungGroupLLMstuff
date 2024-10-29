@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Np2Br6
+_chemical_formula_sum              "Np2 Br6"
+_cell_length_a       7.45664
+_cell_length_b       7.45664
+_cell_length_c       9.2965
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    148.161
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.74138  0.25862  0.75000  1.0000
+  Np  Np2       1.0  0.25862  0.74138  0.25000  1.0000
+  Br  Br1       1.0  0.34452  0.65548  0.56713  1.0000
+  Br  Br2       1.0  0.09828  0.90172  0.75000  1.0000
+  Br  Br3       1.0  0.65548  0.34452  0.43287  1.0000
+  Br  Br4       1.0  0.34452  0.65548  0.93287  1.0000
+  Br  Br5       1.0  0.65548  0.34452  0.06713  1.0000
+  Br  Br6       1.0  0.90172  0.09828  0.25000  1.0000

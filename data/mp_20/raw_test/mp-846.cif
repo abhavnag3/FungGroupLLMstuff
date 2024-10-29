@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Hf4Al6
+_chemical_formula_sum              "Hf4 Al6"
+_cell_length_a       8.39919
+_cell_length_b       7.44309
+_cell_length_c       5.5169
+_cell_angle_alpha    79.2706
+_cell_angle_beta     60.5372
+_cell_angle_gamma    40.1923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.13754  0.75651  0.23191  1.0000
+  Hf  Hf2       1.0  0.87404  0.23191  0.75651  1.0000
+  Hf  Hf3       1.0  0.01809  0.37596  0.11246  1.0000
+  Hf  Hf4       1.0  0.49349  0.11246  0.37596  1.0000
+  Al  Al1       1.0  0.62484  0.37516  0.37516  1.0000
+  Al  Al2       1.0  0.87484  0.62516  0.62516  1.0000
+  Al  Al3       1.0  0.54337  0.18493  0.82149  1.0000
+  Al  Al4       1.0  0.45021  0.82149  0.18493  1.0000
+  Al  Al5       1.0  0.42851  0.79979  0.70663  1.0000
+  Al  Al6       1.0  0.06507  0.70663  0.79979  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Cs2U2O7
+_chemical_formula_sum              "Cs2 U2 O7"
+_cell_length_a       4.33217
+_cell_length_b       7.60385
+_cell_length_c       7.75272
+_cell_angle_alpha    111.485
+_cell_angle_beta     90
+_cell_angle_gamma    73.4491
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.61278  0.78372  0.57037  1.0000
+  Cs  Cs2       1.0  0.39650  0.21628  0.42963  1.0000
+  U   U1        1.0  0.82931  0.29144  0.99276  1.0000
+  U   U2        1.0  0.12075  0.70856  0.00724  1.0000
+  O   O1        1.0  0.79698  0.38688  0.25493  1.0000
+  O   O2        1.0  0.18385  0.61313  0.74507  1.0000
+  O   O3        1.0  0.67150  0.61632  0.00407  1.0000
+  O   O4        1.0  0.28782  0.38368  0.99593  1.0000
+  O   O5        1.0  0.07454  0.82369  0.26980  1.0000
+  O   O6        1.0  0.89822  0.17631  0.73020  1.0000
+  O   O7        1.0  0.88674  0.00000  0.00000  1.0000

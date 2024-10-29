@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cs2Sb4S8
+_chemical_formula_sum              "Cs2 Sb4 S8"
+_cell_length_a       6.73225
+_cell_length_b       7.03462
+_cell_length_c       9.81347
+_cell_angle_alpha    90.1504
+_cell_angle_beta     99.3025
+_cell_angle_gamma    103.706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.84495  0.70463  0.08246  1.0000
+  Cs  Cs2       1.0  0.15505  0.29537  0.91754  1.0000
+  Sb  Sb1       1.0  0.59505  0.11832  0.31862  1.0000
+  Sb  Sb2       1.0  0.40495  0.88169  0.68138  1.0000
+  Sb  Sb3       1.0  0.18510  0.35577  0.44485  1.0000
+  Sb  Sb4       1.0  0.81490  0.64423  0.55515  1.0000
+  S   S1        1.0  0.47142  0.41902  0.27555  1.0000
+  S   S2        1.0  0.52858  0.58098  0.72445  1.0000
+  S   S3        1.0  0.92721  0.21360  0.22995  1.0000
+  S   S4        1.0  0.07279  0.78639  0.77005  1.0000
+  S   S5        1.0  0.42974  0.92983  0.07995  1.0000
+  S   S6        1.0  0.57026  0.07017  0.92005  1.0000
+  S   S7        1.0  0.83760  0.30533  0.58380  1.0000
+  S   S8        1.0  0.16240  0.69467  0.41620  1.0000

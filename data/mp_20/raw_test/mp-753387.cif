@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Li2Cu3F8
+_chemical_formula_sum              "Li2 Cu3 F8"
+_cell_length_a       5.8252
+_cell_length_b       6.02535
+_cell_length_c       6.02803
+_cell_angle_alpha    61.8169
+_cell_angle_beta     63.981
+_cell_angle_gamma    61.4121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.57569  0.12729  0.13485  1.0000
+  Li  Li2       1.0  0.42431  0.87271  0.86515  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu2       1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.24566  0.13881  0.05829  1.0000
+  F   F2        1.0  0.77821  0.44297  0.87104  1.0000
+  F   F3        1.0  0.78861  0.38155  0.43837  1.0000
+  F   F4        1.0  0.76219  0.95000  0.40507  1.0000
+  F   F5        1.0  0.23781  0.05000  0.59493  1.0000
+  F   F6        1.0  0.21139  0.61845  0.56163  1.0000
+  F   F7        1.0  0.22179  0.55703  0.12896  1.0000
+  F   F8        1.0  0.75434  0.86119  0.94171  1.0000

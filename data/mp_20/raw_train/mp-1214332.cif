@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Sr4Bi12
+_chemical_formula_sum              "Ba4 Sr4 Bi12"
+_cell_length_a       6.92155
+_cell_length_b       7.10971
+_cell_length_c       15.5038
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.54577  0.50000  0.25000  1.0000
+  Ba  Ba2       1.0  0.45423  0.50000  0.75000  1.0000
+  Ba  Ba3       1.0  0.95423  0.00000  0.25000  1.0000
+  Ba  Ba4       1.0  0.04577  0.00000  0.75000  1.0000
+  Sr  Sr1       1.0  0.75000  0.75000  0.00003  1.0000
+  Sr  Sr2       1.0  0.25000  0.25000  0.99997  1.0000
+  Sr  Sr3       1.0  0.75000  0.25000  0.49997  1.0000
+  Sr  Sr4       1.0  0.25000  0.75000  0.50003  1.0000
+  Bi  Bi1       1.0  0.75000  0.75000  0.44175  1.0000
+  Bi  Bi2       1.0  0.25000  0.25000  0.55825  1.0000
+  Bi  Bi3       1.0  0.75000  0.25000  0.05825  1.0000
+  Bi  Bi4       1.0  0.25000  0.75000  0.94175  1.0000
+  Bi  Bi5       1.0  0.06583  0.55197  0.14892  1.0000
+  Bi  Bi6       1.0  0.93417  0.44803  0.85108  1.0000
+  Bi  Bi7       1.0  0.06583  0.44803  0.35108  1.0000
+  Bi  Bi8       1.0  0.43417  0.05197  0.35108  1.0000
+  Bi  Bi9       1.0  0.93417  0.55197  0.64892  1.0000
+  Bi  Bi10      1.0  0.56583  0.94803  0.64892  1.0000
+  Bi  Bi11      1.0  0.43417  0.94803  0.14892  1.0000
+  Bi  Bi12      1.0  0.56583  0.05197  0.85108  1.0000

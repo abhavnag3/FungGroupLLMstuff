@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Pr2Ni8Sn4
+_chemical_formula_sum              "Pr2 Ni8 Sn4"
+_cell_length_a       6.71492
+_cell_length_b       6.71492
+_cell_length_c       6.71492
+_cell_angle_alpha    108.311
+_cell_angle_beta     110.054
+_cell_angle_gamma    110.054
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.50000  0.00000  0.50000  1.0000
+  Pr  Pr2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni1       1.0  0.72633  0.45022  0.44959  1.0000
+  Ni  Ni2       1.0  0.27367  0.72326  0.72389  1.0000
+  Ni  Ni3       1.0  0.00062  0.95022  0.22389  1.0000
+  Ni  Ni4       1.0  0.99938  0.22326  0.94959  1.0000
+  Ni  Ni5       1.0  0.99938  0.27611  0.54978  1.0000
+  Ni  Ni6       1.0  0.00062  0.55041  0.27674  1.0000
+  Ni  Ni7       1.0  0.27367  0.05041  0.04978  1.0000
+  Ni  Ni8       1.0  0.72633  0.77611  0.77674  1.0000
+  Sn  Sn1       1.0  0.32125  0.41063  0.41063  1.0000
+  Sn  Sn2       1.0  0.67875  0.08937  0.08937  1.0000
+  Sn  Sn3       1.0  0.00000  0.91063  0.58937  1.0000
+  Sn  Sn4       1.0  0.00000  0.58937  0.91063  1.0000

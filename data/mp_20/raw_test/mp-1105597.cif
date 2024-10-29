@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Lu4Si4Pt8
+_chemical_formula_sum              "Lu4 Si4 Pt8"
+_cell_length_a       5.47812
+_cell_length_b       6.95919
+_cell_length_c       7.24301
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.36002  0.75000  0.02768  1.0000
+  Lu  Lu2       1.0  0.13998  0.75000  0.52768  1.0000
+  Lu  Lu3       1.0  0.63998  0.25000  0.97232  1.0000
+  Lu  Lu4       1.0  0.86002  0.25000  0.47232  1.0000
+  Si  Si1       1.0  0.63910  0.75000  0.38070  1.0000
+  Si  Si2       1.0  0.86090  0.75000  0.88070  1.0000
+  Si  Si3       1.0  0.36090  0.25000  0.61930  1.0000
+  Si  Si4       1.0  0.13910  0.25000  0.11930  1.0000
+  Pt  Pt1       1.0  0.90825  0.54967  0.18224  1.0000
+  Pt  Pt2       1.0  0.59175  0.95033  0.68224  1.0000
+  Pt  Pt3       1.0  0.09175  0.04967  0.81776  1.0000
+  Pt  Pt4       1.0  0.40825  0.45033  0.31777  1.0000
+  Pt  Pt5       1.0  0.09175  0.45033  0.81776  1.0000
+  Pt  Pt6       1.0  0.40825  0.04967  0.31777  1.0000
+  Pt  Pt7       1.0  0.90825  0.95033  0.18224  1.0000
+  Pt  Pt8       1.0  0.59175  0.54967  0.68224  1.0000

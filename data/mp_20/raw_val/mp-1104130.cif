@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2P8Au4
+_chemical_formula_sum              "Ba2 P8 Au4"
+_cell_length_a       12.1464
+_cell_length_b       11.7453
+_cell_length_c       5.57542
+_cell_angle_alpha    80.5503
+_cell_angle_beta     72.5268
+_cell_angle_gamma    26.9229
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ba  Ba2       1.0  0.25000  0.25000  0.25000  1.0000
+  P   P1        1.0  0.65265  0.00523  0.61909  1.0000
+  P   P2        1.0  0.72303  0.61909  0.00523  1.0000
+  P   P3        1.0  0.61909  0.72303  0.65265  1.0000
+  P   P4        1.0  0.00523  0.65265  0.72303  1.0000
+  P   P5        1.0  0.59735  0.24477  0.63091  1.0000
+  P   P6        1.0  0.52697  0.63091  0.24477  1.0000
+  P   P7        1.0  0.63091  0.52697  0.59735  1.0000
+  P   P8        1.0  0.24477  0.59735  0.52697  1.0000
+  Au  Au1       1.0  0.83684  0.83684  0.16316  1.0000
+  Au  Au2       1.0  0.16316  0.16316  0.83684  1.0000
+  Au  Au3       1.0  0.41316  0.41316  0.08684  1.0000
+  Au  Au4       1.0  0.08684  0.08684  0.41316  1.0000

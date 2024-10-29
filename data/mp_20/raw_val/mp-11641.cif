@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ag4Se2O8
+_chemical_formula_sum              "Ag4 Se2 O8"
+_cell_length_a       8.58941
+_cell_length_b       7.07718
+_cell_length_c       6.45799
+_cell_angle_alpha    78.6342
+_cell_angle_beta     53.88
+_cell_angle_gamma    47.4858
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.19839  0.80161  0.19839  1.0000
+  Ag  Ag2       1.0  0.80161  0.19839  0.80161  1.0000
+  Ag  Ag3       1.0  0.05161  0.44839  0.05161  1.0000
+  Ag  Ag4       1.0  0.44839  0.05161  0.44839  1.0000
+  Se  Se1       1.0  0.50000  0.50000  0.50000  1.0000
+  Se  Se2       1.0  0.75000  0.75000  0.75000  1.0000
+  O   O1        1.0  0.35532  0.49426  0.82188  1.0000
+  O   O2        1.0  0.32854  0.82188  0.49426  1.0000
+  O   O3        1.0  0.82188  0.32854  0.35532  1.0000
+  O   O4        1.0  0.49426  0.35532  0.32854  1.0000
+  O   O5        1.0  0.89468  0.75574  0.42812  1.0000
+  O   O6        1.0  0.92146  0.42812  0.75574  1.0000
+  O   O7        1.0  0.75574  0.89468  0.92146  1.0000
+  O   O8        1.0  0.42812  0.92146  0.89468  1.0000

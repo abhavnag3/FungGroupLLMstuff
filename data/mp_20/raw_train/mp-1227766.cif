@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba4Si4Ge4
+_chemical_formula_sum              "Ba4 Si4 Ge4"
+_cell_length_a       6.89886
+_cell_length_b       6.89886
+_cell_length_c       6.89886
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.37390  0.87390  0.62610  1.0000
+  Ba  Ba2       1.0  0.62610  0.37390  0.87390  1.0000
+  Ba  Ba3       1.0  0.87390  0.62610  0.37390  1.0000
+  Ba  Ba4       1.0  0.12610  0.12610  0.12610  1.0000
+  Si  Si1       1.0  0.07724  0.57724  0.92276  1.0000
+  Si  Si2       1.0  0.57724  0.92276  0.07724  1.0000
+  Si  Si3       1.0  0.92276  0.07724  0.57724  1.0000
+  Si  Si4       1.0  0.42276  0.42276  0.42276  1.0000
+  Ge  Ge1       1.0  0.67200  0.17200  0.32800  1.0000
+  Ge  Ge2       1.0  0.32800  0.67200  0.17200  1.0000
+  Ge  Ge3       1.0  0.17200  0.32800  0.67200  1.0000
+  Ge  Ge4       1.0  0.82800  0.82800  0.82800  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U4Ga4Pd8
+_chemical_formula_sum              "U4 Ga4 Pd8"
+_cell_length_a       5.70528
+_cell_length_b       6.9592
+_cell_length_c       7.59182
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.34784  0.75000  0.04047  1.0000
+  U   U2        1.0  0.15216  0.75000  0.54047  1.0000
+  U   U3        1.0  0.65216  0.25000  0.95953  1.0000
+  U   U4        1.0  0.84784  0.25000  0.45953  1.0000
+  Ga  Ga1       1.0  0.65885  0.75000  0.38764  1.0000
+  Ga  Ga2       1.0  0.84115  0.75000  0.88764  1.0000
+  Ga  Ga3       1.0  0.34115  0.25000  0.61236  1.0000
+  Ga  Ga4       1.0  0.15885  0.25000  0.11236  1.0000
+  Pd  Pd1       1.0  0.91416  0.54839  0.18091  1.0000
+  Pd  Pd2       1.0  0.58584  0.95161  0.68091  1.0000
+  Pd  Pd3       1.0  0.08584  0.04839  0.81909  1.0000
+  Pd  Pd4       1.0  0.41416  0.45161  0.31909  1.0000
+  Pd  Pd5       1.0  0.08584  0.45161  0.81909  1.0000
+  Pd  Pd6       1.0  0.41416  0.04839  0.31909  1.0000
+  Pd  Pd7       1.0  0.91416  0.95161  0.18091  1.0000
+  Pd  Pd8       1.0  0.58584  0.54839  0.68091  1.0000

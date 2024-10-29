@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi4Te4Rh4
+_chemical_formula_sum              "Bi4 Te4 Rh4"
+_cell_length_a       6.60424
+_cell_length_b       6.60424
+_cell_length_c       6.60424
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.13020  0.86980  0.36980  1.0000
+  Bi  Bi2       1.0  0.86980  0.36980  0.13020  1.0000
+  Bi  Bi3       1.0  0.36980  0.13020  0.86980  1.0000
+  Bi  Bi4       1.0  0.63020  0.63020  0.63020  1.0000
+  Te  Te1       1.0  0.87255  0.12745  0.62745  1.0000
+  Te  Te2       1.0  0.12745  0.62745  0.87255  1.0000
+  Te  Te3       1.0  0.62745  0.87255  0.12745  1.0000
+  Te  Te4       1.0  0.37255  0.37255  0.37255  1.0000
+  Rh  Rh1       1.0  0.49411  0.50589  0.00589  1.0000
+  Rh  Rh2       1.0  0.50589  0.00589  0.49411  1.0000
+  Rh  Rh3       1.0  0.00589  0.49411  0.50589  1.0000
+  Rh  Rh4       1.0  0.99411  0.99411  0.99411  1.0000

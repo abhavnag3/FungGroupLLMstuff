@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U6Al4Si6
+_chemical_formula_sum              "U6 Al4 Si6"
+_cell_length_a       7.64974
+_cell_length_b       7.64974
+_cell_length_c       7.64974
+_cell_angle_alpha    120.669
+_cell_angle_beta     120.669
+_cell_angle_gamma    88.8459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.75901  0.75901  0.00000  1.0000
+  U   U2        1.0  0.25901  0.25901  0.00000  1.0000
+  U   U3        1.0  0.81908  0.62644  0.50000  1.0000
+  U   U4        1.0  0.12644  0.31908  0.50000  1.0000
+  U   U5        1.0  0.62644  0.12644  0.80736  1.0000
+  U   U6        1.0  0.31908  0.81908  0.19264  1.0000
+  Al  Al1       1.0  0.52678  0.30765  0.50000  1.0000
+  Al  Al2       1.0  0.80765  0.02678  0.50000  1.0000
+  Al  Al3       1.0  0.30765  0.80765  0.78087  1.0000
+  Al  Al4       1.0  0.02678  0.52678  0.21913  1.0000
+  Si  Si1       1.0  0.01061  0.01061  0.00000  1.0000
+  Si  Si2       1.0  0.51061  0.51061  0.00000  1.0000
+  Si  Si3       1.0  0.43949  0.63968  0.50000  1.0000
+  Si  Si4       1.0  0.13968  0.93949  0.50000  1.0000
+  Si  Si5       1.0  0.63968  0.13968  0.20019  1.0000
+  Si  Si6       1.0  0.93949  0.43949  0.79981  1.0000

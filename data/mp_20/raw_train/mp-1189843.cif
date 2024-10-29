@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Np4Tc6Ge8
+_chemical_formula_sum              "Np4 Tc6 Ge8"
+_cell_length_a       8.22008
+_cell_length_b       5.72623
+_cell_length_c       6.81198
+_cell_angle_alpha    75.596
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.55057  0.07707  0.24868  1.0000
+  Np  Np2       1.0  0.05057  0.42293  0.75132  1.0000
+  Np  Np3       1.0  0.44943  0.92293  0.75132  1.0000
+  Np  Np4       1.0  0.94943  0.57707  0.24868  1.0000
+  Tc  Tc1       1.0  0.20596  0.12160  0.10610  1.0000
+  Tc  Tc2       1.0  0.70596  0.37840  0.89390  1.0000
+  Tc  Tc3       1.0  0.79404  0.87840  0.89390  1.0000
+  Tc  Tc4       1.0  0.29404  0.62160  0.10610  1.0000
+  Tc  Tc5       1.0  0.00000  0.00000  0.50000  1.0000
+  Tc  Tc6       1.0  0.50000  0.50000  0.50000  1.0000
+  Ge  Ge1       1.0  0.90004  0.11910  0.13419  1.0000
+  Ge  Ge2       1.0  0.40004  0.38090  0.86581  1.0000
+  Ge  Ge3       1.0  0.09996  0.88090  0.86581  1.0000
+  Ge  Ge4       1.0  0.59996  0.61910  0.13419  1.0000
+  Ge  Ge5       1.0  0.75017  0.22862  0.57327  1.0000
+  Ge  Ge6       1.0  0.25017  0.27138  0.42673  1.0000
+  Ge  Ge7       1.0  0.24983  0.77138  0.42673  1.0000
+  Ge  Ge8       1.0  0.74983  0.72862  0.57327  1.0000

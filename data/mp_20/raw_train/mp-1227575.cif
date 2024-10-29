@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca4Mn2Ru2O12
+_chemical_formula_sum              "Ca4 Mn2 Ru2 O12"
+_cell_length_a       5.67401
+_cell_length_b       5.51413
+_cell_length_c       9.27926
+_cell_angle_alpha    54.3074
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.44447  0.26166  0.74949  1.0000
+  Ca  Ca2       1.0  0.94447  0.73834  0.75051  1.0000
+  Ca  Ca3       1.0  0.55553  0.73834  0.25051  1.0000
+  Ca  Ca4       1.0  0.05553  0.26166  0.24949  1.0000
+  Mn  Mn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mn  Mn2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ru  Ru1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ru  Ru2       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.71277  0.64397  0.54808  1.0000
+  O   O2        1.0  0.21277  0.35603  0.95192  1.0000
+  O   O3        1.0  0.30509  0.74156  0.04772  1.0000
+  O   O4        1.0  0.80509  0.25844  0.45228  1.0000
+  O   O5        1.0  0.28723  0.35603  0.45192  1.0000
+  O   O6        1.0  0.78723  0.64397  0.04808  1.0000
+  O   O7        1.0  0.69491  0.25844  0.95228  1.0000
+  O   O8        1.0  0.19491  0.74156  0.54772  1.0000
+  O   O9        1.0  0.02990  0.15195  0.75334  1.0000
+  O   O10       1.0  0.52990  0.84805  0.74666  1.0000
+  O   O11       1.0  0.97010  0.84805  0.24666  1.0000
+  O   O12       1.0  0.47010  0.15195  0.25334  1.0000

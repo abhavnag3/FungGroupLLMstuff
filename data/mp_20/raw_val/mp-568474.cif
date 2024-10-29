@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Cu4P8
+_chemical_formula_sum              "Ba2 Cu4 P8"
+_cell_length_a       10.8285
+_cell_length_b       9.9199
+_cell_length_c       5.81284
+_cell_angle_alpha    82.5578
+_cell_angle_beta     65.282
+_cell_angle_gamma    32.1602
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ba  Ba2       1.0  0.75000  0.75000  0.75000  1.0000
+  Cu  Cu1       1.0  0.37158  0.37158  0.12842  1.0000
+  Cu  Cu2       1.0  0.87842  0.87842  0.12158  1.0000
+  Cu  Cu3       1.0  0.12842  0.12842  0.37158  1.0000
+  Cu  Cu4       1.0  0.12158  0.12158  0.87842  1.0000
+  P   P1        1.0  0.79601  0.31217  0.82288  1.0000
+  P   P2        1.0  0.31217  0.79601  0.06894  1.0000
+  P   P3        1.0  0.18106  0.42712  0.93783  1.0000
+  P   P4        1.0  0.06894  0.82288  0.31217  1.0000
+  P   P5        1.0  0.42712  0.18106  0.45399  1.0000
+  P   P6        1.0  0.93783  0.45399  0.18106  1.0000
+  P   P7        1.0  0.82288  0.06894  0.79601  1.0000
+  P   P8        1.0  0.45399  0.93783  0.42712  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tl2Cr2Ni2F12
+_chemical_formula_sum              "Tl2 Cr2 Ni2 F12"
+_cell_length_a       7.3344
+_cell_length_b       7.3344
+_cell_length_c       7.3344
+_cell_angle_alpha    120.352
+_cell_angle_beta     119.892
+_cell_angle_gamma    89.7891
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.36802  0.61802  0.75000  1.0000
+  Tl  Tl2       1.0  0.63198  0.38198  0.25000  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.00000  1.0000
+  F   F1        1.0  0.31781  0.06781  0.25000  1.0000
+  F   F2        1.0  0.92286  0.67286  0.25000  1.0000
+  F   F3        1.0  0.32933  0.68430  0.25891  1.0000
+  F   F4        1.0  0.92539  0.07041  0.24109  1.0000
+  F   F5        1.0  0.32933  0.07041  0.64503  1.0000
+  F   F6        1.0  0.92539  0.68430  0.85497  1.0000
+  F   F7        1.0  0.68219  0.93219  0.75000  1.0000
+  F   F8        1.0  0.07714  0.32714  0.75000  1.0000
+  F   F9        1.0  0.67067  0.31570  0.74109  1.0000
+  F   F10       1.0  0.07462  0.92959  0.75891  1.0000
+  F   F11       1.0  0.67067  0.92959  0.35497  1.0000
+  F   F12       1.0  0.07462  0.31570  0.14503  1.0000

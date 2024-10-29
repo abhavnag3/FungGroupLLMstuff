@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr2Eu2TlNi2O9
+_chemical_formula_sum              "Sr2 Eu2 Tl1 Ni2 O9"
+_cell_length_a       15.2408
+_cell_length_b       15.236
+_cell_length_c       3.81687
+_cell_angle_alpha    82.8775
+_cell_angle_beta     82.7334
+_cell_angle_gamma    14.389
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.59180  0.57758  0.42242  1.0000
+  Sr  Sr2       1.0  0.42242  0.40820  0.59180  1.0000
+  Eu  Eu1       1.0  0.70473  0.70352  0.29648  1.0000
+  Eu  Eu2       1.0  0.29648  0.29527  0.70473  1.0000
+  Tl  Tl1       1.0  0.04439  0.95561  0.04439  1.0000
+  Ni  Ni1       1.0  0.14984  0.14586  0.85414  1.0000
+  Ni  Ni2       1.0  0.85414  0.85016  0.14984  1.0000
+  O   O1        1.0  0.21913  0.21829  0.78171  1.0000
+  O   O2        1.0  0.78171  0.78087  0.21913  1.0000
+  O   O3        1.0  0.47888  0.52112  0.47888  1.0000
+  O   O4        1.0  0.65110  0.64746  0.85221  1.0000
+  O   O5        1.0  0.15077  0.14778  0.35254  1.0000
+  O   O6        1.0  0.35254  0.34890  0.15077  1.0000
+  O   O7        1.0  0.85221  0.84923  0.65110  1.0000
+  O   O8        1.0  0.07155  0.06972  0.93028  1.0000
+  O   O9        1.0  0.93028  0.92845  0.07155  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nd4Cu4S8
+_chemical_formula_sum              "Nd4 Cu4 S8"
+_cell_length_a       7.20357
+_cell_length_b       6.51151
+_cell_length_c       6.88913
+_cell_angle_alpha    82.4562
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.94988  0.80910  0.79979  1.0000
+  Nd  Nd2       1.0  0.44988  0.19090  0.70021  1.0000
+  Nd  Nd3       1.0  0.05012  0.19090  0.20021  1.0000
+  Nd  Nd4       1.0  0.55012  0.80910  0.29979  1.0000
+  Cu  Cu1       1.0  0.66385  0.42566  0.04886  1.0000
+  Cu  Cu2       1.0  0.33615  0.57434  0.95114  1.0000
+  Cu  Cu3       1.0  0.16385  0.57434  0.45114  1.0000
+  Cu  Cu4       1.0  0.83615  0.42566  0.54886  1.0000
+  S   S1        1.0  0.72604  0.08479  0.00127  1.0000
+  S   S2        1.0  0.22604  0.91521  0.49873  1.0000
+  S   S3        1.0  0.27396  0.91521  0.99873  1.0000
+  S   S4        1.0  0.77396  0.08479  0.50127  1.0000
+  S   S5        1.0  0.11425  0.41023  0.77764  1.0000
+  S   S6        1.0  0.38575  0.41023  0.27764  1.0000
+  S   S7        1.0  0.88575  0.58977  0.22236  1.0000
+  S   S8        1.0  0.61425  0.58977  0.72236  1.0000

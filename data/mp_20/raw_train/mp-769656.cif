@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba4Ce4O10
+_chemical_formula_sum              "Ba4 Ce4 O10"
+_cell_length_a       4.47664
+_cell_length_b       6.24336
+_cell_length_c       12.75
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.24719  0.39484  1.0000
+  Ba  Ba2       1.0  0.00000  0.25281  0.89484  1.0000
+  Ba  Ba3       1.0  0.00000  0.74719  0.10516  1.0000
+  Ba  Ba4       1.0  0.00000  0.75281  0.60516  1.0000
+  Ce  Ce1       1.0  0.50000  0.24321  0.13764  1.0000
+  Ce  Ce2       1.0  0.50000  0.25679  0.63764  1.0000
+  Ce  Ce3       1.0  0.50000  0.74321  0.36236  1.0000
+  Ce  Ce4       1.0  0.50000  0.75679  0.86236  1.0000
+  O   O1        1.0  0.50000  0.00000  0.50000  1.0000
+  O   O2        1.0  0.50000  0.10022  0.79339  1.0000
+  O   O3        1.0  0.00000  0.19379  0.10392  1.0000
+  O   O4        1.0  0.00000  0.30622  0.60392  1.0000
+  O   O5        1.0  0.50000  0.39978  0.29339  1.0000
+  O   O6        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O7        1.0  0.50000  0.60022  0.70661  1.0000
+  O   O8        1.0  0.00000  0.69378  0.39608  1.0000
+  O   O9        1.0  0.00000  0.80622  0.89608  1.0000
+  O   O10       1.0  0.50000  0.89978  0.20661  1.0000

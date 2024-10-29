@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Al4Co4
+_chemical_formula_sum              "Zr4 Al4 Co4"
+_cell_length_a       5.1588
+_cell_length_b       5.1588
+_cell_length_c       8.16761
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.24
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.66566  0.33434  0.28873  1.0000
+  Zr  Zr2       1.0  0.33044  0.66956  0.17271  1.0000
+  Zr  Zr3       1.0  0.33044  0.66956  0.82729  1.0000
+  Zr  Zr4       1.0  0.66566  0.33434  0.71127  1.0000
+  Al  Al1       1.0  0.00692  0.99308  0.23428  1.0000
+  Al  Al2       1.0  0.00692  0.99308  0.76572  1.0000
+  Al  Al3       1.0  0.65683  0.83356  0.50000  1.0000
+  Al  Al4       1.0  0.16644  0.34317  0.50000  1.0000
+  Co  Co1       1.0  0.16686  0.83314  0.50000  1.0000
+  Co  Co2       1.0  0.34912  0.17391  0.00000  1.0000
+  Co  Co3       1.0  0.82609  0.65088  0.00000  1.0000
+  Co  Co4       1.0  0.83033  0.16967  0.00000  1.0000

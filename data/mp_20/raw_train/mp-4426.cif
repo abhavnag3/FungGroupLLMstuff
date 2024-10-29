@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li8Se2O10
+_chemical_formula_sum              "Li8 Se2 O10"
+_cell_length_a       5.29569
+_cell_length_b       5.29569
+_cell_length_c       7.95303
+_cell_angle_alpha    83.2521
+_cell_angle_beta     83.2521
+_cell_angle_gamma    66.8574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.63792  0.96508  0.64614  1.0000
+  Li  Li2       1.0  0.03492  0.36208  0.85386  1.0000
+  Li  Li3       1.0  0.43208  0.77697  0.05665  1.0000
+  Li  Li4       1.0  0.22303  0.56792  0.44335  1.0000
+  Li  Li5       1.0  0.56792  0.22302  0.94335  1.0000
+  Li  Li6       1.0  0.77697  0.43208  0.55665  1.0000
+  Li  Li7       1.0  0.36208  0.03492  0.35385  1.0000
+  Li  Li8       1.0  0.96508  0.63792  0.14614  1.0000
+  Se  Se1       1.0  0.17204  0.82796  0.75000  1.0000
+  Se  Se2       1.0  0.82796  0.17204  0.25000  1.0000
+  O   O1        1.0  0.99450  0.65027  0.66011  1.0000
+  O   O2        1.0  0.34973  0.00550  0.83989  1.0000
+  O   O3        1.0  0.12839  0.87161  0.25000  1.0000
+  O   O4        1.0  0.87161  0.12839  0.75000  1.0000
+  O   O5        1.0  0.58915  0.23301  0.42652  1.0000
+  O   O6        1.0  0.76699  0.41085  0.07348  1.0000
+  O   O7        1.0  0.41085  0.76699  0.57348  1.0000
+  O   O8        1.0  0.23301  0.58915  0.92652  1.0000
+  O   O9        1.0  0.65027  0.99450  0.16011  1.0000
+  O   O10       1.0  0.00550  0.34973  0.33989  1.0000

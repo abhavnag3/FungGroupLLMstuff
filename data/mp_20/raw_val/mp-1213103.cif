@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Dy12Co5Bi
+_chemical_formula_sum              "Dy12 Co5 Bi1"
+_cell_length_a       8.26948
+_cell_length_b       8.26948
+_cell_length_c       8.26948
+_cell_angle_alpha    110.851
+_cell_angle_beta     110.556
+_cell_angle_gamma    107.034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.81774  0.71490  0.53264  1.0000
+  Dy  Dy2       1.0  0.18226  0.28510  0.46736  1.0000
+  Dy  Dy3       1.0  0.18226  0.71490  0.89716  1.0000
+  Dy  Dy4       1.0  0.81774  0.28510  0.10284  1.0000
+  Dy  Dy5       1.0  0.68800  0.38032  0.69232  1.0000
+  Dy  Dy6       1.0  0.31200  0.61968  0.30768  1.0000
+  Dy  Dy7       1.0  0.68800  0.99568  0.30768  1.0000
+  Dy  Dy8       1.0  0.31200  0.00432  0.69232  1.0000
+  Dy  Dy9       1.0  0.59315  0.78946  0.80369  1.0000
+  Dy  Dy10      1.0  0.40685  0.21054  0.19631  1.0000
+  Dy  Dy11      1.0  0.98577  0.78946  0.19631  1.0000
+  Dy  Dy12      1.0  0.01423  0.21054  0.80369  1.0000
+  Co  Co1       1.0  0.62452  0.00000  0.62452  1.0000
+  Co  Co2       1.0  0.37548  0.00000  0.37548  1.0000
+  Co  Co3       1.0  0.11179  0.61179  0.50000  1.0000
+  Co  Co4       1.0  0.88821  0.38821  0.50000  1.0000
+  Co  Co5       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi1       1.0  0.50000  0.50000  0.00000  1.0000

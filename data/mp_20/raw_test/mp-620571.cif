@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca4In4Pd4
+_chemical_formula_sum              "Ca4 In4 Pd4"
+_cell_length_a       4.35555
+_cell_length_b       7.42895
+_cell_length_c       8.61585
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.03188  0.32253  1.0000
+  Ca  Ca2       1.0  0.25000  0.46812  0.82253  1.0000
+  Ca  Ca3       1.0  0.75000  0.53188  0.17747  1.0000
+  Ca  Ca4       1.0  0.25000  0.96812  0.67747  1.0000
+  In  In1       1.0  0.25000  0.85360  0.06232  1.0000
+  In  In2       1.0  0.25000  0.35360  0.43768  1.0000
+  In  In3       1.0  0.75000  0.64640  0.56232  1.0000
+  In  In4       1.0  0.75000  0.14640  0.93768  1.0000
+  Pd  Pd1       1.0  0.25000  0.73216  0.37112  1.0000
+  Pd  Pd2       1.0  0.75000  0.26784  0.62888  1.0000
+  Pd  Pd3       1.0  0.75000  0.76784  0.87112  1.0000
+  Pd  Pd4       1.0  0.25000  0.23216  0.12888  1.0000

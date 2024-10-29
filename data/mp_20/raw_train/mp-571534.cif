@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4As8Pt8
+_chemical_formula_sum              "Sr4 As8 Pt8"
+_cell_length_a       4.52564
+_cell_length_b       8.99836
+_cell_length_c       10.0942
+_cell_angle_alpha    89.2063
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.76041  0.62628  0.75147  1.0000
+  Sr  Sr2       1.0  0.73959  0.12627  0.75147  1.0000
+  Sr  Sr3       1.0  0.26041  0.87372  0.24853  1.0000
+  Sr  Sr4       1.0  0.23959  0.37372  0.24853  1.0000
+  As  As1       1.0  0.25435  0.62359  0.99942  1.0000
+  As  As2       1.0  0.24565  0.12359  0.99942  1.0000
+  As  As3       1.0  0.20540  0.38630  0.62859  1.0000
+  As  As4       1.0  0.74565  0.37641  0.00059  1.0000
+  As  As5       1.0  0.79460  0.61370  0.37141  1.0000
+  As  As6       1.0  0.75435  0.87641  0.00059  1.0000
+  As  As7       1.0  0.29460  0.88630  0.62859  1.0000
+  As  As8       1.0  0.70540  0.11370  0.37141  1.0000
+  Pt  Pt1       1.0  0.67727  0.35868  0.49784  1.0000
+  Pt  Pt2       1.0  0.82273  0.85869  0.49784  1.0000
+  Pt  Pt3       1.0  0.74661  0.12574  0.12039  1.0000
+  Pt  Pt4       1.0  0.32273  0.64131  0.50216  1.0000
+  Pt  Pt5       1.0  0.75339  0.62574  0.12039  1.0000
+  Pt  Pt6       1.0  0.25339  0.87426  0.87961  1.0000
+  Pt  Pt7       1.0  0.24661  0.37426  0.87961  1.0000
+  Pt  Pt8       1.0  0.17727  0.14131  0.50216  1.0000

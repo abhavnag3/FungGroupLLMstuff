@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Y4Al12Ni4
+_chemical_formula_sum              "Y4 Al12 Ni4"
+_cell_length_a       4.05139
+_cell_length_b       8.15662
+_cell_length_c       10.6467
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.25000  0.18547  0.99106  1.0000
+  Y   Y2        1.0  0.75000  0.31453  0.49106  1.0000
+  Y   Y3        1.0  0.25000  0.68547  0.50894  1.0000
+  Y   Y4        1.0  0.75000  0.81453  0.00894  1.0000
+  Al  Al1       1.0  0.75000  0.44459  0.91656  1.0000
+  Al  Al2       1.0  0.25000  0.55541  0.08344  1.0000
+  Al  Al3       1.0  0.75000  0.94459  0.58344  1.0000
+  Al  Al4       1.0  0.25000  0.05541  0.41656  1.0000
+  Al  Al5       1.0  0.75000  0.61482  0.28604  1.0000
+  Al  Al6       1.0  0.25000  0.88518  0.78604  1.0000
+  Al  Al7       1.0  0.75000  0.11482  0.21396  1.0000
+  Al  Al8       1.0  0.25000  0.35590  0.27797  1.0000
+  Al  Al9       1.0  0.75000  0.64410  0.72203  1.0000
+  Al  Al10      1.0  0.25000  0.85590  0.22203  1.0000
+  Al  Al11      1.0  0.25000  0.38518  0.71396  1.0000
+  Al  Al12      1.0  0.75000  0.14410  0.77797  1.0000
+  Ni  Ni1       1.0  0.75000  0.89406  0.35684  1.0000
+  Ni  Ni2       1.0  0.75000  0.39406  0.14316  1.0000
+  Ni  Ni3       1.0  0.25000  0.60594  0.85684  1.0000
+  Ni  Ni4       1.0  0.25000  0.10594  0.64316  1.0000

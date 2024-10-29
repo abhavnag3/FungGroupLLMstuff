@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       La4Ni3O10
+_chemical_formula_sum              "La4 Ni3 O10"
+_cell_length_a       3.87292
+_cell_length_b       3.87308
+_cell_length_c       14.2681
+_cell_angle_alpha    97.7978
+_cell_angle_beta     97.7969
+_cell_angle_gamma    90.0227
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.30148  0.30147  0.60299  1.0000
+  La  La2       1.0  0.69852  0.69853  0.39701  1.0000
+  La  La3       1.0  0.43279  0.43279  0.86564  1.0000
+  La  La4       1.0  0.56720  0.56720  0.13435  1.0000
+  Ni  Ni1       1.0  0.14043  0.14043  0.28074  1.0000
+  Ni  Ni2       1.0  0.85958  0.85959  0.71931  1.0000
+  Ni  Ni3       1.0  0.99999  0.99999  0.99997  1.0000
+  O   O1        1.0  0.21722  0.21721  0.43441  1.0000
+  O   O2        1.0  0.78278  0.78279  0.56559  1.0000
+  O   O3        1.0  0.86019  0.36022  0.72053  1.0000
+  O   O4        1.0  0.63978  0.13981  0.27947  1.0000
+  O   O5        1.0  0.13981  0.63978  0.27947  1.0000
+  O   O6        1.0  0.36022  0.86019  0.72053  1.0000
+  O   O7        1.0  0.06865  0.06866  0.13728  1.0000
+  O   O8        1.0  0.50000  1.00000  0.99999  1.0000
+  O   O9        1.0  0.93135  0.93135  0.86273  1.0000
+  O   O10       1.0  1.00000  0.50000  0.99999  1.0000

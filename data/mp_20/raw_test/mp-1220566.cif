@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb3WSe8
+_chemical_formula_sum              "Nb3 W1 Se8"
+_cell_length_a       14.3226
+_cell_length_b       14.3226
+_cell_length_c       5.97509
+_cell_angle_alpha    85.4376
+_cell_angle_beta     85.4376
+_cell_angle_gamma    13.7952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.74962  0.74962  0.75123  1.0000
+  Nb  Nb2       1.0  0.49994  0.49994  0.51079  1.0000
+  Nb  Nb3       1.0  0.24991  0.24991  0.24973  1.0000
+  W   W1        1.0  0.99981  0.99981  0.98947  1.0000
+  Se  Se1       1.0  0.06040  0.06040  0.64836  1.0000
+  Se  Se2       1.0  0.80980  0.80980  0.39420  1.0000
+  Se  Se3       1.0  0.55732  0.55732  0.14044  1.0000
+  Se  Se4       1.0  0.30988  0.30988  0.89314  1.0000
+  Se  Se5       1.0  0.68992  0.68992  0.43817  1.0000
+  Se  Se6       1.0  0.44234  0.44234  0.18499  1.0000
+  Se  Se7       1.0  0.18958  0.18958  0.93919  1.0000
+  Se  Se8       1.0  0.93948  0.93948  0.69429  1.0000

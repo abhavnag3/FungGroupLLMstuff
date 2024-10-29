@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       U4Be2C5
+_chemical_formula_sum              "U4 Be2 C5"
+_cell_length_a       6.11561
+_cell_length_b       6.11561
+_cell_length_c       5.0455
+_cell_angle_alpha    89.4756
+_cell_angle_beta     89.4756
+_cell_angle_gamma    131.224
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.38771  0.11743  0.74694  1.0000
+  U   U2        1.0  0.88257  0.61229  0.25306  1.0000
+  U   U3        1.0  0.61229  0.88257  0.25306  1.0000
+  U   U4        1.0  0.11743  0.38771  0.74694  1.0000
+  Be  Be1       1.0  0.74300  0.74300  0.74464  1.0000
+  Be  Be2       1.0  0.25700  0.25700  0.25536  1.0000
+  C   C1        1.0  0.60355  0.92898  0.76901  1.0000
+  C   C2        1.0  0.07102  0.39645  0.23099  1.0000
+  C   C3        1.0  0.92898  0.60355  0.76901  1.0000
+  C   C4        1.0  0.39645  0.07102  0.23099  1.0000
+  C   C5        1.0  0.50000  0.50000  0.50000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca2La2MgTi3O12
+_chemical_formula_sum              "Ca2 La2 Mg1 Ti3 O12"
+_cell_length_a       5.52575
+_cell_length_b       5.56496
+_cell_length_c       7.82857
+_cell_angle_alpha    89.9441
+_cell_angle_beta     89.9578
+_cell_angle_gamma    89.9045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.49428  0.53151  0.75815  1.0000
+  Ca  Ca2       1.0  0.98932  0.96419  0.24177  1.0000
+  La  La1       1.0  0.00999  0.03269  0.76171  1.0000
+  La  La2       1.0  0.50362  0.47588  0.23880  1.0000
+  Mg  Mg1       1.0  0.00007  0.50123  0.99979  1.0000
+  Ti  Ti1       1.0  0.50145  0.00042  0.49911  1.0000
+  Ti  Ti2       1.0  0.00071  0.50268  0.50136  1.0000
+  Ti  Ti3       1.0  0.50037  0.99939  0.00056  1.0000
+  O   O1        1.0  0.57481  0.98243  0.74608  1.0000
+  O   O2        1.0  0.91985  0.48267  0.73885  1.0000
+  O   O3        1.0  0.41836  0.01299  0.25395  1.0000
+  O   O4        1.0  0.07558  0.51784  0.26056  1.0000
+  O   O5        1.0  0.22505  0.79026  0.96210  1.0000
+  O   O6        1.0  0.28557  0.28143  0.54271  1.0000
+  O   O7        1.0  0.78068  0.21374  0.45669  1.0000
+  O   O8        1.0  0.70902  0.72237  0.03794  1.0000
+  O   O9        1.0  0.77804  0.20610  0.04084  1.0000
+  O   O10       1.0  0.71738  0.72070  0.45919  1.0000
+  O   O11       1.0  0.22104  0.78303  0.54141  1.0000
+  O   O12       1.0  0.29482  0.27845  0.95844  1.0000

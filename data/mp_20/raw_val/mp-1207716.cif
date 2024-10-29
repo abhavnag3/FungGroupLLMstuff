@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tm4Ni4Ge8
+_chemical_formula_sum              "Tm4 Ni4 Ge8"
+_cell_length_a       9.21023
+_cell_length_b       9.21023
+_cell_length_c       9.21023
+_cell_angle_alpha    154.079
+_cell_angle_beta     125.196
+_cell_angle_gamma    61.5901
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.20328  0.20328  0.00000  1.0000
+  Tm  Tm2       1.0  0.79672  0.79672  0.00000  1.0000
+  Tm  Tm3       1.0  0.23840  0.00000  0.23841  1.0000
+  Tm  Tm4       1.0  0.76160  0.00000  0.76160  1.0000
+  Ni  Ni1       1.0  0.60242  0.35276  0.24965  1.0000
+  Ni  Ni2       1.0  0.39758  0.64724  0.75035  1.0000
+  Ni  Ni3       1.0  0.10311  0.35276  0.75035  1.0000
+  Ni  Ni4       1.0  0.89689  0.64724  0.24965  1.0000
+  Ge  Ge1       1.0  0.07698  0.57698  0.50000  1.0000
+  Ge  Ge2       1.0  0.92302  0.42302  0.50000  1.0000
+  Ge  Ge3       1.0  0.53940  0.19781  0.34159  1.0000
+  Ge  Ge4       1.0  0.46060  0.80219  0.65841  1.0000
+  Ge  Ge5       1.0  0.85622  0.19781  0.65841  1.0000
+  Ge  Ge6       1.0  0.14378  0.80219  0.34159  1.0000
+  Ge  Ge7       1.0  0.42091  0.42091  0.00000  1.0000
+  Ge  Ge8       1.0  0.57908  0.57908  0.00000  1.0000

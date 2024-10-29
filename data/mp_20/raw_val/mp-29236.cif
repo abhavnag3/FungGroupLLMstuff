@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       In4Te4Br4
+_chemical_formula_sum              "In4 Te4 Br4"
+_cell_length_a       7.7401
+_cell_length_b       7.84038
+_cell_length_c       8.55251
+_cell_angle_alpha    62.64
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.69986  0.97510  0.88453  1.0000
+  In  In2       1.0  0.19986  0.02490  0.61547  1.0000
+  In  In3       1.0  0.30014  0.02490  0.11547  1.0000
+  In  In4       1.0  0.80014  0.97510  0.38453  1.0000
+  Te  Te1       1.0  0.86802  0.20601  0.56116  1.0000
+  Te  Te2       1.0  0.36802  0.79399  0.93884  1.0000
+  Te  Te3       1.0  0.13198  0.79399  0.43884  1.0000
+  Te  Te4       1.0  0.63198  0.20601  0.06116  1.0000
+  Br  Br1       1.0  0.89659  0.69262  0.07887  1.0000
+  Br  Br2       1.0  0.39659  0.30738  0.42113  1.0000
+  Br  Br3       1.0  0.10341  0.30738  0.92113  1.0000
+  Br  Br4       1.0  0.60341  0.69262  0.57887  1.0000

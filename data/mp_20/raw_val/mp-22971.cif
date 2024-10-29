@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sb4S4Br4
+_chemical_formula_sum              "Sb4 S4 Br4"
+_cell_length_a       3.99459
+_cell_length_b       8.67747
+_cell_length_c       10.3856
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.25000  0.10467  0.86851  1.0000
+  Sb  Sb2       1.0  0.75000  0.89533  0.13149  1.0000
+  Sb  Sb3       1.0  0.75000  0.39533  0.36851  1.0000
+  Sb  Sb4       1.0  0.25000  0.60467  0.63149  1.0000
+  S   S1        1.0  0.75000  0.16072  0.03740  1.0000
+  S   S2        1.0  0.75000  0.66072  0.46260  1.0000
+  S   S3        1.0  0.25000  0.33928  0.53740  1.0000
+  S   S4        1.0  0.25000  0.83928  0.96260  1.0000
+  Br  Br1       1.0  0.75000  0.97487  0.69096  1.0000
+  Br  Br2       1.0  0.75000  0.47487  0.80904  1.0000
+  Br  Br3       1.0  0.25000  0.52513  0.19096  1.0000
+  Br  Br4       1.0  0.25000  0.02513  0.30904  1.0000

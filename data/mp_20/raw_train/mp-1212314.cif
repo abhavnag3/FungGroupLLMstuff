@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho3Co2Si7
+_chemical_formula_sum              "Ho3 Co2 Si7"
+_cell_length_a       12.4158
+_cell_length_b       12.4158
+_cell_length_c       4.0327
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    161.572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.90230  0.09770  0.50000  1.0000
+  Ho  Ho2       1.0  0.53403  0.46597  0.50000  1.0000
+  Ho  Ho3       1.0  0.21900  0.78100  0.00000  1.0000
+  Co  Co1       1.0  0.34720  0.65280  0.00000  1.0000
+  Co  Co2       1.0  0.08874  0.91126  0.00000  1.0000
+  Si  Si1       1.0  0.62891  0.37110  0.00000  1.0000
+  Si  Si2       1.0  0.43901  0.56099  0.00000  1.0000
+  Si  Si3       1.0  0.12918  0.87082  0.50000  1.0000
+  Si  Si4       1.0  0.99659  0.00341  0.00000  1.0000
+  Si  Si5       1.0  0.80670  0.19330  0.00000  1.0000
+  Si  Si6       1.0  0.70484  0.29516  0.50000  1.0000
+  Si  Si7       1.0  0.30679  0.69321  0.50000  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Tl3S2O8
+_chemical_formula_sum              "Tl3 S2 O8"
+_cell_length_a       5.80177
+_cell_length_b       5.80177
+_cell_length_c       7.86611
+_cell_angle_alpha    69.8433
+_cell_angle_beta     69.8433
+_cell_angle_gamma    60.5127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.50000  0.50000  0.00000  1.0000
+  Tl  Tl2       1.0  0.70589  0.70589  0.38446  1.0000
+  Tl  Tl3       1.0  0.29411  0.29411  0.61554  1.0000
+  S   S1        1.0  0.89351  0.89350  0.81904  1.0000
+  S   S2        1.0  0.10650  0.10649  0.18096  1.0000
+  O   O1        1.0  0.19769  0.77616  0.75199  1.0000
+  O   O2        1.0  0.77616  0.19769  0.75199  1.0000
+  O   O3        1.0  0.77856  0.77856  0.74087  1.0000
+  O   O4        1.0  0.80231  0.22384  0.24801  1.0000
+  O   O5        1.0  0.22384  0.80231  0.24801  1.0000
+  O   O6        1.0  0.22144  0.22144  0.25913  1.0000
+  O   O7        1.0  0.82706  0.82706  0.02261  1.0000
+  O   O8        1.0  0.17294  0.17294  0.97739  1.0000

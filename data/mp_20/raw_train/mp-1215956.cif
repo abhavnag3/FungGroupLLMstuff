@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Yb4Mn2Co2O12
+_chemical_formula_sum              "Yb4 Mn2 Co2 O12"
+_cell_length_a       5.41265
+_cell_length_b       5.25866
+_cell_length_c       9.12615
+_cell_angle_alpha    54.9644
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.44087  0.76431  0.74972  1.0000
+  Yb  Yb2       1.0  0.94087  0.23569  0.75028  1.0000
+  Yb  Yb3       1.0  0.55913  0.23569  0.25028  1.0000
+  Yb  Yb4       1.0  0.05913  0.76431  0.24972  1.0000
+  Mn  Mn1       1.0  0.50000  0.50000  0.50000  1.0000
+  Mn  Mn2       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co1       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.01650  0.67006  0.74896  1.0000
+  O   O2        1.0  0.51650  0.32994  0.75104  1.0000
+  O   O3        1.0  0.98350  0.32994  0.25104  1.0000
+  O   O4        1.0  0.48350  0.67006  0.24896  1.0000
+  O   O5        1.0  0.20381  0.83794  0.95731  1.0000
+  O   O6        1.0  0.70381  0.16206  0.54269  1.0000
+  O   O7        1.0  0.79334  0.74364  0.45799  1.0000
+  O   O8        1.0  0.29335  0.25636  0.04201  1.0000
+  O   O9        1.0  0.79619  0.16206  0.04269  1.0000
+  O   O10       1.0  0.29619  0.83794  0.45731  1.0000
+  O   O11       1.0  0.20666  0.25636  0.54201  1.0000
+  O   O12       1.0  0.70666  0.74364  0.95799  1.0000

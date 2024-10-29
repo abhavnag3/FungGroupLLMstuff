@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr2La2Co2O8
+_chemical_formula_sum              "Sr2 La2 Co2 O8"
+_cell_length_a       3.86866
+_cell_length_b       7.70155
+_cell_length_c       6.94109
+_cell_angle_alpha    106.112
+_cell_angle_beta     106.199
+_cell_angle_gamma    90.0106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.64115  0.32245  0.28252  1.0000
+  Sr  Sr2       1.0  0.64350  0.81991  0.28694  1.0000
+  La  La1       1.0  0.35834  0.67379  0.71649  1.0000
+  La  La2       1.0  0.35718  0.18423  0.71456  1.0000
+  Co  Co1       1.0  0.00256  0.00132  0.00512  1.0000
+  Co  Co2       1.0  0.00667  0.50318  0.01326  1.0000
+  O   O1        1.0  0.83052  0.41492  0.66109  1.0000
+  O   O2        1.0  0.83605  0.91807  0.67146  1.0000
+  O   O3        1.0  0.17447  0.58731  0.34896  1.0000
+  O   O4        1.0  0.17183  0.08605  0.34449  1.0000
+  O   O5        1.0  0.49040  0.49524  0.98070  1.0000
+  O   O6        1.0  0.49667  0.99817  0.99326  1.0000
+  O   O7        1.0  0.99577  0.74300  0.99121  1.0000
+  O   O8        1.0  0.99489  0.25237  0.98992  1.0000

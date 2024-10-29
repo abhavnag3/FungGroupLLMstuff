@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Sn2Ge5Sb2Te10
+_chemical_formula_sum              "Sn2 Ge5 Sb2 Te10"
+_cell_length_a       4.2952
+_cell_length_b       4.2952
+_cell_length_c       37.9295
+_cell_angle_alpha    90
+_cell_angle_beta     86.7541
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.90702  0.95351  0.13947  1.0000
+  Sn  Sn2       1.0  0.50293  0.25146  0.24561  1.0000
+  Ge  Ge1       1.0  0.29496  0.14748  0.55757  1.0000
+  Ge  Ge2       1.0  0.89598  0.44799  0.65603  1.0000
+  Ge  Ge3       1.0  0.49602  0.74801  0.75596  1.0000
+  Ge  Ge4       1.0  0.09579  0.04790  0.85631  1.0000
+  Ge  Ge5       1.0  0.69482  0.34741  0.95777  1.0000
+  Sb  Sb1       1.0  0.10024  0.55012  0.34964  1.0000
+  Sb  Sb2       1.0  0.69660  0.84830  0.45510  1.0000
+  Te  Te1       1.0  0.40416  0.70208  0.89375  1.0000
+  Te  Te2       1.0  0.20426  0.10213  0.69362  1.0000
+  Te  Te3       1.0  0.80432  0.40216  0.79353  1.0000
+  Te  Te4       1.0  0.99940  0.49970  0.50089  1.0000
+  Te  Te5       1.0  0.60320  0.80160  0.59520  1.0000
+  Te  Te6       1.0  0.39882  0.19941  0.40177  1.0000
+  Te  Te7       1.0  0.19837  0.59918  0.20245  1.0000
+  Te  Te8       1.0  0.79747  0.89874  0.30379  1.0000
+  Te  Te9       1.0  0.00359  0.00179  0.99462  1.0000
+  Te  Te10      1.0  0.60205  0.30102  0.09693  1.0000

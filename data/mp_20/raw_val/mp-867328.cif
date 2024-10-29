@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Y2Si2S8
+_chemical_formula_sum              "K2 Y2 Si2 S8"
+_cell_length_a       6.63912
+_cell_length_b       6.42477
+_cell_length_c       8.69949
+_cell_angle_alpha    72.0149
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.97813  0.72999  0.06432  1.0000
+  K   K2        1.0  0.47813  0.27001  0.93568  1.0000
+  Y   Y1        1.0  0.49886  0.23040  0.45066  1.0000
+  Y   Y2        1.0  0.99886  0.76960  0.54934  1.0000
+  Si  Si1       1.0  0.46226  0.78134  0.32585  1.0000
+  Si  Si2       1.0  0.96227  0.21866  0.67415  1.0000
+  S   S1        1.0  0.46353  0.58603  0.17053  1.0000
+  S   S2        1.0  0.22993  0.02308  0.27951  1.0000
+  S   S3        1.0  0.72737  0.97979  0.29835  1.0000
+  S   S4        1.0  0.90691  0.42121  0.43288  1.0000
+  S   S5        1.0  0.40691  0.57879  0.56712  1.0000
+  S   S6        1.0  0.22737  0.02021  0.70165  1.0000
+  S   S7        1.0  0.72993  0.97692  0.72049  1.0000
+  S   S8        1.0  0.96354  0.41397  0.82947  1.0000

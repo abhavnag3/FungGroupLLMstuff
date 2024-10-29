@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Nd4Ni2Pt2O12
+_chemical_formula_sum              "Nd4 Ni2 Pt2 O12"
+_cell_length_a       5.79969
+_cell_length_b       5.47987
+_cell_length_c       9.57843
+_cell_angle_alpha    55.1537
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.43220  0.23217  0.74903  1.0000
+  Nd  Nd2       1.0  0.56780  0.76783  0.25097  1.0000
+  Nd  Nd3       1.0  0.93220  0.76783  0.75097  1.0000
+  Nd  Nd4       1.0  0.06780  0.23217  0.24903  1.0000
+  Ni  Ni1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ni  Ni2       1.0  0.50000  0.50000  0.00000  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pt  Pt2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.03300  0.35376  0.75069  1.0000
+  O   O2        1.0  0.96700  0.64624  0.24931  1.0000
+  O   O3        1.0  0.53300  0.64624  0.74931  1.0000
+  O   O4        1.0  0.46700  0.35376  0.25069  1.0000
+  O   O5        1.0  0.70301  0.86237  0.94600  1.0000
+  O   O6        1.0  0.29699  0.13763  0.05400  1.0000
+  O   O7        1.0  0.20301  0.13763  0.55400  1.0000
+  O   O8        1.0  0.79699  0.86237  0.44600  1.0000
+  O   O9        1.0  0.19767  0.74927  0.94755  1.0000
+  O   O10       1.0  0.80233  0.25073  0.05245  1.0000
+  O   O11       1.0  0.69767  0.25073  0.55245  1.0000
+  O   O12       1.0  0.30233  0.74927  0.44755  1.0000

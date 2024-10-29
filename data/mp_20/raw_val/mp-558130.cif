@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn4Bi4S8Cl4
+_chemical_formula_sum              "Mn4 Bi4 S8 Cl4"
+_cell_length_a       3.88806
+_cell_length_b       9.50641
+_cell_length_c       12.3999
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.75000  0.00564  0.25965  1.0000
+  Mn  Mn2       1.0  0.25000  0.99436  0.74035  1.0000
+  Mn  Mn3       1.0  0.25000  0.49436  0.75965  1.0000
+  Mn  Mn4       1.0  0.75000  0.50564  0.24035  1.0000
+  Bi  Bi1       1.0  0.75000  0.30146  0.53062  1.0000
+  Bi  Bi2       1.0  0.25000  0.69854  0.46938  1.0000
+  Bi  Bi3       1.0  0.75000  0.80146  0.96938  1.0000
+  Bi  Bi4       1.0  0.25000  0.19853  0.03062  1.0000
+  S   S1        1.0  0.25000  0.74900  0.82220  1.0000
+  S   S2        1.0  0.75000  0.05177  0.88054  1.0000
+  S   S3        1.0  0.25000  0.24900  0.67780  1.0000
+  S   S4        1.0  0.75000  0.55177  0.61946  1.0000
+  S   S5        1.0  0.25000  0.44823  0.38054  1.0000
+  S   S6        1.0  0.75000  0.25100  0.17780  1.0000
+  S   S7        1.0  0.25000  0.94823  0.11946  1.0000
+  S   S8        1.0  0.75000  0.75100  0.32220  1.0000
+  Cl  Cl1       1.0  0.25000  0.56560  0.11328  1.0000
+  Cl  Cl2       1.0  0.75000  0.93440  0.61328  1.0000
+  Cl  Cl3       1.0  0.75000  0.43440  0.88672  1.0000
+  Cl  Cl4       1.0  0.25000  0.06560  0.38672  1.0000

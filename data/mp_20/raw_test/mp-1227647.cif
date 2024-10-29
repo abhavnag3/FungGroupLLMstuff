@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       BaSrYCu3PbO7
+_chemical_formula_sum              "Ba1 Sr1 Y1 Cu3 Pb1 O7"
+_cell_length_a       3.8496
+_cell_length_b       3.86559
+_cell_length_c       14.3474
+_cell_angle_alpha    81.6353
+_cell_angle_beta     82.2901
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.68868  0.69867  0.62264  1.0000
+  Sr  Sr1       1.0  0.43145  0.43420  0.13710  1.0000
+  Y   Y1        1.0  0.55724  0.55630  0.88551  1.0000
+  Cu  Cu1       1.0  0.99731  0.99586  0.00538  1.0000
+  Cu  Cu2       1.0  0.84963  0.88382  0.30074  1.0000
+  Cu  Cu3       1.0  0.11535  0.11718  0.76930  1.0000
+  Pb  Pb1       1.0  0.28736  0.28987  0.42528  1.0000
+  O   O1        1.0  0.20861  0.22514  0.58277  1.0000
+  O   O2        1.0  0.91344  0.89091  0.17311  1.0000
+  O   O3        1.0  0.50452  0.00202  0.99096  1.0000
+  O   O4        1.0  0.00430  0.50311  0.99141  1.0000
+  O   O5        1.0  0.10804  0.60913  0.78393  1.0000
+  O   O6        1.0  0.60785  0.10936  0.78429  1.0000
+  O   O7        1.0  0.78421  0.88543  0.43157  1.0000

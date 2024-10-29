@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K2Te2H2O2F8
+_chemical_formula_sum              "K2 Te2 H2 O2 F8"
+_cell_length_a       6.93791
+_cell_length_b       5.04108
+_cell_length_c       7.90542
+_cell_angle_alpha    73.5331
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.89588  0.63049  0.70778  1.0000
+  K   K2        1.0  0.39588  0.36951  0.29222  1.0000
+  Te  Te1       1.0  0.87143  0.94128  0.18065  1.0000
+  Te  Te2       1.0  0.37143  0.05872  0.81935  1.0000
+  H   H1        1.0  0.39099  0.75270  0.62606  1.0000
+  H   H2        1.0  0.89099  0.24730  0.37394  1.0000
+  O   O1        1.0  0.34734  0.94782  0.60647  1.0000
+  O   O2        1.0  0.84734  0.05218  0.39353  1.0000
+  F   F1        1.0  0.64995  0.92965  0.82555  1.0000
+  F   F2        1.0  0.28867  0.66747  0.94279  1.0000
+  F   F3        1.0  0.45271  0.42980  0.63438  1.0000
+  F   F4        1.0  0.95271  0.57020  0.36562  1.0000
+  F   F5        1.0  0.58803  0.84230  0.22866  1.0000
+  F   F6        1.0  0.14995  0.07035  0.17445  1.0000
+  F   F7        1.0  0.08803  0.15770  0.77134  1.0000
+  F   F8        1.0  0.78867  0.33253  0.05721  1.0000

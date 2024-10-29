@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na5Zr2F13
+_chemical_formula_sum              "Na5 Zr2 F13"
+_cell_length_a       6.5183
+_cell_length_b       6.5183
+_cell_length_c       8.5729
+_cell_angle_alpha    83.4283
+_cell_angle_beta     83.4283
+_cell_angle_gamma    50.7342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.66298  0.66298  0.07081  1.0000
+  Na  Na2       1.0  0.22239  0.22239  0.34622  1.0000
+  Na  Na3       1.0  0.50000  0.50000  0.50000  1.0000
+  Na  Na4       1.0  0.77761  0.77761  0.65378  1.0000
+  Na  Na5       1.0  0.33702  0.33702  0.92919  1.0000
+  Zr  Zr1       1.0  0.07322  0.07322  0.75622  1.0000
+  Zr  Zr2       1.0  0.92678  0.92678  0.24378  1.0000
+  F   F1        1.0  0.05550  0.58086  0.14345  1.0000
+  F   F2        1.0  0.82331  0.29983  0.24889  1.0000
+  F   F3        1.0  0.58086  0.05550  0.14345  1.0000
+  F   F4        1.0  0.35902  0.90738  0.57026  1.0000
+  F   F5        1.0  0.17669  0.70017  0.75111  1.0000
+  F   F6        1.0  0.94450  0.41913  0.85655  1.0000
+  F   F7        1.0  0.41914  0.94450  0.85655  1.0000
+  F   F8        1.0  0.90738  0.35902  0.57026  1.0000
+  F   F9        1.0  0.09262  0.64098  0.42974  1.0000
+  F   F10       1.0  0.64098  0.09262  0.42974  1.0000
+  F   F11       1.0  0.29983  0.82331  0.24889  1.0000
+  F   F12       1.0  0.70017  0.17669  0.75111  1.0000
+  F   F13       1.0  0.00000  0.00000  0.00000  1.0000

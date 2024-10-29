@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na6Dy2Br12
+_chemical_formula_sum              "Na6 Dy2 Br12"
+_cell_length_a       7.73678
+_cell_length_b       7.41475
+_cell_length_c       13.1775
+_cell_angle_alpha    55.9456
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na2       1.0  0.00000  0.50000  0.50000  1.0000
+  Na  Na3       1.0  0.05956  0.72913  0.75700  1.0000
+  Na  Na4       1.0  0.94044  0.27087  0.24300  1.0000
+  Na  Na5       1.0  0.55956  0.27087  0.74300  1.0000
+  Na  Na6       1.0  0.44044  0.72913  0.25700  1.0000
+  Dy  Dy1       1.0  0.50000  0.00000  0.50000  1.0000
+  Dy  Dy2       1.0  0.00000  0.00000  0.00000  1.0000
+  Br  Br1       1.0  0.80454  0.75071  0.57689  1.0000
+  Br  Br2       1.0  0.19545  0.24929  0.42311  1.0000
+  Br  Br3       1.0  0.30455  0.24929  0.92311  1.0000
+  Br  Br4       1.0  0.69546  0.75071  0.07689  1.0000
+  Br  Br5       1.0  0.43653  0.89132  0.73969  1.0000
+  Br  Br6       1.0  0.56347  0.10868  0.26031  1.0000
+  Br  Br7       1.0  0.93653  0.10868  0.76031  1.0000
+  Br  Br8       1.0  0.06347  0.89132  0.23969  1.0000
+  Br  Br9       1.0  0.31927  0.62578  0.56158  1.0000
+  Br  Br10      1.0  0.68073  0.37422  0.43843  1.0000
+  Br  Br11      1.0  0.81927  0.37422  0.93842  1.0000
+  Br  Br12      1.0  0.18073  0.62578  0.06157  1.0000

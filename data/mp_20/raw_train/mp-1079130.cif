@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba4Zn2Bi4
+_chemical_formula_sum              "Ba4 Zn2 Bi4"
+_cell_length_a       8.93813
+_cell_length_b       8.93813
+_cell_length_c       8.93813
+_cell_angle_alpha    132.26
+_cell_angle_beta     131.022
+_cell_angle_gamma    70.8011
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.07349  0.86521  0.20828  1.0000
+  Ba  Ba2       1.0  0.92651  0.13480  0.79172  1.0000
+  Ba  Ba3       1.0  0.34308  0.63479  0.70828  1.0000
+  Ba  Ba4       1.0  0.65692  0.36521  0.29172  1.0000
+  Zn  Zn1       1.0  0.50000  0.75000  0.25000  1.0000
+  Zn  Zn2       1.0  0.50000  0.25000  0.75000  1.0000
+  Bi  Bi1       1.0  0.82313  0.61327  0.20986  1.0000
+  Bi  Bi2       1.0  0.17687  0.38673  0.79014  1.0000
+  Bi  Bi3       1.0  0.59658  0.88673  0.70986  1.0000
+  Bi  Bi4       1.0  0.40342  0.11327  0.29014  1.0000

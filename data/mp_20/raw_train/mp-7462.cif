@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Hg4Se2O8
+_chemical_formula_sum              "Hg4 Se2 O8"
+_cell_length_a       4.84605
+_cell_length_b       6.42865
+_cell_length_c       8.86581
+_cell_angle_alpha    87.7419
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.07233  0.19027  0.52179  1.0000
+  Hg  Hg2       1.0  0.07233  0.80973  0.97821  1.0000
+  Hg  Hg3       1.0  0.92767  0.80973  0.47821  1.0000
+  Hg  Hg4       1.0  0.92767  0.19027  0.02179  1.0000
+  Se  Se1       1.0  0.44299  0.50000  0.75000  1.0000
+  Se  Se2       1.0  0.55701  0.50000  0.25000  1.0000
+  O   O1        1.0  0.77127  0.50537  0.40437  1.0000
+  O   O2        1.0  0.77127  0.49463  0.09563  1.0000
+  O   O3        1.0  0.22873  0.49463  0.59563  1.0000
+  O   O4        1.0  0.22873  0.50537  0.90437  1.0000
+  O   O5        1.0  0.37944  0.72002  0.23614  1.0000
+  O   O6        1.0  0.37944  0.27998  0.26386  1.0000
+  O   O7        1.0  0.62056  0.72002  0.73615  1.0000
+  O   O8        1.0  0.62056  0.27998  0.76385  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       LiY2Ti2S2O5
+_chemical_formula_sum              "Li1 Y2 Ti2 S2 O5"
+_cell_length_a       11.503
+_cell_length_b       11.503
+_cell_length_c       11.503
+_cell_angle_alpha    160.686
+_cell_angle_beta     160.17
+_cell_angle_gamma    27.8193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50000  0.00000  0.50000  1.0000
+  Y   Y1        1.0  0.66510  0.66510  0.00000  1.0000
+  Y   Y2        1.0  0.33490  0.33490  0.00000  1.0000
+  Ti  Ti1       1.0  0.91485  0.91485  0.00000  1.0000
+  Ti  Ti2       1.0  0.08515  0.08515  0.00000  1.0000
+  S   S1        1.0  0.79528  0.79528  0.00000  1.0000
+  S   S2        1.0  0.20472  0.20472  0.00000  1.0000
+  O   O1        1.0  0.89750  0.39749  0.50000  1.0000
+  O   O2        1.0  0.10251  0.60250  0.50000  1.0000
+  O   O3        1.0  0.40667  0.90667  0.50000  1.0000
+  O   O4        1.0  0.59333  0.09333  0.50000  1.0000
+  O   O5        1.0  0.00000  0.00000  0.00000  1.0000

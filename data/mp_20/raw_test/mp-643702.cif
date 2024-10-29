@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs6Zn2H10
+_chemical_formula_sum              "Cs6 Zn2 H10"
+_cell_length_a       8.53079
+_cell_length_b       8.53079
+_cell_length_c       8.53079
+_cell_angle_alpha    121.349
+_cell_angle_beta     121.349
+_cell_angle_gamma    87.6787
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.18043  0.68043  0.86086  1.0000
+  Cs  Cs2       1.0  0.81957  0.31957  0.13914  1.0000
+  Cs  Cs3       1.0  0.68043  0.81957  0.50000  1.0000
+  Cs  Cs4       1.0  0.31957  0.18043  0.50000  1.0000
+  Cs  Cs5       1.0  0.25000  0.25000  0.00000  1.0000
+  Cs  Cs6       1.0  0.75000  0.75000  0.00000  1.0000
+  Zn  Zn1       1.0  0.25000  0.75000  0.50000  1.0000
+  Zn  Zn2       1.0  0.75000  0.25000  0.50000  1.0000
+  H   H1        1.0  0.44511  0.94511  0.72952  1.0000
+  H   H2        1.0  0.21559  0.71559  0.27048  1.0000
+  H   H3        1.0  0.94511  0.21559  0.50000  1.0000
+  H   H4        1.0  0.71559  0.44511  0.50000  1.0000
+  H   H5        1.0  0.55489  0.05489  0.27048  1.0000
+  H   H6        1.0  0.78441  0.28441  0.72952  1.0000
+  H   H7        1.0  0.05489  0.78441  0.50000  1.0000
+  H   H8        1.0  0.28441  0.55489  0.50000  1.0000
+  H   H9        1.0  0.50000  0.50000  0.00000  1.0000
+  H   H10       1.0  0.00000  0.00000  0.00000  1.0000

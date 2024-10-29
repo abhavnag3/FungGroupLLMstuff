@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb4Al4Cr4
+_chemical_formula_sum              "Nb4 Al4 Cr4"
+_cell_length_a       4.97154
+_cell_length_b       4.97194
+_cell_length_c       8.35537
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    60.3291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.33614  0.33613  0.55858  1.0000
+  Nb  Nb2       1.0  0.66833  0.66834  0.43127  1.0000
+  Nb  Nb3       1.0  0.66833  0.66834  0.06873  1.0000
+  Nb  Nb4       1.0  0.33614  0.33613  0.94142  1.0000
+  Al  Al1       1.0  0.99526  0.99534  0.49453  1.0000
+  Al  Al2       1.0  0.99526  0.99534  0.00547  1.0000
+  Al  Al3       1.0  0.83285  0.34256  0.75000  1.0000
+  Al  Al4       1.0  0.34252  0.83284  0.75000  1.0000
+  Cr  Cr1       1.0  0.83361  0.83367  0.75000  1.0000
+  Cr  Cr2       1.0  0.17077  0.64876  0.25000  1.0000
+  Cr  Cr3       1.0  0.64889  0.17072  0.25000  1.0000
+  Cr  Cr4       1.0  0.17191  0.17184  0.25000  1.0000

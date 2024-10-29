@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr4Si2S8
+_chemical_formula_sum              "Sr4 Si2 S8"
+_cell_length_a       6.68748
+_cell_length_b       6.68048
+_cell_length_c       8.28512
+_cell_angle_alpha    71.9296
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000  0.72182  0.94919  1.0000
+  Sr  Sr2       1.0  0.75000  0.27818  0.05081  1.0000
+  Sr  Sr3       1.0  0.25000  0.76732  0.43175  1.0000
+  Sr  Sr4       1.0  0.75000  0.23268  0.56825  1.0000
+  Si  Si1       1.0  0.25000  0.27726  0.79924  1.0000
+  Si  Si2       1.0  0.75000  0.72274  0.20076  1.0000
+  S   S1        1.0  0.25000  0.10952  0.06405  1.0000
+  S   S2        1.0  0.75000  0.89048  0.93595  1.0000
+  S   S3        1.0  0.25000  0.08643  0.63354  1.0000
+  S   S4        1.0  0.75000  0.91357  0.36646  1.0000
+  S   S5        1.0  0.49775  0.48770  0.74016  1.0000
+  S   S6        1.0  0.99775  0.51230  0.25984  1.0000
+  S   S7        1.0  0.50225  0.51230  0.25984  1.0000
+  S   S8        1.0  0.00225  0.48770  0.74016  1.0000

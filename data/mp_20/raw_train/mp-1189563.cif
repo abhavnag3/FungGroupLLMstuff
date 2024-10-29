@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4Co4O8
+_chemical_formula_sum              "Cs4 Co4 O8"
+_cell_length_a       6.11922
+_cell_length_b       7.06249
+_cell_length_c       8.30818
+_cell_angle_alpha    89.1344
+_cell_angle_beta     88.0015
+_cell_angle_gamma    64.3279
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.66609  0.17471  0.43033  1.0000
+  Cs  Cs2       1.0  0.15920  0.17471  0.06967  1.0000
+  Cs  Cs3       1.0  0.33391  0.82529  0.56967  1.0000
+  Cs  Cs4       1.0  0.84080  0.82529  0.93033  1.0000
+  Co  Co1       1.0  0.95502  0.59189  0.35636  1.0000
+  Co  Co2       1.0  0.45309  0.59189  0.14364  1.0000
+  Co  Co3       1.0  0.04498  0.40811  0.64364  1.0000
+  Co  Co4       1.0  0.54691  0.40811  0.85636  1.0000
+  O   O1        1.0  0.59764  0.30711  0.07410  1.0000
+  O   O2        1.0  0.09525  0.30711  0.42590  1.0000
+  O   O3        1.0  0.40236  0.69289  0.92590  1.0000
+  O   O4        1.0  0.90475  0.69289  0.57410  1.0000
+  O   O5        1.0  0.15292  0.69415  0.25000  1.0000
+  O   O6        1.0  0.84708  0.30585  0.75000  1.0000
+  O   O7        1.0  0.67086  0.65828  0.25000  1.0000
+  O   O8        1.0  0.32914  0.34171  0.75000  1.0000

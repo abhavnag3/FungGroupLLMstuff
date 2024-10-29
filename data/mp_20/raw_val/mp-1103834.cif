@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       LiMo6S8
+_chemical_formula_sum              "Li1 Mo6 S8"
+_cell_length_a       6.52045
+_cell_length_b       6.52045
+_cell_length_c       6.52045
+_cell_angle_alpha    92.0207
+_cell_angle_beta     92.0207
+_cell_angle_gamma    92.0207
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.78353  0.59224  0.44930  1.0000
+  Mo  Mo2       1.0  0.44930  0.78353  0.59224  1.0000
+  Mo  Mo3       1.0  0.59224  0.44930  0.78353  1.0000
+  Mo  Mo4       1.0  0.21647  0.40776  0.55070  1.0000
+  Mo  Mo5       1.0  0.55070  0.21647  0.40776  1.0000
+  Mo  Mo6       1.0  0.40776  0.55070  0.21647  1.0000
+  S   S1        1.0  0.77905  0.77905  0.77905  1.0000
+  S   S2        1.0  0.22095  0.22095  0.22095  1.0000
+  S   S3        1.0  0.26960  0.61650  0.86728  1.0000
+  S   S4        1.0  0.86728  0.26960  0.61650  1.0000
+  S   S5        1.0  0.61650  0.86728  0.26960  1.0000
+  S   S6        1.0  0.73040  0.38350  0.13272  1.0000
+  S   S7        1.0  0.13272  0.73040  0.38350  1.0000
+  S   S8        1.0  0.38350  0.13272  0.73040  1.0000

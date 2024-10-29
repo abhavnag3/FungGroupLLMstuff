@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mo2F10
+_chemical_formula_sum              "Mo2 F10"
+_cell_length_a       5.53946
+_cell_length_b       5.53946
+_cell_length_c       7.99114
+_cell_angle_alpha    69.2662
+_cell_angle_beta     69.2662
+_cell_angle_gamma    70.1245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.00000  0.00000  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.07339  0.92661  0.75000  1.0000
+  F   F2        1.0  0.92661  0.07339  0.25000  1.0000
+  F   F3        1.0  0.20282  0.26186  0.88225  1.0000
+  F   F4        1.0  0.73814  0.79718  0.61775  1.0000
+  F   F5        1.0  0.71332  0.29514  0.55377  1.0000
+  F   F6        1.0  0.70486  0.28668  0.94623  1.0000
+  F   F7        1.0  0.28668  0.70486  0.44623  1.0000
+  F   F8        1.0  0.29514  0.71332  0.05377  1.0000
+  F   F9        1.0  0.26186  0.20282  0.38225  1.0000
+  F   F10       1.0  0.79718  0.73814  0.11775  1.0000

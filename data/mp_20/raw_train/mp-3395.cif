@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr2Se2O6
+_chemical_formula_sum              "Sr2 Se2 O6"
+_cell_length_a       5.59509
+_cell_length_b       4.49308
+_cell_length_c       6.74076
+_cell_angle_alpha    71.8532
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75000  0.65404  0.69557  1.0000
+  Sr  Sr2       1.0  0.25000  0.34596  0.30443  1.0000
+  Se  Se1       1.0  0.75000  0.93545  0.15789  1.0000
+  Se  Se2       1.0  0.25000  0.06455  0.84211  1.0000
+  O   O1        1.0  0.01118  0.17324  0.67035  1.0000
+  O   O2        1.0  0.51118  0.82676  0.32965  1.0000
+  O   O3        1.0  0.98882  0.82676  0.32965  1.0000
+  O   O4        1.0  0.48882  0.17324  0.67035  1.0000
+  O   O5        1.0  0.25000  0.66321  0.89895  1.0000
+  O   O6        1.0  0.75000  0.33679  0.10105  1.0000

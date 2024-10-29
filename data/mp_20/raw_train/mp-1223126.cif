@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       La3Si7Ni3
+_chemical_formula_sum              "La3 Si7 Ni3"
+_cell_length_a       13.201
+_cell_length_b       13.201
+_cell_length_c       4.22178
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    161.944
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00089  0.99911  0.00000  1.0000
+  La  La2       1.0  0.68587  0.31413  0.50000  1.0000
+  La  La3       1.0  0.31789  0.68211  0.50000  1.0000
+  Si  Si1       1.0  0.59402  0.40598  0.00000  1.0000
+  Si  Si2       1.0  0.40863  0.59137  0.00000  1.0000
+  Si  Si3       1.0  0.77646  0.22354  0.00000  1.0000
+  Si  Si4       1.0  0.22429  0.77571  0.00000  1.0000
+  Si  Si5       1.0  0.90859  0.09141  0.50000  1.0000
+  Si  Si6       1.0  0.09473  0.90527  0.50000  1.0000
+  Si  Si7       1.0  0.53851  0.46149  0.50000  1.0000
+  Ni  Ni1       1.0  0.86636  0.13364  0.00000  1.0000
+  Ni  Ni2       1.0  0.13264  0.86737  0.00000  1.0000
+  Ni  Ni3       1.0  0.45115  0.54885  0.50000  1.0000

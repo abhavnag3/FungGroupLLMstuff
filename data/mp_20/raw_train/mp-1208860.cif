@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       SmAl3B4O12
+_chemical_formula_sum              "Sm1 Al3 B4 O12"
+_cell_length_a       5.95222
+_cell_length_b       5.95222
+_cell_length_c       5.95222
+_cell_angle_alpha    104.15
+_cell_angle_beta     104.15
+_cell_angle_gamma    104.15
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.50000  0.50000  0.50000  1.0000
+  Al  Al1       1.0  0.05568  0.94432  0.50000  1.0000
+  Al  Al2       1.0  0.94432  0.50000  0.05568  1.0000
+  Al  Al3       1.0  0.50000  0.05568  0.94432  1.0000
+  B   B1        1.0  0.44253  0.55747  0.00000  1.0000
+  B   B2        1.0  0.55747  0.00000  0.44253  1.0000
+  B   B3        1.0  0.00000  0.44253  0.55747  1.0000
+  B   B4        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.27596  0.52684  0.12357  1.0000
+  O   O2        1.0  0.52684  0.12357  0.27596  1.0000
+  O   O3        1.0  0.72404  0.87643  0.47316  1.0000
+  O   O4        1.0  0.12357  0.27596  0.52684  1.0000
+  O   O5        1.0  0.47316  0.72404  0.87643  1.0000
+  O   O6        1.0  0.87643  0.47316  0.72404  1.0000
+  O   O7        1.0  0.85134  0.14866  0.00000  1.0000
+  O   O8        1.0  0.14866  0.00000  0.85134  1.0000
+  O   O9        1.0  0.00000  0.85134  0.14866  1.0000
+  O   O10       1.0  0.59101  0.40899  0.00000  1.0000
+  O   O11       1.0  0.40899  0.00000  0.59101  1.0000
+  O   O12       1.0  0.00000  0.59101  0.40899  1.0000

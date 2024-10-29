@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       U4Co6Ge2
+_chemical_formula_sum              "U4 Co6 Ge2"
+_cell_length_a       5.18037
+_cell_length_b       5.18496
+_cell_length_c       7.59334
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.66595  0.33189  0.57212  1.0000
+  U   U2        1.0  0.33405  0.66811  0.42788  1.0000
+  U   U3        1.0  0.33405  0.66811  0.07212  1.0000
+  U   U4        1.0  0.66595  0.33189  0.92788  1.0000
+  Co  Co1       1.0  0.17075  0.34150  0.75000  1.0000
+  Co  Co2       1.0  0.65871  0.82962  0.75000  1.0000
+  Co  Co3       1.0  0.17091  0.82962  0.75000  1.0000
+  Co  Co4       1.0  0.82925  0.65850  0.25000  1.0000
+  Co  Co5       1.0  0.34129  0.17038  0.25000  1.0000
+  Co  Co6       1.0  0.82909  0.17038  0.25000  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge2       1.0  0.00000  0.00000  0.50000  1.0000

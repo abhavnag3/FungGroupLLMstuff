@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sr2In3Rh2
+_chemical_formula_sum              "Sr2 In3 Rh2"
+_cell_length_a       5.98336
+_cell_length_b       5.98336
+_cell_length_c       8.01495
+_cell_angle_alpha    66.5606
+_cell_angle_beta     66.5606
+_cell_angle_gamma    42.4241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.14382  0.14382  0.22364  1.0000
+  Sr  Sr2       1.0  0.85618  0.85618  0.77636  1.0000
+  In  In1       1.0  0.50000  0.50000  0.00000  1.0000
+  In  In2       1.0  0.35860  0.35860  0.44353  1.0000
+  In  In3       1.0  0.64140  0.64140  0.55647  1.0000
+  Rh  Rh1       1.0  0.12819  0.12819  0.79339  1.0000
+  Rh  Rh2       1.0  0.87181  0.87181  0.20661  1.0000

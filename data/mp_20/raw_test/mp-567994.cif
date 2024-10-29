@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Er10Ni4Te4
+_chemical_formula_sum              "Er10 Ni4 Te4"
+_cell_length_a       7.70141
+_cell_length_b       7.70141
+_cell_length_c       14.857
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.19
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.04050  0.95950  0.87440  1.0000
+  Er  Er2       1.0  0.95950  0.04050  0.12560  1.0000
+  Er  Er3       1.0  0.74001  0.25999  0.62923  1.0000
+  Er  Er4       1.0  0.95950  0.04050  0.37440  1.0000
+  Er  Er5       1.0  0.39346  0.60654  0.75000  1.0000
+  Er  Er6       1.0  0.25999  0.74001  0.37077  1.0000
+  Er  Er7       1.0  0.25999  0.74001  0.12923  1.0000
+  Er  Er8       1.0  0.74001  0.25999  0.87077  1.0000
+  Er  Er9       1.0  0.60654  0.39346  0.25000  1.0000
+  Er  Er10      1.0  0.04050  0.95950  0.62560  1.0000
+  Ni  Ni1       1.0  0.41365  0.58635  0.25000  1.0000
+  Ni  Ni2       1.0  0.18676  0.81324  0.75000  1.0000
+  Ni  Ni3       1.0  0.58635  0.41365  0.75000  1.0000
+  Ni  Ni4       1.0  0.81324  0.18676  0.25000  1.0000
+  Te  Te1       1.0  0.38439  0.61560  0.53981  1.0000
+  Te  Te2       1.0  0.61560  0.38439  0.46019  1.0000
+  Te  Te3       1.0  0.38439  0.61560  0.96019  1.0000
+  Te  Te4       1.0  0.61560  0.38439  0.03981  1.0000

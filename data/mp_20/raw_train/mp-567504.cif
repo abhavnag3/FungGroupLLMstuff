@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cr2Cl6
+_chemical_formula_sum              "Cr2 Cl6"
+_cell_length_a       7.59849
+_cell_length_b       7.59849
+_cell_length_c       7.59849
+_cell_angle_alpha    46.8855
+_cell_angle_beta     46.8855
+_cell_angle_gamma    46.8855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.66668  0.66668  0.66668  1.0000
+  Cr  Cr2       1.0  0.33332  0.33332  0.33332  1.0000
+  Cl  Cl1       1.0  0.93424  0.57735  0.29108  1.0000
+  Cl  Cl2       1.0  0.42265  0.70892  0.06576  1.0000
+  Cl  Cl3       1.0  0.57735  0.29108  0.93424  1.0000
+  Cl  Cl4       1.0  0.70892  0.06576  0.42265  1.0000
+  Cl  Cl5       1.0  0.06576  0.42265  0.70892  1.0000
+  Cl  Cl6       1.0  0.29108  0.93424  0.57735  1.0000

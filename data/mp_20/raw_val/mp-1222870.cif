@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       LaMo6Se4S4
+_chemical_formula_sum              "La1 Mo6 Se4 S4"
+_cell_length_a       6.69927
+_cell_length_b       6.70537
+_cell_length_c       6.76904
+_cell_angle_alpha    90.2443
+_cell_angle_beta     90.7813
+_cell_angle_gamma    90.1047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.99629  0.00904  0.99850  1.0000
+  Mo  Mo1       1.0  0.23304  0.55520  0.57715  1.0000
+  Mo  Mo2       1.0  0.56034  0.41714  0.76333  1.0000
+  Mo  Mo3       1.0  0.41932  0.23076  0.44165  1.0000
+  Mo  Mo4       1.0  0.77086  0.43911  0.42072  1.0000
+  Mo  Mo5       1.0  0.44083  0.57710  0.23512  1.0000
+  Mo  Mo6       1.0  0.58368  0.76938  0.55575  1.0000
+  Se  Se1       1.0  0.37842  0.75429  0.87585  1.0000
+  Se  Se2       1.0  0.24124  0.87699  0.37390  1.0000
+  Se  Se3       1.0  0.88187  0.62522  0.75636  1.0000
+  Se  Se4       1.0  0.62281  0.24232  0.12132  1.0000
+  S   S1        1.0  0.24435  0.24270  0.75160  1.0000
+  S   S2        1.0  0.75728  0.75318  0.24653  1.0000
+  S   S3        1.0  0.73925  0.13091  0.61997  1.0000
+  S   S4        1.0  0.13043  0.37665  0.26226  1.0000

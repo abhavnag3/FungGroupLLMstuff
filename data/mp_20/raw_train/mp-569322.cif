@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Te8Ir4
+_chemical_formula_sum              "Te8 Ir4"
+_cell_length_a       4.04981
+_cell_length_b       5.44186
+_cell_length_c       13.5875
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.25000  0.76807  0.94933  1.0000
+  Te  Te2       1.0  0.25000  0.73193  0.44933  1.0000
+  Te  Te3       1.0  0.25000  0.30023  0.80778  1.0000
+  Te  Te4       1.0  0.75000  0.26807  0.55067  1.0000
+  Te  Te5       1.0  0.75000  0.23193  0.05067  1.0000
+  Te  Te6       1.0  0.75000  0.69977  0.19222  1.0000
+  Te  Te7       1.0  0.25000  0.19977  0.30778  1.0000
+  Te  Te8       1.0  0.75000  0.80023  0.69222  1.0000
+  Ir  Ir1       1.0  0.75000  0.47973  0.36564  1.0000
+  Ir  Ir2       1.0  0.75000  0.02027  0.86564  1.0000
+  Ir  Ir3       1.0  0.25000  0.97973  0.13436  1.0000
+  Ir  Ir4       1.0  0.25000  0.52027  0.63436  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cr2In4S8
+_chemical_formula_sum              "Cr2 In4 S8"
+_cell_length_a       7.60074
+_cell_length_b       7.60074
+_cell_length_c       7.60074
+_cell_angle_alpha    120.902
+_cell_angle_beta     118.625
+_cell_angle_gamma    90.4214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cr  Cr2       1.0  0.00000  0.50000  0.00000  1.0000
+  In  In1       1.0  0.61601  0.86601  0.75000  1.0000
+  In  In2       1.0  0.38399  0.13400  0.25000  1.0000
+  In  In3       1.0  0.50000  0.50000  0.00000  1.0000
+  In  In4       1.0  0.00000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.22840  0.24036  0.51197  1.0000
+  S   S2        1.0  0.22840  0.71643  0.98803  1.0000
+  S   S3        1.0  0.21301  0.25444  0.95858  1.0000
+  S   S4        1.0  0.79586  0.25444  0.54142  1.0000
+  S   S5        1.0  0.20414  0.74556  0.45858  1.0000
+  S   S6        1.0  0.78699  0.74556  0.04142  1.0000
+  S   S7        1.0  0.77160  0.28357  0.01197  1.0000
+  S   S8        1.0  0.77160  0.75963  0.48803  1.0000

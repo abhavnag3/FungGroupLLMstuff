@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb2Ta2O8
+_chemical_formula_sum              "Yb2 Ta2 O8"
+_cell_length_a       6.53751
+_cell_length_b       6.53751
+_cell_length_c       5.10379
+_cell_angle_alpha    68.9822
+_cell_angle_beta     68.9822
+_cell_angle_gamma    113.246
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.86993  0.13007  0.25000  1.0000
+  Yb  Yb2       1.0  0.13007  0.86993  0.75000  1.0000
+  Ta  Ta1       1.0  0.39730  0.60270  0.25000  1.0000
+  Ta  Ta2       1.0  0.60270  0.39730  0.75000  1.0000
+  O   O1        1.0  0.76235  0.70578  0.29682  1.0000
+  O   O2        1.0  0.44962  0.87584  0.32575  1.0000
+  O   O3        1.0  0.23765  0.29422  0.70318  1.0000
+  O   O4        1.0  0.12416  0.55038  0.17425  1.0000
+  O   O5        1.0  0.87584  0.44962  0.82575  1.0000
+  O   O6        1.0  0.70578  0.76235  0.79682  1.0000
+  O   O7        1.0  0.55038  0.12416  0.67425  1.0000
+  O   O8        1.0  0.29422  0.23765  0.20318  1.0000

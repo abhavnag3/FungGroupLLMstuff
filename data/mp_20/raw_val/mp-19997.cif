@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Eu2In4Ni2
+_chemical_formula_sum              "Eu2 In4 Ni2"
+_cell_length_a       5.80129
+_cell_length_b       5.80129
+_cell_length_c       7.79388
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    135.411
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.05738  0.94262  0.25000  1.0000
+  Eu  Eu2       1.0  0.94262  0.05738  0.75000  1.0000
+  In  In1       1.0  0.65376  0.34624  0.94694  1.0000
+  In  In2       1.0  0.34624  0.65376  0.05306  1.0000
+  In  In3       1.0  0.34624  0.65376  0.44694  1.0000
+  In  In4       1.0  0.65376  0.34624  0.55306  1.0000
+  Ni  Ni1       1.0  0.77880  0.22120  0.25000  1.0000
+  Ni  Ni2       1.0  0.22120  0.77880  0.75000  1.0000

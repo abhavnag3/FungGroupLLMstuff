@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TeMo2S3
+_chemical_formula_sum              "Te1 Mo2 S3"
+_cell_length_a       3.27794
+_cell_length_b       3.2779
+_cell_length_c       13.679
+_cell_angle_alpha    90
+_cell_angle_beta     90.0004
+_cell_angle_gamma    60.0003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.33334  0.33333  0.11904  1.0000
+  Mo  Mo1       1.0  0.33332  0.33334  0.74884  1.0000
+  Mo  Mo2       1.0  0.66668  0.66666  0.26206  1.0000
+  S   S1        1.0  0.66666  0.66667  0.86128  1.0000
+  S   S2        1.0  0.66665  0.66667  0.63625  1.0000
+  S   S3        1.0  0.33335  0.33333  0.37252  1.0000

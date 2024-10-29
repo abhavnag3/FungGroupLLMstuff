@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho4Zn4Rh4
+_chemical_formula_sum              "Ho4 Zn4 Rh4"
+_cell_length_a       4.03625
+_cell_length_b       6.91874
+_cell_length_c       8.12414
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.53924  0.18352  1.0000
+  Ho  Ho2       1.0  0.75000  0.46076  0.81649  1.0000
+  Ho  Ho3       1.0  0.25000  0.03924  0.31649  1.0000
+  Ho  Ho4       1.0  0.75000  0.96076  0.68351  1.0000
+  Zn  Zn1       1.0  0.25000  0.13664  0.93658  1.0000
+  Zn  Zn2       1.0  0.75000  0.86336  0.06342  1.0000
+  Zn  Zn3       1.0  0.25000  0.63664  0.56342  1.0000
+  Zn  Zn4       1.0  0.75000  0.36336  0.43658  1.0000
+  Rh  Rh1       1.0  0.75000  0.74577  0.37606  1.0000
+  Rh  Rh2       1.0  0.25000  0.25423  0.62394  1.0000
+  Rh  Rh3       1.0  0.75000  0.24577  0.12394  1.0000
+  Rh  Rh4       1.0  0.25000  0.75423  0.87606  1.0000

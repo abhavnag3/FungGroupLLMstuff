@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2Co2O8
+_chemical_formula_sum              "Mn2 Co2 O8"
+_cell_length_a       9.9147
+_cell_length_b       2.89859
+_cell_length_c       4.97795
+_cell_angle_alpha    89.9539
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.99996  0.62499  0.12502  1.0000
+  Mn  Mn2       1.0  0.49996  0.37501  0.87498  1.0000
+  Co  Co1       1.0  0.50003  0.87502  0.37507  1.0000
+  Co  Co2       1.0  0.00003  0.12498  0.62493  1.0000
+  O   O1        1.0  0.09510  0.62514  0.46445  1.0000
+  O   O2        1.0  0.90380  0.12487  0.29688  1.0000
+  O   O3        1.0  0.40482  0.37519  0.21453  1.0000
+  O   O4        1.0  0.59510  0.37485  0.53555  1.0000
+  O   O5        1.0  0.40380  0.87513  0.70312  1.0000
+  O   O6        1.0  0.09630  0.12512  0.95324  1.0000
+  O   O7        1.0  0.90482  0.62481  0.78547  1.0000
+  O   O8        1.0  0.59630  0.87488  0.04676  1.0000

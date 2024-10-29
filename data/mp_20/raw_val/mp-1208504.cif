@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb3Fe2Si7
+_chemical_formula_sum              "Tb3 Fe2 Si7"
+_cell_length_a       12.4495
+_cell_length_b       12.4495
+_cell_length_c       4.09523
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    161.322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.09738  0.90262  0.50000  1.0000
+  Tb  Tb2       1.0  0.46662  0.53338  0.50000  1.0000
+  Tb  Tb3       1.0  0.78186  0.21814  0.00000  1.0000
+  Fe  Fe1       1.0  0.65516  0.34484  0.00000  1.0000
+  Fe  Fe2       1.0  0.90986  0.09014  0.00000  1.0000
+  Si  Si1       1.0  0.37141  0.62859  0.00000  1.0000
+  Si  Si2       1.0  0.56254  0.43746  0.00000  1.0000
+  Si  Si3       1.0  0.87186  0.12814  0.50000  1.0000
+  Si  Si4       1.0  0.00259  0.99741  0.00000  1.0000
+  Si  Si5       1.0  0.19327  0.80673  0.00000  1.0000
+  Si  Si6       1.0  0.29110  0.70890  0.50000  1.0000
+  Si  Si7       1.0  0.69305  0.30695  0.50000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Co4Pt4O8
+_chemical_formula_sum              "Co4 Pt4 O8"
+_cell_length_a       5.01639
+_cell_length_b       5.927
+_cell_length_c       7.036
+_cell_angle_alpha    114.911
+_cell_angle_beta     104.287
+_cell_angle_gamma    90.0036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.50006  0.24498  0.50010  1.0000
+  Co  Co2       1.0  0.00037  0.50406  0.49970  1.0000
+  Co  Co3       1.0  0.49986  0.74631  0.50020  1.0000
+  Co  Co4       1.0  0.99977  0.00571  0.50000  1.0000
+  Pt  Pt1       1.0  0.00266  0.99898  0.99982  1.0000
+  Pt  Pt2       1.0  0.50207  0.25034  0.99969  1.0000
+  Pt  Pt3       1.0  0.99693  0.49905  0.99993  1.0000
+  Pt  Pt4       1.0  0.49836  0.75060  0.00028  1.0000
+  O   O1        1.0  0.88792  0.34496  0.67626  1.0000
+  O   O2        1.0  0.38732  0.58564  0.67786  1.0000
+  O   O3        1.0  0.89099  0.83836  0.67633  1.0000
+  O   O4        1.0  0.38904  0.08552  0.67814  1.0000
+  O   O5        1.0  0.11187  0.16825  0.32365  1.0000
+  O   O6        1.0  0.61310  0.40761  0.32214  1.0000
+  O   O7        1.0  0.10890  0.66218  0.32362  1.0000
+  O   O8        1.0  0.61078  0.90745  0.32228  1.0000

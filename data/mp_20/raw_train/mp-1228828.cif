@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       As2H2Pb2O8
+_chemical_formula_sum              "As2 H2 Pb2 O8"
+_cell_length_a       6.8801
+_cell_length_b       4.98869
+_cell_length_c       5.95498
+_cell_angle_alpha    84.5211
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.79424  0.50655  0.25752  1.0000
+  As  As2       1.0  0.20576  0.50655  0.75752  1.0000
+  H   H1        1.0  0.52474  0.48095  0.01151  1.0000
+  H   H2        1.0  0.47526  0.48095  0.51151  1.0000
+  Pb  Pb1       1.0  0.19836  0.99680  0.24461  1.0000
+  Pb  Pb2       1.0  0.80164  0.99680  0.74461  1.0000
+  O   O1        1.0  0.93078  0.24766  0.38766  1.0000
+  O   O2        1.0  0.93235  0.75005  0.10624  1.0000
+  O   O3        1.0  0.06765  0.75005  0.60624  1.0000
+  O   O4        1.0  0.06922  0.24766  0.88766  1.0000
+  O   O5        1.0  0.64857  0.36089  0.05688  1.0000
+  O   O6        1.0  0.64528  0.64110  0.44757  1.0000
+  O   O7        1.0  0.35472  0.64110  0.94757  1.0000
+  O   O8        1.0  0.35143  0.36089  0.55688  1.0000

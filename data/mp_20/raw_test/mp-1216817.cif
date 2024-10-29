@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       U2Si2Au2
+_chemical_formula_sum              "U2 Si2 Au2"
+_cell_length_a       4.30694
+_cell_length_b       5.61967
+_cell_length_c       5.79717
+_cell_angle_alpha    105.39
+_cell_angle_beta     111.806
+_cell_angle_gamma    67.4679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.55652  0.69176  0.80480  1.0000
+  U   U2        1.0  0.44348  0.30824  0.19520  1.0000
+  Si  Si1       1.0  0.85099  0.11709  0.81907  1.0000
+  Si  Si2       1.0  0.14901  0.88291  0.18093  1.0000
+  Au  Au1       1.0  0.17154  0.25570  0.59879  1.0000
+  Au  Au2       1.0  0.82846  0.74430  0.40121  1.0000

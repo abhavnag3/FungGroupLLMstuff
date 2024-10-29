@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2Ca2Tb2Bi2O12
+_chemical_formula_sum              "Sr2 Ca2 Tb2 Bi2 O12"
+_cell_length_a       5.87088
+_cell_length_b       6.03887
+_cell_length_c       8.41719
+_cell_angle_alpha    89.9768
+_cell_angle_beta     89.8315
+_cell_angle_gamma    89.8658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.51138  0.55058  0.24999  1.0000
+  Sr  Sr2       1.0  0.48862  0.44942  0.75001  1.0000
+  Ca  Ca1       1.0  0.98616  0.04884  0.24850  1.0000
+  Ca  Ca2       1.0  0.01384  0.95116  0.75150  1.0000
+  Tb  Tb1       1.0  0.50000  0.00000  0.00000  1.0000
+  Tb  Tb2       1.0  0.00000  0.50000  0.50000  1.0000
+  Bi  Bi1       1.0  0.00000  0.50000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.18543  0.20385  0.93696  1.0000
+  O   O2        1.0  0.30978  0.70751  0.55433  1.0000
+  O   O3        1.0  0.81457  0.79615  0.06304  1.0000
+  O   O4        1.0  0.69022  0.29249  0.44567  1.0000
+  O   O5        1.0  0.29487  0.69601  0.94950  1.0000
+  O   O6        1.0  0.20380  0.19153  0.56385  1.0000
+  O   O7        1.0  0.70513  0.30399  0.05050  1.0000
+  O   O8        1.0  0.79620  0.80847  0.43615  1.0000
+  O   O9        1.0  0.38006  0.96630  0.25857  1.0000
+  O   O10       1.0  0.09800  0.44125  0.24206  1.0000
+  O   O11       1.0  0.61994  0.03370  0.74143  1.0000
+  O   O12       1.0  0.90200  0.55875  0.75794  1.0000

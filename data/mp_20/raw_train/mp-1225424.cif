@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Dy4CrS7
+_chemical_formula_sum              "Dy4 Cr1 S7"
+_cell_length_a       3.8108
+_cell_length_b       6.52366
+_cell_length_c       11.3407
+_cell_angle_alpha    104.894
+_cell_angle_beta     90
+_cell_angle_gamma    73.0178
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.69344  0.61312  0.20937  1.0000
+  Dy  Dy2       1.0  0.30598  0.38804  0.80129  1.0000
+  Dy  Dy3       1.0  0.99900  0.00200  0.00762  1.0000
+  Dy  Dy4       1.0  0.11194  0.77611  0.56261  1.0000
+  Cr  Cr1       1.0  0.88483  0.23034  0.42469  1.0000
+  S   S1        1.0  0.03071  0.93858  0.23250  1.0000
+  S   S2        1.0  0.96315  0.07369  0.78431  1.0000
+  S   S3        1.0  0.74728  0.50543  0.63264  1.0000
+  S   S4        1.0  0.27438  0.45125  0.35306  1.0000
+  S   S5        1.0  0.33640  0.32720  0.05328  1.0000
+  S   S6        1.0  0.66014  0.67972  0.94824  1.0000
+  S   S7        1.0  0.49275  0.01450  0.49037  1.0000

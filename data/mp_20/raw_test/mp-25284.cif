@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2Mn4Ni2O12
+_chemical_formula_sum              "Li2 Mn4 Ni2 O12"
+_cell_length_a       5.049
+_cell_length_b       5.04907
+_cell_length_c       10.4236
+_cell_angle_alpha    86.3328
+_cell_angle_beta     93.6622
+_cell_angle_gamma    120.761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.34338  0.84340  0.24991  1.0000
+  Li  Li2       1.0  0.65662  0.15660  0.75009  1.0000
+  Mn  Mn1       1.0  0.16946  0.83536  0.50507  1.0000
+  Mn  Mn2       1.0  0.33536  0.66946  0.99492  1.0000
+  Mn  Mn3       1.0  0.66464  0.33054  0.00508  1.0000
+  Mn  Mn4       1.0  0.83054  0.16465  0.49493  1.0000
+  Ni  Ni1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ni  Ni2       1.0  1.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.51589  0.85871  0.60236  1.0000
+  O   O2        1.0  0.64120  0.98409  0.10241  1.0000
+  O   O3        1.0  0.35880  0.01591  0.89759  1.0000
+  O   O4        1.0  0.83481  0.47974  0.59476  1.0000
+  O   O5        1.0  0.48411  0.14128  0.39764  1.0000
+  O   O6        1.0  0.82464  0.83663  0.40756  1.0000
+  O   O7        1.0  0.02021  0.66506  0.09482  1.0000
+  O   O8        1.0  0.97979  0.33494  0.90518  1.0000
+  O   O9        1.0  0.66336  0.67534  0.90751  1.0000
+  O   O10       1.0  0.17536  0.16337  0.59244  1.0000
+  O   O11       1.0  0.33664  0.32466  0.09249  1.0000
+  O   O12       1.0  0.16519  0.52026  0.40524  1.0000

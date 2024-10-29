@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ba3Ce2O6
+_chemical_formula_sum              "Ba3 Ce2 O6"
+_cell_length_a       11.4557
+_cell_length_b       11.4557
+_cell_length_c       11.4557
+_cell_angle_alpha    157.205
+_cell_angle_beta     157.205
+_cell_angle_gamma    32.4576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.68422  0.68422  0.00000  1.0000
+  Ba  Ba2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ba  Ba3       1.0  0.31578  0.31578  0.00000  1.0000
+  Ce  Ce1       1.0  0.90047  0.90047  0.00000  1.0000
+  Ce  Ce2       1.0  0.09953  0.09953  0.00000  1.0000
+  O   O1        1.0  0.08683  0.58683  0.50000  1.0000
+  O   O2        1.0  0.41317  0.91317  0.50000  1.0000
+  O   O3        1.0  0.79946  0.79946  0.00000  1.0000
+  O   O4        1.0  0.20054  0.20054  0.00000  1.0000
+  O   O5        1.0  0.58683  0.08683  0.50000  1.0000
+  O   O6        1.0  0.91317  0.41317  0.50000  1.0000

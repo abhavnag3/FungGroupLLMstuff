@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tl2Cr6Se10
+_chemical_formula_sum              "Tl2 Cr6 Se10"
+_cell_length_a       10.3533
+_cell_length_b       10.3533
+_cell_length_c       12.7338
+_cell_angle_alpha    58.1904
+_cell_angle_beta     58.1904
+_cell_angle_gamma    20.638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.26071  0.26071  0.82804  1.0000
+  Tl  Tl2       1.0  0.73929  0.73929  0.17196  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cr  Cr2       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr3       1.0  0.16442  0.16441  0.61182  1.0000
+  Cr  Cr4       1.0  0.83559  0.83559  0.38818  1.0000
+  Cr  Cr5       1.0  0.98509  0.98509  0.77212  1.0000
+  Cr  Cr6       1.0  0.01491  0.01491  0.22788  1.0000
+  Se  Se1       1.0  0.07861  0.07861  0.84937  1.0000
+  Se  Se2       1.0  0.92139  0.92139  0.15063  1.0000
+  Se  Se3       1.0  0.40871  0.40871  0.91874  1.0000
+  Se  Se4       1.0  0.59129  0.59129  0.08126  1.0000
+  Se  Se5       1.0  0.57657  0.57657  0.60646  1.0000
+  Se  Se6       1.0  0.42343  0.42343  0.39354  1.0000
+  Se  Se7       1.0  0.74569  0.74569  0.61987  1.0000
+  Se  Se8       1.0  0.25431  0.25431  0.38013  1.0000
+  Se  Se9       1.0  0.91859  0.91859  0.65381  1.0000
+  Se  Se10      1.0  0.08141  0.08141  0.34619  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       EuNi6S8
+_chemical_formula_sum              "Eu1 Ni6 S8"
+_cell_length_a       6.22847
+_cell_length_b       6.22847
+_cell_length_c       6.22847
+_cell_angle_alpha    89.5185
+_cell_angle_beta     89.5185
+_cell_angle_gamma    89.5185
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.59290  0.80745  0.43125  1.0000
+  Ni  Ni2       1.0  0.43125  0.59290  0.80745  1.0000
+  Ni  Ni3       1.0  0.40710  0.19255  0.56875  1.0000
+  Ni  Ni4       1.0  0.19255  0.56875  0.40710  1.0000
+  Ni  Ni5       1.0  0.80745  0.43125  0.59290  1.0000
+  Ni  Ni6       1.0  0.56875  0.40710  0.19255  1.0000
+  S   S1        1.0  0.85270  0.61674  0.27072  1.0000
+  S   S2        1.0  0.72928  0.14730  0.38326  1.0000
+  S   S3        1.0  0.25553  0.25553  0.25553  1.0000
+  S   S4        1.0  0.74447  0.74447  0.74447  1.0000
+  S   S5        1.0  0.14730  0.38326  0.72928  1.0000
+  S   S6        1.0  0.61674  0.27072  0.85269  1.0000
+  S   S7        1.0  0.27072  0.85269  0.61674  1.0000
+  S   S8        1.0  0.38326  0.72928  0.14730  1.0000

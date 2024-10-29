@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al3Ge9Mo6
+_chemical_formula_sum              "Al3 Ge9 Mo6"
+_cell_length_a       4.85325
+_cell_length_b       4.85423
+_cell_length_c       13.4129
+_cell_angle_alpha    89.9949
+_cell_angle_beta     90.3355
+_cell_angle_gamma    60.0138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.16672  0.66717  0.08476  1.0000
+  Al  Al2       1.0  0.16360  0.66934  0.58267  1.0000
+  Al  Al3       1.0  0.66891  0.16421  0.24928  1.0000
+  Ge  Ge1       1.0  0.66832  0.16516  0.74911  1.0000
+  Ge  Ge2       1.0  0.16814  0.16407  0.41607  1.0000
+  Ge  Ge3       1.0  0.16332  0.16617  0.91809  1.0000
+  Ge  Ge4       1.0  0.82809  0.33436  0.08606  1.0000
+  Ge  Ge5       1.0  0.83418  0.33607  0.58296  1.0000
+  Ge  Ge6       1.0  0.33275  0.83066  0.24762  1.0000
+  Ge  Ge7       1.0  0.32772  0.83328  0.74789  1.0000
+  Ge  Ge8       1.0  0.83637  0.83952  0.41649  1.0000
+  Ge  Ge9       1.0  0.84166  0.83190  0.91899  1.0000
+  Mo  Mo1       1.0  0.50018  0.99929  0.08037  1.0000
+  Mo  Mo2       1.0  0.49989  0.00057  0.58360  1.0000
+  Mo  Mo3       1.0  0.00065  0.49970  0.25273  1.0000
+  Mo  Mo4       1.0  0.99972  0.49963  0.75259  1.0000
+  Mo  Mo5       1.0  0.49963  0.50037  0.41700  1.0000
+  Mo  Mo6       1.0  0.50012  0.49852  0.91373  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       LiBi3Cl2O4
+_chemical_formula_sum              "Li1 Bi3 Cl2 O4"
+_cell_length_a       6.76058
+_cell_length_b       6.76058
+_cell_length_c       5.51429
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    131.865
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.69881  0.30119  0.50000  1.0000
+  Bi  Bi1       1.0  0.15296  0.84704  0.00000  1.0000
+  Bi  Bi2       1.0  0.83973  0.16027  0.00000  1.0000
+  Bi  Bi3       1.0  0.34313  0.65687  0.50000  1.0000
+  Cl  Cl1       1.0  0.49325  0.50675  0.00000  1.0000
+  Cl  Cl2       1.0  0.98347  0.01653  0.50000  1.0000
+  O   O1        1.0  0.49378  0.99945  0.75237  1.0000
+  O   O2        1.0  0.00055  0.50622  0.24763  1.0000
+  O   O3        1.0  0.00055  0.50622  0.75237  1.0000
+  O   O4        1.0  0.49378  0.99945  0.24763  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na2Ca2Si2H2O8
+_chemical_formula_sum              "Na2 Ca2 Si2 H2 O8"
+_cell_length_a       7.11393
+_cell_length_b       5.46209
+_cell_length_c       5.52931
+_cell_angle_alpha    63.3902
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.76682  0.36221  0.25994  1.0000
+  Na  Na2       1.0  0.26682  0.63779  0.74006  1.0000
+  Ca  Ca1       1.0  0.51272  0.99644  0.99421  1.0000
+  Ca  Ca2       1.0  0.01273  0.00356  0.00579  1.0000
+  Si  Si1       1.0  0.75485  0.65936  0.62600  1.0000
+  Si  Si2       1.0  0.25485  0.34064  0.37400  1.0000
+  H   H1        1.0  0.00071  0.96368  0.53022  1.0000
+  H   H2        1.0  0.50071  0.03632  0.46978  1.0000
+  O   O1        1.0  0.76212  0.32715  0.80403  1.0000
+  O   O2        1.0  0.26212  0.67285  0.19597  1.0000
+  O   O3        1.0  0.75974  0.76582  0.29736  1.0000
+  O   O4        1.0  0.25974  0.23418  0.70264  1.0000
+  O   O5        1.0  0.57453  0.79442  0.70979  1.0000
+  O   O6        1.0  0.07453  0.20558  0.29021  1.0000
+  O   O7        1.0  0.95150  0.79168  0.70201  1.0000
+  O   O8        1.0  0.45150  0.20832  0.29799  1.0000

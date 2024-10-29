@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb4Mg4Pd4
+_chemical_formula_sum              "Yb4 Mg4 Pd4"
+_cell_length_a       4.18774
+_cell_length_b       7.38987
+_cell_length_c       8.56905
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.25000  0.53297  0.17482  1.0000
+  Yb  Yb2       1.0  0.75000  0.46703  0.82518  1.0000
+  Yb  Yb3       1.0  0.25000  0.03297  0.32518  1.0000
+  Yb  Yb4       1.0  0.75000  0.96703  0.67482  1.0000
+  Mg  Mg1       1.0  0.25000  0.63721  0.56098  1.0000
+  Mg  Mg2       1.0  0.75000  0.36279  0.43902  1.0000
+  Mg  Mg3       1.0  0.25000  0.13721  0.93902  1.0000
+  Mg  Mg4       1.0  0.75000  0.86279  0.06098  1.0000
+  Pd  Pd1       1.0  0.75000  0.73479  0.37080  1.0000
+  Pd  Pd2       1.0  0.25000  0.26521  0.62920  1.0000
+  Pd  Pd3       1.0  0.75000  0.23479  0.12920  1.0000
+  Pd  Pd4       1.0  0.25000  0.76521  0.87080  1.0000

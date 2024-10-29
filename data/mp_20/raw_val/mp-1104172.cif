@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Er3Ga8Ag3
+_chemical_formula_sum              "Er3 Ga8 Ag3"
+_cell_length_a       4.38193
+_cell_length_b       8.28215
+_cell_length_c       8.28215
+_cell_angle_alpha    70.3611
+_cell_angle_beta     74.6603
+_cell_angle_gamma    74.6603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.50000  0.50000  0.50000  1.0000
+  Er  Er2       1.0  0.20466  0.79534  0.79534  1.0000
+  Er  Er3       1.0  0.79534  0.20466  0.20466  1.0000
+  Ga  Ga1       1.0  0.35819  0.36105  0.92256  1.0000
+  Ga  Ga2       1.0  0.64181  0.63895  0.07744  1.0000
+  Ga  Ga3       1.0  0.35819  0.92256  0.36105  1.0000
+  Ga  Ga4       1.0  0.64181  0.07744  0.63895  1.0000
+  Ga  Ga5       1.0  0.15734  0.47363  0.21169  1.0000
+  Ga  Ga6       1.0  0.84266  0.52637  0.78831  1.0000
+  Ga  Ga7       1.0  0.15734  0.21169  0.47363  1.0000
+  Ga  Ga8       1.0  0.84266  0.78831  0.52637  1.0000
+  Ag  Ag1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.00000  0.81274  0.18726  1.0000
+  Ag  Ag3       1.0  0.00000  0.18726  0.81274  1.0000

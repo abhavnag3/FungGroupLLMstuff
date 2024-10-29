@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Os2Cl2F16
+_chemical_formula_sum              "Os2 Cl2 F16"
+_cell_length_a       5.71173
+_cell_length_b       6.80879
+_cell_length_c       10.6984
+_cell_angle_alpha    51.0341
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Os  Os1       1.0  0.46975  0.00000  0.25000  1.0000
+  Os  Os2       1.0  0.53025  0.00000  0.75000  1.0000
+  Cl  Cl1       1.0  0.82571  0.50000  0.75000  1.0000
+  Cl  Cl2       1.0  0.17428  0.50000  0.25000  1.0000
+  F   F1        1.0  0.01673  0.36179  0.71540  1.0000
+  F   F2        1.0  0.52861  0.31755  0.71094  1.0000
+  F   F3        1.0  0.28987  0.12194  0.59162  1.0000
+  F   F4        1.0  0.75934  0.13058  0.58566  1.0000
+  F   F5        1.0  0.98327  0.36179  0.21540  1.0000
+  F   F6        1.0  0.47139  0.31755  0.21094  1.0000
+  F   F7        1.0  0.24066  0.86942  0.41434  1.0000
+  F   F8        1.0  0.71013  0.87806  0.40838  1.0000
+  F   F9        1.0  0.24066  0.13058  0.08566  1.0000
+  F   F10       1.0  0.71013  0.12194  0.09162  1.0000
+  F   F11       1.0  0.47139  0.68245  0.28906  1.0000
+  F   F12       1.0  0.98327  0.63821  0.28460  1.0000
+  F   F13       1.0  0.28987  0.87806  0.90838  1.0000
+  F   F14       1.0  0.75934  0.86942  0.91434  1.0000
+  F   F15       1.0  0.52861  0.68245  0.78906  1.0000
+  F   F16       1.0  0.01673  0.63821  0.78460  1.0000

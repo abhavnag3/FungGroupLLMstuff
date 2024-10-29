@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       K5As4
+_chemical_formula_sum              "K5 As4"
+_cell_length_a       6.47591
+_cell_length_b       6.47591
+_cell_length_c       10.5157
+_cell_angle_alpha    69.4341
+_cell_angle_beta     69.4341
+_cell_angle_gamma    47.6291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.39278  0.39278  0.89711  1.0000
+  K   K2        1.0  0.60735  0.60735  0.09830  1.0000
+  K   K3        1.0  0.74896  0.74896  0.66761  1.0000
+  K   K4        1.0  0.25909  0.25909  0.33056  1.0000
+  K   K5        1.0  0.51741  0.51741  0.48898  1.0000
+  As  As1       1.0  0.09522  0.09522  0.89232  1.0000
+  As  As2       1.0  0.90393  0.90393  0.10693  1.0000
+  As  As3       1.0  0.04233  0.04233  0.68932  1.0000
+  As  As4       1.0  0.95664  0.95664  0.31085  1.0000

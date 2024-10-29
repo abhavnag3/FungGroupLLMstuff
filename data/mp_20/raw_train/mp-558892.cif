@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn2V2Bi2O10
+_chemical_formula_sum              "Mn2 V2 Bi2 O10"
+_cell_length_a       5.46632
+_cell_length_b       7.05048
+_cell_length_c       7.09958
+_cell_angle_alpha    109.764
+_cell_angle_beta     107.662
+_cell_angle_gamma    96.8357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.32712  0.36755  0.22763  1.0000
+  Mn  Mn2       1.0  0.67288  0.63245  0.77236  1.0000
+  V   V1        1.0  0.65820  0.18086  0.88593  1.0000
+  V   V2        1.0  0.34180  0.81914  0.11407  1.0000
+  Bi  Bi1       1.0  0.10297  0.75601  0.53527  1.0000
+  Bi  Bi2       1.0  0.89703  0.24399  0.46473  1.0000
+  O   O1        1.0  0.22541  0.65994  0.23044  1.0000
+  O   O2        1.0  0.77459  0.34006  0.76956  1.0000
+  O   O3        1.0  0.43431  0.08501  0.28917  1.0000
+  O   O4        1.0  0.56569  0.91499  0.71083  1.0000
+  O   O5        1.0  0.61751  0.75563  0.07151  1.0000
+  O   O6        1.0  0.38249  0.24437  0.92849  1.0000
+  O   O7        1.0  0.73570  0.50278  0.44983  1.0000
+  O   O8        1.0  0.26430  0.49722  0.55017  1.0000
+  O   O9        1.0  0.90963  0.21704  0.12965  1.0000
+  O   O10       1.0  0.09037  0.78296  0.87035  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2Cu2Sn2
+_chemical_formula_sum              "Eu2 Cu2 Sn2"
+_cell_length_a       5.96853
+_cell_length_b       5.96853
+_cell_length_c       7.56127
+_cell_angle_alpha    51.8971
+_cell_angle_beta     51.8971
+_cell_angle_gamma    44.8346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.54623  0.54623  0.69363  1.0000
+  Eu  Eu2       1.0  0.45377  0.45377  0.30637  1.0000
+  Cu  Cu1       1.0  0.15433  0.15433  0.29595  1.0000
+  Cu  Cu2       1.0  0.84567  0.84566  0.70405  1.0000
+  Sn  Sn1       1.0  0.82767  0.82767  0.10666  1.0000
+  Sn  Sn2       1.0  0.17233  0.17233  0.89334  1.0000

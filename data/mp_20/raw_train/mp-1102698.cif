@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ce3Si4Rh4
+_chemical_formula_sum              "Ce3 Si4 Rh4"
+_cell_length_a       4.00605
+_cell_length_b       4.16836
+_cell_length_c       12.6495
+_cell_angle_alpha    80.5165
+_cell_angle_beta     80.889
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ce  Ce2       1.0  0.85512  0.35512  0.28975  1.0000
+  Ce  Ce3       1.0  0.14488  0.64488  0.71025  1.0000
+  Si  Si1       1.0  0.69750  0.19750  0.60499  1.0000
+  Si  Si2       1.0  0.30250  0.80250  0.39500  1.0000
+  Si  Si3       1.0  0.45217  0.45217  0.09566  1.0000
+  Si  Si4       1.0  0.54783  0.54783  0.90434  1.0000
+  Rh  Rh1       1.0  0.59914  0.09914  0.80173  1.0000
+  Rh  Rh2       1.0  0.40086  0.90086  0.19827  1.0000
+  Rh  Rh3       1.0  0.25005  0.25005  0.49990  1.0000
+  Rh  Rh4       1.0  0.74995  0.74995  0.50010  1.0000

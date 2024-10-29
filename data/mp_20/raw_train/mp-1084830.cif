@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       La4Ge4
+_chemical_formula_sum              "La4 Ge4"
+_cell_length_a       7.30508
+_cell_length_b       7.30508
+_cell_length_c       6.78457
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    143.391
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.95198  0.04802  0.25000  1.0000
+  La  La2       1.0  0.04802  0.95198  0.75000  1.0000
+  La  La3       1.0  0.77446  0.22554  0.75000  1.0000
+  La  La4       1.0  0.22554  0.77446  0.25000  1.0000
+  Ge  Ge1       1.0  0.59813  0.40187  0.44450  1.0000
+  Ge  Ge2       1.0  0.40187  0.59813  0.55550  1.0000
+  Ge  Ge3       1.0  0.59813  0.40187  0.05550  1.0000
+  Ge  Ge4       1.0  0.40187  0.59813  0.94450  1.0000

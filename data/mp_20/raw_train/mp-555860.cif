@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu2Ti2Cl2O6
+_chemical_formula_sum              "Eu2 Ti2 Cl2 O6"
+_cell_length_a       5.30832
+_cell_length_b       5.30832
+_cell_length_c       10.2977
+_cell_angle_alpha    74.6899
+_cell_angle_beta     74.6899
+_cell_angle_gamma    43.4361
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.77935  0.77935  0.20189  1.0000
+  Eu  Eu2       1.0  0.22065  0.22065  0.79811  1.0000
+  Ti  Ti1       1.0  0.61918  0.61918  0.56463  1.0000
+  Ti  Ti2       1.0  0.38082  0.38083  0.43537  1.0000
+  Cl  Cl1       1.0  0.11190  0.11190  0.09722  1.0000
+  Cl  Cl2       1.0  0.88810  0.88810  0.90278  1.0000
+  O   O1        1.0  0.64938  0.64938  0.73800  1.0000
+  O   O2        1.0  0.57640  0.57640  0.38068  1.0000
+  O   O3        1.0  0.35062  0.35062  0.26200  1.0000
+  O   O4        1.0  0.42360  0.42360  0.61932  1.0000
+  O   O5        1.0  0.16688  0.16688  0.55964  1.0000
+  O   O6        1.0  0.83312  0.83312  0.44035  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs2Ti2Cu6Se8
+_chemical_formula_sum              "Cs2 Ti2 Cu6 Se8"
+_cell_length_a       7.85482
+_cell_length_b       5.82541
+_cell_length_c       10.3953
+_cell_angle_alpha    73.6994
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25000  0.17842  0.62199  1.0000
+  Cs  Cs2       1.0  0.75000  0.82158  0.37801  1.0000
+  Ti  Ti1       1.0  0.75000  0.35196  0.79468  1.0000
+  Ti  Ti2       1.0  0.25000  0.64804  0.20532  1.0000
+  Cu  Cu1       1.0  0.50578  0.72210  0.99787  1.0000
+  Cu  Cu2       1.0  0.75000  0.85010  0.80034  1.0000
+  Cu  Cu3       1.0  0.25000  0.14990  0.19966  1.0000
+  Cu  Cu4       1.0  0.49422  0.27790  0.00213  1.0000
+  Cu  Cu5       1.0  0.00578  0.27790  0.00213  1.0000
+  Cu  Cu6       1.0  0.99422  0.72210  0.99787  1.0000
+  Se  Se1       1.0  0.49688  0.59771  0.78922  1.0000
+  Se  Se2       1.0  0.99688  0.40229  0.21078  1.0000
+  Se  Se3       1.0  0.00312  0.59771  0.78922  1.0000
+  Se  Se4       1.0  0.50312  0.40229  0.21078  1.0000
+  Se  Se5       1.0  0.25000  0.98209  0.99692  1.0000
+  Se  Se6       1.0  0.75000  0.01791  0.00308  1.0000
+  Se  Se7       1.0  0.25000  0.79823  0.39381  1.0000
+  Se  Se8       1.0  0.75000  0.20177  0.60619  1.0000

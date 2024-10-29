@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba4Ge4Pt4
+_chemical_formula_sum              "Ba4 Ge4 Pt4"
+_cell_length_a       6.85134
+_cell_length_b       6.85134
+_cell_length_c       6.85134
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.13590  0.13590  0.13590  1.0000
+  Ba  Ba2       1.0  0.63590  0.36410  0.86410  1.0000
+  Ba  Ba3       1.0  0.36410  0.86410  0.63590  1.0000
+  Ba  Ba4       1.0  0.86410  0.63590  0.36410  1.0000
+  Ge  Ge1       1.0  0.34219  0.65781  0.15781  1.0000
+  Ge  Ge2       1.0  0.15781  0.34219  0.65781  1.0000
+  Ge  Ge3       1.0  0.65781  0.15781  0.34219  1.0000
+  Ge  Ge4       1.0  0.84219  0.84219  0.84219  1.0000
+  Pt  Pt1       1.0  0.40998  0.40998  0.40998  1.0000
+  Pt  Pt2       1.0  0.09002  0.59002  0.90998  1.0000
+  Pt  Pt3       1.0  0.90998  0.09002  0.59002  1.0000
+  Pt  Pt4       1.0  0.59002  0.90998  0.09002  1.0000

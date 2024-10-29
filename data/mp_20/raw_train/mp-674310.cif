@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Cr4Cu3Se8
+_chemical_formula_sum              "Cr4 Cu3 Se8"
+_cell_length_a       7.49669
+_cell_length_b       7.49669
+_cell_length_c       7.49669
+_cell_angle_alpha    120.442
+_cell_angle_beta     119.96
+_cell_angle_gamma    89.6526
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.75425  0.01360  0.25935  1.0000
+  Cr  Cr2       1.0  0.75425  0.49490  0.74065  1.0000
+  Cr  Cr3       1.0  0.76910  0.00906  0.76004  1.0000
+  Cr  Cr4       1.0  0.24901  0.00906  0.23995  1.0000
+  Cu  Cu1       1.0  0.11860  0.61860  0.50000  1.0000
+  Cu  Cu2       1.0  0.35139  0.85139  0.50000  1.0000
+  Cu  Cu3       1.0  0.37469  0.37469  0.00000  1.0000
+  Se  Se1       1.0  0.99190  0.22693  0.23503  1.0000
+  Se  Se2       1.0  0.97161  0.75077  0.22084  1.0000
+  Se  Se3       1.0  0.99190  0.75687  0.76497  1.0000
+  Se  Se4       1.0  0.52993  0.75077  0.77916  1.0000
+  Se  Se5       1.0  0.98096  0.24448  0.73648  1.0000
+  Se  Se6       1.0  0.50800  0.24448  0.26352  1.0000
+  Se  Se7       1.0  0.51220  0.25053  0.73833  1.0000
+  Se  Se8       1.0  0.51220  0.77388  0.26167  1.0000

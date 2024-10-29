@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Lu3ScV4O12
+_chemical_formula_sum              "Lu3 Sc1 V4 O12"
+_cell_length_a       7.6059
+_cell_length_b       5.22872
+_cell_length_c       5.60819
+_cell_angle_alpha    88.8889
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00000  0.02553  0.92379  1.0000
+  Lu  Lu2       1.0  0.50000  0.51924  0.56808  1.0000
+  Lu  Lu3       1.0  0.50000  0.97276  0.07650  1.0000
+  Sc  Sc1       1.0  0.00000  0.48309  0.43625  1.0000
+  V   V1        1.0  0.24805  0.50041  0.00168  1.0000
+  V   V2        1.0  0.75182  0.99915  0.49835  1.0000
+  V   V3        1.0  0.75195  0.50041  0.00168  1.0000
+  V   V4        1.0  0.24818  0.99915  0.49835  1.0000
+  O   O1        1.0  0.18398  0.18730  0.18835  1.0000
+  O   O2        1.0  0.82116  0.31483  0.68216  1.0000
+  O   O3        1.0  0.68667  0.81364  0.81161  1.0000
+  O   O4        1.0  0.31726  0.69133  0.30996  1.0000
+  O   O5        1.0  0.31333  0.81364  0.81161  1.0000
+  O   O6        1.0  0.68274  0.69133  0.30996  1.0000
+  O   O7        1.0  0.81602  0.18730  0.18835  1.0000
+  O   O8        1.0  0.17884  0.31483  0.68216  1.0000
+  O   O9        1.0  0.00000  0.62929  0.06474  1.0000
+  O   O10       1.0  0.00000  0.85459  0.55301  1.0000
+  O   O11       1.0  0.50000  0.37066  0.94595  1.0000
+  O   O12       1.0  0.50000  0.13151  0.44746  1.0000

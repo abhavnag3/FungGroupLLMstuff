@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Sm2Co2O8
+_chemical_formula_sum              "Ca2 Sm2 Co2 O8"
+_cell_length_a       6.56193
+_cell_length_b       6.56193
+_cell_length_c       5.47461
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    132.621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.89397  0.10604  0.51401  1.0000
+  Ca  Ca2       1.0  0.10603  0.89397  0.01401  1.0000
+  Sm  Sm1       1.0  0.61169  0.38831  0.48051  1.0000
+  Sm  Sm2       1.0  0.38831  0.61169  0.98051  1.0000
+  Co  Co1       1.0  0.24875  0.75125  0.49941  1.0000
+  Co  Co2       1.0  0.75125  0.24875  0.99941  1.0000
+  O   O1        1.0  0.98421  0.51468  0.74900  1.0000
+  O   O2        1.0  0.01579  0.48532  0.24900  1.0000
+  O   O3        1.0  0.51468  0.98421  0.24900  1.0000
+  O   O4        1.0  0.48532  0.01579  0.74900  1.0000
+  O   O5        1.0  0.08119  0.91880  0.45425  1.0000
+  O   O6        1.0  0.42475  0.57525  0.55383  1.0000
+  O   O7        1.0  0.91881  0.08120  0.95424  1.0000
+  O   O8        1.0  0.57525  0.42475  0.05383  1.0000

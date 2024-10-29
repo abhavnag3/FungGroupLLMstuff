@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ce4Ni10C6
+_chemical_formula_sum              "Ce4 Ni10 C6"
+_cell_length_a       8.33212
+_cell_length_b       8.33212
+_cell_length_c       3.88225
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.34108  0.84108  0.00000  1.0000
+  Ce  Ce2       1.0  0.65892  0.15892  0.00000  1.0000
+  Ce  Ce3       1.0  0.15892  0.34108  0.00000  1.0000
+  Ce  Ce4       1.0  0.84108  0.65892  0.00000  1.0000
+  Ni  Ni1       1.0  0.57669  0.71250  0.50000  1.0000
+  Ni  Ni2       1.0  0.42330  0.28750  0.50000  1.0000
+  Ni  Ni3       1.0  0.92331  0.21250  0.50000  1.0000
+  Ni  Ni4       1.0  0.07669  0.78750  0.50000  1.0000
+  Ni  Ni5       1.0  0.71250  0.42330  0.50000  1.0000
+  Ni  Ni6       1.0  0.28750  0.57669  0.50000  1.0000
+  Ni  Ni7       1.0  0.21250  0.07669  0.50000  1.0000
+  Ni  Ni8       1.0  0.78750  0.92331  0.50000  1.0000
+  Ni  Ni9       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni10      1.0  0.00000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.50000  0.50000  0.50000  1.0000
+  C   C2        1.0  0.00000  0.00000  0.50000  1.0000
+  C   C3        1.0  0.05808  0.55809  0.50000  1.0000
+  C   C4        1.0  0.94191  0.44192  0.50000  1.0000
+  C   C5        1.0  0.44192  0.05808  0.50000  1.0000
+  C   C6        1.0  0.55809  0.94191  0.50000  1.0000

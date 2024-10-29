@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Al2Co2O8
+_chemical_formula_sum              "Li4 Al2 Co2 O8"
+_cell_length_a       5.00331
+_cell_length_b       5.50302
+_cell_length_c       6.24076
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.99274  0.33529  0.24932  1.0000
+  Li  Li2       1.0  0.49274  0.66471  0.25068  1.0000
+  Li  Li3       1.0  0.99274  0.33529  0.75069  1.0000
+  Li  Li4       1.0  0.49274  0.66471  0.74931  1.0000
+  Al  Al1       1.0  0.49888  0.15754  0.00000  1.0000
+  Al  Al2       1.0  0.99888  0.84246  0.50000  1.0000
+  Co  Co1       1.0  0.99449  0.82896  0.00000  1.0000
+  Co  Co2       1.0  0.49449  0.17104  0.50000  1.0000
+  O   O1        1.0  0.85518  0.14844  0.00000  1.0000
+  O   O2        1.0  0.37191  0.85474  0.00000  1.0000
+  O   O3        1.0  0.89703  0.68715  0.26150  1.0000
+  O   O4        1.0  0.39703  0.31285  0.23850  1.0000
+  O   O5        1.0  0.87191  0.14526  0.50000  1.0000
+  O   O6        1.0  0.35518  0.85156  0.50000  1.0000
+  O   O7        1.0  0.39703  0.31285  0.76150  1.0000
+  O   O8        1.0  0.89703  0.68715  0.73850  1.0000

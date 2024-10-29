@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K4Li2Al2H12
+_chemical_formula_sum              "K4 Li2 Al2 H12"
+_cell_length_a       9.67601
+_cell_length_b       9.67601
+_cell_length_c       9.67601
+_cell_angle_alpha    33.7525
+_cell_angle_beta     33.7525
+_cell_angle_gamma    33.7525
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.12711  0.12711  0.12711  1.0000
+  K   K2        1.0  0.87289  0.87289  0.87289  1.0000
+  K   K3        1.0  0.28659  0.28659  0.28659  1.0000
+  K   K4        1.0  0.71341  0.71341  0.71341  1.0000
+  Li  Li1       1.0  0.40774  0.40774  0.40774  1.0000
+  Li  Li2       1.0  0.59226  0.59226  0.59226  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al2       1.0  0.50000  0.50000  0.50000  1.0000
+  H   H1        1.0  0.18820  0.18820  0.73540  1.0000
+  H   H2        1.0  0.73540  0.18820  0.18820  1.0000
+  H   H3        1.0  0.18820  0.73540  0.18820  1.0000
+  H   H4        1.0  0.81180  0.26460  0.81180  1.0000
+  H   H5        1.0  0.81180  0.81180  0.26460  1.0000
+  H   H6        1.0  0.26460  0.81180  0.81180  1.0000
+  H   H7        1.0  0.39536  0.39536  0.82715  1.0000
+  H   H8        1.0  0.82715  0.39536  0.39536  1.0000
+  H   H9        1.0  0.17285  0.60464  0.60464  1.0000
+  H   H10       1.0  0.60464  0.60464  0.17285  1.0000
+  H   H11       1.0  0.60464  0.17285  0.60464  1.0000
+  H   H12       1.0  0.39536  0.82715  0.39536  1.0000

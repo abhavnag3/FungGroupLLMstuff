@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tl4Ag4Te4
+_chemical_formula_sum              "Tl4 Ag4 Te4"
+_cell_length_a       4.93986
+_cell_length_b       8.07616
+_cell_length_c       8.76601
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.25000  0.18254  0.98781  1.0000
+  Tl  Tl2       1.0  0.75000  0.68254  0.51219  1.0000
+  Tl  Tl3       1.0  0.25000  0.31746  0.48781  1.0000
+  Tl  Tl4       1.0  0.75000  0.81746  0.01219  1.0000
+  Ag  Ag1       1.0  0.25000  0.58730  0.16905  1.0000
+  Ag  Ag2       1.0  0.75000  0.41270  0.83095  1.0000
+  Ag  Ag3       1.0  0.75000  0.08730  0.33095  1.0000
+  Ag  Ag4       1.0  0.25000  0.91270  0.66905  1.0000
+  Te  Te1       1.0  0.75000  0.40266  0.18693  1.0000
+  Te  Te2       1.0  0.75000  0.09734  0.68693  1.0000
+  Te  Te3       1.0  0.25000  0.59734  0.81307  1.0000
+  Te  Te4       1.0  0.25000  0.90266  0.31307  1.0000

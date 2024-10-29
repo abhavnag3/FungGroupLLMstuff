@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Y2Er2Ni4
+_chemical_formula_sum              "Y2 Er2 Ni4"
+_cell_length_a       4.14186
+_cell_length_b       5.44217
+_cell_length_c       7.11765
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.50000  0.37778  0.32053  1.0000
+  Y   Y2        1.0  0.50000  0.62222  0.82053  1.0000
+  Er  Er1       1.0  0.00000  0.12125  0.68010  1.0000
+  Er  Er2       1.0  0.00000  0.87875  0.18010  1.0000
+  Ni  Ni1       1.0  0.00000  0.63211  0.53710  1.0000
+  Ni  Ni2       1.0  0.00000  0.36789  0.03710  1.0000
+  Ni  Ni3       1.0  0.50000  0.87018  0.46228  1.0000
+  Ni  Ni4       1.0  0.50000  0.12982  0.96228  1.0000

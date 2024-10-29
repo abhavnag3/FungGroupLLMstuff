@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2H4F8
+_chemical_formula_sum              "Ca2 H4 F8"
+_cell_length_a       7.3844
+_cell_length_b       6.02887
+_cell_length_c       5.83734
+_cell_angle_alpha    76.9505
+_cell_angle_beta     52.6882
+_cell_angle_gamma    50.3613
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ca  Ca2       1.0  0.75000  0.75000  0.75000  1.0000
+  H   H1        1.0  0.36903  0.36903  0.13097  1.0000
+  H   H2        1.0  0.13097  0.13097  0.36903  1.0000
+  H   H3        1.0  0.88097  0.88097  0.11903  1.0000
+  H   H4        1.0  0.11903  0.11903  0.88097  1.0000
+  F   F1        1.0  0.27569  0.46011  0.36277  1.0000
+  F   F2        1.0  0.90142  0.36277  0.46011  1.0000
+  F   F3        1.0  0.36277  0.90142  0.27569  1.0000
+  F   F4        1.0  0.46011  0.27569  0.90142  1.0000
+  F   F5        1.0  0.97431  0.78989  0.88723  1.0000
+  F   F6        1.0  0.34858  0.88723  0.78989  1.0000
+  F   F7        1.0  0.88723  0.34858  0.97431  1.0000
+  F   F8        1.0  0.78989  0.97431  0.34858  1.0000

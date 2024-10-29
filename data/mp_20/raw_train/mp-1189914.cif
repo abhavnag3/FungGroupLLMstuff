@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zn2Si2Ag4S8
+_chemical_formula_sum              "Zn2 Si2 Ag4 S8"
+_cell_length_a       6.62267
+_cell_length_b       6.46665
+_cell_length_c       10.2432
+_cell_angle_alpha    51.2037
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.68614  0.59853  0.67922  1.0000
+  Zn  Zn2       1.0  0.31386  0.59853  0.17922  1.0000
+  Si  Si1       1.0  0.81561  0.35521  0.42566  1.0000
+  Si  Si2       1.0  0.18439  0.35521  0.92566  1.0000
+  Ag  Ag1       1.0  0.68122  0.09307  0.17247  1.0000
+  Ag  Ag2       1.0  0.31878  0.09307  0.67247  1.0000
+  Ag  Ag3       1.0  0.84745  0.85881  0.92114  1.0000
+  Ag  Ag4       1.0  0.15255  0.85881  0.42114  1.0000
+  S   S1        1.0  0.87480  0.46961  0.91418  1.0000
+  S   S2        1.0  0.12520  0.46961  0.41418  1.0000
+  S   S3        1.0  0.68354  0.26421  0.64794  1.0000
+  S   S4        1.0  0.31646  0.26421  0.14794  1.0000
+  S   S5        1.0  0.80060  0.01036  0.43872  1.0000
+  S   S6        1.0  0.19940  0.01036  0.93872  1.0000
+  S   S7        1.0  0.66024  0.67354  0.20263  1.0000
+  S   S8        1.0  0.33976  0.67354  0.70263  1.0000

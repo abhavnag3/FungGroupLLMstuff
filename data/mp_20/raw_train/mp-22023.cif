@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pb6S2O12
+_chemical_formula_sum              "Pb6 S2 O12"
+_cell_length_a       5.88815
+_cell_length_b       7.36357
+_cell_length_c       8.33041
+_cell_angle_alpha    75.9622
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.25000  0.76093  0.84269  1.0000
+  Pb  Pb2       1.0  0.75000  0.23907  0.15731  1.0000
+  Pb  Pb3       1.0  0.25000  0.39256  0.41402  1.0000
+  Pb  Pb4       1.0  0.75000  0.60744  0.58598  1.0000
+  Pb  Pb5       1.0  0.25000  0.92251  0.37780  1.0000
+  Pb  Pb6       1.0  0.75000  0.07749  0.62220  1.0000
+  S   S1        1.0  0.25000  0.29367  0.85717  1.0000
+  S   S2        1.0  0.75000  0.70633  0.14283  1.0000
+  O   O1        1.0  0.50054  0.82211  0.62115  1.0000
+  O   O2        1.0  0.00054  0.17789  0.37885  1.0000
+  O   O3        1.0  0.49946  0.17789  0.37885  1.0000
+  O   O4        1.0  0.99946  0.82211  0.62115  1.0000
+  O   O5        1.0  0.25000  0.18388  0.72510  1.0000
+  O   O6        1.0  0.75000  0.81612  0.27490  1.0000
+  O   O7        1.0  0.25000  0.16246  0.02227  1.0000
+  O   O8        1.0  0.75000  0.83754  0.97773  1.0000
+  O   O9        1.0  0.54450  0.58150  0.16499  1.0000
+  O   O10       1.0  0.04450  0.41850  0.83501  1.0000
+  O   O11       1.0  0.45550  0.41850  0.83501  1.0000
+  O   O12       1.0  0.95550  0.58150  0.16499  1.0000

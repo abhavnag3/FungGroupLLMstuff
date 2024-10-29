@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       RbRu4O8
+_chemical_formula_sum              "Rb1 Ru4 O8"
+_cell_length_a       7.31303
+_cell_length_b       7.31303
+_cell_length_c       7.31303
+_cell_angle_alpha    92.7254
+_cell_angle_beta     92.7254
+_cell_angle_gamma    154.81
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ru  Ru1       1.0  0.33484  0.14729  0.48213  1.0000
+  Ru  Ru2       1.0  0.66516  0.85271  0.51787  1.0000
+  Ru  Ru3       1.0  0.85271  0.33484  0.18756  1.0000
+  Ru  Ru4       1.0  0.14729  0.66516  0.81244  1.0000
+  O   O1        1.0  0.29614  0.34528  0.64142  1.0000
+  O   O2        1.0  0.70386  0.65472  0.35858  1.0000
+  O   O3        1.0  0.65472  0.29614  0.95085  1.0000
+  O   O4        1.0  0.34528  0.70386  0.04915  1.0000
+  O   O5        1.0  0.04550  0.34481  0.39031  1.0000
+  O   O6        1.0  0.95450  0.65519  0.60969  1.0000
+  O   O7        1.0  0.65519  0.04550  0.70069  1.0000
+  O   O8        1.0  0.34481  0.95450  0.29931  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Fe6Ni6B4
+_chemical_formula_sum              "Fe6 Ni6 B4"
+_cell_length_a       5.29251
+_cell_length_b       4.4094
+_cell_length_c       6.62097
+_cell_angle_alpha    89.9816
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.67745  0.89665  0.69360  1.0000
+  Fe  Fe2       1.0  0.17745  0.10335  0.30640  1.0000
+  Fe  Fe3       1.0  0.32112  0.60305  0.18877  1.0000
+  Fe  Fe4       1.0  0.82112  0.39695  0.81123  1.0000
+  Fe  Fe5       1.0  0.31909  0.59966  0.81001  1.0000
+  Fe  Fe6       1.0  0.81909  0.40034  0.18999  1.0000
+  Ni  Ni1       1.0  0.68302  0.90199  0.31567  1.0000
+  Ni  Ni2       1.0  0.18302  0.09802  0.68433  1.0000
+  Ni  Ni3       1.0  0.52683  0.37955  0.49795  1.0000
+  Ni  Ni4       1.0  0.02683  0.62045  0.50205  1.0000
+  Ni  Ni5       1.0  0.47151  0.11912  0.00105  1.0000
+  Ni  Ni6       1.0  0.97152  0.88088  0.99895  1.0000
+  B   B1        1.0  0.87887  0.19358  0.50442  1.0000
+  B   B2        1.0  0.37887  0.80642  0.49558  1.0000
+  B   B3        1.0  0.12211  0.30496  0.99920  1.0000
+  B   B4        1.0  0.62211  0.69504  0.00080  1.0000

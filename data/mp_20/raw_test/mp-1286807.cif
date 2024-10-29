@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Al2V4O8
+_chemical_formula_sum              "Al2 V4 O8"
+_cell_length_a       5.90759
+_cell_length_b       5.96037
+_cell_length_c       5.88146
+_cell_angle_alpha    60.8919
+_cell_angle_beta     60.583
+_cell_angle_gamma    59.6494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.62898  0.62103  0.62222  1.0000
+  Al  Al2       1.0  0.37099  0.37896  0.37779  1.0000
+  V   V1        1.0  1.00000  0.00000  0.00000  1.0000
+  V   V2        1.0  1.00000  0.00001  0.49999  1.0000
+  V   V3        1.0  0.99997  0.50003  0.00000  1.0000
+  V   V4        1.0  0.50003  0.99997  0.00000  1.0000
+  O   O1        1.0  0.25369  0.74746  0.74449  1.0000
+  O   O2        1.0  0.24437  0.25809  0.74742  1.0000
+  O   O3        1.0  0.24992  0.74654  0.25692  1.0000
+  O   O4        1.0  0.24396  0.25727  0.25198  1.0000
+  O   O5        1.0  0.75565  0.74190  0.25261  1.0000
+  O   O6        1.0  0.74629  0.25256  0.25551  1.0000
+  O   O7        1.0  0.75009  0.25346  0.74308  1.0000
+  O   O8        1.0  0.75606  0.74272  0.74799  1.0000

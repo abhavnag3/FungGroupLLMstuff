@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       W2S2Cl8
+_chemical_formula_sum              "W2 S2 Cl8"
+_cell_length_a       6.98899
+_cell_length_b       8.00986
+_cell_length_c       8.10862
+_cell_angle_alpha    76.6585
+_cell_angle_beta     78.3878
+_cell_angle_gamma    79.4521
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  W   W1        1.0  0.85919  0.75147  0.80209  1.0000
+  W   W2        1.0  0.14081  0.24853  0.19791  1.0000
+  S   S1        1.0  0.65782  0.98044  0.76064  1.0000
+  S   S2        1.0  0.34218  0.01956  0.23936  1.0000
+  Cl  Cl1       1.0  0.13979  0.84861  0.82981  1.0000
+  Cl  Cl2       1.0  0.01700  0.71919  0.53114  1.0000
+  Cl  Cl3       1.0  0.80900  0.66441  0.09929  1.0000
+  Cl  Cl4       1.0  0.68041  0.53870  0.79853  1.0000
+  Cl  Cl5       1.0  0.31959  0.46131  0.20147  1.0000
+  Cl  Cl6       1.0  0.19100  0.33559  0.90071  1.0000
+  Cl  Cl7       1.0  0.98300  0.28081  0.46886  1.0000
+  Cl  Cl8       1.0  0.86021  0.15139  0.17019  1.0000

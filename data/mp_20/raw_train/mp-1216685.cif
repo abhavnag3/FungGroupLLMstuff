@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       TmAl7Fe5
+_chemical_formula_sum              "Tm1 Al7 Fe5"
+_cell_length_a       6.59324
+_cell_length_b       6.59324
+_cell_length_c       6.59324
+_cell_angle_alpha    135.26
+_cell_angle_beta     98.4695
+_cell_angle_gamma    98.1869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.99494  0.00000  0.99494  1.0000
+  Al  Al1       1.0  0.33952  0.00000  0.33952  1.0000
+  Al  Al2       1.0  0.66156  0.00000  0.66156  1.0000
+  Al  Al3       1.0  0.66650  0.65794  0.00856  1.0000
+  Al  Al4       1.0  0.35063  0.34206  0.00856  1.0000
+  Al  Al5       1.0  0.22525  0.50000  0.72525  1.0000
+  Al  Al6       1.0  0.20448  0.70942  0.49506  1.0000
+  Al  Al7       1.0  0.78564  0.29058  0.49506  1.0000
+  Fe  Fe1       1.0  0.50090  0.99694  0.99907  1.0000
+  Fe  Fe2       1.0  0.50090  0.50184  0.50396  1.0000
+  Fe  Fe3       1.0  0.00213  0.49817  0.99907  1.0000
+  Fe  Fe4       1.0  0.00212  0.00306  0.50396  1.0000
+  Fe  Fe5       1.0  0.76543  0.50000  0.26543  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       U4BiO10
+_chemical_formula_sum              "U4 Bi1 O10"
+_cell_length_a       6.66679
+_cell_length_b       6.66679
+_cell_length_c       6.66679
+_cell_angle_alpha    99.5901
+_cell_angle_beta     99.5901
+_cell_angle_gamma    131.821
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.60061  0.19911  0.79972  1.0000
+  U   U2        1.0  0.39939  0.80089  0.20028  1.0000
+  U   U3        1.0  0.80089  0.60061  0.40151  1.0000
+  U   U4        1.0  0.19911  0.39939  0.59849  1.0000
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.95069  0.64166  0.10605  1.0000
+  O   O2        1.0  0.46439  0.15535  0.10605  1.0000
+  O   O3        1.0  0.53561  0.84465  0.89396  1.0000
+  O   O4        1.0  0.75000  0.25000  0.50000  1.0000
+  O   O5        1.0  0.25000  0.75000  0.50000  1.0000
+  O   O6        1.0  0.15535  0.04931  0.69097  1.0000
+  O   O7        1.0  0.64166  0.53561  0.69097  1.0000
+  O   O8        1.0  0.04931  0.35834  0.89396  1.0000
+  O   O9        1.0  0.35834  0.46439  0.30903  1.0000
+  O   O10       1.0  0.84465  0.95069  0.30903  1.0000

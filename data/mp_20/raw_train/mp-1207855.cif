@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       V5Te8
+_chemical_formula_sum              "V5 Te8"
+_cell_length_a       7.40594
+_cell_length_b       7.40594
+_cell_length_c       8.99715
+_cell_angle_alpha    54.7104
+_cell_angle_beta     54.7104
+_cell_angle_gamma    64.3357
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.71163  0.28837  0.50000  1.0000
+  V   V2        1.0  0.28837  0.71163  0.50000  1.0000
+  V   V3        1.0  0.71748  0.71748  0.04900  1.0000
+  V   V4        1.0  0.28252  0.28252  0.95100  1.0000
+  V   V5        1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.42866  0.42866  0.34574  1.0000
+  Te  Te2       1.0  0.57134  0.57134  0.65426  1.0000
+  Te  Te3       1.0  0.53916  0.04629  0.16639  1.0000
+  Te  Te4       1.0  0.46084  0.95371  0.83361  1.0000
+  Te  Te5       1.0  0.95371  0.46084  0.83361  1.0000
+  Te  Te6       1.0  0.04629  0.53916  0.16639  1.0000
+  Te  Te7       1.0  0.98674  0.98674  0.32040  1.0000
+  Te  Te8       1.0  0.01326  0.01326  0.67960  1.0000

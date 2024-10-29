@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Cd2Sn2S8
+_chemical_formula_sum              "Li4 Cd2 Sn2 S8"
+_cell_length_a       6.57568
+_cell_length_b       7.04439
+_cell_length_c       8.07699
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.19535  0.33207  0.74664  1.0000
+  Li  Li2       1.0  0.19535  0.33207  0.25336  1.0000
+  Li  Li3       1.0  0.69535  0.66793  0.75336  1.0000
+  Li  Li4       1.0  0.69535  0.66793  0.24664  1.0000
+  Cd  Cd1       1.0  0.19515  0.84256  0.00000  1.0000
+  Cd  Cd2       1.0  0.69515  0.15744  0.50000  1.0000
+  Sn  Sn1       1.0  0.69161  0.17096  0.00000  1.0000
+  Sn  Sn2       1.0  0.19161  0.82904  0.50000  1.0000
+  S   S1        1.0  0.32331  0.18698  0.00000  1.0000
+  S   S2        1.0  0.82331  0.81302  0.50000  1.0000
+  S   S3        1.0  0.80248  0.84206  0.00000  1.0000
+  S   S4        1.0  0.30248  0.15794  0.50000  1.0000
+  S   S5        1.0  0.82115  0.33849  0.75917  1.0000
+  S   S6        1.0  0.82115  0.33849  0.24083  1.0000
+  S   S7        1.0  0.32115  0.66151  0.74083  1.0000
+  S   S8        1.0  0.32115  0.66151  0.25917  1.0000

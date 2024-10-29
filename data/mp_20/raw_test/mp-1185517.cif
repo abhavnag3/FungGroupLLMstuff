@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       MgAl2H8
+_chemical_formula_sum              "Mg1 Al2 H8"
+_cell_length_a       4.79624
+_cell_length_b       4.90748
+_cell_length_c       6.4649
+_cell_angle_alpha    94.7779
+_cell_angle_beta     98.921
+_cell_angle_gamma    123.169
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.99263  0.99320  0.00460  1.0000
+  Al  Al1       1.0  0.78681  0.41781  0.29601  1.0000
+  Al  Al2       1.0  0.19862  0.56774  0.71280  1.0000
+  H   H1        1.0  0.42091  0.35833  0.16400  1.0000
+  H   H2        1.0  0.74787  0.07936  0.19193  1.0000
+  H   H3        1.0  0.05776  0.74609  0.20720  1.0000
+  H   H4        1.0  0.24592  0.53438  0.46972  1.0000
+  H   H5        1.0  0.74166  0.45368  0.53963  1.0000
+  H   H6        1.0  0.92662  0.23725  0.79983  1.0000
+  H   H7        1.0  0.23789  0.90598  0.81799  1.0000
+  H   H8        1.0  0.56332  0.62617  0.84630  1.0000

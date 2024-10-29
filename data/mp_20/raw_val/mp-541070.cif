@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ta4Ni2Se10
+_chemical_formula_sum              "Ta4 Ni2 Se10"
+_cell_length_a       7.03669
+_cell_length_b       7.03669
+_cell_length_c       15.7869
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.096
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.22161  0.77839  0.11071  1.0000
+  Ta  Ta2       1.0  0.22161  0.77839  0.38929  1.0000
+  Ta  Ta3       1.0  0.77839  0.22161  0.88929  1.0000
+  Ta  Ta4       1.0  0.77839  0.22161  0.61071  1.0000
+  Ni  Ni1       1.0  0.70234  0.29766  0.25000  1.0000
+  Ni  Ni2       1.0  0.29766  0.70234  0.75000  1.0000
+  Se  Se1       1.0  0.58757  0.41243  0.13839  1.0000
+  Se  Se2       1.0  0.58757  0.41243  0.36161  1.0000
+  Se  Se3       1.0  0.41243  0.58757  0.86161  1.0000
+  Se  Se4       1.0  0.41243  0.58757  0.63839  1.0000
+  Se  Se5       1.0  0.15194  0.84806  0.95062  1.0000
+  Se  Se6       1.0  0.15194  0.84806  0.54938  1.0000
+  Se  Se7       1.0  0.84806  0.15194  0.04938  1.0000
+  Se  Se8       1.0  0.84806  0.15194  0.45062  1.0000
+  Se  Se9       1.0  0.32143  0.67857  0.25000  1.0000
+  Se  Se10      1.0  0.67857  0.32143  0.75000  1.0000

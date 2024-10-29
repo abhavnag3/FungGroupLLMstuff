@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SrMn2BiO6
+_chemical_formula_sum              "Sr1 Mn2 Bi1 O6"
+_cell_length_a       5.55133
+_cell_length_b       5.70552
+_cell_length_c       5.4719
+_cell_angle_alpha    60.4349
+_cell_angle_beta     61.4091
+_cell_angle_gamma    93.156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.02641  0.02642  0.94718  1.0000
+  Mn  Mn1       1.0  0.78751  0.28750  0.42500  1.0000
+  Mn  Mn2       1.0  0.28490  0.78491  0.43020  1.0000
+  Bi  Bi1       1.0  0.48167  0.48170  0.03660  1.0000
+  O   O1        1.0  0.04072  0.54069  0.91861  1.0000
+  O   O2        1.0  0.54278  0.04277  0.91445  1.0000
+  O   O3        1.0  0.55268  0.52116  0.39679  1.0000
+  O   O4        1.0  0.05052  0.08205  0.39679  1.0000
+  O   O5        1.0  0.06555  0.53839  0.39278  1.0000
+  O   O6        1.0  0.54170  0.06884  0.39274  1.0000

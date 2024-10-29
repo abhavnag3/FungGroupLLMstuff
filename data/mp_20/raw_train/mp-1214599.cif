@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Mo2O6F8
+_chemical_formula_sum              "Ba4 Mo2 O6 F8"
+_cell_length_a       7.53776
+_cell_length_b       7.53776
+_cell_length_c       7.30958
+_cell_angle_alpha    63.0686
+_cell_angle_beta     63.0686
+_cell_angle_gamma    78.8861
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.55874  0.32336  0.17888  1.0000
+  Ba  Ba2       1.0  0.32336  0.55874  0.67888  1.0000
+  Ba  Ba3       1.0  0.32317  0.97191  0.00642  1.0000
+  Ba  Ba4       1.0  0.97191  0.32317  0.50642  1.0000
+  Mo  Mo1       1.0  0.79448  0.85433  0.12180  1.0000
+  Mo  Mo2       1.0  0.85433  0.79448  0.62180  1.0000
+  O   O1        1.0  0.90837  0.08914  0.99966  1.0000
+  O   O2        1.0  0.08914  0.90837  0.49966  1.0000
+  O   O3        1.0  0.54437  0.90360  0.28179  1.0000
+  O   O4        1.0  0.90360  0.54437  0.78179  1.0000
+  O   O5        1.0  0.87327  0.74835  0.38104  1.0000
+  O   O6        1.0  0.74835  0.87327  0.88104  1.0000
+  F   F1        1.0  0.29434  0.59260  0.30096  1.0000
+  F   F2        1.0  0.59260  0.29434  0.80097  1.0000
+  F   F3        1.0  0.54237  0.72003  0.78156  1.0000
+  F   F4        1.0  0.72003  0.54237  0.28156  1.0000
+  F   F5        1.0  0.74098  0.07578  0.47817  1.0000
+  F   F6        1.0  0.07578  0.74098  0.97817  1.0000
+  F   F7        1.0  0.22162  0.29779  0.12322  1.0000
+  F   F8        1.0  0.29779  0.22162  0.62321  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsGeBr3
+_chemical_formula_sum              "Cs1 Ge1 Br3"
+_cell_length_a       5.78863
+_cell_length_b       5.78863
+_cell_length_c       5.72808
+_cell_angle_alpha    88.1967
+_cell_angle_beta     88.1967
+_cell_angle_gamma    90.4048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.10102  0.10102  0.59346  1.0000
+  Ge  Ge1       1.0  0.63092  0.63092  0.12967  1.0000
+  Br  Br1       1.0  0.59121  0.59121  0.57835  1.0000
+  Br  Br2       1.0  0.61567  0.07539  0.10280  1.0000
+  Br  Br3       1.0  0.07539  0.61567  0.10280  1.0000

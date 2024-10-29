@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pr4Mg4Si8
+_chemical_formula_sum              "Pr4 Mg4 Si8"
+_cell_length_a       18.6776
+_cell_length_b       18.6776
+_cell_length_c       18.6776
+_cell_angle_alpha    166.826
+_cell_angle_beta     166.826
+_cell_angle_gamma    18.6719
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.67257  0.17257  0.50000  1.0000
+  Pr  Pr2       1.0  0.82743  0.32743  0.50000  1.0000
+  Pr  Pr3       1.0  0.92257  0.92257  0.00000  1.0000
+  Pr  Pr4       1.0  0.07743  0.07743  0.00000  1.0000
+  Mg  Mg1       1.0  0.00013  0.50013  0.50000  1.0000
+  Mg  Mg2       1.0  0.49987  0.99987  0.50000  1.0000
+  Mg  Mg3       1.0  0.25013  0.25013  0.00000  1.0000
+  Mg  Mg4       1.0  0.74987  0.74987  0.00000  1.0000
+  Si  Si1       1.0  0.20226  0.70226  0.50000  1.0000
+  Si  Si2       1.0  0.36087  0.86087  0.50000  1.0000
+  Si  Si3       1.0  0.13913  0.63913  0.50000  1.0000
+  Si  Si4       1.0  0.38913  0.38913  0.00000  1.0000
+  Si  Si5       1.0  0.54774  0.54774  0.00000  1.0000
+  Si  Si6       1.0  0.61087  0.61087  0.00000  1.0000
+  Si  Si7       1.0  0.45226  0.45226  0.00000  1.0000
+  Si  Si8       1.0  0.29774  0.79774  0.50000  1.0000

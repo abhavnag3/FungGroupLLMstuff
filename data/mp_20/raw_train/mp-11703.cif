@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K2Sb2S4
+_chemical_formula_sum              "K2 Sb2 S4"
+_cell_length_a       6.48604
+_cell_length_b       6.48604
+_cell_length_c       6.97695
+_cell_angle_alpha    68.9797
+_cell_angle_beta     68.9797
+_cell_angle_gamma    93.7383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.85783  0.14217  0.75000  1.0000
+  K   K2        1.0  0.14217  0.85783  0.25000  1.0000
+  Sb  Sb1       1.0  0.58509  0.41491  0.25000  1.0000
+  Sb  Sb2       1.0  0.41491  0.58509  0.75000  1.0000
+  S   S1        1.0  0.62665  0.78046  0.27988  1.0000
+  S   S2        1.0  0.21954  0.37335  0.22012  1.0000
+  S   S3        1.0  0.78046  0.62665  0.77988  1.0000
+  S   S4        1.0  0.37335  0.21954  0.72012  1.0000

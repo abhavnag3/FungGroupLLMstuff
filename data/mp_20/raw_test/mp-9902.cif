@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sc4Co2Si4
+_chemical_formula_sum              "Sc4 Co2 Si4"
+_cell_length_a       5.31651
+_cell_length_b       5.31651
+_cell_length_c       9.43232
+_cell_angle_alpha    63.472
+_cell_angle_beta     63.472
+_cell_angle_gamma    43.6607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.31596  0.31596  0.10541  1.0000
+  Sc  Sc2       1.0  0.50029  0.50029  0.67176  1.0000
+  Sc  Sc3       1.0  0.68404  0.68404  0.89459  1.0000
+  Sc  Sc4       1.0  0.49971  0.49971  0.32824  1.0000
+  Co  Co1       1.0  0.77450  0.77450  0.37440  1.0000
+  Co  Co2       1.0  0.22549  0.22550  0.62560  1.0000
+  Si  Si1       1.0  0.98773  0.98773  0.87503  1.0000
+  Si  Si2       1.0  0.14497  0.14497  0.43076  1.0000
+  Si  Si3       1.0  0.01227  0.01227  0.12497  1.0000
+  Si  Si4       1.0  0.85503  0.85503  0.56924  1.0000

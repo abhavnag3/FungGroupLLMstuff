@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Tl2Hg2PdCl8
+_chemical_formula_sum              "Tl2 Hg2 Pd1 Cl8"
+_cell_length_a       6.75956
+_cell_length_b       6.75956
+_cell_length_c       10.1497
+_cell_angle_alpha    73.7961
+_cell_angle_beta     73.7961
+_cell_angle_gamma    61.9626
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.39664  0.39664  0.84179  1.0000
+  Tl  Tl2       1.0  0.60336  0.60336  0.15821  1.0000
+  Hg  Hg1       1.0  0.13397  0.13397  0.59975  1.0000
+  Hg  Hg2       1.0  0.86603  0.86603  0.40025  1.0000
+  Pd  Pd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.36939  0.89812  0.87406  1.0000
+  Cl  Cl2       1.0  0.89812  0.36939  0.87406  1.0000
+  Cl  Cl3       1.0  0.34691  0.34691  0.49830  1.0000
+  Cl  Cl4       1.0  0.63061  0.10188  0.12594  1.0000
+  Cl  Cl5       1.0  0.92009  0.92009  0.69144  1.0000
+  Cl  Cl6       1.0  0.65309  0.65309  0.50170  1.0000
+  Cl  Cl7       1.0  0.10188  0.63061  0.12594  1.0000
+  Cl  Cl8       1.0  0.07991  0.07991  0.30856  1.0000

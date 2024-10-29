@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       AgRhS2O8
+_chemical_formula_sum              "Ag1 Rh1 S2 O8"
+_cell_length_a       4.80481
+_cell_length_b       4.80481
+_cell_length_c       7.5136
+_cell_angle_alpha    87.0442
+_cell_angle_beta     87.0442
+_cell_angle_gamma    65.4904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.00000  0.00000  0.50000  1.0000
+  Rh  Rh1       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.36635  0.36635  0.78847  1.0000
+  S   S2        1.0  0.63365  0.63365  0.21153  1.0000
+  O   O1        1.0  0.29232  0.29232  0.61732  1.0000
+  O   O2        1.0  0.70768  0.70768  0.38268  1.0000
+  O   O3        1.0  0.71434  0.24083  0.79622  1.0000
+  O   O4        1.0  0.28566  0.75916  0.20378  1.0000
+  O   O5        1.0  0.75916  0.28566  0.20378  1.0000
+  O   O6        1.0  0.24083  0.71434  0.79622  1.0000
+  O   O7        1.0  0.25208  0.25208  0.95182  1.0000
+  O   O8        1.0  0.74792  0.74792  0.04818  1.0000

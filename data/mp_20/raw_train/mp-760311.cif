@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Na7SbO6
+_chemical_formula_sum              "Na7 Sb1 O6"
+_cell_length_a       6.393
+_cell_length_b       6.393
+_cell_length_c       6.393
+_cell_angle_alpha    61.1645
+_cell_angle_beta     61.1645
+_cell_angle_gamma    61.1644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.70648  0.11418  0.49664  1.0000
+  Na  Na2       1.0  0.95722  0.48259  0.24986  1.0000
+  Na  Na3       1.0  0.48259  0.24986  0.95722  1.0000
+  Na  Na4       1.0  0.65561  0.65561  0.65561  1.0000
+  Na  Na5       1.0  0.11418  0.49664  0.70648  1.0000
+  Na  Na6       1.0  0.49664  0.70648  0.11418  1.0000
+  Na  Na7       1.0  0.24986  0.95722  0.48259  1.0000
+  Sb  Sb1       1.0  0.00095  0.00095  0.00095  1.0000
+  O   O1        1.0  0.88988  0.21319  0.67751  1.0000
+  O   O2        1.0  0.81279  0.33782  0.07522  1.0000
+  O   O3        1.0  0.33782  0.07522  0.81279  1.0000
+  O   O4        1.0  0.67751  0.88988  0.21319  1.0000
+  O   O5        1.0  0.21319  0.67751  0.88987  1.0000
+  O   O6        1.0  0.07522  0.81279  0.33782  1.0000

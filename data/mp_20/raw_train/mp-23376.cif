@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ga2Se2Br14
+_chemical_formula_sum              "Ga2 Se2 Br14"
+_cell_length_a       6.77328
+_cell_length_b       7.00652
+_cell_length_c       15.3128
+_cell_angle_alpha    75.9267
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.99787  0.33719  0.50158  1.0000
+  Ga  Ga2       1.0  0.00213  0.33719  0.00159  1.0000
+  Se  Se1       1.0  0.59335  0.05120  0.66201  1.0000
+  Se  Se2       1.0  0.40665  0.05120  0.16201  1.0000
+  Br  Br1       1.0  0.60566  0.17192  0.26419  1.0000
+  Br  Br2       1.0  0.39435  0.17192  0.76419  1.0000
+  Br  Br3       1.0  0.12615  0.01769  0.00477  1.0000
+  Br  Br4       1.0  0.87385  0.01769  0.50477  1.0000
+  Br  Br5       1.0  0.12980  0.40794  0.13574  1.0000
+  Br  Br6       1.0  0.87020  0.40794  0.63574  1.0000
+  Br  Br7       1.0  0.13314  0.55934  0.87292  1.0000
+  Br  Br8       1.0  0.86686  0.55934  0.37292  1.0000
+  Br  Br9       1.0  0.65592  0.36135  0.99711  1.0000
+  Br  Br10      1.0  0.34408  0.36135  0.49711  1.0000
+  Br  Br11      1.0  0.38954  0.79846  0.63234  1.0000
+  Br  Br12      1.0  0.61046  0.79846  0.13234  1.0000
+  Br  Br13      1.0  0.81408  0.84766  0.76621  1.0000
+  Br  Br14      1.0  0.18592  0.84766  0.26621  1.0000

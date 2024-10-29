@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Eu2CN2Cl2
+_chemical_formula_sum              "Eu2 C1 N2 Cl2"
+_cell_length_a       5.2797
+_cell_length_b       5.2797
+_cell_length_c       7.24252
+_cell_angle_alpha    82.4564
+_cell_angle_beta     82.4564
+_cell_angle_gamma    47.1945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.68191  0.68191  0.72883  1.0000
+  Eu  Eu2       1.0  0.31809  0.31809  0.27117  1.0000
+  C   C1        1.0  0.00000  0.00000  0.50000  1.0000
+  N   N1        1.0  0.88360  0.88360  0.44748  1.0000
+  N   N2        1.0  0.11640  0.11640  0.55252  1.0000
+  Cl  Cl1       1.0  0.37035  0.37035  0.85050  1.0000
+  Cl  Cl2       1.0  0.62965  0.62965  0.14950  1.0000

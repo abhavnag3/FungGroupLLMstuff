@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4I8
+_chemical_formula_sum              "Eu4 I8"
+_cell_length_a       8.23769
+_cell_length_b       7.81653
+_cell_length_c       8.02929
+_cell_angle_alpha    80.7741
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.94565  0.21541  0.18987  1.0000
+  Eu  Eu2       1.0  0.44565  0.78459  0.31013  1.0000
+  Eu  Eu3       1.0  0.05435  0.78459  0.81013  1.0000
+  Eu  Eu4       1.0  0.55435  0.21541  0.68987  1.0000
+  I   I1        1.0  0.76937  0.92953  0.50474  1.0000
+  I   I2        1.0  0.26937  0.07047  0.99526  1.0000
+  I   I3        1.0  0.23063  0.07047  0.49526  1.0000
+  I   I4        1.0  0.73063  0.92953  0.00474  1.0000
+  I   I5        1.0  0.88910  0.40581  0.79220  1.0000
+  I   I6        1.0  0.38910  0.59419  0.70780  1.0000
+  I   I7        1.0  0.11090  0.59419  0.20780  1.0000
+  I   I8        1.0  0.61090  0.40581  0.29220  1.0000

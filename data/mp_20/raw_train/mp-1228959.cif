@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       CsPr2Ti2NbO10
+_chemical_formula_sum              "Cs1 Pr2 Ti2 Nb1 O10"
+_cell_length_a       3.88493
+_cell_length_b       3.88493
+_cell_length_c       15.7349
+_cell_angle_alpha    89.5813
+_cell_angle_beta     90.4187
+_cell_angle_gamma    90.1495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.49990  0.50010  0.51304  1.0000
+  Pr  Pr1       1.0  0.51039  0.48961  0.84559  1.0000
+  Pr  Pr2       1.0  0.50835  0.49165  0.12768  1.0000
+  Ti  Ti1       1.0  0.99093  0.00907  0.99863  1.0000
+  Ti  Ti2       1.0  0.00027  0.99973  0.71618  1.0000
+  Nb  Nb1       1.0  0.99920  0.00080  0.27892  1.0000
+  O   O1        1.0  0.98189  0.01811  0.87927  1.0000
+  O   O2        1.0  0.97730  0.02270  0.12725  1.0000
+  O   O3        1.0  0.49869  0.99843  0.75165  1.0000
+  O   O4        1.0  0.00157  0.50131  0.75165  1.0000
+  O   O5        1.0  0.49400  0.00916  0.24613  1.0000
+  O   O6        1.0  0.99084  0.50600  0.24613  1.0000
+  O   O7        1.0  0.99813  0.00187  0.60799  1.0000
+  O   O8        1.0  0.00318  0.99682  0.39266  1.0000
+  O   O9        1.0  0.47758  0.03823  0.00862  1.0000
+  O   O10       1.0  0.96177  0.52242  0.00862  1.0000

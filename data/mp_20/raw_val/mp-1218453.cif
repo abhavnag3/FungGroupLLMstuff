@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr2Ce2Sc2O8
+_chemical_formula_sum              "Sr2 Ce2 Sc2 O8"
+_cell_length_a       6.83348
+_cell_length_b       6.83348
+_cell_length_c       5.88053
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    130.539
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.89565  0.10435  0.48520  1.0000
+  Sr  Sr2       1.0  0.10435  0.89565  0.98520  1.0000
+  Ce  Ce1       1.0  0.60744  0.39256  0.51638  1.0000
+  Ce  Ce2       1.0  0.39256  0.60744  0.01638  1.0000
+  Sc  Sc1       1.0  0.24493  0.75507  0.50497  1.0000
+  Sc  Sc2       1.0  0.75507  0.24493  0.00497  1.0000
+  O   O1        1.0  0.97199  0.51737  0.25812  1.0000
+  O   O2        1.0  0.02801  0.48263  0.75812  1.0000
+  O   O3        1.0  0.51737  0.97199  0.75812  1.0000
+  O   O4        1.0  0.48263  0.02801  0.25812  1.0000
+  O   O5        1.0  0.91641  0.08359  0.06531  1.0000
+  O   O6        1.0  0.56603  0.43397  0.91190  1.0000
+  O   O7        1.0  0.08359  0.91641  0.56531  1.0000
+  O   O8        1.0  0.43397  0.56603  0.41190  1.0000

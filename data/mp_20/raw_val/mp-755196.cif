@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       LiV4O5F7
+_chemical_formula_sum              "Li1 V4 O5 F7"
+_cell_length_a       5.26576
+_cell_length_b       5.45423
+_cell_length_c       7.25544
+_cell_angle_alpha    93.769
+_cell_angle_beta     90.4267
+_cell_angle_gamma    90.6488
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.98007  0.58069  0.20052  1.0000
+  V   V1        1.0  0.50980  0.49405  0.47879  1.0000
+  V   V2        1.0  0.48247  0.49352  0.97516  1.0000
+  V   V3        1.0  0.01200  0.03142  0.02052  1.0000
+  V   V4        1.0  0.00255  0.99747  0.51620  1.0000
+  O   O1        1.0  0.92324  0.98139  0.25424  1.0000
+  O   O2        1.0  0.59536  0.49996  0.25196  1.0000
+  O   O3        1.0  0.42582  0.50347  0.74472  1.0000
+  O   O4        1.0  0.18486  0.31548  0.04747  1.0000
+  O   O5        1.0  0.07065  0.99178  0.74775  1.0000
+  F   F1        1.0  0.81428  0.31162  0.54564  1.0000
+  F   F2        1.0  0.80899  0.69092  0.96840  1.0000
+  F   F3        1.0  0.69066  0.19545  0.96006  1.0000
+  F   F4        1.0  0.68252  0.80850  0.54546  1.0000
+  F   F5        1.0  0.31440  0.18559  0.45468  1.0000
+  F   F6        1.0  0.29961  0.79921  0.05380  1.0000
+  F   F7        1.0  0.18232  0.67112  0.44119  1.0000

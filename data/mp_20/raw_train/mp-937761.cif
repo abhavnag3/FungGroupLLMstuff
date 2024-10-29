@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li7ZrO6
+_chemical_formula_sum              "Li7 Zr1 O6"
+_cell_length_a       6.03888
+_cell_length_b       6.03888
+_cell_length_c       6.03888
+_cell_angle_alpha    56.0022
+_cell_angle_beta     56.0022
+_cell_angle_gamma    56.0022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.49131  0.92798  0.22983  1.0000
+  Li  Li2       1.0  0.72935  0.49487  0.12493  1.0000
+  Li  Li3       1.0  0.12493  0.72935  0.49487  1.0000
+  Li  Li4       1.0  0.65329  0.65329  0.65329  1.0000
+  Li  Li5       1.0  0.92798  0.22982  0.49131  1.0000
+  Li  Li6       1.0  0.22983  0.49131  0.92798  1.0000
+  Li  Li7       1.0  0.49487  0.12493  0.72935  1.0000
+  Zr  Zr1       1.0  0.00020  0.00019  0.00019  1.0000
+  O   O1        1.0  0.38727  0.79682  0.07015  1.0000
+  O   O2        1.0  0.88099  0.63003  0.23809  1.0000
+  O   O3        1.0  0.23809  0.88099  0.63003  1.0000
+  O   O4        1.0  0.79682  0.07015  0.38727  1.0000
+  O   O5        1.0  0.07015  0.38727  0.79682  1.0000
+  O   O6        1.0  0.63003  0.23809  0.88099  1.0000

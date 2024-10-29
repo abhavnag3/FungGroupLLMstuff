@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Th6Au8
+_chemical_formula_sum              "Th6 Au8"
+_cell_length_a       8.30299
+_cell_length_b       8.30299
+_cell_length_c       8.30299
+_cell_angle_alpha    113.884
+_cell_angle_beta     113.884
+_cell_angle_gamma    113.884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.02616  0.40409  0.28340  1.0000
+  Th  Th2       1.0  0.40409  0.28340  0.02616  1.0000
+  Th  Th3       1.0  0.71660  0.97384  0.59591  1.0000
+  Th  Th4       1.0  0.28340  0.02616  0.40409  1.0000
+  Th  Th5       1.0  0.59591  0.71660  0.97384  1.0000
+  Th  Th6       1.0  0.97384  0.59591  0.71660  1.0000
+  Au  Au1       1.0  0.00000  0.00000  0.00000  1.0000
+  Au  Au2       1.0  0.50000  0.50000  0.50000  1.0000
+  Au  Au3       1.0  0.43821  0.93253  0.77109  1.0000
+  Au  Au4       1.0  0.93253  0.77109  0.43821  1.0000
+  Au  Au5       1.0  0.22891  0.56179  0.06747  1.0000
+  Au  Au6       1.0  0.77109  0.43821  0.93253  1.0000
+  Au  Au7       1.0  0.06747  0.22891  0.56179  1.0000
+  Au  Au8       1.0  0.56179  0.06747  0.22891  1.0000

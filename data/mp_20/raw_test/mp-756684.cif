@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Sr2Li2Nb3O10
+_chemical_formula_sum              "Sr2 Li2 Nb3 O10"
+_cell_length_a       13.6092
+_cell_length_b       13.6088
+_cell_length_c       4.03693
+_cell_angle_alpha    81.4755
+_cell_angle_beta     81.4656
+_cell_angle_gamma    17.0589
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.41675  0.41849  0.58151  1.0000
+  Sr  Sr2       1.0  0.58151  0.58325  0.41675  1.0000
+  Li  Li1       1.0  0.74998  0.75002  0.74998  1.0000
+  Li  Li2       1.0  0.24998  0.25002  0.24998  1.0000
+  Nb  Nb1       1.0  0.98599  0.01400  0.98599  1.0000
+  Nb  Nb2       1.0  0.15788  0.15719  0.84281  1.0000
+  Nb  Nb3       1.0  0.84281  0.84212  0.15788  1.0000
+  O   O1        1.0  0.07041  0.08196  0.91804  1.0000
+  O   O2        1.0  0.64821  0.65013  0.85055  1.0000
+  O   O3        1.0  0.22841  0.22938  0.77062  1.0000
+  O   O4        1.0  0.85055  0.85110  0.64821  1.0000
+  O   O5        1.0  0.77062  0.77159  0.22841  1.0000
+  O   O6        1.0  0.91804  0.92959  0.07041  1.0000
+  O   O7        1.0  0.48625  0.51375  0.97872  1.0000
+  O   O8        1.0  0.14890  0.14944  0.34987  1.0000
+  O   O9        1.0  0.97872  0.02128  0.48625  1.0000
+  O   O10       1.0  0.34987  0.35179  0.14890  1.0000

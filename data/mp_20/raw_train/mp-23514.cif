@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi4S4I4
+_chemical_formula_sum              "Bi4 S4 I4"
+_cell_length_a       4.2081
+_cell_length_b       8.88705
+_cell_length_c       11.0713
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000  0.89007  0.87615  1.0000
+  Bi  Bi2       1.0  0.75000  0.10993  0.12385  1.0000
+  Bi  Bi3       1.0  0.25000  0.39007  0.62385  1.0000
+  Bi  Bi4       1.0  0.75000  0.60993  0.37615  1.0000
+  S   S1        1.0  0.75000  0.83822  0.03509  1.0000
+  S   S2        1.0  0.25000  0.66178  0.53509  1.0000
+  S   S3        1.0  0.75000  0.33821  0.46491  1.0000
+  S   S4        1.0  0.25000  0.16179  0.96491  1.0000
+  I   I1        1.0  0.25000  0.97879  0.31693  1.0000
+  I   I2        1.0  0.75000  0.52121  0.81693  1.0000
+  I   I3        1.0  0.25000  0.47879  0.18307  1.0000
+  I   I4        1.0  0.75000  0.02121  0.68307  1.0000

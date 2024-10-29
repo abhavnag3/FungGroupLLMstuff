@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cr6BC3
+_chemical_formula_sum              "Cr6 B1 C3"
+_cell_length_a       4.82007
+_cell_length_b       4.82007
+_cell_length_c       6.93823
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    145.668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.85435  0.14565  0.18543  1.0000
+  Cr  Cr2       1.0  0.13751  0.86249  0.31636  1.0000
+  Cr  Cr3       1.0  0.85435  0.14565  0.81457  1.0000
+  Cr  Cr4       1.0  0.13751  0.86249  0.68364  1.0000
+  Cr  Cr5       1.0  0.60337  0.39663  0.00000  1.0000
+  Cr  Cr6       1.0  0.41642  0.58358  0.50000  1.0000
+  B   B1        1.0  0.75520  0.24480  0.50000  1.0000
+  C   C1        1.0  0.49726  0.50274  0.24239  1.0000
+  C   C2        1.0  0.49726  0.50274  0.75761  1.0000
+  C   C3        1.0  0.24677  0.75323  0.00000  1.0000

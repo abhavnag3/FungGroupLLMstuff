@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti6Ge6Os6
+_chemical_formula_sum              "Ti6 Ge6 Os6"
+_cell_length_a       6.61507
+_cell_length_b       7.27303
+_cell_length_c       7.54968
+_cell_angle_alpha    118.795
+_cell_angle_beta     115.983
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24309  0.47515  0.45029  1.0000
+  Ti  Ti2       1.0  0.79280  0.52485  0.54971  1.0000
+  Ti  Ti3       1.0  0.66607  0.74924  0.99847  1.0000
+  Ti  Ti4       1.0  0.66760  0.25076  0.00153  1.0000
+  Ti  Ti5       1.0  0.84888  0.05334  0.60668  1.0000
+  Ti  Ti6       1.0  0.24221  0.94666  0.39332  1.0000
+  Ge  Ge1       1.0  0.29311  0.28663  0.07325  1.0000
+  Ge  Ge2       1.0  0.21986  0.71337  0.92675  1.0000
+  Ge  Ge3       1.0  0.57844  0.83647  0.66537  1.0000
+  Ge  Ge4       1.0  0.91307  0.16353  0.33463  1.0000
+  Ge  Ge5       1.0  0.91307  0.67110  0.33463  1.0000
+  Ge  Ge6       1.0  0.57844  0.32890  0.66537  1.0000
+  Os  Os1       1.0  0.99517  0.00000  0.00000  1.0000
+  Os  Os2       1.0  0.99517  0.50000  0.00000  1.0000
+  Os  Os3       1.0  0.50005  0.66799  0.25339  1.0000
+  Os  Os4       1.0  0.24666  0.33201  0.74661  1.0000
+  Os  Os5       1.0  0.24666  0.91460  0.74661  1.0000
+  Os  Os6       1.0  0.50005  0.08540  0.25339  1.0000

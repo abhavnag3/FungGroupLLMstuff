@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ce2B4Ru4
+_chemical_formula_sum              "Ce2 B4 Ru4"
+_cell_length_a       6.71765
+_cell_length_b       5.98982
+_cell_length_c       5.55951
+_cell_angle_alpha    71.0217
+_cell_angle_beta     57.478
+_cell_angle_gamma    51.5003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.25000  0.25000  0.25000  1.0000
+  Ce  Ce2       1.0  0.00000  0.00000  0.00000  1.0000
+  B   B1        1.0  0.56634  0.93366  0.56634  1.0000
+  B   B2        1.0  0.93366  0.56634  0.93366  1.0000
+  B   B3        1.0  0.31634  0.68366  0.31634  1.0000
+  B   B4        1.0  0.68366  0.31634  0.68366  1.0000
+  Ru  Ru1       1.0  0.61194  0.61194  0.88806  1.0000
+  Ru  Ru2       1.0  0.88806  0.88806  0.61194  1.0000
+  Ru  Ru3       1.0  0.36194  0.36194  0.63806  1.0000
+  Ru  Ru4       1.0  0.63806  0.63806  0.36194  1.0000

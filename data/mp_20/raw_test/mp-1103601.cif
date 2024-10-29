@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Fe2Si2BiO9
+_chemical_formula_sum              "Fe2 Si2 Bi1 O9"
+_cell_length_a       5.21832
+_cell_length_b       5.21832
+_cell_length_c       8.04307
+_cell_angle_alpha    96.1286
+_cell_angle_beta     96.1286
+_cell_angle_gamma    118.828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.65290  0.32670  0.99900  1.0000
+  Fe  Fe2       1.0  0.32670  0.65290  0.99900  1.0000
+  Si  Si1       1.0  0.86851  0.52620  0.64175  1.0000
+  Si  Si2       1.0  0.52620  0.86851  0.64175  1.0000
+  Bi  Bi1       1.0  0.08188  0.08188  0.27025  1.0000
+  O   O1        1.0  0.02774  0.39038  0.13355  1.0000
+  O   O2        1.0  0.39038  0.02774  0.13355  1.0000
+  O   O3        1.0  0.68369  0.68369  0.14167  1.0000
+  O   O4        1.0  0.94908  0.57242  0.84737  1.0000
+  O   O5        1.0  0.57242  0.94908  0.84737  1.0000
+  O   O6        1.0  0.34174  0.34174  0.86495  1.0000
+  O   O7        1.0  0.16997  0.67384  0.55677  1.0000
+  O   O8        1.0  0.67384  0.16997  0.55677  1.0000
+  O   O9        1.0  0.67295  0.67295  0.57225  1.0000

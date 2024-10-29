@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba4Ca4Si4
+_chemical_formula_sum              "Ba4 Ca4 Si4"
+_cell_length_a       5.07255
+_cell_length_b       8.57784
+_cell_length_c       9.19073
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.02848  0.17575  1.0000
+  Ba  Ba2       1.0  0.75000  0.97152  0.82425  1.0000
+  Ba  Ba3       1.0  0.25000  0.52848  0.32426  1.0000
+  Ba  Ba4       1.0  0.75000  0.47152  0.67575  1.0000
+  Ca  Ca1       1.0  0.75000  0.35864  0.07424  1.0000
+  Ca  Ca2       1.0  0.25000  0.64136  0.92576  1.0000
+  Ca  Ca3       1.0  0.75000  0.85864  0.42576  1.0000
+  Ca  Ca4       1.0  0.25000  0.14136  0.57424  1.0000
+  Si  Si1       1.0  0.25000  0.78157  0.60859  1.0000
+  Si  Si2       1.0  0.75000  0.21843  0.39141  1.0000
+  Si  Si3       1.0  0.25000  0.28157  0.89141  1.0000
+  Si  Si4       1.0  0.75000  0.71843  0.10859  1.0000

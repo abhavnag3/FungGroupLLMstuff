@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Fe7SiO10
+_chemical_formula_sum              "Fe7 Si1 O10"
+_cell_length_a       10.9885
+_cell_length_b       10.9885
+_cell_length_c       6.08488
+_cell_angle_alpha    82.092
+_cell_angle_beta     82.092
+_cell_angle_gamma    15.9436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.09019  0.09019  0.70007  1.0000
+  Fe  Fe2       1.0  0.90942  0.90942  0.29461  1.0000
+  Fe  Fe3       1.0  0.30187  0.30187  0.09525  1.0000
+  Fe  Fe4       1.0  0.69477  0.69477  0.91417  1.0000
+  Fe  Fe5       1.0  0.30200  0.30200  0.60347  1.0000
+  Fe  Fe6       1.0  0.69649  0.69649  0.39609  1.0000
+  Fe  Fe7       1.0  0.44495  0.44495  0.77667  1.0000
+  Si  Si1       1.0  0.55847  0.55847  0.21930  1.0000
+  O   O1        1.0  0.01835  0.01835  0.23703  1.0000
+  O   O2        1.0  0.99664  0.99664  0.75666  1.0000
+  O   O3        1.0  0.20922  0.20922  0.15560  1.0000
+  O   O4        1.0  0.79409  0.79409  0.86589  1.0000
+  O   O5        1.0  0.19308  0.19308  0.64917  1.0000
+  O   O6        1.0  0.80208  0.80208  0.33418  1.0000
+  O   O7        1.0  0.39602  0.39602  0.06178  1.0000
+  O   O8        1.0  0.59831  0.59831  0.97019  1.0000
+  O   O9        1.0  0.39803  0.39803  0.53653  1.0000
+  O   O10       1.0  0.59601  0.59601  0.43331  1.0000

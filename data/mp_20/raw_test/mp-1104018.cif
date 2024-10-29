@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Nd5Mn2B6
+_chemical_formula_sum              "Nd5 Mn2 B6"
+_cell_length_a       5.49634
+_cell_length_b       5.49634
+_cell_length_c       8.70374
+_cell_angle_alpha    71.5941
+_cell_angle_beta     71.5941
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nd  Nd2       1.0  0.25096  0.25096  0.24713  1.0000
+  Nd  Nd3       1.0  0.74904  0.74904  0.75287  1.0000
+  Nd  Nd4       1.0  0.41715  0.41715  0.74856  1.0000
+  Nd  Nd5       1.0  0.58285  0.58285  0.25144  1.0000
+  Mn  Mn1       1.0  0.11895  0.11895  0.64315  1.0000
+  Mn  Mn2       1.0  0.88105  0.88105  0.35685  1.0000
+  B   B1        1.0  0.16412  0.83588  0.50000  1.0000
+  B   B2        1.0  0.83588  0.50000  0.50000  1.0000
+  B   B3        1.0  0.50000  0.16412  0.50000  1.0000
+  B   B4        1.0  0.16412  0.50000  0.50000  1.0000
+  B   B5        1.0  0.50000  0.83588  0.50000  1.0000
+  B   B6        1.0  0.83588  0.16412  0.50000  1.0000

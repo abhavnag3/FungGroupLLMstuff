@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ce2B8Ir4Os4
+_chemical_formula_sum              "Ce2 B8 Ir4 Os4"
+_cell_length_a       7.62375
+_cell_length_b       7.62375
+_cell_length_c       4.01006
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.00000  0.50000  0.24563  1.0000
+  Ce  Ce2       1.0  0.50000  0.00000  0.74564  1.0000
+  B   B1        1.0  0.78398  0.16065  0.36404  1.0000
+  B   B2        1.0  0.21602  0.83935  0.36404  1.0000
+  B   B3        1.0  0.83935  0.78398  0.86404  1.0000
+  B   B4        1.0  0.16065  0.21602  0.86404  1.0000
+  B   B5        1.0  0.72165  0.33792  0.64079  1.0000
+  B   B6        1.0  0.27835  0.66208  0.64079  1.0000
+  B   B7        1.0  0.66208  0.72165  0.14079  1.0000
+  B   B8        1.0  0.33792  0.27835  0.14079  1.0000
+  Ir  Ir1       1.0  0.39013  0.65841  0.13738  1.0000
+  Ir  Ir2       1.0  0.60987  0.34159  0.13738  1.0000
+  Ir  Ir3       1.0  0.34159  0.39013  0.63738  1.0000
+  Ir  Ir4       1.0  0.65841  0.60987  0.63738  1.0000
+  Os  Os1       1.0  0.10964  0.85428  0.85997  1.0000
+  Os  Os2       1.0  0.89036  0.14572  0.85997  1.0000
+  Os  Os3       1.0  0.14572  0.10964  0.35997  1.0000
+  Os  Os4       1.0  0.85428  0.89036  0.35997  1.0000

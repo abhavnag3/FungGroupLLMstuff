@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ce4Ga4Pt4
+_chemical_formula_sum              "Ce4 Ga4 Pt4"
+_cell_length_a       4.4292
+_cell_length_b       7.0865
+_cell_length_c       7.88168
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.25000  0.98396  0.29981  1.0000
+  Ce  Ce2       1.0  0.25000  0.48396  0.20019  1.0000
+  Ce  Ce3       1.0  0.75000  0.01604  0.70019  1.0000
+  Ce  Ce4       1.0  0.75000  0.51604  0.79981  1.0000
+  Ga  Ga1       1.0  0.25000  0.32851  0.57676  1.0000
+  Ga  Ga2       1.0  0.25000  0.82851  0.92324  1.0000
+  Ga  Ga3       1.0  0.75000  0.67149  0.42324  1.0000
+  Ga  Ga4       1.0  0.75000  0.17149  0.07676  1.0000
+  Pt  Pt1       1.0  0.25000  0.22342  0.90404  1.0000
+  Pt  Pt2       1.0  0.25000  0.72342  0.59596  1.0000
+  Pt  Pt3       1.0  0.75000  0.77658  0.09596  1.0000
+  Pt  Pt4       1.0  0.75000  0.27658  0.40404  1.0000

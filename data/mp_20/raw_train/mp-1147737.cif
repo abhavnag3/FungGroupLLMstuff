@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Li4ZnP2S8
+_chemical_formula_sum              "Li4 Zn1 P2 S8"
+_cell_length_a       5.7843
+_cell_length_b       6.23958
+_cell_length_c       10.1974
+_cell_angle_alpha    79.8588
+_cell_angle_beta     73.9672
+_cell_angle_gamma    62.5324
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.23032  0.26712  0.24003  1.0000
+  Li  Li2       1.0  0.50154  0.48767  0.50988  1.0000
+  Li  Li3       1.0  0.99386  0.01638  0.99246  1.0000
+  Li  Li4       1.0  0.86814  0.88469  0.35638  1.0000
+  Zn  Zn1       1.0  0.76722  0.73452  0.75904  1.0000
+  P   P1        1.0  0.14336  0.11695  0.62315  1.0000
+  P   P2        1.0  0.60976  0.62912  0.12956  1.0000
+  S   S1        1.0  0.23806  0.91928  0.16767  1.0000
+  S   S2        1.0  0.76733  0.39640  0.68123  1.0000
+  S   S3        1.0  0.31695  0.03663  0.78663  1.0000
+  S   S4        1.0  0.77634  0.56200  0.29697  1.0000
+  S   S5        1.0  0.38038  0.19652  0.45201  1.0000
+  S   S6        1.0  0.88350  0.69546  0.96625  1.0000
+  S   S7        1.0  0.07150  0.83922  0.57836  1.0000
+  S   S8        1.0  0.57674  0.34304  0.08540  1.0000

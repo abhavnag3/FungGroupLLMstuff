@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn2W2O8
+_chemical_formula_sum              "Zn2 W2 O8"
+_cell_length_a       7.42901
+_cell_length_b       7.42901
+_cell_length_c       4.88081
+_cell_angle_alpha    73.0567
+_cell_angle_beta     73.0567
+_cell_angle_gamma    127.923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.61537  0.38463  0.25000  1.0000
+  Zn  Zn2       1.0  0.38463  0.61537  0.75000  1.0000
+  W   W1        1.0  0.08271  0.91729  0.25000  1.0000
+  W   W2        1.0  0.91729  0.08271  0.75000  1.0000
+  O   O1        1.0  0.59704  0.93088  0.78589  1.0000
+  O   O2        1.0  0.26374  0.17663  0.73954  1.0000
+  O   O3        1.0  0.93088  0.59704  0.28589  1.0000
+  O   O4        1.0  0.17663  0.26374  0.23954  1.0000
+  O   O5        1.0  0.40296  0.06912  0.21411  1.0000
+  O   O6        1.0  0.06912  0.40296  0.71411  1.0000
+  O   O7        1.0  0.73626  0.82337  0.26046  1.0000
+  O   O8        1.0  0.82337  0.73626  0.76046  1.0000

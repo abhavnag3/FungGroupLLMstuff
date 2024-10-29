@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Pr6Al6Cu3Ni3
+_chemical_formula_sum              "Pr6 Al6 Cu3 Ni3"
+_cell_length_a       4.2399
+_cell_length_b       7.17279
+_cell_length_c       12.0797
+_cell_angle_alpha    89.8901
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.50000  0.08392  0.49577  1.0000
+  Pr  Pr2       1.0  0.50000  0.58809  0.00144  1.0000
+  Pr  Pr3       1.0  0.50000  0.20039  0.21002  1.0000
+  Pr  Pr4       1.0  0.50000  0.70898  0.70665  1.0000
+  Pr  Pr5       1.0  0.50000  0.71524  0.29449  1.0000
+  Pr  Pr6       1.0  0.50000  0.20690  0.79269  1.0000
+  Al  Al1       1.0  0.00000  0.72408  0.49790  1.0000
+  Al  Al2       1.0  0.00000  0.22251  0.00030  1.0000
+  Al  Al3       1.0  0.00000  0.38633  0.38799  1.0000
+  Al  Al4       1.0  0.00000  0.88867  0.88908  1.0000
+  Al  Al5       1.0  0.00000  0.89071  0.11361  1.0000
+  Al  Al6       1.0  0.00000  0.38829  0.61070  1.0000
+  Cu  Cu1       1.0  0.00000  0.49837  0.83293  1.0000
+  Cu  Cu2       1.0  0.00000  0.49722  0.16883  1.0000
+  Cu  Cu3       1.0  0.00000  0.00047  0.66582  1.0000
+  Ni  Ni1       1.0  0.50000  0.00085  0.99996  1.0000
+  Ni  Ni2       1.0  0.50000  0.50112  0.50000  1.0000
+  Ni  Ni3       1.0  0.00000  0.99768  0.33182  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca4Fe4Se4O4
+_chemical_formula_sum              "Ca4 Fe4 Se4 O4"
+_cell_length_a       3.9373
+_cell_length_b       6.0342
+_cell_length_c       13.4944
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.25111  0.08158  1.0000
+  Ca  Ca2       1.0  0.75000  0.75111  0.41842  1.0000
+  Ca  Ca3       1.0  0.25000  0.74889  0.91842  1.0000
+  Ca  Ca4       1.0  0.25000  0.24889  0.58158  1.0000
+  Fe  Fe1       1.0  0.75000  0.38765  0.79442  1.0000
+  Fe  Fe2       1.0  0.75000  0.88765  0.70558  1.0000
+  Fe  Fe3       1.0  0.25000  0.61235  0.20558  1.0000
+  Fe  Fe4       1.0  0.25000  0.11235  0.29442  1.0000
+  Se  Se1       1.0  0.75000  0.25771  0.40558  1.0000
+  Se  Se2       1.0  0.75000  0.75771  0.09441  1.0000
+  Se  Se3       1.0  0.25000  0.74229  0.59442  1.0000
+  Se  Se4       1.0  0.25000  0.24229  0.90558  1.0000
+  O   O1        1.0  0.75000  0.20727  0.67258  1.0000
+  O   O2        1.0  0.75000  0.70727  0.82742  1.0000
+  O   O3        1.0  0.25000  0.79273  0.32742  1.0000
+  O   O4        1.0  0.25000  0.29273  0.17258  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4Cl8
+_chemical_formula_sum              "Eu4 Cl8"
+_cell_length_a       4.55817
+_cell_length_b       7.54577
+_cell_length_c       9.04117
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.25000  0.24510  0.89037  1.0000
+  Eu  Eu2       1.0  0.75000  0.75490  0.10963  1.0000
+  Eu  Eu3       1.0  0.25000  0.74510  0.60963  1.0000
+  Eu  Eu4       1.0  0.75000  0.25490  0.39037  1.0000
+  Cl  Cl1       1.0  0.25000  0.01809  0.16155  1.0000
+  Cl  Cl2       1.0  0.75000  0.98191  0.83845  1.0000
+  Cl  Cl3       1.0  0.25000  0.51809  0.33845  1.0000
+  Cl  Cl4       1.0  0.75000  0.48191  0.66155  1.0000
+  Cl  Cl5       1.0  0.75000  0.35883  0.07595  1.0000
+  Cl  Cl6       1.0  0.25000  0.64117  0.92405  1.0000
+  Cl  Cl7       1.0  0.75000  0.85883  0.42405  1.0000
+  Cl  Cl8       1.0  0.25000  0.14117  0.57595  1.0000

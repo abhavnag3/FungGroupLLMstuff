@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Er2Cu4
+_chemical_formula_sum              "Er2 Cu4"
+_cell_length_a       5.38953
+_cell_length_b       5.38953
+_cell_length_c       5.38953
+_cell_angle_alpha    133.069
+_cell_angle_beta     102.577
+_cell_angle_gamma    95.7027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.20806  0.45805  0.75000  1.0000
+  Er  Er2       1.0  0.79195  0.54195  0.25000  1.0000
+  Cu  Cu1       1.0  0.38500  0.83474  0.55026  1.0000
+  Cu  Cu2       1.0  0.61500  0.16526  0.44975  1.0000
+  Cu  Cu3       1.0  0.21551  0.16526  0.05026  1.0000
+  Cu  Cu4       1.0  0.78449  0.83474  0.94974  1.0000

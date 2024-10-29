@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       VCo2Se4
+_chemical_formula_sum              "V1 Co2 Se4"
+_cell_length_a       3.44489
+_cell_length_b       6.05339
+_cell_length_c       6.48133
+_cell_angle_alpha    115.226
+_cell_angle_beta     74.5882
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.74516  0.31172  0.50968  1.0000
+  Co  Co1       1.0  0.99201  0.00727  0.01597  1.0000
+  Co  Co2       1.0  0.26314  0.68475  0.47372  1.0000
+  Se  Se1       1.0  0.36060  0.97388  0.27880  1.0000
+  Se  Se2       1.0  0.63537  0.01032  0.72925  1.0000
+  Se  Se3       1.0  0.10732  0.56491  0.78535  1.0000
+  Se  Se4       1.0  0.89639  0.44716  0.20723  1.0000

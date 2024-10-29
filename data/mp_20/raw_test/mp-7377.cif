@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba3Al2Sn2
+_chemical_formula_sum              "Ba3 Al2 Sn2"
+_cell_length_a       10.9996
+_cell_length_b       10.9996
+_cell_length_c       10.9996
+_cell_angle_alpha    155.706
+_cell_angle_beta     152.228
+_cell_angle_gamma    37.2265
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ba  Ba2       1.0  0.81830  0.81830  0.00000  1.0000
+  Ba  Ba3       1.0  0.18170  0.18170  0.00000  1.0000
+  Al  Al1       1.0  0.43861  0.93861  0.50000  1.0000
+  Al  Al2       1.0  0.56139  0.06139  0.50000  1.0000
+  Sn  Sn1       1.0  0.36408  0.36408  0.00000  1.0000
+  Sn  Sn2       1.0  0.63592  0.63592  0.00000  1.0000

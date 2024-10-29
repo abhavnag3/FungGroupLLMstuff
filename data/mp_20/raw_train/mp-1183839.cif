@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyMg5
+_chemical_formula_sum              "Dy1 Mg5"
+_cell_length_a       3.67399
+_cell_length_b       6.19949
+_cell_length_c       7.16386
+_cell_angle_alpha    72.8999
+_cell_angle_beta     90
+_cell_angle_gamma    107.236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.36153  0.72307  0.77708  1.0000
+  Mg  Mg1       1.0  0.03639  0.07278  0.94986  1.0000
+  Mg  Mg2       1.0  0.68892  0.37784  0.12124  1.0000
+  Mg  Mg3       1.0  0.36059  0.72118  0.27843  1.0000
+  Mg  Mg4       1.0  0.03432  0.06864  0.43224  1.0000
+  Mg  Mg5       1.0  0.68491  0.36983  0.60781  1.0000

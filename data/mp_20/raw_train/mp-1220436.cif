@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Nb3Si12Mo3
+_chemical_formula_sum              "Nb3 Si12 Mo3"
+_cell_length_a       13.1368
+_cell_length_b       4.72213
+_cell_length_c       4.73723
+_cell_angle_alpha    60.2675
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25004  0.00000  0.50000  1.0000
+  Nb  Nb2       1.0  0.58365  0.50000  0.50000  1.0000
+  Nb  Nb3       1.0  0.08286  0.50000  0.50000  1.0000
+  Si  Si1       1.0  0.91582  0.84220  0.32397  1.0000
+  Si  Si2       1.0  0.41666  0.83795  0.32089  1.0000
+  Si  Si3       1.0  0.75091  0.32374  0.84055  1.0000
+  Si  Si4       1.0  0.25097  0.32039  0.84151  1.0000
+  Si  Si5       1.0  0.58336  0.84008  0.83623  1.0000
+  Si  Si6       1.0  0.08226  0.83636  0.84324  1.0000
+  Si  Si7       1.0  0.91582  0.15780  0.67603  1.0000
+  Si  Si8       1.0  0.41666  0.16205  0.67911  1.0000
+  Si  Si9       1.0  0.75091  0.67626  0.15945  1.0000
+  Si  Si10      1.0  0.25097  0.67961  0.15849  1.0000
+  Si  Si11      1.0  0.58336  0.15992  0.16377  1.0000
+  Si  Si12      1.0  0.08226  0.16364  0.15676  1.0000
+  Mo  Mo1       1.0  0.91603  0.50000  0.00000  1.0000
+  Mo  Mo2       1.0  0.41683  0.50000  0.00000  1.0000
+  Mo  Mo3       1.0  0.75062  0.00000  0.50000  1.0000

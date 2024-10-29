@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ho2Mg2Fe4O12
+_chemical_formula_sum              "Ho2 Mg2 Fe4 O12"
+_cell_length_a       5.18843
+_cell_length_b       5.45249
+_cell_length_c       7.56881
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.01665  0.68214  0.00000  1.0000
+  Ho  Ho2       1.0  0.51665  0.31786  0.50000  1.0000
+  Mg  Mg1       1.0  0.48464  0.18932  0.00000  1.0000
+  Mg  Mg2       1.0  0.98464  0.81068  0.50000  1.0000
+  Fe  Fe1       1.0  0.00082  0.24343  0.75112  1.0000
+  Fe  Fe2       1.0  0.00082  0.24343  0.24888  1.0000
+  Fe  Fe3       1.0  0.50082  0.75657  0.25112  1.0000
+  Fe  Fe4       1.0  0.50082  0.75657  0.74888  1.0000
+  O   O1        1.0  0.10753  0.19845  0.50000  1.0000
+  O   O2        1.0  0.19800  0.94711  0.81122  1.0000
+  O   O3        1.0  0.19800  0.94711  0.18878  1.0000
+  O   O4        1.0  0.31095  0.43791  0.81078  1.0000
+  O   O5        1.0  0.31095  0.43791  0.18922  1.0000
+  O   O6        1.0  0.37206  0.71227  0.50000  1.0000
+  O   O7        1.0  0.60753  0.80155  0.00000  1.0000
+  O   O8        1.0  0.69800  0.05289  0.31122  1.0000
+  O   O9        1.0  0.69800  0.05289  0.68878  1.0000
+  O   O10       1.0  0.81095  0.56209  0.68922  1.0000
+  O   O11       1.0  0.81095  0.56209  0.31078  1.0000
+  O   O12       1.0  0.87206  0.28773  0.00000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Bi4Cl12
+_chemical_formula_sum              "Bi4 Cl12"
+_cell_length_a       6.78817
+_cell_length_b       8.37319
+_cell_length_c       8.81509
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.48826  0.54481  0.75000  1.0000
+  Bi  Bi2       1.0  0.51174  0.45519  0.25000  1.0000
+  Bi  Bi3       1.0  0.01174  0.04481  0.75000  1.0000
+  Bi  Bi4       1.0  0.98826  0.95519  0.25000  1.0000
+  Cl  Cl1       1.0  0.63325  0.33699  0.93952  1.0000
+  Cl  Cl2       1.0  0.36675  0.66301  0.43952  1.0000
+  Cl  Cl3       1.0  0.86675  0.83699  0.93952  1.0000
+  Cl  Cl4       1.0  0.13325  0.16301  0.43952  1.0000
+  Cl  Cl5       1.0  0.64964  0.07056  0.25000  1.0000
+  Cl  Cl6       1.0  0.35036  0.92944  0.75000  1.0000
+  Cl  Cl7       1.0  0.85036  0.57056  0.25000  1.0000
+  Cl  Cl8       1.0  0.14964  0.42944  0.75000  1.0000
+  Cl  Cl9       1.0  0.13325  0.16301  0.06048  1.0000
+  Cl  Cl10      1.0  0.86675  0.83699  0.56048  1.0000
+  Cl  Cl11      1.0  0.36675  0.66301  0.06048  1.0000
+  Cl  Cl12      1.0  0.63325  0.33699  0.56048  1.0000

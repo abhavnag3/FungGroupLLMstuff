@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Th4Cr4S12
+_chemical_formula_sum              "Th4 Cr4 S12"
+_cell_length_a       6.2103
+_cell_length_b       7.42237
+_cell_length_c       8.91247
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.44838  0.88301  0.25000  1.0000
+  Th  Th2       1.0  0.05162  0.38301  0.25000  1.0000
+  Th  Th3       1.0  0.55162  0.11699  0.75000  1.0000
+  Th  Th4       1.0  0.94838  0.61699  0.75000  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cr  Cr2       1.0  0.00000  0.00000  0.50000  1.0000
+  Cr  Cr3       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr4       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.63428  0.53900  0.25000  1.0000
+  S   S2        1.0  0.86572  0.03900  0.25000  1.0000
+  S   S3        1.0  0.36572  0.46100  0.75000  1.0000
+  S   S4        1.0  0.13428  0.96100  0.75000  1.0000
+  S   S5        1.0  0.67262  0.82833  0.55532  1.0000
+  S   S6        1.0  0.82738  0.32833  0.94468  1.0000
+  S   S7        1.0  0.32738  0.17167  0.05532  1.0000
+  S   S8        1.0  0.17262  0.67167  0.44468  1.0000
+  S   S9        1.0  0.32738  0.17167  0.44468  1.0000
+  S   S10       1.0  0.17262  0.67167  0.05532  1.0000
+  S   S11       1.0  0.67262  0.82833  0.94468  1.0000
+  S   S12       1.0  0.82738  0.32833  0.55532  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Gd4B3C4
+_chemical_formula_sum              "Gd4 B3 C4"
+_cell_length_a       3.61634
+_cell_length_b       3.66671
+_cell_length_c       12.0065
+_cell_angle_alpha    92.6376
+_cell_angle_beta     98.2964
+_cell_angle_gamma    90.1854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.20913  0.97659  0.34921  1.0000
+  Gd  Gd2       1.0  0.79087  0.02341  0.65079  1.0000
+  Gd  Gd3       1.0  0.60562  0.44566  0.13657  1.0000
+  Gd  Gd4       1.0  0.39438  0.55434  0.86343  1.0000
+  B   B1        1.0  0.00000  0.00000  0.00000  1.0000
+  B   B2        1.0  0.79339  0.49192  0.45472  1.0000
+  B   B3        1.0  0.20661  0.50808  0.54528  1.0000
+  C   C1        1.0  0.09710  0.94348  0.12156  1.0000
+  C   C2        1.0  0.90290  0.05652  0.87844  1.0000
+  C   C3        1.0  0.70213  0.47221  0.33037  1.0000
+  C   C4        1.0  0.29787  0.52779  0.66963  1.0000

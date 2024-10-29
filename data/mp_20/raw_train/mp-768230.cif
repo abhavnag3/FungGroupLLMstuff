@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm2Ta2O8
+_chemical_formula_sum              "Sm2 Ta2 O8"
+_cell_length_a       7.75197
+_cell_length_b       7.75197
+_cell_length_c       5.55232
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.64
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.81674  0.18326  0.86699  1.0000
+  Sm  Sm2       1.0  0.18326  0.81674  0.36699  1.0000
+  Ta  Ta1       1.0  0.58486  0.41513  0.80943  1.0000
+  Ta  Ta2       1.0  0.41513  0.58486  0.30943  1.0000
+  O   O1        1.0  0.90738  0.09262  0.26708  1.0000
+  O   O2        1.0  0.70078  0.29922  0.59569  1.0000
+  O   O3        1.0  0.66513  0.33487  0.08216  1.0000
+  O   O4        1.0  0.52947  0.47053  0.46346  1.0000
+  O   O5        1.0  0.47053  0.52947  0.96346  1.0000
+  O   O6        1.0  0.33487  0.66513  0.58216  1.0000
+  O   O7        1.0  0.29922  0.70078  0.09569  1.0000
+  O   O8        1.0  0.09262  0.90738  0.76708  1.0000

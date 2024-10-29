@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu4Te4Se4I4
+_chemical_formula_sum              "Cu4 Te4 Se4 I4"
+_cell_length_a       4.86635
+_cell_length_b       8.46387
+_cell_length_c       13.1756
+_cell_angle_alpha    64.0637
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.87859  0.80331  0.25089  1.0000
+  Cu  Cu2       1.0  0.12141  0.19669  0.74911  1.0000
+  Cu  Cu3       1.0  0.37859  0.19669  0.24911  1.0000
+  Cu  Cu4       1.0  0.62141  0.80331  0.75089  1.0000
+  Te  Te1       1.0  0.50865  0.71244  0.14869  1.0000
+  Te  Te2       1.0  0.49135  0.28757  0.85131  1.0000
+  Te  Te3       1.0  0.00865  0.28756  0.35131  1.0000
+  Te  Te4       1.0  0.99135  0.71244  0.64869  1.0000
+  Se  Se1       1.0  0.71948  0.42129  0.15995  1.0000
+  Se  Se2       1.0  0.28052  0.57871  0.84005  1.0000
+  Se  Se3       1.0  0.21948  0.57871  0.34005  1.0000
+  Se  Se4       1.0  0.78052  0.42129  0.65995  1.0000
+  I   I1        1.0  0.63917  0.90276  0.39257  1.0000
+  I   I2        1.0  0.36083  0.09724  0.60743  1.0000
+  I   I3        1.0  0.13917  0.09724  0.10743  1.0000
+  I   I4        1.0  0.86083  0.90276  0.89257  1.0000

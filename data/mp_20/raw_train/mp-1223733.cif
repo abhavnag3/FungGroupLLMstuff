@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       K3SnSb3
+_chemical_formula_sum              "K3 Sn1 Sb3"
+_cell_length_a       9.20613
+_cell_length_b       9.20613
+_cell_length_c       7.04305
+_cell_angle_alpha    84.4251
+_cell_angle_beta     84.4251
+_cell_angle_gamma    27.762
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.00254  0.00254  0.99905  1.0000
+  K   K2        1.0  0.70591  0.70591  0.74950  1.0000
+  K   K3        1.0  0.28990  0.28990  0.25209  1.0000
+  Sn  Sn1       1.0  0.08434  0.08433  0.50794  1.0000
+  Sb  Sb1       1.0  0.37243  0.37243  0.74708  1.0000
+  Sb  Sb2       1.0  0.62555  0.62555  0.24820  1.0000
+  Sb  Sb3       1.0  0.91933  0.91933  0.49615  1.0000

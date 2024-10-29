@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tl8SnTe6Pb
+_chemical_formula_sum              "Tl8 Sn1 Te6 Pb1"
+_cell_length_a       9.219
+_cell_length_b       9.219
+_cell_length_c       9.219
+_cell_angle_alpha    121.908
+_cell_angle_beta     121.908
+_cell_angle_gamma    86.7251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.51192  0.30428  0.49927  1.0000
+  Tl  Tl2       1.0  0.80501  0.01265  0.50073  1.0000
+  Tl  Tl3       1.0  0.01264  0.51192  0.20763  1.0000
+  Tl  Tl4       1.0  0.30428  0.80501  0.79237  1.0000
+  Tl  Tl5       1.0  0.48808  0.69572  0.50073  1.0000
+  Tl  Tl6       1.0  0.19499  0.98735  0.49927  1.0000
+  Tl  Tl7       1.0  0.98735  0.48808  0.79237  1.0000
+  Tl  Tl8       1.0  0.69572  0.19499  0.20763  1.0000
+  Sn  Sn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.16208  0.33215  0.49423  1.0000
+  Te  Te2       1.0  0.83792  0.66785  0.50577  1.0000
+  Te  Te3       1.0  0.66785  0.16208  0.82993  1.0000
+  Te  Te4       1.0  0.33215  0.83792  0.17007  1.0000
+  Te  Te5       1.0  0.75283  0.75283  0.00000  1.0000
+  Te  Te6       1.0  0.24717  0.24717  0.00000  1.0000
+  Pb  Pb1       1.0  0.50000  0.50000  0.00000  1.0000

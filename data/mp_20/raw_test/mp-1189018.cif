@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na5Hf2F13
+_chemical_formula_sum              "Na5 Hf2 F13"
+_cell_length_a       6.46738
+_cell_length_b       6.46738
+_cell_length_c       8.49838
+_cell_angle_alpha    83.4302
+_cell_angle_beta     83.4302
+_cell_angle_gamma    50.8688
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.22225  0.22225  0.84502  1.0000
+  Na  Na2       1.0  0.77775  0.77775  0.15498  1.0000
+  Na  Na3       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na4       1.0  0.66265  0.66265  0.57086  1.0000
+  Na  Na5       1.0  0.33736  0.33736  0.42914  1.0000
+  Hf  Hf1       1.0  0.92701  0.92701  0.74344  1.0000
+  Hf  Hf2       1.0  0.07299  0.07299  0.25656  1.0000
+  F   F1        1.0  0.05492  0.58417  0.64432  1.0000
+  F   F2        1.0  0.58417  0.05492  0.64432  1.0000
+  F   F3        1.0  0.94508  0.41583  0.35568  1.0000
+  F   F4        1.0  0.41583  0.94508  0.35568  1.0000
+  F   F5        1.0  0.64363  0.09009  0.92882  1.0000
+  F   F6        1.0  0.09009  0.64363  0.92882  1.0000
+  F   F7        1.0  0.35637  0.90991  0.07118  1.0000
+  F   F8        1.0  0.90991  0.35637  0.07118  1.0000
+  F   F9        1.0  0.29685  0.82434  0.74996  1.0000
+  F   F10       1.0  0.82434  0.29685  0.74996  1.0000
+  F   F11       1.0  0.70315  0.17566  0.25004  1.0000
+  F   F12       1.0  0.17566  0.70315  0.25004  1.0000
+  F   F13       1.0  0.00000  0.00000  0.50000  1.0000

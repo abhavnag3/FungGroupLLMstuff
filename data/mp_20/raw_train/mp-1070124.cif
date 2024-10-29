@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       LaSi3Rh
+_chemical_formula_sum              "La1 Si3 Rh1"
+_cell_length_a       5.80765
+_cell_length_b       5.80765
+_cell_length_c       5.80765
+_cell_angle_alpha    136.764
+_cell_angle_beta     136.764
+_cell_angle_gamma    62.8013
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.99948  0.99948  0.00000  1.0000
+  Si  Si1       1.0  0.41308  0.41308  0.00000  1.0000
+  Si  Si2       1.0  0.26148  0.76148  0.50000  1.0000
+  Si  Si3       1.0  0.76148  0.26148  0.50000  1.0000
+  Rh  Rh1       1.0  0.65448  0.65448  0.00000  1.0000

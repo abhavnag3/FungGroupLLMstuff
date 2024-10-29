@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nb3AlSnMo3
+_chemical_formula_sum              "Nb3 Al1 Sn1 Mo3"
+_cell_length_a       5.15808
+_cell_length_b       5.15808
+_cell_length_c       5.15808
+_cell_angle_alpha    90.0173
+_cell_angle_beta     90.0173
+_cell_angle_gamma    90.0173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25427  0.99854  0.50230  1.0000
+  Nb  Nb2       1.0  0.99854  0.50230  0.25427  1.0000
+  Nb  Nb3       1.0  0.50230  0.25427  0.99854  1.0000
+  Al  Al1       1.0  0.50119  0.50119  0.50119  1.0000
+  Sn  Sn1       1.0  0.99861  0.99861  0.99861  1.0000
+  Mo  Mo1       1.0  0.74598  0.99967  0.49944  1.0000
+  Mo  Mo2       1.0  0.99967  0.49944  0.74598  1.0000
+  Mo  Mo3       1.0  0.49944  0.74598  0.99967  1.0000

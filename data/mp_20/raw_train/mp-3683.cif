@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ho3Cu4Ge4
+_chemical_formula_sum              "Ho3 Cu4 Ge4"
+_cell_length_a       7.97774
+_cell_length_b       7.97774
+_cell_length_c       7.97774
+_cell_angle_alpha    149.597
+_cell_angle_beta     130.713
+_cell_angle_gamma    59.0181
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.87014  0.87014  0.00000  1.0000
+  Ho  Ho2       1.0  0.12986  0.12986  0.00000  1.0000
+  Ho  Ho3       1.0  0.50000  0.00000  0.50000  1.0000
+  Cu  Cu1       1.0  0.85929  0.66920  0.19009  1.0000
+  Cu  Cu2       1.0  0.14071  0.33080  0.80991  1.0000
+  Cu  Cu3       1.0  0.47911  0.66920  0.80991  1.0000
+  Cu  Cu4       1.0  0.52089  0.33080  0.19009  1.0000
+  Ge  Ge1       1.0  0.28314  0.78314  0.50000  1.0000
+  Ge  Ge2       1.0  0.80807  0.50000  0.30806  1.0000
+  Ge  Ge3       1.0  0.19193  0.50000  0.69193  1.0000
+  Ge  Ge4       1.0  0.71686  0.21686  0.50000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       H12N4
+_chemical_formula_sum              "H12 N4"
+_cell_length_a       5.11635
+_cell_length_b       5.11635
+_cell_length_c       5.11635
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.13835  0.72951  0.60176  1.0000
+  H   H2        1.0  0.63835  0.77049  0.39825  1.0000
+  H   H3        1.0  0.86165  0.22951  0.89824  1.0000
+  H   H4        1.0  0.77049  0.39825  0.63835  1.0000
+  H   H5        1.0  0.36165  0.27049  0.10176  1.0000
+  H   H6        1.0  0.10176  0.36165  0.27049  1.0000
+  H   H7        1.0  0.27049  0.10176  0.36165  1.0000
+  H   H8        1.0  0.22951  0.89824  0.86165  1.0000
+  H   H9        1.0  0.60176  0.13835  0.72951  1.0000
+  H   H10       1.0  0.72951  0.60176  0.13835  1.0000
+  H   H11       1.0  0.39825  0.63835  0.77049  1.0000
+  H   H12       1.0  0.89824  0.86165  0.22951  1.0000
+  N   N1        1.0  0.79817  0.70183  0.29817  1.0000
+  N   N2        1.0  0.70183  0.29817  0.79817  1.0000
+  N   N3        1.0  0.29817  0.79817  0.70183  1.0000
+  N   N4        1.0  0.20183  0.20183  0.20183  1.0000

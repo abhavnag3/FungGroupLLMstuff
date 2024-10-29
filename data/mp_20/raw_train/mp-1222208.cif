@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Mg6Al4Cu8
+_chemical_formula_sum              "Mg6 Al4 Cu8"
+_cell_length_a       5.09078
+_cell_length_b       5.09078
+_cell_length_c       12.263
+_cell_angle_alpha    89.6965
+_cell_angle_beta     89.6965
+_cell_angle_gamma    60.0567
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.16659  0.16659  0.54198  1.0000
+  Mg  Mg2       1.0  0.83264  0.83264  0.21203  1.0000
+  Mg  Mg3       1.0  0.49882  0.49882  0.87296  1.0000
+  Mg  Mg4       1.0  0.83341  0.83341  0.45802  1.0000
+  Mg  Mg5       1.0  0.50118  0.50118  0.12704  1.0000
+  Mg  Mg6       1.0  0.16736  0.16736  0.78797  1.0000
+  Al  Al1       1.0  0.17363  0.17363  0.17131  1.0000
+  Al  Al2       1.0  0.82637  0.82637  0.82869  1.0000
+  Al  Al3       1.0  0.50000  0.50000  0.50000  1.0000
+  Al  Al4       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.66568  0.66568  0.66508  1.0000
+  Cu  Cu2       1.0  0.33432  0.33432  0.33492  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu4       1.0  0.66682  0.16730  0.66578  1.0000
+  Cu  Cu5       1.0  0.33318  0.83270  0.33422  1.0000
+  Cu  Cu6       1.0  0.83270  0.33318  0.33422  1.0000
+  Cu  Cu7       1.0  0.50000  0.00000  0.00000  1.0000
+  Cu  Cu8       1.0  0.16730  0.66682  0.66578  1.0000

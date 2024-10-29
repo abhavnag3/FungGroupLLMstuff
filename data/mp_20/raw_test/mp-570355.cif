@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pb2Cl8
+_chemical_formula_sum              "Pb2 Cl8"
+_cell_length_a       7.14005
+_cell_length_b       7.14005
+_cell_length_c       11.4725
+_cell_angle_alpha    66.0957
+_cell_angle_beta     66.0957
+_cell_angle_gamma    48.2772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.26116  0.73884  0.25000  1.0000
+  Pb  Pb2       1.0  0.73884  0.26116  0.75000  1.0000
+  Cl  Cl1       1.0  0.90014  0.85615  0.19177  1.0000
+  Cl  Cl2       1.0  0.09986  0.14385  0.80823  1.0000
+  Cl  Cl3       1.0  0.38307  0.37298  0.93316  1.0000
+  Cl  Cl4       1.0  0.62702  0.61693  0.56684  1.0000
+  Cl  Cl5       1.0  0.14385  0.09986  0.30823  1.0000
+  Cl  Cl6       1.0  0.85615  0.90014  0.69177  1.0000
+  Cl  Cl7       1.0  0.61693  0.62702  0.06684  1.0000
+  Cl  Cl8       1.0  0.37298  0.38307  0.43316  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       U2Cr10P6
+_chemical_formula_sum              "U2 Cr10 P6"
+_cell_length_a       3.72975
+_cell_length_b       6.78048
+_cell_length_c       9.49824
+_cell_angle_alpha    81.5957
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.25000  0.18000  0.21713  1.0000
+  U   U2        1.0  0.75000  0.82000  0.78287  1.0000
+  Cr  Cr1       1.0  0.25000  0.67836  0.27805  1.0000
+  Cr  Cr2       1.0  0.75000  0.32164  0.72195  1.0000
+  Cr  Cr3       1.0  0.25000  0.84203  0.50841  1.0000
+  Cr  Cr4       1.0  0.75000  0.15797  0.49159  1.0000
+  Cr  Cr5       1.0  0.25000  0.45889  0.92868  1.0000
+  Cr  Cr6       1.0  0.75000  0.54110  0.07132  1.0000
+  Cr  Cr7       1.0  0.25000  0.08479  0.89899  1.0000
+  Cr  Cr8       1.0  0.75000  0.91521  0.10101  1.0000
+  Cr  Cr9       1.0  0.25000  0.39488  0.48756  1.0000
+  Cr  Cr10      1.0  0.75000  0.60512  0.51244  1.0000
+  P   P1        1.0  0.25000  0.55866  0.68604  1.0000
+  P   P2        1.0  0.75000  0.44134  0.31396  1.0000
+  P   P3        1.0  0.25000  0.76198  0.01964  1.0000
+  P   P4        1.0  0.75000  0.23802  0.98036  1.0000
+  P   P5        1.0  0.25000  0.10143  0.65287  1.0000
+  P   P6        1.0  0.75000  0.89857  0.34713  1.0000

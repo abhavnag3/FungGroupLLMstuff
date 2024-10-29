@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaMoS4
+_chemical_formula_sum              "Ta1 Mo1 S4"
+_cell_length_a       3.27977
+_cell_length_b       5.68555
+_cell_length_c       6.5784
+_cell_angle_alpha    73.1781
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.50000  0.66348  0.50024  1.0000
+  Mo  Mo1       1.0  0.00000  0.16826  0.49993  1.0000
+  S   S1        1.0  0.00000  0.41339  0.74808  1.0000
+  S   S2        1.0  0.50000  0.92273  0.74398  1.0000
+  S   S3        1.0  0.00000  0.57970  0.25167  1.0000
+  S   S4        1.0  0.50000  0.08585  0.25589  1.0000

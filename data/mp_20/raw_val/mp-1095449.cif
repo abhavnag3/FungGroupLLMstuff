@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf4Ge4Mo4
+_chemical_formula_sum              "Hf4 Ge4 Mo4"
+_cell_length_a       3.56672
+_cell_length_b       6.98231
+_cell_length_c       8.32884
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.25000  0.54558  0.16733  1.0000
+  Hf  Hf2       1.0  0.25000  0.04558  0.33267  1.0000
+  Hf  Hf3       1.0  0.75000  0.45442  0.83267  1.0000
+  Hf  Hf4       1.0  0.75000  0.95442  0.66733  1.0000
+  Ge  Ge1       1.0  0.25000  0.75555  0.86188  1.0000
+  Ge  Ge2       1.0  0.25000  0.25555  0.63812  1.0000
+  Ge  Ge3       1.0  0.75000  0.24445  0.13812  1.0000
+  Ge  Ge4       1.0  0.75000  0.74445  0.36188  1.0000
+  Mo  Mo1       1.0  0.25000  0.63419  0.56334  1.0000
+  Mo  Mo2       1.0  0.25000  0.13419  0.93666  1.0000
+  Mo  Mo3       1.0  0.75000  0.36581  0.43666  1.0000
+  Mo  Mo4       1.0  0.75000  0.86581  0.06334  1.0000

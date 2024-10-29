@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nd4As8
+_chemical_formula_sum              "Nd4 As8"
+_cell_length_a       6.91185
+_cell_length_b       4.14423
+_cell_length_c       10.6172
+_cell_angle_alpha    73.1956
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.81258  0.08973  0.64033  1.0000
+  Nd  Nd2       1.0  0.31258  0.91027  0.85967  1.0000
+  Nd  Nd3       1.0  0.18742  0.91027  0.35967  1.0000
+  Nd  Nd4       1.0  0.68742  0.08973  0.14033  1.0000
+  As  As1       1.0  0.87700  0.72931  0.95030  1.0000
+  As  As2       1.0  0.37700  0.27069  0.54970  1.0000
+  As  As3       1.0  0.12300  0.27069  0.04970  1.0000
+  As  As4       1.0  0.62300  0.72931  0.45030  1.0000
+  As  As5       1.0  0.35595  0.53844  0.17118  1.0000
+  As  As6       1.0  0.85595  0.46156  0.32882  1.0000
+  As  As7       1.0  0.64405  0.46156  0.82882  1.0000
+  As  As8       1.0  0.14405  0.53844  0.67118  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr4Ni6Ge10
+_chemical_formula_sum              "Pr4 Ni6 Ge10"
+_cell_length_a       5.93454
+_cell_length_b       8.2045
+_cell_length_c       8.2045
+_cell_angle_alpha    73.2478
+_cell_angle_beta     68.7976
+_cell_angle_gamma    68.7976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.86684  0.87388  0.39244  1.0000
+  Pr  Pr2       1.0  0.13316  0.12612  0.60756  1.0000
+  Pr  Pr3       1.0  0.36684  0.39244  0.87388  1.0000
+  Pr  Pr4       1.0  0.63316  0.60756  0.12612  1.0000
+  Ni  Ni1       1.0  0.25000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.75000  0.00000  0.00000  1.0000
+  Ni  Ni3       1.0  0.63062  0.25739  0.48137  1.0000
+  Ni  Ni4       1.0  0.36938  0.74261  0.51863  1.0000
+  Ni  Ni5       1.0  0.13062  0.48137  0.25739  1.0000
+  Ni  Ni6       1.0  0.86938  0.51863  0.74261  1.0000
+  Ge  Ge1       1.0  0.25000  0.50000  0.50000  1.0000
+  Ge  Ge2       1.0  0.75000  0.50000  0.50000  1.0000
+  Ge  Ge3       1.0  0.00798  0.24202  0.24202  1.0000
+  Ge  Ge4       1.0  0.49202  0.75798  0.75798  1.0000
+  Ge  Ge5       1.0  0.99202  0.75798  0.75798  1.0000
+  Ge  Ge6       1.0  0.50798  0.24202  0.24202  1.0000
+  Ge  Ge7       1.0  0.60230  0.04887  0.74654  1.0000
+  Ge  Ge8       1.0  0.39770  0.95113  0.25346  1.0000
+  Ge  Ge9       1.0  0.10230  0.74654  0.04887  1.0000
+  Ge  Ge10      1.0  0.89770  0.25346  0.95113  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y6Al4Fe8
+_chemical_formula_sum              "Y6 Al4 Fe8"
+_cell_length_a       5.30499
+_cell_length_b       5.37354
+_cell_length_c       12.7884
+_cell_angle_alpha    89.53
+_cell_angle_beta     89.9697
+_cell_angle_gamma    120.919
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.32055  0.66265  0.91449  1.0000
+  Y   Y2        1.0  0.99523  0.00329  0.25561  1.0000
+  Y   Y3        1.0  0.66063  0.33647  0.58644  1.0000
+  Y   Y4        1.0  0.33937  0.66353  0.66356  1.0000
+  Y   Y5        1.0  0.00477  0.99671  0.99439  1.0000
+  Y   Y6        1.0  0.67945  0.33735  0.33551  1.0000
+  Al  Al1       1.0  0.50000  0.50000  0.12500  1.0000
+  Al  Al2       1.0  0.16812  0.83670  0.46019  1.0000
+  Al  Al3       1.0  0.83188  0.16330  0.78981  1.0000
+  Al  Al4       1.0  0.50000  0.00000  0.12500  1.0000
+  Fe  Fe1       1.0  0.16911  0.33491  0.45944  1.0000
+  Fe  Fe2       1.0  0.83089  0.66509  0.79056  1.0000
+  Fe  Fe3       1.0  0.32850  0.65299  0.29813  1.0000
+  Fe  Fe4       1.0  0.00000  0.00000  0.62500  1.0000
+  Fe  Fe5       1.0  0.67150  0.34702  0.95187  1.0000
+  Fe  Fe6       1.0  0.00000  0.50000  0.12500  1.0000
+  Fe  Fe7       1.0  0.66704  0.83202  0.45889  1.0000
+  Fe  Fe8       1.0  0.33296  0.16798  0.79111  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4La2Ir2O12
+_chemical_formula_sum              "Ba4 La2 Ir2 O12"
+_cell_length_a       6.13087
+_cell_length_b       6.10285
+_cell_length_c       10.5859
+_cell_angle_alpha    90
+_cell_angle_beta     125.205
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25345  0.50270  0.75152  1.0000
+  Ba  Ba2       1.0  0.25345  0.99730  0.25152  1.0000
+  Ba  Ba3       1.0  0.74655  0.49730  0.24848  1.0000
+  Ba  Ba4       1.0  0.74655  0.00270  0.74848  1.0000
+  La  La1       1.0  0.00000  0.50000  0.00000  1.0000
+  La  La2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ir  Ir1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ir  Ir2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.75126  0.21654  0.00925  1.0000
+  O   O2        1.0  0.75126  0.28346  0.50926  1.0000
+  O   O3        1.0  0.24874  0.78346  0.99075  1.0000
+  O   O4        1.0  0.24874  0.71654  0.49074  1.0000
+  O   O5        1.0  0.72627  0.75736  0.01004  1.0000
+  O   O6        1.0  0.72627  0.74264  0.51004  1.0000
+  O   O7        1.0  0.27374  0.24264  0.98996  1.0000
+  O   O8        1.0  0.27374  0.25736  0.48996  1.0000
+  O   O9        1.0  0.29195  0.99815  0.77142  1.0000
+  O   O10       1.0  0.29195  0.50185  0.27142  1.0000
+  O   O11       1.0  0.70805  0.00185  0.22858  1.0000
+  O   O12       1.0  0.70805  0.49815  0.72858  1.0000

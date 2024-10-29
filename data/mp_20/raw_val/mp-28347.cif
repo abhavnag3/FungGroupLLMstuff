@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K6Al4As6
+_chemical_formula_sum              "K6 Al4 As6"
+_cell_length_a       6.07659
+_cell_length_b       7.66407
+_cell_length_c       10.5852
+_cell_angle_alpha    69.8511
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.25000  0.43292  0.42702  1.0000
+  K   K2        1.0  0.75000  0.12651  0.92242  1.0000
+  K   K3        1.0  0.75000  0.47640  0.14965  1.0000
+  K   K4        1.0  0.25000  0.52360  0.85035  1.0000
+  K   K5        1.0  0.75000  0.56708  0.57298  1.0000
+  K   K6        1.0  0.25000  0.87349  0.07758  1.0000
+  Al  Al1       1.0  0.99947  0.02796  0.34281  1.0000
+  Al  Al2       1.0  0.49947  0.97204  0.65719  1.0000
+  Al  Al3       1.0  0.50053  0.02796  0.34281  1.0000
+  Al  Al4       1.0  0.00053  0.97204  0.65719  1.0000
+  As  As1       1.0  0.25000  0.81170  0.52937  1.0000
+  As  As2       1.0  0.75000  0.18830  0.47063  1.0000
+  As  As3       1.0  0.25000  0.25336  0.18179  1.0000
+  As  As4       1.0  0.75000  0.74664  0.81821  1.0000
+  As  As5       1.0  0.25000  0.15386  0.74809  1.0000
+  As  As6       1.0  0.75000  0.84614  0.25191  1.0000

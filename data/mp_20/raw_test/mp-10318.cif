@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tb4Co6Si10
+_chemical_formula_sum              "Tb4 Co6 Si10"
+_cell_length_a       7.8872
+_cell_length_b       7.8872
+_cell_length_c       5.5267
+_cell_angle_alpha    70.7777
+_cell_angle_beta     70.7777
+_cell_angle_gamma    93.4027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.86947  0.59840  0.76308  1.0000
+  Tb  Tb2       1.0  0.40160  0.13053  0.73692  1.0000
+  Tb  Tb3       1.0  0.13053  0.40160  0.23692  1.0000
+  Tb  Tb4       1.0  0.59840  0.86947  0.26308  1.0000
+  Co  Co1       1.0  0.53900  0.26321  0.12632  1.0000
+  Co  Co2       1.0  0.99611  0.00389  0.25000  1.0000
+  Co  Co3       1.0  0.26321  0.53900  0.62632  1.0000
+  Co  Co4       1.0  0.46100  0.73679  0.87368  1.0000
+  Co  Co5       1.0  0.73679  0.46100  0.37368  1.0000
+  Co  Co6       1.0  0.00389  0.99611  0.75000  1.0000
+  Si  Si1       1.0  0.77000  0.23000  0.75000  1.0000
+  Si  Si2       1.0  0.23000  0.77000  0.25000  1.0000
+  Si  Si3       1.0  0.51145  0.48855  0.75000  1.0000
+  Si  Si4       1.0  0.48855  0.51145  0.25000  1.0000
+  Si  Si5       1.0  0.21470  0.78530  0.75000  1.0000
+  Si  Si6       1.0  0.78530  0.21470  0.25000  1.0000
+  Si  Si7       1.0  0.06257  0.26169  0.83581  1.0000
+  Si  Si8       1.0  0.26169  0.06257  0.33581  1.0000
+  Si  Si9       1.0  0.93743  0.73831  0.16419  1.0000
+  Si  Si10      1.0  0.73831  0.93743  0.66419  1.0000

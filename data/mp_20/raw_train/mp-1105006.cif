@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Dy3Ga8Ag3
+_chemical_formula_sum              "Dy3 Ga8 Ag3"
+_cell_length_a       4.4316
+_cell_length_b       8.31033
+_cell_length_c       8.31033
+_cell_angle_alpha    69.3003
+_cell_angle_beta     74.5361
+_cell_angle_gamma    74.5361
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.50000  0.50000  0.50000  1.0000
+  Dy  Dy2       1.0  0.79668  0.20332  0.20332  1.0000
+  Dy  Dy3       1.0  0.20332  0.79668  0.79668  1.0000
+  Ga  Ga1       1.0  0.64350  0.07505  0.63796  1.0000
+  Ga  Ga2       1.0  0.35650  0.92495  0.36204  1.0000
+  Ga  Ga3       1.0  0.64350  0.63796  0.07505  1.0000
+  Ga  Ga4       1.0  0.35651  0.36204  0.92495  1.0000
+  Ga  Ga5       1.0  0.84174  0.79095  0.52557  1.0000
+  Ga  Ga6       1.0  0.15826  0.20905  0.47443  1.0000
+  Ga  Ga7       1.0  0.84174  0.52557  0.79095  1.0000
+  Ga  Ga8       1.0  0.15826  0.47443  0.20905  1.0000
+  Ag  Ag1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.00000  0.80963  0.19037  1.0000
+  Ag  Ag3       1.0  0.00000  0.19037  0.80963  1.0000

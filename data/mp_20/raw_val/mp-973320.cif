@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       MgIn3
+_chemical_formula_sum              "Mg1 In3"
+_cell_length_a       6.32772
+_cell_length_b       6.32772
+_cell_length_c       6.32772
+_cell_angle_alpha    149.024
+_cell_angle_beta     126.647
+_cell_angle_gamma    62.9825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.16865  0.50000  0.66865  1.0000
+  In  In1       1.0  0.75430  0.75376  0.00054  1.0000
+  In  In2       1.0  0.24679  0.24624  0.00054  1.0000
+  In  In3       1.0  0.66360  0.00000  0.66360  1.0000

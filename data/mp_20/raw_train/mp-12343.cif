@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cs2Sm2Zn2Te6
+_chemical_formula_sum              "Cs2 Sm2 Zn2 Te6"
+_cell_length_a       8.95909
+_cell_length_b       8.95909
+_cell_length_c       11.9224
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25294  0.74706  0.75000  1.0000
+  Cs  Cs2       1.0  0.74706  0.25294  0.25000  1.0000
+  Sm  Sm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sm  Sm2       1.0  0.00000  0.00000  0.50000  1.0000
+  Zn  Zn1       1.0  0.53514  0.46486  0.75000  1.0000
+  Zn  Zn2       1.0  0.46486  0.53514  0.25000  1.0000
+  Te  Te1       1.0  0.61984  0.38016  0.56302  1.0000
+  Te  Te2       1.0  0.38016  0.61984  0.43698  1.0000
+  Te  Te3       1.0  0.06062  0.93938  0.25000  1.0000
+  Te  Te4       1.0  0.93938  0.06062  0.75000  1.0000
+  Te  Te5       1.0  0.61984  0.38016  0.93698  1.0000
+  Te  Te6       1.0  0.38016  0.61984  0.06302  1.0000

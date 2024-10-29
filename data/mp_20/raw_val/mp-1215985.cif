@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Y2Er2Al4O12
+_chemical_formula_sum              "Y2 Er2 Al4 O12"
+_cell_length_a       5.18644
+_cell_length_b       5.38244
+_cell_length_c       7.41011
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.26326  0.55722  0.00000  1.0000
+  Y   Y2        1.0  0.73674  0.05722  0.00000  1.0000
+  Er  Er1       1.0  0.23718  0.44008  0.50000  1.0000
+  Er  Er2       1.0  0.76282  0.94007  0.50000  1.0000
+  Al  Al1       1.0  0.74963  0.49979  0.74856  1.0000
+  Al  Al2       1.0  0.25037  0.99979  0.25144  1.0000
+  Al  Al3       1.0  0.74963  0.49979  0.25144  1.0000
+  Al  Al4       1.0  0.25037  0.99979  0.74856  1.0000
+  O   O1        1.0  0.54805  0.79754  0.79358  1.0000
+  O   O2        1.0  0.45195  0.29754  0.20642  1.0000
+  O   O3        1.0  0.95204  0.20217  0.29801  1.0000
+  O   O4        1.0  0.04796  0.70217  0.70199  1.0000
+  O   O5        1.0  0.95204  0.20217  0.70199  1.0000
+  O   O6        1.0  0.04796  0.70217  0.29801  1.0000
+  O   O7        1.0  0.54805  0.79754  0.20642  1.0000
+  O   O8        1.0  0.45195  0.29754  0.79358  1.0000
+  O   O9        1.0  0.16541  0.97746  0.00000  1.0000
+  O   O10       1.0  0.83459  0.47746  0.00000  1.0000
+  O   O11       1.0  0.34019  0.02624  0.50000  1.0000
+  O   O12       1.0  0.65981  0.52624  0.50000  1.0000

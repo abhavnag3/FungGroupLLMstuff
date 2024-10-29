@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       BaLiMg2AlSi3O10F2
+_chemical_formula_sum              "Ba1 Li1 Mg2 Al1 Si3 O10 F2"
+_cell_length_a       5.30748
+_cell_length_b       5.31822
+_cell_length_c       10.296
+_cell_angle_alpha    95.5599
+_cell_angle_beta     94.6606
+_cell_angle_gamma    119.826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.99110  0.99140  0.97350  1.0000
+  Li  Li1       1.0  0.49229  0.49894  0.50576  1.0000
+  Mg  Mg1       1.0  0.16811  0.83496  0.50295  1.0000
+  Mg  Mg2       1.0  0.83902  0.17056  0.50215  1.0000
+  Al  Al1       1.0  0.25841  0.59165  0.76753  1.0000
+  Si  Si1       1.0  0.59571  0.25917  0.77855  1.0000
+  Si  Si2       1.0  0.74196  0.40817  0.22925  1.0000
+  Si  Si3       1.0  0.40902  0.74570  0.22936  1.0000
+  O   O1        1.0  0.48728  0.47764  0.84449  1.0000
+  O   O2        1.0  0.53552  0.53592  0.16435  1.0000
+  O   O3        1.0  0.94241  0.41434  0.84667  1.0000
+  O   O4        1.0  0.42442  0.96098  0.84744  1.0000
+  O   O5        1.0  0.05326  0.56987  0.16210  1.0000
+  O   O6        1.0  0.56965  0.05245  0.16033  1.0000
+  O   O7        1.0  0.19422  0.53576  0.59975  1.0000
+  O   O8        1.0  0.54139  0.19666  0.61919  1.0000
+  O   O9        1.0  0.79901  0.45873  0.38552  1.0000
+  O   O10       1.0  0.46495  0.81191  0.38581  1.0000
+  F   F1        1.0  0.87397  0.87583  0.60360  1.0000
+  F   F2        1.0  0.11829  0.10934  0.39169  1.0000

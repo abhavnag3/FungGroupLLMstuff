@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ti5Fe4Sb4
+_chemical_formula_sum              "Ti5 Fe4 Sb4"
+_cell_length_a       4.2709
+_cell_length_b       4.2709
+_cell_length_c       13.8987
+_cell_angle_alpha    90
+_cell_angle_beta     81.1618
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.87490  0.43745  0.68765  1.0000
+  Ti  Ti2       1.0  0.38531  0.69265  0.92204  1.0000
+  Ti  Ti3       1.0  0.86510  0.93255  0.20234  1.0000
+  Ti  Ti4       1.0  0.36910  0.18455  0.44634  1.0000
+  Ti  Ti5       1.0  0.24935  0.62467  0.12598  1.0000
+  Fe  Fe1       1.0  0.99644  0.49822  0.50535  1.0000
+  Fe  Fe2       1.0  0.49770  0.74885  0.75345  1.0000
+  Fe  Fe3       1.0  0.99776  0.99888  0.00337  1.0000
+  Fe  Fe4       1.0  0.50594  0.25297  0.24109  1.0000
+  Sb  Sb1       1.0  0.63889  0.31944  0.04167  1.0000
+  Sb  Sb2       1.0  0.11657  0.55829  0.32514  1.0000
+  Sb  Sb3       1.0  0.62385  0.81193  0.56422  1.0000
+  Sb  Sb4       1.0  0.12910  0.06455  0.80635  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La2Mg2I10
+_chemical_formula_sum              "La2 Mg2 I10"
+_cell_length_a       8.19753
+_cell_length_b       8.19753
+_cell_length_c       12.0934
+_cell_angle_alpha    68.561
+_cell_angle_beta     68.561
+_cell_angle_gamma    84.505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.49585  0.99465  0.49365  1.0000
+  La  La2       1.0  0.99465  0.49585  0.99365  1.0000
+  Mg  Mg1       1.0  0.35080  0.64802  0.24353  1.0000
+  Mg  Mg2       1.0  0.64802  0.35080  0.74353  1.0000
+  I   I1        1.0  0.29703  0.92125  0.33379  1.0000
+  I   I2        1.0  0.64966  0.71645  0.03100  1.0000
+  I   I3        1.0  0.92125  0.29703  0.83379  1.0000
+  I   I4        1.0  0.82135  0.16516  0.24122  1.0000
+  I   I5        1.0  0.29566  0.35202  0.45692  1.0000
+  I   I6        1.0  0.71645  0.64966  0.53100  1.0000
+  I   I7        1.0  0.16516  0.82135  0.74122  1.0000
+  I   I8        1.0  0.07793  0.68617  0.15470  1.0000
+  I   I9        1.0  0.35202  0.29566  0.95691  1.0000
+  I   I10       1.0  0.68617  0.07793  0.65470  1.0000

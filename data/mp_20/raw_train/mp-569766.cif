@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Te4I4
+_chemical_formula_sum              "Te4 I4"
+_cell_length_a       8.48364
+_cell_length_b       8.48364
+_cell_length_c       12.4972
+_cell_angle_alpha    53.1834
+_cell_angle_beta     53.1834
+_cell_angle_gamma    29.0912
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.87756  0.87756  0.82365  1.0000
+  Te  Te2       1.0  0.24595  0.24595  0.83699  1.0000
+  Te  Te3       1.0  0.75405  0.75405  0.16301  1.0000
+  Te  Te4       1.0  0.12244  0.12244  0.17635  1.0000
+  I   I1        1.0  0.47721  0.47721  0.18772  1.0000
+  I   I2        1.0  0.66456  0.66456  0.43925  1.0000
+  I   I3        1.0  0.33544  0.33544  0.56075  1.0000
+  I   I4        1.0  0.52279  0.52279  0.81228  1.0000

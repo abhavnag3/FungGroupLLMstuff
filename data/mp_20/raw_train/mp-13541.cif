@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Sr2MgB2O6
+_chemical_formula_sum              "Sr2 Mg1 B2 O6"
+_cell_length_a       5.2521
+_cell_length_b       5.2521
+_cell_length_c       6.19854
+_cell_angle_alpha    65.2969
+_cell_angle_beta     65.2969
+_cell_angle_gamma    59.2679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.70932  0.70932  0.81474  1.0000
+  Sr  Sr2       1.0  0.29068  0.29068  0.18526  1.0000
+  Mg  Mg1       1.0  0.50000  0.50000  0.50000  1.0000
+  B   B1        1.0  0.93765  0.93765  0.26448  1.0000
+  B   B2        1.0  0.06235  0.06235  0.73552  1.0000
+  O   O1        1.0  0.76870  0.76870  0.33871  1.0000
+  O   O2        1.0  0.20659  0.74456  0.76828  1.0000
+  O   O3        1.0  0.25544  0.79341  0.23172  1.0000
+  O   O4        1.0  0.79341  0.25544  0.23172  1.0000
+  O   O5        1.0  0.74456  0.20659  0.76828  1.0000
+  O   O6        1.0  0.23130  0.23130  0.66129  1.0000

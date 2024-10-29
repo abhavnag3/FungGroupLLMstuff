@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Hf2Cr2Ag2S8
+_chemical_formula_sum              "Hf2 Cr2 Ag2 S8"
+_cell_length_a       7.4027
+_cell_length_b       7.4027
+_cell_length_c       7.4027
+_cell_angle_alpha    119.778
+_cell_angle_beta     119.724
+_cell_angle_gamma    90.4319
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.00000  0.00000  0.00000  1.0000
+  Hf  Hf2       1.0  0.50000  0.00000  0.50000  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cr  Cr2       1.0  0.00000  0.50000  0.00000  1.0000
+  Ag  Ag1       1.0  0.37957  0.62957  0.75000  1.0000
+  Ag  Ag2       1.0  0.62043  0.37043  0.25000  1.0000
+  S   S1        1.0  0.23404  0.74965  0.01561  1.0000
+  S   S2        1.0  0.76596  0.78157  0.51561  1.0000
+  S   S3        1.0  0.20902  0.24295  0.96607  1.0000
+  S   S4        1.0  0.77687  0.24295  0.53393  1.0000
+  S   S5        1.0  0.79098  0.75705  0.03393  1.0000
+  S   S6        1.0  0.22312  0.75705  0.46607  1.0000
+  S   S7        1.0  0.76596  0.25035  0.98439  1.0000
+  S   S8        1.0  0.23404  0.21843  0.48439  1.0000

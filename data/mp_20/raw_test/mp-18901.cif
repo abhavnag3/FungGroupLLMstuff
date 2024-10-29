@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       V2Ag2Hg2O8
+_chemical_formula_sum              "V2 Ag2 Hg2 O8"
+_cell_length_a       5.98797
+_cell_length_b       5.98797
+_cell_length_c       7.25409
+_cell_angle_alpha    81.9805
+_cell_angle_beta     81.9805
+_cell_angle_gamma    55.5822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.69022  0.68336  0.76995  1.0000
+  V   V2        1.0  0.31664  0.30978  0.23005  1.0000
+  Ag  Ag1       1.0  0.62796  0.64812  0.27854  1.0000
+  Ag  Ag2       1.0  0.35188  0.37204  0.72146  1.0000
+  Hg  Hg1       1.0  0.00889  0.99111  0.00000  1.0000
+  Hg  Hg2       1.0  0.97287  0.02713  0.50000  1.0000
+  O   O1        1.0  0.48745  0.78003  0.97499  1.0000
+  O   O2        1.0  0.21997  0.51255  0.02501  1.0000
+  O   O3        1.0  0.26377  0.49881  0.40776  1.0000
+  O   O4        1.0  0.50119  0.73623  0.59224  1.0000
+  O   O5        1.0  0.80744  0.91434  0.73241  1.0000
+  O   O6        1.0  0.08566  0.19256  0.26759  1.0000
+  O   O7        1.0  0.66494  0.04928  0.21189  1.0000
+  O   O8        1.0  0.95072  0.33506  0.78811  1.0000

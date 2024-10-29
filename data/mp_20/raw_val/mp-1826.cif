@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ta12S8
+_chemical_formula_sum              "Ta12 S8"
+_cell_length_a       9.14769
+_cell_length_b       9.14769
+_cell_length_c       7.53162
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    144.01
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.22934  0.72933  0.65627  1.0000
+  Ta  Ta2       1.0  0.72933  0.22934  0.34373  1.0000
+  Ta  Ta3       1.0  0.49512  0.99511  0.99464  1.0000
+  Ta  Ta4       1.0  0.99512  0.49512  0.00536  1.0000
+  Ta  Ta5       1.0  0.83327  0.16680  0.71938  1.0000
+  Ta  Ta6       1.0  0.16680  0.83327  0.28062  1.0000
+  Ta  Ta7       1.0  0.33327  0.66680  0.28062  1.0000
+  Ta  Ta8       1.0  0.66680  0.33327  0.71938  1.0000
+  Ta  Ta9       1.0  0.88567  0.10150  0.10481  1.0000
+  Ta  Ta10      1.0  0.10150  0.88567  0.89519  1.0000
+  Ta  Ta11      1.0  0.38567  0.60150  0.89519  1.0000
+  Ta  Ta12      1.0  0.60150  0.38567  0.10481  1.0000
+  S   S1        1.0  0.82824  0.90952  0.82829  1.0000
+  S   S2        1.0  0.90952  0.82824  0.17171  1.0000
+  S   S3        1.0  0.32824  0.40952  0.17171  1.0000
+  S   S4        1.0  0.40952  0.32824  0.82829  1.0000
+  S   S5        1.0  0.25365  0.48750  0.58411  1.0000
+  S   S6        1.0  0.48750  0.25365  0.41589  1.0000
+  S   S7        1.0  0.75365  0.98750  0.41589  1.0000
+  S   S8        1.0  0.98750  0.75365  0.58411  1.0000

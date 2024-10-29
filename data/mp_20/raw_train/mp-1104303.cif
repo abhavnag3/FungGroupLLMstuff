@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       La9Ir6
+_chemical_formula_sum              "La9 Ir6"
+_cell_length_a       7.73028
+_cell_length_b       7.73028
+_cell_length_c       7.73028
+_cell_angle_alpha    71.0094
+_cell_angle_beta     71.0094
+_cell_angle_gamma    71.0094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00000  0.00000  0.00000  1.0000
+  La  La2       1.0  0.79846  0.79846  0.79846  1.0000
+  La  La3       1.0  0.20154  0.20154  0.20154  1.0000
+  La  La4       1.0  0.16303  0.39147  0.66840  1.0000
+  La  La5       1.0  0.66840  0.16303  0.39147  1.0000
+  La  La6       1.0  0.39147  0.66840  0.16303  1.0000
+  La  La7       1.0  0.83697  0.60853  0.33160  1.0000
+  La  La8       1.0  0.33160  0.83697  0.60853  1.0000
+  La  La9       1.0  0.60853  0.33160  0.83697  1.0000
+  Ir  Ir1       1.0  0.95939  0.16204  0.58847  1.0000
+  Ir  Ir2       1.0  0.58847  0.95939  0.16204  1.0000
+  Ir  Ir3       1.0  0.16204  0.58847  0.95939  1.0000
+  Ir  Ir4       1.0  0.04061  0.83796  0.41153  1.0000
+  Ir  Ir5       1.0  0.41153  0.04061  0.83796  1.0000
+  Ir  Ir6       1.0  0.83796  0.41153  0.04061  1.0000

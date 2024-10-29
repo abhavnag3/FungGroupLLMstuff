@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       BaCo2As2O8
+_chemical_formula_sum              "Ba1 Co2 As2 O8"
+_cell_length_a       8.54271
+_cell_length_b       8.7195
+_cell_length_c       8.623
+_cell_angle_alpha    33.4177
+_cell_angle_beta     33.7282
+_cell_angle_gamma    34.1608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.99952  0.00110  0.99958  1.0000
+  Co  Co1       1.0  0.82493  0.82960  0.84020  1.0000
+  Co  Co2       1.0  0.17330  0.17244  0.16044  1.0000
+  As  As1       1.0  0.43571  0.41946  0.42963  1.0000
+  As  As2       1.0  0.56441  0.58044  0.57034  1.0000
+  O   O1        1.0  0.55260  0.22248  0.88027  1.0000
+  O   O2        1.0  0.20578  0.88423  0.55484  1.0000
+  O   O3        1.0  0.87085  0.56849  0.21222  1.0000
+  O   O4        1.0  0.44980  0.77618  0.11852  1.0000
+  O   O5        1.0  0.79467  0.11488  0.44573  1.0000
+  O   O6        1.0  0.35933  0.35286  0.36373  1.0000
+  O   O7        1.0  0.63949  0.64953  0.63489  1.0000
+  O   O8        1.0  0.12963  0.42833  0.78962  1.0000

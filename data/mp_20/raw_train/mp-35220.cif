@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       P2H2N4
+_chemical_formula_sum              "P2 H2 N4"
+_cell_length_a       4.90314
+_cell_length_b       4.90314
+_cell_length_c       4.90314
+_cell_angle_alpha    121.718
+_cell_angle_beta     121.174
+_cell_angle_gamma    87.5135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.86465  0.61465  0.25000  1.0000
+  P   P2        1.0  0.63535  0.88535  0.75000  1.0000
+  H   H1        1.0  0.25000  0.10598  0.85598  1.0000
+  H   H2        1.0  0.75000  0.39402  0.64402  1.0000
+  N   N1        1.0  0.60864  0.75000  0.35864  1.0000
+  N   N2        1.0  0.25000  0.89092  0.64092  1.0000
+  N   N3        1.0  0.89136  0.25000  0.14136  1.0000
+  N   N4        1.0  0.75000  0.60908  0.85908  1.0000

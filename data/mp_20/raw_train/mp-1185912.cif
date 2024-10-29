@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2In4
+_chemical_formula_sum              "Mg2 In4"
+_cell_length_a       6.09242
+_cell_length_b       6.09242
+_cell_length_c       8.10996
+_cell_angle_alpha    69.5863
+_cell_angle_beta     69.5863
+_cell_angle_gamma    32.7572
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.02695  0.02695  0.69923  1.0000
+  Mg  Mg2       1.0  0.97305  0.97305  0.30077  1.0000
+  In  In1       1.0  0.31266  0.31266  0.63300  1.0000
+  In  In2       1.0  0.64062  0.64062  0.96711  1.0000
+  In  In3       1.0  0.35938  0.35938  0.03289  1.0000
+  In  In4       1.0  0.68734  0.68734  0.36700  1.0000

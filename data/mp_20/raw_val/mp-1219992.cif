@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Pr2Cr2Co15
+_chemical_formula_sum              "Pr2 Cr2 Co15"
+_cell_length_a       6.32528
+_cell_length_b       6.32528
+_cell_length_c       6.29492
+_cell_angle_alpha    83.1572
+_cell_angle_beta     83.1572
+_cell_angle_gamma    83.6893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.65231  0.65231  0.64908  1.0000
+  Pr  Pr2       1.0  0.34769  0.34769  0.35092  1.0000
+  Cr  Cr1       1.0  0.50000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co1       1.0  0.71554  0.28446  0.00000  1.0000
+  Co  Co2       1.0  0.00013  0.71673  0.28310  1.0000
+  Co  Co3       1.0  0.28327  0.99987  0.71690  1.0000
+  Co  Co4       1.0  0.99987  0.28327  0.71690  1.0000
+  Co  Co5       1.0  0.71673  0.00013  0.28310  1.0000
+  Co  Co6       1.0  0.28446  0.71554  0.00000  1.0000
+  Co  Co7       1.0  0.34252  0.34252  0.85880  1.0000
+  Co  Co8       1.0  0.85751  0.34132  0.34181  1.0000
+  Co  Co9       1.0  0.34132  0.85751  0.34181  1.0000
+  Co  Co10      1.0  0.65748  0.65748  0.14120  1.0000
+  Co  Co11      1.0  0.14249  0.65868  0.65819  1.0000
+  Co  Co12      1.0  0.65868  0.14249  0.65819  1.0000
+  Co  Co13      1.0  0.90356  0.90356  0.90245  1.0000
+  Co  Co14      1.0  0.09644  0.09644  0.09755  1.0000
+  Co  Co15      1.0  0.00000  0.00000  0.50000  1.0000

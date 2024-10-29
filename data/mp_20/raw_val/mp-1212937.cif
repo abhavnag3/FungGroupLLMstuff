@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu4Si2Hg2Se8
+_chemical_formula_sum              "Cu4 Si2 Hg2 Se8"
+_cell_length_a       6.65035
+_cell_length_b       6.8606
+_cell_length_c       8.12441
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.51139  0.82381  0.75255  1.0000
+  Cu  Cu2       1.0  0.01139  0.17619  0.74745  1.0000
+  Cu  Cu3       1.0  0.01139  0.17619  0.25255  1.0000
+  Cu  Cu4       1.0  0.51139  0.82381  0.24745  1.0000
+  Si  Si1       1.0  0.00031  0.67890  0.00000  1.0000
+  Si  Si2       1.0  0.50031  0.32110  0.50000  1.0000
+  Hg  Hg1       1.0  0.51383  0.34905  0.00000  1.0000
+  Hg  Hg2       1.0  0.01383  0.65095  0.50000  1.0000
+  Se  Se1       1.0  0.91785  0.34899  0.00000  1.0000
+  Se  Se2       1.0  0.41785  0.65101  0.50000  1.0000
+  Se  Se3       1.0  0.87380  0.84474  0.77301  1.0000
+  Se  Se4       1.0  0.37380  0.15526  0.72699  1.0000
+  Se  Se5       1.0  0.37380  0.15526  0.27301  1.0000
+  Se  Se6       1.0  0.87380  0.84474  0.22699  1.0000
+  Se  Se7       1.0  0.35012  0.70853  0.00000  1.0000
+  Se  Se8       1.0  0.85012  0.29147  0.50000  1.0000

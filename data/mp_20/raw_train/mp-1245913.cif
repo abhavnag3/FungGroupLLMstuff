@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       MgIn2N2
+_chemical_formula_sum              "Mg1 In2 N2"
+_cell_length_a       3.34034
+_cell_length_b       3.34025
+_cell_length_c       8.00701
+_cell_angle_alpha    90
+_cell_angle_beta     102.009
+_cell_angle_gamma    119.999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  In  In1       1.0  0.87755  0.43877  0.31702  1.0000
+  In  In2       1.0  0.12245  0.56123  0.68298  1.0000
+  N   N1        1.0  0.55465  0.27733  0.83183  1.0000
+  N   N2        1.0  0.44535  0.72267  0.16817  1.0000

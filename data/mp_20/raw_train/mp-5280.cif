@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       In2Ge2O7
+_chemical_formula_sum              "In2 Ge2 O7"
+_cell_length_a       5.61588
+_cell_length_b       5.61588
+_cell_length_c       5.00987
+_cell_angle_alpha    82.5004
+_cell_angle_beta     82.5004
+_cell_angle_gamma    105.971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.30804  0.69196  0.00000  1.0000
+  In  In2       1.0  0.69196  0.30804  0.00000  1.0000
+  Ge  Ge1       1.0  0.23327  0.23327  0.59452  1.0000
+  Ge  Ge2       1.0  0.76673  0.76673  0.40547  1.0000
+  O   O1        1.0  0.92582  0.59559  0.21076  1.0000
+  O   O2        1.0  0.40442  0.07418  0.78924  1.0000
+  O   O3        1.0  0.07418  0.40442  0.78924  1.0000
+  O   O4        1.0  0.59559  0.92582  0.21076  1.0000
+  O   O5        1.0  0.00000  0.00000  0.50000  1.0000
+  O   O6        1.0  0.59042  0.59042  0.72555  1.0000
+  O   O7        1.0  0.40958  0.40958  0.27445  1.0000

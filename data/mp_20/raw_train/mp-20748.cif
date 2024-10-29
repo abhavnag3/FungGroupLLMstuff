@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Dy4InNi2Ge4
+_chemical_formula_sum              "Dy4 In1 Ni2 Ge4"
+_cell_length_a       8.04437
+_cell_length_b       8.04437
+_cell_length_c       7.05921
+_cell_angle_alpha    71.966
+_cell_angle_beta     71.966
+_cell_angle_gamma    30.5752
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.34431  0.34431  0.93801  1.0000
+  Dy  Dy2       1.0  0.65569  0.65569  0.06199  1.0000
+  Dy  Dy3       1.0  0.40817  0.40817  0.39099  1.0000
+  Dy  Dy4       1.0  0.59183  0.59183  0.60901  1.0000
+  In  In1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.21664  0.21664  0.35608  1.0000
+  Ni  Ni2       1.0  0.78336  0.78336  0.64392  1.0000
+  Ge  Ge1       1.0  0.06541  0.06541  0.33773  1.0000
+  Ge  Ge2       1.0  0.93459  0.93459  0.66227  1.0000
+  Ge  Ge3       1.0  0.20416  0.20416  0.72736  1.0000
+  Ge  Ge4       1.0  0.79584  0.79584  0.27264  1.0000

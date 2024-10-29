@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Y6Si6Pd4
+_chemical_formula_sum              "Y6 Si6 Pd4"
+_cell_length_a       5.65814
+_cell_length_b       5.65814
+_cell_length_c       14.1535
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    135.683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.41298  0.58702  0.38900  1.0000
+  Y   Y2        1.0  0.58702  0.41298  0.61100  1.0000
+  Y   Y3        1.0  0.86556  0.13444  0.75000  1.0000
+  Y   Y4        1.0  0.13444  0.86556  0.25000  1.0000
+  Y   Y5        1.0  0.41298  0.58702  0.11100  1.0000
+  Y   Y6        1.0  0.58702  0.41298  0.88900  1.0000
+  Si  Si1       1.0  0.83856  0.16144  0.25000  1.0000
+  Si  Si2       1.0  0.16144  0.83856  0.75000  1.0000
+  Si  Si3       1.0  0.89429  0.10571  0.53902  1.0000
+  Si  Si4       1.0  0.10571  0.89429  0.46098  1.0000
+  Si  Si5       1.0  0.10571  0.89429  0.03902  1.0000
+  Si  Si6       1.0  0.89429  0.10571  0.96098  1.0000
+  Pd  Pd1       1.0  0.29525  0.70475  0.59454  1.0000
+  Pd  Pd2       1.0  0.70475  0.29525  0.40546  1.0000
+  Pd  Pd3       1.0  0.70475  0.29525  0.09454  1.0000
+  Pd  Pd4       1.0  0.29525  0.70475  0.90546  1.0000

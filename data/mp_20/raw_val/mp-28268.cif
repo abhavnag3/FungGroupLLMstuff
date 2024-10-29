@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pt4I12
+_chemical_formula_sum              "Pt4 I12"
+_cell_length_a       7.11714
+_cell_length_b       7.11714
+_cell_length_c       13.5637
+_cell_angle_alpha    84.3662
+_cell_angle_beta     84.3662
+_cell_angle_gamma    120.213
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.90328  0.09672  0.25000  1.0000
+  Pt  Pt2       1.0  0.09672  0.90328  0.75000  1.0000
+  Pt  Pt3       1.0  0.50000  0.00000  0.50000  1.0000
+  Pt  Pt4       1.0  0.00000  0.50000  0.00000  1.0000
+  I   I1        1.0  0.19146  0.06992  0.35868  1.0000
+  I   I2        1.0  0.93009  0.80854  0.14131  1.0000
+  I   I3        1.0  0.80854  0.93009  0.64131  1.0000
+  I   I4        1.0  0.06991  0.19146  0.85869  1.0000
+  I   I5        1.0  0.16100  0.65348  0.62019  1.0000
+  I   I6        1.0  0.34652  0.83900  0.87981  1.0000
+  I   I7        1.0  0.83900  0.34652  0.37981  1.0000
+  I   I8        1.0  0.65348  0.16100  0.12019  1.0000
+  I   I9        1.0  0.76035  0.55565  0.87631  1.0000
+  I   I10       1.0  0.44435  0.23965  0.62369  1.0000
+  I   I11       1.0  0.23965  0.44435  0.12369  1.0000
+  I   I12       1.0  0.55565  0.76035  0.37631  1.0000

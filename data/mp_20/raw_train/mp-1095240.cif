@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ca3Ge4Ir4
+_chemical_formula_sum              "Ca3 Ge4 Ir4"
+_cell_length_a       6.62887
+_cell_length_b       6.62887
+_cell_length_c       6.62887
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ca  Ca2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ca  Ca3       1.0  0.50000  0.50000  0.00000  1.0000
+  Ge  Ge1       1.0  0.62530  0.00000  0.00000  1.0000
+  Ge  Ge2       1.0  0.00000  0.62530  0.00000  1.0000
+  Ge  Ge3       1.0  0.00000  0.00000  0.62530  1.0000
+  Ge  Ge4       1.0  0.37471  0.37471  0.37471  1.0000
+  Ir  Ir1       1.0  0.26849  0.00000  0.00000  1.0000
+  Ir  Ir2       1.0  0.00000  0.26849  0.00000  1.0000
+  Ir  Ir3       1.0  0.00000  0.00000  0.26849  1.0000
+  Ir  Ir4       1.0  0.73150  0.73150  0.73150  1.0000

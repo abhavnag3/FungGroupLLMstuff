@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Rb4Be4O6
+_chemical_formula_sum              "Rb4 Be4 O6"
+_cell_length_a       8.8156
+_cell_length_b       4.97801
+_cell_length_c       6.58791
+_cell_angle_alpha    65.2858
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.34803  0.77995  0.92760  1.0000
+  Rb  Rb2       1.0  0.15197  0.77995  0.42760  1.0000
+  Rb  Rb3       1.0  0.84803  0.22005  0.57240  1.0000
+  Rb  Rb4       1.0  0.65197  0.22005  0.07240  1.0000
+  Be  Be1       1.0  0.50687  0.69811  0.50280  1.0000
+  Be  Be2       1.0  0.00687  0.30189  0.99720  1.0000
+  Be  Be3       1.0  0.99313  0.69811  0.00280  1.0000
+  Be  Be4       1.0  0.49313  0.30189  0.49720  1.0000
+  O   O1        1.0  0.50000  0.00000  0.50000  1.0000
+  O   O2        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O3        1.0  0.94930  0.60419  0.80805  1.0000
+  O   O4        1.0  0.44930  0.39581  0.69195  1.0000
+  O   O5        1.0  0.55070  0.60419  0.30805  1.0000
+  O   O6        1.0  0.05070  0.39581  0.19195  1.0000

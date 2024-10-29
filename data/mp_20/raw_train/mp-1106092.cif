@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr14Ag6
+_chemical_formula_sum              "Sr14 Ag6"
+_cell_length_a       11.3354
+_cell_length_b       11.3354
+_cell_length_c       7.35013
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.66667  0.33333  0.55123  1.0000
+  Sr  Sr2       1.0  0.33333  0.66667  0.05123  1.0000
+  Sr  Sr3       1.0  0.87447  0.74895  0.75227  1.0000
+  Sr  Sr4       1.0  0.25105  0.12553  0.75227  1.0000
+  Sr  Sr5       1.0  0.87447  0.12553  0.75227  1.0000
+  Sr  Sr6       1.0  0.12553  0.25105  0.25227  1.0000
+  Sr  Sr7       1.0  0.74895  0.87447  0.25227  1.0000
+  Sr  Sr8       1.0  0.12553  0.87447  0.25227  1.0000
+  Sr  Sr9       1.0  0.45844  0.91689  0.56160  1.0000
+  Sr  Sr10      1.0  0.08311  0.54156  0.56160  1.0000
+  Sr  Sr11      1.0  0.45844  0.54156  0.56160  1.0000
+  Sr  Sr12      1.0  0.54156  0.08311  0.06160  1.0000
+  Sr  Sr13      1.0  0.91689  0.45844  0.06160  1.0000
+  Sr  Sr14      1.0  0.54156  0.45844  0.06160  1.0000
+  Ag  Ag1       1.0  0.18841  0.37682  0.83103  1.0000
+  Ag  Ag2       1.0  0.62318  0.81159  0.83103  1.0000
+  Ag  Ag3       1.0  0.18841  0.81159  0.83103  1.0000
+  Ag  Ag4       1.0  0.81159  0.62318  0.33103  1.0000
+  Ag  Ag5       1.0  0.37682  0.18841  0.33103  1.0000
+  Ag  Ag6       1.0  0.81159  0.18841  0.33103  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nd10Sb6
+_chemical_formula_sum              "Nd10 Sb6"
+_cell_length_a       6.47916
+_cell_length_b       9.35874
+_cell_length_c       9.35475
+_cell_angle_alpha    120.014
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.50000  0.33333  0.66668  1.0000
+  Nd  Nd2       1.0  0.50000  0.66665  0.33332  1.0000
+  Nd  Nd3       1.0  0.00000  0.66667  0.33332  1.0000
+  Nd  Nd4       1.0  0.00000  0.33335  0.66668  1.0000
+  Nd  Nd5       1.0  0.75000  0.25050  0.00000  1.0000
+  Nd  Nd6       1.0  0.75000  0.74958  0.74952  1.0000
+  Nd  Nd7       1.0  0.75000  0.00006  0.25048  1.0000
+  Nd  Nd8       1.0  0.25000  0.74950  0.00000  1.0000
+  Nd  Nd9       1.0  0.25000  0.25042  0.25048  1.0000
+  Nd  Nd10      1.0  0.25000  0.99994  0.74952  1.0000
+  Sb  Sb1       1.0  0.75000  0.61240  0.00000  1.0000
+  Sb  Sb2       1.0  0.75000  0.38764  0.38763  1.0000
+  Sb  Sb3       1.0  0.75000  0.00001  0.61237  1.0000
+  Sb  Sb4       1.0  0.25000  0.38760  0.00000  1.0000
+  Sb  Sb5       1.0  0.25000  0.61237  0.61237  1.0000
+  Sb  Sb6       1.0  0.25000  0.99999  0.38763  1.0000

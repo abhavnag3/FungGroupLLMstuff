@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       V2Cr2Sb2O12
+_chemical_formula_sum              "V2 Cr2 Sb2 O12"
+_cell_length_a       4.6173
+_cell_length_b       4.61733
+_cell_length_c       9.23951
+_cell_angle_alpha    90.0032
+_cell_angle_beta     89.9995
+_cell_angle_gamma    90.0025
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.50000  0.49999  0.50034  1.0000
+  V   V2        1.0  1.00000  1.00000  0.00043  1.0000
+  Cr  Cr1       1.0  0.00001  1.00000  0.66761  1.0000
+  Cr  Cr2       1.0  0.50001  0.50001  0.16749  1.0000
+  Sb  Sb1       1.0  0.50000  0.49999  0.83358  1.0000
+  Sb  Sb2       1.0  0.00000  0.99999  0.33342  1.0000
+  O   O1        1.0  0.19291  0.80710  0.16398  1.0000
+  O   O2        1.0  0.80710  0.19291  0.16398  1.0000
+  O   O3        1.0  0.30719  0.30720  0.66397  1.0000
+  O   O4        1.0  0.69280  0.69282  0.66397  1.0000
+  O   O5        1.0  0.20079  0.79921  0.49928  1.0000
+  O   O6        1.0  0.79920  0.20080  0.49927  1.0000
+  O   O7        1.0  0.29926  0.29925  0.99932  1.0000
+  O   O8        1.0  0.70074  0.70075  0.99930  1.0000
+  O   O9        1.0  0.19299  0.80700  0.83603  1.0000
+  O   O10       1.0  0.80700  0.19298  0.83603  1.0000
+  O   O11       1.0  0.30699  0.30697  0.33600  1.0000
+  O   O12       1.0  0.69303  0.69302  0.33601  1.0000

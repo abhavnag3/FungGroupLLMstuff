@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K3Mn2Cl7
+_chemical_formula_sum              "K3 Mn2 Cl7"
+_cell_length_a       13.3386
+_cell_length_b       13.3386
+_cell_length_c       13.3386
+_cell_angle_alpha    158.093
+_cell_angle_beta     158.093
+_cell_angle_gamma    31.1763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.00000  0.00000  0.00000  1.0000
+  K   K2        1.0  0.18163  0.18163  0.00000  1.0000
+  K   K3        1.0  0.81837  0.81837  0.00000  1.0000
+  Mn  Mn1       1.0  0.39954  0.39954  0.00000  1.0000
+  Mn  Mn2       1.0  0.60046  0.60046  0.00000  1.0000
+  Cl  Cl1       1.0  0.40301  0.90301  0.50000  1.0000
+  Cl  Cl2       1.0  0.90301  0.40301  0.50000  1.0000
+  Cl  Cl3       1.0  0.59699  0.09699  0.50000  1.0000
+  Cl  Cl4       1.0  0.09699  0.59699  0.50000  1.0000
+  Cl  Cl5       1.0  0.69672  0.69671  0.00000  1.0000
+  Cl  Cl6       1.0  0.50000  0.50000  0.00000  1.0000
+  Cl  Cl7       1.0  0.30329  0.30329  0.00000  1.0000

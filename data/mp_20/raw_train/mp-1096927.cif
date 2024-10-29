@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsCaCl3
+_chemical_formula_sum              "Cs1 Ca1 Cl3"
+_cell_length_a       5.46191
+_cell_length_b       5.46204
+_cell_length_c       5.46446
+_cell_angle_alpha    89.9743
+_cell_angle_beta     90.0312
+_cell_angle_gamma    89.9763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.00065  0.00693  0.00245  1.0000
+  Ca  Ca1       1.0  0.49948  0.51197  0.50055  1.0000
+  Cl  Cl1       1.0  0.99960  0.51548  0.50668  1.0000
+  Cl  Cl2       1.0  0.49766  0.01251  0.49930  1.0000
+  Cl  Cl3       1.0  0.50259  0.51311  0.00102  1.0000

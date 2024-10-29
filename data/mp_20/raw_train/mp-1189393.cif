@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ho4Sc4S12
+_chemical_formula_sum              "Ho4 Sc4 S12"
+_cell_length_a       6.36995
+_cell_length_b       6.9919
+_cell_length_c       9.53923
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.45896  0.60090  0.50791  1.0000
+  Ho  Ho2       1.0  0.54104  0.39910  0.00791  1.0000
+  Ho  Ho3       1.0  0.95896  0.89910  0.00791  1.0000
+  Ho  Ho4       1.0  0.04104  0.10090  0.50791  1.0000
+  Sc  Sc1       1.0  0.99606  0.50412  0.26183  1.0000
+  Sc  Sc2       1.0  0.00394  0.49588  0.76183  1.0000
+  Sc  Sc3       1.0  0.49606  0.99588  0.76183  1.0000
+  Sc  Sc4       1.0  0.50394  0.00412  0.26183  1.0000
+  S   S1        1.0  0.17433  0.81339  0.68533  1.0000
+  S   S2        1.0  0.82567  0.18661  0.18533  1.0000
+  S   S3        1.0  0.67433  0.68661  0.18533  1.0000
+  S   S4        1.0  0.32567  0.31339  0.68533  1.0000
+  S   S5        1.0  0.17730  0.81841  0.32951  1.0000
+  S   S6        1.0  0.82270  0.18160  0.82951  1.0000
+  S   S7        1.0  0.67730  0.68159  0.82951  1.0000
+  S   S8        1.0  0.32270  0.31840  0.32951  1.0000
+  S   S9        1.0  0.14571  0.54894  0.01042  1.0000
+  S   S10       1.0  0.85429  0.45106  0.51042  1.0000
+  S   S11       1.0  0.64571  0.95106  0.51042  1.0000
+  S   S12       1.0  0.35429  0.04894  0.01042  1.0000

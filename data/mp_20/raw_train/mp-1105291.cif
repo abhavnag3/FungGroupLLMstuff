@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Mn2Sn2S8
+_chemical_formula_sum              "Li4 Mn2 Sn2 S8"
+_cell_length_a       6.8773
+_cell_length_b       6.48499
+_cell_length_c       10.3106
+_cell_angle_alpha    51.3313
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.33826  0.16100  0.23125  1.0000
+  Li  Li2       1.0  0.66174  0.16100  0.73125  1.0000
+  Li  Li3       1.0  0.83133  0.91975  0.47545  1.0000
+  Li  Li4       1.0  0.16867  0.91975  0.97545  1.0000
+  Mn  Mn1       1.0  0.17114  0.41963  0.47350  1.0000
+  Mn  Mn2       1.0  0.82886  0.41963  0.97350  1.0000
+  Sn  Sn1       1.0  0.67169  0.66483  0.22834  1.0000
+  Sn  Sn2       1.0  0.32831  0.66483  0.72834  1.0000
+  S   S1        1.0  0.33770  0.54424  0.22804  1.0000
+  S   S2        1.0  0.66230  0.54424  0.72805  1.0000
+  S   S3        1.0  0.83874  0.29886  0.47555  1.0000
+  S   S4        1.0  0.16126  0.29886  0.97555  1.0000
+  S   S5        1.0  0.83278  0.78207  0.98065  1.0000
+  S   S6        1.0  0.16722  0.78207  0.48065  1.0000
+  S   S7        1.0  0.67608  0.04455  0.22232  1.0000
+  S   S8        1.0  0.32392  0.04455  0.72232  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       NaScAs2O7
+_chemical_formula_sum              "Na1 Sc1 As2 O7"
+_cell_length_a       5.67465
+_cell_length_b       5.67465
+_cell_length_c       4.89164
+_cell_angle_alpha    82.5442
+_cell_angle_beta     82.5442
+_cell_angle_gamma    102.885
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.24586  0.75414  0.50000  1.0000
+  Sc  Sc1       1.0  0.63165  0.36835  0.50000  1.0000
+  As  As1       1.0  0.17644  0.25144  0.08605  1.0000
+  As  As2       1.0  0.74856  0.82356  0.91395  1.0000
+  O   O1        1.0  0.95981  0.37371  0.24611  1.0000
+  O   O2        1.0  0.32891  0.42539  0.77824  1.0000
+  O   O3        1.0  0.36186  0.16238  0.30554  1.0000
+  O   O4        1.0  0.62629  0.04019  0.75389  1.0000
+  O   O5        1.0  0.04158  0.95842  0.00000  1.0000
+  O   O6        1.0  0.83762  0.63814  0.69446  1.0000
+  O   O7        1.0  0.57461  0.67109  0.22176  1.0000

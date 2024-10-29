@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li4CrW3O12
+_chemical_formula_sum              "Li4 Cr1 W3 O12"
+_cell_length_a       8.63672
+_cell_length_b       5.02265
+_cell_length_c       5.14736
+_cell_angle_alpha    89.6238
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.29936  0.00000  0.00000  1.0000
+  Li  Li2       1.0  0.16124  0.50000  0.00000  1.0000
+  Li  Li3       1.0  0.69239  0.00000  0.50000  1.0000
+  Li  Li4       1.0  0.81608  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.90380  0.00000  0.00000  1.0000
+  W   W1        1.0  0.39256  0.50000  0.50000  1.0000
+  W   W2        1.0  0.60435  0.50000  0.00000  1.0000
+  W   W3        1.0  0.07456  0.00000  0.50000  1.0000
+  O   O1        1.0  0.74126  0.25801  0.84968  1.0000
+  O   O2        1.0  0.41749  0.30038  0.82253  1.0000
+  O   O3        1.0  0.07545  0.19880  0.82025  1.0000
+  O   O4        1.0  0.57235  0.70713  0.68535  1.0000
+  O   O5        1.0  0.91399  0.79590  0.66934  1.0000
+  O   O6        1.0  0.23675  0.75472  0.63868  1.0000
+  O   O7        1.0  0.23675  0.24528  0.36132  1.0000
+  O   O8        1.0  0.91399  0.20410  0.33066  1.0000
+  O   O9        1.0  0.57235  0.29287  0.31465  1.0000
+  O   O10       1.0  0.07545  0.80120  0.17975  1.0000
+  O   O11       1.0  0.41749  0.69962  0.17747  1.0000
+  O   O12       1.0  0.74126  0.74199  0.15032  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Fe4Te3Se
+_chemical_formula_sum              "Fe4 Te3 Se1"
+_cell_length_a       5.13774
+_cell_length_b       5.13774
+_cell_length_c       7.42905
+_cell_angle_alpha    69.7702
+_cell_angle_beta     69.7702
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.49549  0.99549  0.00480  1.0000
+  Fe  Fe2       1.0  0.99972  0.49972  0.00480  1.0000
+  Fe  Fe3       1.0  0.49549  0.49972  0.00480  1.0000
+  Fe  Fe4       1.0  0.99972  0.99549  0.00480  1.0000
+  Te  Te1       1.0  0.60657  0.10657  0.28686  1.0000
+  Te  Te2       1.0  0.39029  0.39029  0.71942  1.0000
+  Te  Te3       1.0  0.89029  0.89029  0.71942  1.0000
+  Se  Se1       1.0  0.12244  0.62244  0.25512  1.0000

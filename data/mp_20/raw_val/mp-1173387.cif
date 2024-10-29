@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pb2W2O8
+_chemical_formula_sum              "Pb2 W2 O8"
+_cell_length_a       5.57871
+_cell_length_b       5.61591
+_cell_length_c       7.21995
+_cell_angle_alpha    112.838
+_cell_angle_beta     112.56
+_cell_angle_gamma    89.988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.87300  0.61893  0.75023  1.0000
+  Pb  Pb2       1.0  0.12700  0.38107  0.24977  1.0000
+  W   W1        1.0  0.62091  0.87554  0.25112  1.0000
+  W   W2        1.0  0.37909  0.12446  0.74888  1.0000
+  O   O1        1.0  0.43451  0.80901  0.57877  1.0000
+  O   O2        1.0  0.84971  0.72633  0.41449  1.0000
+  O   O3        1.0  0.69524  0.34980  0.91526  1.0000
+  O   O4        1.0  0.76496  0.93110  0.08049  1.0000
+  O   O5        1.0  0.23504  0.06890  0.91951  1.0000
+  O   O6        1.0  0.30476  0.65020  0.08474  1.0000
+  O   O7        1.0  0.15029  0.27367  0.58551  1.0000
+  O   O8        1.0  0.56549  0.19099  0.42123  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb4Fe4O8
+_chemical_formula_sum              "Rb4 Fe4 O8"
+_cell_length_a       5.93197
+_cell_length_b       8.12047
+_cell_length_c       5.96192
+_cell_angle_alpha    90
+_cell_angle_beta     90.0001
+_cell_angle_gamma    89.9998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.01418  0.62232  0.06351  1.0000
+  Rb  Rb2       1.0  0.51418  0.12231  0.43649  1.0000
+  Rb  Rb3       1.0  0.01418  0.87769  0.56349  1.0000
+  Rb  Rb4       1.0  0.51418  0.37768  0.93651  1.0000
+  Fe  Fe1       1.0  0.00079  0.37368  0.54694  1.0000
+  Fe  Fe2       1.0  0.50079  0.87368  0.95306  1.0000
+  Fe  Fe3       1.0  0.00079  0.12632  0.04693  1.0000
+  Fe  Fe4       1.0  0.50079  0.62632  0.45308  1.0000
+  O   O1        1.0  0.70295  0.04880  0.00707  1.0000
+  O   O2        1.0  0.20295  0.54880  0.49293  1.0000
+  O   O3        1.0  0.70291  0.45122  0.50707  1.0000
+  O   O4        1.0  0.20291  0.95122  0.99293  1.0000
+  O   O5        1.0  0.54222  0.69426  0.15163  1.0000
+  O   O6        1.0  0.04222  0.19426  0.34837  1.0000
+  O   O7        1.0  0.54223  0.80572  0.65159  1.0000
+  O   O8        1.0  0.04223  0.30572  0.84841  1.0000

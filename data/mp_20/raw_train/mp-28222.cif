@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Rb3Sb2Br9
+_chemical_formula_sum              "Rb3 Sb2 Br9"
+_cell_length_a       8.05061
+_cell_length_b       8.05061
+_cell_length_c       9.77618
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Rb  Rb2       1.0  0.66667  0.33333  0.66976  1.0000
+  Rb  Rb3       1.0  0.33333  0.66667  0.33024  1.0000
+  Sb  Sb1       1.0  0.66667  0.33333  0.18799  1.0000
+  Sb  Sb2       1.0  0.33333  0.66667  0.81201  1.0000
+  Br  Br1       1.0  0.82784  0.17216  0.33880  1.0000
+  Br  Br2       1.0  0.82784  0.65569  0.33880  1.0000
+  Br  Br3       1.0  0.34431  0.17216  0.33880  1.0000
+  Br  Br4       1.0  0.65569  0.82784  0.66120  1.0000
+  Br  Br5       1.0  0.17216  0.34431  0.66120  1.0000
+  Br  Br6       1.0  0.50000  0.50000  0.00000  1.0000
+  Br  Br7       1.0  0.50000  0.00000  0.00000  1.0000
+  Br  Br8       1.0  0.00000  0.50000  0.00000  1.0000
+  Br  Br9       1.0  0.17216  0.82784  0.66120  1.0000

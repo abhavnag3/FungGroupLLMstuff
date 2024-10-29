@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       MgCu2P2O8
+_chemical_formula_sum              "Mg1 Cu2 P2 O8"
+_cell_length_a       4.90056
+_cell_length_b       5.33143
+_cell_length_c       6.37823
+_cell_angle_alpha    108.177
+_cell_angle_beta     86.9782
+_cell_angle_gamma    111.288
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.71994  0.24361  0.68893  1.0000
+  Cu  Cu1       1.0  0.00130  0.00124  0.00349  1.0000
+  Cu  Cu2       1.0  0.27962  0.77442  0.31301  1.0000
+  P   P1        1.0  0.35930  0.64400  0.77504  1.0000
+  P   P2        1.0  0.63979  0.34990  0.22169  1.0000
+  O   O1        1.0  0.38711  0.84495  0.63425  1.0000
+  O   O2        1.0  0.61447  0.15493  0.36628  1.0000
+  O   O3        1.0  0.66656  0.64111  0.82506  1.0000
+  O   O4        1.0  0.33315  0.35170  0.17044  1.0000
+  O   O5        1.0  0.23485  0.77458  0.00039  1.0000
+  O   O6        1.0  0.76455  0.22341  0.99960  1.0000
+  O   O7        1.0  0.15266  0.34236  0.66159  1.0000
+  O   O8        1.0  0.84671  0.65379  0.34023  1.0000

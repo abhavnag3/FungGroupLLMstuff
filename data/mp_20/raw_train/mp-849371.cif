@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cd4Sn4O12
+_chemical_formula_sum              "Cd4 Sn4 O12"
+_cell_length_a       5.55403
+_cell_length_b       5.67787
+_cell_length_c       8.03569
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.01211  0.95266  0.75000  1.0000
+  Cd  Cd2       1.0  0.48789  0.45266  0.75000  1.0000
+  Cd  Cd3       1.0  0.51211  0.54734  0.25000  1.0000
+  Cd  Cd4       1.0  0.98789  0.04734  0.25000  1.0000
+  Sn  Sn1       1.0  0.00000  0.50000  0.00000  1.0000
+  Sn  Sn2       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn3       1.0  0.50000  0.00000  0.00000  1.0000
+  Sn  Sn4       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.11354  0.44925  0.25000  1.0000
+  O   O2        1.0  0.19420  0.19727  0.56122  1.0000
+  O   O3        1.0  0.19420  0.19727  0.93878  1.0000
+  O   O4        1.0  0.30580  0.69727  0.56122  1.0000
+  O   O5        1.0  0.30580  0.69727  0.93878  1.0000
+  O   O6        1.0  0.38645  0.94925  0.25000  1.0000
+  O   O7        1.0  0.61355  0.05075  0.75000  1.0000
+  O   O8        1.0  0.69420  0.30273  0.06122  1.0000
+  O   O9        1.0  0.69420  0.30273  0.43878  1.0000
+  O   O10       1.0  0.80580  0.80273  0.06122  1.0000
+  O   O11       1.0  0.80580  0.80273  0.43878  1.0000
+  O   O12       1.0  0.88645  0.55075  0.75000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4Ho4O8
+_chemical_formula_sum              "Na4 Ho4 O8"
+_cell_length_a       7.41264
+_cell_length_b       7.41264
+_cell_length_c       5.96043
+_cell_angle_alpha    76.0265
+_cell_angle_beta     76.0265
+_cell_angle_gamma    126.631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.05574  0.94426  0.25000  1.0000
+  Na  Na2       1.0  0.81991  0.18009  0.25000  1.0000
+  Na  Na3       1.0  0.18009  0.81991  0.75000  1.0000
+  Na  Na4       1.0  0.94426  0.05574  0.75000  1.0000
+  Ho  Ho1       1.0  0.56715  0.43285  0.25000  1.0000
+  Ho  Ho2       1.0  0.30680  0.69320  0.25000  1.0000
+  Ho  Ho3       1.0  0.43285  0.56715  0.75000  1.0000
+  Ho  Ho4       1.0  0.69320  0.30680  0.75000  1.0000
+  O   O1        1.0  0.53952  0.91573  0.79422  1.0000
+  O   O2        1.0  0.35983  0.23285  0.70378  1.0000
+  O   O3        1.0  0.91573  0.53952  0.29422  1.0000
+  O   O4        1.0  0.23285  0.35983  0.20378  1.0000
+  O   O5        1.0  0.76715  0.64017  0.79622  1.0000
+  O   O6        1.0  0.08427  0.46048  0.70578  1.0000
+  O   O7        1.0  0.64017  0.76715  0.29623  1.0000
+  O   O8        1.0  0.46048  0.08427  0.20578  1.0000

@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Ba2VCu2F12
+_chemical_formula_sum              "Ba2 V1 Cu2 F12"
+_cell_length_a       5.41623
+_cell_length_b       7.08822
+_cell_length_c       7.41427
+_cell_angle_alpha    66.5886
+_cell_angle_beta     70.212
+_cell_angle_gamma    71.685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.22257  0.79195  0.28143  1.0000
+  Ba  Ba2       1.0  0.77743  0.20805  0.71857  1.0000
+  V   V1        1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu1       1.0  0.45010  0.21616  0.33326  1.0000
+  Cu  Cu2       1.0  0.54990  0.78384  0.66673  1.0000
+  F   F1        1.0  0.03213  0.23291  0.00401  1.0000
+  F   F2        1.0  0.96787  0.76709  0.99599  1.0000
+  F   F3        1.0  0.10083  0.39439  0.25362  1.0000
+  F   F4        1.0  0.89917  0.60561  0.74638  1.0000
+  F   F5        1.0  0.63689  0.50154  0.14146  1.0000
+  F   F6        1.0  0.36311  0.49846  0.85854  1.0000
+  F   F7        1.0  0.76668  0.04935  0.44055  1.0000
+  F   F8        1.0  0.23332  0.95066  0.55945  1.0000
+  F   F9        1.0  0.32517  0.34891  0.53396  1.0000
+  F   F10       1.0  0.67483  0.65109  0.46604  1.0000
+  F   F11       1.0  0.53381  0.08771  0.13527  1.0000
+  F   F12       1.0  0.46619  0.91229  0.86473  1.0000

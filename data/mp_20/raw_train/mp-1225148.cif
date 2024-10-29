@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       GdFe4Bi3O12
+_chemical_formula_sum              "Gd1 Fe4 Bi3 O12"
+_cell_length_a       7.86326
+_cell_length_b       5.48037
+_cell_length_c       5.71004
+_cell_angle_alpha    89.8341
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.50000  0.48800  0.55902  1.0000
+  Fe  Fe1       1.0  0.25240  0.99977  0.49982  1.0000
+  Fe  Fe2       1.0  0.74890  0.49893  0.00248  1.0000
+  Fe  Fe3       1.0  0.74760  0.99977  0.49982  1.0000
+  Fe  Fe4       1.0  0.25110  0.49893  0.00248  1.0000
+  Bi  Bi1       1.0  0.50000  0.00964  0.05196  1.0000
+  Bi  Bi2       1.0  0.00000  0.50590  0.45114  1.0000
+  Bi  Bi3       1.0  0.00000  0.98744  0.94964  1.0000
+  O   O1        1.0  0.50000  0.59852  0.96212  1.0000
+  O   O2        1.0  0.50000  0.89713  0.47301  1.0000
+  O   O3        1.0  0.00000  0.39991  0.03073  1.0000
+  O   O4        1.0  0.00000  0.09584  0.52845  1.0000
+  O   O5        1.0  0.79481  0.69307  0.69523  1.0000
+  O   O6        1.0  0.20304  0.80834  0.19622  1.0000
+  O   O7        1.0  0.30202  0.30880  0.30681  1.0000
+  O   O8        1.0  0.69637  0.19990  0.79641  1.0000
+  O   O9        1.0  0.69798  0.30880  0.30681  1.0000
+  O   O10       1.0  0.30363  0.19990  0.79641  1.0000
+  O   O11       1.0  0.20519  0.69307  0.69523  1.0000
+  O   O12       1.0  0.79696  0.80834  0.19622  1.0000

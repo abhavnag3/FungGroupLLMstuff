@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Re2Ge4
+_chemical_formula_sum              "Re2 Ge4"
+_cell_length_a       4.85886
+_cell_length_b       4.85886
+_cell_length_c       7.59472
+_cell_angle_alpha    63.6533
+_cell_angle_beta     63.6533
+_cell_angle_gamma    38.4984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.85004  0.85004  0.18962  1.0000
+  Re  Re2       1.0  0.14996  0.14996  0.81038  1.0000
+  Ge  Ge1       1.0  0.85216  0.85216  0.53794  1.0000
+  Ge  Ge2       1.0  0.14784  0.14784  0.46206  1.0000
+  Ge  Ge3       1.0  0.59987  0.59987  0.11403  1.0000
+  Ge  Ge4       1.0  0.40013  0.40013  0.88597  1.0000

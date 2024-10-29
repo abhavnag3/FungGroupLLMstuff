@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Nd4Sn10
+_chemical_formula_sum              "Nd4 Sn10"
+_cell_length_a       17.897
+_cell_length_b       17.897
+_cell_length_c       4.68412
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    165.055
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.93236  0.06764  0.50000  1.0000
+  Nd  Nd2       1.0  0.06763  0.93236  0.50000  1.0000
+  Nd  Nd3       1.0  0.79785  0.20215  0.50000  1.0000
+  Nd  Nd4       1.0  0.20215  0.79785  0.50000  1.0000
+  Sn  Sn1       1.0  0.63727  0.36273  0.50000  1.0000
+  Sn  Sn2       1.0  0.36273  0.63727  0.50000  1.0000
+  Sn  Sn3       1.0  0.72123  0.27877  0.00000  1.0000
+  Sn  Sn4       1.0  0.27877  0.72123  0.00000  1.0000
+  Sn  Sn5       1.0  0.50000  0.50000  0.50000  1.0000
+  Sn  Sn6       1.0  0.57077  0.42923  0.00000  1.0000
+  Sn  Sn7       1.0  0.42923  0.57077  0.00000  1.0000
+  Sn  Sn8       1.0  0.86206  0.13794  0.00000  1.0000
+  Sn  Sn9       1.0  0.13794  0.86206  0.00000  1.0000
+  Sn  Sn10      1.0  0.00000  0.00000  0.00000  1.0000

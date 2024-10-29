@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K4Ca4Cl12
+_chemical_formula_sum              "K4 Ca4 Cl12"
+_cell_length_a       7.3266
+_cell_length_b       7.61944
+_cell_length_c       10.5321
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.01687  0.43594  0.25000  1.0000
+  K   K2        1.0  0.98313  0.56406  0.75000  1.0000
+  K   K3        1.0  0.51687  0.06406  0.75000  1.0000
+  K   K4        1.0  0.48313  0.93594  0.25000  1.0000
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ca  Ca3       1.0  0.00000  0.00000  0.50000  1.0000
+  Ca  Ca4       1.0  0.50000  0.50000  0.50000  1.0000
+  Cl  Cl1       1.0  0.30402  0.19942  0.05075  1.0000
+  Cl  Cl2       1.0  0.69598  0.80058  0.94925  1.0000
+  Cl  Cl3       1.0  0.80402  0.30058  0.94925  1.0000
+  Cl  Cl4       1.0  0.69598  0.80058  0.55075  1.0000
+  Cl  Cl5       1.0  0.19598  0.69942  0.05075  1.0000
+  Cl  Cl6       1.0  0.30402  0.19942  0.44925  1.0000
+  Cl  Cl7       1.0  0.19598  0.69942  0.44925  1.0000
+  Cl  Cl8       1.0  0.80402  0.30058  0.55075  1.0000
+  Cl  Cl9       1.0  0.59889  0.53237  0.25000  1.0000
+  Cl  Cl10      1.0  0.40111  0.46763  0.75000  1.0000
+  Cl  Cl11      1.0  0.09889  0.96763  0.75000  1.0000
+  Cl  Cl12      1.0  0.90111  0.03237  0.25000  1.0000

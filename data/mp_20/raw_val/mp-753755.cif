@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Bi6O8F2
+_chemical_formula_sum              "Bi6 O8 F2"
+_cell_length_a       9.23033
+_cell_length_b       9.23033
+_cell_length_c       5.83211
+_cell_angle_alpha    81.6238
+_cell_angle_beta     81.6238
+_cell_angle_gamma    36.687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.36028  0.95160  0.47340  1.0000
+  Bi  Bi2       1.0  0.70379  0.29621  0.50000  1.0000
+  Bi  Bi3       1.0  0.94500  0.36637  0.97208  1.0000
+  Bi  Bi4       1.0  0.29156  0.70844  0.00000  1.0000
+  Bi  Bi5       1.0  0.04840  0.63972  0.52660  1.0000
+  Bi  Bi6       1.0  0.63363  0.05500  0.02792  1.0000
+  O   O1        1.0  0.50401  0.64084  0.65248  1.0000
+  O   O2        1.0  0.15317  0.04832  0.19127  1.0000
+  O   O3        1.0  0.95168  0.84683  0.80873  1.0000
+  O   O4        1.0  0.63701  0.50727  0.15344  1.0000
+  O   O5        1.0  0.35916  0.49600  0.34752  1.0000
+  O   O6        1.0  0.04480  0.15414  0.69438  1.0000
+  O   O7        1.0  0.84586  0.95520  0.30562  1.0000
+  O   O8        1.0  0.49273  0.36299  0.84656  1.0000
+  F   F1        1.0  0.00650  0.49454  0.24906  1.0000
+  F   F2        1.0  0.50547  0.99350  0.75094  1.0000

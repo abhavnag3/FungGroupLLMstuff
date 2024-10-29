@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr8Re4C8
+_chemical_formula_sum              "Pr8 Re4 C8"
+_cell_length_a       5.41256
+_cell_length_b       6.74291
+_cell_length_c       10.3235
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.75000  0.52534  0.78606  1.0000
+  Pr  Pr2       1.0  0.25000  0.97466  0.28606  1.0000
+  Pr  Pr3       1.0  0.75000  0.69004  0.44989  1.0000
+  Pr  Pr4       1.0  0.25000  0.80996  0.94989  1.0000
+  Pr  Pr5       1.0  0.75000  0.19004  0.05011  1.0000
+  Pr  Pr6       1.0  0.25000  0.30996  0.55011  1.0000
+  Pr  Pr7       1.0  0.25000  0.47465  0.21394  1.0000
+  Pr  Pr8       1.0  0.75000  0.02534  0.71394  1.0000
+  Re  Re1       1.0  0.25000  0.26829  0.85633  1.0000
+  Re  Re2       1.0  0.25000  0.76829  0.64367  1.0000
+  Re  Re3       1.0  0.75000  0.23171  0.35633  1.0000
+  Re  Re4       1.0  0.75000  0.73171  0.14367  1.0000
+  C   C1        1.0  0.25000  0.68920  0.46531  1.0000
+  C   C2        1.0  0.25000  0.53164  0.75780  1.0000
+  C   C3        1.0  0.75000  0.46836  0.24220  1.0000
+  C   C4        1.0  0.75000  0.81080  0.96531  1.0000
+  C   C5        1.0  0.25000  0.03164  0.74220  1.0000
+  C   C6        1.0  0.25000  0.18920  0.03469  1.0000
+  C   C7        1.0  0.75000  0.31080  0.53469  1.0000
+  C   C8        1.0  0.75000  0.96836  0.25780  1.0000

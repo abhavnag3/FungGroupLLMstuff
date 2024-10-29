@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Th2Si3Os
+_chemical_formula_sum              "Th2 Si3 Os1"
+_cell_length_a       7.79468
+_cell_length_b       7.79468
+_cell_length_c       7.79468
+_cell_angle_alpha    149.481
+_cell_angle_beta     148.711
+_cell_angle_gamma    44.2732
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.74761  0.24761  0.50000  1.0000
+  Th  Th2       1.0  0.00236  0.00236  0.00000  1.0000
+  Si  Si1       1.0  0.58268  0.58268  0.00000  1.0000
+  Si  Si2       1.0  0.33189  0.83189  0.50000  1.0000
+  Si  Si3       1.0  0.41810  0.41810  0.00000  1.0000
+  Os  Os1       1.0  0.16736  0.66736  0.50000  1.0000

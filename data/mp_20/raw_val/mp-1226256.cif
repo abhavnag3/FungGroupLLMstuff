@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cr2Fe2Si4
+_chemical_formula_sum              "Cr2 Fe2 Si4"
+_cell_length_a       4.50017
+_cell_length_b       4.53264
+_cell_length_c       4.54243
+_cell_angle_alpha    89.1218
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.63749  0.63008  0.89438  1.0000
+  Cr  Cr2       1.0  0.13749  0.36992  0.10562  1.0000
+  Fe  Fe1       1.0  0.36214  0.85879  0.38575  1.0000
+  Fe  Fe2       1.0  0.86214  0.14122  0.61425  1.0000
+  Si  Si1       1.0  0.34563  0.33608  0.59099  1.0000
+  Si  Si2       1.0  0.84562  0.66392  0.40901  1.0000
+  Si  Si3       1.0  0.65475  0.14500  0.09821  1.0000
+  Si  Si4       1.0  0.15475  0.85499  0.90179  1.0000

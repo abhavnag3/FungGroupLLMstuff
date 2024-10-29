@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sb2P2O8
+_chemical_formula_sum              "Sb2 P2 O8"
+_cell_length_a       6.8849
+_cell_length_b       4.87339
+_cell_length_c       5.28824
+_cell_angle_alpha    83.3856
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.75000  0.19125  0.80832  1.0000
+  Sb  Sb2       1.0  0.25000  0.80875  0.19168  1.0000
+  P   P1        1.0  0.75000  0.72449  0.38800  1.0000
+  P   P2        1.0  0.25000  0.27551  0.61200  1.0000
+  O   O1        1.0  0.42913  0.17552  0.76960  1.0000
+  O   O2        1.0  0.92913  0.82448  0.23040  1.0000
+  O   O3        1.0  0.57087  0.82448  0.23040  1.0000
+  O   O4        1.0  0.07087  0.17552  0.76960  1.0000
+  O   O5        1.0  0.25000  0.17455  0.33959  1.0000
+  O   O6        1.0  0.75000  0.82545  0.66041  1.0000
+  O   O7        1.0  0.25000  0.59829  0.55478  1.0000
+  O   O8        1.0  0.75000  0.40171  0.44522  1.0000

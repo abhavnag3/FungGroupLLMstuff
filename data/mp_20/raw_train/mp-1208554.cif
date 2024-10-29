@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta4Si4Pt4
+_chemical_formula_sum              "Ta4 Si4 Pt4"
+_cell_length_a       3.85624
+_cell_length_b       6.45175
+_cell_length_c       7.42903
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.25000  0.52590  0.16453  1.0000
+  Ta  Ta2       1.0  0.75000  0.47409  0.83547  1.0000
+  Ta  Ta3       1.0  0.75000  0.97410  0.66453  1.0000
+  Ta  Ta4       1.0  0.25000  0.02591  0.33547  1.0000
+  Si  Si1       1.0  0.25000  0.76770  0.87503  1.0000
+  Si  Si2       1.0  0.75000  0.23230  0.12497  1.0000
+  Si  Si3       1.0  0.75000  0.73230  0.37503  1.0000
+  Si  Si4       1.0  0.25000  0.26770  0.62497  1.0000
+  Pt  Pt1       1.0  0.25000  0.65291  0.56757  1.0000
+  Pt  Pt2       1.0  0.75000  0.34709  0.43243  1.0000
+  Pt  Pt3       1.0  0.75000  0.84709  0.06757  1.0000
+  Pt  Pt4       1.0  0.25000  0.15291  0.93243  1.0000

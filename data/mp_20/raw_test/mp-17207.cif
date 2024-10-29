@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tl8Ge2S8
+_chemical_formula_sum              "Tl8 Ge2 S8"
+_cell_length_a       8.77234
+_cell_length_b       8.77234
+_cell_length_c       7.83423
+_cell_angle_alpha    72.7614
+_cell_angle_beta     72.7614
+_cell_angle_gamma    83.5241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.20503  0.19978  0.91954  1.0000
+  Tl  Tl2       1.0  0.19978  0.20503  0.41954  1.0000
+  Tl  Tl3       1.0  0.03656  0.58639  0.94475  1.0000
+  Tl  Tl4       1.0  0.58639  0.03656  0.44475  1.0000
+  Tl  Tl5       1.0  0.73255  0.01020  0.91062  1.0000
+  Tl  Tl6       1.0  0.01020  0.73255  0.41062  1.0000
+  Tl  Tl7       1.0  0.63566  0.42014  0.98119  1.0000
+  Tl  Tl8       1.0  0.42014  0.63566  0.48119  1.0000
+  Ge  Ge1       1.0  0.79885  0.37580  0.46341  1.0000
+  Ge  Ge2       1.0  0.37581  0.79885  0.96341  1.0000
+  S   S1        1.0  0.20416  0.91126  0.79665  1.0000
+  S   S2        1.0  0.91126  0.20417  0.29665  1.0000
+  S   S3        1.0  0.61944  0.76450  0.77599  1.0000
+  S   S4        1.0  0.76450  0.61944  0.27598  1.0000
+  S   S5        1.0  0.56079  0.28468  0.65263  1.0000
+  S   S6        1.0  0.28468  0.56079  0.15263  1.0000
+  S   S7        1.0  0.95143  0.39116  0.64193  1.0000
+  S   S8        1.0  0.39116  0.95143  0.14193  1.0000

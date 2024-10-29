@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       ZnGa11Co4
+_chemical_formula_sum              "Zn1 Ga11 Co4"
+_cell_length_a       6.24123
+_cell_length_b       6.30515
+_cell_length_c       6.41065
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.3683
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ga  Ga1       1.0  0.34867  0.65752  0.23869  1.0000
+  Ga  Ga2       1.0  0.65133  0.34248  0.23869  1.0000
+  Ga  Ga3       1.0  0.15546  0.15190  0.74428  1.0000
+  Ga  Ga4       1.0  0.84454  0.84810  0.74428  1.0000
+  Ga  Ga5       1.0  0.65133  0.34248  0.76131  1.0000
+  Ga  Ga6       1.0  0.34867  0.65752  0.76131  1.0000
+  Ga  Ga7       1.0  0.84454  0.84810  0.25572  1.0000
+  Ga  Ga8       1.0  0.15546  0.15190  0.25572  1.0000
+  Ga  Ga9       1.0  0.00000  0.50000  0.50000  1.0000
+  Ga  Ga10      1.0  0.00000  0.50000  0.00000  1.0000
+  Ga  Ga11      1.0  0.50000  0.00000  0.50000  1.0000
+  Co  Co1       1.0  0.15479  0.84410  0.50000  1.0000
+  Co  Co2       1.0  0.84521  0.15590  0.50000  1.0000
+  Co  Co3       1.0  0.34255  0.35187  0.00000  1.0000
+  Co  Co4       1.0  0.65745  0.64813  0.00000  1.0000

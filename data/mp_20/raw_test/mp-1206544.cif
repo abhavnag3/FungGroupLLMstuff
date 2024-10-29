@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sr2Tl4Pt2
+_chemical_formula_sum              "Sr2 Tl4 Pt2"
+_cell_length_a       6.03467
+_cell_length_b       6.03467
+_cell_length_c       8.64785
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    137.332
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.56516  0.43484  0.25000  1.0000
+  Sr  Sr2       1.0  0.43484  0.56516  0.75000  1.0000
+  Tl  Tl1       1.0  0.85443  0.14557  0.04943  1.0000
+  Tl  Tl2       1.0  0.14557  0.85443  0.95057  1.0000
+  Tl  Tl3       1.0  0.14557  0.85443  0.54943  1.0000
+  Tl  Tl4       1.0  0.85443  0.14557  0.45057  1.0000
+  Pt  Pt1       1.0  0.27842  0.72158  0.25000  1.0000
+  Pt  Pt2       1.0  0.72158  0.27842  0.75000  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs6Mn2I10
+_chemical_formula_sum              "Cs6 Mn2 I10"
+_cell_length_a       11.1919
+_cell_length_b       11.1919
+_cell_length_c       11.1919
+_cell_angle_alpha    124.28
+_cell_angle_beta     124.28
+_cell_angle_gamma    82.7347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.84381  0.65619  0.50000  1.0000
+  Cs  Cs2       1.0  0.75000  0.75000  0.00000  1.0000
+  Cs  Cs3       1.0  0.34381  0.84381  0.18762  1.0000
+  Cs  Cs4       1.0  0.15619  0.34381  0.50000  1.0000
+  Cs  Cs5       1.0  0.25000  0.25000  0.00000  1.0000
+  Cs  Cs6       1.0  0.65619  0.15619  0.81238  1.0000
+  Mn  Mn1       1.0  0.25000  0.75000  0.50000  1.0000
+  Mn  Mn2       1.0  0.75000  0.25000  0.50000  1.0000
+  I   I1        1.0  0.49117  0.69988  0.50000  1.0000
+  I   I2        1.0  0.50883  0.30012  0.50000  1.0000
+  I   I3        1.0  0.69988  0.19989  0.20872  1.0000
+  I   I4        1.0  0.80012  0.00883  0.50000  1.0000
+  I   I5        1.0  0.50000  0.50000  0.00000  1.0000
+  I   I6        1.0  0.19989  0.99117  0.50000  1.0000
+  I   I7        1.0  0.00883  0.50883  0.20872  1.0000
+  I   I8        1.0  0.30012  0.80012  0.79128  1.0000
+  I   I9        1.0  0.99117  0.49117  0.79128  1.0000
+  I   I10       1.0  0.00000  0.00000  0.00000  1.0000

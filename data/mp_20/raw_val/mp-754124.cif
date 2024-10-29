@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sc4Co4O12
+_chemical_formula_sum              "Sc4 Co4 O12"
+_cell_length_a       5.01156
+_cell_length_b       5.40958
+_cell_length_c       7.65557
+_cell_angle_alpha    90.0017
+_cell_angle_beta     89.734
+_cell_angle_gamma    89.9975
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.02353  0.92384  0.75176  1.0000
+  Sc  Sc2       1.0  0.47652  0.42384  0.74823  1.0000
+  Sc  Sc3       1.0  0.52348  0.57616  0.25177  1.0000
+  Sc  Sc4       1.0  0.97647  0.07616  0.24824  1.0000
+  Co  Co1       1.0  0.00000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co3       1.0  1.00000  0.50000  0.00000  1.0000
+  Co  Co4       1.0  0.50000  1.00000  0.50000  1.0000
+  O   O1        1.0  0.14539  0.43627  0.25019  1.0000
+  O   O2        1.0  0.35456  0.93627  0.24982  1.0000
+  O   O3        1.0  0.64544  0.06373  0.75018  1.0000
+  O   O4        1.0  0.85461  0.56373  0.74981  1.0000
+  O   O5        1.0  0.19560  0.18312  0.57365  1.0000
+  O   O6        1.0  0.19435  0.18213  0.92998  1.0000
+  O   O7        1.0  0.30442  0.68310  0.92636  1.0000
+  O   O8        1.0  0.30567  0.68214  0.57002  1.0000
+  O   O9        1.0  0.69433  0.31786  0.42998  1.0000
+  O   O10       1.0  0.69558  0.31690  0.07364  1.0000
+  O   O11       1.0  0.80565  0.81788  0.07001  1.0000
+  O   O12       1.0  0.80440  0.81688  0.42635  1.0000

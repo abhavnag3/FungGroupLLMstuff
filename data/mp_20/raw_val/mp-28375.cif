@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ta2AgF12
+_chemical_formula_sum              "Ta2 Ag1 F12"
+_cell_length_a       5.39686
+_cell_length_b       5.68875
+_cell_length_c       9.37593
+_cell_angle_alpha    103.838
+_cell_angle_beta     88.0146
+_cell_angle_gamma    117
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.77731  0.51089  0.27051  1.0000
+  Ta  Ta2       1.0  0.22270  0.48911  0.72949  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  F   F1        1.0  0.83392  0.27143  0.72352  1.0000
+  F   F2        1.0  0.16608  0.72857  0.27648  1.0000
+  F   F3        1.0  0.18508  0.73654  0.91799  1.0000
+  F   F4        1.0  0.71953  0.73302  0.43542  1.0000
+  F   F5        1.0  0.28047  0.26698  0.56458  1.0000
+  F   F6        1.0  0.80159  0.27454  0.37134  1.0000
+  F   F7        1.0  0.19841  0.72546  0.62866  1.0000
+  F   F8        1.0  0.38390  0.29416  0.20977  1.0000
+  F   F9        1.0  0.61609  0.70584  0.79023  1.0000
+  F   F10       1.0  0.75388  0.72871  0.13326  1.0000
+  F   F11       1.0  0.24612  0.27129  0.86674  1.0000
+  F   F12       1.0  0.81492  0.26346  0.08201  1.0000

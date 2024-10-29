@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Lu2Se2O6F2
+_chemical_formula_sum              "Lu2 Se2 O6 F2"
+_cell_length_a       4.29285
+_cell_length_b       6.50546
+_cell_length_c       6.90009
+_cell_angle_alpha    91.8347
+_cell_angle_beta     93.7908
+_cell_angle_gamma    96.6351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.46039  0.36843  0.24457  1.0000
+  Lu  Lu2       1.0  0.53961  0.63157  0.75543  1.0000
+  Se  Se1       1.0  0.68023  0.85854  0.27226  1.0000
+  Se  Se2       1.0  0.31977  0.14146  0.72774  1.0000
+  O   O1        1.0  0.60066  0.67499  0.07939  1.0000
+  O   O2        1.0  0.40379  0.02210  0.23441  1.0000
+  O   O3        1.0  0.51223  0.67914  0.43101  1.0000
+  O   O4        1.0  0.39935  0.32501  0.92061  1.0000
+  O   O5        1.0  0.59622  0.97790  0.76559  1.0000
+  O   O6        1.0  0.48777  0.32086  0.56900  1.0000
+  F   F1        1.0  0.95962  0.35052  0.25495  1.0000
+  F   F2        1.0  0.04038  0.64948  0.74505  1.0000

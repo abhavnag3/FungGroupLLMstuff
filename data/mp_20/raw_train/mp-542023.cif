@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sc4Fe2B4Rh10
+_chemical_formula_sum              "Sc4 Fe2 B4 Rh10"
+_cell_length_a       9.32827
+_cell_length_b       9.32827
+_cell_length_c       3.08426
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.82477  0.32477  0.00000  1.0000
+  Sc  Sc2       1.0  0.32477  0.17523  0.00000  1.0000
+  Sc  Sc3       1.0  0.67523  0.82477  0.00000  1.0000
+  Sc  Sc4       1.0  0.17523  0.67523  0.00000  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.50000  0.00000  1.0000
+  B   B1        1.0  0.62431  0.12431  0.00000  1.0000
+  B   B2        1.0  0.12431  0.37569  0.00000  1.0000
+  B   B3        1.0  0.87569  0.62431  0.00000  1.0000
+  B   B4        1.0  0.37569  0.87569  0.00000  1.0000
+  Rh  Rh1       1.0  0.07065  0.21585  0.50000  1.0000
+  Rh  Rh2       1.0  0.21585  0.92934  0.50000  1.0000
+  Rh  Rh3       1.0  0.78415  0.07065  0.50000  1.0000
+  Rh  Rh4       1.0  0.92934  0.78415  0.50000  1.0000
+  Rh  Rh5       1.0  0.42935  0.71585  0.50000  1.0000
+  Rh  Rh6       1.0  0.57066  0.28415  0.50000  1.0000
+  Rh  Rh7       1.0  0.71585  0.57066  0.50000  1.0000
+  Rh  Rh8       1.0  0.28415  0.42935  0.50000  1.0000
+  Rh  Rh9       1.0  0.50000  0.00000  0.50000  1.0000
+  Rh  Rh10      1.0  0.00000  0.50000  0.50000  1.0000

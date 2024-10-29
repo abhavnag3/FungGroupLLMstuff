@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       H8C4
+_chemical_formula_sum              "H8 C4"
+_cell_length_a       2.56308
+_cell_length_b       4.93779
+_cell_length_c       7.17883
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.25000  0.53710  0.69302  1.0000
+  H   H2        1.0  0.75000  0.46290  0.30698  1.0000
+  H   H3        1.0  0.75000  0.03710  0.80698  1.0000
+  H   H4        1.0  0.25000  0.96290  0.19302  1.0000
+  H   H5        1.0  0.25000  0.78214  0.51458  1.0000
+  H   H6        1.0  0.75000  0.21786  0.48542  1.0000
+  H   H7        1.0  0.75000  0.28214  0.98542  1.0000
+  H   H8        1.0  0.25000  0.71786  0.01458  1.0000
+  C   C1        1.0  0.25000  0.56157  0.54024  1.0000
+  C   C2        1.0  0.75000  0.43843  0.45976  1.0000
+  C   C3        1.0  0.75000  0.06157  0.95976  1.0000
+  C   C4        1.0  0.25000  0.93843  0.04024  1.0000

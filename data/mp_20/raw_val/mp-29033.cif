@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       P3BrCl14
+_chemical_formula_sum              "P3 Br1 Cl14"
+_cell_length_a       9.01998
+_cell_length_b       9.01998
+_cell_length_c       9.01998
+_cell_angle_alpha    119.747
+_cell_angle_beta     119.747
+_cell_angle_gamma    90.438
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.24894  0.74894  0.50000  1.0000
+  P   P2        1.0  0.49640  0.49640  0.00000  1.0000
+  P   P3        1.0  0.74894  0.24894  0.50000  1.0000
+  Br  Br1       1.0  0.00054  0.00054  0.00000  1.0000
+  Cl  Cl1       1.0  0.32633  0.32633  0.00000  1.0000
+  Cl  Cl2       1.0  0.51265  0.87402  0.70992  1.0000
+  Cl  Cl3       1.0  0.87402  0.16411  0.36137  1.0000
+  Cl  Cl4       1.0  0.80273  0.51265  0.63863  1.0000
+  Cl  Cl5       1.0  0.16411  0.80273  0.29008  1.0000
+  Cl  Cl6       1.0  0.19555  0.48528  0.36171  1.0000
+  Cl  Cl7       1.0  0.48528  0.12357  0.28973  1.0000
+  Cl  Cl8       1.0  0.83384  0.19555  0.71027  1.0000
+  Cl  Cl9       1.0  0.12357  0.83384  0.63829  1.0000
+  Cl  Cl10      1.0  0.38376  0.28471  0.67557  1.0000
+  Cl  Cl11      1.0  0.28471  0.60914  0.90096  1.0000
+  Cl  Cl12      1.0  0.70819  0.38376  0.09904  1.0000
+  Cl  Cl13      1.0  0.60914  0.70819  0.32443  1.0000
+  Cl  Cl14      1.0  0.66659  0.66659  0.00000  1.0000

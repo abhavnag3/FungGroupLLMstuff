@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Si5Mo10P
+_chemical_formula_sum              "Si5 Mo10 P1"
+_cell_length_a       4.92935
+_cell_length_b       7.26225
+_cell_length_c       7.26225
+_cell_angle_alpha    96.614
+_cell_angle_beta     109.839
+_cell_angle_gamma    70.1608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.33242  0.50000  0.16484  1.0000
+  Si  Si2       1.0  0.66758  0.50000  0.83516  1.0000
+  Si  Si3       1.0  0.83242  0.83516  0.50000  1.0000
+  Si  Si4       1.0  0.16758  0.16484  0.50000  1.0000
+  Si  Si5       1.0  0.75000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.42247  0.85243  0.70081  1.0000
+  Mo  Mo2       1.0  0.57409  0.14757  0.29919  1.0000
+  Mo  Mo3       1.0  0.92591  0.29919  0.14757  1.0000
+  Mo  Mo4       1.0  0.07753  0.70081  0.85243  1.0000
+  Mo  Mo5       1.0  0.72166  0.70081  0.14757  1.0000
+  Mo  Mo6       1.0  0.27490  0.29919  0.85243  1.0000
+  Mo  Mo7       1.0  0.77834  0.14757  0.70081  1.0000
+  Mo  Mo8       1.0  0.22510  0.85243  0.29919  1.0000
+  Mo  Mo9       1.0  0.25000  0.50000  0.50000  1.0000
+  Mo  Mo10      1.0  0.75000  0.50000  0.50000  1.0000
+  P   P1        1.0  0.25000  0.00000  0.00000  1.0000

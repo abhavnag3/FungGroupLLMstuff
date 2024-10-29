@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr4Sn2O8
+_chemical_formula_sum              "Sr4 Sn2 O8"
+_cell_length_a       6.92675
+_cell_length_b       6.92675
+_cell_length_c       5.91904
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    130.5
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.14722  0.85278  0.48540  1.0000
+  Sr  Sr2       1.0  0.85278  0.14722  0.51460  1.0000
+  Sr  Sr3       1.0  0.35278  0.64722  0.98540  1.0000
+  Sr  Sr4       1.0  0.64722  0.35278  0.01460  1.0000
+  Sn  Sn1       1.0  0.50000  0.50000  0.50000  1.0000
+  Sn  Sn2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.33682  0.66318  0.55720  1.0000
+  O   O2        1.0  0.66318  0.33682  0.44280  1.0000
+  O   O3        1.0  0.16318  0.83682  0.05720  1.0000
+  O   O4        1.0  0.83682  0.16318  0.94280  1.0000
+  O   O5        1.0  0.22835  0.27165  0.25000  1.0000
+  O   O6        1.0  0.27165  0.22835  0.75000  1.0000
+  O   O7        1.0  0.72835  0.77165  0.25000  1.0000
+  O   O8        1.0  0.77165  0.72835  0.75000  1.0000

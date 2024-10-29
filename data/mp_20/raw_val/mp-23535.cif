@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K4Zn2Br8
+_chemical_formula_sum              "K4 Zn2 Br8"
+_cell_length_a       7.66315
+_cell_length_b       7.41875
+_cell_length_c       9.28128
+_cell_angle_alpha    71.4678
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.75706  0.22789  0.57212  1.0000
+  K   K2        1.0  0.25706  0.77211  0.42788  1.0000
+  K   K3        1.0  0.75636  0.28849  0.04745  1.0000
+  K   K4        1.0  0.25636  0.71151  0.95255  1.0000
+  Zn  Zn1       1.0  0.74268  0.71977  0.20422  1.0000
+  Zn  Zn2       1.0  0.24268  0.28023  0.79578  1.0000
+  Br  Br1       1.0  0.72953  0.89679  0.93412  1.0000
+  Br  Br2       1.0  0.22953  0.10321  0.06588  1.0000
+  Br  Br3       1.0  0.73279  0.92238  0.36478  1.0000
+  Br  Br4       1.0  0.23278  0.07762  0.63522  1.0000
+  Br  Br5       1.0  0.99789  0.51196  0.26005  1.0000
+  Br  Br6       1.0  0.49789  0.48804  0.73995  1.0000
+  Br  Br7       1.0  0.49888  0.49475  0.26649  1.0000
+  Br  Br8       1.0  0.99888  0.50525  0.73351  1.0000

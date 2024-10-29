@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Gd4Si4Pt8
+_chemical_formula_sum              "Gd4 Si4 Pt8"
+_cell_length_a       5.60498
+_cell_length_b       6.93823
+_cell_length_c       7.43427
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.35899  0.75000  0.02872  1.0000
+  Gd  Gd2       1.0  0.14101  0.75000  0.52872  1.0000
+  Gd  Gd3       1.0  0.64101  0.25000  0.97128  1.0000
+  Gd  Gd4       1.0  0.85899  0.25000  0.47128  1.0000
+  Si  Si1       1.0  0.64247  0.75000  0.37718  1.0000
+  Si  Si2       1.0  0.85753  0.75000  0.87718  1.0000
+  Si  Si3       1.0  0.35753  0.25000  0.62282  1.0000
+  Si  Si4       1.0  0.14247  0.25000  0.12282  1.0000
+  Pt  Pt1       1.0  0.90826  0.55058  0.17817  1.0000
+  Pt  Pt2       1.0  0.59174  0.94942  0.67817  1.0000
+  Pt  Pt3       1.0  0.09174  0.05058  0.82183  1.0000
+  Pt  Pt4       1.0  0.40826  0.44942  0.32183  1.0000
+  Pt  Pt5       1.0  0.09174  0.44942  0.82183  1.0000
+  Pt  Pt6       1.0  0.40826  0.05058  0.32183  1.0000
+  Pt  Pt7       1.0  0.90826  0.94942  0.17817  1.0000
+  Pt  Pt8       1.0  0.59174  0.55058  0.67817  1.0000

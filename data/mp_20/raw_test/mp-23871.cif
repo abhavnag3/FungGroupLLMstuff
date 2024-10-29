@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       CsMnP3HO10
+_chemical_formula_sum              "Cs1 Mn1 P3 H1 O10"
+_cell_length_a       6.33505
+_cell_length_b       6.33505
+_cell_length_c       6.6053
+_cell_angle_alpha    73.4516
+_cell_angle_beta     73.4516
+_cell_angle_gamma    87.747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.00110  0.99889  0.50000  1.0000
+  Mn  Mn1       1.0  0.33592  0.66408  0.00000  1.0000
+  P   P1        1.0  0.43525  0.56475  0.50000  1.0000
+  P   P2        1.0  0.44248  0.20374  0.89300  1.0000
+  P   P3        1.0  0.79627  0.55751  0.10700  1.0000
+  H   H1        1.0  0.75140  0.24860  0.00000  1.0000
+  O   O1        1.0  0.41188  0.71721  0.64184  1.0000
+  O   O2        1.0  0.28279  0.58812  0.35816  1.0000
+  O   O3        1.0  0.69182  0.19723  0.86141  1.0000
+  O   O4        1.0  0.80277  0.30817  0.13859  1.0000
+  O   O5        1.0  0.01954  0.68032  0.02332  1.0000
+  O   O6        1.0  0.31968  0.98046  0.97668  1.0000
+  O   O7        1.0  0.65362  0.67432  0.95834  1.0000
+  O   O8        1.0  0.41006  0.30957  0.64863  1.0000
+  O   O9        1.0  0.69043  0.58994  0.35136  1.0000
+  O   O10       1.0  0.32568  0.34638  0.04166  1.0000

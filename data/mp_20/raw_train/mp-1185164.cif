@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ho6Ge6Pd6
+_chemical_formula_sum              "Ho6 Ge6 Pd6"
+_cell_length_a       11.3518
+_cell_length_b       11.3518
+_cell_length_c       11.3518
+_cell_angle_alpha    157.631
+_cell_angle_beta     140.701
+_cell_angle_gamma    45.685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.12413  0.66702  0.45711  1.0000
+  Ho  Ho2       1.0  0.79010  0.33298  0.45711  1.0000
+  Ho  Ho3       1.0  0.36866  0.83316  0.53550  1.0000
+  Ho  Ho4       1.0  0.70234  0.16684  0.53550  1.0000
+  Ho  Ho5       1.0  0.45126  0.00000  0.45126  1.0000
+  Ho  Ho6       1.0  0.03504  0.50000  0.53504  1.0000
+  Ge  Ge1       1.0  0.06143  0.90626  0.15517  1.0000
+  Ge  Ge2       1.0  0.24891  0.09374  0.15517  1.0000
+  Ge  Ge3       1.0  0.57413  0.73585  0.83828  1.0000
+  Ge  Ge4       1.0  0.10243  0.26415  0.83828  1.0000
+  Ge  Ge5       1.0  0.71808  0.56486  0.15322  1.0000
+  Ge  Ge6       1.0  0.58837  0.43514  0.15322  1.0000
+  Pd  Pd1       1.0  0.75007  0.92771  0.82236  1.0000
+  Pd  Pd2       1.0  0.89465  0.07229  0.82236  1.0000
+  Pd  Pd3       1.0  0.93523  0.76759  0.16764  1.0000
+  Pd  Pd4       1.0  0.40005  0.23241  0.16764  1.0000
+  Pd  Pd5       1.0  0.43107  0.60452  0.82656  1.0000
+  Pd  Pd6       1.0  0.22204  0.39548  0.82656  1.0000

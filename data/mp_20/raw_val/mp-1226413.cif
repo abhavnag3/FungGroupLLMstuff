@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cr4Fe2Se2S6
+_chemical_formula_sum              "Cr4 Fe2 Se2 S6"
+_cell_length_a       7.1664
+_cell_length_b       7.1664
+_cell_length_c       7.1664
+_cell_angle_alpha    119.943
+_cell_angle_beta     119.761
+_cell_angle_gamma    90.2566
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24392  0.49491  0.74900  1.0000
+  Cr  Cr2       1.0  0.74591  0.49491  0.25100  1.0000
+  Cr  Cr3       1.0  0.74953  0.49089  0.74136  1.0000
+  Cr  Cr4       1.0  0.74953  0.00817  0.25864  1.0000
+  Fe  Fe1       1.0  0.39126  0.89126  0.50000  1.0000
+  Fe  Fe2       1.0  0.12104  0.12104  0.00000  1.0000
+  Se  Se1       1.0  0.98223  0.74401  0.23822  1.0000
+  Se  Se2       1.0  0.50580  0.74401  0.76178  1.0000
+  S   S1        1.0  0.51065  0.73914  0.22849  1.0000
+  S   S2        1.0  0.51065  0.28216  0.77151  1.0000
+  S   S3        1.0  0.52014  0.25609  0.26405  1.0000
+  S   S4        1.0  0.99204  0.25609  0.73595  1.0000
+  S   S5        1.0  0.98864  0.25875  0.27011  1.0000
+  S   S6        1.0  0.98864  0.71853  0.72989  1.0000

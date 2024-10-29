@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er4W4C8
+_chemical_formula_sum              "Er4 W4 C8"
+_cell_length_a       3.35267
+_cell_length_b       5.69895
+_cell_length_c       10.7742
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.25000  0.08516  0.86298  1.0000
+  Er  Er2       1.0  0.25000  0.58516  0.63702  1.0000
+  Er  Er3       1.0  0.75000  0.91484  0.13702  1.0000
+  Er  Er4       1.0  0.75000  0.41484  0.36298  1.0000
+  W   W1        1.0  0.25000  0.40219  0.11018  1.0000
+  W   W2        1.0  0.25000  0.90219  0.38982  1.0000
+  W   W3        1.0  0.75000  0.59781  0.88982  1.0000
+  W   W4        1.0  0.75000  0.09781  0.61018  1.0000
+  C   C1        1.0  0.25000  0.16021  0.24728  1.0000
+  C   C2        1.0  0.25000  0.66021  0.25272  1.0000
+  C   C3        1.0  0.75000  0.83979  0.75272  1.0000
+  C   C4        1.0  0.75000  0.33979  0.74728  1.0000
+  C   C5        1.0  0.25000  0.72694  0.98658  1.0000
+  C   C6        1.0  0.25000  0.22694  0.51342  1.0000
+  C   C7        1.0  0.75000  0.27306  0.01342  1.0000
+  C   C8        1.0  0.75000  0.77306  0.48658  1.0000

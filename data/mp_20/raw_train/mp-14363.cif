@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb4Li2As2O8
+_chemical_formula_sum              "Rb4 Li2 As2 O8"
+_cell_length_a       6.69776
+_cell_length_b       6.69776
+_cell_length_c       8.00859
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    127.631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.93923  0.06077  0.84938  1.0000
+  Rb  Rb2       1.0  0.06077  0.93923  0.34938  1.0000
+  Rb  Rb3       1.0  0.39700  0.60300  0.49695  1.0000
+  Rb  Rb4       1.0  0.60300  0.39700  0.99695  1.0000
+  Li  Li1       1.0  0.20402  0.79598  0.76943  1.0000
+  Li  Li2       1.0  0.79598  0.20402  0.26943  1.0000
+  As  As1       1.0  0.31066  0.68934  0.05536  1.0000
+  As  As2       1.0  0.68934  0.31066  0.55536  1.0000
+  O   O1        1.0  0.11840  0.40693  0.16035  1.0000
+  O   O2        1.0  0.88160  0.59307  0.66035  1.0000
+  O   O3        1.0  0.36599  0.63401  0.85520  1.0000
+  O   O4        1.0  0.63401  0.36599  0.35520  1.0000
+  O   O5        1.0  0.59307  0.88160  0.16035  1.0000
+  O   O6        1.0  0.40693  0.11840  0.66035  1.0000
+  O   O7        1.0  0.83237  0.16763  0.52387  1.0000
+  O   O8        1.0  0.16763  0.83237  0.02387  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Zr6Sn6Rh6
+_chemical_formula_sum              "Zr6 Sn6 Rh6"
+_cell_length_a       7.42339
+_cell_length_b       7.42339
+_cell_length_c       7.3113
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.59382  0.98217  0.75000  1.0000
+  Zr  Zr2       1.0  0.38834  0.40618  0.75000  1.0000
+  Zr  Zr3       1.0  0.01783  0.61166  0.75000  1.0000
+  Zr  Zr4       1.0  0.61166  0.01783  0.25000  1.0000
+  Zr  Zr5       1.0  0.40618  0.38834  0.25000  1.0000
+  Zr  Zr6       1.0  0.98217  0.59382  0.25000  1.0000
+  Sn  Sn1       1.0  0.27018  0.00000  0.00000  1.0000
+  Sn  Sn2       1.0  0.72982  0.72982  0.50000  1.0000
+  Sn  Sn3       1.0  0.00000  0.27018  0.50000  1.0000
+  Sn  Sn4       1.0  0.00000  0.27018  0.00000  1.0000
+  Sn  Sn5       1.0  0.72982  0.72982  0.00000  1.0000
+  Sn  Sn6       1.0  0.27018  0.00000  0.50000  1.0000
+  Rh  Rh1       1.0  0.66667  0.33333  0.96432  1.0000
+  Rh  Rh2       1.0  0.66667  0.33333  0.53568  1.0000
+  Rh  Rh3       1.0  0.33333  0.66667  0.03568  1.0000
+  Rh  Rh4       1.0  0.33333  0.66667  0.46432  1.0000
+  Rh  Rh5       1.0  0.00000  0.00000  0.75000  1.0000
+  Rh  Rh6       1.0  0.00000  0.00000  0.25000  1.0000

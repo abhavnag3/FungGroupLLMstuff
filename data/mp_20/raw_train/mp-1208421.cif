@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Tb5Re2O12
+_chemical_formula_sum              "Tb5 Re2 O12"
+_cell_length_a       6.87867
+_cell_length_b       6.87867
+_cell_length_c       7.60893
+_cell_angle_alpha    73.7056
+_cell_angle_beta     73.7056
+_cell_angle_gamma    48.9393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.69610  0.69610  0.64046  1.0000
+  Tb  Tb2       1.0  0.30390  0.30390  0.35954  1.0000
+  Tb  Tb3       1.0  0.68615  0.68615  0.17392  1.0000
+  Tb  Tb4       1.0  0.31385  0.31385  0.82608  1.0000
+  Tb  Tb5       1.0  0.00000  0.00000  0.50000  1.0000
+  Re  Re1       1.0  0.78536  0.21464  0.00000  1.0000
+  Re  Re2       1.0  0.21464  0.78536  0.00000  1.0000
+  O   O1        1.0  0.00014  0.00014  0.20567  1.0000
+  O   O2        1.0  0.99986  0.99986  0.79433  1.0000
+  O   O3        1.0  0.58175  0.08913  0.08561  1.0000
+  O   O4        1.0  0.41825  0.91087  0.91439  1.0000
+  O   O5        1.0  0.91087  0.41825  0.91439  1.0000
+  O   O6        1.0  0.08913  0.58175  0.08561  1.0000
+  O   O7        1.0  0.49938  0.49938  0.17604  1.0000
+  O   O8        1.0  0.50062  0.50062  0.82396  1.0000
+  O   O9        1.0  0.40627  0.90141  0.42505  1.0000
+  O   O10       1.0  0.59373  0.09859  0.57495  1.0000
+  O   O11       1.0  0.09859  0.59373  0.57495  1.0000
+  O   O12       1.0  0.90141  0.40627  0.42505  1.0000

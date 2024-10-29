@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Eu6P8
+_chemical_formula_sum              "Eu6 P8"
+_cell_length_a       11.0036
+_cell_length_b       8.93105
+_cell_length_c       7.58091
+_cell_angle_alpha    83.1486
+_cell_angle_beta     53.6924
+_cell_angle_gamma    43.159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.50722  0.99278  0.99278  1.0000
+  Eu  Eu2       1.0  0.25722  0.74278  0.74278  1.0000
+  Eu  Eu3       1.0  0.91527  0.41923  0.08780  1.0000
+  Eu  Eu4       1.0  0.57770  0.08780  0.41923  1.0000
+  Eu  Eu5       1.0  0.16220  0.67230  0.33473  1.0000
+  Eu  Eu6       1.0  0.83077  0.33473  0.67230  1.0000
+  P   P1        1.0  0.99303  0.66559  0.83095  1.0000
+  P   P2        1.0  0.51043  0.83095  0.66559  1.0000
+  P   P3        1.0  0.41905  0.73957  0.25697  1.0000
+  P   P4        1.0  0.58441  0.25697  0.73957  1.0000
+  P   P5        1.0  0.92218  0.57890  0.40926  1.0000
+  P   P6        1.0  0.08966  0.40926  0.57890  1.0000
+  P   P7        1.0  0.84074  0.16034  0.32782  1.0000
+  P   P8        1.0  0.67110  0.32782  0.16034  1.0000

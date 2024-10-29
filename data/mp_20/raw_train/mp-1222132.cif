@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn10CuGe5
+_chemical_formula_sum              "Mn10 Cu1 Ge5"
+_cell_length_a       7.0626
+_cell_length_b       7.0626
+_cell_length_c       7.0626
+_cell_angle_alpha    96.6833
+_cell_angle_beta     96.6833
+_cell_angle_gamma    140.106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50000  0.00000  0.50000  1.0000
+  Mn  Mn2       1.0  1.00000  0.50000  0.50000  1.0000
+  Mn  Mn3       1.0  0.47743  0.33040  0.30346  1.0000
+  Mn  Mn4       1.0  0.02694  0.17396  0.69654  1.0000
+  Mn  Mn5       1.0  0.52257  0.82604  0.85298  1.0000
+  Mn  Mn6       1.0  0.97306  0.66960  0.14702  1.0000
+  Mn  Mn7       1.0  0.33040  0.02694  0.85298  1.0000
+  Mn  Mn8       1.0  0.17396  0.47742  0.14702  1.0000
+  Mn  Mn9       1.0  0.82604  0.97306  0.30346  1.0000
+  Mn  Mn10      1.0  0.66960  0.52258  0.69654  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.58805  0.08804  0.17609  1.0000
+  Ge  Ge2       1.0  0.91195  0.41196  0.82391  1.0000
+  Ge  Ge3       1.0  0.41196  0.58805  0.50000  1.0000
+  Ge  Ge4       1.0  0.08805  0.91196  0.50000  1.0000
+  Ge  Ge5       1.0  0.50000  0.50000  0.00000  1.0000

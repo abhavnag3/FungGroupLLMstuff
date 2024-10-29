@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca2TiAlSi2O9F
+_chemical_formula_sum              "Ca2 Ti1 Al1 Si2 O9 F1"
+_cell_length_a       5.42506
+_cell_length_b       5.47001
+_cell_length_c       7.14892
+_cell_angle_alpha    104.89
+_cell_angle_beta     104.393
+_cell_angle_gamma    105.621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.17100  0.84010  0.75570  1.0000
+  Ca  Ca2       1.0  0.82875  0.16149  0.24437  1.0000
+  Ti  Ti1       1.0  0.50617  0.49336  0.47818  1.0000
+  Al  Al1       1.0  0.50106  0.49889  0.00419  1.0000
+  Si  Si1       1.0  0.17849  0.81020  0.24471  1.0000
+  Si  Si2       1.0  0.82005  0.19080  0.75685  1.0000
+  O   O1        1.0  0.60641  0.19692  0.88454  1.0000
+  O   O2        1.0  0.18792  0.60984  0.38528  1.0000
+  O   O3        1.0  0.39038  0.80412  0.11470  1.0000
+  O   O4        1.0  0.81385  0.39265  0.61860  1.0000
+  O   O5        1.0  0.25304  0.12005  0.40772  1.0000
+  O   O6        1.0  0.13002  0.25940  0.90800  1.0000
+  O   O7        1.0  0.74372  0.87935  0.59865  1.0000
+  O   O8        1.0  0.86960  0.74147  0.09028  1.0000
+  O   O9        1.0  0.56954  0.42894  0.24652  1.0000
+  F   F1        1.0  0.43001  0.57242  0.76172  1.0000

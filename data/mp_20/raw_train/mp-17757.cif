@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr10Ge6
+_chemical_formula_sum              "Sr10 Ge6"
+_cell_length_a       9.85454
+_cell_length_b       9.85454
+_cell_length_c       9.85454
+_cell_angle_alpha    130.991
+_cell_angle_beta     130.991
+_cell_angle_gamma    71.8277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.03753  0.18089  0.50000  1.0000
+  Sr  Sr2       1.0  0.53753  0.03752  0.85663  1.0000
+  Sr  Sr3       1.0  0.18089  0.68089  0.14337  1.0000
+  Sr  Sr4       1.0  0.46248  0.96247  0.14337  1.0000
+  Sr  Sr5       1.0  0.68089  0.53753  0.50000  1.0000
+  Sr  Sr6       1.0  0.96248  0.81911  0.50000  1.0000
+  Sr  Sr7       1.0  0.31911  0.46248  0.50000  1.0000
+  Sr  Sr8       1.0  0.81911  0.31911  0.85663  1.0000
+  Sr  Sr9       1.0  0.50000  0.50000  0.00000  1.0000
+  Sr  Sr10      1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.11373  0.61373  0.72745  1.0000
+  Ge  Ge2       1.0  0.61373  0.88627  0.50000  1.0000
+  Ge  Ge3       1.0  0.38627  0.11373  0.50000  1.0000
+  Ge  Ge4       1.0  0.88627  0.38627  0.27255  1.0000
+  Ge  Ge5       1.0  0.75000  0.75000  0.00000  1.0000
+  Ge  Ge6       1.0  0.25000  0.25000  0.00000  1.0000

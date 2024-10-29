@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       NbBi3O7
+_chemical_formula_sum              "Nb1 Bi3 O7"
+_cell_length_a       3.93894
+_cell_length_b       3.93894
+_cell_length_c       12.8691
+_cell_angle_alpha    80.8449
+_cell_angle_beta     80.8449
+_cell_angle_gamma    57.4969
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.51143  0.51143  0.49390  1.0000
+  Bi  Bi1       1.0  0.96521  0.96521  0.98625  1.0000
+  Bi  Bi2       1.0  0.21126  0.21126  0.26238  1.0000
+  Bi  Bi3       1.0  0.71658  0.71658  0.72567  1.0000
+  O   O1        1.0  0.49679  0.49679  0.33877  1.0000
+  O   O2        1.0  0.77860  0.77860  0.53162  1.0000
+  O   O3        1.0  0.88579  0.88579  0.17566  1.0000
+  O   O4        1.0  0.12734  0.12734  0.45278  1.0000
+  O   O5        1.0  0.02261  0.02261  0.80199  1.0000
+  O   O6        1.0  0.41458  0.41458  0.64788  1.0000
+  O   O7        1.0  0.64309  0.64309  0.97172  1.0000

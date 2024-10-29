@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ba2NaSn6As6
+_chemical_formula_sum              "Ba2 Na1 Sn6 As6"
+_cell_length_a       7.31321
+_cell_length_b       7.31321
+_cell_length_c       9.81866
+_cell_angle_alpha    82.8176
+_cell_angle_beta     82.8176
+_cell_angle_gamma    119.933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.66658  0.33342  0.00000  1.0000
+  Ba  Ba2       1.0  0.33342  0.66658  0.00000  1.0000
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sn  Sn1       1.0  0.54049  0.87516  0.37428  1.0000
+  Sn  Sn2       1.0  0.20995  0.20995  0.37367  1.0000
+  Sn  Sn3       1.0  0.87516  0.54049  0.37428  1.0000
+  Sn  Sn4       1.0  0.45951  0.12484  0.62572  1.0000
+  Sn  Sn5       1.0  0.12484  0.45951  0.62572  1.0000
+  Sn  Sn6       1.0  0.79005  0.79005  0.62633  1.0000
+  As  As1       1.0  0.40538  0.40538  0.76940  1.0000
+  As  As2       1.0  0.07669  0.74838  0.76980  1.0000
+  As  As3       1.0  0.74838  0.07669  0.76980  1.0000
+  As  As4       1.0  0.59462  0.59462  0.23060  1.0000
+  As  As5       1.0  0.25162  0.92331  0.23020  1.0000
+  As  As6       1.0  0.92331  0.25162  0.23020  1.0000

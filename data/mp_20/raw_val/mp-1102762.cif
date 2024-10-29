@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm4As4S4
+_chemical_formula_sum              "Sm4 As4 S4"
+_cell_length_a       3.89335
+_cell_length_b       3.92194
+_cell_length_c       17.3909
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.25000  0.24463  0.85453  1.0000
+  Sm  Sm2       1.0  0.75000  0.74463  0.64547  1.0000
+  Sm  Sm3       1.0  0.75000  0.75537  0.14547  1.0000
+  Sm  Sm4       1.0  0.25000  0.25537  0.35453  1.0000
+  As  As1       1.0  0.25000  0.78495  0.49895  1.0000
+  As  As2       1.0  0.75000  0.21505  0.50105  1.0000
+  As  As3       1.0  0.25000  0.71505  0.99895  1.0000
+  As  As4       1.0  0.75000  0.28495  0.00105  1.0000
+  S   S1        1.0  0.25000  0.24716  0.68664  1.0000
+  S   S2        1.0  0.25000  0.25284  0.18664  1.0000
+  S   S3        1.0  0.75000  0.75284  0.31336  1.0000
+  S   S4        1.0  0.75000  0.74716  0.81336  1.0000

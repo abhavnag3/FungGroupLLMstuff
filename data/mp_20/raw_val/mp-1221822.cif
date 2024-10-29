@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn3Co3Te2O12
+_chemical_formula_sum              "Mn3 Co3 Te2 O12"
+_cell_length_a       6.21955
+_cell_length_b       6.2529
+_cell_length_c       6.23976
+_cell_angle_alpha    89.7208
+_cell_angle_beta     90.3272
+_cell_angle_gamma    89.8668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.56294  0.25170  0.04889  1.0000
+  Mn  Mn2       1.0  0.04914  0.43719  0.74798  1.0000
+  Mn  Mn3       1.0  0.74678  0.95075  0.56301  1.0000
+  Co  Co1       1.0  0.25549  0.05359  0.43854  1.0000
+  Co  Co2       1.0  0.43634  0.74336  0.94749  1.0000
+  Co  Co3       1.0  0.94593  0.56878  0.25371  1.0000
+  Te  Te1       1.0  0.49480  0.50504  0.49484  1.0000
+  Te  Te2       1.0  0.00409  0.99699  0.00340  1.0000
+  O   O1        1.0  0.79650  0.57027  0.55751  1.0000
+  O   O2        1.0  0.55456  0.20360  0.43065  1.0000
+  O   O3        1.0  0.42891  0.44416  0.79662  1.0000
+  O   O4        1.0  0.19733  0.42733  0.42496  1.0000
+  O   O5        1.0  0.42609  0.80062  0.57137  1.0000
+  O   O6        1.0  0.57634  0.57259  0.19839  1.0000
+  O   O7        1.0  0.05240  0.08470  0.70459  1.0000
+  O   O8        1.0  0.70466  0.94830  0.91375  1.0000
+  O   O9        1.0  0.91554  0.29454  0.05057  1.0000
+  O   O10       1.0  0.95996  0.91290  0.30249  1.0000
+  O   O11       1.0  0.30406  0.03621  0.08895  1.0000
+  O   O12       1.0  0.08815  0.69737  0.96229  1.0000

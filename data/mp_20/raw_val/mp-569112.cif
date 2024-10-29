@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li6Ca2Mn2N6
+_chemical_formula_sum              "Li6 Ca2 Mn2 N6"
+_cell_length_a       7.04066
+_cell_length_b       7.04066
+_cell_length_c       7.04066
+_cell_angle_alpha    48.2272
+_cell_angle_beta     48.2272
+_cell_angle_gamma    48.2272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.47872  0.89467  0.23997  1.0000
+  Li  Li2       1.0  0.89467  0.23997  0.47872  1.0000
+  Li  Li3       1.0  0.76003  0.52128  0.10533  1.0000
+  Li  Li4       1.0  0.52128  0.10533  0.76003  1.0000
+  Li  Li5       1.0  0.10533  0.76003  0.52128  1.0000
+  Li  Li6       1.0  0.23997  0.47872  0.89467  1.0000
+  Ca  Ca1       1.0  0.33740  0.33740  0.33740  1.0000
+  Ca  Ca2       1.0  0.66260  0.66260  0.66260  1.0000
+  Mn  Mn1       1.0  0.93497  0.93497  0.93497  1.0000
+  Mn  Mn2       1.0  0.06503  0.06503  0.06503  1.0000
+  N   N1        1.0  0.21598  0.90825  0.61682  1.0000
+  N   N2        1.0  0.61682  0.21598  0.90825  1.0000
+  N   N3        1.0  0.78402  0.09175  0.38318  1.0000
+  N   N4        1.0  0.09175  0.38318  0.78402  1.0000
+  N   N5        1.0  0.38318  0.78402  0.09175  1.0000
+  N   N6        1.0  0.90825  0.61682  0.21598  1.0000

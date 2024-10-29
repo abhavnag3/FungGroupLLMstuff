@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       SrSi6N8
+_chemical_formula_sum              "Sr1 Si6 N8"
+_cell_length_a       6.59229
+_cell_length_b       6.59229
+_cell_length_c       6.59229
+_cell_angle_alpha    136.899
+_cell_angle_beta     106.006
+_cell_angle_gamma    89.6625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50000  0.65719  0.15719  1.0000
+  Si  Si1       1.0  0.36358  0.30842  0.35145  1.0000
+  Si  Si2       1.0  0.04302  0.98786  0.35145  1.0000
+  Si  Si3       1.0  0.95698  0.30842  0.94484  1.0000
+  Si  Si4       1.0  0.63642  0.98786  0.94484  1.0000
+  Si  Si5       1.0  0.12702  0.76717  0.64016  1.0000
+  Si  Si6       1.0  0.87298  0.51314  0.64016  1.0000
+  N   N1        1.0  0.29167  0.21539  0.50706  1.0000
+  N   N2        1.0  0.37952  0.99113  0.97569  1.0000
+  N   N3        1.0  0.18386  0.47853  0.29467  1.0000
+  N   N4        1.0  0.62048  0.59616  0.61160  1.0000
+  N   N5        1.0  0.70834  0.21539  0.92373  1.0000
+  N   N6        1.0  0.01544  0.99113  0.61160  1.0000
+  N   N7        1.0  0.98456  0.59616  0.97569  1.0000
+  N   N8        1.0  0.81614  0.11082  0.29467  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La4Sb4Se4
+_chemical_formula_sum              "La4 Sb4 Se4"
+_cell_length_a       18.5842
+_cell_length_b       4.28122
+_cell_length_c       6.06937
+_cell_angle_alpha    45.1936
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.14871  0.47583  0.76907  1.0000
+  La  La2       1.0  0.64871  0.52417  0.73093  1.0000
+  La  La3       1.0  0.85129  0.52417  0.23093  1.0000
+  La  La4       1.0  0.35129  0.47583  0.26907  1.0000
+  Sb  Sb1       1.0  0.49831  0.97477  0.77387  1.0000
+  Sb  Sb2       1.0  0.99830  0.02523  0.72613  1.0000
+  Sb  Sb3       1.0  0.50170  0.02523  0.22612  1.0000
+  Sb  Sb4       1.0  0.00170  0.97477  0.27387  1.0000
+  Se  Se1       1.0  0.31499  0.47637  0.76645  1.0000
+  Se  Se2       1.0  0.81499  0.52363  0.73355  1.0000
+  Se  Se3       1.0  0.68501  0.52363  0.23355  1.0000
+  Se  Se4       1.0  0.18501  0.47637  0.26645  1.0000

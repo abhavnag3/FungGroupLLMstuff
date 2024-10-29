@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Lu4B3C4
+_chemical_formula_sum              "Lu4 B3 C4"
+_cell_length_a       3.41419
+_cell_length_b       3.4991
+_cell_length_c       11.7673
+_cell_angle_alpha    92.6386
+_cell_angle_beta     96.0597
+_cell_angle_gamma    90.146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.80457  0.02494  0.65043  1.0000
+  Lu  Lu2       1.0  0.38464  0.55385  0.85886  1.0000
+  Lu  Lu3       1.0  0.61536  0.44615  0.14114  1.0000
+  Lu  Lu4       1.0  0.19543  0.97506  0.34957  1.0000
+  B   B1        1.0  0.26680  0.50729  0.54027  1.0000
+  B   B2        1.0  0.73320  0.49271  0.45973  1.0000
+  B   B3        1.0  0.00000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.88581  0.06371  0.87862  1.0000
+  C   C2        1.0  0.68803  0.47184  0.33104  1.0000
+  C   C3        1.0  0.31197  0.52816  0.66896  1.0000
+  C   C4        1.0  0.11419  0.93629  0.12138  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li4Ti2Ni4O10
+_chemical_formula_sum              "Li4 Ti2 Ni4 O10"
+_cell_length_a       7.72
+_cell_length_b       7.72
+_cell_length_c       5.183
+_cell_angle_alpha    83.0586
+_cell_angle_beta     83.0586
+_cell_angle_gamma    141.019
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.30152  0.69848  0.00000  1.0000
+  Li  Li2       1.0  0.20175  0.79825  0.50000  1.0000
+  Li  Li3       1.0  0.89749  0.10251  0.00000  1.0000
+  Li  Li4       1.0  0.59979  0.40021  0.50000  1.0000
+  Ti  Ti1       1.0  0.09980  0.90020  0.00000  1.0000
+  Ti  Ti2       1.0  0.79905  0.20095  0.50000  1.0000
+  Ni  Ni1       1.0  0.40000  0.60000  0.50000  1.0000
+  Ni  Ni2       1.0  0.70155  0.29845  0.00000  1.0000
+  Ni  Ni3       1.0  0.49612  0.50388  0.00000  1.0000
+  Ni  Ni4       1.0  0.00100  0.99901  0.50000  1.0000
+  O   O1        1.0  0.64851  0.85454  0.73514  1.0000
+  O   O2        1.0  0.57234  0.97246  0.27348  1.0000
+  O   O3        1.0  0.86298  0.66597  0.77161  1.0000
+  O   O4        1.0  0.02754  0.42766  0.72652  1.0000
+  O   O5        1.0  0.14546  0.35149  0.26486  1.0000
+  O   O6        1.0  0.76430  0.75348  0.24144  1.0000
+  O   O7        1.0  0.94851  0.54824  0.24418  1.0000
+  O   O8        1.0  0.24652  0.23570  0.75856  1.0000
+  O   O9        1.0  0.45176  0.05149  0.75582  1.0000
+  O   O10       1.0  0.33404  0.13702  0.22839  1.0000

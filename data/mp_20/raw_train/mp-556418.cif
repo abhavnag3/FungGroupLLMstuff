@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Al2S2Cl6O4
+_chemical_formula_sum              "Al2 S2 Cl6 O4"
+_cell_length_a       6.48671
+_cell_length_b       7.78823
+_cell_length_c       8.08295
+_cell_angle_alpha    93.4081
+_cell_angle_beta     106.132
+_cell_angle_gamma    109.942
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.70290  0.19553  0.84519  1.0000
+  Al  Al2       1.0  0.29710  0.80447  0.15481  1.0000
+  S   S1        1.0  0.38956  0.76427  0.77802  1.0000
+  S   S2        1.0  0.61044  0.23573  0.22198  1.0000
+  Cl  Cl1       1.0  0.93571  0.72299  0.09135  1.0000
+  Cl  Cl2       1.0  0.08402  0.79797  0.64125  1.0000
+  Cl  Cl3       1.0  0.06429  0.27701  0.90865  1.0000
+  Cl  Cl4       1.0  0.45820  0.67857  0.34691  1.0000
+  Cl  Cl5       1.0  0.91598  0.20203  0.35875  1.0000
+  Cl  Cl6       1.0  0.54180  0.32143  0.65309  1.0000
+  O   O1        1.0  0.57747  0.94440  0.77571  1.0000
+  O   O2        1.0  0.61962  0.23103  0.03656  1.0000
+  O   O3        1.0  0.38038  0.76897  0.96344  1.0000
+  O   O4        1.0  0.42253  0.05560  0.22429  1.0000

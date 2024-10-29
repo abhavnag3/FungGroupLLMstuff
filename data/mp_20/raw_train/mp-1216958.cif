@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       UAl6Fe6
+_chemical_formula_sum              "U1 Al6 Fe6"
+_cell_length_a       6.55593
+_cell_length_b       6.55593
+_cell_length_c       6.55593
+_cell_angle_alpha    135.73
+_cell_angle_beta     98.9347
+_cell_angle_gamma    97.3906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al1       1.0  0.65130  0.65130  0.00000  1.0000
+  Al  Al2       1.0  0.34870  0.34870  0.00000  1.0000
+  Al  Al3       1.0  0.34199  0.00000  0.34199  1.0000
+  Al  Al4       1.0  0.65801  0.00000  0.65801  1.0000
+  Al  Al5       1.0  0.19946  0.69946  0.50000  1.0000
+  Al  Al6       1.0  0.80054  0.30054  0.50000  1.0000
+  Fe  Fe1       1.0  0.50000  0.50000  0.50000  1.0000
+  Fe  Fe2       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe3       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe4       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe5       1.0  0.76836  0.50000  0.26836  1.0000
+  Fe  Fe6       1.0  0.23164  0.50000  0.73164  1.0000

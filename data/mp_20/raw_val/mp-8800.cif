@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tl2Cu6Se4
+_chemical_formula_sum              "Tl2 Cu6 Se4"
+_cell_length_a       7.76848
+_cell_length_b       7.76848
+_cell_length_c       8.64812
+_cell_angle_alpha    70.0037
+_cell_angle_beta     70.0037
+_cell_angle_gamma    29.4255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.86033  0.86033  0.05192  1.0000
+  Tl  Tl2       1.0  0.13967  0.13967  0.94808  1.0000
+  Cu  Cu1       1.0  0.68754  0.68754  0.54966  1.0000
+  Cu  Cu2       1.0  0.31246  0.31246  0.45034  1.0000
+  Cu  Cu3       1.0  0.58163  0.58163  0.37350  1.0000
+  Cu  Cu4       1.0  0.41837  0.41837  0.62650  1.0000
+  Cu  Cu5       1.0  0.05718  0.05718  0.59114  1.0000
+  Cu  Cu6       1.0  0.94282  0.94282  0.40886  1.0000
+  Se  Se1       1.0  0.47444  0.47444  0.22335  1.0000
+  Se  Se2       1.0  0.52556  0.52556  0.77665  1.0000
+  Se  Se3       1.0  0.19280  0.19280  0.32281  1.0000
+  Se  Se4       1.0  0.80720  0.80720  0.67719  1.0000

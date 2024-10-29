@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb2Ta2Ge2S10
+_chemical_formula_sum              "Rb2 Ta2 Ge2 S10"
+_cell_length_a       7.02748
+_cell_length_b       7.22186
+_cell_length_c       9.19454
+_cell_angle_alpha    69.3753
+_cell_angle_beta     78.3701
+_cell_angle_gamma    75.8269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.59284  0.35914  0.31034  1.0000
+  Rb  Rb2       1.0  0.40716  0.64086  0.68966  1.0000
+  Ta  Ta1       1.0  0.24051  0.02784  0.00427  1.0000
+  Ta  Ta2       1.0  0.75949  0.97216  0.99573  1.0000
+  Ge  Ge1       1.0  0.97784  0.70592  0.37644  1.0000
+  Ge  Ge2       1.0  0.02216  0.29408  0.62356  1.0000
+  S   S1        1.0  0.06682  0.75396  0.00901  1.0000
+  S   S2        1.0  0.44120  0.22759  0.02996  1.0000
+  S   S3        1.0  0.69018  0.87028  0.29294  1.0000
+  S   S4        1.0  0.21841  0.88069  0.29531  1.0000
+  S   S5        1.0  0.06867  0.39023  0.35613  1.0000
+  S   S6        1.0  0.93133  0.60977  0.64387  1.0000
+  S   S7        1.0  0.78160  0.11931  0.70469  1.0000
+  S   S8        1.0  0.30982  0.12972  0.70707  1.0000
+  S   S9        1.0  0.55880  0.77241  0.97004  1.0000
+  S   S10       1.0  0.93318  0.24604  0.99099  1.0000

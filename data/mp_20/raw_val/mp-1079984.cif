@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ba4Al4
+_chemical_formula_sum              "Ba4 Al4"
+_cell_length_a       4.70976
+_cell_length_b       6.4239
+_cell_length_c       9.8368
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.08593  0.67861  1.0000
+  Ba  Ba2       1.0  0.75000  0.91407  0.32139  1.0000
+  Ba  Ba3       1.0  0.75000  0.58593  0.82139  1.0000
+  Ba  Ba4       1.0  0.25000  0.41407  0.17861  1.0000
+  Al  Al1       1.0  0.25000  0.91555  0.02261  1.0000
+  Al  Al2       1.0  0.75000  0.08445  0.97739  1.0000
+  Al  Al3       1.0  0.75000  0.41555  0.47739  1.0000
+  Al  Al4       1.0  0.25000  0.58445  0.52261  1.0000

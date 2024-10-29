@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn2Cu2Ge4O12
+_chemical_formula_sum              "Zn2 Cu2 Ge4 O12"
+_cell_length_a       7.03829
+_cell_length_b       7.03829
+_cell_length_c       5.40643
+_cell_angle_alpha    74.8114
+_cell_angle_beta     74.8114
+_cell_angle_gamma    86.0915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.76259  0.23741  0.75000  1.0000
+  Zn  Zn2       1.0  0.23741  0.76259  0.25000  1.0000
+  Cu  Cu1       1.0  0.10703  0.89297  0.75000  1.0000
+  Cu  Cu2       1.0  0.89297  0.10703  0.25000  1.0000
+  Ge  Ge1       1.0  0.20874  0.38650  0.75686  1.0000
+  Ge  Ge2       1.0  0.61350  0.79126  0.74314  1.0000
+  Ge  Ge3       1.0  0.79126  0.61350  0.24314  1.0000
+  Ge  Ge4       1.0  0.38650  0.20874  0.25686  1.0000
+  O   O1        1.0  0.40445  0.30376  0.52406  1.0000
+  O   O2        1.0  0.69624  0.59555  0.97594  1.0000
+  O   O3        1.0  0.59555  0.69624  0.47594  1.0000
+  O   O4        1.0  0.30376  0.40445  0.02406  1.0000
+  O   O5        1.0  0.62291  0.13366  0.11502  1.0000
+  O   O6        1.0  0.86634  0.37709  0.38498  1.0000
+  O   O7        1.0  0.37709  0.86634  0.88498  1.0000
+  O   O8        1.0  0.13366  0.62291  0.61502  1.0000
+  O   O9        1.0  0.02143  0.20164  0.87967  1.0000
+  O   O10       1.0  0.79836  0.97857  0.62033  1.0000
+  O   O11       1.0  0.97857  0.79836  0.12033  1.0000
+  O   O12       1.0  0.20164  0.02143  0.37967  1.0000

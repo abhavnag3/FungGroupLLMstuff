@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rb4Co4N4
+_chemical_formula_sum              "Rb4 Co4 N4"
+_cell_length_a       3.49526
+_cell_length_b       6.48449
+_cell_length_c       10.8883
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.25000  0.07876  0.66289  1.0000
+  Rb  Rb2       1.0  0.25000  0.42124  0.16289  1.0000
+  Rb  Rb3       1.0  0.75000  0.92124  0.33711  1.0000
+  Rb  Rb4       1.0  0.75000  0.57876  0.83711  1.0000
+  Co  Co1       1.0  0.25000  0.59330  0.54454  1.0000
+  Co  Co2       1.0  0.25000  0.90670  0.04454  1.0000
+  Co  Co3       1.0  0.75000  0.40670  0.45546  1.0000
+  Co  Co4       1.0  0.75000  0.09330  0.95546  1.0000
+  N   N1        1.0  0.25000  0.14160  0.93469  1.0000
+  N   N2        1.0  0.25000  0.35840  0.43469  1.0000
+  N   N3        1.0  0.75000  0.85840  0.06531  1.0000
+  N   N4        1.0  0.75000  0.64160  0.56531  1.0000

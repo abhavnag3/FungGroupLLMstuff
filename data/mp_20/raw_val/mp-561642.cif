@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Co2Te2O12
+_chemical_formula_sum              "Sr4 Co2 Te2 O12"
+_cell_length_a       5.69685
+_cell_length_b       5.72487
+_cell_length_c       8.00409
+_cell_angle_alpha    89.6979
+_cell_angle_beta     90.0511
+_cell_angle_gamma    89.6108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.48230  0.49612  0.74975  1.0000
+  Sr  Sr2       1.0  0.01846  0.99467  0.25047  1.0000
+  Sr  Sr3       1.0  0.51770  0.50388  0.25025  1.0000
+  Sr  Sr4       1.0  0.98154  0.00533  0.74953  1.0000
+  Co  Co1       1.0  0.50000  0.00000  0.50000  1.0000
+  Co  Co2       1.0  0.00000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.50000  0.00000  0.00000  1.0000
+  Te  Te2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.22184  0.24160  0.53257  1.0000
+  O   O2        1.0  0.71975  0.25762  0.96676  1.0000
+  O   O3        1.0  0.77816  0.75840  0.46743  1.0000
+  O   O4        1.0  0.28025  0.74238  0.03324  1.0000
+  O   O5        1.0  0.74037  0.28233  0.53279  1.0000
+  O   O6        1.0  0.76237  0.78194  0.03304  1.0000
+  O   O7        1.0  0.23763  0.21806  0.96696  1.0000
+  O   O8        1.0  0.25963  0.71767  0.46721  1.0000
+  O   O9        1.0  0.99211  0.43852  0.25999  1.0000
+  O   O10       1.0  0.50623  0.93785  0.75955  1.0000
+  O   O11       1.0  0.00789  0.56147  0.74001  1.0000
+  O   O12       1.0  0.49377  0.06215  0.24045  1.0000

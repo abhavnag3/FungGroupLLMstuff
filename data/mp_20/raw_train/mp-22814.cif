@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       U4Ti6Si8
+_chemical_formula_sum              "U4 Ti6 Si8"
+_cell_length_a       6.85224
+_cell_length_b       6.86643
+_cell_length_c       6.97095
+_cell_angle_alpha    69.3407
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.63047  0.15176  0.44899  1.0000
+  U   U2        1.0  0.13047  0.84824  0.05101  1.0000
+  U   U3        1.0  0.36953  0.84824  0.55101  1.0000
+  U   U4        1.0  0.86953  0.15176  0.94899  1.0000
+  Ti  Ti1       1.0  0.68366  0.74555  0.25145  1.0000
+  Ti  Ti2       1.0  0.18366  0.25445  0.24855  1.0000
+  Ti  Ti3       1.0  0.50000  0.50000  0.00000  1.0000
+  Ti  Ti4       1.0  0.00000  0.50000  0.50000  1.0000
+  Ti  Ti5       1.0  0.31634  0.25445  0.74855  1.0000
+  Ti  Ti6       1.0  0.81634  0.74555  0.75145  1.0000
+  Si  Si1       1.0  0.86625  0.47610  0.13924  1.0000
+  Si  Si2       1.0  0.36625  0.52390  0.36076  1.0000
+  Si  Si3       1.0  0.13375  0.52390  0.86076  1.0000
+  Si  Si4       1.0  0.63375  0.47610  0.63924  1.0000
+  Si  Si5       1.0  0.53622  0.91271  0.88262  1.0000
+  Si  Si6       1.0  0.03622  0.08729  0.61738  1.0000
+  Si  Si7       1.0  0.96378  0.91271  0.38262  1.0000
+  Si  Si8       1.0  0.46378  0.08729  0.11738  1.0000

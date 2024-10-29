@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg4As6Br2
+_chemical_formula_sum              "Hg4 As6 Br2"
+_cell_length_a       6.3142
+_cell_length_b       6.3142
+_cell_length_c       8.38777
+_cell_angle_alpha    84.3933
+_cell_angle_beta     84.3933
+_cell_angle_gamma    97.7287
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.40742  0.14168  0.65931  1.0000
+  Hg  Hg2       1.0  0.85832  0.59259  0.84069  1.0000
+  Hg  Hg3       1.0  0.14168  0.40742  0.15931  1.0000
+  Hg  Hg4       1.0  0.59259  0.85832  0.34069  1.0000
+  As  As1       1.0  0.18843  0.06665  0.01701  1.0000
+  As  As2       1.0  0.93335  0.81156  0.48299  1.0000
+  As  As3       1.0  0.81157  0.93335  0.98299  1.0000
+  As  As4       1.0  0.79604  0.20396  0.75000  1.0000
+  As  As5       1.0  0.20396  0.79604  0.25000  1.0000
+  As  As6       1.0  0.06665  0.18843  0.51701  1.0000
+  Br  Br1       1.0  0.36496  0.63504  0.75000  1.0000
+  Br  Br2       1.0  0.63504  0.36496  0.25000  1.0000

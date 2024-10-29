@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Na4EuSi2Se6
+_chemical_formula_sum              "Na4 Eu1 Si2 Se6"
+_cell_length_a       7.13245
+_cell_length_b       7.13245
+_cell_length_c       8.01079
+_cell_angle_alpha    81.3734
+_cell_angle_beta     81.3734
+_cell_angle_gamma    119.811
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.82691  0.17309  0.00000  1.0000
+  Na  Na2       1.0  0.17301  0.82699  0.00000  1.0000
+  Na  Na3       1.0  0.50009  0.49991  0.00000  1.0000
+  Na  Na4       1.0  0.66591  0.33409  0.50000  1.0000
+  Eu  Eu1       1.0  0.33404  0.66597  0.50000  1.0000
+  Si  Si1       1.0  0.04978  0.04988  0.34603  1.0000
+  Si  Si2       1.0  0.95012  0.95022  0.65397  1.0000
+  Se  Se1       1.0  0.77361  0.77448  0.25489  1.0000
+  Se  Se2       1.0  0.22552  0.22639  0.74511  1.0000
+  Se  Se3       1.0  0.08206  0.38986  0.25421  1.0000
+  Se  Se4       1.0  0.38880  0.07999  0.25378  1.0000
+  Se  Se5       1.0  0.92001  0.61120  0.74622  1.0000
+  Se  Se6       1.0  0.61014  0.91794  0.74579  1.0000

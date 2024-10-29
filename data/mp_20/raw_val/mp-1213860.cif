@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cd2Ga2Ag4S8
+_chemical_formula_sum              "Cd2 Ga2 Ag4 S8"
+_cell_length_a       6.7508
+_cell_length_b       7.1244
+_cell_length_c       7.81914
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.50731  0.34859  0.00000  1.0000
+  Cd  Cd2       1.0  0.00731  0.65141  0.50000  1.0000
+  Ga  Ga1       1.0  0.99977  0.67086  0.00000  1.0000
+  Ga  Ga2       1.0  0.49977  0.32914  0.50000  1.0000
+  Ag  Ag1       1.0  0.51448  0.82536  0.75046  1.0000
+  Ag  Ag2       1.0  0.01448  0.17464  0.74954  1.0000
+  Ag  Ag3       1.0  0.01448  0.17464  0.25046  1.0000
+  Ag  Ag4       1.0  0.51448  0.82536  0.24954  1.0000
+  S   S1        1.0  0.88972  0.36250  0.00000  1.0000
+  S   S2        1.0  0.38972  0.63750  0.50000  1.0000
+  S   S3        1.0  0.89061  0.83184  0.76391  1.0000
+  S   S4        1.0  0.39061  0.16816  0.73609  1.0000
+  S   S5        1.0  0.39061  0.16816  0.26391  1.0000
+  S   S6        1.0  0.89061  0.83184  0.23609  1.0000
+  S   S7        1.0  0.34551  0.67470  0.00000  1.0000
+  S   S8        1.0  0.84551  0.32530  0.50000  1.0000

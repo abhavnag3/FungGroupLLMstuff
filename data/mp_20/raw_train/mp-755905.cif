@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Na6V2O6
+_chemical_formula_sum              "Na6 V2 O6"
+_cell_length_a       5.90029
+_cell_length_b       6.02119
+_cell_length_c       6.48056
+_cell_angle_alpha    63.8374
+_cell_angle_beta     89.2542
+_cell_angle_gamma    87.4427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.06537  0.76106  0.44917  1.0000
+  Na  Na2       1.0  0.93455  0.23903  0.55067  1.0000
+  Na  Na3       1.0  0.13752  0.77698  0.98406  1.0000
+  Na  Na4       1.0  0.86251  0.22299  0.01589  1.0000
+  Na  Na5       1.0  0.42945  0.26774  0.74742  1.0000
+  Na  Na6       1.0  0.57038  0.73236  0.25257  1.0000
+  V   V1        1.0  0.62728  0.81100  0.68989  1.0000
+  V   V2        1.0  0.37282  0.18893  0.31014  1.0000
+  O   O1        1.0  0.23869  0.10549  0.09565  1.0000
+  O   O2        1.0  0.76133  0.89454  0.90444  1.0000
+  O   O3        1.0  0.25529  0.47240  0.34180  1.0000
+  O   O4        1.0  0.74468  0.52754  0.65822  1.0000
+  O   O5        1.0  0.30562  0.92532  0.63001  1.0000
+  O   O6        1.0  0.69450  0.07462  0.37007  1.0000

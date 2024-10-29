@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ce6Sn12Ru2
+_chemical_formula_sum              "Ce6 Sn12 Ru2"
+_cell_length_a       8.60934
+_cell_length_b       8.60934
+_cell_length_c       13.3166
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    147.927
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.60229  0.39771  0.25000  1.0000
+  Ce  Ce2       1.0  0.39771  0.60229  0.75000  1.0000
+  Ce  Ce3       1.0  0.39899  0.60101  0.40558  1.0000
+  Ce  Ce4       1.0  0.60101  0.39899  0.59442  1.0000
+  Ce  Ce5       1.0  0.39899  0.60101  0.09442  1.0000
+  Ce  Ce6       1.0  0.60101  0.39899  0.90558  1.0000
+  Sn  Sn1       1.0  0.92612  0.07388  0.92426  1.0000
+  Sn  Sn2       1.0  0.07388  0.92612  0.07575  1.0000
+  Sn  Sn3       1.0  0.92612  0.07388  0.57574  1.0000
+  Sn  Sn4       1.0  0.07388  0.92612  0.42425  1.0000
+  Sn  Sn5       1.0  0.96008  0.03992  0.25000  1.0000
+  Sn  Sn6       1.0  0.03992  0.96008  0.75000  1.0000
+  Sn  Sn7       1.0  0.74411  0.25589  0.43397  1.0000
+  Sn  Sn8       1.0  0.25589  0.74411  0.56603  1.0000
+  Sn  Sn9       1.0  0.74411  0.25589  0.06603  1.0000
+  Sn  Sn10      1.0  0.25589  0.74411  0.93397  1.0000
+  Sn  Sn11      1.0  0.23236  0.76764  0.25000  1.0000
+  Sn  Sn12      1.0  0.76764  0.23236  0.75000  1.0000
+  Ru  Ru1       1.0  0.80154  0.19846  0.25000  1.0000
+  Ru  Ru2       1.0  0.19846  0.80154  0.75000  1.0000

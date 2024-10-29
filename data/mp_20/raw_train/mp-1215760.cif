@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       ZnFeCu4Ge2S8
+_chemical_formula_sum              "Zn1 Fe1 Cu4 Ge2 S8"
+_cell_length_a       6.51284
+_cell_length_b       6.51284
+_cell_length_c       7.54351
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    109.259
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.49991  0.50009  0.50000  1.0000
+  Fe  Fe1       1.0  0.99984  0.00016  0.00000  1.0000
+  Cu  Cu1       1.0  0.50077  0.00064  0.24934  1.0000
+  Cu  Cu2       1.0  0.99936  0.49923  0.75066  1.0000
+  Cu  Cu3       1.0  0.99936  0.49923  0.24934  1.0000
+  Cu  Cu4       1.0  0.50077  0.00064  0.75066  1.0000
+  Ge  Ge1       1.0  0.99846  0.00154  0.50000  1.0000
+  Ge  Ge2       1.0  0.50154  0.49846  0.00000  1.0000
+  S   S1        1.0  0.87426  0.12574  0.75077  1.0000
+  S   S2        1.0  0.37214  0.62786  0.24274  1.0000
+  S   S3        1.0  0.87426  0.12574  0.24923  1.0000
+  S   S4        1.0  0.37214  0.62786  0.75726  1.0000
+  S   S5        1.0  0.87492  0.62494  0.00000  1.0000
+  S   S6        1.0  0.37208  0.11486  0.50000  1.0000
+  S   S7        1.0  0.37506  0.12508  0.00000  1.0000
+  S   S8        1.0  0.88514  0.62792  0.50000  1.0000

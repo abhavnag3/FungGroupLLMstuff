@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La4Pb2Se8
+_chemical_formula_sum              "La4 Pb2 Se8"
+_cell_length_a       7.94096
+_cell_length_b       7.94096
+_cell_length_c       7.94096
+_cell_angle_alpha    109.415
+_cell_angle_beta     109.415
+_cell_angle_gamma    109.583
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.99253  0.37500  0.11753  1.0000
+  La  La2       1.0  0.25747  0.87500  0.88247  1.0000
+  La  La3       1.0  0.62500  0.74253  0.61753  1.0000
+  La  La4       1.0  0.12500  0.00747  0.38247  1.0000
+  Pb  Pb1       1.0  0.75000  0.25000  0.50000  1.0000
+  Pb  Pb2       1.0  0.50000  0.50000  0.00000  1.0000
+  Se  Se1       1.0  0.51864  0.11611  0.74786  1.0000
+  Se  Se2       1.0  0.36611  0.26864  0.24785  1.0000
+  Se  Se3       1.0  0.22922  0.48136  0.59747  1.0000
+  Se  Se4       1.0  0.88174  0.63389  0.90253  1.0000
+  Se  Se5       1.0  0.36826  0.77078  0.25215  1.0000
+  Se  Se6       1.0  0.88389  0.63174  0.40253  1.0000
+  Se  Se7       1.0  0.73136  0.97922  0.09747  1.0000
+  Se  Se8       1.0  0.02078  0.11826  0.75214  1.0000

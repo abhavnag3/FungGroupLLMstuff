@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba4Si2Te8
+_chemical_formula_sum              "Ba4 Si2 Te8"
+_cell_length_a       7.68621
+_cell_length_b       7.65291
+_cell_length_c       9.73723
+_cell_angle_alpha    71.4626
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75000  0.72930  0.07114  1.0000
+  Ba  Ba2       1.0  0.25000  0.27070  0.92886  1.0000
+  Ba  Ba3       1.0  0.75000  0.77632  0.55178  1.0000
+  Ba  Ba4       1.0  0.25000  0.22368  0.44822  1.0000
+  Si  Si1       1.0  0.75000  0.21094  0.70556  1.0000
+  Si  Si2       1.0  0.25000  0.78906  0.29444  1.0000
+  Te  Te1       1.0  0.00662  0.99450  0.76685  1.0000
+  Te  Te2       1.0  0.50662  0.00550  0.23315  1.0000
+  Te  Te3       1.0  0.25000  0.62445  0.56470  1.0000
+  Te  Te4       1.0  0.75000  0.37555  0.43530  1.0000
+  Te  Te5       1.0  0.25000  0.59515  0.12576  1.0000
+  Te  Te6       1.0  0.75000  0.40485  0.87424  1.0000
+  Te  Te7       1.0  0.49338  0.99450  0.76685  1.0000
+  Te  Te8       1.0  0.99338  0.00550  0.23315  1.0000

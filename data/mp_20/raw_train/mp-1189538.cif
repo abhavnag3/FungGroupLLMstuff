@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Lu2Co8B8
+_chemical_formula_sum              "Lu2 Co8 B8"
+_cell_length_a       4.97848
+_cell_length_b       4.97848
+_cell_length_c       6.92144
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Lu  Lu2       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co1       1.0  0.25333  0.50000  0.86153  1.0000
+  Co  Co2       1.0  0.74667  0.50000  0.86153  1.0000
+  Co  Co3       1.0  0.00000  0.75333  0.36153  1.0000
+  Co  Co4       1.0  0.00000  0.24667  0.36153  1.0000
+  Co  Co5       1.0  0.24667  0.00000  0.63847  1.0000
+  Co  Co6       1.0  0.75333  0.00000  0.63847  1.0000
+  Co  Co7       1.0  0.50000  0.74667  0.13847  1.0000
+  Co  Co8       1.0  0.50000  0.25333  0.13847  1.0000
+  B   B1        1.0  0.82502  0.50000  0.15707  1.0000
+  B   B2        1.0  0.17498  0.50000  0.15707  1.0000
+  B   B3        1.0  0.00000  0.32502  0.65707  1.0000
+  B   B4        1.0  0.00000  0.67498  0.65707  1.0000
+  B   B5        1.0  0.67498  0.00000  0.34293  1.0000
+  B   B6        1.0  0.32502  0.00000  0.34293  1.0000
+  B   B7        1.0  0.50000  0.17498  0.84293  1.0000
+  B   B8        1.0  0.50000  0.82502  0.84293  1.0000

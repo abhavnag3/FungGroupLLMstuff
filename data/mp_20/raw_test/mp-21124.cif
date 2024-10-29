@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr2In8Pt2
+_chemical_formula_sum              "Sr2 In8 Pt2"
+_cell_length_a       8.95915
+_cell_length_b       8.95915
+_cell_length_c       7.62327
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.17
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.12572  0.87428  0.75000  1.0000
+  Sr  Sr2       1.0  0.87428  0.12572  0.25000  1.0000
+  In  In1       1.0  0.31538  0.68462  0.95035  1.0000
+  In  In2       1.0  0.50000  0.50000  0.50000  1.0000
+  In  In3       1.0  0.68462  0.31538  0.45035  1.0000
+  In  In4       1.0  0.68462  0.31538  0.04965  1.0000
+  In  In5       1.0  0.31538  0.68462  0.54965  1.0000
+  In  In6       1.0  0.06744  0.93256  0.25000  1.0000
+  In  In7       1.0  0.93256  0.06744  0.75000  1.0000
+  In  In8       1.0  0.50000  0.50000  0.00000  1.0000
+  Pt  Pt1       1.0  0.77527  0.22473  0.75000  1.0000
+  Pt  Pt2       1.0  0.22473  0.77527  0.25000  1.0000

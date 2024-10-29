@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ti3WC4
+_chemical_formula_sum              "Ti3 W1 C4"
+_cell_length_a       10.2127
+_cell_length_b       10.2127
+_cell_length_c       10.2127
+_cell_angle_alpha    17.2844
+_cell_angle_beta     17.2844
+_cell_angle_gamma    17.2844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24941  0.24941  0.24941  1.0000
+  Ti  Ti2       1.0  0.50000  0.50000  0.50000  1.0000
+  Ti  Ti3       1.0  0.75059  0.75059  0.75059  1.0000
+  W   W1        1.0  0.00000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.12513  0.12513  0.12513  1.0000
+  C   C2        1.0  0.37517  0.37517  0.37517  1.0000
+  C   C3        1.0  0.62483  0.62483  0.62483  1.0000
+  C   C4        1.0  0.87487  0.87487  0.87487  1.0000

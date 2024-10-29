@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       U4Te4P2O2
+_chemical_formula_sum              "U4 Te4 P2 O2"
+_cell_length_a       19.2931
+_cell_length_b       19.2931
+_cell_length_c       3.9104
+_cell_angle_alpha    84.1988
+_cell_angle_beta     84.1988
+_cell_angle_gamma    163.514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.28012  0.71537  0.00546  1.0000
+  U   U2        1.0  0.71537  0.28012  0.00546  1.0000
+  U   U3        1.0  0.94441  0.84475  0.08268  1.0000
+  U   U4        1.0  0.84475  0.94441  0.08268  1.0000
+  Te  Te1       1.0  0.16833  0.82008  0.00844  1.0000
+  Te  Te2       1.0  0.82008  0.16833  0.00844  1.0000
+  Te  Te3       1.0  0.30900  0.48352  0.08205  1.0000
+  Te  Te4       1.0  0.48352  0.30900  0.08205  1.0000
+  P   P1        1.0  0.39295  0.39295  0.58309  1.0000
+  P   P2        1.0  0.88728  0.88728  0.59040  1.0000
+  O   O1        1.0  0.74845  0.24835  0.50573  1.0000
+  O   O2        1.0  0.24835  0.74846  0.50573  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn3Al2V3
+_chemical_formula_sum              "Mn3 Al2 V3"
+_cell_length_a       7.26134
+_cell_length_b       7.26134
+_cell_length_c       7.26134
+_cell_angle_alpha    33.5945
+_cell_angle_beta     33.5945
+_cell_angle_gamma    33.5945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.24977  0.24977  0.24977  1.0000
+  Mn  Mn2       1.0  0.99859  0.99859  0.99859  1.0000
+  Mn  Mn3       1.0  0.50137  0.50137  0.50137  1.0000
+  Al  Al1       1.0  0.12585  0.12585  0.12585  1.0000
+  Al  Al2       1.0  0.62429  0.62429  0.62429  1.0000
+  V   V1        1.0  0.37466  0.37466  0.37466  1.0000
+  V   V2        1.0  0.87534  0.87534  0.87534  1.0000
+  V   V3        1.0  0.75039  0.75039  0.75039  1.0000

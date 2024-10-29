@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba2Ca2Nd2Bi2O12
+_chemical_formula_sum              "Ba2 Ca2 Nd2 Bi2 O12"
+_cell_length_a       6.06519
+_cell_length_b       6.16915
+_cell_length_c       8.69029
+_cell_angle_alpha    90.0925
+_cell_angle_beta     89.5797
+_cell_angle_gamma    90.1852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.99335  0.03953  0.25060  1.0000
+  Ba  Ba2       1.0  0.00665  0.96047  0.74940  1.0000
+  Ca  Ca1       1.0  0.51077  0.53988  0.25347  1.0000
+  Ca  Ca2       1.0  0.48923  0.46012  0.74653  1.0000
+  Nd  Nd1       1.0  0.50000  0.00000  0.00000  1.0000
+  Nd  Nd2       1.0  0.00000  0.50000  0.50000  1.0000
+  Bi  Bi1       1.0  0.00000  0.50000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.19387  0.21819  0.95666  1.0000
+  O   O2        1.0  0.31894  0.70738  0.56341  1.0000
+  O   O3        1.0  0.80613  0.78181  0.04334  1.0000
+  O   O4        1.0  0.68106  0.29262  0.43659  1.0000
+  O   O5        1.0  0.28652  0.68846  0.93161  1.0000
+  O   O6        1.0  0.21466  0.19584  0.53356  1.0000
+  O   O7        1.0  0.71348  0.31154  0.06839  1.0000
+  O   O8        1.0  0.78534  0.80416  0.46644  1.0000
+  O   O9        1.0  0.42659  0.92933  0.26257  1.0000
+  O   O10       1.0  0.12105  0.48942  0.23643  1.0000
+  O   O11       1.0  0.57341  0.07067  0.73743  1.0000
+  O   O12       1.0  0.87895  0.51058  0.76357  1.0000

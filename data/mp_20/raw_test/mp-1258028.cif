@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn2Si4Ni2O12
+_chemical_formula_sum              "Zn2 Si4 Ni2 O12"
+_cell_length_a       5.33791
+_cell_length_b       6.71289
+_cell_length_c       6.71152
+_cell_angle_alpha    86.2431
+_cell_angle_beta     74.8934
+_cell_angle_gamma    74.8921
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.74990  0.23685  0.76328  1.0000
+  Zn  Zn2       1.0  0.25011  0.76327  0.23689  1.0000
+  Si  Si1       1.0  0.23387  0.21839  0.38840  1.0000
+  Si  Si2       1.0  0.26615  0.61160  0.78160  1.0000
+  Si  Si3       1.0  0.73379  0.38837  0.21844  1.0000
+  Si  Si4       1.0  0.76607  0.78163  0.61158  1.0000
+  Ni  Ni1       1.0  0.75036  0.90111  0.09845  1.0000
+  Ni  Ni2       1.0  0.24993  0.09870  0.90137  1.0000
+  O   O1        1.0  0.47470  0.33050  0.38413  1.0000
+  O   O2        1.0  0.02509  0.61597  0.66965  1.0000
+  O   O3        1.0  0.52516  0.66958  0.61583  1.0000
+  O   O4        1.0  0.97477  0.38400  0.33042  1.0000
+  O   O5        1.0  0.12882  0.13809  0.62220  1.0000
+  O   O6        1.0  0.37101  0.37787  0.86198  1.0000
+  O   O7        1.0  0.87105  0.86196  0.37773  1.0000
+  O   O8        1.0  0.62888  0.62213  0.13798  1.0000
+  O   O9        1.0  0.85209  0.20592  0.04030  1.0000
+  O   O10       1.0  0.64785  0.95981  0.79403  1.0000
+  O   O11       1.0  0.35229  0.04020  0.20597  1.0000
+  O   O12       1.0  0.14808  0.79403  0.95977  1.0000

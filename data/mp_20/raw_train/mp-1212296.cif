@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho6Fe4Si6
+_chemical_formula_sum              "Ho6 Fe4 Si6"
+_cell_length_a       5.6298
+_cell_length_b       5.6298
+_cell_length_c       13.562
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    137.641
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.63829  0.36171  0.25000  1.0000
+  Ho  Ho2       1.0  0.36171  0.63829  0.75000  1.0000
+  Ho  Ho3       1.0  0.92150  0.07850  0.11293  1.0000
+  Ho  Ho4       1.0  0.07850  0.92150  0.88707  1.0000
+  Ho  Ho5       1.0  0.07850  0.92150  0.61293  1.0000
+  Ho  Ho6       1.0  0.92150  0.07850  0.38707  1.0000
+  Fe  Fe1       1.0  0.78515  0.21485  0.58027  1.0000
+  Fe  Fe2       1.0  0.21485  0.78515  0.41973  1.0000
+  Fe  Fe3       1.0  0.21485  0.78515  0.08027  1.0000
+  Fe  Fe4       1.0  0.78515  0.21485  0.91973  1.0000
+  Si  Si1       1.0  0.32724  0.67276  0.25000  1.0000
+  Si  Si2       1.0  0.67276  0.32724  0.75000  1.0000
+  Si  Si3       1.0  0.62400  0.37600  0.03883  1.0000
+  Si  Si4       1.0  0.37600  0.62400  0.96117  1.0000
+  Si  Si5       1.0  0.37600  0.62400  0.53883  1.0000
+  Si  Si6       1.0  0.62400  0.37600  0.46117  1.0000

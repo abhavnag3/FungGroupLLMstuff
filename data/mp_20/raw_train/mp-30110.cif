@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr2La2I8
+_chemical_formula_sum              "Sr2 La2 I8"
+_cell_length_a       9.14082
+_cell_length_b       9.14082
+_cell_length_c       7.56849
+_cell_angle_alpha    71.0614
+_cell_angle_beta     71.0614
+_cell_angle_gamma    110.945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.63484  0.36516  0.75000  1.0000
+  Sr  Sr2       1.0  0.36516  0.63484  0.25000  1.0000
+  La  La1       1.0  0.99965  0.00035  0.25000  1.0000
+  La  La2       1.0  0.00035  0.99965  0.75000  1.0000
+  I   I1        1.0  0.94626  0.29975  0.41227  1.0000
+  I   I2        1.0  0.70025  0.05373  0.08773  1.0000
+  I   I3        1.0  0.05373  0.70025  0.58773  1.0000
+  I   I4        1.0  0.29975  0.94626  0.91227  1.0000
+  I   I5        1.0  0.36574  0.24276  0.26256  1.0000
+  I   I6        1.0  0.75724  0.63426  0.23744  1.0000
+  I   I7        1.0  0.63426  0.75724  0.73744  1.0000
+  I   I8        1.0  0.24276  0.36574  0.76256  1.0000

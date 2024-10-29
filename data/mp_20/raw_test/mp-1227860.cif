@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba4P4Pd4
+_chemical_formula_sum              "Ba4 P4 Pd4"
+_cell_length_a       6.29758
+_cell_length_b       6.34767
+_cell_length_c       7.99048
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    102.392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.18835  0.81322  0.50196  1.0000
+  Ba  Ba2       1.0  0.68834  0.31322  0.99804  1.0000
+  Ba  Ba3       1.0  0.81166  0.18678  0.49804  1.0000
+  Ba  Ba4       1.0  0.31166  0.68678  0.00196  1.0000
+  P   P1        1.0  0.15220  0.19554  0.82788  1.0000
+  P   P2        1.0  0.65220  0.69554  0.67212  1.0000
+  P   P3        1.0  0.84780  0.80446  0.17212  1.0000
+  P   P4        1.0  0.34780  0.30446  0.32788  1.0000
+  Pd  Pd1       1.0  0.37981  0.37661  0.62289  1.0000
+  Pd  Pd2       1.0  0.62019  0.62339  0.37711  1.0000
+  Pd  Pd3       1.0  0.12019  0.12339  0.12289  1.0000
+  Pd  Pd4       1.0  0.87981  0.87661  0.87711  1.0000

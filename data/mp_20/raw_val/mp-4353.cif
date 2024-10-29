@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb2Al8Ni2
+_chemical_formula_sum              "Tb2 Al8 Ni2"
+_cell_length_a       8.00065
+_cell_length_b       8.00065
+_cell_length_c       6.61165
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.548
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.88330  0.11671  0.25000  1.0000
+  Tb  Tb2       1.0  0.11671  0.88330  0.75000  1.0000
+  Al  Al1       1.0  0.31104  0.68896  0.55279  1.0000
+  Al  Al2       1.0  0.68896  0.31104  0.44721  1.0000
+  Al  Al3       1.0  0.68896  0.31104  0.05279  1.0000
+  Al  Al4       1.0  0.31104  0.68896  0.94721  1.0000
+  Al  Al5       1.0  0.50000  0.50000  0.00000  1.0000
+  Al  Al6       1.0  0.50000  0.50000  0.50000  1.0000
+  Al  Al7       1.0  0.92319  0.07681  0.75000  1.0000
+  Al  Al8       1.0  0.07681  0.92319  0.25000  1.0000
+  Ni  Ni1       1.0  0.22634  0.77366  0.25000  1.0000
+  Ni  Ni2       1.0  0.77366  0.22634  0.75000  1.0000

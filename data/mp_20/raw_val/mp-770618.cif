@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mg2Mn2O6
+_chemical_formula_sum              "Mg2 Mn2 O6"
+_cell_length_a       5.46434
+_cell_length_b       5.46433
+_cell_length_c       5.46434
+_cell_angle_alpha    54.7221
+_cell_angle_beta     54.722
+_cell_angle_gamma    54.722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.14038  0.14038  0.14038  1.0000
+  Mg  Mg2       1.0  0.85962  0.85962  0.85962  1.0000
+  Mn  Mn1       1.0  0.34219  0.34219  0.34219  1.0000
+  Mn  Mn2       1.0  0.65781  0.65780  0.65781  1.0000
+  O   O1        1.0  0.05920  0.72145  0.45389  1.0000
+  O   O2        1.0  0.45389  0.05920  0.72145  1.0000
+  O   O3        1.0  0.72145  0.45389  0.05920  1.0000
+  O   O4        1.0  0.27855  0.54611  0.94080  1.0000
+  O   O5        1.0  0.54611  0.94080  0.27855  1.0000
+  O   O6        1.0  0.94080  0.27855  0.54611  1.0000

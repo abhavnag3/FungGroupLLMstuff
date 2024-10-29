@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ca2As2O7
+_chemical_formula_sum              "Ca2 As2 O7"
+_cell_length_a       5.9282
+_cell_length_b       5.9282
+_cell_length_c       4.98852
+_cell_angle_alpha    82.962
+_cell_angle_beta     82.962
+_cell_angle_gamma    105.679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.69291  0.30709  0.50000  1.0000
+  Ca  Ca2       1.0  0.30709  0.69291  0.50000  1.0000
+  As  As1       1.0  0.77370  0.77370  0.90803  1.0000
+  As  As2       1.0  0.22630  0.22630  0.09197  1.0000
+  O   O1        1.0  0.91646  0.61583  0.72186  1.0000
+  O   O2        1.0  0.38417  0.08354  0.27814  1.0000
+  O   O3        1.0  0.08354  0.38417  0.27814  1.0000
+  O   O4        1.0  0.61583  0.91646  0.72186  1.0000
+  O   O5        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O6        1.0  0.61733  0.61733  0.21405  1.0000
+  O   O7        1.0  0.38266  0.38267  0.78595  1.0000

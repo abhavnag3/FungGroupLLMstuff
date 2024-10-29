@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rb4Nb2Ag2S8
+_chemical_formula_sum              "Rb4 Nb2 Ag2 S8"
+_cell_length_a       13.926
+_cell_length_b       12.4154
+_cell_length_c       7.59469
+_cell_angle_alpha    84.5566
+_cell_angle_beta     62.562
+_cell_angle_gamma    32.8814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.07098  0.07098  0.42902  1.0000
+  Rb  Rb2       1.0  0.17902  0.17902  0.82098  1.0000
+  Rb  Rb3       1.0  0.42902  0.42902  0.07098  1.0000
+  Rb  Rb4       1.0  0.82098  0.82098  0.17902  1.0000
+  Nb  Nb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nb  Nb2       1.0  0.25000  0.25000  0.25000  1.0000
+  Ag  Ag1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ag  Ag2       1.0  0.75000  0.75000  0.75000  1.0000
+  S   S1        1.0  0.06095  0.82778  0.74211  1.0000
+  S   S2        1.0  0.36917  0.74211  0.82778  1.0000
+  S   S3        1.0  0.74211  0.36917  0.06095  1.0000
+  S   S4        1.0  0.82778  0.06095  0.36917  1.0000
+  S   S5        1.0  0.18905  0.42222  0.50789  1.0000
+  S   S6        1.0  0.42222  0.18905  0.88083  1.0000
+  S   S7        1.0  0.50789  0.88083  0.18905  1.0000
+  S   S8        1.0  0.88083  0.50789  0.42222  1.0000

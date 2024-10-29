@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Sc6N2O5
+_chemical_formula_sum              "Sc6 N2 O5"
+_cell_length_a       5.46561
+_cell_length_b       5.46964
+_cell_length_c       5.47296
+_cell_angle_alpha    99.7991
+_cell_angle_beta     99.841
+_cell_angle_gamma    99.6928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.15422  0.57404  0.27623  1.0000
+  Sc  Sc2       1.0  0.71808  0.85246  0.43162  1.0000
+  Sc  Sc3       1.0  0.43383  0.72601  0.85993  1.0000
+  Sc  Sc4       1.0  0.56312  0.27059  0.14882  1.0000
+  Sc  Sc5       1.0  0.27848  0.14192  0.55625  1.0000
+  Sc  Sc6       1.0  0.85230  0.43569  0.72342  1.0000
+  N   N1        1.0  0.37515  0.92220  0.22360  1.0000
+  N   N2        1.0  0.50161  0.49942  0.50086  1.0000
+  O   O1        1.0  0.07607  0.77216  0.62410  1.0000
+  O   O2        1.0  0.77639  0.62213  0.07576  1.0000
+  O   O3        1.0  0.22229  0.37702  0.92054  1.0000
+  O   O4        1.0  0.92197  0.22601  0.38050  1.0000
+  O   O5        1.0  0.62648  0.08036  0.77838  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tb2Cr2O8
+_chemical_formula_sum              "Tb2 Cr2 O8"
+_cell_length_a       5.08573
+_cell_length_b       5.08573
+_cell_length_c       6.72127
+_cell_angle_alpha    112.23
+_cell_angle_beta     112.23
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.62500  0.87500  0.25000  1.0000
+  Tb  Tb2       1.0  0.37500  0.12500  0.75000  1.0000
+  Cr  Cr1       1.0  0.12500  0.37500  0.25000  1.0000
+  Cr  Cr2       1.0  0.87500  0.62500  0.75000  1.0000
+  O   O1        1.0  0.34639  0.19358  0.40364  1.0000
+  O   O2        1.0  0.05725  0.71006  0.40364  1.0000
+  O   O3        1.0  0.69358  0.55725  0.90364  1.0000
+  O   O4        1.0  0.21006  0.84639  0.90364  1.0000
+  O   O5        1.0  0.65361  0.80642  0.59636  1.0000
+  O   O6        1.0  0.94275  0.28994  0.59636  1.0000
+  O   O7        1.0  0.30642  0.44275  0.09636  1.0000
+  O   O8        1.0  0.78994  0.15361  0.09636  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sm2Fe4Co4B2
+_chemical_formula_sum              "Sm2 Fe4 Co4 B2"
+_cell_length_a       5.10557
+_cell_length_b       5.13789
+_cell_length_c       6.89041
+_cell_angle_alpha    89.9957
+_cell_angle_beta     89.9914
+_cell_angle_gamma    60.2079
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.99999  0.00000  0.00244  1.0000
+  Sm  Sm2       1.0  0.99999  0.00000  0.49267  1.0000
+  Fe  Fe1       1.0  0.99999  0.50000  0.71244  1.0000
+  Fe  Fe2       1.0  0.49999  0.50001  0.71244  1.0000
+  Fe  Fe3       1.0  0.66764  0.66460  0.00303  1.0000
+  Fe  Fe4       1.0  0.33224  0.33540  0.00303  1.0000
+  Co  Co1       1.0  0.50001  0.00000  0.28873  1.0000
+  Co  Co2       1.0  0.99999  0.50003  0.28992  1.0000
+  Co  Co3       1.0  0.50002  0.49997  0.28992  1.0000
+  Co  Co4       1.0  0.50001  0.00000  0.71228  1.0000
+  B   B1        1.0  0.66497  0.66999  0.49655  1.0000
+  B   B2        1.0  0.33496  0.33001  0.49655  1.0000

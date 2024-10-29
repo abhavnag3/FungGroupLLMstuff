@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu2Mg2H8
+_chemical_formula_sum              "Eu2 Mg2 H8"
+_cell_length_a       6.8471
+_cell_length_b       6.8471
+_cell_length_c       5.56823
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    147.088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.15188  0.84811  0.25596  1.0000
+  Eu  Eu2       1.0  0.84811  0.15188  0.75596  1.0000
+  Mg  Mg1       1.0  0.41431  0.58569  0.30426  1.0000
+  Mg  Mg2       1.0  0.58569  0.41431  0.80426  1.0000
+  H   H1        1.0  0.33035  0.66965  0.02489  1.0000
+  H   H2        1.0  0.66965  0.33035  0.52489  1.0000
+  H   H3        1.0  0.29583  0.70417  0.51003  1.0000
+  H   H4        1.0  0.70417  0.29583  0.01003  1.0000
+  H   H5        1.0  0.07283  0.92717  0.84735  1.0000
+  H   H6        1.0  0.92717  0.07283  0.34735  1.0000
+  H   H7        1.0  0.54407  0.45593  0.15651  1.0000
+  H   H8        1.0  0.45594  0.54407  0.65651  1.0000

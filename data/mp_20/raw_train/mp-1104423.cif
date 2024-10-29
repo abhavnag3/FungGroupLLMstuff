@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2YAg5S6
+_chemical_formula_sum              "Ba2 Y1 Ag5 S6"
+_cell_length_a       4.23072
+_cell_length_b       7.34936
+_cell_length_c       11.2692
+_cell_angle_alpha    94.8152
+_cell_angle_beta     90
+_cell_angle_gamma    106.728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25140  0.50280  0.70360  1.0000
+  Ba  Ba2       1.0  0.74860  0.49720  0.29640  1.0000
+  Y   Y1        1.0  0.50000  0.00000  0.50000  1.0000
+  Ag  Ag1       1.0  0.01872  0.03744  0.25635  1.0000
+  Ag  Ag2       1.0  0.98128  0.96256  0.74365  1.0000
+  Ag  Ag3       1.0  0.35155  0.70311  0.03763  1.0000
+  Ag  Ag4       1.0  0.64845  0.29689  0.96237  1.0000
+  Ag  Ag5       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.12529  0.25059  0.45441  1.0000
+  S   S2        1.0  0.87471  0.74942  0.54559  1.0000
+  S   S3        1.0  0.15810  0.31621  0.10217  1.0000
+  S   S4        1.0  0.84190  0.68379  0.89783  1.0000
+  S   S5        1.0  0.41342  0.82684  0.26525  1.0000
+  S   S6        1.0  0.58658  0.17316  0.73476  1.0000

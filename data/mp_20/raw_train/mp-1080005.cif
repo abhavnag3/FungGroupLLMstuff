@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs3Li2Br5
+_chemical_formula_sum              "Cs3 Li2 Br5"
+_cell_length_a       13.4635
+_cell_length_b       13.4635
+_cell_length_c       4.46403
+_cell_angle_alpha    80.5418
+_cell_angle_beta     80.5418
+_cell_angle_gamma    147.002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.64635  0.40093  0.72474  1.0000
+  Cs  Cs2       1.0  0.40093  0.64634  0.72474  1.0000
+  Cs  Cs3       1.0  0.02984  0.02984  0.19506  1.0000
+  Li  Li1       1.0  0.77153  0.20354  0.76546  1.0000
+  Li  Li2       1.0  0.20354  0.77153  0.76546  1.0000
+  Br  Br1       1.0  0.53124  0.53124  0.19736  1.0000
+  Br  Br2       1.0  0.34734  0.82311  0.16921  1.0000
+  Br  Br3       1.0  0.82311  0.34734  0.16921  1.0000
+  Br  Br4       1.0  0.91401  0.15182  0.71086  1.0000
+  Br  Br5       1.0  0.15182  0.91401  0.71086  1.0000

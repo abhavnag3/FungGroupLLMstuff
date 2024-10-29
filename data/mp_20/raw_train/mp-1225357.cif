@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       DyAl7Fe5
+_chemical_formula_sum              "Dy1 Al7 Fe5"
+_cell_length_a       6.60887
+_cell_length_b       6.60887
+_cell_length_c       6.60887
+_cell_angle_alpha    135.386
+_cell_angle_beta     98.406
+_cell_angle_gamma    98.1609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.00482  0.00000  0.00482  1.0000
+  Al  Al1       1.0  0.65982  0.00000  0.65982  1.0000
+  Al  Al2       1.0  0.33931  0.00000  0.33931  1.0000
+  Al  Al3       1.0  0.33434  0.34270  0.99164  1.0000
+  Al  Al4       1.0  0.64895  0.65730  0.99164  1.0000
+  Al  Al5       1.0  0.77463  0.50000  0.27463  1.0000
+  Al  Al6       1.0  0.79298  0.28851  0.50447  1.0000
+  Al  Al7       1.0  0.21596  0.71149  0.50447  1.0000
+  Fe  Fe1       1.0  0.49895  0.49818  0.49611  1.0000
+  Fe  Fe2       1.0  0.49895  0.00285  0.00077  1.0000
+  Fe  Fe3       1.0  0.99792  0.99715  0.49611  1.0000
+  Fe  Fe4       1.0  0.99792  0.50182  0.00077  1.0000
+  Fe  Fe5       1.0  0.23545  0.50000  0.73545  1.0000

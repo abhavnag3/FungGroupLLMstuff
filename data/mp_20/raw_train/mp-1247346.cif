@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Bi2C3N6
+_chemical_formula_sum              "Bi2 C3 N6"
+_cell_length_a       6.42028
+_cell_length_b       6.76849
+_cell_length_c       15.2821
+_cell_angle_alpha    90
+_cell_angle_beta     142.507
+_cell_angle_gamma    58.1891
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.00000  0.00000  0.82508  1.0000
+  Bi  Bi2       1.0  0.00000  0.00000  0.17492  1.0000
+  C   C1        1.0  0.17380  0.55080  0.72460  1.0000
+  C   C2        1.0  0.00000  0.72460  0.00000  1.0000
+  C   C3        1.0  0.82620  0.72460  0.27540  1.0000
+  N   N1        1.0  0.69518  0.85057  0.15741  1.0000
+  N   N2        1.0  0.05791  0.54576  0.61165  1.0000
+  N   N3        1.0  0.24690  0.60367  0.00798  1.0000
+  N   N4        1.0  0.94209  0.60367  0.38835  1.0000
+  N   N5        1.0  0.75310  0.85057  0.99202  1.0000
+  N   N6        1.0  0.30482  0.54576  0.84259  1.0000

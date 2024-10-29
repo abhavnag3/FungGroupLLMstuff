@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K4Sn2Se6
+_chemical_formula_sum              "K4 Sn2 Se6"
+_cell_length_a       7.00642
+_cell_length_b       7.7851
+_cell_length_c       8.881
+_cell_angle_alpha    76.4711
+_cell_angle_beta     74.9828
+_cell_angle_gamma    67.4407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.38607  0.79338  0.89812  1.0000
+  K   K2        1.0  0.61393  0.20662  0.10188  1.0000
+  K   K3        1.0  0.14487  0.46953  0.68439  1.0000
+  K   K4        1.0  0.85513  0.53047  0.31561  1.0000
+  Sn  Sn1       1.0  0.85011  0.06292  0.68721  1.0000
+  Sn  Sn2       1.0  0.14989  0.93708  0.31279  1.0000
+  Se  Se1       1.0  0.65221  0.40216  0.71471  1.0000
+  Se  Se2       1.0  0.76662  0.95617  0.45623  1.0000
+  Se  Se3       1.0  0.86126  0.81012  0.92247  1.0000
+  Se  Se4       1.0  0.34779  0.59784  0.28529  1.0000
+  Se  Se5       1.0  0.13874  0.18988  0.07753  1.0000
+  Se  Se6       1.0  0.23338  0.04383  0.54377  1.0000

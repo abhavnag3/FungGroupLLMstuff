@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Y2Cu2Pb2S6
+_chemical_formula_sum              "Y2 Cu2 Pb2 S6"
+_cell_length_a       6.81595
+_cell_length_b       6.81595
+_cell_length_c       10.2778
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.49
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.50000  0.50000  0.50000  1.0000
+  Y   Y2        1.0  0.50000  0.50000  0.00000  1.0000
+  Cu  Cu1       1.0  0.96581  0.03419  0.25000  1.0000
+  Cu  Cu2       1.0  0.03419  0.96581  0.75000  1.0000
+  Pb  Pb1       1.0  0.25149  0.74851  0.25000  1.0000
+  Pb  Pb2       1.0  0.74851  0.25149  0.75000  1.0000
+  S   S1        1.0  0.42605  0.57395  0.75000  1.0000
+  S   S2        1.0  0.57395  0.42605  0.25000  1.0000
+  S   S3        1.0  0.13838  0.86162  0.93178  1.0000
+  S   S4        1.0  0.13838  0.86162  0.56822  1.0000
+  S   S5        1.0  0.86162  0.13838  0.06821  1.0000
+  S   S6        1.0  0.86162  0.13838  0.43178  1.0000

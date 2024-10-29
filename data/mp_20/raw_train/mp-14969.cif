@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba2Er2Cu2S6
+_chemical_formula_sum              "Ba2 Er2 Cu2 S6"
+_cell_length_a       7.08279
+_cell_length_b       7.08279
+_cell_length_c       10.1797
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    147.159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25539  0.74461  0.25000  1.0000
+  Ba  Ba2       1.0  0.74461  0.25539  0.75000  1.0000
+  Er  Er1       1.0  0.00000  0.00000  0.50000  1.0000
+  Er  Er2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.46842  0.53158  0.75000  1.0000
+  Cu  Cu2       1.0  0.53158  0.46842  0.25000  1.0000
+  S   S1        1.0  0.06583  0.93417  0.75000  1.0000
+  S   S2        1.0  0.93417  0.06583  0.25000  1.0000
+  S   S3        1.0  0.36975  0.63025  0.56199  1.0000
+  S   S4        1.0  0.36975  0.63025  0.93801  1.0000
+  S   S5        1.0  0.63025  0.36975  0.06199  1.0000
+  S   S6        1.0  0.63025  0.36975  0.43801  1.0000

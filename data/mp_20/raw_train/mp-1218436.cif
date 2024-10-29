@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       SrAlSi5N7O2
+_chemical_formula_sum              "Sr1 Al1 Si5 N7 O2"
+_cell_length_a       4.93742
+_cell_length_b       6.80449
+_cell_length_c       6.86298
+_cell_angle_alpha    75.3217
+_cell_angle_beta     69.4952
+_cell_angle_gamma    69.0792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.27991  0.01044  0.99555  1.0000
+  Al  Al1       1.0  0.82512  0.52721  0.14714  1.0000
+  Si  Si1       1.0  0.32548  0.33279  0.33223  1.0000
+  Si  Si2       1.0  0.98951  0.66076  0.66078  1.0000
+  Si  Si3       1.0  0.50167  0.46848  0.85473  1.0000
+  Si  Si4       1.0  0.81634  0.14417  0.53180  1.0000
+  Si  Si5       1.0  0.48514  0.85938  0.47974  1.0000
+  N   N1        1.0  0.69288  0.29706  0.31545  1.0000
+  N   N2        1.0  0.30979  0.69029  0.68798  1.0000
+  N   N3        1.0  0.23984  0.44384  0.09892  1.0000
+  N   N4        1.0  0.76011  0.56749  0.88952  1.0000
+  N   N5        1.0  0.21538  0.10090  0.44373  1.0000
+  N   N6        1.0  0.76788  0.89512  0.55151  1.0000
+  N   N7        1.0  0.62972  0.22842  0.76934  1.0000
+  O   O1        1.0  0.07727  0.49976  0.49325  1.0000
+  O   O2        1.0  0.61506  0.77388  0.24834  1.0000

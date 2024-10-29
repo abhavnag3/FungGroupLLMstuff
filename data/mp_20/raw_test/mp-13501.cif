@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ErCoC2
+_chemical_formula_sum              "Er1 Co1 C2"
+_cell_length_a       3.73968
+_cell_length_b       3.73968
+_cell_length_c       3.51142
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    106.039
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.00849  0.99151  0.00000  1.0000
+  Co  Co1       1.0  0.39129  0.60871  0.50000  1.0000
+  C   C1        1.0  0.54898  0.14446  0.50000  1.0000
+  C   C2        1.0  0.85554  0.45102  0.50000  1.0000

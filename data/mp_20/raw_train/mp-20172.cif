@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Er4Mn4Ge4
+_chemical_formula_sum              "Er4 Mn4 Ge4"
+_cell_length_a       4.06902
+_cell_length_b       7.00165
+_cell_length_c       7.91513
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.25000  0.52575  0.18013  1.0000
+  Er  Er2       1.0  0.75000  0.47425  0.81987  1.0000
+  Er  Er3       1.0  0.25000  0.02575  0.31987  1.0000
+  Er  Er4       1.0  0.75000  0.97425  0.68013  1.0000
+  Mn  Mn1       1.0  0.75000  0.36756  0.44640  1.0000
+  Mn  Mn2       1.0  0.25000  0.13244  0.94640  1.0000
+  Mn  Mn3       1.0  0.75000  0.86756  0.05360  1.0000
+  Mn  Mn4       1.0  0.25000  0.63244  0.55360  1.0000
+  Ge  Ge1       1.0  0.25000  0.27420  0.62148  1.0000
+  Ge  Ge2       1.0  0.75000  0.22580  0.12148  1.0000
+  Ge  Ge3       1.0  0.25000  0.77420  0.87852  1.0000
+  Ge  Ge4       1.0  0.75000  0.72580  0.37851  1.0000

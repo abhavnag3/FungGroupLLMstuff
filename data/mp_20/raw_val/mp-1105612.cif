@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs2Sc2U2Se10
+_chemical_formula_sum              "Cs2 Sc2 U2 Se10"
+_cell_length_a       4.15904
+_cell_length_b       10.7137
+_cell_length_c       11.0466
+_cell_angle_alpha    90
+_cell_angle_beta     100.851
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.15863  0.75000  0.31727  1.0000
+  Cs  Cs2       1.0  0.84137  0.25000  0.68273  1.0000
+  Sc  Sc1       1.0  0.00000  0.50000  0.00000  1.0000
+  Sc  Sc2       1.0  0.00000  0.00000  0.00000  1.0000
+  U   U1        1.0  0.38328  0.75000  0.76655  1.0000
+  U   U2        1.0  0.61672  0.25000  0.23345  1.0000
+  Se  Se1       1.0  0.80476  0.63856  0.60953  1.0000
+  Se  Se2       1.0  0.19524  0.36144  0.39047  1.0000
+  Se  Se3       1.0  0.80476  0.86144  0.60953  1.0000
+  Se  Se4       1.0  0.19524  0.13856  0.39047  1.0000
+  Se  Se5       1.0  0.58284  0.51364  0.16567  1.0000
+  Se  Se6       1.0  0.41716  0.48636  0.83433  1.0000
+  Se  Se7       1.0  0.58284  0.98636  0.16567  1.0000
+  Se  Se8       1.0  0.41716  0.01364  0.83433  1.0000
+  Se  Se9       1.0  0.97863  0.75000  0.95725  1.0000
+  Se  Se10      1.0  0.02137  0.25000  0.04275  1.0000

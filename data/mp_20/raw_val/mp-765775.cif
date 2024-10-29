@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li2V2SiGeO10
+_chemical_formula_sum              "Li2 V2 Si1 Ge1 O10"
+_cell_length_a       6.41248
+_cell_length_b       6.41248
+_cell_length_c       4.66679
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.5061
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.23994  0.76006  0.00000  1.0000
+  Li  Li2       1.0  0.76006  0.23994  0.00000  1.0000
+  V   V1        1.0  0.50000  0.00000  0.60886  1.0000
+  V   V2        1.0  0.00000  0.50000  0.39114  1.0000
+  Si  Si1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ge  Ge1       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.00497  0.79109  0.29431  1.0000
+  O   O2        1.0  0.20891  0.99503  0.70569  1.0000
+  O   O3        1.0  0.50000  0.00000  0.25904  1.0000
+  O   O4        1.0  0.79109  0.00497  0.70569  1.0000
+  O   O5        1.0  0.99503  0.20891  0.29431  1.0000
+  O   O6        1.0  0.50716  0.28092  0.72950  1.0000
+  O   O7        1.0  0.71908  0.49284  0.27050  1.0000
+  O   O8        1.0  0.28092  0.50716  0.27050  1.0000
+  O   O9        1.0  0.00000  0.50000  0.74096  1.0000
+  O   O10       1.0  0.49284  0.71908  0.72950  1.0000

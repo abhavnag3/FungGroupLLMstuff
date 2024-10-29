@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tb4Ge8Ir4
+_chemical_formula_sum              "Tb4 Ge8 Ir4"
+_cell_length_a       9.48938
+_cell_length_b       9.48938
+_cell_length_c       9.48938
+_cell_angle_alpha    153.847
+_cell_angle_beta     123.862
+_cell_angle_gamma    62.947
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.70538  0.20538  0.50000  1.0000
+  Tb  Tb2       1.0  0.26239  0.00000  0.26239  1.0000
+  Tb  Tb3       1.0  0.29462  0.79462  0.50000  1.0000
+  Tb  Tb4       1.0  0.73761  0.00000  0.73761  1.0000
+  Ge  Ge1       1.0  0.04770  0.20085  0.84685  1.0000
+  Ge  Ge2       1.0  0.95230  0.79915  0.15315  1.0000
+  Ge  Ge3       1.0  0.64600  0.79915  0.84685  1.0000
+  Ge  Ge4       1.0  0.35400  0.20085  0.15315  1.0000
+  Ge  Ge5       1.0  0.57693  0.57693  0.00000  1.0000
+  Ge  Ge6       1.0  0.92198  0.42198  0.50000  1.0000
+  Ge  Ge7       1.0  0.07802  0.57802  0.50000  1.0000
+  Ge  Ge8       1.0  0.42307  0.42307  0.00000  1.0000
+  Ir  Ir1       1.0  0.60549  0.35457  0.25092  1.0000
+  Ir  Ir2       1.0  0.39451  0.64543  0.74908  1.0000
+  Ir  Ir3       1.0  0.89635  0.64543  0.25092  1.0000
+  Ir  Ir4       1.0  0.10365  0.35457  0.74908  1.0000

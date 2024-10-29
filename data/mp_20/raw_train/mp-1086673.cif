@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Dy2Te6
+_chemical_formula_sum              "Dy2 Te6"
+_cell_length_a       13.1644
+_cell_length_b       13.1644
+_cell_length_c       4.34568
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    161.001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.16978  0.83022  0.75000  1.0000
+  Dy  Dy2       1.0  0.83022  0.16978  0.25000  1.0000
+  Te  Te1       1.0  0.92536  0.07464  0.75000  1.0000
+  Te  Te2       1.0  0.07464  0.92536  0.25000  1.0000
+  Te  Te3       1.0  0.57469  0.42530  0.75000  1.0000
+  Te  Te4       1.0  0.42530  0.57469  0.25000  1.0000
+  Te  Te5       1.0  0.29359  0.70641  0.75000  1.0000
+  Te  Te6       1.0  0.70641  0.29359  0.25000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cu8Pt2O10
+_chemical_formula_sum              "Cu8 Pt2 O10"
+_cell_length_a       2.91117
+_cell_length_b       6.03678
+_cell_length_c       13.2343
+_cell_angle_alpha    82.9879
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.50000  0.69948  0.70129  1.0000
+  Cu  Cu2       1.0  0.50000  0.10193  0.09841  1.0000
+  Cu  Cu3       1.0  0.50000  0.30052  0.29871  1.0000
+  Cu  Cu4       1.0  0.50000  0.89807  0.90159  1.0000
+  Cu  Cu5       1.0  0.50000  0.50000  0.50000  1.0000
+  Cu  Cu6       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu7       1.0  0.00000  0.59764  0.09623  1.0000
+  Cu  Cu8       1.0  0.00000  0.40236  0.90377  1.0000
+  Pt  Pt1       1.0  0.00000  0.19994  0.70139  1.0000
+  Pt  Pt2       1.0  0.00000  0.80006  0.29861  1.0000
+  O   O1        1.0  0.00000  0.89528  0.64825  1.0000
+  O   O2        1.0  0.00000  0.10472  0.35175  1.0000
+  O   O3        1.0  0.00000  0.50375  0.75467  1.0000
+  O   O4        1.0  0.00000  0.70005  0.45234  1.0000
+  O   O5        1.0  0.00000  0.89830  0.14516  1.0000
+  O   O6        1.0  0.00000  0.10170  0.85484  1.0000
+  O   O7        1.0  0.00000  0.29995  0.54766  1.0000
+  O   O8        1.0  0.00000  0.49625  0.24533  1.0000
+  O   O9        1.0  0.00000  0.70119  0.94942  1.0000
+  O   O10       1.0  0.00000  0.29881  0.05058  1.0000

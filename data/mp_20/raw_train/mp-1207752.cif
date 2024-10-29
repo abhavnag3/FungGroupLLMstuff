@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Y4Ni2Ru2O12
+_chemical_formula_sum              "Y4 Ni2 Ru2 O12"
+_cell_length_a       5.71345
+_cell_length_b       5.31877
+_cell_length_c       9.30222
+_cell_angle_alpha    55.4143
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.07800  0.72386  0.75186  1.0000
+  Y   Y2        1.0  0.92200  0.27614  0.24814  1.0000
+  Y   Y3        1.0  0.57800  0.27614  0.74814  1.0000
+  Y   Y4        1.0  0.42200  0.72386  0.25186  1.0000
+  Ni  Ni1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.50000  1.0000
+  Ru  Ru1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ru  Ru2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.45683  0.87535  0.74755  1.0000
+  O   O2        1.0  0.54317  0.12465  0.25245  1.0000
+  O   O3        1.0  0.95683  0.12465  0.75245  1.0000
+  O   O4        1.0  0.04317  0.87535  0.24755  1.0000
+  O   O5        1.0  0.80065  0.75329  0.56482  1.0000
+  O   O6        1.0  0.19935  0.24671  0.43518  1.0000
+  O   O7        1.0  0.30065  0.24671  0.93518  1.0000
+  O   O8        1.0  0.69935  0.75329  0.06482  1.0000
+  O   O9        1.0  0.31001  0.63072  0.55822  1.0000
+  O   O10       1.0  0.68999  0.36928  0.44178  1.0000
+  O   O11       1.0  0.81001  0.36928  0.94178  1.0000
+  O   O12       1.0  0.18999  0.63072  0.05822  1.0000

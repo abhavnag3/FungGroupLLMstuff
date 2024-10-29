@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4V2H2O8
+_chemical_formula_sum              "Cs4 V2 H2 O8"
+_cell_length_a       6.96833
+_cell_length_b       6.96833
+_cell_length_c       9.04751
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    133.549
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.61582  0.38418  0.05103  1.0000
+  Cs  Cs2       1.0  0.38418  0.61582  0.55103  1.0000
+  Cs  Cs3       1.0  0.05964  0.94036  0.39576  1.0000
+  Cs  Cs4       1.0  0.94036  0.05964  0.89576  1.0000
+  V   V1        1.0  0.69600  0.30400  0.62278  1.0000
+  V   V2        1.0  0.30400  0.69600  0.12278  1.0000
+  H   H1        1.0  0.16945  0.83055  0.72175  1.0000
+  H   H2        1.0  0.83055  0.16945  0.22175  1.0000
+  O   O1        1.0  0.37110  0.62890  0.95880  1.0000
+  O   O2        1.0  0.94081  0.61120  0.71938  1.0000
+  O   O3        1.0  0.05919  0.38880  0.21938  1.0000
+  O   O4        1.0  0.62890  0.37110  0.45880  1.0000
+  O   O5        1.0  0.61120  0.94081  0.21938  1.0000
+  O   O6        1.0  0.38880  0.05919  0.71938  1.0000
+  O   O7        1.0  0.17220  0.82781  0.09013  1.0000
+  O   O8        1.0  0.82781  0.17219  0.59013  1.0000

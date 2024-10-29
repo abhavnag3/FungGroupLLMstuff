@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Dy2Fe8Ge4
+_chemical_formula_sum              "Dy2 Fe8 Ge4"
+_cell_length_a       7.26243
+_cell_length_b       7.26243
+_cell_length_c       3.86435
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.50000  0.50000  0.00000  1.0000
+  Dy  Dy2       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe1       1.0  0.85611  0.40882  0.50000  1.0000
+  Fe  Fe2       1.0  0.90882  0.64389  0.00000  1.0000
+  Fe  Fe3       1.0  0.35611  0.09118  0.00000  1.0000
+  Fe  Fe4       1.0  0.59118  0.14389  0.50000  1.0000
+  Fe  Fe5       1.0  0.40882  0.85611  0.50000  1.0000
+  Fe  Fe6       1.0  0.09118  0.35611  0.00000  1.0000
+  Fe  Fe7       1.0  0.14389  0.59118  0.50000  1.0000
+  Fe  Fe8       1.0  0.64389  0.90882  0.00000  1.0000
+  Ge  Ge1       1.0  0.71498  0.71498  0.50000  1.0000
+  Ge  Ge2       1.0  0.28502  0.28502  0.50000  1.0000
+  Ge  Ge3       1.0  0.78502  0.21498  0.00000  1.0000
+  Ge  Ge4       1.0  0.21498  0.78502  0.00000  1.0000

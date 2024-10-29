@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       MnHg3S4
+_chemical_formula_sum              "Mn1 Hg3 S4"
+_cell_length_a       13.8333
+_cell_length_b       13.8333
+_cell_length_c       13.8333
+_cell_angle_alpha    17.4236
+_cell_angle_beta     17.4236
+_cell_angle_gamma    17.4236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.75086  0.75086  0.75086  1.0000
+  Hg  Hg1       1.0  0.00224  0.00224  0.00224  1.0000
+  Hg  Hg2       1.0  0.24987  0.24987  0.24987  1.0000
+  Hg  Hg3       1.0  0.49695  0.49695  0.49695  1.0000
+  S   S1        1.0  0.93884  0.93884  0.93884  1.0000
+  S   S2        1.0  0.18625  0.18625  0.18625  1.0000
+  S   S3        1.0  0.43292  0.43292  0.43292  1.0000
+  S   S4        1.0  0.69207  0.69207  0.69207  1.0000

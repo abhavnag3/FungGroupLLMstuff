@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tb4Ga8Ag4
+_chemical_formula_sum              "Tb4 Ga8 Ag4"
+_cell_length_a       4.37881
+_cell_length_b       6.96438
+_cell_length_c       10.256
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.25000  0.77986  0.82753  1.0000
+  Tb  Tb2       1.0  0.75000  0.22014  0.17247  1.0000
+  Tb  Tb3       1.0  0.75000  0.72014  0.32753  1.0000
+  Tb  Tb4       1.0  0.25000  0.27986  0.67247  1.0000
+  Ga  Ga1       1.0  0.25000  0.92812  0.15289  1.0000
+  Ga  Ga2       1.0  0.75000  0.07188  0.84711  1.0000
+  Ga  Ga3       1.0  0.75000  0.57188  0.65289  1.0000
+  Ga  Ga4       1.0  0.25000  0.42812  0.34711  1.0000
+  Ga  Ga5       1.0  0.25000  0.70402  0.53735  1.0000
+  Ga  Ga6       1.0  0.75000  0.29598  0.46265  1.0000
+  Ga  Ga7       1.0  0.75000  0.79598  0.03735  1.0000
+  Ga  Ga8       1.0  0.25000  0.20402  0.96265  1.0000
+  Ag  Ag1       1.0  0.25000  0.54344  0.09768  1.0000
+  Ag  Ag2       1.0  0.75000  0.45656  0.90232  1.0000
+  Ag  Ag3       1.0  0.75000  0.95656  0.59768  1.0000
+  Ag  Ag4       1.0  0.25000  0.04344  0.40232  1.0000

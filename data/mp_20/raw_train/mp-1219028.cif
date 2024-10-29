@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       SmTiFe11C
+_chemical_formula_sum              "Sm1 Ti1 Fe11 C1"
+_cell_length_a       4.89482
+_cell_length_b       6.51559
+_cell_length_c       6.51559
+_cell_angle_alpha    97.7367
+_cell_angle_beta     112.063
+_cell_angle_gamma    67.9371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00746  0.99254  0.00746  1.0000
+  Ti  Ti1       1.0  0.63339  0.36661  0.63339  1.0000
+  Fe  Fe1       1.0  0.72526  0.77474  0.22526  1.0000
+  Fe  Fe2       1.0  0.27669  0.22331  0.77669  1.0000
+  Fe  Fe3       1.0  0.49790  0.78156  0.77736  1.0000
+  Fe  Fe4       1.0  0.49790  0.22264  0.21843  1.0000
+  Fe  Fe5       1.0  0.50000  0.99785  0.49896  1.0000
+  Fe  Fe6       1.0  0.00112  0.99785  0.49896  1.0000
+  Fe  Fe7       1.0  0.50000  0.50104  0.00215  1.0000
+  Fe  Fe8       1.0  0.00112  0.50104  0.00215  1.0000
+  Fe  Fe9       1.0  0.35739  0.64261  0.35739  1.0000
+  Fe  Fe10      1.0  0.00021  0.35910  0.35951  1.0000
+  Fe  Fe11      1.0  0.00020  0.64049  0.64090  1.0000
+  C   C1        1.0  0.50138  0.99862  0.00138  1.0000

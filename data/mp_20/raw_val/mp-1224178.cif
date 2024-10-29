@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ho2Cu6S6
+_chemical_formula_sum              "Ho2 Cu6 S6"
+_cell_length_a       7.43582
+_cell_length_b       7.43582
+_cell_length_c       7.43582
+_cell_angle_alpha    53.6701
+_cell_angle_beta     53.6701
+_cell_angle_gamma    53.6701
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.83340  0.83340  0.83340  1.0000
+  Ho  Ho2       1.0  0.16660  0.16660  0.16660  1.0000
+  Cu  Cu1       1.0  0.28715  0.95797  0.62257  1.0000
+  Cu  Cu2       1.0  0.62257  0.28715  0.95797  1.0000
+  Cu  Cu3       1.0  0.95797  0.62257  0.28715  1.0000
+  Cu  Cu4       1.0  0.04203  0.37743  0.71285  1.0000
+  Cu  Cu5       1.0  0.37743  0.71285  0.04203  1.0000
+  Cu  Cu6       1.0  0.71285  0.04203  0.37743  1.0000
+  S   S1        1.0  0.08301  0.75038  0.41769  1.0000
+  S   S2        1.0  0.75038  0.41769  0.08301  1.0000
+  S   S3        1.0  0.41770  0.08301  0.75038  1.0000
+  S   S4        1.0  0.58230  0.91699  0.24962  1.0000
+  S   S5        1.0  0.24962  0.58230  0.91699  1.0000
+  S   S6        1.0  0.91699  0.24962  0.58230  1.0000

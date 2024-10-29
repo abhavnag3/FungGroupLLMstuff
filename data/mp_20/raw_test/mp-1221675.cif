@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2Cr2Si4
+_chemical_formula_sum              "Mn2 Cr2 Si4"
+_cell_length_a       4.56071
+_cell_length_b       4.54346
+_cell_length_c       4.55452
+_cell_angle_alpha    89.2257
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.36216  0.85943  0.38473  1.0000
+  Mn  Mn2       1.0  0.86216  0.14057  0.61527  1.0000
+  Cr  Cr1       1.0  0.63722  0.63495  0.89015  1.0000
+  Cr  Cr2       1.0  0.13722  0.36505  0.10985  1.0000
+  Si  Si1       1.0  0.34758  0.34074  0.59568  1.0000
+  Si  Si2       1.0  0.84758  0.65926  0.40432  1.0000
+  Si  Si3       1.0  0.65304  0.14926  0.10028  1.0000
+  Si  Si4       1.0  0.15304  0.85074  0.89972  1.0000

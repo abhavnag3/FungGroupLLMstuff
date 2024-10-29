@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Eu2Cu4Sn2S8
+_chemical_formula_sum              "Eu2 Cu4 Sn2 S8"
+_cell_length_a       6.09129
+_cell_length_b       6.09129
+_cell_length_c       10.5065
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    116.073
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.47792  0.47792  0.50000  1.0000
+  Eu  Eu2       1.0  0.47792  0.47792  0.00000  1.0000
+  Cu  Cu1       1.0  0.85279  0.28116  0.87396  1.0000
+  Cu  Cu2       1.0  0.28116  0.85279  0.37396  1.0000
+  Cu  Cu3       1.0  0.28116  0.85279  0.12604  1.0000
+  Cu  Cu4       1.0  0.85279  0.28116  0.62604  1.0000
+  Sn  Sn1       1.0  0.90514  0.20879  0.25000  1.0000
+  Sn  Sn2       1.0  0.20879  0.90514  0.75000  1.0000
+  S   S1        1.0  0.48416  0.96634  0.93206  1.0000
+  S   S2        1.0  0.96634  0.48416  0.06795  1.0000
+  S   S3        1.0  0.78702  0.58634  0.75000  1.0000
+  S   S4        1.0  0.96634  0.48416  0.43206  1.0000
+  S   S5        1.0  0.17684  0.29429  0.75000  1.0000
+  S   S6        1.0  0.48416  0.96634  0.56795  1.0000
+  S   S7        1.0  0.58634  0.78702  0.25000  1.0000
+  S   S8        1.0  0.29429  0.17684  0.25000  1.0000

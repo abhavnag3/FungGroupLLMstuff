@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       NdTiFe11C
+_chemical_formula_sum              "Nd1 Ti1 Fe11 C1"
+_cell_length_a       4.95467
+_cell_length_b       6.52997
+_cell_length_c       6.52997
+_cell_angle_alpha    97.984
+_cell_angle_beta     112.295
+_cell_angle_gamma    67.7047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.00671  0.99329  0.00671  1.0000
+  Ti  Ti1       1.0  0.63350  0.36650  0.63350  1.0000
+  Fe  Fe1       1.0  0.72487  0.77513  0.22487  1.0000
+  Fe  Fe2       1.0  0.27691  0.22309  0.77691  1.0000
+  Fe  Fe3       1.0  0.49777  0.78082  0.77637  1.0000
+  Fe  Fe4       1.0  0.49777  0.22363  0.21918  1.0000
+  Fe  Fe5       1.0  0.50014  0.99751  0.49903  1.0000
+  Fe  Fe6       1.0  0.00139  0.99751  0.49903  1.0000
+  Fe  Fe7       1.0  0.50014  0.50097  0.00249  1.0000
+  Fe  Fe8       1.0  0.00139  0.50097  0.00249  1.0000
+  Fe  Fe9       1.0  0.35842  0.64158  0.35842  1.0000
+  Fe  Fe10      1.0  0.99976  0.36029  0.35981  1.0000
+  Fe  Fe11      1.0  0.99976  0.64019  0.63971  1.0000
+  C   C1        1.0  0.50148  0.99852  0.00148  1.0000

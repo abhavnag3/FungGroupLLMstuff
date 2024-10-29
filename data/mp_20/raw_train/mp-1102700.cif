@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tm4Ge4Ir4
+_chemical_formula_sum              "Tm4 Ge4 Ir4"
+_cell_length_a       4.2835
+_cell_length_b       6.77027
+_cell_length_c       7.62508
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.25000  0.50642  0.69434  1.0000
+  Tm  Tm2       1.0  0.25000  0.00642  0.80566  1.0000
+  Tm  Tm3       1.0  0.75000  0.49358  0.30566  1.0000
+  Tm  Tm4       1.0  0.75000  0.99358  0.19434  1.0000
+  Ge  Ge1       1.0  0.25000  0.78768  0.38857  1.0000
+  Ge  Ge2       1.0  0.25000  0.28768  0.11143  1.0000
+  Ge  Ge3       1.0  0.75000  0.21232  0.61143  1.0000
+  Ge  Ge4       1.0  0.75000  0.71232  0.88857  1.0000
+  Ir  Ir1       1.0  0.25000  0.16140  0.43633  1.0000
+  Ir  Ir2       1.0  0.25000  0.66140  0.06366  1.0000
+  Ir  Ir3       1.0  0.75000  0.83860  0.56366  1.0000
+  Ir  Ir4       1.0  0.75000  0.33860  0.93634  1.0000

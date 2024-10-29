@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ZnCu2GeSe2S2
+_chemical_formula_sum              "Zn1 Cu2 Ge1 Se2 S2"
+_cell_length_a       5.48834
+_cell_length_b       5.48834
+_cell_length_c       6.69251
+_cell_angle_alpha    65.9036
+_cell_angle_beta     65.9036
+_cell_angle_gamma    90.2464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.99338  0.99338  0.01323  1.0000
+  Cu  Cu1       1.0  0.25919  0.75918  0.48163  1.0000
+  Cu  Cu2       1.0  0.75918  0.25918  0.48163  1.0000
+  Ge  Ge1       1.0  0.49263  0.49263  0.01474  1.0000
+  Se  Se1       1.0  0.38280  0.87329  0.74391  1.0000
+  Se  Se2       1.0  0.87329  0.38281  0.74391  1.0000
+  S   S1        1.0  0.61176  0.61176  0.26048  1.0000
+  S   S2        1.0  0.12777  0.12777  0.26048  1.0000

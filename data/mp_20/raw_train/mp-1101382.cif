@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sc2Cr2O8
+_chemical_formula_sum              "Sc2 Cr2 O8"
+_cell_length_a       5.74802
+_cell_length_b       5.74802
+_cell_length_c       5.74799
+_cell_angle_alpha    105.339
+_cell_angle_beta     107.85
+_cell_angle_gamma    115.401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.86366  0.11366  0.75000  1.0000
+  Sc  Sc2       1.0  0.13636  0.88636  0.25000  1.0000
+  Cr  Cr1       1.0  0.63323  0.38324  0.24999  1.0000
+  Cr  Cr2       1.0  0.36671  0.61669  0.74999  1.0000
+  O   O1        1.0  0.80450  0.36258  0.05806  1.0000
+  O   O2        1.0  0.25236  0.19143  0.06092  1.0000
+  O   O3        1.0  0.63051  0.19145  0.43908  1.0000
+  O   O4        1.0  0.80452  0.74644  0.44194  1.0000
+  O   O5        1.0  0.19550  0.25356  0.55806  1.0000
+  O   O6        1.0  0.36950  0.80857  0.56093  1.0000
+  O   O7        1.0  0.74765  0.80858  0.93908  1.0000
+  O   O8        1.0  0.19551  0.63744  0.94195  1.0000

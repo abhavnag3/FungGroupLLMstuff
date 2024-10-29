@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       P10Au7I
+_chemical_formula_sum              "P10 Au7 I1"
+_cell_length_a       6.26643
+_cell_length_b       6.26643
+_cell_length_c       11.4006
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.66667  0.33333  0.70607  1.0000
+  P   P2        1.0  0.37659  0.00000  0.79690  1.0000
+  P   P3        1.0  0.62341  0.62341  0.20310  1.0000
+  P   P4        1.0  0.00000  0.37659  0.20310  1.0000
+  P   P5        1.0  0.00000  0.37659  0.79690  1.0000
+  P   P6        1.0  0.62341  0.62341  0.79690  1.0000
+  P   P7        1.0  0.37659  0.00000  0.20310  1.0000
+  P   P8        1.0  0.33333  0.66667  0.29393  1.0000
+  P   P9        1.0  0.33333  0.66667  0.70607  1.0000
+  P   P10       1.0  0.66667  0.33333  0.29393  1.0000
+  Au  Au1       1.0  0.33333  0.66667  0.50000  1.0000
+  Au  Au2       1.0  0.00000  0.00000  0.23078  1.0000
+  Au  Au3       1.0  0.66667  0.33333  0.50000  1.0000
+  Au  Au4       1.0  0.00000  0.00000  0.76922  1.0000
+  Au  Au5       1.0  0.00000  0.45449  0.00000  1.0000
+  Au  Au6       1.0  0.54551  0.54551  0.00000  1.0000
+  Au  Au7       1.0  0.45449  0.00000  0.00000  1.0000
+  I   I1        1.0  0.00000  0.00000  0.50000  1.0000

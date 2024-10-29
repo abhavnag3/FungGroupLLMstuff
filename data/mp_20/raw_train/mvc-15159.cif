@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg4Co4O8
+_chemical_formula_sum              "Mg4 Co4 O8"
+_cell_length_a       3.01138
+_cell_length_b       7.39424
+_cell_length_c       7.40976
+_cell_angle_alpha    71.0545
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.75000  0.68859  0.93643  1.0000
+  Mg  Mg2       1.0  0.25000  0.31141  0.06357  1.0000
+  Mg  Mg3       1.0  0.25000  0.56110  0.31229  1.0000
+  Mg  Mg4       1.0  0.75000  0.43890  0.68771  1.0000
+  Co  Co1       1.0  0.25000  0.06466  0.81255  1.0000
+  Co  Co2       1.0  0.25000  0.81159  0.56163  1.0000
+  Co  Co3       1.0  0.75000  0.18841  0.43837  1.0000
+  Co  Co4       1.0  0.75000  0.93534  0.18745  1.0000
+  O   O1        1.0  0.25000  0.06373  0.30807  1.0000
+  O   O2        1.0  0.25000  0.31796  0.56078  1.0000
+  O   O3        1.0  0.75000  0.68204  0.43922  1.0000
+  O   O4        1.0  0.75000  0.93627  0.69193  1.0000
+  O   O5        1.0  0.75000  0.19319  0.93406  1.0000
+  O   O6        1.0  0.25000  0.56083  0.81602  1.0000
+  O   O7        1.0  0.25000  0.80681  0.06594  1.0000
+  O   O8        1.0  0.75000  0.43917  0.18398  1.0000

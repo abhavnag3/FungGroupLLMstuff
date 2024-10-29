@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       V2FeCu3O6
+_chemical_formula_sum              "V2 Fe1 Cu3 O6"
+_cell_length_a       6.01599
+_cell_length_b       6.01599
+_cell_length_c       9.09366
+_cell_angle_alpha    60.8067
+_cell_angle_beta     60.8067
+_cell_angle_gamma    28.9838
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.33618  0.33618  0.82889  1.0000
+  V   V2        1.0  0.66382  0.66382  0.17111  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.33298  0.33298  0.33658  1.0000
+  Cu  Cu3       1.0  0.66702  0.66702  0.66342  1.0000
+  O   O1        1.0  0.18764  0.18764  0.30412  1.0000
+  O   O2        1.0  0.52593  0.52593  0.62386  1.0000
+  O   O3        1.0  0.85764  0.85764  0.96410  1.0000
+  O   O4        1.0  0.81236  0.81236  0.69588  1.0000
+  O   O5        1.0  0.14236  0.14236  0.03590  1.0000
+  O   O6        1.0  0.47407  0.47407  0.37614  1.0000

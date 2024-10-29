@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti2Tl2Cu2Te6
+_chemical_formula_sum              "Ti2 Tl2 Cu2 Te6"
+_cell_length_a       3.98035
+_cell_length_b       8.70483
+_cell_length_c       10.5746
+_cell_angle_alpha    66.5795
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.25000  0.71111  0.82226  1.0000
+  Ti  Ti2       1.0  0.75000  0.28889  0.17774  1.0000
+  Tl  Tl1       1.0  0.25000  0.28350  0.71636  1.0000
+  Tl  Tl2       1.0  0.75000  0.71650  0.28364  1.0000
+  Cu  Cu1       1.0  0.25000  0.07972  0.39951  1.0000
+  Cu  Cu2       1.0  0.75000  0.92028  0.60049  1.0000
+  Te  Te1       1.0  0.75000  0.92209  0.84572  1.0000
+  Te  Te2       1.0  0.25000  0.07791  0.15428  1.0000
+  Te  Te3       1.0  0.25000  0.74911  0.55621  1.0000
+  Te  Te4       1.0  0.75000  0.25089  0.44379  1.0000
+  Te  Te5       1.0  0.75000  0.45610  0.88180  1.0000
+  Te  Te6       1.0  0.25000  0.54390  0.11820  1.0000

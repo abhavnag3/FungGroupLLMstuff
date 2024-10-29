@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pr2In4Ir2
+_chemical_formula_sum              "Pr2 In4 Ir2"
+_cell_length_a       5.6836
+_cell_length_b       5.6836
+_cell_length_c       8.07204
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    133.985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.57040  0.42960  0.25000  1.0000
+  Pr  Pr2       1.0  0.42960  0.57040  0.75000  1.0000
+  In  In1       1.0  0.85502  0.14498  0.05254  1.0000
+  In  In2       1.0  0.14498  0.85502  0.94746  1.0000
+  In  In3       1.0  0.14498  0.85502  0.55254  1.0000
+  In  In4       1.0  0.85502  0.14498  0.44746  1.0000
+  Ir  Ir1       1.0  0.27930  0.72070  0.25000  1.0000
+  Ir  Ir2       1.0  0.72070  0.27930  0.75000  1.0000

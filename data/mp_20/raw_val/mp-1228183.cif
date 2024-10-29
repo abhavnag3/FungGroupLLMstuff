@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Ba4Re2NiO12
+_chemical_formula_sum              "Ba4 Re2 Ni1 O12"
+_cell_length_a       5.84614
+_cell_length_b       5.8464
+_cell_length_c       10.1103
+_cell_angle_alpha    89.9984
+_cell_angle_beta     73.1925
+_cell_angle_gamma    119.997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.57052  0.28526  0.14429  1.0000
+  Ba  Ba2       1.0  0.42489  0.71244  0.86263  1.0000
+  Ba  Ba3       1.0  0.24816  0.12408  0.62781  1.0000
+  Ba  Ba4       1.0  0.74287  0.87147  0.38574  1.0000
+  Re  Re1       1.0  0.99743  0.99870  0.00378  1.0000
+  Re  Re2       1.0  0.01238  0.50619  0.48147  1.0000
+  Ni  Ni1       1.0  0.81886  0.40942  0.77171  1.0000
+  O   O1        1.0  0.77258  0.61193  0.61552  1.0000
+  O   O2        1.0  0.22381  0.61191  0.61554  1.0000
+  O   O3        1.0  0.77260  0.16068  0.61554  1.0000
+  O   O4        1.0  0.23425  0.38104  0.38482  1.0000
+  O   O5        1.0  0.76201  0.38100  0.38482  1.0000
+  O   O6        1.0  0.23424  0.85320  0.38482  1.0000
+  O   O7        1.0  0.07876  0.81117  0.11005  1.0000
+  O   O8        1.0  0.62231  0.81117  0.11007  1.0000
+  O   O9        1.0  0.07873  0.26755  0.11006  1.0000
+  O   O10       1.0  0.92330  0.19648  0.88011  1.0000
+  O   O11       1.0  0.39303  0.19651  0.88009  1.0000
+  O   O12       1.0  0.92329  0.72679  0.88012  1.0000

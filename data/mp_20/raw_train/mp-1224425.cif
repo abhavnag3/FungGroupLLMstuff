@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Hf10Al3Si3
+_chemical_formula_sum              "Hf10 Al3 Si3"
+_cell_length_a       7.99384
+_cell_length_b       7.99384
+_cell_length_c       5.59994
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.33333  0.66667  0.75199  1.0000
+  Hf  Hf2       1.0  0.66667  0.33333  0.75199  1.0000
+  Hf  Hf3       1.0  0.66667  0.33333  0.24801  1.0000
+  Hf  Hf4       1.0  0.33333  0.66667  0.24801  1.0000
+  Hf  Hf5       1.0  0.75410  0.00000  0.50000  1.0000
+  Hf  Hf6       1.0  0.00000  0.75410  0.50000  1.0000
+  Hf  Hf7       1.0  0.24590  0.24590  0.50000  1.0000
+  Hf  Hf8       1.0  0.24563  0.00000  0.00000  1.0000
+  Hf  Hf9       1.0  0.00000  0.24563  0.00000  1.0000
+  Hf  Hf10      1.0  0.75437  0.75437  0.00000  1.0000
+  Al  Al1       1.0  0.39229  0.00000  0.50000  1.0000
+  Al  Al2       1.0  0.00000  0.39229  0.50000  1.0000
+  Al  Al3       1.0  0.60771  0.60771  0.50000  1.0000
+  Si  Si1       1.0  0.60973  0.00000  0.00000  1.0000
+  Si  Si2       1.0  0.00000  0.60973  0.00000  1.0000
+  Si  Si3       1.0  0.39027  0.39027  0.00000  1.0000

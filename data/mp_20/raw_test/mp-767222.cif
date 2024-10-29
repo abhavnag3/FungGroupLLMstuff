@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       LiFe2P2O8
+_chemical_formula_sum              "Li1 Fe2 P2 O8"
+_cell_length_a       4.90628
+_cell_length_b       4.90628
+_cell_length_c       6.36554
+_cell_angle_alpha    89.2942
+_cell_angle_beta     89.2942
+_cell_angle_gamma    67.1478
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.32550  0.32550  0.73990  1.0000
+  Fe  Fe1       1.0  0.99142  0.99142  0.00545  1.0000
+  Fe  Fe2       1.0  0.99372  0.99371  0.48581  1.0000
+  P   P1        1.0  0.34481  0.34481  0.23719  1.0000
+  P   P2        1.0  0.65088  0.65088  0.74740  1.0000
+  O   O1        1.0  0.23372  0.23372  0.04115  1.0000
+  O   O2        1.0  0.69243  0.21993  0.22843  1.0000
+  O   O3        1.0  0.21993  0.69243  0.22843  1.0000
+  O   O4        1.0  0.24633  0.24633  0.44387  1.0000
+  O   O5        1.0  0.74893  0.74893  0.54466  1.0000
+  O   O6        1.0  0.76405  0.30001  0.75800  1.0000
+  O   O7        1.0  0.30001  0.76405  0.75800  1.0000
+  O   O8        1.0  0.76080  0.76080  0.94041  1.0000

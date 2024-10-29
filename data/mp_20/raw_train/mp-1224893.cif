@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2Ni2S8
+_chemical_formula_sum              "Fe2 Ni2 S8"
+_cell_length_a       5.53734
+_cell_length_b       5.47689
+_cell_length_c       5.52387
+_cell_angle_alpha    89.6253
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe2       1.0  0.00000  0.50000  0.50000  1.0000
+  Ni  Ni1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ni  Ni2       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.89290  0.88116  0.60457  1.0000
+  S   S2        1.0  0.39290  0.11884  0.89543  1.0000
+  S   S3        1.0  0.11877  0.60609  0.11905  1.0000
+  S   S4        1.0  0.61877  0.39391  0.38095  1.0000
+  S   S5        1.0  0.10710  0.11884  0.39543  1.0000
+  S   S6        1.0  0.60710  0.88116  0.10457  1.0000
+  S   S7        1.0  0.88123  0.39391  0.88095  1.0000
+  S   S8        1.0  0.38123  0.60609  0.61905  1.0000

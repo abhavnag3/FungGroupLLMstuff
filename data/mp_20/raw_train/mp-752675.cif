@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba2Y2F10
+_chemical_formula_sum              "Ba2 Y2 F10"
+_cell_length_a       8.49009
+_cell_length_b       8.49009
+_cell_length_c       5.99055
+_cell_angle_alpha    89.2818
+_cell_angle_beta     89.2818
+_cell_angle_gamma    149.403
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.32750  0.67250  0.75000  1.0000
+  Ba  Ba2       1.0  0.67250  0.32750  0.25000  1.0000
+  Y   Y1        1.0  0.07337  0.92663  0.75000  1.0000
+  Y   Y2        1.0  0.92663  0.07337  0.25000  1.0000
+  F   F1        1.0  0.73911  0.80795  0.59173  1.0000
+  F   F2        1.0  0.80795  0.73911  0.09173  1.0000
+  F   F3        1.0  0.80481  0.17113  0.01175  1.0000
+  F   F4        1.0  0.61740  0.38260  0.75000  1.0000
+  F   F5        1.0  0.82887  0.19519  0.48825  1.0000
+  F   F6        1.0  0.17113  0.80481  0.51175  1.0000
+  F   F7        1.0  0.38260  0.61740  0.25000  1.0000
+  F   F8        1.0  0.19519  0.82887  0.98825  1.0000
+  F   F9        1.0  0.19205  0.26089  0.90827  1.0000
+  F   F10       1.0  0.26089  0.19205  0.40827  1.0000

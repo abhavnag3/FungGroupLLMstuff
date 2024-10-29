@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Na2Co4O6
+_chemical_formula_sum              "Na2 Co4 O6"
+_cell_length_a       5.18781
+_cell_length_b       5.90084
+_cell_length_c       5.899
+_cell_angle_alpha    119.682
+_cell_angle_beta     90.4062
+_cell_angle_gamma    89.6179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.99458  0.32746  0.32663  1.0000
+  Na  Na2       1.0  0.49452  0.67274  0.67302  1.0000
+  Co  Co1       1.0  0.01861  0.01095  0.67071  1.0000
+  Co  Co2       1.0  0.50774  0.99500  0.32583  1.0000
+  Co  Co3       1.0  0.51864  0.32959  0.98889  1.0000
+  Co  Co4       1.0  0.00783  0.67443  0.00518  1.0000
+  O   O1        1.0  0.46597  0.27658  0.28601  1.0000
+  O   O2        1.0  0.96560  0.71396  0.72328  1.0000
+  O   O3        1.0  0.39650  0.04714  0.65446  1.0000
+  O   O4        1.0  0.89633  0.34554  0.95213  1.0000
+  O   O5        1.0  0.37765  0.67287  0.06664  1.0000
+  O   O6        1.0  0.87783  0.93373  0.32722  1.0000

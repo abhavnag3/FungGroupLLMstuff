@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Bi4Pd2
+_chemical_formula_sum              "Bi4 Pd2"
+_cell_length_a       6.82333
+_cell_length_b       6.82333
+_cell_length_c       5.72834
+_cell_angle_alpha    78.0279
+_cell_angle_beta     78.0279
+_cell_angle_gamma    37.0887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.15606  0.15606  0.68420  1.0000
+  Bi  Bi2       1.0  0.84394  0.84394  0.31580  1.0000
+  Bi  Bi3       1.0  0.57520  0.57520  0.20491  1.0000
+  Bi  Bi4       1.0  0.42480  0.42480  0.79509  1.0000
+  Pd  Pd1       1.0  0.22532  0.22532  0.16991  1.0000
+  Pd  Pd2       1.0  0.77468  0.77468  0.83010  1.0000

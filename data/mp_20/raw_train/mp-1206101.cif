@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgPbF6
+_chemical_formula_sum              "Ag1 Pb1 F6"
+_cell_length_a       5.61777
+_cell_length_b       5.57073
+_cell_length_c       5.92411
+_cell_angle_alpha    89.4001
+_cell_angle_beta     63.1607
+_cell_angle_gamma    62.0854
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pb  Pb1       1.0  0.00000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.88882  0.86338  0.74442  1.0000
+  F   F2        1.0  0.11118  0.13662  0.25559  1.0000
+  F   F3        1.0  0.86965  0.75365  0.25225  1.0000
+  F   F4        1.0  0.13035  0.24635  0.74775  1.0000
+  F   F5        1.0  0.54081  0.60534  0.72627  1.0000
+  F   F6        1.0  0.45919  0.39466  0.27373  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       TbFe6Co5W
+_chemical_formula_sum              "Tb1 Fe6 Co5 W1"
+_cell_length_a       4.62612
+_cell_length_b       6.32581
+_cell_length_c       6.32581
+_cell_angle_alpha    96.7016
+_cell_angle_beta     111.448
+_cell_angle_gamma    68.5522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.00000  0.00599  0.00599  1.0000
+  Fe  Fe1       1.0  0.49763  0.00384  0.50190  1.0000
+  Fe  Fe2       1.0  0.00043  0.00384  0.50190  1.0000
+  Fe  Fe3       1.0  0.50237  0.50190  0.00384  1.0000
+  Fe  Fe4       1.0  0.99957  0.50190  0.00384  1.0000
+  Fe  Fe5       1.0  0.50000  0.77361  0.77361  1.0000
+  Fe  Fe6       1.0  0.50000  0.23056  0.23056  1.0000
+  Co  Co1       1.0  0.64479  0.35302  0.64260  1.0000
+  Co  Co2       1.0  0.35521  0.64260  0.35302  1.0000
+  Co  Co3       1.0  0.00000  0.35326  0.35326  1.0000
+  Co  Co4       1.0  0.71289  0.78609  0.21186  1.0000
+  Co  Co5       1.0  0.28711  0.21186  0.78609  1.0000
+  W   W1        1.0  0.00000  0.63152  0.63152  1.0000

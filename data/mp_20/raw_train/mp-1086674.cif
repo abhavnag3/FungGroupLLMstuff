@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Yb2Co2Ge4
+_chemical_formula_sum              "Yb2 Co2 Ge4"
+_cell_length_a       8.647
+_cell_length_b       8.647
+_cell_length_c       4.11569
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.89163  0.10837  0.75000  1.0000
+  Yb  Yb2       1.0  0.10837  0.89163  0.25000  1.0000
+  Co  Co1       1.0  0.68061  0.31939  0.75000  1.0000
+  Co  Co2       1.0  0.31939  0.68061  0.25000  1.0000
+  Ge  Ge1       1.0  0.54464  0.45536  0.75000  1.0000
+  Ge  Ge2       1.0  0.45536  0.54464  0.25000  1.0000
+  Ge  Ge3       1.0  0.24920  0.75080  0.75000  1.0000
+  Ge  Ge4       1.0  0.75080  0.24920  0.25000  1.0000

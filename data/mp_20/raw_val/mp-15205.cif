@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Dy4Si10Ni6
+_chemical_formula_sum              "Dy4 Si10 Ni6"
+_cell_length_a       7.865
+_cell_length_b       7.865
+_cell_length_c       7.865
+_cell_angle_alpha    137.925
+_cell_angle_beta     105.008
+_cell_angle_gamma    89.9297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.10529  0.86873  0.23656  1.0000
+  Dy  Dy2       1.0  0.89471  0.13127  0.76344  1.0000
+  Dy  Dy3       1.0  0.36783  0.63127  0.73656  1.0000
+  Dy  Dy4       1.0  0.63217  0.36873  0.26344  1.0000
+  Si  Si1       1.0  0.00000  0.75000  0.75000  1.0000
+  Si  Si2       1.0  0.00000  0.25000  0.25000  1.0000
+  Si  Si3       1.0  0.26680  0.01680  0.75000  1.0000
+  Si  Si4       1.0  0.73320  0.48320  0.75000  1.0000
+  Si  Si5       1.0  0.73320  0.98320  0.25000  1.0000
+  Si  Si6       1.0  0.26680  0.51680  0.25000  1.0000
+  Si  Si7       1.0  0.75998  0.60730  0.15268  1.0000
+  Si  Si8       1.0  0.45462  0.10730  0.34732  1.0000
+  Si  Si9       1.0  0.54538  0.89270  0.65268  1.0000
+  Si  Si10      1.0  0.24002  0.39270  0.84732  1.0000
+  Ni  Ni1       1.0  0.24651  0.13440  0.11211  1.0000
+  Ni  Ni2       1.0  0.50000  0.25000  0.75000  1.0000
+  Ni  Ni3       1.0  0.02229  0.63440  0.38789  1.0000
+  Ni  Ni4       1.0  0.97771  0.36560  0.61211  1.0000
+  Ni  Ni5       1.0  0.75349  0.86560  0.88789  1.0000
+  Ni  Ni6       1.0  0.50000  0.75000  0.25000  1.0000

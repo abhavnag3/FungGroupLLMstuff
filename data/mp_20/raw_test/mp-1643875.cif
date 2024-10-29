@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca2La2Fe2Cu2O12
+_chemical_formula_sum              "Ca2 La2 Fe2 Cu2 O12"
+_cell_length_a       5.52498
+_cell_length_b       7.61518
+_cell_length_c       5.53136
+_cell_angle_alpha    89.9946
+_cell_angle_beta     89.998
+_cell_angle_gamma    89.3897
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50878  0.25054  0.54329  1.0000
+  Ca  Ca2       1.0  0.00882  0.75045  0.95668  1.0000
+  La  La1       1.0  0.99398  0.24943  0.03072  1.0000
+  La  La2       1.0  0.49410  0.74951  0.46920  1.0000
+  Fe  Fe1       1.0  0.49931  0.50046  0.99985  1.0000
+  Fe  Fe2       1.0  0.99928  0.00046  0.50011  1.0000
+  Cu  Cu1       1.0  0.50029  0.99961  0.00088  1.0000
+  Cu  Cu2       1.0  0.00040  0.49964  0.49908  1.0000
+  O   O1        1.0  0.58229  0.75531  0.01673  1.0000
+  O   O2        1.0  0.08213  0.25541  0.48323  1.0000
+  O   O3        1.0  0.20964  0.95829  0.21789  1.0000
+  O   O4        1.0  0.70964  0.45829  0.28221  1.0000
+  O   O5        1.0  0.21700  0.54230  0.21160  1.0000
+  O   O6        1.0  0.71697  0.04228  0.28834  1.0000
+  O   O7        1.0  0.92793  0.74452  0.52091  1.0000
+  O   O8        1.0  0.42782  0.24452  0.97920  1.0000
+  O   O9        1.0  0.28436  0.53657  0.72300  1.0000
+  O   O10       1.0  0.78429  0.03659  0.77703  1.0000
+  O   O11       1.0  0.27643  0.96288  0.71759  1.0000
+  O   O12       1.0  0.77653  0.46294  0.78248  1.0000

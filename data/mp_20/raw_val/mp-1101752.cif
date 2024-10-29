@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pr4As4S4
+_chemical_formula_sum              "Pr4 As4 S4"
+_cell_length_a       3.94341
+_cell_length_b       3.99533
+_cell_length_c       17.7469
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25000  0.21918  0.85442  1.0000
+  Pr  Pr2       1.0  0.25000  0.28082  0.35442  1.0000
+  Pr  Pr3       1.0  0.75000  0.78082  0.14558  1.0000
+  Pr  Pr4       1.0  0.75000  0.71918  0.64558  1.0000
+  As  As1       1.0  0.75000  0.20584  0.50217  1.0000
+  As  As2       1.0  0.75000  0.29416  0.00217  1.0000
+  As  As3       1.0  0.25000  0.79416  0.49783  1.0000
+  As  As4       1.0  0.25000  0.70584  0.99783  1.0000
+  S   S1        1.0  0.25000  0.21955  0.68648  1.0000
+  S   S2        1.0  0.25000  0.28045  0.18648  1.0000
+  S   S3        1.0  0.75000  0.78045  0.31352  1.0000
+  S   S4        1.0  0.75000  0.71955  0.81352  1.0000

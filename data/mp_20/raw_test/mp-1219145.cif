@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Re2Te8Mo4
+_chemical_formula_sum              "Re2 Te8 Mo4"
+_cell_length_a       7.10699
+_cell_length_b       7.15081
+_cell_length_c       7.16903
+_cell_angle_alpha    92.941
+_cell_angle_beta     92.7929
+_cell_angle_gamma    92.8121
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.45136  0.75063  0.58224  1.0000
+  Re  Re2       1.0  0.75059  0.58200  0.45532  1.0000
+  Te  Te1       1.0  0.25806  0.62409  0.87956  1.0000
+  Te  Te2       1.0  0.62156  0.87992  0.26361  1.0000
+  Te  Te3       1.0  0.88193  0.26179  0.62068  1.0000
+  Te  Te4       1.0  0.74521  0.37701  0.12327  1.0000
+  Te  Te5       1.0  0.37952  0.11603  0.74201  1.0000
+  Te  Te6       1.0  0.11807  0.74364  0.37643  1.0000
+  Te  Te7       1.0  0.78841  0.79089  0.78550  1.0000
+  Te  Te8       1.0  0.20962  0.21152  0.20587  1.0000
+  Mo  Mo1       1.0  0.58408  0.45516  0.75622  1.0000
+  Mo  Mo2       1.0  0.54746  0.24527  0.41681  1.0000
+  Mo  Mo3       1.0  0.24851  0.41535  0.54623  1.0000
+  Mo  Mo4       1.0  0.41562  0.54671  0.24624  1.0000

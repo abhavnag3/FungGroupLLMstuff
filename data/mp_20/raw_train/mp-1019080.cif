@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Re2N4
+_chemical_formula_sum              "Re2 N4"
+_cell_length_a       4.81278
+_cell_length_b       2.92017
+_cell_length_c       5.59857
+_cell_angle_alpha    59.8879
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.75175  0.11242  0.01617  1.0000
+  Re  Re2       1.0  0.24825  0.11242  0.51617  1.0000
+  N   N1        1.0  0.95983  0.92888  0.79133  1.0000
+  N   N2        1.0  0.04016  0.92888  0.29133  1.0000
+  N   N3        1.0  0.45368  0.48870  0.70350  1.0000
+  N   N4        1.0  0.54632  0.48870  0.20350  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er10Ga5Co
+_chemical_formula_sum              "Er10 Ga5 Co1"
+_cell_length_a       8.74884
+_cell_length_b       8.68055
+_cell_length_c       7.51408
+_cell_angle_alpha    64.9324
+_cell_angle_beta     63.9927
+_cell_angle_gamma    51.0749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.81551  0.48013  0.51987  1.0000
+  Er  Er2       1.0  0.47010  0.81870  0.18130  1.0000
+  Er  Er3       1.0  0.31046  0.97927  0.69614  1.0000
+  Er  Er4       1.0  0.98587  0.30386  0.02073  1.0000
+  Er  Er5       1.0  0.18130  0.52990  0.47010  1.0000
+  Er  Er6       1.0  0.51987  0.18449  0.81551  1.0000
+  Er  Er7       1.0  0.69614  0.01413  0.31046  1.0000
+  Er  Er8       1.0  0.02073  0.68954  0.98587  1.0000
+  Er  Er9       1.0  0.48788  0.51212  0.00518  1.0000
+  Er  Er10      1.0  0.00518  0.99482  0.48788  1.0000
+  Ga  Ga1       1.0  0.75143  0.74857  0.75143  1.0000
+  Ga  Ga2       1.0  0.25143  0.24857  0.25143  1.0000
+  Ga  Ga3       1.0  0.87782  0.12218  0.87782  1.0000
+  Ga  Ga4       1.0  0.62694  0.37306  0.37687  1.0000
+  Ga  Ga5       1.0  0.37687  0.62313  0.62694  1.0000
+  Co  Co1       1.0  0.12248  0.87752  0.12248  1.0000

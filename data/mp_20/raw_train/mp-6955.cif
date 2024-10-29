@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K4Ge4N4O4
+_chemical_formula_sum              "K4 Ge4 N4 O4"
+_cell_length_a       5.29117
+_cell_length_b       5.81047
+_cell_length_c       8.19225
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.02294  0.04396  0.63886  1.0000
+  K   K2        1.0  0.52294  0.45604  0.63886  1.0000
+  K   K3        1.0  0.52294  0.95604  0.36114  1.0000
+  K   K4        1.0  0.02294  0.54396  0.36114  1.0000
+  Ge  Ge1       1.0  0.99355  0.09019  0.09472  1.0000
+  Ge  Ge2       1.0  0.49355  0.90981  0.90528  1.0000
+  Ge  Ge3       1.0  0.49355  0.40981  0.09472  1.0000
+  Ge  Ge4       1.0  0.99355  0.59019  0.90528  1.0000
+  N   N1        1.0  0.64826  0.62675  0.95760  1.0000
+  N   N2        1.0  0.14826  0.37324  0.04240  1.0000
+  N   N3        1.0  0.14826  0.87324  0.95760  1.0000
+  N   N4        1.0  0.64826  0.12676  0.04240  1.0000
+  O   O1        1.0  0.52725  0.97262  0.69667  1.0000
+  O   O2        1.0  0.52725  0.47262  0.30333  1.0000
+  O   O3        1.0  0.02725  0.52738  0.69667  1.0000
+  O   O4        1.0  0.02725  0.02738  0.30333  1.0000

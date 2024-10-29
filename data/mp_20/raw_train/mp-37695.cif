@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Ag7NO11
+_chemical_formula_sum              "Ag7 N1 O11"
+_cell_length_a       7.21653
+_cell_length_b       7.08497
+_cell_length_c       7.05653
+_cell_angle_alpha    61.3685
+_cell_angle_beta     59.51
+_cell_angle_gamma    59.1216
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.50210  0.99694  0.49790  1.0000
+  Ag  Ag2       1.0  0.48940  0.99829  0.00171  1.0000
+  Ag  Ag3       1.0  0.99829  0.48940  0.51060  1.0000
+  Ag  Ag4       1.0  0.99694  0.50210  0.00306  1.0000
+  Ag  Ag5       1.0  0.99804  0.99804  0.50196  1.0000
+  Ag  Ag6       1.0  0.49782  0.49782  0.50218  1.0000
+  Ag  Ag7       1.0  0.49804  0.49804  0.00196  1.0000
+  N   N1        1.0  0.01024  0.01024  0.98976  1.0000
+  O   O1        1.0  0.84139  0.05806  0.94194  1.0000
+  O   O2        1.0  0.91500  0.35606  0.36146  1.0000
+  O   O3        1.0  0.63252  0.63854  0.64394  1.0000
+  O   O4        1.0  0.63854  0.63252  0.08500  1.0000
+  O   O5        1.0  0.64077  0.08083  0.63362  1.0000
+  O   O6        1.0  0.35606  0.91500  0.36748  1.0000
+  O   O7        1.0  0.35522  0.36638  0.91917  1.0000
+  O   O8        1.0  0.36638  0.35522  0.35923  1.0000
+  O   O9        1.0  0.08083  0.64077  0.64478  1.0000
+  O   O10       1.0  0.13435  0.13435  0.86565  1.0000
+  O   O11       1.0  0.05806  0.84139  0.15861  1.0000

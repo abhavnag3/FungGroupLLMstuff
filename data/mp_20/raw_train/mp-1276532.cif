@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       V2Re2O8
+_chemical_formula_sum              "V2 Re2 O8"
+_cell_length_a       4.79408
+_cell_length_b       5.55716
+_cell_length_c       5.55712
+_cell_angle_alpha    61.9551
+_cell_angle_beta     91.2654
+_cell_angle_gamma    91.2685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.48881  0.51422  0.01415  1.0000
+  V   V2        1.0  0.51138  0.98584  0.48583  1.0000
+  Re  Re1       1.0  0.99998  0.03095  0.96906  1.0000
+  Re  Re2       1.0  0.99997  0.46900  0.53100  1.0000
+  O   O1        1.0  0.21890  0.13346  0.63357  1.0000
+  O   O2        1.0  0.18785  0.65705  0.15696  1.0000
+  O   O3        1.0  0.81205  0.84295  0.34289  1.0000
+  O   O4        1.0  0.78108  0.36645  0.86658  1.0000
+  O   O5        1.0  0.29034  0.15207  0.13268  1.0000
+  O   O6        1.0  0.29037  0.63278  0.65209  1.0000
+  O   O7        1.0  0.70962  0.34793  0.36721  1.0000
+  O   O8        1.0  0.70964  0.86729  0.84799  1.0000

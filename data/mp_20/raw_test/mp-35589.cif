@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Na3UF7
+_chemical_formula_sum              "Na3 U1 F7"
+_cell_length_a       5.62744
+_cell_length_b       5.62744
+_cell_length_c       6.61814
+_cell_angle_alpha    65.6423
+_cell_angle_beta     65.6423
+_cell_angle_gamma    88.757
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.22389  0.75976  0.51650  1.0000
+  Na  Na2       1.0  0.50177  0.50177  0.96321  1.0000
+  Na  Na3       1.0  0.75976  0.22389  0.51650  1.0000
+  U   U1        1.0  0.03683  0.03683  0.98069  1.0000
+  F   F1        1.0  0.83643  0.83643  0.84661  1.0000
+  F   F2        1.0  0.36837  0.89555  0.74986  1.0000
+  F   F3        1.0  0.06419  0.65210  0.24429  1.0000
+  F   F4        1.0  0.89555  0.36837  0.74986  1.0000
+  F   F5        1.0  0.38949  0.38949  0.70820  1.0000
+  F   F6        1.0  0.65210  0.06419  0.24429  1.0000
+  F   F7        1.0  0.14663  0.14663  0.23001  1.0000

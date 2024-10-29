@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K4Mg4O6
+_chemical_formula_sum              "K4 Mg4 O6"
+_cell_length_a       6.30247
+_cell_length_b       5.95111
+_cell_length_c       6.38589
+_cell_angle_alpha    65.9357
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.36758  0.17823  0.07359  1.0000
+  K   K2        1.0  0.86758  0.82177  0.42641  1.0000
+  K   K3        1.0  0.13242  0.17823  0.57359  1.0000
+  K   K4        1.0  0.63242  0.82177  0.92641  1.0000
+  Mg  Mg1       1.0  0.60771  0.33718  0.42404  1.0000
+  Mg  Mg2       1.0  0.89229  0.33718  0.92404  1.0000
+  Mg  Mg3       1.0  0.10771  0.66282  0.07596  1.0000
+  Mg  Mg4       1.0  0.39229  0.66282  0.57596  1.0000
+  O   O1        1.0  0.50000  0.00000  0.50000  1.0000
+  O   O2        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O3        1.0  0.85834  0.41711  0.20596  1.0000
+  O   O4        1.0  0.35834  0.58289  0.29404  1.0000
+  O   O5        1.0  0.64166  0.41711  0.70596  1.0000
+  O   O6        1.0  0.14166  0.58289  0.79404  1.0000

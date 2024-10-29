@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Mn4Cu3O12
+_chemical_formula_sum              "Mn4 Cu3 O12"
+_cell_length_a       6.28968
+_cell_length_b       6.29008
+_cell_length_c       6.30594
+_cell_angle_alpha    70.4567
+_cell_angle_beta     109.511
+_cell_angle_gamma    70.5939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50001  0.50000  0.50001  1.0000
+  Mn  Mn2       1.0  0.50000  1.00000  0.00000  1.0000
+  Mn  Mn3       1.0  0.00000  0.50001  1.00000  1.0000
+  Mn  Mn4       1.0  1.00000  0.00000  0.49999  1.0000
+  Cu  Cu1       1.0  0.50000  0.99999  0.50000  1.0000
+  Cu  Cu2       1.0  1.00000  0.50000  0.50000  1.0000
+  Cu  Cu3       1.0  0.50000  0.50000  1.00000  1.0000
+  O   O1        1.0  0.13584  0.68605  0.81810  1.0000
+  O   O2        1.0  0.50388  0.31671  0.82115  1.0000
+  O   O3        1.0  0.49612  0.68328  0.17885  1.0000
+  O   O4        1.0  0.82047  0.49616  0.68260  1.0000
+  O   O5        1.0  0.31679  0.17942  0.13790  1.0000
+  O   O6        1.0  0.68320  0.82059  0.86210  1.0000
+  O   O7        1.0  0.17814  0.13578  0.68228  1.0000
+  O   O8        1.0  0.68614  0.17813  0.50415  1.0000
+  O   O9        1.0  0.86415  0.31396  0.18188  1.0000
+  O   O10       1.0  0.82185  0.86422  0.31772  1.0000
+  O   O11       1.0  0.17954  0.50383  0.31740  1.0000
+  O   O12       1.0  0.31387  0.82187  0.49585  1.0000

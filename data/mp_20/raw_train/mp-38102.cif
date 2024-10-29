@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Na3CeF7
+_chemical_formula_sum              "Na3 Ce1 F7"
+_cell_length_a       5.60284
+_cell_length_b       5.60284
+_cell_length_c       6.59857
+_cell_angle_alpha    65.6137
+_cell_angle_beta     65.6137
+_cell_angle_gamma    88.7995
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.22295  0.76217  0.51374  1.0000
+  Na  Na2       1.0  0.50152  0.50152  0.96652  1.0000
+  Na  Na3       1.0  0.76217  0.22295  0.51374  1.0000
+  Ce  Ce1       1.0  0.04161  0.04161  0.97633  1.0000
+  F   F1        1.0  0.83393  0.83393  0.85389  1.0000
+  F   F2        1.0  0.36743  0.89356  0.74895  1.0000
+  F   F3        1.0  0.06528  0.65378  0.24385  1.0000
+  F   F4        1.0  0.89356  0.36743  0.74895  1.0000
+  F   F5        1.0  0.38799  0.38799  0.70905  1.0000
+  F   F6        1.0  0.65378  0.06528  0.24385  1.0000
+  F   F7        1.0  0.14478  0.14478  0.23114  1.0000

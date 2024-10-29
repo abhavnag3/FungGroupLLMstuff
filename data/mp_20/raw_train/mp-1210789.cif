@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li4Si2S6
+_chemical_formula_sum              "Li4 Si2 S6"
+_cell_length_a       6.01361
+_cell_length_b       6.76448
+_cell_length_c       6.76448
+_cell_angle_alpha    119.446
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.01030  0.49149  0.82415  1.0000
+  Li  Li2       1.0  0.51030  0.50851  0.17585  1.0000
+  Li  Li3       1.0  0.51030  0.17585  0.50851  1.0000
+  Li  Li4       1.0  0.01030  0.82415  0.49149  1.0000
+  Si  Si1       1.0  0.99602  0.16633  0.16633  1.0000
+  Si  Si2       1.0  0.49602  0.83368  0.83368  1.0000
+  S   S1        1.0  0.41025  0.53789  0.84043  1.0000
+  S   S2        1.0  0.91026  0.46211  0.15957  1.0000
+  S   S3        1.0  0.91026  0.15957  0.46211  1.0000
+  S   S4        1.0  0.41025  0.84043  0.53789  1.0000
+  S   S5        1.0  0.36767  0.13648  0.13648  1.0000
+  S   S6        1.0  0.86767  0.86352  0.86352  1.0000

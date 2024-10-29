@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       GdSn6Ru4
+_chemical_formula_sum              "Gd1 Sn6 Ru4"
+_cell_length_a       6.96594
+_cell_length_b       6.96594
+_cell_length_c       6.96594
+_cell_angle_alpha    120.374
+_cell_angle_beta     120.374
+_cell_angle_gamma    89.3535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sn  Sn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn2       1.0  0.46977  0.46977  0.35160  1.0000
+  Sn  Sn3       1.0  0.53023  0.88183  0.00000  1.0000
+  Sn  Sn4       1.0  0.88183  0.53023  0.00000  1.0000
+  Sn  Sn5       1.0  0.11817  0.11817  0.64840  1.0000
+  Sn  Sn6       1.0  0.50000  0.00000  0.50000  1.0000
+  Ru  Ru1       1.0  0.40383  0.40383  0.65295  1.0000
+  Ru  Ru2       1.0  0.75088  0.75088  0.34705  1.0000
+  Ru  Ru3       1.0  0.24912  0.59617  0.00000  1.0000
+  Ru  Ru4       1.0  0.59617  0.24912  0.00000  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Th4Si2Ge2
+_chemical_formula_sum              "Th4 Si2 Ge2"
+_cell_length_a       4.26016
+_cell_length_b       5.94508
+_cell_length_c       7.92925
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.00000  0.11934  0.68138  1.0000
+  Th  Th2       1.0  0.00000  0.88066  0.18138  1.0000
+  Th  Th3       1.0  0.50000  0.37563  0.32033  1.0000
+  Th  Th4       1.0  0.50000  0.62437  0.82033  1.0000
+  Si  Si1       1.0  0.50000  0.89301  0.45675  1.0000
+  Si  Si2       1.0  0.50000  0.10699  0.95675  1.0000
+  Ge  Ge1       1.0  0.00000  0.60998  0.54153  1.0000
+  Ge  Ge2       1.0  0.00000  0.39002  0.04154  1.0000

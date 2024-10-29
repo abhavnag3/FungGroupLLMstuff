@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ti2Co4O8
+_chemical_formula_sum              "Ti2 Co4 O8"
+_cell_length_a       6.05083
+_cell_length_b       6.05083
+_cell_length_c       6.05083
+_cell_angle_alpha    120.492
+_cell_angle_beta     120.37
+_cell_angle_gamma    89.2552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ti  Ti2       1.0  0.00000  0.50000  0.50000  1.0000
+  Co  Co1       1.0  0.61553  0.86553  0.75000  1.0000
+  Co  Co2       1.0  0.38447  0.13447  0.25000  1.0000
+  Co  Co3       1.0  0.00000  0.00000  0.50000  1.0000
+  Co  Co4       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.25259  0.28084  0.52825  1.0000
+  O   O2        1.0  0.25818  0.27179  0.98639  1.0000
+  O   O3        1.0  0.25259  0.72434  0.97175  1.0000
+  O   O4        1.0  0.78539  0.27179  0.51361  1.0000
+  O   O5        1.0  0.21460  0.72821  0.48639  1.0000
+  O   O6        1.0  0.74182  0.72821  0.01361  1.0000
+  O   O7        1.0  0.74741  0.27566  0.02825  1.0000
+  O   O8        1.0  0.74741  0.71916  0.47175  1.0000

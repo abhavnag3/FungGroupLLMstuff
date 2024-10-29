@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Zr4In5Co2
+_chemical_formula_sum              "Zr4 In5 Co2"
+_cell_length_a       3.30616
+_cell_length_b       7.54971
+_cell_length_c       9.1043
+_cell_angle_alpha    85.1021
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.50000  0.79936  0.43994  1.0000
+  Zr  Zr2       1.0  0.50000  0.18150  0.15835  1.0000
+  Zr  Zr3       1.0  0.50000  0.20064  0.56006  1.0000
+  Zr  Zr4       1.0  0.50000  0.81850  0.84165  1.0000
+  In  In1       1.0  0.00000  0.54225  0.66847  1.0000
+  In  In2       1.0  0.00000  0.15824  0.85760  1.0000
+  In  In3       1.0  0.00000  0.50000  0.00000  1.0000
+  In  In4       1.0  0.00000  0.84176  0.14240  1.0000
+  In  In5       1.0  0.00000  0.45775  0.33153  1.0000
+  Co  Co1       1.0  0.00000  0.07593  0.36616  1.0000
+  Co  Co2       1.0  0.00000  0.92407  0.63384  1.0000

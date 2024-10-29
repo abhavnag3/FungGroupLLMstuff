@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CeNdAl2O6
+_chemical_formula_sum              "Ce1 Nd1 Al2 O6"
+_cell_length_a       5.35416
+_cell_length_b       5.35416
+_cell_length_c       5.35078
+_cell_angle_alpha    60.2517
+_cell_angle_beta     60.2517
+_cell_angle_gamma    90.0059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.75084  0.75084  0.49894  1.0000
+  Nd  Nd1       1.0  0.24749  0.24749  0.50222  1.0000
+  Al  Al1       1.0  0.99974  0.50022  1.00000  1.0000
+  Al  Al2       1.0  0.50022  0.99974  1.00000  1.0000
+  O   O1        1.0  0.21413  0.78904  0.99703  1.0000
+  O   O2        1.0  0.78904  0.21413  0.99703  1.0000
+  O   O3        1.0  0.23392  0.76778  0.49987  1.0000
+  O   O4        1.0  0.76778  0.23392  0.49987  1.0000
+  O   O5        1.0  0.69561  0.69561  0.03429  1.0000
+  O   O6        1.0  0.30122  0.30122  0.97076  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr2Fe4Se4O2
+_chemical_formula_sum              "Sr2 Fe4 Se4 O2"
+_cell_length_a       4.11133
+_cell_length_b       6.70686
+_cell_length_c       9.98539
+_cell_angle_alpha    89.908
+_cell_angle_beta     89.7414
+_cell_angle_gamma    90.0267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50146  0.99834  0.49881  1.0000
+  Sr  Sr2       1.0  0.00015  0.00113  0.99999  1.0000
+  Fe  Fe1       1.0  0.49926  0.37326  0.16367  1.0000
+  Fe  Fe2       1.0  0.00082  0.62911  0.66500  1.0000
+  Fe  Fe3       1.0  0.49516  0.36914  0.83494  1.0000
+  Fe  Fe4       1.0  0.99522  0.62792  0.33683  1.0000
+  Se  Se1       1.0  0.50070  0.74758  0.80175  1.0000
+  Se  Se2       1.0  0.50044  0.74913  0.20026  1.0000
+  Se  Se3       1.0  0.99905  0.25177  0.30006  1.0000
+  Se  Se4       1.0  0.00225  0.25195  0.69800  1.0000
+  O   O1        1.0  0.50253  0.21883  0.00021  1.0000
+  O   O2        1.0  0.00296  0.78183  0.50048  1.0000

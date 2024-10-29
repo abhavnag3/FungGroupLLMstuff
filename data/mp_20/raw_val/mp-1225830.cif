@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cu4SiGe3O12
+_chemical_formula_sum              "Cu4 Si1 Ge3 O12"
+_cell_length_a       2.94411
+_cell_length_b       4.85288
+_cell_length_c       17.4577
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.51082  0.12275  1.0000
+  Cu  Cu2       1.0  0.00000  0.49982  0.62523  1.0000
+  Cu  Cu3       1.0  0.00000  0.51082  0.87725  1.0000
+  Cu  Cu4       1.0  0.00000  0.49982  0.37477  1.0000
+  Si  Si1       1.0  0.50000  0.90378  0.00000  1.0000
+  Ge  Ge1       1.0  0.50000  0.91820  0.50000  1.0000
+  Ge  Ge2       1.0  0.50000  0.08704  0.24837  1.0000
+  Ge  Ge3       1.0  0.50000  0.08704  0.75163  1.0000
+  O   O1        1.0  0.50000  0.71890  0.07832  1.0000
+  O   O2        1.0  0.50000  0.71489  0.58359  1.0000
+  O   O3        1.0  0.50000  0.29649  0.16567  1.0000
+  O   O4        1.0  0.50000  0.28424  0.66683  1.0000
+  O   O5        1.0  0.50000  0.71890  0.92168  1.0000
+  O   O6        1.0  0.50000  0.71489  0.41641  1.0000
+  O   O7        1.0  0.50000  0.28424  0.33317  1.0000
+  O   O8        1.0  0.50000  0.29649  0.83433  1.0000
+  O   O9        1.0  0.00000  0.07464  0.00000  1.0000
+  O   O10       1.0  0.00000  0.12892  0.50000  1.0000
+  O   O11       1.0  0.00000  0.87502  0.24904  1.0000
+  O   O12       1.0  0.00000  0.87502  0.75096  1.0000

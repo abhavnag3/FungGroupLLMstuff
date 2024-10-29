@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr4Ga2Ge2N2
+_chemical_formula_sum              "Sr4 Ga2 Ge2 N2"
+_cell_length_a       4.10269
+_cell_length_b       6.96183
+_cell_length_c       8.8156
+_cell_angle_alpha    71.4271
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75000  0.70186  0.03404  1.0000
+  Sr  Sr2       1.0  0.25000  0.31458  0.37822  1.0000
+  Sr  Sr3       1.0  0.75000  0.68542  0.62178  1.0000
+  Sr  Sr4       1.0  0.25000  0.29813  0.96596  1.0000
+  Ga  Ga1       1.0  0.75000  0.03670  0.24770  1.0000
+  Ga  Ga2       1.0  0.25000  0.96330  0.75230  1.0000
+  Ge  Ge1       1.0  0.25000  0.82304  0.29966  1.0000
+  Ge  Ge2       1.0  0.75000  0.17696  0.70034  1.0000
+  N   N1        1.0  0.75000  0.32359  0.17089  1.0000
+  N   N2        1.0  0.25000  0.67641  0.82911  1.0000

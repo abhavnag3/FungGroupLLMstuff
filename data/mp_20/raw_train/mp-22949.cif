@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Fe2Bi2O6
+_chemical_formula_sum              "Fe2 Bi2 O6"
+_cell_length_a       5.66218
+_cell_length_b       5.66254
+_cell_length_c       5.8186
+_cell_angle_alpha    119.119
+_cell_angle_beta     89.9999
+_cell_angle_gamma    119.998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.97538  0.95076  0.92613  1.0000
+  Fe  Fe2       1.0  0.47538  0.95076  0.42614  1.0000
+  Bi  Bi1       1.0  0.26462  0.52923  0.79380  1.0000
+  Bi  Bi2       1.0  0.76461  0.52923  0.29379  1.0000
+  O   O1        1.0  0.21624  0.90732  0.12360  1.0000
+  O   O2        1.0  0.71624  0.90732  0.62360  1.0000
+  O   O3        1.0  0.69108  0.90732  0.12360  1.0000
+  O   O4        1.0  0.19107  0.90732  0.62360  1.0000
+  O   O5        1.0  0.21625  0.43251  0.12359  1.0000
+  O   O6        1.0  0.71625  0.43251  0.62358  1.0000

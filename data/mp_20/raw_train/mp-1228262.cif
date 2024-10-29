@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Ba2Y2Mn4O11
+_chemical_formula_sum              "Ba2 Y2 Mn4 O11"
+_cell_length_a       3.8555
+_cell_length_b       8.19348
+_cell_length_c       8.73
+_cell_angle_alpha    62.7889
+_cell_angle_beta     89.9868
+_cell_angle_gamma    90.0791
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ba  Ba2       1.0  0.50000  0.00000  0.50000  1.0000
+  Y   Y1        1.0  0.50471  0.71884  0.00875  1.0000
+  Y   Y2        1.0  0.49529  0.28116  0.99125  1.0000
+  Mn  Mn1       1.0  0.00387  0.88184  0.22744  1.0000
+  Mn  Mn2       1.0  0.99613  0.11816  0.77256  1.0000
+  Mn  Mn3       1.0  0.99883  0.62943  0.75133  1.0000
+  Mn  Mn4       1.0  0.00118  0.37057  0.24867  1.0000
+  O   O1        1.0  0.49894  0.61804  0.77624  1.0000
+  O   O2        1.0  0.50106  0.38196  0.22376  1.0000
+  O   O3        1.0  0.00147  0.65651  0.20787  1.0000
+  O   O4        1.0  0.99853  0.34349  0.79213  1.0000
+  O   O5        1.0  0.00800  0.13369  0.18849  1.0000
+  O   O6        1.0  0.99200  0.86631  0.81151  1.0000
+  O   O7        1.0  0.00056  0.75402  0.50226  1.0000
+  O   O8        1.0  0.99944  0.24598  0.49774  1.0000
+  O   O9        1.0  0.00000  0.50000  0.00000  1.0000
+  O   O10       1.0  0.50400  0.89714  0.17769  1.0000
+  O   O11       1.0  0.49600  0.10286  0.82231  1.0000

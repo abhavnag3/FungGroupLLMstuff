@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       U3Co2Si7
+_chemical_formula_sum              "U3 Co2 Si7"
+_cell_length_a       3.97478
+_cell_length_b       4.02672
+_cell_length_c       12.3518
+_cell_angle_alpha    90
+_cell_angle_beta     99.2591
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.31412  0.00000  0.62824  1.0000
+  U   U2        1.0  0.68588  0.00000  0.37176  1.0000
+  U   U3        1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co1       1.0  0.12871  0.50000  0.25742  1.0000
+  Co  Co2       1.0  0.87129  0.50000  0.74258  1.0000
+  Si  Si1       1.0  0.50000  0.00000  0.00000  1.0000
+  Si  Si2       1.0  0.41313  0.50000  0.82627  1.0000
+  Si  Si3       1.0  0.58687  0.50000  0.17373  1.0000
+  Si  Si4       1.0  0.08752  0.00000  0.17503  1.0000
+  Si  Si5       1.0  0.91248  0.00000  0.82497  1.0000
+  Si  Si6       1.0  0.22223  0.50000  0.44447  1.0000
+  Si  Si7       1.0  0.77777  0.50000  0.55553  1.0000

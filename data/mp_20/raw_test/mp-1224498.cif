@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Hf5Zr5Ga6
+_chemical_formula_sum              "Hf5 Zr5 Ga6"
+_cell_length_a       8.05875
+_cell_length_b       8.05875
+_cell_length_c       5.73283
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.33309  0.66657  0.25006  1.0000
+  Hf  Hf2       1.0  0.66657  0.33309  0.25006  1.0000
+  Hf  Hf3       1.0  0.66657  0.33309  0.74995  1.0000
+  Hf  Hf4       1.0  0.33309  0.66657  0.74995  1.0000
+  Hf  Hf5       1.0  0.24596  0.24596  0.50000  1.0000
+  Zr  Zr1       1.0  0.75735  0.99955  0.50000  1.0000
+  Zr  Zr2       1.0  0.99955  0.75735  0.50000  1.0000
+  Zr  Zr3       1.0  0.75470  0.75470  0.00000  1.0000
+  Zr  Zr4       1.0  0.24289  0.00089  0.00000  1.0000
+  Zr  Zr5       1.0  0.00089  0.24289  0.00000  1.0000
+  Ga  Ga1       1.0  0.60661  0.60661  0.50000  1.0000
+  Ga  Ga2       1.0  0.39199  0.00092  0.50000  1.0000
+  Ga  Ga3       1.0  0.00092  0.39199  0.50000  1.0000
+  Ga  Ga4       1.0  0.39261  0.39261  0.00000  1.0000
+  Ga  Ga5       1.0  0.60751  0.99974  0.00000  1.0000
+  Ga  Ga6       1.0  0.99974  0.60751  0.00000  1.0000

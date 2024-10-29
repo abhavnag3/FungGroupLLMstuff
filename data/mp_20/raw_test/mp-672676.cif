@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       U2W8C8
+_chemical_formula_sum              "U2 W8 C8"
+_cell_length_a       8.41019
+_cell_length_b       8.41019
+_cell_length_c       3.13682
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.00000  0.00000  0.00000  1.0000
+  U   U2        1.0  0.50000  0.50000  0.50000  1.0000
+  W   W1        1.0  0.38674  0.15330  0.00000  1.0000
+  W   W2        1.0  0.15330  0.61326  0.00000  1.0000
+  W   W3        1.0  0.31872  0.85469  0.50000  1.0000
+  W   W4        1.0  0.14531  0.31872  0.50000  1.0000
+  W   W5        1.0  0.61326  0.84670  0.00000  1.0000
+  W   W6        1.0  0.68127  0.14531  0.50000  1.0000
+  W   W7        1.0  0.85469  0.68127  0.50000  1.0000
+  W   W8        1.0  0.84670  0.38674  0.00000  1.0000
+  C   C1        1.0  0.77386  0.91521  0.50000  1.0000
+  C   C2        1.0  0.22614  0.08479  0.50000  1.0000
+  C   C3        1.0  0.91521  0.22614  0.50000  1.0000
+  C   C4        1.0  0.29450  0.39432  0.00000  1.0000
+  C   C5        1.0  0.39432  0.70550  0.00000  1.0000
+  C   C6        1.0  0.08479  0.77386  0.50000  1.0000
+  C   C7        1.0  0.60567  0.29450  0.00000  1.0000
+  C   C8        1.0  0.70550  0.60567  0.00000  1.0000

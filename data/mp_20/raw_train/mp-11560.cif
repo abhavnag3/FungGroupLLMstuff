@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti6Si6Ru6
+_chemical_formula_sum              "Ti6 Si6 Ru6"
+_cell_length_a       7.38708
+_cell_length_b       7.38708
+_cell_length_c       7.38708
+_cell_angle_alpha    127.807
+_cell_angle_beta     122.681
+_cell_angle_gamma    81.2016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24591  0.91226  0.16635  1.0000
+  Ti  Ti2       1.0  0.97331  0.49317  0.01986  1.0000
+  Ti  Ti3       1.0  0.02669  0.04656  0.51986  1.0000
+  Ti  Ti4       1.0  0.44545  0.49117  0.54571  1.0000
+  Ti  Ti5       1.0  0.75409  0.92045  0.66635  1.0000
+  Ti  Ti6       1.0  0.55454  0.10026  0.04571  1.0000
+  Si  Si1       1.0  0.78114  0.53820  0.25706  1.0000
+  Si  Si2       1.0  0.17449  0.16236  0.00165  1.0000
+  Si  Si3       1.0  0.66071  0.16236  0.48787  1.0000
+  Si  Si4       1.0  0.33929  0.82716  0.50165  1.0000
+  Si  Si5       1.0  0.21886  0.47591  0.75706  1.0000
+  Si  Si6       1.0  0.82551  0.82716  0.98787  1.0000
+  Ru  Ru1       1.0  0.50000  0.24551  0.74551  1.0000
+  Ru  Ru2       1.0  0.00000  0.24551  0.24551  1.0000
+  Ru  Ru3       1.0  0.83843  0.49708  0.58844  1.0000
+  Ru  Ru4       1.0  0.59136  0.75001  0.08844  1.0000
+  Ru  Ru5       1.0  0.40864  0.49708  0.15865  1.0000
+  Ru  Ru6       1.0  0.16157  0.75001  0.65865  1.0000

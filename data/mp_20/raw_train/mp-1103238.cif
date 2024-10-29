@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Lu4Ga4Pd4
+_chemical_formula_sum              "Lu4 Ga4 Pd4"
+_cell_length_a       4.36292
+_cell_length_b       6.82128
+_cell_length_c       7.65823
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.25000  0.50654  0.19800  1.0000
+  Lu  Lu2       1.0  0.75000  0.49346  0.80200  1.0000
+  Lu  Lu3       1.0  0.75000  0.99346  0.69800  1.0000
+  Lu  Lu4       1.0  0.25000  0.00654  0.30200  1.0000
+  Ga  Ga1       1.0  0.25000  0.78567  0.89614  1.0000
+  Ga  Ga2       1.0  0.75000  0.21433  0.10386  1.0000
+  Ga  Ga3       1.0  0.75000  0.71433  0.39614  1.0000
+  Ga  Ga4       1.0  0.25000  0.28567  0.60386  1.0000
+  Pd  Pd1       1.0  0.25000  0.67564  0.56859  1.0000
+  Pd  Pd2       1.0  0.75000  0.32436  0.43141  1.0000
+  Pd  Pd3       1.0  0.75000  0.82436  0.06859  1.0000
+  Pd  Pd4       1.0  0.25000  0.17564  0.93141  1.0000

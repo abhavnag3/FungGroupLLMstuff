@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Al2Si2
+_chemical_formula_sum              "Sm2 Al2 Si2"
+_cell_length_a       7.84718
+_cell_length_b       7.84718
+_cell_length_c       7.84718
+_cell_angle_alpha    149.11
+_cell_angle_beta     149.11
+_cell_angle_gamma    44.2489
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.17057  0.17056  0.00000  1.0000
+  Sm  Sm2       1.0  0.92056  0.42057  0.50000  1.0000
+  Al  Al1       1.0  0.58672  0.58672  0.00000  1.0000
+  Al  Al2       1.0  0.33672  0.83672  0.50000  1.0000
+  Si  Si1       1.0  0.50232  0.00232  0.50000  1.0000
+  Si  Si2       1.0  0.75232  0.75232  0.00000  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       TlV4FeS8
+_chemical_formula_sum              "Tl1 V4 Fe1 S8"
+_cell_length_a       3.30342
+_cell_length_b       8.46591
+_cell_length_c       8.86147
+_cell_angle_alpha    105.153
+_cell_angle_beta     100.742
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.50000  0.00000  0.00000  1.0000
+  V   V1        1.0  0.71092  0.85881  0.42184  1.0000
+  V   V2        1.0  0.28908  0.14119  0.57816  1.0000
+  V   V3        1.0  0.64665  0.49829  0.29330  1.0000
+  V   V4        1.0  0.35335  0.50171  0.70670  1.0000
+  Fe  Fe1       1.0  0.00000  0.50000  0.00000  1.0000
+  S   S1        1.0  0.84119  0.00481  0.68239  1.0000
+  S   S2        1.0  0.15881  0.99519  0.31761  1.0000
+  S   S3        1.0  0.75896  0.33839  0.51792  1.0000
+  S   S4        1.0  0.24104  0.66161  0.48208  1.0000
+  S   S5        1.0  0.91890  0.67709  0.83781  1.0000
+  S   S6        1.0  0.08110  0.32291  0.16220  1.0000
+  S   S7        1.0  0.56935  0.66945  0.13870  1.0000
+  S   S8        1.0  0.43065  0.33055  0.86130  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zr2FeS4
+_chemical_formula_sum              "Zr2 Fe1 S4"
+_cell_length_a       3.682
+_cell_length_b       7.02882
+_cell_length_c       6.32208
+_cell_angle_alpha    63.1962
+_cell_angle_beta     90.0048
+_cell_angle_gamma    105.19
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.49882  0.99766  0.49378  1.0000
+  Zr  Zr2       1.0  0.99446  0.98879  0.01745  1.0000
+  Fe  Fe1       1.0  0.31734  0.63482  0.34789  1.0000
+  S   S1        1.0  0.62261  0.24503  0.04455  1.0000
+  S   S2        1.0  0.12303  0.24620  0.54036  1.0000
+  S   S3        1.0  0.37355  0.74694  0.95255  1.0000
+  S   S4        1.0  0.86523  0.73057  0.47507  1.0000

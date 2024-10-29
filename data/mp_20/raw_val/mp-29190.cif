@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Te8Mo2Br2
+_chemical_formula_sum              "Te8 Mo2 Br2"
+_cell_length_a       6.90304
+_cell_length_b       8.36246
+_cell_length_c       8.37217
+_cell_angle_alpha    115.199
+_cell_angle_beta     102.794
+_cell_angle_gamma    100.784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.87880  0.68009  0.81907  1.0000
+  Te  Te2       1.0  0.03460  0.89256  0.21580  1.0000
+  Te  Te3       1.0  0.96540  0.10744  0.78420  1.0000
+  Te  Te4       1.0  0.53619  0.22526  0.94253  1.0000
+  Te  Te5       1.0  0.61315  0.14550  0.30158  1.0000
+  Te  Te6       1.0  0.38685  0.85450  0.69842  1.0000
+  Te  Te7       1.0  0.12120  0.31991  0.18093  1.0000
+  Te  Te8       1.0  0.46381  0.77474  0.05747  1.0000
+  Mo  Mo1       1.0  0.78158  0.99992  0.00056  1.0000
+  Mo  Mo2       1.0  0.21842  0.00008  0.99944  1.0000
+  Br  Br1       1.0  0.74684  0.59134  0.41938  1.0000
+  Br  Br2       1.0  0.25316  0.40866  0.58062  1.0000

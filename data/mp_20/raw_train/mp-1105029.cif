@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Er3Ga9Pt2
+_chemical_formula_sum              "Er3 Ga9 Pt2"
+_cell_length_a       8.15267
+_cell_length_b       8.15267
+_cell_length_c       8.15267
+_cell_angle_alpha    149.837
+_cell_angle_beta     106.499
+_cell_angle_gamma    81.4537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.00000  0.00000  0.00000  1.0000
+  Er  Er2       1.0  0.30616  0.30616  0.00000  1.0000
+  Er  Er3       1.0  0.69384  0.69384  0.00000  1.0000
+  Ga  Ga1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ga  Ga2       1.0  0.71362  0.34350  0.37013  1.0000
+  Ga  Ga3       1.0  0.28638  0.65651  0.62987  1.0000
+  Ga  Ga4       1.0  0.97337  0.34349  0.62987  1.0000
+  Ga  Ga5       1.0  0.02663  0.65651  0.37013  1.0000
+  Ga  Ga6       1.0  0.42067  0.13728  0.28339  1.0000
+  Ga  Ga7       1.0  0.57933  0.86272  0.71661  1.0000
+  Ga  Ga8       1.0  0.85389  0.13728  0.71661  1.0000
+  Ga  Ga9       1.0  0.14611  0.86272  0.28339  1.0000
+  Pt  Pt1       1.0  0.69290  0.50000  0.19290  1.0000
+  Pt  Pt2       1.0  0.30710  0.50000  0.80710  1.0000

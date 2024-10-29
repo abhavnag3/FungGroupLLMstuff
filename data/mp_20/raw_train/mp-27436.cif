@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pa2Cl10
+_chemical_formula_sum              "Pa2 Cl10"
+_cell_length_a       7.44655
+_cell_length_b       7.44655
+_cell_length_c       8.47692
+_cell_angle_alpha    81.3894
+_cell_angle_beta     81.3894
+_cell_angle_gamma    109.739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pa  Pa1       1.0  0.06864  0.93136  0.75000  1.0000
+  Pa  Pa2       1.0  0.93136  0.06864  0.25000  1.0000
+  Cl  Cl1       1.0  0.11671  0.87376  0.43646  1.0000
+  Cl  Cl2       1.0  0.12624  0.88330  0.06354  1.0000
+  Cl  Cl3       1.0  0.72550  0.27450  0.25000  1.0000
+  Cl  Cl4       1.0  0.27450  0.72550  0.75000  1.0000
+  Cl  Cl5       1.0  0.23822  0.36338  0.16925  1.0000
+  Cl  Cl6       1.0  0.63662  0.76178  0.33075  1.0000
+  Cl  Cl7       1.0  0.76178  0.63662  0.83075  1.0000
+  Cl  Cl8       1.0  0.36338  0.23822  0.66925  1.0000
+  Cl  Cl9       1.0  0.87376  0.11670  0.93646  1.0000
+  Cl  Cl10      1.0  0.88330  0.12624  0.56354  1.0000

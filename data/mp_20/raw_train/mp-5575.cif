@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Gd2Ta2O8
+_chemical_formula_sum              "Gd2 Ta2 O8"
+_cell_length_a       6.63576
+_cell_length_b       6.63576
+_cell_length_c       5.12911
+_cell_angle_alpha    69.7156
+_cell_angle_beta     69.7156
+_cell_angle_gamma    115.25
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.63179  0.36821  0.75000  1.0000
+  Gd  Gd2       1.0  0.36821  0.63179  0.25000  1.0000
+  Ta  Ta1       1.0  0.10027  0.89973  0.75000  1.0000
+  Ta  Ta2       1.0  0.89973  0.10027  0.25000  1.0000
+  O   O1        1.0  0.79099  0.72758  0.20813  1.0000
+  O   O2        1.0  0.27242  0.20901  0.29187  1.0000
+  O   O3        1.0  0.20901  0.27242  0.79187  1.0000
+  O   O4        1.0  0.72758  0.79099  0.70813  1.0000
+  O   O5        1.0  0.36230  0.94671  0.84042  1.0000
+  O   O6        1.0  0.05328  0.63770  0.65958  1.0000
+  O   O7        1.0  0.63770  0.05329  0.15958  1.0000
+  O   O8        1.0  0.94671  0.36230  0.34042  1.0000

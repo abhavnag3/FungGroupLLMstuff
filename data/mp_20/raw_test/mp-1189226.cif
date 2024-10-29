@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sm2B8Os8
+_chemical_formula_sum              "Sm2 B8 Os8"
+_cell_length_a       7.59442
+_cell_length_b       7.59442
+_cell_length_c       4.01884
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Sm  Sm2       1.0  0.50000  0.50000  0.50000  1.0000
+  B   B1        1.0  0.66499  0.78290  0.11213  1.0000
+  B   B2        1.0  0.33501  0.21710  0.11213  1.0000
+  B   B3        1.0  0.28290  0.83501  0.61213  1.0000
+  B   B4        1.0  0.71710  0.16499  0.61213  1.0000
+  B   B5        1.0  0.83501  0.71710  0.38787  1.0000
+  B   B6        1.0  0.16499  0.28290  0.38787  1.0000
+  B   B7        1.0  0.21710  0.66499  0.88787  1.0000
+  B   B8        1.0  0.78290  0.33501  0.88787  1.0000
+  Os  Os1       1.0  0.14603  0.39291  0.88694  1.0000
+  Os  Os2       1.0  0.85397  0.60709  0.88694  1.0000
+  Os  Os3       1.0  0.89291  0.35397  0.38694  1.0000
+  Os  Os4       1.0  0.10709  0.64603  0.38694  1.0000
+  Os  Os5       1.0  0.35397  0.10709  0.61306  1.0000
+  Os  Os6       1.0  0.64603  0.89291  0.61306  1.0000
+  Os  Os7       1.0  0.60709  0.14603  0.11306  1.0000
+  Os  Os8       1.0  0.39291  0.85397  0.11306  1.0000

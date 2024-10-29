@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca8Ge4
+_chemical_formula_sum              "Ca8 Ge4"
+_cell_length_a       4.85545
+_cell_length_b       7.67814
+_cell_length_c       9.10063
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.34654  0.07412  1.0000
+  Ca  Ca2       1.0  0.25000  0.65346  0.92588  1.0000
+  Ca  Ca3       1.0  0.75000  0.84654  0.42589  1.0000
+  Ca  Ca4       1.0  0.25000  0.15346  0.57412  1.0000
+  Ca  Ca5       1.0  0.75000  0.48017  0.67720  1.0000
+  Ca  Ca6       1.0  0.25000  0.51983  0.32280  1.0000
+  Ca  Ca7       1.0  0.75000  0.98017  0.82280  1.0000
+  Ca  Ca8       1.0  0.25000  0.01983  0.17720  1.0000
+  Ge  Ge1       1.0  0.75000  0.74767  0.10556  1.0000
+  Ge  Ge2       1.0  0.25000  0.25233  0.89444  1.0000
+  Ge  Ge3       1.0  0.75000  0.24767  0.39444  1.0000
+  Ge  Ge4       1.0  0.25000  0.75233  0.60556  1.0000

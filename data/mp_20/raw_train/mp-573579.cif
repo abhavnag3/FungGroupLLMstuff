@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cs8
+_chemical_formula_sum              "Cs8"
+_cell_length_a       10.1323
+_cell_length_b       10.1323
+_cell_length_c       10.4418
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    118.001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.67583  0.67583  0.17641  1.0000
+  Cs  Cs2       1.0  0.78338  0.21662  0.00000  1.0000
+  Cs  Cs3       1.0  0.28338  0.71662  0.50000  1.0000
+  Cs  Cs4       1.0  0.32417  0.32417  0.82359  1.0000
+  Cs  Cs5       1.0  0.82417  0.82417  0.67641  1.0000
+  Cs  Cs6       1.0  0.21662  0.78338  0.00000  1.0000
+  Cs  Cs7       1.0  0.17583  0.17583  0.32359  1.0000
+  Cs  Cs8       1.0  0.71662  0.28338  0.50000  1.0000

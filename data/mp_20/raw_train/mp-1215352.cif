@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zr5V5Si6
+_chemical_formula_sum              "Zr5 V5 Si6"
+_cell_length_a       5.13044
+_cell_length_b       7.72537
+_cell_length_c       7.56237
+_cell_angle_alpha    120.716
+_cell_angle_beta     89.9282
+_cell_angle_gamma    90.1406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.75062  0.75372  0.75506  1.0000
+  Zr  Zr2       1.0  0.75062  0.99865  0.24494  1.0000
+  Zr  Zr3       1.0  0.25021  0.74153  0.00000  1.0000
+  Zr  Zr4       1.0  0.24960  0.24136  0.23950  1.0000
+  Zr  Zr5       1.0  0.24960  0.00185  0.76050  1.0000
+  V   V1        1.0  0.50044  0.33291  0.66502  1.0000
+  V   V2        1.0  0.50044  0.66789  0.33498  1.0000
+  V   V3        1.0  0.99930  0.66763  0.33505  1.0000
+  V   V4        1.0  0.99930  0.33258  0.66495  1.0000
+  V   V5        1.0  0.75026  0.26705  0.00000  1.0000
+  Si  Si1       1.0  0.75014  0.58805  0.00000  1.0000
+  Si  Si2       1.0  0.75041  0.39894  0.38986  1.0000
+  Si  Si3       1.0  0.75041  0.00907  0.61014  1.0000
+  Si  Si4       1.0  0.24975  0.40084  0.00000  1.0000
+  Si  Si5       1.0  0.24944  0.59662  0.59533  1.0000
+  Si  Si6       1.0  0.24944  0.00129  0.40467  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn3Ga4Pd7
+_chemical_formula_sum              "Zn3 Ga4 Pd7"
+_cell_length_a       6.95679
+_cell_length_b       6.95679
+_cell_length_c       6.95679
+_cell_angle_alpha    113.651
+_cell_angle_beta     113.651
+_cell_angle_gamma    113.651
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.63402  0.89416  0.45231  1.0000
+  Zn  Zn2       1.0  0.89416  0.45231  0.63402  1.0000
+  Zn  Zn3       1.0  0.45231  0.63402  0.89416  1.0000
+  Ga  Ga1       1.0  0.10911  0.53575  0.36524  1.0000
+  Ga  Ga2       1.0  0.53575  0.36524  0.10911  1.0000
+  Ga  Ga3       1.0  0.36524  0.10911  0.53575  1.0000
+  Ga  Ga4       1.0  0.97761  0.97761  0.97761  1.0000
+  Pd  Pd1       1.0  0.96768  0.13148  0.37653  1.0000
+  Pd  Pd2       1.0  0.86026  0.60529  0.03280  1.0000
+  Pd  Pd3       1.0  0.03280  0.86026  0.60529  1.0000
+  Pd  Pd4       1.0  0.60529  0.03280  0.86026  1.0000
+  Pd  Pd5       1.0  0.13148  0.37653  0.96768  1.0000
+  Pd  Pd6       1.0  0.49675  0.49675  0.49675  1.0000
+  Pd  Pd7       1.0  0.37653  0.96768  0.13148  1.0000

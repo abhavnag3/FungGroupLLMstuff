@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cr4O4F4
+_chemical_formula_sum              "Cr4 O4 F4"
+_cell_length_a       4.60052
+_cell_length_b       5.62605
+_cell_length_c       5.1234
+_cell_angle_alpha    91.4663
+_cell_angle_beta     90.0001
+_cell_angle_gamma    90.0001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.98400  0.14897  0.27452  1.0000
+  Cr  Cr2       1.0  0.48400  0.35103  0.72548  1.0000
+  Cr  Cr3       1.0  0.51599  0.64898  0.27458  1.0000
+  Cr  Cr4       1.0  0.01599  0.85102  0.72542  1.0000
+  O   O1        1.0  0.77608  0.88542  0.41944  1.0000
+  O   O2        1.0  0.72391  0.38542  0.41945  1.0000
+  O   O3        1.0  0.27608  0.61458  0.58056  1.0000
+  O   O4        1.0  0.22391  0.11458  0.58056  1.0000
+  F   F1        1.0  0.24108  0.88750  0.07916  1.0000
+  F   F2        1.0  0.25894  0.38749  0.07916  1.0000
+  F   F3        1.0  0.74108  0.61250  0.92084  1.0000
+  F   F4        1.0  0.75893  0.11252  0.92084  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BaLaCoIrO6
+_chemical_formula_sum              "Ba1 La1 Co1 Ir1 O6"
+_cell_length_a       5.67201
+_cell_length_b       5.69645
+_cell_length_c       5.69769
+_cell_angle_alpha    90.6867
+_cell_angle_beta     119.014
+_cell_angle_gamma    119.711
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.99905  0.75156  0.74959  1.0000
+  La  La1       1.0  0.98910  0.25202  0.23647  1.0000
+  Co  Co1       1.0  0.49853  0.00395  0.50143  1.0000
+  Ir  Ir1       1.0  0.50165  0.49988  0.00200  1.0000
+  O   O1        1.0  0.53563  0.73579  0.29153  1.0000
+  O   O2        1.0  0.41343  0.25902  0.66468  1.0000
+  O   O3        1.0  0.01315  0.28283  0.79950  1.0000
+  O   O4        1.0  0.98810  0.68627  0.22346  1.0000
+  O   O5        1.0  0.51696  0.22338  0.21094  1.0000
+  O   O6        1.0  0.54439  0.80530  0.82040  1.0000

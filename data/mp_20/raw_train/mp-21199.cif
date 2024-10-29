@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Na3Ge4Pt4
+_chemical_formula_sum              "Na3 Ge4 Pt4"
+_cell_length_a       6.68904
+_cell_length_b       6.68904
+_cell_length_c       6.68904
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50000  0.50000  0.00000  1.0000
+  Na  Na2       1.0  0.00000  0.50000  0.50000  1.0000
+  Na  Na3       1.0  0.50000  0.00000  0.50000  1.0000
+  Ge  Ge1       1.0  0.36704  0.00000  0.00000  1.0000
+  Ge  Ge2       1.0  1.00000  0.00000  0.36704  1.0000
+  Ge  Ge3       1.0  0.00000  0.36704  0.00000  1.0000
+  Ge  Ge4       1.0  0.63296  0.63296  0.63296  1.0000
+  Pt  Pt1       1.0  0.00000  0.72233  0.00000  1.0000
+  Pt  Pt2       1.0  0.00000  0.00000  0.72233  1.0000
+  Pt  Pt3       1.0  0.27767  0.27767  0.27767  1.0000
+  Pt  Pt4       1.0  0.72233  0.00000  0.00000  1.0000

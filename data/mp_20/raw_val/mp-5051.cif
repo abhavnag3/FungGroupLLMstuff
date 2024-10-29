@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ho2Mo2C3
+_chemical_formula_sum              "Ho2 Mo2 C3"
+_cell_length_a       6.08535
+_cell_length_b       6.08535
+_cell_length_c       5.71006
+_cell_angle_alpha    68.7199
+_cell_angle_beta     68.7199
+_cell_angle_gamma    31.8488
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.38971  0.38971  0.82577  1.0000
+  Ho  Ho2       1.0  0.61029  0.61029  0.17423  1.0000
+  Mo  Mo1       1.0  0.15703  0.15703  0.67391  1.0000
+  Mo  Mo2       1.0  0.84297  0.84297  0.32609  1.0000
+  C   C1        1.0  0.75196  0.75196  0.73446  1.0000
+  C   C2        1.0  0.24804  0.24804  0.26554  1.0000
+  C   C3        1.0  0.00000  0.00000  0.00000  1.0000

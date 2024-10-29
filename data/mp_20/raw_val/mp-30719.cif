@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mg8Hg4
+_chemical_formula_sum              "Mg8 Hg4"
+_cell_length_a       4.6897
+_cell_length_b       6.17943
+_cell_length_c       8.97172
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.25000  0.45009  0.20941  1.0000
+  Mg  Mg2       1.0  0.75000  0.54990  0.79059  1.0000
+  Mg  Mg3       1.0  0.25000  0.95010  0.29059  1.0000
+  Mg  Mg4       1.0  0.75000  0.04990  0.70941  1.0000
+  Mg  Mg5       1.0  0.75000  0.67947  0.44390  1.0000
+  Mg  Mg6       1.0  0.25000  0.32053  0.55610  1.0000
+  Mg  Mg7       1.0  0.75000  0.17947  0.05610  1.0000
+  Mg  Mg8       1.0  0.25000  0.82053  0.94390  1.0000
+  Hg  Hg1       1.0  0.25000  0.28606  0.87948  1.0000
+  Hg  Hg2       1.0  0.75000  0.71395  0.12052  1.0000
+  Hg  Hg3       1.0  0.25000  0.78605  0.62052  1.0000
+  Hg  Hg4       1.0  0.75000  0.21394  0.37948  1.0000

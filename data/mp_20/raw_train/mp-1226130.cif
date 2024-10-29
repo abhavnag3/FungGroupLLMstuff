@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cr5NiS8
+_chemical_formula_sum              "Cr5 Ni1 S8"
+_cell_length_a       3.44225
+_cell_length_b       5.99103
+_cell_length_c       10.9059
+_cell_angle_alpha    88.8887
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.50000  0.51476  0.75733  1.0000
+  Cr  Cr2       1.0  0.00000  0.01467  0.26878  1.0000
+  Cr  Cr3       1.0  0.00000  0.98533  0.73122  1.0000
+  Cr  Cr4       1.0  0.50000  0.48524  0.24268  1.0000
+  Cr  Cr5       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.50000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.00000  0.67602  0.87558  1.0000
+  S   S2        1.0  0.50000  0.17516  0.38038  1.0000
+  S   S3        1.0  0.50000  0.82484  0.61962  1.0000
+  S   S4        1.0  0.00000  0.32398  0.12442  1.0000
+  S   S5        1.0  0.50000  0.15509  0.86857  1.0000
+  S   S6        1.0  0.00000  0.65491  0.36693  1.0000
+  S   S7        1.0  0.00000  0.34509  0.63307  1.0000
+  S   S8        1.0  0.50000  0.84491  0.13143  1.0000

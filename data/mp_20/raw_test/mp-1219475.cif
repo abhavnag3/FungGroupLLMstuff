@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sb2Te2Se
+_chemical_formula_sum              "Sb2 Te2 Se1"
+_cell_length_a       10.5679
+_cell_length_b       10.5679
+_cell_length_c       10.5679
+_cell_angle_alpha    23.223
+_cell_angle_beta     23.223
+_cell_angle_gamma    23.223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.39771  0.39771  0.39771  1.0000
+  Sb  Sb2       1.0  0.59891  0.59891  0.59891  1.0000
+  Te  Te1       1.0  0.78810  0.78810  0.78810  1.0000
+  Te  Te2       1.0  0.99747  0.99747  0.99747  1.0000
+  Se  Se1       1.0  0.21780  0.21780  0.21780  1.0000

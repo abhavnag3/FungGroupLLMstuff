@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca2Nd2Ti2Mn2O12
+_chemical_formula_sum              "Ca2 Nd2 Ti2 Mn2 O12"
+_cell_length_a       5.67314
+_cell_length_b       5.51243
+_cell_length_c       9.34063
+_cell_angle_alpha    54.4629
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.70108  0.23796  0.24999  1.0000
+  Ca  Ca2       1.0  0.29892  0.23796  0.74999  1.0000
+  Nd  Nd1       1.0  0.19709  0.76347  0.24979  1.0000
+  Nd  Nd2       1.0  0.80291  0.76347  0.74979  1.0000
+  Ti  Ti1       1.0  0.74406  0.00068  0.00089  1.0000
+  Ti  Ti2       1.0  0.25594  0.00069  0.50089  1.0000
+  Mn  Mn1       1.0  0.74756  0.50188  0.49948  1.0000
+  Mn  Mn2       1.0  0.25244  0.50188  0.99948  1.0000
+  O   O1        1.0  0.77347  0.65776  0.25412  1.0000
+  O   O2        1.0  0.03280  0.84276  0.95379  1.0000
+  O   O3        1.0  0.05115  0.23290  0.54670  1.0000
+  O   O4        1.0  0.55177  0.76578  0.95268  1.0000
+  O   O5        1.0  0.53511  0.15475  0.54668  1.0000
+  O   O6        1.0  0.27563  0.34205  0.24590  1.0000
+  O   O7        1.0  0.22653  0.65776  0.75412  1.0000
+  O   O8        1.0  0.96720  0.84276  0.45379  1.0000
+  O   O9        1.0  0.94885  0.23290  0.04670  1.0000
+  O   O10       1.0  0.44823  0.76578  0.45268  1.0000
+  O   O11       1.0  0.46489  0.15475  0.04668  1.0000
+  O   O12       1.0  0.72437  0.34205  0.74590  1.0000

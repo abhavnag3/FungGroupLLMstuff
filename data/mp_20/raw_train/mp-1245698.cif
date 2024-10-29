@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zn4Cr4N8
+_chemical_formula_sum              "Zn4 Cr4 N8"
+_cell_length_a       5.54574
+_cell_length_b       6.37453
+_cell_length_c       5.23264
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.58890  0.87888  0.00175  1.0000
+  Zn  Zn2       1.0  0.41110  0.12112  0.50175  1.0000
+  Zn  Zn3       1.0  0.91110  0.37888  0.50175  1.0000
+  Zn  Zn4       1.0  0.08890  0.62112  0.00175  1.0000
+  Cr  Cr1       1.0  0.57500  0.37312  0.99837  1.0000
+  Cr  Cr2       1.0  0.42500  0.62688  0.49837  1.0000
+  Cr  Cr3       1.0  0.92500  0.87312  0.49837  1.0000
+  Cr  Cr4       1.0  0.07500  0.12688  0.99837  1.0000
+  N   N1        1.0  0.56576  0.38883  0.35573  1.0000
+  N   N2        1.0  0.43424  0.61117  0.85573  1.0000
+  N   N3        1.0  0.93424  0.88883  0.85573  1.0000
+  N   N4        1.0  0.06576  0.11117  0.35573  1.0000
+  N   N5        1.0  0.60315  0.85989  0.39415  1.0000
+  N   N6        1.0  0.39685  0.14011  0.89414  1.0000
+  N   N7        1.0  0.89685  0.35989  0.89414  1.0000
+  N   N8        1.0  0.10315  0.64011  0.39415  1.0000

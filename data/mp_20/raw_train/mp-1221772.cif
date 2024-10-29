@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn2Cd8S10
+_chemical_formula_sum              "Mn2 Cd8 S10"
+_cell_length_a       11.0012
+_cell_length_b       11.0012
+_cell_length_c       6.76435
+_cell_angle_alpha    89.9862
+_cell_angle_beta     89.9862
+_cell_angle_gamma    141.777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.33524  0.93274  0.37606  1.0000
+  Mn  Mn2       1.0  0.93274  0.33524  0.37606  1.0000
+  Cd  Cd1       1.0  0.66578  0.26304  0.87271  1.0000
+  Cd  Cd2       1.0  0.26304  0.66578  0.87271  1.0000
+  Cd  Cd3       1.0  0.86736  0.07010  0.87411  1.0000
+  Cd  Cd4       1.0  0.46671  0.46671  0.87635  1.0000
+  Cd  Cd5       1.0  0.07010  0.86736  0.87411  1.0000
+  Cd  Cd6       1.0  0.73621  0.53089  0.37804  1.0000
+  Cd  Cd7       1.0  0.53089  0.73621  0.37804  1.0000
+  Cd  Cd8       1.0  0.13065  0.13065  0.37740  1.0000
+  S   S1        1.0  0.66260  0.25267  0.49076  1.0000
+  S   S2        1.0  0.25267  0.66260  0.49076  1.0000
+  S   S3        1.0  0.87000  0.08004  0.49390  1.0000
+  S   S4        1.0  0.46924  0.46924  0.49778  1.0000
+  S   S5        1.0  0.08004  0.87000  0.49390  1.0000
+  S   S6        1.0  0.73410  0.53258  0.99757  1.0000
+  S   S7        1.0  0.33420  0.93357  0.01714  1.0000
+  S   S8        1.0  0.93357  0.33420  0.01714  1.0000
+  S   S9        1.0  0.53258  0.73410  0.99757  1.0000
+  S   S10       1.0  0.13173  0.13173  0.99793  1.0000

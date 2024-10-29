@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       HoAl7Fe5
+_chemical_formula_sum              "Ho1 Al7 Fe5"
+_cell_length_a       6.60137
+_cell_length_b       6.60137
+_cell_length_c       6.60137
+_cell_angle_alpha    135.345
+_cell_angle_beta     98.4581
+_cell_angle_gamma    98.1382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00453  0.00000  0.00453  1.0000
+  Al  Al1       1.0  0.65976  0.00000  0.65976  1.0000
+  Al  Al2       1.0  0.33875  0.00000  0.33875  1.0000
+  Al  Al3       1.0  0.33469  0.34280  0.99189  1.0000
+  Al  Al4       1.0  0.64909  0.65720  0.99189  1.0000
+  Al  Al5       1.0  0.77525  0.50000  0.27525  1.0000
+  Al  Al6       1.0  0.79308  0.28848  0.50460  1.0000
+  Al  Al7       1.0  0.21612  0.71152  0.50460  1.0000
+  Fe  Fe1       1.0  0.49919  0.49867  0.49682  1.0000
+  Fe  Fe2       1.0  0.49919  0.00237  0.00053  1.0000
+  Fe  Fe3       1.0  0.99816  0.99763  0.49682  1.0000
+  Fe  Fe4       1.0  0.99816  0.50133  0.00053  1.0000
+  Fe  Fe5       1.0  0.23404  0.50000  0.73404  1.0000

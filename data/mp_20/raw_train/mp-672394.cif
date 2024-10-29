@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb2In8Ni2
+_chemical_formula_sum              "Yb2 In8 Ni2"
+_cell_length_a       7.41763
+_cell_length_b       4.40482
+_cell_length_c       8.63826
+_cell_angle_alpha    75.3023
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.74687  0.12390  0.74543  1.0000
+  Yb  Yb2       1.0  0.24687  0.87610  0.25457  1.0000
+  In  In1       1.0  0.75228  0.93463  0.14113  1.0000
+  In  In2       1.0  0.54482  0.32072  0.36958  1.0000
+  In  In3       1.0  0.25228  0.06538  0.85887  1.0000
+  In  In4       1.0  0.94995  0.31777  0.37151  1.0000
+  In  In5       1.0  0.44995  0.68223  0.62849  1.0000
+  In  In6       1.0  0.99847  0.50055  0.99667  1.0000
+  In  In7       1.0  0.49846  0.49945  0.00332  1.0000
+  In  In8       1.0  0.04482  0.67928  0.63042  1.0000
+  Ni  Ni1       1.0  0.74660  0.77585  0.45609  1.0000
+  Ni  Ni2       1.0  0.24660  0.22416  0.54391  1.0000

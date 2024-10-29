@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Dy4O8
+_chemical_formula_sum              "Li4 Dy4 O8"
+_cell_length_a       6.1578
+_cell_length_b       6.26879
+_cell_length_c       6.35684
+_cell_angle_alpha    60.1188
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.34284  0.29555  0.92982  1.0000
+  Li  Li2       1.0  0.84284  0.70445  0.57018  1.0000
+  Li  Li3       1.0  0.65716  0.70445  0.07018  1.0000
+  Li  Li4       1.0  0.15716  0.29555  0.42982  1.0000
+  Dy  Dy1       1.0  0.86885  0.23122  0.02448  1.0000
+  Dy  Dy2       1.0  0.63115  0.23122  0.52448  1.0000
+  Dy  Dy3       1.0  0.13115  0.76878  0.97552  1.0000
+  Dy  Dy4       1.0  0.36885  0.76878  0.47552  1.0000
+  O   O1        1.0  0.60802  0.45083  0.73573  1.0000
+  O   O2        1.0  0.82513  0.98738  0.85159  1.0000
+  O   O3        1.0  0.10802  0.54917  0.76427  1.0000
+  O   O4        1.0  0.39198  0.54917  0.26427  1.0000
+  O   O5        1.0  0.17487  0.01262  0.14841  1.0000
+  O   O6        1.0  0.32513  0.01262  0.64841  1.0000
+  O   O7        1.0  0.67487  0.98738  0.35159  1.0000
+  O   O8        1.0  0.89198  0.45083  0.23573  1.0000

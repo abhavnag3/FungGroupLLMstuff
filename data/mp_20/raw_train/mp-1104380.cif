@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Nd2Mg10Ni2
+_chemical_formula_sum              "Nd2 Mg10 Ni2"
+_cell_length_a       4.14455
+_cell_length_b       5.60938
+_cell_length_c       14.3041
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    111.68
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.61454  0.22909  0.25000  1.0000
+  Nd  Nd2       1.0  0.38545  0.77091  0.75000  1.0000
+  Mg  Mg1       1.0  0.90084  0.80168  0.35797  1.0000
+  Mg  Mg2       1.0  0.09916  0.19832  0.64202  1.0000
+  Mg  Mg3       1.0  0.90084  0.80168  0.14203  1.0000
+  Mg  Mg4       1.0  0.09916  0.19832  0.85798  1.0000
+  Mg  Mg5       1.0  0.20557  0.41113  0.42564  1.0000
+  Mg  Mg6       1.0  0.79444  0.58887  0.57436  1.0000
+  Mg  Mg7       1.0  0.20557  0.41113  0.07436  1.0000
+  Mg  Mg8       1.0  0.79444  0.58887  0.92564  1.0000
+  Mg  Mg9       1.0  0.50000  0.00000  0.50000  1.0000
+  Mg  Mg10      1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.31636  0.63271  0.25000  1.0000
+  Ni  Ni2       1.0  0.68364  0.36729  0.75000  1.0000

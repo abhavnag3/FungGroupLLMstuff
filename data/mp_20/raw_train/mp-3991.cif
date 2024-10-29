@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U4Mo4C8
+_chemical_formula_sum              "U4 Mo4 C8"
+_cell_length_a       3.2229
+_cell_length_b       5.63488
+_cell_length_c       11.0859
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.25000  0.07981  0.85795  1.0000
+  U   U2        1.0  0.75000  0.92019  0.14205  1.0000
+  U   U3        1.0  0.25000  0.57981  0.64205  1.0000
+  U   U4        1.0  0.75000  0.42019  0.35795  1.0000
+  Mo  Mo1       1.0  0.75000  0.07900  0.60120  1.0000
+  Mo  Mo2       1.0  0.75000  0.57900  0.89880  1.0000
+  Mo  Mo3       1.0  0.25000  0.92100  0.39880  1.0000
+  Mo  Mo4       1.0  0.25000  0.42100  0.10120  1.0000
+  C   C1        1.0  0.25000  0.75063  0.99303  1.0000
+  C   C2        1.0  0.75000  0.24937  0.00697  1.0000
+  C   C3        1.0  0.25000  0.25063  0.50697  1.0000
+  C   C4        1.0  0.75000  0.74937  0.49303  1.0000
+  C   C5        1.0  0.25000  0.16183  0.24414  1.0000
+  C   C6        1.0  0.75000  0.33817  0.74414  1.0000
+  C   C7        1.0  0.25000  0.66183  0.25586  1.0000
+  C   C8        1.0  0.75000  0.83817  0.75586  1.0000

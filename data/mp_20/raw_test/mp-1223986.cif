@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       In2Hg3Te6
+_chemical_formula_sum              "In2 Hg3 Te6"
+_cell_length_a       6.40822
+_cell_length_b       9.17613
+_cell_length_c       8.04742
+_cell_angle_alpha    71.9577
+_cell_angle_beta     66.5372
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.98695  0.50550  0.99971  1.0000
+  In  In2       1.0  0.65333  0.82783  0.66696  1.0000
+  Hg  Hg1       1.0  0.98548  0.98705  0.01723  1.0000
+  Hg  Hg2       1.0  0.37864  0.16667  0.33333  1.0000
+  Hg  Hg3       1.0  0.66937  0.34629  0.64944  1.0000
+  Te  Te1       1.0  0.26117  0.73643  0.02567  1.0000
+  Te  Te2       1.0  0.55224  0.88463  0.34281  1.0000
+  Te  Te3       1.0  0.91601  0.08152  0.66557  1.0000
+  Te  Te4       1.0  0.24825  0.25181  0.00110  1.0000
+  Te  Te5       1.0  0.56172  0.44870  0.32386  1.0000
+  Te  Te6       1.0  0.95351  0.59690  0.64100  1.0000

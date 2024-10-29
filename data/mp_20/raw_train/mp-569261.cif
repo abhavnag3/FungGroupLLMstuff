@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr7CoI12
+_chemical_formula_sum              "Pr7 Co1 I12"
+_cell_length_a       10.0495
+_cell_length_b       10.0495
+_cell_length_c       10.0495
+_cell_angle_alpha    107.088
+_cell_angle_beta     107.088
+_cell_angle_gamma    107.088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.97312  0.90198  0.70093  1.0000
+  Pr  Pr2       1.0  0.02688  0.09802  0.29907  1.0000
+  Pr  Pr3       1.0  0.09802  0.29907  0.02688  1.0000
+  Pr  Pr4       1.0  0.29907  0.02688  0.09802  1.0000
+  Pr  Pr5       1.0  0.50000  0.50000  0.50000  1.0000
+  Pr  Pr6       1.0  0.90198  0.70093  0.97312  1.0000
+  Pr  Pr7       1.0  0.70093  0.97312  0.90198  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  I   I1        1.0  0.53089  0.61066  0.84182  1.0000
+  I   I2        1.0  0.46911  0.38934  0.15818  1.0000
+  I   I3        1.0  0.31765  0.92533  0.77222  1.0000
+  I   I4        1.0  0.38934  0.15818  0.46911  1.0000
+  I   I5        1.0  0.92533  0.77222  0.31765  1.0000
+  I   I6        1.0  0.68235  0.07467  0.22778  1.0000
+  I   I7        1.0  0.07467  0.22778  0.68235  1.0000
+  I   I8        1.0  0.77222  0.31765  0.92533  1.0000
+  I   I9        1.0  0.22778  0.68235  0.07467  1.0000
+  I   I10       1.0  0.84182  0.53089  0.61066  1.0000
+  I   I11       1.0  0.15818  0.46911  0.38934  1.0000
+  I   I12       1.0  0.61066  0.84182  0.53089  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       La2Mo2N6
+_chemical_formula_sum              "La2 Mo2 N6"
+_cell_length_a       3.89039
+_cell_length_b       5.83559
+_cell_length_c       7.98779
+_cell_angle_alpha    71.0946
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.75000  0.25825  0.68948  1.0000
+  La  La2       1.0  0.25000  0.74175  0.31052  1.0000
+  Mo  Mo1       1.0  0.75000  0.35521  0.16917  1.0000
+  Mo  Mo2       1.0  0.25000  0.64479  0.83083  1.0000
+  N   N1        1.0  0.75000  0.45851  0.36689  1.0000
+  N   N2        1.0  0.75000  0.03127  0.23702  1.0000
+  N   N3        1.0  0.25000  0.54149  0.63311  1.0000
+  N   N4        1.0  0.75000  0.52014  0.89026  1.0000
+  N   N5        1.0  0.25000  0.47986  0.10974  1.0000
+  N   N6        1.0  0.25000  0.96873  0.76298  1.0000

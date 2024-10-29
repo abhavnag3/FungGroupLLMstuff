@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4C4S4N4
+_chemical_formula_sum              "Na4 C4 S4 N4"
+_cell_length_a       4.12141
+_cell_length_b       5.68074
+_cell_length_c       13.6097
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000  0.56728  0.89609  1.0000
+  Na  Na2       1.0  0.75000  0.06728  0.60391  1.0000
+  Na  Na3       1.0  0.75000  0.43272  0.10391  1.0000
+  Na  Na4       1.0  0.25000  0.93272  0.39609  1.0000
+  C   C1        1.0  0.25000  0.86914  0.11647  1.0000
+  C   C2        1.0  0.75000  0.36914  0.38353  1.0000
+  C   C3        1.0  0.25000  0.63086  0.61647  1.0000
+  C   C4        1.0  0.75000  0.13086  0.88353  1.0000
+  S   S1        1.0  0.25000  0.10524  0.18447  1.0000
+  S   S2        1.0  0.75000  0.89476  0.81553  1.0000
+  S   S3        1.0  0.75000  0.60524  0.31553  1.0000
+  S   S4        1.0  0.25000  0.39476  0.68447  1.0000
+  N   N1        1.0  0.75000  0.30523  0.93210  1.0000
+  N   N2        1.0  0.25000  0.80523  0.56790  1.0000
+  N   N3        1.0  0.25000  0.69477  0.06789  1.0000
+  N   N4        1.0  0.75000  0.19477  0.43211  1.0000

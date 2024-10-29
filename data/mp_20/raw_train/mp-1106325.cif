@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       CaCu3Pt4O12
+_chemical_formula_sum              "Ca1 Cu3 Pt4 O12"
+_cell_length_a       6.5964
+_cell_length_b       6.5964
+_cell_length_c       6.5964
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cu  Cu2       1.0  0.50000  0.00000  0.50000  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.50000  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.50000  1.0000
+  Pt  Pt2       1.0  0.50000  0.00000  0.00000  1.0000
+  Pt  Pt3       1.0  0.00000  0.50000  0.00000  1.0000
+  Pt  Pt4       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.69343  0.83370  0.52713  1.0000
+  O   O2        1.0  0.69343  0.16630  0.85973  1.0000
+  O   O3        1.0  0.30657  0.83370  0.14027  1.0000
+  O   O4        1.0  0.30657  0.16630  0.47287  1.0000
+  O   O5        1.0  0.83370  0.52713  0.69343  1.0000
+  O   O6        1.0  0.16630  0.85973  0.69343  1.0000
+  O   O7        1.0  0.83370  0.14027  0.30657  1.0000
+  O   O8        1.0  0.16630  0.47287  0.30657  1.0000
+  O   O9        1.0  0.52713  0.69343  0.83370  1.0000
+  O   O10       1.0  0.85973  0.69343  0.16630  1.0000
+  O   O11       1.0  0.14027  0.30657  0.83370  1.0000
+  O   O12       1.0  0.47287  0.30657  0.16630  1.0000

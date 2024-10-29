@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ta10Ga6
+_chemical_formula_sum              "Ta10 Ga6"
+_cell_length_a       7.70576
+_cell_length_b       7.70576
+_cell_length_c       7.70576
+_cell_angle_alpha    96.3778
+_cell_angle_beta     96.3778
+_cell_angle_gamma    141.062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.42510  0.72229  0.14738  1.0000
+  Ta  Ta2       1.0  0.25000  0.75000  0.50000  1.0000
+  Ta  Ta3       1.0  0.92509  0.77771  0.70281  1.0000
+  Ta  Ta4       1.0  0.07491  0.22229  0.29719  1.0000
+  Ta  Ta5       1.0  0.75000  0.25000  0.50000  1.0000
+  Ta  Ta6       1.0  0.27771  0.42510  0.70281  1.0000
+  Ta  Ta7       1.0  0.57490  0.27771  0.85262  1.0000
+  Ta  Ta8       1.0  0.22229  0.92510  0.14738  1.0000
+  Ta  Ta9       1.0  0.72229  0.57490  0.29719  1.0000
+  Ta  Ta10      1.0  0.77771  0.07490  0.85262  1.0000
+  Ga  Ga1       1.0  0.83382  0.33382  0.16763  1.0000
+  Ga  Ga2       1.0  0.25000  0.25000  0.00000  1.0000
+  Ga  Ga3       1.0  0.33382  0.16618  0.50000  1.0000
+  Ga  Ga4       1.0  0.16618  0.66618  0.83237  1.0000
+  Ga  Ga5       1.0  0.75000  0.75000  0.00000  1.0000
+  Ga  Ga6       1.0  0.66618  0.83382  0.50000  1.0000

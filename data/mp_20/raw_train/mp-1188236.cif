@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Gd4Mg2Ir2O12
+_chemical_formula_sum              "Gd4 Mg2 Ir2 O12"
+_cell_length_a       5.74252
+_cell_length_b       5.41981
+_cell_length_c       9.46274
+_cell_angle_alpha    55.2272
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.93165  0.73219  0.74872  1.0000
+  Gd  Gd2       1.0  0.56834  0.73219  0.24872  1.0000
+  Gd  Gd3       1.0  0.06835  0.26781  0.25128  1.0000
+  Gd  Gd4       1.0  0.43166  0.26781  0.75128  1.0000
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mg  Mg2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ir  Ir1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ir  Ir2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.69519  0.24802  0.94424  1.0000
+  O   O2        1.0  0.80481  0.24802  0.44424  1.0000
+  O   O3        1.0  0.30481  0.75198  0.05576  1.0000
+  O   O4        1.0  0.19519  0.75198  0.55576  1.0000
+  O   O5        1.0  0.53948  0.85924  0.75215  1.0000
+  O   O6        1.0  0.96052  0.85924  0.25215  1.0000
+  O   O7        1.0  0.46052  0.14076  0.24785  1.0000
+  O   O8        1.0  0.03948  0.14076  0.74785  1.0000
+  O   O9        1.0  0.19941  0.37067  0.94213  1.0000
+  O   O10       1.0  0.30059  0.37067  0.44213  1.0000
+  O   O11       1.0  0.80059  0.62933  0.05787  1.0000
+  O   O12       1.0  0.69941  0.62933  0.55787  1.0000

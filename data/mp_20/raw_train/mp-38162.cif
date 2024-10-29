@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sm5CuSe8
+_chemical_formula_sum              "Sm5 Cu1 Se8"
+_cell_length_a       7.63009
+_cell_length_b       7.63009
+_cell_length_c       7.63009
+_cell_angle_alpha    110.268
+_cell_angle_beta     110.268
+_cell_angle_gamma    107.888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.36674  0.98897  0.11752  1.0000
+  Sm  Sm2       1.0  0.01103  0.12855  0.37777  1.0000
+  Sm  Sm3       1.0  0.87145  0.24922  0.88248  1.0000
+  Sm  Sm4       1.0  0.50000  0.50000  0.00000  1.0000
+  Sm  Sm5       1.0  0.75078  0.63326  0.62223  1.0000
+  Cu  Cu1       1.0  0.25000  0.75000  0.50000  1.0000
+  Se  Se1       1.0  0.26947  0.39830  0.25977  1.0000
+  Se  Se2       1.0  0.13853  0.00969  0.74023  1.0000
+  Se  Se3       1.0  0.49090  0.24946  0.60700  1.0000
+  Se  Se4       1.0  0.11610  0.50910  0.75857  1.0000
+  Se  Se5       1.0  0.75053  0.35753  0.24143  1.0000
+  Se  Se6       1.0  0.60170  0.86147  0.87117  1.0000
+  Se  Se7       1.0  0.99031  0.73053  0.12883  1.0000
+  Se  Se8       1.0  0.64247  0.88390  0.39300  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Dy4V2Fe2O12
+_chemical_formula_sum              "Dy4 V2 Fe2 O12"
+_cell_length_a       5.68219
+_cell_length_b       5.2509
+_cell_length_c       9.19556
+_cell_angle_alpha    55.2849
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.57319  0.72713  0.75077  1.0000
+  Dy  Dy2       1.0  0.07319  0.27287  0.74923  1.0000
+  Dy  Dy3       1.0  0.42681  0.27287  0.24923  1.0000
+  Dy  Dy4       1.0  0.92681  0.72713  0.25077  1.0000
+  V   V1        1.0  0.00000  0.00000  0.50000  1.0000
+  V   V2        1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe1       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.96054  0.85827  0.75199  1.0000
+  O   O2        1.0  0.46054  0.14173  0.74801  1.0000
+  O   O3        1.0  0.03946  0.14173  0.24801  1.0000
+  O   O4        1.0  0.53946  0.85827  0.25199  1.0000
+  O   O5        1.0  0.81104  0.24922  0.94466  1.0000
+  O   O6        1.0  0.31104  0.75078  0.55534  1.0000
+  O   O7        1.0  0.19515  0.36598  0.44441  1.0000
+  O   O8        1.0  0.69515  0.63402  0.05559  1.0000
+  O   O9        1.0  0.18896  0.75078  0.05534  1.0000
+  O   O10       1.0  0.68896  0.24922  0.44466  1.0000
+  O   O11       1.0  0.80485  0.63402  0.55559  1.0000
+  O   O12       1.0  0.30485  0.36598  0.94441  1.0000

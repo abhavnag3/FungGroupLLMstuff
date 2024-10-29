@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       U4Si4Ni4
+_chemical_formula_sum              "U4 Si4 Ni4"
+_cell_length_a       3.78079
+_cell_length_b       6.88028
+_cell_length_c       7.29293
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.25000  0.13228  0.99829  1.0000
+  U   U2        1.0  0.75000  0.86772  0.00171  1.0000
+  U   U3        1.0  0.25000  0.36772  0.49829  1.0000
+  U   U4        1.0  0.75000  0.63228  0.50171  1.0000
+  Si  Si1       1.0  0.25000  0.62706  0.80351  1.0000
+  Si  Si2       1.0  0.75000  0.37294  0.19649  1.0000
+  Si  Si3       1.0  0.25000  0.87294  0.30351  1.0000
+  Si  Si4       1.0  0.75000  0.12706  0.69649  1.0000
+  Ni  Ni1       1.0  0.25000  0.56252  0.12518  1.0000
+  Ni  Ni2       1.0  0.75000  0.43748  0.87482  1.0000
+  Ni  Ni3       1.0  0.25000  0.93748  0.62518  1.0000
+  Ni  Ni4       1.0  0.75000  0.06252  0.37482  1.0000

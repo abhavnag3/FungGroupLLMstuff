@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li2Ge4N6
+_chemical_formula_sum              "Li2 Ge4 N6"
+_cell_length_a       5.5633
+_cell_length_b       5.5633
+_cell_length_c       5.10168
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.65851  0.65851  0.48832  1.0000
+  Li  Li2       1.0  0.34149  0.34149  0.98832  1.0000
+  Ge  Ge1       1.0  0.32993  0.00329  0.49265  1.0000
+  Ge  Ge2       1.0  0.00329  0.32993  0.49265  1.0000
+  Ge  Ge3       1.0  0.67007  0.99671  0.99265  1.0000
+  Ge  Ge4       1.0  0.99671  0.67007  0.99265  1.0000
+  N   N1        1.0  0.33558  0.96144  0.86136  1.0000
+  N   N2        1.0  0.96144  0.33558  0.86136  1.0000
+  N   N3        1.0  0.66442  0.03856  0.36136  1.0000
+  N   N4        1.0  0.03856  0.66442  0.36136  1.0000
+  N   N5        1.0  0.70151  0.70151  0.89165  1.0000
+  N   N6        1.0  0.29849  0.29849  0.39165  1.0000

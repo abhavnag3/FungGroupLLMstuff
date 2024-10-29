@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na8Zn4O8
+_chemical_formula_sum              "Na8 Zn4 O8"
+_cell_length_a       6.04125
+_cell_length_b       5.79402
+_cell_length_c       7.82476
+_cell_angle_alpha    85.1264
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.74206  0.00876  0.97224  1.0000
+  Na  Na2       1.0  0.24206  0.49124  0.02776  1.0000
+  Na  Na3       1.0  0.25794  0.99124  0.02776  1.0000
+  Na  Na4       1.0  0.75794  0.50876  0.97224  1.0000
+  Na  Na5       1.0  0.35513  0.42870  0.67567  1.0000
+  Na  Na6       1.0  0.85513  0.07130  0.32433  1.0000
+  Na  Na7       1.0  0.64487  0.57130  0.32433  1.0000
+  Na  Na8       1.0  0.14488  0.92870  0.67567  1.0000
+  Zn  Zn1       1.0  0.60639  0.85533  0.63552  1.0000
+  Zn  Zn2       1.0  0.10639  0.64467  0.36448  1.0000
+  Zn  Zn3       1.0  0.39361  0.14467  0.36448  1.0000
+  Zn  Zn4       1.0  0.89361  0.35533  0.63552  1.0000
+  O   O1        1.0  0.03506  0.25141  0.85154  1.0000
+  O   O2        1.0  0.53506  0.24860  0.14846  1.0000
+  O   O3        1.0  0.96494  0.74860  0.14846  1.0000
+  O   O4        1.0  0.46494  0.75140  0.85154  1.0000
+  O   O5        1.0  0.87770  0.69770  0.56276  1.0000
+  O   O6        1.0  0.37771  0.80230  0.43724  1.0000
+  O   O7        1.0  0.12230  0.30230  0.43724  1.0000
+  O   O8        1.0  0.62230  0.19770  0.56276  1.0000

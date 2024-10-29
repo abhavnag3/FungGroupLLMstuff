@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn4Cl8
+_chemical_formula_sum              "Zn4 Cl8"
+_cell_length_a       6.3577
+_cell_length_b       6.57585
+_cell_length_c       8.09504
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.37470  0.57651  0.37509  1.0000
+  Zn  Zn2       1.0  0.87470  0.42349  0.62491  1.0000
+  Zn  Zn3       1.0  0.87470  0.92349  0.87509  1.0000
+  Zn  Zn4       1.0  0.37470  0.07651  0.12491  1.0000
+  Cl  Cl1       1.0  0.98591  0.59074  0.85920  1.0000
+  Cl  Cl2       1.0  0.48590  0.40926  0.14080  1.0000
+  Cl  Cl3       1.0  0.48590  0.90926  0.35920  1.0000
+  Cl  Cl4       1.0  0.98591  0.09074  0.64080  1.0000
+  Cl  Cl5       1.0  0.01230  0.06309  0.11243  1.0000
+  Cl  Cl6       1.0  0.51230  0.93691  0.88757  1.0000
+  Cl  Cl7       1.0  0.51230  0.43691  0.61243  1.0000
+  Cl  Cl8       1.0  0.01230  0.56309  0.38757  1.0000

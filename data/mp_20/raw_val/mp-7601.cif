@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb2Ga2O8
+_chemical_formula_sum              "Nb2 Ga2 O8"
+_cell_length_a       6.63458
+_cell_length_b       6.63458
+_cell_length_c       6.72708
+_cell_angle_alpha    72.8386
+_cell_angle_beta     72.8386
+_cell_angle_gamma    33.6718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.10334  0.10334  0.76696  1.0000
+  Nb  Nb2       1.0  0.89666  0.89666  0.23304  1.0000
+  Ga  Ga1       1.0  0.19713  0.19713  0.18392  1.0000
+  Ga  Ga2       1.0  0.80287  0.80287  0.81608  1.0000
+  O   O1        1.0  0.86332  0.86332  0.51679  1.0000
+  O   O2        1.0  0.13668  0.13668  0.48321  1.0000
+  O   O3        1.0  0.94585  0.94585  0.86487  1.0000
+  O   O4        1.0  0.05415  0.05415  0.13513  1.0000
+  O   O5        1.0  0.25828  0.25828  0.85510  1.0000
+  O   O6        1.0  0.74172  0.74172  0.14490  1.0000
+  O   O7        1.0  0.36100  0.36100  0.20414  1.0000
+  O   O8        1.0  0.63900  0.63900  0.79586  1.0000

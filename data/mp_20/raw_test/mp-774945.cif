@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       MnV3O8
+_chemical_formula_sum              "Mn1 V3 O8"
+_cell_length_a       5.691
+_cell_length_b       5.7025
+_cell_length_c       7.5795
+_cell_angle_alpha    90.2722
+_cell_angle_beta     90.3174
+_cell_angle_gamma    90.5949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.06918  0.51124  0.87667  1.0000
+  V   V1        1.0  0.93600  0.01382  0.12913  1.0000
+  V   V2        1.0  0.56588  0.49459  0.61952  1.0000
+  V   V3        1.0  0.43820  0.99446  0.37596  1.0000
+  O   O1        1.0  0.96141  0.30145  0.07822  1.0000
+  O   O2        1.0  0.85417  0.45398  0.66409  1.0000
+  O   O3        1.0  0.63948  0.94183  0.19743  1.0000
+  O   O4        1.0  0.51729  0.79082  0.54703  1.0000
+  O   O5        1.0  0.46989  0.29606  0.44758  1.0000
+  O   O6        1.0  0.40591  0.44999  0.80539  1.0000
+  O   O7        1.0  0.13522  0.95164  0.30795  1.0000
+  O   O8        1.0  0.00736  0.84852  0.95104  1.0000

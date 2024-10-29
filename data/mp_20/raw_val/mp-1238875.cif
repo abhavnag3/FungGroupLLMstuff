@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiCrAgS4
+_chemical_formula_sum              "Ti1 Cr1 Ag1 S4"
+_cell_length_a       7.22848
+_cell_length_b       7.22848
+_cell_length_c       5.95887
+_cell_angle_alpha    66.6758
+_cell_angle_beta     66.6758
+_cell_angle_gamma    27.8747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24880  0.24880  0.78100  1.0000
+  Cr  Cr1       1.0  0.75169  0.75169  0.23051  1.0000
+  Ag  Ag1       1.0  0.49910  0.49910  0.50440  1.0000
+  S   S1        1.0  0.36384  0.36384  0.97866  1.0000
+  S   S2        1.0  0.63507  0.63507  0.02376  1.0000
+  S   S3        1.0  0.85088  0.85088  0.47818  1.0000
+  S   S4        1.0  0.15063  0.15063  0.50348  1.0000

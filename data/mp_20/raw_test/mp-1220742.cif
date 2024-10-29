@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nb12Al3Ga
+_chemical_formula_sum              "Nb12 Al3 Ga1"
+_cell_length_a       5.2025
+_cell_length_b       5.20314
+_cell_length_c       10.3991
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.50000  0.00000  0.37487  1.0000
+  Nb  Nb2       1.0  0.50000  0.00000  0.87432  1.0000
+  Nb  Nb3       1.0  0.75043  0.50000  0.00000  1.0000
+  Nb  Nb4       1.0  0.74862  0.50000  0.50000  1.0000
+  Nb  Nb5       1.0  0.00000  0.74870  0.24992  1.0000
+  Nb  Nb6       1.0  0.00000  0.74870  0.75008  1.0000
+  Nb  Nb7       1.0  0.50000  0.00000  0.12568  1.0000
+  Nb  Nb8       1.0  0.50000  0.00000  0.62513  1.0000
+  Nb  Nb9       1.0  0.24957  0.50000  0.00000  1.0000
+  Nb  Nb10      1.0  0.25138  0.50000  0.50000  1.0000
+  Nb  Nb11      1.0  0.00000  0.25130  0.24992  1.0000
+  Nb  Nb12      1.0  0.00000  0.25130  0.75008  1.0000
+  Al  Al1       1.0  0.50000  0.50000  0.25000  1.0000
+  Al  Al2       1.0  0.50000  0.50000  0.75000  1.0000
+  Al  Al3       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga1       1.0  0.00000  0.00000  0.50000  1.0000

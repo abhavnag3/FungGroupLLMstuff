@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ce2Ag4
+_chemical_formula_sum              "Ce2 Ag4"
+_cell_length_a       5.89782
+_cell_length_b       5.89782
+_cell_length_c       5.89782
+_cell_angle_alpha    130.654
+_cell_angle_beta     114.323
+_cell_angle_gamma    86.3669
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.75510  0.50510  0.25000  1.0000
+  Ce  Ce2       1.0  0.24490  0.49490  0.75000  1.0000
+  Ag  Ag1       1.0  0.17300  0.16727  0.00573  1.0000
+  Ag  Ag2       1.0  0.82700  0.83273  0.99427  1.0000
+  Ag  Ag3       1.0  0.66154  0.16727  0.49427  1.0000
+  Ag  Ag4       1.0  0.33846  0.83273  0.50573  1.0000

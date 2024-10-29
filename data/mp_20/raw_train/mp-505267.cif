@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Np4Si8Tc6
+_chemical_formula_sum              "Np4 Si8 Tc6"
+_cell_length_a       8.05095
+_cell_length_b       5.66226
+_cell_length_c       6.76394
+_cell_angle_alpha    75.8297
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.94362  0.57340  0.25460  1.0000
+  Np  Np2       1.0  0.44362  0.92660  0.74540  1.0000
+  Np  Np3       1.0  0.05638  0.42660  0.74540  1.0000
+  Np  Np4       1.0  0.55638  0.07340  0.25460  1.0000
+  Si  Si1       1.0  0.59620  0.61601  0.12737  1.0000
+  Si  Si2       1.0  0.09620  0.88399  0.87263  1.0000
+  Si  Si3       1.0  0.40380  0.38399  0.87263  1.0000
+  Si  Si4       1.0  0.90380  0.11601  0.12737  1.0000
+  Si  Si5       1.0  0.75126  0.72440  0.57861  1.0000
+  Si  Si6       1.0  0.25126  0.77560  0.42139  1.0000
+  Si  Si7       1.0  0.24874  0.27560  0.42139  1.0000
+  Si  Si8       1.0  0.74874  0.22440  0.57861  1.0000
+  Tc  Tc1       1.0  0.29295  0.61600  0.11160  1.0000
+  Tc  Tc2       1.0  0.79295  0.88400  0.88840  1.0000
+  Tc  Tc3       1.0  0.70705  0.38400  0.88840  1.0000
+  Tc  Tc4       1.0  0.20705  0.11600  0.11160  1.0000
+  Tc  Tc5       1.0  0.50000  0.50000  0.50000  1.0000
+  Tc  Tc6       1.0  0.00000  0.00000  0.50000  1.0000

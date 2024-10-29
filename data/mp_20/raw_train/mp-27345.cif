@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na6Bi2O8
+_chemical_formula_sum              "Na6 Bi2 O8"
+_cell_length_a       6.80318
+_cell_length_b       5.75844
+_cell_length_c       5.95983
+_cell_angle_alpha    70.0101
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.61757  0.25000  0.00000  1.0000
+  Na  Na2       1.0  0.60523  0.75000  0.50000  1.0000
+  Na  Na3       1.0  0.87122  0.25000  0.50000  1.0000
+  Na  Na4       1.0  0.12878  0.75000  0.50000  1.0000
+  Na  Na5       1.0  0.38243  0.75000  0.00000  1.0000
+  Na  Na6       1.0  0.39477  0.25000  0.50000  1.0000
+  Bi  Bi1       1.0  0.13593  0.25000  0.00000  1.0000
+  Bi  Bi2       1.0  0.86407  0.75000  0.00000  1.0000
+  O   O1        1.0  0.34567  0.03231  0.23687  1.0000
+  O   O2        1.0  0.34567  0.46769  0.76312  1.0000
+  O   O3        1.0  0.65433  0.96769  0.76312  1.0000
+  O   O4        1.0  0.65433  0.53231  0.23687  1.0000
+  O   O5        1.0  0.10141  0.49986  0.20867  1.0000
+  O   O6        1.0  0.10141  0.00014  0.79133  1.0000
+  O   O7        1.0  0.89859  0.99986  0.20867  1.0000
+  O   O8        1.0  0.89859  0.50014  0.79133  1.0000

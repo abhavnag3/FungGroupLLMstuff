@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       U12Co2
+_chemical_formula_sum              "U12 Co2"
+_cell_length_a       7.66917
+_cell_length_b       7.66917
+_cell_length_c       7.66917
+_cell_angle_alpha    96.4974
+_cell_angle_beta     96.4974
+_cell_angle_gamma    140.686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.89521  0.21677  0.11197  1.0000
+  U   U2        1.0  0.40596  0.90596  0.31193  1.0000
+  U   U3        1.0  0.09404  0.40596  0.50000  1.0000
+  U   U4        1.0  0.10479  0.78324  0.88803  1.0000
+  U   U5        1.0  0.59404  0.09404  0.68807  1.0000
+  U   U6        1.0  0.21677  0.10479  0.32156  1.0000
+  U   U7        1.0  0.78324  0.89521  0.67844  1.0000
+  U   U8        1.0  0.60479  0.71676  0.32156  1.0000
+  U   U9        1.0  0.71676  0.39521  0.11197  1.0000
+  U   U10       1.0  0.39521  0.28324  0.67844  1.0000
+  U   U11       1.0  0.90596  0.59404  0.50000  1.0000
+  U   U12       1.0  0.28324  0.60479  0.88803  1.0000
+  Co  Co1       1.0  0.25000  0.25000  0.00000  1.0000
+  Co  Co2       1.0  0.75000  0.75000  0.00000  1.0000

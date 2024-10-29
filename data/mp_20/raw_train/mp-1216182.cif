@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       YV2Co10
+_chemical_formula_sum              "Y1 V2 Co10"
+_cell_length_a       4.65254
+_cell_length_b       6.32271
+_cell_length_c       6.32271
+_cell_angle_alpha    97.6713
+_cell_angle_beta     111.588
+_cell_angle_gamma    68.4125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00000  0.00000  0.00000  1.0000
+  V   V1        1.0  0.00000  0.36183  0.36183  1.0000
+  V   V2        1.0  1.00000  0.63817  0.63817  1.0000
+  Co  Co1       1.0  0.71901  0.78099  0.21901  1.0000
+  Co  Co2       1.0  0.28099  0.21901  0.78099  1.0000
+  Co  Co3       1.0  0.50000  0.77798  0.77798  1.0000
+  Co  Co4       1.0  0.50000  0.22202  0.22202  1.0000
+  Co  Co5       1.0  0.50000  0.00000  0.50000  1.0000
+  Co  Co6       1.0  0.00000  0.00000  0.50000  1.0000
+  Co  Co7       1.0  0.50000  0.50000  0.00000  1.0000
+  Co  Co8       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co9       1.0  0.64031  0.35969  0.64031  1.0000
+  Co  Co10      1.0  0.35969  0.64031  0.35969  1.0000

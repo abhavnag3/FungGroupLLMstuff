@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sb4Te4Rh4
+_chemical_formula_sum              "Sb4 Te4 Rh4"
+_cell_length_a       6.48489
+_cell_length_b       6.48489
+_cell_length_c       6.48489
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.12745  0.87255  0.37255  1.0000
+  Sb  Sb2       1.0  0.87255  0.37255  0.12745  1.0000
+  Sb  Sb3       1.0  0.37255  0.12745  0.87255  1.0000
+  Sb  Sb4       1.0  0.62745  0.62745  0.62745  1.0000
+  Te  Te1       1.0  0.87375  0.12625  0.62625  1.0000
+  Te  Te2       1.0  0.12625  0.62625  0.87375  1.0000
+  Te  Te3       1.0  0.62625  0.87375  0.12625  1.0000
+  Te  Te4       1.0  0.37375  0.37375  0.37375  1.0000
+  Rh  Rh1       1.0  0.50299  0.49701  0.99701  1.0000
+  Rh  Rh2       1.0  0.49701  0.99701  0.50299  1.0000
+  Rh  Rh3       1.0  0.99701  0.50299  0.49701  1.0000
+  Rh  Rh4       1.0  0.00299  0.00299  0.00299  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Y4Ga4Pt4
+_chemical_formula_sum              "Y4 Ga4 Pt4"
+_cell_length_a       4.4481
+_cell_length_b       6.93081
+_cell_length_c       7.70363
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.25000  0.98750  0.30186  1.0000
+  Y   Y2        1.0  0.25000  0.48750  0.19814  1.0000
+  Y   Y3        1.0  0.75000  0.01250  0.69813  1.0000
+  Y   Y4        1.0  0.75000  0.51250  0.80187  1.0000
+  Ga  Ga1       1.0  0.25000  0.32769  0.57372  1.0000
+  Ga  Ga2       1.0  0.25000  0.82769  0.92628  1.0000
+  Ga  Ga3       1.0  0.75000  0.67231  0.42628  1.0000
+  Ga  Ga4       1.0  0.75000  0.17231  0.07372  1.0000
+  Pt  Pt1       1.0  0.25000  0.22448  0.90039  1.0000
+  Pt  Pt2       1.0  0.25000  0.72448  0.59961  1.0000
+  Pt  Pt3       1.0  0.75000  0.77552  0.09961  1.0000
+  Pt  Pt4       1.0  0.75000  0.27552  0.40039  1.0000

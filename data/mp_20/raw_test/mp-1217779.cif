@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ta4Bi2O12F2
+_chemical_formula_sum              "Ta4 Bi2 O12 F2"
+_cell_length_a       7.45
+_cell_length_b       7.45
+_cell_length_c       7.45
+_cell_angle_alpha    120.768
+_cell_angle_beta     118.929
+_cell_angle_gamma    90.27
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ta  Ta2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ta  Ta3       1.0  0.50000  0.00000  0.00000  1.0000
+  Ta  Ta4       1.0  0.50000  0.50000  0.50000  1.0000
+  Bi  Bi1       1.0  0.50000  0.50000  0.00000  1.0000
+  Bi  Bi2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.19731  0.94731  0.25000  1.0000
+  O   O2        1.0  0.57437  0.32437  0.25000  1.0000
+  O   O3        1.0  0.18460  0.91797  0.86140  1.0000
+  O   O4        1.0  0.55657  0.32319  0.63860  1.0000
+  O   O5        1.0  0.55657  0.91797  0.23338  1.0000
+  O   O6        1.0  0.18460  0.32319  0.26662  1.0000
+  O   O7        1.0  0.80269  0.05269  0.75000  1.0000
+  O   O8        1.0  0.42563  0.67563  0.75000  1.0000
+  O   O9        1.0  0.81540  0.08203  0.13860  1.0000
+  O   O10       1.0  0.44343  0.67681  0.36140  1.0000
+  O   O11       1.0  0.44343  0.08203  0.76662  1.0000
+  O   O12       1.0  0.81540  0.67681  0.73338  1.0000
+  F   F1        1.0  0.86660  0.61660  0.25000  1.0000
+  F   F2        1.0  0.13339  0.38339  0.75000  1.0000

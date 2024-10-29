@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sc7CoCl12
+_chemical_formula_sum              "Sc7 Co1 Cl12"
+_cell_length_a       8.34574
+_cell_length_b       8.34574
+_cell_length_c       8.34574
+_cell_angle_alpha    107.018
+_cell_angle_beta     107.018
+_cell_angle_gamma    107.018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.97705  0.89868  0.69060  1.0000
+  Sc  Sc2       1.0  0.89868  0.69060  0.97705  1.0000
+  Sc  Sc3       1.0  0.69060  0.97705  0.89868  1.0000
+  Sc  Sc4       1.0  0.02295  0.10132  0.30940  1.0000
+  Sc  Sc5       1.0  0.10132  0.30940  0.02295  1.0000
+  Sc  Sc6       1.0  0.30940  0.02295  0.10132  1.0000
+  Sc  Sc7       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.82966  0.54145  0.61565  1.0000
+  Cl  Cl2       1.0  0.54145  0.61565  0.82966  1.0000
+  Cl  Cl3       1.0  0.61565  0.82966  0.54145  1.0000
+  Cl  Cl4       1.0  0.17034  0.45855  0.38435  1.0000
+  Cl  Cl5       1.0  0.45855  0.38435  0.17034  1.0000
+  Cl  Cl6       1.0  0.38435  0.17034  0.45855  1.0000
+  Cl  Cl7       1.0  0.06933  0.21610  0.67878  1.0000
+  Cl  Cl8       1.0  0.21610  0.67878  0.06933  1.0000
+  Cl  Cl9       1.0  0.67878  0.06933  0.21610  1.0000
+  Cl  Cl10      1.0  0.93067  0.78390  0.32122  1.0000
+  Cl  Cl11      1.0  0.78390  0.32122  0.93067  1.0000
+  Cl  Cl12      1.0  0.32122  0.93067  0.78390  1.0000

@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Li3Ga14
+_chemical_formula_sum              "Li3 Ga14"
+_cell_length_a       7.42485
+_cell_length_b       7.42485
+_cell_length_c       7.42485
+_cell_angle_alpha    69.3764
+_cell_angle_beta     69.3764
+_cell_angle_gamma    69.3764
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.11961  0.57998  0.11961  1.0000
+  Li  Li2       1.0  0.11961  0.11961  0.57998  1.0000
+  Li  Li3       1.0  0.57998  0.11961  0.11961  1.0000
+  Ga  Ga1       1.0  0.49313  0.17548  0.49313  1.0000
+  Ga  Ga2       1.0  0.49313  0.49313  0.17548  1.0000
+  Ga  Ga3       1.0  0.17548  0.49313  0.49313  1.0000
+  Ga  Ga4       1.0  0.51265  0.82523  0.51265  1.0000
+  Ga  Ga5       1.0  0.51265  0.51265  0.82523  1.0000
+  Ga  Ga6       1.0  0.82523  0.51265  0.51265  1.0000
+  Ga  Ga7       1.0  0.07537  0.07537  0.07537  1.0000
+  Ga  Ga8       1.0  0.92072  0.92072  0.92072  1.0000
+  Ga  Ga9       1.0  0.70246  0.18252  0.70246  1.0000
+  Ga  Ga10      1.0  0.70246  0.70246  0.18252  1.0000
+  Ga  Ga11      1.0  0.18252  0.70246  0.70246  1.0000
+  Ga  Ga12      1.0  0.29388  0.82325  0.29388  1.0000
+  Ga  Ga13      1.0  0.29388  0.29388  0.82325  1.0000
+  Ga  Ga14      1.0  0.82325  0.29388  0.29388  1.0000

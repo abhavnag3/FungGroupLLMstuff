@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Ti2Mn2O12
+_chemical_formula_sum              "Sr4 Ti2 Mn2 O12"
+_cell_length_a       3.93314
+_cell_length_b       8.70368
+_cell_length_c       7.80517
+_cell_angle_alpha    63.3597
+_cell_angle_beta     89.9992
+_cell_angle_gamma    89.9999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50000  0.25534  0.12231  1.0000
+  Sr  Sr2       1.0  0.50000  0.25533  0.62233  1.0000
+  Sr  Sr3       1.0  0.50000  0.74467  0.87767  1.0000
+  Sr  Sr4       1.0  0.50000  0.74467  0.37768  1.0000
+  Ti  Ti1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ti  Ti2       1.0  0.00000  0.99999  0.00000  1.0000
+  Mn  Mn1       1.0  0.00001  0.50000  0.25000  1.0000
+  Mn  Mn2       1.0  0.99999  0.50000  0.75000  1.0000
+  O   O1        1.0  0.00000  0.25369  0.37318  1.0000
+  O   O2        1.0  1.00000  0.25369  0.87318  1.0000
+  O   O3        1.0  0.00000  0.74630  0.12682  1.0000
+  O   O4        1.0  0.00000  0.74631  0.62682  1.0000
+  O   O5        1.0  0.00000  0.00000  0.25000  1.0000
+  O   O6        1.0  0.00000  0.00000  0.75000  1.0000
+  O   O7        1.0  0.50000  1.00000  0.50000  1.0000
+  O   O8        1.0  0.50000  0.00000  1.00000  1.0000
+  O   O9        1.0  0.00000  0.50000  0.00001  1.0000
+  O   O10       1.0  0.00000  0.50000  0.49999  1.0000
+  O   O11       1.0  0.50000  0.50000  0.25000  1.0000
+  O   O12       1.0  0.50000  0.50000  0.75000  1.0000

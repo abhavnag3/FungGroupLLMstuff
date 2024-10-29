@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cd8As8
+_chemical_formula_sum              "Cd8 As8"
+_cell_length_a       6.11107
+_cell_length_b       7.95745
+_cell_length_c       8.19943
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.04667  0.63030  0.86196  1.0000
+  Cd  Cd2       1.0  0.54667  0.86970  0.13804  1.0000
+  Cd  Cd3       1.0  0.95333  0.13030  0.63804  1.0000
+  Cd  Cd4       1.0  0.45333  0.36970  0.36196  1.0000
+  Cd  Cd5       1.0  0.95333  0.36970  0.13804  1.0000
+  Cd  Cd6       1.0  0.45333  0.13030  0.86196  1.0000
+  Cd  Cd7       1.0  0.04667  0.86970  0.36196  1.0000
+  Cd  Cd8       1.0  0.54667  0.63030  0.63804  1.0000
+  As  As1       1.0  0.63257  0.06465  0.40423  1.0000
+  As  As2       1.0  0.13257  0.43535  0.59578  1.0000
+  As  As3       1.0  0.36743  0.56465  0.09577  1.0000
+  As  As4       1.0  0.86743  0.93535  0.90422  1.0000
+  As  As5       1.0  0.36743  0.93535  0.59578  1.0000
+  As  As6       1.0  0.86743  0.56465  0.40423  1.0000
+  As  As7       1.0  0.63257  0.43535  0.90422  1.0000
+  As  As8       1.0  0.13257  0.06465  0.09577  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Fe6OF11
+_chemical_formula_sum              "Fe6 O1 F11"
+_cell_length_a       4.83779
+_cell_length_b       5.84458
+_cell_length_c       8.11251
+_cell_angle_alpha    87.6195
+_cell_angle_beta     89.5135
+_cell_angle_gamma    89.5927
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.49727  0.17028  0.33482  1.0000
+  Fe  Fe2       1.0  0.51122  0.49124  0.99537  1.0000
+  Fe  Fe3       1.0  0.50430  0.82914  0.66588  1.0000
+  Fe  Fe4       1.0  0.00651  0.66515  0.32959  1.0000
+  Fe  Fe5       1.0  0.98753  0.33263  0.67818  1.0000
+  Fe  Fe6       1.0  0.98334  0.02223  0.99403  1.0000
+  O   O1        1.0  0.80562  0.28147  0.91010  1.0000
+  F   F1        1.0  0.80173  0.63240  0.56498  1.0000
+  F   F2        1.0  0.80624  0.97379  0.22264  1.0000
+  F   F3        1.0  0.71182  0.80209  0.90205  1.0000
+  F   F4        1.0  0.69466  0.47411  0.23877  1.0000
+  F   F5        1.0  0.70257  0.12857  0.56318  1.0000
+  F   F6        1.0  0.30170  0.86498  0.43027  1.0000
+  F   F7        1.0  0.30034  0.53392  0.76484  1.0000
+  F   F8        1.0  0.28828  0.19441  0.10337  1.0000
+  F   F9        1.0  0.20275  0.02086  0.77582  1.0000
+  F   F10       1.0  0.19588  0.36503  0.43768  1.0000
+  F   F11       1.0  0.19824  0.71772  0.08844  1.0000

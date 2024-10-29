@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       LuMg2Cr3S8
+_chemical_formula_sum              "Lu1 Mg2 Cr3 S8"
+_cell_length_a       7.36386
+_cell_length_b       7.36385
+_cell_length_c       7.36413
+_cell_angle_alpha    59.84
+_cell_angle_beta     59.838
+_cell_angle_gamma    59.8395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.50000  0.50001  0.49998  1.0000
+  Mg  Mg1       1.0  0.87610  0.87611  0.87608  1.0000
+  Mg  Mg2       1.0  0.12391  0.12391  0.12393  1.0000
+  Cr  Cr1       1.0  0.50000  0.49999  0.00001  1.0000
+  Cr  Cr2       1.0  0.00000  0.49999  0.50001  1.0000
+  Cr  Cr3       1.0  0.50002  1.00000  0.50000  1.0000
+  S   S1        1.0  0.73630  0.73630  0.73628  1.0000
+  S   S2        1.0  0.24809  0.24809  0.71886  1.0000
+  S   S3        1.0  0.24808  0.71886  0.24810  1.0000
+  S   S4        1.0  0.71886  0.24809  0.24809  1.0000
+  S   S5        1.0  0.75189  0.28115  0.75189  1.0000
+  S   S6        1.0  0.28115  0.75190  0.75190  1.0000
+  S   S7        1.0  0.26369  0.26368  0.26372  1.0000
+  S   S8        1.0  0.75191  0.75190  0.28116  1.0000

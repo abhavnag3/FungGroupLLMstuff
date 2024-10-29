@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ta2Tl3Cu3S8
+_chemical_formula_sum              "Ta2 Tl3 Cu3 S8"
+_cell_length_a       10.3015
+_cell_length_b       10.3015
+_cell_length_c       7.44227
+_cell_angle_alpha    83.8146
+_cell_angle_beta     83.8146
+_cell_angle_gamma    31.454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.85901  0.40070  0.31027  1.0000
+  Ta  Ta2       1.0  0.59930  0.14099  0.68973  1.0000
+  Tl  Tl1       1.0  0.32210  0.31160  0.21221  1.0000
+  Tl  Tl2       1.0  0.68840  0.67790  0.78779  1.0000
+  Tl  Tl3       1.0  0.98781  0.01219  0.00000  1.0000
+  Cu  Cu1       1.0  0.73159  0.26841  0.50000  1.0000
+  Cu  Cu2       1.0  0.35476  0.89618  0.31967  1.0000
+  Cu  Cu3       1.0  0.10382  0.64524  0.68033  1.0000
+  S   S1        1.0  0.26240  0.30619  0.62839  1.0000
+  S   S2        1.0  0.05537  0.13200  0.55986  1.0000
+  S   S3        1.0  0.69381  0.73760  0.37161  1.0000
+  S   S4        1.0  0.14764  0.17945  0.07397  1.0000
+  S   S5        1.0  0.86800  0.94463  0.44014  1.0000
+  S   S6        1.0  0.45670  0.46511  0.75289  1.0000
+  S   S7        1.0  0.53489  0.54330  0.24711  1.0000
+  S   S8        1.0  0.82055  0.85236  0.92603  1.0000

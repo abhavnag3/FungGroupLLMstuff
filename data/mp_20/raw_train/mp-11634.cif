@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Sm2Ge2Se8
+_chemical_formula_sum              "K2 Sm2 Ge2 Se8"
+_cell_length_a       7.11328
+_cell_length_b       6.89854
+_cell_length_c       9.15959
+_cell_angle_alpha    72.3291
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.70756  0.75454  0.93764  1.0000
+  K   K2        1.0  0.20756  0.24546  0.06236  1.0000
+  Sm  Sm1       1.0  0.20306  0.27097  0.55116  1.0000
+  Sm  Sm2       1.0  0.70306  0.72903  0.44884  1.0000
+  Ge  Ge1       1.0  0.23701  0.72265  0.67370  1.0000
+  Ge  Ge2       1.0  0.73701  0.27735  0.32630  1.0000
+  Se  Se1       1.0  0.97609  0.53296  0.27572  1.0000
+  Se  Se2       1.0  0.47609  0.46704  0.72428  1.0000
+  Se  Se3       1.0  0.46227  0.48605  0.29375  1.0000
+  Se  Se4       1.0  0.24081  0.92592  0.83870  1.0000
+  Se  Se5       1.0  0.74081  0.07408  0.16130  1.0000
+  Se  Se6       1.0  0.80908  0.06599  0.57811  1.0000
+  Se  Se7       1.0  0.30908  0.93401  0.42189  1.0000
+  Se  Se8       1.0  0.96227  0.51395  0.70625  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sc6Sn6Pd6
+_chemical_formula_sum              "Sc6 Sn6 Pd6"
+_cell_length_a       7.54359
+_cell_length_b       7.54359
+_cell_length_c       7.24653
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.40088  0.01498  0.25000  1.0000
+  Sc  Sc2       1.0  0.61410  0.59912  0.25000  1.0000
+  Sc  Sc3       1.0  0.98502  0.38590  0.25000  1.0000
+  Sc  Sc4       1.0  0.38590  0.98502  0.75000  1.0000
+  Sc  Sc5       1.0  0.59912  0.61410  0.75000  1.0000
+  Sc  Sc6       1.0  0.01498  0.40088  0.75000  1.0000
+  Sn  Sn1       1.0  0.72512  0.00000  0.00000  1.0000
+  Sn  Sn2       1.0  0.27488  0.27488  0.50000  1.0000
+  Sn  Sn3       1.0  0.00000  0.72512  0.50000  1.0000
+  Sn  Sn4       1.0  0.00000  0.72512  0.00000  1.0000
+  Sn  Sn5       1.0  0.27488  0.27488  0.00000  1.0000
+  Sn  Sn6       1.0  0.72512  0.00000  0.50000  1.0000
+  Pd  Pd1       1.0  0.33333  0.66667  0.03221  1.0000
+  Pd  Pd2       1.0  0.33333  0.66667  0.46779  1.0000
+  Pd  Pd3       1.0  0.66667  0.33333  0.96779  1.0000
+  Pd  Pd4       1.0  0.66667  0.33333  0.53221  1.0000
+  Pd  Pd5       1.0  0.00000  0.00000  0.25000  1.0000
+  Pd  Pd6       1.0  0.00000  0.00000  0.75000  1.0000

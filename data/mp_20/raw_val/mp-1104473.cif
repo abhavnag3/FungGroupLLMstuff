@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       KCr5Se8
+_chemical_formula_sum              "K1 Cr5 Se8"
+_cell_length_a       9.66631
+_cell_length_b       9.66631
+_cell_length_c       9.11185
+_cell_angle_alpha    75.2552
+_cell_angle_beta     75.2552
+_cell_angle_gamma    22.0384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.34114  0.34114  0.98058  1.0000
+  Cr  Cr3       1.0  0.65886  0.65886  0.01942  1.0000
+  Cr  Cr4       1.0  0.29573  0.29573  0.33373  1.0000
+  Cr  Cr5       1.0  0.70427  0.70427  0.66627  1.0000
+  Se  Se1       1.0  0.57493  0.57493  0.84489  1.0000
+  Se  Se2       1.0  0.42507  0.42507  0.15511  1.0000
+  Se  Se3       1.0  0.08616  0.08616  0.17066  1.0000
+  Se  Se4       1.0  0.91384  0.91384  0.82934  1.0000
+  Se  Se5       1.0  0.17115  0.17115  0.51106  1.0000
+  Se  Se6       1.0  0.82885  0.82885  0.48894  1.0000
+  Se  Se7       1.0  0.23904  0.23904  0.84330  1.0000
+  Se  Se8       1.0  0.76096  0.76096  0.15670  1.0000

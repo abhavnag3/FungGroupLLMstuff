@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Al8Cr4Si3
+_chemical_formula_sum              "Al8 Cr4 Si3"
+_cell_length_a       4.93497
+_cell_length_b       5.14605
+_cell_length_c       8.89948
+_cell_angle_alpha    72.7299
+_cell_angle_beta     82.9078
+_cell_angle_gamma    78.6188
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.05467  0.14758  0.18063  1.0000
+  Al  Al2       1.0  0.94533  0.85242  0.81937  1.0000
+  Al  Al3       1.0  0.58009  0.04149  0.12295  1.0000
+  Al  Al4       1.0  0.41991  0.95851  0.87705  1.0000
+  Al  Al5       1.0  0.17661  0.64523  0.13560  1.0000
+  Al  Al6       1.0  0.82339  0.35477  0.86440  1.0000
+  Al  Al7       1.0  0.49524  0.22592  0.37129  1.0000
+  Al  Al8       1.0  0.50476  0.77409  0.62871  1.0000
+  Cr  Cr1       1.0  0.32355  0.73934  0.37636  1.0000
+  Cr  Cr2       1.0  0.67645  0.26066  0.62364  1.0000
+  Cr  Cr3       1.0  0.70321  0.54920  0.10054  1.0000
+  Cr  Cr4       1.0  0.29679  0.45080  0.89946  1.0000
+  Si  Si1       1.0  0.00000  0.00000  0.50000  1.0000
+  Si  Si2       1.0  0.16142  0.41394  0.62583  1.0000
+  Si  Si3       1.0  0.83859  0.58606  0.37417  1.0000

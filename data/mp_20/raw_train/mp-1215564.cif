@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn2Cu2Au4
+_chemical_formula_sum              "Zn2 Cu2 Au4"
+_cell_length_a       2.96408
+_cell_length_b       4.62122
+_cell_length_c       9.13069
+_cell_angle_alpha    88.2613
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.00000  0.30864  0.88344  1.0000
+  Zn  Zn2       1.0  0.00000  0.69136  0.11656  1.0000
+  Cu  Cu1       1.0  0.00000  0.81460  0.60991  1.0000
+  Cu  Cu2       1.0  0.00000  0.18540  0.39009  1.0000
+  Au  Au1       1.0  0.50000  0.31376  0.63233  1.0000
+  Au  Au2       1.0  0.50000  0.68624  0.36767  1.0000
+  Au  Au3       1.0  0.50000  0.81125  0.86118  1.0000
+  Au  Au4       1.0  0.50000  0.18875  0.13882  1.0000

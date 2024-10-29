@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       NbCr3Ag2S8
+_chemical_formula_sum              "Nb1 Cr3 Ag2 S8"
+_cell_length_a       6.97332
+_cell_length_b       6.00382
+_cell_length_c       6.51599
+_cell_angle_alpha    88.8106
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.00000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr2       1.0  0.25005  0.00000  0.50000  1.0000
+  Cr  Cr3       1.0  0.74995  0.00000  0.50000  1.0000
+  Ag  Ag1       1.0  0.25260  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.74740  0.00000  0.00000  1.0000
+  S   S1        1.0  0.25595  0.32718  0.71388  1.0000
+  S   S2        1.0  0.74405  0.32718  0.71388  1.0000
+  S   S3        1.0  0.50000  0.82879  0.70307  1.0000
+  S   S4        1.0  0.00000  0.83528  0.71629  1.0000
+  S   S5        1.0  0.50000  0.17121  0.29693  1.0000
+  S   S6        1.0  0.00000  0.16472  0.28371  1.0000
+  S   S7        1.0  0.74405  0.67282  0.28612  1.0000
+  S   S8        1.0  0.25595  0.67282  0.28612  1.0000

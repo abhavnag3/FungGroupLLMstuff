@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al8Si4Mo6
+_chemical_formula_sum              "Al8 Si4 Mo6"
+_cell_length_a       4.8039
+_cell_length_b       4.8039
+_cell_length_c       13.4595
+_cell_angle_alpha    84.8705
+_cell_angle_beta     84.8705
+_cell_angle_gamma    119.309
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.37021  0.29522  0.83143  1.0000
+  Al  Al2       1.0  0.70478  0.62979  0.16857  1.0000
+  Al  Al3       1.0  0.62634  0.04365  0.33198  1.0000
+  Al  Al4       1.0  0.95635  0.37366  0.66802  1.0000
+  Al  Al5       1.0  0.29337  0.70662  0.00000  1.0000
+  Al  Al6       1.0  0.29374  0.36893  0.33528  1.0000
+  Al  Al7       1.0  0.63107  0.70626  0.66472  1.0000
+  Al  Al8       1.0  0.96373  0.03627  0.00000  1.0000
+  Si  Si1       1.0  0.71228  0.28771  0.50000  1.0000
+  Si  Si2       1.0  0.04212  0.63142  0.83247  1.0000
+  Si  Si3       1.0  0.36858  0.95788  0.16753  1.0000
+  Si  Si4       1.0  0.03500  0.96500  0.50000  1.0000
+  Mo  Mo1       1.0  0.36914  0.63086  0.50000  1.0000
+  Mo  Mo2       1.0  0.70406  0.96099  0.83317  1.0000
+  Mo  Mo3       1.0  0.03901  0.29594  0.16683  1.0000
+  Mo  Mo4       1.0  0.96370  0.70566  0.33846  1.0000
+  Mo  Mo5       1.0  0.29434  0.03630  0.66154  1.0000
+  Mo  Mo6       1.0  0.63217  0.36783  0.00000  1.0000

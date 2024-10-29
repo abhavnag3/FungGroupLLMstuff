@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tb3Ni9Sn6
+_chemical_formula_sum              "Tb3 Ni9 Sn6"
+_cell_length_a       4.23956
+_cell_length_b       9.28552
+_cell_length_c       9.28552
+_cell_angle_alpha    60.0617
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.50000  0.33330  0.33341  1.0000
+  Tb  Tb2       1.0  0.50000  0.66659  0.66670  1.0000
+  Tb  Tb3       1.0  0.00000  0.00032  0.99968  1.0000
+  Ni  Ni1       1.0  0.00000  0.20389  0.16863  1.0000
+  Ni  Ni2       1.0  0.00000  0.16845  0.62703  1.0000
+  Ni  Ni3       1.0  0.00000  0.62737  0.20441  1.0000
+  Ni  Ni4       1.0  0.00000  0.83137  0.79611  1.0000
+  Ni  Ni5       1.0  0.00000  0.37297  0.83155  1.0000
+  Ni  Ni6       1.0  0.00000  0.79559  0.37263  1.0000
+  Ni  Ni7       1.0  0.50000  0.29805  0.70195  1.0000
+  Ni  Ni8       1.0  0.50000  0.70194  0.99988  1.0000
+  Ni  Ni9       1.0  0.50000  0.00012  0.29806  1.0000
+  Sn  Sn1       1.0  0.50000  0.74719  0.25281  1.0000
+  Sn  Sn2       1.0  0.50000  0.25304  0.99996  1.0000
+  Sn  Sn3       1.0  0.50000  0.00004  0.74696  1.0000
+  Sn  Sn4       1.0  0.00000  0.47292  0.52708  1.0000
+  Sn  Sn5       1.0  0.00000  0.52692  0.00017  1.0000
+  Sn  Sn6       1.0  0.00000  0.99983  0.47308  1.0000

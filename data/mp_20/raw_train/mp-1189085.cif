@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er10Tl6
+_chemical_formula_sum              "Er10 Tl6"
+_cell_length_a       7.98989
+_cell_length_b       7.98989
+_cell_length_c       9.12036
+_cell_angle_alpha    115.978
+_cell_angle_beta     115.978
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.50000  0.50000  0.00000  1.0000
+  Er  Er2       1.0  0.00000  0.00000  0.00000  1.0000
+  Er  Er3       1.0  0.99176  0.81145  0.30321  1.0000
+  Er  Er4       1.0  0.31145  0.49176  0.30321  1.0000
+  Er  Er5       1.0  0.81145  0.31145  0.30321  1.0000
+  Er  Er6       1.0  0.49176  0.99176  0.30321  1.0000
+  Er  Er7       1.0  0.00824  0.18855  0.69679  1.0000
+  Er  Er8       1.0  0.68855  0.50824  0.69679  1.0000
+  Er  Er9       1.0  0.18855  0.68855  0.69679  1.0000
+  Er  Er10      1.0  0.50824  0.00824  0.69679  1.0000
+  Tl  Tl1       1.0  0.75000  0.75000  0.50000  1.0000
+  Tl  Tl2       1.0  0.25000  0.25000  0.50000  1.0000
+  Tl  Tl3       1.0  0.63616  0.86384  0.00000  1.0000
+  Tl  Tl4       1.0  0.36384  0.13616  0.00000  1.0000
+  Tl  Tl5       1.0  0.86384  0.36384  0.00000  1.0000
+  Tl  Tl6       1.0  0.13616  0.63616  0.00000  1.0000

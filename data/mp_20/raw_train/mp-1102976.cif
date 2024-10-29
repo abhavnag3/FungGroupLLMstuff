@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4P4Os4
+_chemical_formula_sum              "Zr4 P4 Os4"
+_cell_length_a       3.93464
+_cell_length_b       6.4887
+_cell_length_c       7.35499
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25000  0.02184  0.82108  1.0000
+  Zr  Zr2       1.0  0.25000  0.52184  0.67892  1.0000
+  Zr  Zr3       1.0  0.75000  0.97816  0.17892  1.0000
+  Zr  Zr4       1.0  0.75000  0.47816  0.32108  1.0000
+  P   P1        1.0  0.25000  0.77731  0.37706  1.0000
+  P   P2        1.0  0.25000  0.27731  0.12294  1.0000
+  P   P3        1.0  0.75000  0.22269  0.62294  1.0000
+  P   P4        1.0  0.75000  0.72269  0.87706  1.0000
+  Os  Os1       1.0  0.25000  0.15271  0.43960  1.0000
+  Os  Os2       1.0  0.25000  0.65271  0.06040  1.0000
+  Os  Os3       1.0  0.75000  0.84729  0.56040  1.0000
+  Os  Os4       1.0  0.75000  0.34729  0.93960  1.0000

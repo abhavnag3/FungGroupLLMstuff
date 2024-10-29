@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ce6Al3Ga3Ni6
+_chemical_formula_sum              "Ce6 Al3 Ga3 Ni6"
+_cell_length_a       4.02288
+_cell_length_b       6.93978
+_cell_length_c       11.9627
+_cell_angle_alpha    89.7515
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.50000  0.42705  0.99998  1.0000
+  Ce  Ce2       1.0  0.50000  0.92548  0.50043  1.0000
+  Ce  Ce3       1.0  0.50000  0.78699  0.78736  1.0000
+  Ce  Ce4       1.0  0.50000  0.28825  0.28874  1.0000
+  Ce  Ce5       1.0  0.50000  0.28966  0.71030  1.0000
+  Ce  Ce6       1.0  0.50000  0.78795  0.21156  1.0000
+  Al  Al1       1.0  0.00000  0.11528  0.11547  1.0000
+  Al  Al2       1.0  0.00000  0.11502  0.88433  1.0000
+  Al  Al3       1.0  0.00000  0.61504  0.38537  1.0000
+  Ga  Ga1       1.0  0.00000  0.26571  0.49959  1.0000
+  Ga  Ga2       1.0  0.00000  0.76681  0.99984  1.0000
+  Ga  Ga3       1.0  0.00000  0.61788  0.61676  1.0000
+  Ni  Ni1       1.0  0.00000  0.00075  0.66805  1.0000
+  Ni  Ni2       1.0  0.00000  0.49770  0.16773  1.0000
+  Ni  Ni3       1.0  0.00000  0.49759  0.83383  1.0000
+  Ni  Ni4       1.0  0.00000  0.99774  0.33244  1.0000
+  Ni  Ni5       1.0  0.50000  0.00362  0.99986  1.0000
+  Ni  Ni6       1.0  0.50000  0.50170  0.49836  1.0000

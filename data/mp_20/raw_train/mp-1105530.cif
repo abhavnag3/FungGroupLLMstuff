@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K2Zn2B2H8Cl4
+_chemical_formula_sum              "K2 Zn2 B2 H8 Cl4"
+_cell_length_a       6.18539
+_cell_length_b       6.87981
+_cell_length_c       8.04576
+_cell_angle_alpha    78.6406
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.25000  0.50855  0.74623  1.0000
+  K   K2        1.0  0.75000  0.49145  0.25377  1.0000
+  Zn  Zn1       1.0  0.25000  0.97321  0.33809  1.0000
+  Zn  Zn2       1.0  0.75000  0.02679  0.66191  1.0000
+  B   B1        1.0  0.25000  0.19626  0.10174  1.0000
+  B   B2        1.0  0.75000  0.80373  0.89826  1.0000
+  H   H1        1.0  0.25000  0.37129  0.10234  1.0000
+  H   H2        1.0  0.75000  0.62871  0.89766  1.0000
+  H   H3        1.0  0.07935  0.13110  0.17725  1.0000
+  H   H4        1.0  0.57935  0.86890  0.82275  1.0000
+  H   H5        1.0  0.92065  0.86890  0.82275  1.0000
+  H   H6        1.0  0.42064  0.13110  0.17725  1.0000
+  H   H7        1.0  0.25000  0.14073  0.96749  1.0000
+  H   H8        1.0  0.75000  0.85927  0.03251  1.0000
+  Cl  Cl1       1.0  0.25000  0.03787  0.60153  1.0000
+  Cl  Cl2       1.0  0.75000  0.96213  0.39847  1.0000
+  Cl  Cl3       1.0  0.25000  0.64776  0.33578  1.0000
+  Cl  Cl4       1.0  0.75000  0.35224  0.66422  1.0000

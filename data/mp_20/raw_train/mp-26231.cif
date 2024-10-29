@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       LiNiP2O7
+_chemical_formula_sum              "Li1 Ni1 P2 O7"
+_cell_length_a       5.29674
+_cell_length_b       5.29674
+_cell_length_c       4.58207
+_cell_angle_alpha    81.5195
+_cell_angle_beta     81.5195
+_cell_angle_gamma    101.982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.48824  0.51176  0.00000  1.0000
+  Ni  Ni1       1.0  0.11854  0.88146  0.00000  1.0000
+  P   P1        1.0  0.57199  0.00262  0.41932  1.0000
+  P   P2        1.0  0.99738  0.42801  0.58068  1.0000
+  O   O1        1.0  0.42859  0.82667  0.71510  1.0000
+  O   O2        1.0  0.39578  0.10536  0.21178  1.0000
+  O   O3        1.0  0.76208  0.87072  0.24820  1.0000
+  O   O4        1.0  0.12928  0.23792  0.75180  1.0000
+  O   O5        1.0  0.17333  0.57141  0.28490  1.0000
+  O   O6        1.0  0.72764  0.27236  0.50000  1.0000
+  O   O7        1.0  0.89464  0.60422  0.78822  1.0000

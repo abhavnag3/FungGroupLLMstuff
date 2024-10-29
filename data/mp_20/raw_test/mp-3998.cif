@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La2Ta2O8
+_chemical_formula_sum              "La2 Ta2 O8"
+_cell_length_a       7.75278
+_cell_length_b       7.75278
+_cell_length_c       5.66807
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.82448  0.17552  0.16779  1.0000
+  La  La2       1.0  0.17552  0.82448  0.66779  1.0000
+  Ta  Ta1       1.0  0.58463  0.41537  0.21670  1.0000
+  Ta  Ta2       1.0  0.41537  0.58463  0.71670  1.0000
+  O   O1        1.0  0.91147  0.08853  0.75169  1.0000
+  O   O2        1.0  0.08853  0.91147  0.25169  1.0000
+  O   O3        1.0  0.47129  0.52871  0.05597  1.0000
+  O   O4        1.0  0.52871  0.47129  0.55597  1.0000
+  O   O5        1.0  0.69860  0.30140  0.42575  1.0000
+  O   O6        1.0  0.30140  0.69860  0.92575  1.0000
+  O   O7        1.0  0.66360  0.33640  0.94870  1.0000
+  O   O8        1.0  0.33640  0.66360  0.44870  1.0000

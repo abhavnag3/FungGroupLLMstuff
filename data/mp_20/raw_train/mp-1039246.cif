@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg3Cd3
+_chemical_formula_sum              "Mg3 Cd3"
+_cell_length_a       5.49379
+_cell_length_b       5.49379
+_cell_length_c       6.08489
+_cell_angle_alpha    62.5088
+_cell_angle_beta     62.5088
+_cell_angle_gamma    57.5207
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.67360  0.99830  0.00130  1.0000
+  Mg  Mg2       1.0  0.00170  0.32640  0.99870  1.0000
+  Mg  Mg3       1.0  0.49193  0.50807  0.50000  1.0000
+  Cd  Cd1       1.0  0.33917  0.66083  0.00000  1.0000
+  Cd  Cd2       1.0  0.16253  0.16894  0.50461  1.0000
+  Cd  Cd3       1.0  0.83106  0.83747  0.49539  1.0000

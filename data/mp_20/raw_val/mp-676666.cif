@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rb4Ce2O6
+_chemical_formula_sum              "Rb4 Ce2 O6"
+_cell_length_a       6.42547
+_cell_length_b       6.42547
+_cell_length_c       6.93884
+_cell_angle_alpha    80.9676
+_cell_angle_beta     80.9676
+_cell_angle_gamma    119.85
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Rb  Rb2       1.0  0.50000  0.50000  0.50000  1.0000
+  Rb  Rb3       1.0  0.65702  0.34298  0.00000  1.0000
+  Rb  Rb4       1.0  0.34298  0.65702  0.00000  1.0000
+  Ce  Ce1       1.0  0.16699  0.83301  0.50000  1.0000
+  Ce  Ce2       1.0  0.83301  0.16699  0.50000  1.0000
+  O   O1        1.0  0.16528  0.16528  0.31668  1.0000
+  O   O2        1.0  0.96113  0.56277  0.31383  1.0000
+  O   O3        1.0  0.56277  0.96113  0.31383  1.0000
+  O   O4        1.0  0.43723  0.03887  0.68617  1.0000
+  O   O5        1.0  0.03887  0.43723  0.68617  1.0000
+  O   O6        1.0  0.83472  0.83472  0.68332  1.0000

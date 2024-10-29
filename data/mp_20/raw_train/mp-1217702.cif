@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tb4Mg2S8
+_chemical_formula_sum              "Tb4 Mg2 S8"
+_cell_length_a       6.54672
+_cell_length_b       6.54672
+_cell_length_c       12.9186
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.38155  0.61845  0.78372  1.0000
+  Tb  Tb2       1.0  0.61845  0.38155  0.28372  1.0000
+  Tb  Tb3       1.0  0.13751  0.86249  0.58224  1.0000
+  Tb  Tb4       1.0  0.86249  0.13751  0.08224  1.0000
+  Mg  Mg1       1.0  0.12590  0.87409  0.94608  1.0000
+  Mg  Mg2       1.0  0.87409  0.12590  0.44608  1.0000
+  S   S1        1.0  0.78981  0.21019  0.63476  1.0000
+  S   S2        1.0  0.21019  0.78981  0.13476  1.0000
+  S   S3        1.0  0.48935  0.51065  0.99691  1.0000
+  S   S4        1.0  0.51065  0.48935  0.49691  1.0000
+  S   S5        1.0  0.76184  0.23816  0.89527  1.0000
+  S   S6        1.0  0.23816  0.76184  0.39527  1.0000
+  S   S7        1.0  0.03716  0.96284  0.76902  1.0000
+  S   S8        1.0  0.96284  0.03716  0.26902  1.0000

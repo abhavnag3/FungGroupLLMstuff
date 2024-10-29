@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na6As2O8
+_chemical_formula_sum              "Na6 As2 O8"
+_cell_length_a       5.66793
+_cell_length_b       6.07131
+_cell_length_c       7.12791
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.49504  0.15797  0.00000  1.0000
+  Na  Na2       1.0  0.99560  0.32595  0.24842  1.0000
+  Na  Na3       1.0  0.49560  0.67405  0.25158  1.0000
+  Na  Na4       1.0  0.99504  0.84203  0.50000  1.0000
+  Na  Na5       1.0  0.49560  0.67405  0.74842  1.0000
+  Na  Na6       1.0  0.99560  0.32595  0.75158  1.0000
+  As  As1       1.0  0.00157  0.82854  0.00000  1.0000
+  As  As2       1.0  0.50157  0.17146  0.50000  1.0000
+  O   O1        1.0  0.90427  0.09893  0.00000  1.0000
+  O   O2        1.0  0.30597  0.82306  0.00000  1.0000
+  O   O3        1.0  0.40112  0.30593  0.30112  1.0000
+  O   O4        1.0  0.90111  0.69407  0.19888  1.0000
+  O   O5        1.0  0.80597  0.17694  0.50000  1.0000
+  O   O6        1.0  0.40427  0.90107  0.50000  1.0000
+  O   O7        1.0  0.90111  0.69407  0.80112  1.0000
+  O   O8        1.0  0.40112  0.30593  0.69888  1.0000

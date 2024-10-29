@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rb2Au2Br8
+_chemical_formula_sum              "Rb2 Au2 Br8"
+_cell_length_a       6.37477
+_cell_length_b       7.68337
+_cell_length_c       10.9319
+_cell_angle_alpha    57.3396
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.00000  0.50000  0.50000  1.0000
+  Rb  Rb2       1.0  0.50000  0.50000  0.00000  1.0000
+  Au  Au1       1.0  0.50000  0.00000  0.50000  1.0000
+  Au  Au2       1.0  0.00000  0.00000  0.00000  1.0000
+  Br  Br1       1.0  0.21860  0.96136  0.67012  1.0000
+  Br  Br2       1.0  0.71860  0.03864  0.82988  1.0000
+  Br  Br3       1.0  0.78140  0.03864  0.32988  1.0000
+  Br  Br4       1.0  0.28140  0.96136  0.17012  1.0000
+  Br  Br5       1.0  0.98496  0.61974  0.12148  1.0000
+  Br  Br6       1.0  0.48496  0.38026  0.37853  1.0000
+  Br  Br7       1.0  0.01504  0.38026  0.87853  1.0000
+  Br  Br8       1.0  0.51504  0.61974  0.62147  1.0000

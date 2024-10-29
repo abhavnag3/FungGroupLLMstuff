@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca3Al7Cu2
+_chemical_formula_sum              "Ca3 Al7 Cu2"
+_cell_length_a       9.18298
+_cell_length_b       9.18298
+_cell_length_c       9.18298
+_cell_angle_alpha    35.3704
+_cell_angle_beta     35.3704
+_cell_angle_gamma    35.3704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca2       1.0  0.14296  0.14296  0.14296  1.0000
+  Ca  Ca3       1.0  0.85704  0.85704  0.85704  1.0000
+  Al  Al1       1.0  0.50000  0.50000  0.50000  1.0000
+  Al  Al2       1.0  0.07305  0.57952  0.57952  1.0000
+  Al  Al3       1.0  0.57952  0.57952  0.07305  1.0000
+  Al  Al4       1.0  0.57952  0.07305  0.57952  1.0000
+  Al  Al5       1.0  0.42048  0.92695  0.42048  1.0000
+  Al  Al6       1.0  0.92695  0.42048  0.42048  1.0000
+  Al  Al7       1.0  0.42048  0.42048  0.92695  1.0000
+  Cu  Cu1       1.0  0.33501  0.33501  0.33501  1.0000
+  Cu  Cu2       1.0  0.66499  0.66499  0.66499  1.0000

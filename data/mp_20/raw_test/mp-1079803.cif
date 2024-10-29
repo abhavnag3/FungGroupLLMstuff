@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Th2B4Os4
+_chemical_formula_sum              "Th2 B4 Os4"
+_cell_length_a       6.83738
+_cell_length_b       6.06893
+_cell_length_c       5.63167
+_cell_angle_alpha    71.4045
+_cell_angle_beta     57.2746
+_cell_angle_gamma    51.3209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.00000  0.00000  0.00000  1.0000
+  Th  Th2       1.0  0.25000  0.25000  0.25000  1.0000
+  B   B1        1.0  0.31642  0.68358  0.31642  1.0000
+  B   B2        1.0  0.68358  0.31642  0.68358  1.0000
+  B   B3        1.0  0.56642  0.93358  0.56642  1.0000
+  B   B4        1.0  0.93358  0.56642  0.93358  1.0000
+  Os  Os1       1.0  0.63701  0.63701  0.36299  1.0000
+  Os  Os2       1.0  0.36299  0.36299  0.63701  1.0000
+  Os  Os3       1.0  0.61299  0.61299  0.88701  1.0000
+  Os  Os4       1.0  0.88701  0.88701  0.61299  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CaMgP2Se6
+_chemical_formula_sum              "Ca1 Mg1 P2 Se6"
+_cell_length_a       8.19329
+_cell_length_b       8.19329
+_cell_length_c       8.19329
+_cell_angle_alpha    47.7934
+_cell_angle_beta     47.7934
+_cell_angle_gamma    47.7934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.83156  0.83156  0.83156  1.0000
+  Mg  Mg1       1.0  0.16830  0.16830  0.16830  1.0000
+  P   P1        1.0  0.55194  0.55194  0.55194  1.0000
+  P   P2        1.0  0.44761  0.44761  0.44761  1.0000
+  Se  Se1       1.0  0.91337  0.27603  0.55712  1.0000
+  Se  Se2       1.0  0.55712  0.91337  0.27603  1.0000
+  Se  Se3       1.0  0.27603  0.55712  0.91337  1.0000
+  Se  Se4       1.0  0.11739  0.75451  0.38217  1.0000
+  Se  Se5       1.0  0.38217  0.11739  0.75451  1.0000
+  Se  Se6       1.0  0.75451  0.38217  0.11739  1.0000

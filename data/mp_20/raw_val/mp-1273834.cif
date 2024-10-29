@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li2Co4O8
+_chemical_formula_sum              "Li2 Co4 O8"
+_cell_length_a       4.88143
+_cell_length_b       5.77984
+_cell_length_c       5.93906
+_cell_angle_alpha    60.8816
+_cell_angle_beta     105.634
+_cell_angle_gamma    89.9997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.02137  0.50042  0.00278  1.0000
+  Li  Li2       1.0  0.97863  0.00319  0.99722  1.0000
+  Co  Co1       1.0  0.50000  0.24951  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.74431  0.50000  1.0000
+  Co  Co3       1.0  1.00000  0.00396  0.50000  1.0000
+  Co  Co4       1.0  1.00000  0.49821  0.50000  1.0000
+  O   O1        1.0  0.74580  0.90888  0.70806  1.0000
+  O   O2        1.0  0.73973  0.37878  0.70948  1.0000
+  O   O3        1.0  0.25420  0.11695  0.29194  1.0000
+  O   O4        1.0  0.26026  0.58827  0.29052  1.0000
+  O   O5        1.0  0.77232  0.34603  0.30551  1.0000
+  O   O6        1.0  0.77889  0.85451  0.30093  1.0000
+  O   O7        1.0  0.22768  0.15153  0.69449  1.0000
+  O   O8        1.0  0.22111  0.65543  0.69907  1.0000

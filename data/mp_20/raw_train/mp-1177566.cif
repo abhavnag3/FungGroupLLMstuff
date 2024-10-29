@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li3Ti2NbO6
+_chemical_formula_sum              "Li3 Ti2 Nb1 O6"
+_cell_length_a       6.79469
+_cell_length_b       6.79469
+_cell_length_c       6.10248
+_cell_angle_alpha    73.4032
+_cell_angle_beta     73.4032
+_cell_angle_gamma    24.9155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50000  0.50000  0.50000  1.0000
+  Li  Li2       1.0  0.16850  0.16850  0.17575  1.0000
+  Li  Li3       1.0  0.83150  0.83150  0.82425  1.0000
+  Ti  Ti1       1.0  0.15848  0.15848  0.68168  1.0000
+  Ti  Ti2       1.0  0.84152  0.84152  0.31832  1.0000
+  Nb  Nb1       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.67150  0.67150  0.90600  1.0000
+  O   O2        1.0  0.32506  0.32506  0.56268  1.0000
+  O   O3        1.0  0.32850  0.32850  0.09399  1.0000
+  O   O4        1.0  0.00093  0.00093  0.26416  1.0000
+  O   O5        1.0  0.99907  0.99907  0.73584  1.0000
+  O   O6        1.0  0.67494  0.67494  0.43732  1.0000

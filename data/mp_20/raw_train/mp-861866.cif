@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Nd2Ge2S8
+_chemical_formula_sum              "K2 Nd2 Ge2 S8"
+_cell_length_a       6.77693
+_cell_length_b       6.66957
+_cell_length_c       8.79097
+_cell_angle_alpha    72.7646
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.98901  0.72965  0.56644  1.0000
+  K   K2        1.0  0.48901  0.27035  0.43356  1.0000
+  Nd  Nd1       1.0  0.50499  0.22794  0.94819  1.0000
+  Nd  Nd2       1.0  0.00498  0.77206  0.05181  1.0000
+  Ge  Ge1       1.0  0.47335  0.77701  0.82033  1.0000
+  Ge  Ge2       1.0  0.97335  0.22299  0.17967  1.0000
+  S   S1        1.0  0.47138  0.57585  0.66233  1.0000
+  S   S2        1.0  0.23573  0.02071  0.77450  1.0000
+  S   S3        1.0  0.74281  0.97883  0.79087  1.0000
+  S   S4        1.0  0.91572  0.42079  0.92993  1.0000
+  S   S5        1.0  0.41572  0.57921  0.07007  1.0000
+  S   S6        1.0  0.24281  0.02117  0.20913  1.0000
+  S   S7        1.0  0.73573  0.97929  0.22550  1.0000
+  S   S8        1.0  0.97138  0.42415  0.33767  1.0000

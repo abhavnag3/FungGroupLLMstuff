@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       KLaNb4O12
+_chemical_formula_sum              "K1 La1 Nb4 O12"
+_cell_length_a       5.68547
+_cell_length_b       5.68547
+_cell_length_c       7.98295
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    91.6663
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.99556  0.00444  0.50000  1.0000
+  La  La1       1.0  0.48653  0.51347  0.00000  1.0000
+  Nb  Nb1       1.0  0.48886  0.01631  0.25228  1.0000
+  Nb  Nb2       1.0  0.48886  0.01631  0.74772  1.0000
+  Nb  Nb3       1.0  0.98369  0.51114  0.74772  1.0000
+  Nb  Nb4       1.0  0.98369  0.51114  0.25228  1.0000
+  O   O1        1.0  0.27857  0.26867  0.23625  1.0000
+  O   O2        1.0  0.73133  0.72143  0.23625  1.0000
+  O   O3        1.0  0.73133  0.72143  0.76375  1.0000
+  O   O4        1.0  0.27857  0.26867  0.76375  1.0000
+  O   O5        1.0  0.25219  0.74781  0.21399  1.0000
+  O   O6        1.0  0.76924  0.23076  0.26294  1.0000
+  O   O7        1.0  0.76924  0.23076  0.73706  1.0000
+  O   O8        1.0  0.25219  0.74781  0.78601  1.0000
+  O   O9        1.0  0.52802  0.02569  0.00000  1.0000
+  O   O10       1.0  0.47995  0.98014  0.50000  1.0000
+  O   O11       1.0  0.97431  0.47198  0.00000  1.0000
+  O   O12       1.0  0.01986  0.52005  0.50000  1.0000

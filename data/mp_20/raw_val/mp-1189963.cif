@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Lu6Tl10
+_chemical_formula_sum              "Lu6 Tl10"
+_cell_length_a       6.42913
+_cell_length_b       6.42913
+_cell_length_c       10.6502
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    104.754
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.60490  0.60490  0.25000  1.0000
+  Lu  Lu2       1.0  0.39510  0.39510  0.75000  1.0000
+  Lu  Lu3       1.0  0.78903  0.21097  0.50000  1.0000
+  Lu  Lu4       1.0  0.78903  0.21097  0.00000  1.0000
+  Lu  Lu5       1.0  0.21097  0.78903  0.50000  1.0000
+  Lu  Lu6       1.0  0.21097  0.78903  0.00000  1.0000
+  Tl  Tl1       1.0  0.99775  0.99775  0.25000  1.0000
+  Tl  Tl2       1.0  0.00225  0.00225  0.75000  1.0000
+  Tl  Tl3       1.0  0.29602  0.29602  0.03853  1.0000
+  Tl  Tl4       1.0  0.70398  0.70398  0.96147  1.0000
+  Tl  Tl5       1.0  0.29602  0.29602  0.46147  1.0000
+  Tl  Tl6       1.0  0.70398  0.70398  0.53853  1.0000
+  Tl  Tl7       1.0  0.05851  0.51556  0.25000  1.0000
+  Tl  Tl8       1.0  0.48444  0.94149  0.75000  1.0000
+  Tl  Tl9       1.0  0.94149  0.48444  0.75000  1.0000
+  Tl  Tl10      1.0  0.51556  0.05851  0.25000  1.0000

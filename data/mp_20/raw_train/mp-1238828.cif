@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       TiCrCuS4
+_chemical_formula_sum              "Ti1 Cr1 Cu1 S4"
+_cell_length_a       6.64981
+_cell_length_b       6.64981
+_cell_length_c       5.91428
+_cell_angle_alpha    64.3427
+_cell_angle_beta     64.3427
+_cell_angle_gamma    29.9746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.24450  0.24450  0.78640  1.0000
+  Cr  Cr1       1.0  0.75618  0.75618  0.22295  1.0000
+  Cu  Cu1       1.0  0.49782  0.49782  0.50395  1.0000
+  S   S1        1.0  0.38067  0.38067  0.95469  1.0000
+  S   S2        1.0  0.61828  0.61828  0.04984  1.0000
+  S   S3        1.0  0.86323  0.86323  0.46915  1.0000
+  S   S4        1.0  0.13932  0.13932  0.51302  1.0000

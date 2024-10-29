@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li2Cu4F12
+_chemical_formula_sum              "Li2 Cu4 F12"
+_cell_length_a       4.67194
+_cell_length_b       4.67194
+_cell_length_c       9.06661
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50000  0.50000  0.00000  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu1       1.0  0.50000  0.50000  0.66869  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.33131  1.0000
+  Cu  Cu3       1.0  0.00000  0.00000  0.83131  1.0000
+  Cu  Cu4       1.0  0.00000  0.00000  0.16869  1.0000
+  F   F1        1.0  0.68972  0.31028  0.50000  1.0000
+  F   F2        1.0  0.69764  0.30236  0.82852  1.0000
+  F   F3        1.0  0.69764  0.30236  0.17148  1.0000
+  F   F4        1.0  0.80236  0.80236  0.67148  1.0000
+  F   F5        1.0  0.80236  0.80236  0.32852  1.0000
+  F   F6        1.0  0.81028  0.81028  0.00000  1.0000
+  F   F7        1.0  0.18972  0.18972  0.00000  1.0000
+  F   F8        1.0  0.19764  0.19764  0.67148  1.0000
+  F   F9        1.0  0.19764  0.19764  0.32852  1.0000
+  F   F10       1.0  0.30236  0.69764  0.17148  1.0000
+  F   F11       1.0  0.30236  0.69764  0.82852  1.0000
+  F   F12       1.0  0.31028  0.68972  0.50000  1.0000

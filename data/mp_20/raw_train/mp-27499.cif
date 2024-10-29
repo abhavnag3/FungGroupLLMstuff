@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Te4S12
+_chemical_formula_sum              "Ba4 Te4 S12"
+_cell_length_a       7.00728
+_cell_length_b       7.49535
+_cell_length_c       11.2103
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.25708  0.41369  1.0000
+  Ba  Ba2       1.0  0.75000  0.74292  0.58631  1.0000
+  Ba  Ba3       1.0  0.25000  0.75708  0.08631  1.0000
+  Ba  Ba4       1.0  0.75000  0.24292  0.91369  1.0000
+  Te  Te1       1.0  0.25000  0.52521  0.75507  1.0000
+  Te  Te2       1.0  0.75000  0.47479  0.24493  1.0000
+  Te  Te3       1.0  0.25000  0.02521  0.74493  1.0000
+  Te  Te4       1.0  0.75000  0.97479  0.25507  1.0000
+  S   S1        1.0  0.01236  0.62379  0.34020  1.0000
+  S   S2        1.0  0.51236  0.37621  0.65980  1.0000
+  S   S3        1.0  0.48764  0.12379  0.15980  1.0000
+  S   S4        1.0  0.98764  0.87621  0.84020  1.0000
+  S   S5        1.0  0.98764  0.37621  0.65980  1.0000
+  S   S6        1.0  0.48764  0.62379  0.34020  1.0000
+  S   S7        1.0  0.51236  0.87621  0.84020  1.0000
+  S   S8        1.0  0.01236  0.12379  0.15980  1.0000
+  S   S9        1.0  0.75000  0.12819  0.44209  1.0000
+  S   S10       1.0  0.25000  0.87181  0.55791  1.0000
+  S   S11       1.0  0.75000  0.62819  0.05791  1.0000
+  S   S12       1.0  0.25000  0.37181  0.94209  1.0000

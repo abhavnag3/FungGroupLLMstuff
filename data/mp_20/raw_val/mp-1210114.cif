@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       NaEuMo2O8
+_chemical_formula_sum              "Na1 Eu1 Mo2 O8"
+_cell_length_a       6.93984
+_cell_length_b       6.93984
+_cell_length_c       6.93984
+_cell_angle_alpha    134.683
+_cell_angle_beta     134.683
+_cell_angle_gamma    66.0236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50000  0.50000  0.00000  1.0000
+  Eu  Eu1       1.0  0.75000  0.25000  0.50000  1.0000
+  Mo  Mo1       1.0  0.25000  0.75000  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.84595  0.23219  0.90550  1.0000
+  O   O2        1.0  0.32669  0.94045  0.09450  1.0000
+  O   O3        1.0  0.76781  0.67331  0.61376  1.0000
+  O   O4        1.0  0.05955  0.15405  0.38624  1.0000
+  O   O5        1.0  0.17489  0.59447  0.10397  1.0000
+  O   O6        1.0  0.49051  0.07092  0.89603  1.0000
+  O   O7        1.0  0.40553  0.50949  0.58041  1.0000
+  O   O8        1.0  0.92908  0.82511  0.41959  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ba3Cr2O8
+_chemical_formula_sum              "Ba3 Cr2 O8"
+_cell_length_a       7.96299
+_cell_length_b       7.98083
+_cell_length_c       7.98117
+_cell_angle_alpha    42.9572
+_cell_angle_beta     43.0083
+_cell_angle_gamma    43.0138
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.79307  0.79356  0.79453  1.0000
+  Ba  Ba2       1.0  0.20695  0.20549  0.20643  1.0000
+  Ba  Ba3       1.0  0.99980  0.00452  0.99568  1.0000
+  Cr  Cr1       1.0  0.59310  0.59417  0.59185  1.0000
+  Cr  Cr2       1.0  0.40685  0.40826  0.40577  1.0000
+  O   O1        1.0  0.67496  0.66295  0.67770  1.0000
+  O   O2        1.0  0.32564  0.32177  0.33698  1.0000
+  O   O3        1.0  0.27138  0.27255  0.75615  1.0000
+  O   O4        1.0  0.27787  0.75633  0.27096  1.0000
+  O   O5        1.0  0.75632  0.27779  0.27012  1.0000
+  O   O6        1.0  0.72834  0.24383  0.72773  1.0000
+  O   O7        1.0  0.72200  0.72918  0.24378  1.0000
+  O   O8        1.0  0.24374  0.72960  0.72232  1.0000

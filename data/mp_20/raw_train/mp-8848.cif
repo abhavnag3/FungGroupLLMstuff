@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ta2Fe2Te6
+_chemical_formula_sum              "Ta2 Fe2 Te6"
+_cell_length_a       3.53794
+_cell_length_b       8.06544
+_cell_length_c       10.3899
+_cell_angle_alpha    69.0249
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.75000  0.96993  0.70413  1.0000
+  Ta  Ta2       1.0  0.25000  0.03007  0.29587  1.0000
+  Fe  Fe1       1.0  0.25000  0.97823  0.91263  1.0000
+  Fe  Fe2       1.0  0.75000  0.02177  0.08737  1.0000
+  Te  Te1       1.0  0.25000  0.20009  0.50294  1.0000
+  Te  Te2       1.0  0.75000  0.79991  0.49706  1.0000
+  Te  Te3       1.0  0.25000  0.77105  0.17323  1.0000
+  Te  Te4       1.0  0.75000  0.22895  0.82677  1.0000
+  Te  Te5       1.0  0.75000  0.29874  0.16012  1.0000
+  Te  Te6       1.0  0.25000  0.70126  0.83988  1.0000

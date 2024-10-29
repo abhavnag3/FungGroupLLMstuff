@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Rb2Pb2Cl6
+_chemical_formula_sum              "Rb2 Pb2 Cl6"
+_cell_length_a       7.54561
+_cell_length_b       7.54561
+_cell_length_c       10.7537
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.619
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.74781  0.25219  0.75000  1.0000
+  Rb  Rb2       1.0  0.25219  0.74781  0.25000  1.0000
+  Pb  Pb1       1.0  0.00000  0.00000  0.50000  1.0000
+  Pb  Pb2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.63250  0.36750  0.44393  1.0000
+  Cl  Cl2       1.0  0.36750  0.63250  0.94393  1.0000
+  Cl  Cl3       1.0  0.63250  0.36750  0.05607  1.0000
+  Cl  Cl4       1.0  0.36750  0.63250  0.55607  1.0000
+  Cl  Cl5       1.0  0.07491  0.92509  0.75000  1.0000
+  Cl  Cl6       1.0  0.92509  0.07491  0.25000  1.0000

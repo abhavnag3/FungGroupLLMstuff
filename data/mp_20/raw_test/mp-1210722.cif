@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Mg2Te2Mo2O12
+_chemical_formula_sum              "Mg2 Te2 Mo2 O12"
+_cell_length_a       5.08878
+_cell_length_b       5.36432
+_cell_length_c       9.27286
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00000  0.50000  0.03194  1.0000
+  Mg  Mg2       1.0  0.50000  0.00000  0.96806  1.0000
+  Te  Te1       1.0  0.00000  0.00000  0.23620  1.0000
+  Te  Te2       1.0  0.50000  0.50000  0.76380  1.0000
+  Mo  Mo1       1.0  0.00000  0.00000  0.69654  1.0000
+  Mo  Mo2       1.0  0.50000  0.50000  0.30346  1.0000
+  O   O1        1.0  0.23589  0.67657  0.20202  1.0000
+  O   O2        1.0  0.76411  0.32343  0.20202  1.0000
+  O   O3        1.0  0.26411  0.17657  0.79798  1.0000
+  O   O4        1.0  0.73589  0.82343  0.79798  1.0000
+  O   O5        1.0  0.22020  0.17116  0.10128  1.0000
+  O   O6        1.0  0.77980  0.82884  0.10128  1.0000
+  O   O7        1.0  0.27980  0.67116  0.89872  1.0000
+  O   O8        1.0  0.72020  0.32884  0.89872  1.0000
+  O   O9        1.0  0.34119  0.28973  0.41586  1.0000
+  O   O10       1.0  0.65881  0.71027  0.41586  1.0000
+  O   O11       1.0  0.15881  0.78973  0.58414  1.0000
+  O   O12       1.0  0.84119  0.21027  0.58414  1.0000

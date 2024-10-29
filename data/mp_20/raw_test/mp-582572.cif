@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er4Ni4Ge8
+_chemical_formula_sum              "Er4 Ni4 Ge8"
+_cell_length_a       9.26389
+_cell_length_b       9.26389
+_cell_length_c       9.26389
+_cell_angle_alpha    154.142
+_cell_angle_beta     125.36
+_cell_angle_gamma    61.407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.70401  0.20401  0.50000  1.0000
+  Er  Er2       1.0  0.29599  0.79599  0.50000  1.0000
+  Er  Er3       1.0  0.25976  0.00000  0.25976  1.0000
+  Er  Er4       1.0  0.74024  0.00000  0.74024  1.0000
+  Ni  Ni1       1.0  0.60129  0.35231  0.24898  1.0000
+  Ni  Ni2       1.0  0.10334  0.35231  0.75102  1.0000
+  Ni  Ni3       1.0  0.89666  0.64768  0.24898  1.0000
+  Ni  Ni4       1.0  0.39871  0.64768  0.75102  1.0000
+  Ge  Ge1       1.0  0.96137  0.80388  0.15748  1.0000
+  Ge  Ge2       1.0  0.35360  0.19612  0.15748  1.0000
+  Ge  Ge3       1.0  0.92042  0.42042  0.50000  1.0000
+  Ge  Ge4       1.0  0.57704  0.57704  0.00000  1.0000
+  Ge  Ge5       1.0  0.07958  0.57958  0.50000  1.0000
+  Ge  Ge6       1.0  0.03863  0.19612  0.84252  1.0000
+  Ge  Ge7       1.0  0.64640  0.80388  0.84252  1.0000
+  Ge  Ge8       1.0  0.42296  0.42296  0.00000  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Nb2Tl2Te2O12
+_chemical_formula_sum              "Nb2 Tl2 Te2 O12"
+_cell_length_a       7.38632
+_cell_length_b       7.38632
+_cell_length_c       7.38632
+_cell_angle_alpha    120.526
+_cell_angle_beta     118.615
+_cell_angle_gamma    90.7534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.99016  0.01015  0.48000  1.0000
+  Nb  Nb2       1.0  0.46985  0.98985  0.98000  1.0000
+  Tl  Tl1       1.0  0.78890  0.60581  0.68309  1.0000
+  Tl  Tl2       1.0  0.07729  0.39420  0.18309  1.0000
+  Te  Te1       1.0  0.50304  0.50000  0.00304  1.0000
+  Te  Te2       1.0  0.50304  0.00000  0.50304  1.0000
+  O   O1        1.0  0.57842  0.32278  0.75565  1.0000
+  O   O2        1.0  0.18114  0.93296  0.74818  1.0000
+  O   O3        1.0  0.19626  0.32351  0.76525  1.0000
+  O   O4        1.0  0.56520  0.93167  0.74252  1.0000
+  O   O5        1.0  0.19626  0.93101  0.37275  1.0000
+  O   O6        1.0  0.56520  0.32268  0.13352  1.0000
+  O   O7        1.0  0.43287  0.67722  0.25565  1.0000
+  O   O8        1.0  0.81521  0.06704  0.24818  1.0000
+  O   O9        1.0  0.81084  0.67732  0.24252  1.0000
+  O   O10       1.0  0.44175  0.06899  0.26525  1.0000
+  O   O11       1.0  0.81084  0.06833  0.63352  1.0000
+  O   O12       1.0  0.44175  0.67649  0.87275  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf4Nb4P4
+_chemical_formula_sum              "Hf4 Nb4 P4"
+_cell_length_a       3.54088
+_cell_length_b       6.88863
+_cell_length_c       8.32185
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.25000  0.03296  0.66780  1.0000
+  Hf  Hf2       1.0  0.25000  0.53296  0.83220  1.0000
+  Hf  Hf3       1.0  0.75000  0.46704  0.16780  1.0000
+  Hf  Hf4       1.0  0.75000  0.96704  0.33220  1.0000
+  Nb  Nb1       1.0  0.75000  0.85833  0.93972  1.0000
+  Nb  Nb2       1.0  0.25000  0.64167  0.43972  1.0000
+  Nb  Nb3       1.0  0.75000  0.35833  0.56028  1.0000
+  Nb  Nb4       1.0  0.25000  0.14167  0.06028  1.0000
+  P   P1        1.0  0.25000  0.26251  0.35585  1.0000
+  P   P2        1.0  0.25000  0.76251  0.14415  1.0000
+  P   P3        1.0  0.75000  0.73749  0.64415  1.0000
+  P   P4        1.0  0.75000  0.23749  0.85585  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li4Ca4P4
+_chemical_formula_sum              "Li4 Ca4 P4"
+_cell_length_a       4.1698
+_cell_length_b       7.07084
+_cell_length_c       7.87538
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000  0.63953  0.56179  1.0000
+  Li  Li2       1.0  0.75000  0.36046  0.43821  1.0000
+  Li  Li3       1.0  0.75000  0.86047  0.06179  1.0000
+  Li  Li4       1.0  0.25000  0.13953  0.93821  1.0000
+  Ca  Ca1       1.0  0.25000  0.52185  0.19037  1.0000
+  Ca  Ca2       1.0  0.75000  0.47815  0.80963  1.0000
+  Ca  Ca3       1.0  0.75000  0.97815  0.69037  1.0000
+  Ca  Ca4       1.0  0.25000  0.02185  0.30963  1.0000
+  P   P1        1.0  0.25000  0.76662  0.89009  1.0000
+  P   P2        1.0  0.75000  0.23339  0.10991  1.0000
+  P   P3        1.0  0.75000  0.73338  0.39009  1.0000
+  P   P4        1.0  0.25000  0.26661  0.60991  1.0000

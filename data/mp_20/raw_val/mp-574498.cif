@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cs6Bi4
+_chemical_formula_sum              "Cs6 Bi4"
+_cell_length_a       7.37473
+_cell_length_b       7.37473
+_cell_length_c       10.3173
+_cell_angle_alpha    80.0478
+_cell_angle_beta     80.0478
+_cell_angle_gamma    91.8755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.83980  0.16020  0.75000  1.0000
+  Cs  Cs2       1.0  0.75909  0.66348  0.01539  1.0000
+  Cs  Cs3       1.0  0.16020  0.83980  0.25000  1.0000
+  Cs  Cs4       1.0  0.66348  0.75909  0.51539  1.0000
+  Cs  Cs5       1.0  0.33652  0.24091  0.48461  1.0000
+  Cs  Cs6       1.0  0.24091  0.33652  0.98461  1.0000
+  Bi  Bi1       1.0  0.12239  0.68792  0.66085  1.0000
+  Bi  Bi2       1.0  0.87761  0.31208  0.33915  1.0000
+  Bi  Bi3       1.0  0.68792  0.12239  0.16085  1.0000
+  Bi  Bi4       1.0  0.31208  0.87761  0.83915  1.0000

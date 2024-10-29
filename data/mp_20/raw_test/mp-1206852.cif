@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nd2Al2Ge2
+_chemical_formula_sum              "Nd2 Al2 Ge2"
+_cell_length_a       4.27475
+_cell_length_b       4.27475
+_cell_length_c       7.97195
+_cell_angle_alpha    105.552
+_cell_angle_beta     105.552
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.58154  0.58154  0.16308  1.0000
+  Nd  Nd2       1.0  0.83154  0.33154  0.66308  1.0000
+  Al  Al1       1.0  0.16587  0.16587  0.33174  1.0000
+  Al  Al2       1.0  0.41587  0.91587  0.83174  1.0000
+  Ge  Ge1       1.0  0.99959  0.99959  0.99918  1.0000
+  Ge  Ge2       1.0  0.24959  0.74959  0.49918  1.0000

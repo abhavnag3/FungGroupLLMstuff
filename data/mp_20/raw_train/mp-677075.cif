@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Gd4Cd2S8
+_chemical_formula_sum              "Gd4 Cd2 S8"
+_cell_length_a       7.33416
+_cell_length_b       7.33416
+_cell_length_c       7.33416
+_cell_angle_alpha    110.402
+_cell_angle_beta     110.402
+_cell_angle_gamma    107.626
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.01428  0.62500  0.88928  1.0000
+  Gd  Gd2       1.0  0.87500  0.98572  0.61072  1.0000
+  Gd  Gd3       1.0  0.73572  0.12500  0.11072  1.0000
+  Gd  Gd4       1.0  0.37500  0.26428  0.38928  1.0000
+  Cd  Cd1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cd  Cd2       1.0  0.25000  0.75000  0.50000  1.0000
+  S   S1        1.0  0.11520  0.37656  0.12570  1.0000
+  S   S2        1.0  0.12657  0.36520  0.62570  1.0000
+  S   S3        1.0  0.62343  0.74913  0.73864  1.0000
+  S   S4        1.0  0.01049  0.88480  0.26136  1.0000
+  S   S5        1.0  0.73951  0.50087  0.37431  1.0000
+  S   S6        1.0  0.63480  0.26049  0.76136  1.0000
+  S   S7        1.0  0.49913  0.87343  0.23864  1.0000
+  S   S8        1.0  0.25087  0.98951  0.87430  1.0000

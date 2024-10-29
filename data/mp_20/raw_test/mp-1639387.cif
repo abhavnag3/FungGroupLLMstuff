@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       CaCr4Cu3O12
+_chemical_formula_sum              "Ca1 Cr4 Cu3 O12"
+_cell_length_a       6.39525
+_cell_length_b       6.39508
+_cell_length_c       6.38626
+_cell_angle_alpha    70.5561
+_cell_angle_beta     109.447
+_cell_angle_gamma    70.5065
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.99999  0.00001  0.00001  1.0000
+  Cr  Cr1       1.0  0.50003  0.50002  0.49996  1.0000
+  Cr  Cr2       1.0  0.50000  0.99996  0.00002  1.0000
+  Cr  Cr3       1.0  0.00002  0.49998  0.99999  1.0000
+  Cr  Cr4       1.0  0.00001  0.00001  0.50001  1.0000
+  Cu  Cu1       1.0  0.50000  0.00001  0.50000  1.0000
+  Cu  Cu2       1.0  1.00000  0.50000  0.50000  1.0000
+  Cu  Cu3       1.0  0.50000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.17109  0.14112  0.68977  1.0000
+  O   O2        1.0  0.82891  0.85888  0.31023  1.0000
+  O   O3        1.0  0.17017  0.51833  0.31120  1.0000
+  O   O4        1.0  0.31132  0.17032  0.14100  1.0000
+  O   O5        1.0  0.85890  0.31230  0.16905  1.0000
+  O   O6        1.0  0.51843  0.31129  0.82977  1.0000
+  O   O7        1.0  0.68783  0.17104  0.51875  1.0000
+  O   O8        1.0  0.14110  0.68770  0.83095  1.0000
+  O   O9        1.0  0.82982  0.48167  0.68880  1.0000
+  O   O10       1.0  0.68868  0.82968  0.85900  1.0000
+  O   O11       1.0  0.48157  0.68871  0.17023  1.0000
+  O   O12       1.0  0.31216  0.82898  0.48124  1.0000

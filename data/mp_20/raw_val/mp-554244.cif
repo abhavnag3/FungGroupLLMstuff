@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pr4Sn2S10
+_chemical_formula_sum              "Pr4 Sn2 S10"
+_cell_length_a       3.99819
+_cell_length_b       7.91159
+_cell_length_c       11.3551
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.50000  0.43361  0.16964  1.0000
+  Pr  Pr2       1.0  0.50000  0.06639  0.66965  1.0000
+  Pr  Pr3       1.0  0.50000  0.56639  0.83035  1.0000
+  Pr  Pr4       1.0  0.50000  0.93361  0.33036  1.0000
+  Sn  Sn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn2       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.00000  0.34974  0.70158  1.0000
+  S   S2        1.0  0.00000  0.15026  0.20158  1.0000
+  S   S3        1.0  0.00000  0.00000  0.50000  1.0000
+  S   S4        1.0  0.50000  0.81352  0.07462  1.0000
+  S   S5        1.0  0.00000  0.50000  0.00000  1.0000
+  S   S6        1.0  0.00000  0.65026  0.29842  1.0000
+  S   S7        1.0  0.50000  0.31352  0.42539  1.0000
+  S   S8        1.0  0.50000  0.68648  0.57461  1.0000
+  S   S9        1.0  0.50000  0.18648  0.92539  1.0000
+  S   S10       1.0  0.00000  0.84974  0.79842  1.0000

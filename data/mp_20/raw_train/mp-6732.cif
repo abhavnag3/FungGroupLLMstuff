@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La4Mg2Ir2O12
+_chemical_formula_sum              "La4 Mg2 Ir2 O12"
+_cell_length_a       5.71754
+_cell_length_b       5.59841
+_cell_length_c       9.72873
+_cell_angle_alpha    54.9427
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.54856  0.73826  0.75078  1.0000
+  La  La2       1.0  0.04856  0.26174  0.74922  1.0000
+  La  La3       1.0  0.95144  0.73826  0.25078  1.0000
+  La  La4       1.0  0.45144  0.26174  0.24922  1.0000
+  Mg  Mg1       1.0  0.50000  0.50000  0.50000  1.0000
+  Mg  Mg2       1.0  0.00000  0.50000  0.00000  1.0000
+  Ir  Ir1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ir  Ir2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.52292  0.83910  0.24810  1.0000
+  O   O2        1.0  0.02292  0.16090  0.25190  1.0000
+  O   O3        1.0  0.47708  0.16090  0.75190  1.0000
+  O   O4        1.0  0.97708  0.83910  0.74810  1.0000
+  O   O5        1.0  0.79426  0.66121  0.54702  1.0000
+  O   O6        1.0  0.29426  0.33879  0.95298  1.0000
+  O   O7        1.0  0.20574  0.33879  0.45298  1.0000
+  O   O8        1.0  0.70574  0.66121  0.04702  1.0000
+  O   O9        1.0  0.21099  0.75071  0.04718  1.0000
+  O   O10       1.0  0.71100  0.24929  0.45282  1.0000
+  O   O11       1.0  0.78900  0.24929  0.95282  1.0000
+  O   O12       1.0  0.28901  0.75071  0.54718  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       P4Rh4Se4
+_chemical_formula_sum              "P4 Rh4 Se4"
+_cell_length_a       5.86649
+_cell_length_b       5.86649
+_cell_length_c       5.86649
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.88582  0.38582  0.11418  1.0000
+  P   P2        1.0  0.38582  0.11418  0.88582  1.0000
+  P   P3        1.0  0.11418  0.88582  0.38582  1.0000
+  P   P4        1.0  0.61418  0.61418  0.61418  1.0000
+  Rh  Rh1       1.0  0.48589  0.98589  0.51411  1.0000
+  Rh  Rh2       1.0  0.98589  0.51411  0.48589  1.0000
+  Rh  Rh3       1.0  0.51411  0.48589  0.98589  1.0000
+  Rh  Rh4       1.0  0.01411  0.01411  0.01411  1.0000
+  Se  Se1       1.0  0.11569  0.61569  0.88431  1.0000
+  Se  Se2       1.0  0.61569  0.88431  0.11569  1.0000
+  Se  Se3       1.0  0.88431  0.11569  0.61569  1.0000
+  Se  Se4       1.0  0.38431  0.38431  0.38431  1.0000

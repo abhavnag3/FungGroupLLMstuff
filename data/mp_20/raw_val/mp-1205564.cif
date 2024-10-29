@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Er4Ge4Ru2
+_chemical_formula_sum              "Er4 Ge4 Ru2"
+_cell_length_a       5.75236
+_cell_length_b       5.75236
+_cell_length_c       10.1188
+_cell_angle_alpha    64.0752
+_cell_angle_beta     64.0752
+_cell_angle_gamma    43.755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.99864  0.99864  0.32789  1.0000
+  Er  Er2       1.0  0.00136  0.00136  0.67211  1.0000
+  Er  Er3       1.0  0.81580  0.81580  0.10900  1.0000
+  Er  Er4       1.0  0.18420  0.18420  0.89100  1.0000
+  Ge  Ge1       1.0  0.64456  0.64456  0.43206  1.0000
+  Ge  Ge2       1.0  0.35544  0.35544  0.56794  1.0000
+  Ge  Ge3       1.0  0.51235  0.51235  0.12436  1.0000
+  Ge  Ge4       1.0  0.48765  0.48765  0.87564  1.0000
+  Ru  Ru1       1.0  0.72858  0.72858  0.62780  1.0000
+  Ru  Ru2       1.0  0.27142  0.27142  0.37220  1.0000

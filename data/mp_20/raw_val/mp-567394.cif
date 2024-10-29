@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       GaMo4Se8
+_chemical_formula_sum              "Ga1 Mo4 Se8"
+_cell_length_a       7.23971
+_cell_length_b       7.23971
+_cell_length_c       7.23971
+_cell_angle_alpha    60.8196
+_cell_angle_beta     60.8196
+_cell_angle_gamma    60.8196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.99951  0.99951  0.99951  1.0000
+  Mo  Mo1       1.0  0.60074  0.19559  0.60074  1.0000
+  Mo  Mo2       1.0  0.19559  0.60075  0.60074  1.0000
+  Mo  Mo3       1.0  0.59425  0.59425  0.59425  1.0000
+  Mo  Mo4       1.0  0.60074  0.60074  0.19559  1.0000
+  Se  Se1       1.0  0.85968  0.85968  0.40994  1.0000
+  Se  Se2       1.0  0.90686  0.35975  0.35975  1.0000
+  Se  Se3       1.0  0.40994  0.85968  0.85968  1.0000
+  Se  Se4       1.0  0.85968  0.40994  0.85968  1.0000
+  Se  Se5       1.0  0.36441  0.36441  0.36441  1.0000
+  Se  Se6       1.0  0.86048  0.86048  0.86048  1.0000
+  Se  Se7       1.0  0.35975  0.90685  0.35975  1.0000
+  Se  Se8       1.0  0.35975  0.35975  0.90685  1.0000

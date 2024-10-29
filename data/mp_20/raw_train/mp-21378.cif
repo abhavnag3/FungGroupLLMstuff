@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho4Mn4Ge4
+_chemical_formula_sum              "Ho4 Mn4 Ge4"
+_cell_length_a       4.09481
+_cell_length_b       7.04269
+_cell_length_c       7.89818
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.52283  0.18321  1.0000
+  Ho  Ho2       1.0  0.75000  0.47717  0.81679  1.0000
+  Ho  Ho3       1.0  0.25000  0.02283  0.31679  1.0000
+  Ho  Ho4       1.0  0.75000  0.97717  0.68321  1.0000
+  Mn  Mn1       1.0  0.75000  0.36678  0.44396  1.0000
+  Mn  Mn2       1.0  0.25000  0.13322  0.94396  1.0000
+  Mn  Mn3       1.0  0.75000  0.86678  0.05604  1.0000
+  Mn  Mn4       1.0  0.25000  0.63322  0.55604  1.0000
+  Ge  Ge1       1.0  0.25000  0.27479  0.61704  1.0000
+  Ge  Ge2       1.0  0.75000  0.22521  0.11704  1.0000
+  Ge  Ge3       1.0  0.25000  0.77479  0.88296  1.0000
+  Ge  Ge4       1.0  0.75000  0.72521  0.38296  1.0000

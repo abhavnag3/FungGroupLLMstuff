@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti8Ga2C6
+_chemical_formula_sum              "Ti8 Ga2 C6"
+_cell_length_a       3.08718
+_cell_length_b       3.08718
+_cell_length_c       23.2446
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.00000  0.00000  0.34475  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.65525  1.0000
+  Ti  Ti3       1.0  0.00000  0.00000  0.84475  1.0000
+  Ti  Ti4       1.0  0.00000  0.00000  0.15525  1.0000
+  Ti  Ti5       1.0  0.33333  0.66667  0.44832  1.0000
+  Ti  Ti6       1.0  0.66667  0.33333  0.55168  1.0000
+  Ti  Ti7       1.0  0.66667  0.33333  0.94832  1.0000
+  Ti  Ti8       1.0  0.33333  0.66667  0.05168  1.0000
+  Ga  Ga1       1.0  0.33333  0.66667  0.25000  1.0000
+  Ga  Ga2       1.0  0.66667  0.33333  0.75000  1.0000
+  C   C1        1.0  0.00000  0.00000  0.50000  1.0000
+  C   C2        1.0  0.00000  0.00000  0.00000  1.0000
+  C   C3        1.0  0.66667  0.33333  0.39061  1.0000
+  C   C4        1.0  0.33333  0.66667  0.60939  1.0000
+  C   C5        1.0  0.33333  0.66667  0.89061  1.0000
+  C   C6        1.0  0.66667  0.33333  0.10939  1.0000

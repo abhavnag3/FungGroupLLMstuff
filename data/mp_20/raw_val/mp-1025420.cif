@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sm2Si4Ni2
+_chemical_formula_sum              "Sm2 Si4 Ni2"
+_cell_length_a       8.44376
+_cell_length_b       8.44376
+_cell_length_c       4.04615
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.887
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.60621  0.39378  0.25000  1.0000
+  Sm  Sm2       1.0  0.39378  0.60621  0.75000  1.0000
+  Si  Si1       1.0  0.95956  0.04044  0.25000  1.0000
+  Si  Si2       1.0  0.04044  0.95956  0.75000  1.0000
+  Si  Si3       1.0  0.25016  0.74984  0.25000  1.0000
+  Si  Si4       1.0  0.74984  0.25016  0.75000  1.0000
+  Ni  Ni1       1.0  0.81942  0.18058  0.25000  1.0000
+  Ni  Ni2       1.0  0.18058  0.81942  0.75000  1.0000

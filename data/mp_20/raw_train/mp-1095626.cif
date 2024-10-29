@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La4P4Au2O2
+_chemical_formula_sum              "La4 P4 Au2 O2"
+_cell_length_a       8.0355
+_cell_length_b       8.0355
+_cell_length_c       10.1425
+_cell_angle_alpha    51.0008
+_cell_angle_beta     51.0008
+_cell_angle_gamma    30.9857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.86759  0.86759  0.95250  1.0000
+  La  La2       1.0  0.13241  0.13241  0.04750  1.0000
+  La  La3       1.0  0.82667  0.82667  0.61486  1.0000
+  La  La4       1.0  0.17333  0.17333  0.38515  1.0000
+  P   P1        1.0  0.45334  0.45334  0.64193  1.0000
+  P   P2        1.0  0.54666  0.54666  0.35807  1.0000
+  P   P3        1.0  0.85270  0.85270  0.26827  1.0000
+  P   P4        1.0  0.14730  0.14730  0.73173  1.0000
+  Au  Au1       1.0  0.58843  0.58843  0.69863  1.0000
+  Au  Au2       1.0  0.41157  0.41157  0.30137  1.0000
+  O   O1        1.0  0.72261  0.72261  0.92516  1.0000
+  O   O2        1.0  0.27739  0.27739  0.07484  1.0000

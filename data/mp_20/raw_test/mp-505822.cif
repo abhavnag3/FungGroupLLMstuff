@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti4Si4Ru4
+_chemical_formula_sum              "Ti4 Si4 Ru4"
+_cell_length_a       3.95415
+_cell_length_b       6.09911
+_cell_length_c       7.26836
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.75000  0.98027  0.18629  1.0000
+  Ti  Ti2       1.0  0.25000  0.01973  0.81371  1.0000
+  Ti  Ti3       1.0  0.75000  0.48027  0.31371  1.0000
+  Ti  Ti4       1.0  0.25000  0.51973  0.68629  1.0000
+  Si  Si1       1.0  0.75000  0.22414  0.62416  1.0000
+  Si  Si2       1.0  0.25000  0.77586  0.37584  1.0000
+  Si  Si3       1.0  0.75000  0.72414  0.87584  1.0000
+  Si  Si4       1.0  0.25000  0.27586  0.12416  1.0000
+  Ru  Ru1       1.0  0.75000  0.83487  0.55591  1.0000
+  Ru  Ru2       1.0  0.25000  0.16513  0.44409  1.0000
+  Ru  Ru3       1.0  0.75000  0.33487  0.94409  1.0000
+  Ru  Ru4       1.0  0.25000  0.66513  0.05591  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K2U2Cl2O6
+_chemical_formula_sum              "K2 U2 Cl2 O6"
+_cell_length_a       4.11669
+_cell_length_b       7.25846
+_cell_length_c       8.95767
+_cell_angle_alpha    75.2061
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.25000  0.85941  0.75528  1.0000
+  K   K2        1.0  0.75000  0.14059  0.24471  1.0000
+  U   U1        1.0  0.25000  0.61284  0.32731  1.0000
+  U   U2        1.0  0.75000  0.38716  0.67269  1.0000
+  Cl  Cl1       1.0  0.25000  0.22979  0.91026  1.0000
+  Cl  Cl2       1.0  0.75000  0.77021  0.08974  1.0000
+  O   O1        1.0  0.25000  0.45159  0.58348  1.0000
+  O   O2        1.0  0.75000  0.54841  0.41652  1.0000
+  O   O3        1.0  0.25000  0.84849  0.37191  1.0000
+  O   O4        1.0  0.75000  0.15151  0.62809  1.0000
+  O   O5        1.0  0.25000  0.38934  0.26421  1.0000
+  O   O6        1.0  0.75000  0.61066  0.73579  1.0000

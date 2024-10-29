@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GeTe5Pb4
+_chemical_formula_sum              "Ge1 Te5 Pb4"
+_cell_length_a       18.7199
+_cell_length_b       18.7199
+_cell_length_c       18.7199
+_cell_angle_alpha    14.0548
+_cell_angle_beta     14.0548
+_cell_angle_gamma    14.0548
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.69481  0.69481  0.69481  1.0000
+  Te  Te2       1.0  0.50000  0.50000  0.50000  1.0000
+  Te  Te3       1.0  0.09774  0.09774  0.09774  1.0000
+  Te  Te4       1.0  0.30519  0.30519  0.30519  1.0000
+  Te  Te5       1.0  0.90226  0.90226  0.90226  1.0000
+  Pb  Pb1       1.0  0.60355  0.60355  0.60355  1.0000
+  Pb  Pb2       1.0  0.20109  0.20109  0.20109  1.0000
+  Pb  Pb3       1.0  0.79891  0.79891  0.79891  1.0000
+  Pb  Pb4       1.0  0.39645  0.39645  0.39645  1.0000

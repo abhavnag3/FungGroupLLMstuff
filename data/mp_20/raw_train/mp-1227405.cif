@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca4Nd2Ta2O12
+_chemical_formula_sum              "Ca4 Nd2 Ta2 O12"
+_cell_length_a       5.65928
+_cell_length_b       5.93605
+_cell_length_c       8.20816
+_cell_angle_alpha    90
+_cell_angle_beta     90.2161
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.99931  0.99705  0.49954  1.0000
+  Ca  Ca2       1.0  0.49931  0.50295  0.99954  1.0000
+  Ca  Ca3       1.0  0.51402  0.94540  0.24481  1.0000
+  Ca  Ca4       1.0  0.01402  0.55460  0.74481  1.0000
+  Nd  Nd1       1.0  0.48497  0.05665  0.75551  1.0000
+  Nd  Nd2       1.0  0.98498  0.44335  0.25551  1.0000
+  Ta  Ta1       1.0  0.49981  0.50102  0.50136  1.0000
+  Ta  Ta2       1.0  0.99981  0.99898  0.00136  1.0000
+  O   O1        1.0  0.37963  0.55683  0.27075  1.0000
+  O   O2        1.0  0.87963  0.94317  0.77075  1.0000
+  O   O3        1.0  0.61586  0.44246  0.72931  1.0000
+  O   O4        1.0  0.11586  0.05754  0.22931  1.0000
+  O   O5        1.0  0.83204  0.71405  0.07213  1.0000
+  O   O6        1.0  0.33204  0.78595  0.57213  1.0000
+  O   O7        1.0  0.17214  0.28111  0.92859  1.0000
+  O   O8        1.0  0.67214  0.21889  0.42859  1.0000
+  O   O9        1.0  0.79209  0.67501  0.44616  1.0000
+  O   O10       1.0  0.29209  0.82499  0.94616  1.0000
+  O   O11       1.0  0.21012  0.32215  0.55185  1.0000
+  O   O12       1.0  0.71012  0.17785  0.05185  1.0000

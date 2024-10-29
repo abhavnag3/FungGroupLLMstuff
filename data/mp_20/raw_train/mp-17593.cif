@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ta10Ge6
+_chemical_formula_sum              "Ta10 Ge6"
+_cell_length_a       7.67796
+_cell_length_b       7.67796
+_cell_length_c       7.67796
+_cell_angle_alpha    128.498
+_cell_angle_beta     128.498
+_cell_angle_gamma    75.8193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.00620  0.18503  0.50000  1.0000
+  Ta  Ta2       1.0  0.50620  0.00620  0.82117  1.0000
+  Ta  Ta3       1.0  0.18503  0.68503  0.17883  1.0000
+  Ta  Ta4       1.0  0.49380  0.99380  0.17883  1.0000
+  Ta  Ta5       1.0  0.68503  0.50620  0.50000  1.0000
+  Ta  Ta6       1.0  0.99380  0.81497  0.50000  1.0000
+  Ta  Ta7       1.0  0.31497  0.49380  0.50000  1.0000
+  Ta  Ta8       1.0  0.81497  0.31497  0.82117  1.0000
+  Ta  Ta9       1.0  0.50000  0.50000  0.00000  1.0000
+  Ta  Ta10      1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.13636  0.63636  0.77272  1.0000
+  Ge  Ge2       1.0  0.63636  0.86364  0.50000  1.0000
+  Ge  Ge3       1.0  0.36364  0.13636  0.50000  1.0000
+  Ge  Ge4       1.0  0.86364  0.36364  0.22728  1.0000
+  Ge  Ge5       1.0  0.75000  0.75000  0.00000  1.0000
+  Ge  Ge6       1.0  0.25000  0.25000  0.00000  1.0000

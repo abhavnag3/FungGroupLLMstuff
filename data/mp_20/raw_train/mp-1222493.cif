@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Li5Y2Sb4
+_chemical_formula_sum              "Li5 Y2 Sb4"
+_cell_length_a       8.41498
+_cell_length_b       8.41498
+_cell_length_c       7.84824
+_cell_angle_alpha    62.7179
+_cell_angle_beta     62.7179
+_cell_angle_gamma    30.9211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.75921  0.75921  0.22344  1.0000
+  Li  Li2       1.0  0.25723  0.25723  0.76262  1.0000
+  Li  Li3       1.0  0.82675  0.82675  0.50801  1.0000
+  Li  Li4       1.0  0.67253  0.67253  0.99276  1.0000
+  Li  Li5       1.0  0.17540  0.17540  0.49160  1.0000
+  Y   Y1        1.0  0.49692  0.49692  0.50235  1.0000
+  Y   Y2        1.0  0.99891  0.99891  0.00083  1.0000
+  Sb  Sb1       1.0  0.62290  0.62290  0.71037  1.0000
+  Sb  Sb2       1.0  0.12112  0.12112  0.21358  1.0000
+  Sb  Sb3       1.0  0.37338  0.37338  0.28426  1.0000
+  Sb  Sb4       1.0  0.87256  0.87256  0.80032  1.0000

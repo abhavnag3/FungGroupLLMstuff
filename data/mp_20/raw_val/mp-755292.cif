@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cs8Be4O8
+_chemical_formula_sum              "Cs8 Be4 O8"
+_cell_length_a       6.29741
+_cell_length_b       7.98043
+_cell_length_c       11.8925
+_cell_angle_alpha    47.9814
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.93194  0.14641  0.74650  1.0000
+  Cs  Cs2       1.0  0.63922  0.72229  0.12179  1.0000
+  Cs  Cs3       1.0  0.13922  0.27771  0.37821  1.0000
+  Cs  Cs4       1.0  0.43194  0.85359  0.75350  1.0000
+  Cs  Cs5       1.0  0.56806  0.14641  0.24650  1.0000
+  Cs  Cs6       1.0  0.86077  0.72229  0.62179  1.0000
+  Cs  Cs7       1.0  0.36078  0.27771  0.87821  1.0000
+  Cs  Cs8       1.0  0.06806  0.85359  0.25350  1.0000
+  Be  Be1       1.0  0.57436  0.40618  0.47927  1.0000
+  Be  Be2       1.0  0.07436  0.59382  0.02073  1.0000
+  Be  Be3       1.0  0.92564  0.40618  0.97927  1.0000
+  Be  Be4       1.0  0.42564  0.59382  0.52073  1.0000
+  O   O1        1.0  0.37914  0.34143  0.59010  1.0000
+  O   O2        1.0  0.17757  0.72976  0.05278  1.0000
+  O   O3        1.0  0.67757  0.27024  0.44722  1.0000
+  O   O4        1.0  0.87914  0.65857  0.90990  1.0000
+  O   O5        1.0  0.12086  0.34143  0.09010  1.0000
+  O   O6        1.0  0.32243  0.72976  0.55278  1.0000
+  O   O7        1.0  0.82243  0.27024  0.94722  1.0000
+  O   O8        1.0  0.62086  0.65857  0.40990  1.0000

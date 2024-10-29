@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Nd4B16
+_chemical_formula_sum              "Nd4 B16"
+_cell_length_a       7.23842
+_cell_length_b       7.23842
+_cell_length_c       4.11996
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.18285  0.68285  0.00000  1.0000
+  Nd  Nd2       1.0  0.68285  0.81715  0.00000  1.0000
+  Nd  Nd3       1.0  0.31715  0.18285  0.00000  1.0000
+  Nd  Nd4       1.0  0.81715  0.31715  0.00000  1.0000
+  B   B1        1.0  0.91199  0.58801  0.50000  1.0000
+  B   B2        1.0  0.58801  0.08801  0.50000  1.0000
+  B   B3        1.0  0.41199  0.91199  0.50000  1.0000
+  B   B4        1.0  0.08801  0.41199  0.50000  1.0000
+  B   B5        1.0  0.03887  0.17422  0.50000  1.0000
+  B   B6        1.0  0.17422  0.96113  0.50000  1.0000
+  B   B7        1.0  0.82578  0.03887  0.50000  1.0000
+  B   B8        1.0  0.96113  0.82578  0.50000  1.0000
+  B   B9        1.0  0.46113  0.67422  0.50000  1.0000
+  B   B10       1.0  0.53887  0.32578  0.50000  1.0000
+  B   B11       1.0  0.67422  0.53887  0.50000  1.0000
+  B   B12       1.0  0.32578  0.46113  0.50000  1.0000
+  B   B13       1.0  0.00000  0.00000  0.20480  1.0000
+  B   B14       1.0  0.50000  0.50000  0.79520  1.0000
+  B   B15       1.0  0.00000  0.00000  0.79520  1.0000
+  B   B16       1.0  0.50000  0.50000  0.20480  1.0000

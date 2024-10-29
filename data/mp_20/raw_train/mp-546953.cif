@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Co2As2O7
+_chemical_formula_sum              "Co2 As2 O7"
+_cell_length_a       4.90623
+_cell_length_b       5.3483
+_cell_length_c       5.46263
+_cell_angle_alpha    107.042
+_cell_angle_beta     95.9142
+_cell_angle_gamma    97.2636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.50564  0.68735  0.30845  1.0000
+  Co  Co2       1.0  0.49454  0.31487  0.69496  1.0000
+  As  As1       1.0  0.10447  0.75333  0.75446  1.0000
+  As  As2       1.0  0.89539  0.24313  0.24154  1.0000
+  O   O1        1.0  0.29496  0.93734  0.59830  1.0000
+  O   O2        1.0  0.77414  0.58547  0.59415  1.0000
+  O   O3        1.0  0.22186  0.41644  0.40792  1.0000
+  O   O4        1.0  0.00229  0.00071  0.99849  1.0000
+  O   O5        1.0  0.29504  0.59188  0.92688  1.0000
+  O   O6        1.0  0.70432  0.40754  0.07368  1.0000
+  O   O7        1.0  0.70736  0.06194  0.40116  1.0000

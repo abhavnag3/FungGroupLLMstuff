@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HfScGe4
+_chemical_formula_sum              "Hf1 Sc1 Ge4"
+_cell_length_a       7.76919
+_cell_length_b       7.76919
+_cell_length_c       3.80644
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.10444  0.89556  0.00000  1.0000
+  Sc  Sc1       1.0  0.89672  0.10328  0.50000  1.0000
+  Ge  Ge1       1.0  0.44057  0.55943  0.00000  1.0000
+  Ge  Ge2       1.0  0.55952  0.44048  0.50000  1.0000
+  Ge  Ge3       1.0  0.74885  0.25115  0.00000  1.0000
+  Ge  Ge4       1.0  0.24991  0.75009  0.50000  1.0000

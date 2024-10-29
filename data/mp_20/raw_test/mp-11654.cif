@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       B3As3O12
+_chemical_formula_sum              "B3 As3 O12"
+_cell_length_a       4.63713
+_cell_length_b       4.63713
+_cell_length_c       10.5224
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.53675  0.00000  0.33333  1.0000
+  B   B2        1.0  0.00000  0.53675  0.66667  1.0000
+  B   B3        1.0  0.46325  0.46325  0.00000  1.0000
+  As  As1       1.0  0.54100  0.00000  0.83333  1.0000
+  As  As2       1.0  0.45900  0.45900  0.50000  1.0000
+  As  As3       1.0  0.00000  0.54100  0.16667  1.0000
+  O   O1        1.0  0.27392  0.86969  0.70540  1.0000
+  O   O2        1.0  0.69099  0.60550  0.11015  1.0000
+  O   O3        1.0  0.39450  0.08548  0.44348  1.0000
+  O   O4        1.0  0.59577  0.72608  0.37207  1.0000
+  O   O5        1.0  0.86969  0.27392  0.29460  1.0000
+  O   O6        1.0  0.13031  0.40423  0.03873  1.0000
+  O   O7        1.0  0.72608  0.59577  0.62793  1.0000
+  O   O8        1.0  0.40423  0.13031  0.96127  1.0000
+  O   O9        1.0  0.08548  0.39450  0.55652  1.0000
+  O   O10       1.0  0.60550  0.69099  0.88985  1.0000
+  O   O11       1.0  0.30901  0.91452  0.22318  1.0000
+  O   O12       1.0  0.91452  0.30901  0.77682  1.0000

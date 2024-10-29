@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi8Rh4
+_chemical_formula_sum              "Bi8 Rh4"
+_cell_length_a       6.92562
+_cell_length_b       7.02126
+_cell_length_c       7.06389
+_cell_angle_alpha    62.6198
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.35950  0.14620  0.63143  1.0000
+  Bi  Bi2       1.0  0.85950  0.85380  0.86857  1.0000
+  Bi  Bi3       1.0  0.64050  0.85380  0.36856  1.0000
+  Bi  Bi4       1.0  0.14050  0.14620  0.13143  1.0000
+  Bi  Bi5       1.0  0.85574  0.34607  0.33162  1.0000
+  Bi  Bi6       1.0  0.35574  0.65394  0.16838  1.0000
+  Bi  Bi7       1.0  0.14426  0.65394  0.66838  1.0000
+  Bi  Bi8       1.0  0.64426  0.34606  0.83162  1.0000
+  Rh  Rh1       1.0  0.49788  0.27125  0.21623  1.0000
+  Rh  Rh2       1.0  0.99788  0.72876  0.28377  1.0000
+  Rh  Rh3       1.0  0.50212  0.72876  0.78377  1.0000
+  Rh  Rh4       1.0  0.00212  0.27125  0.71623  1.0000

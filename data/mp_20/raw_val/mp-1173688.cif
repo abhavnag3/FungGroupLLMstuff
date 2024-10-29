@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Na4Mo2O8
+_chemical_formula_sum              "Na4 Mo2 O8"
+_cell_length_a       5.8817
+_cell_length_b       6.11419
+_cell_length_c       7.37183
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    118.75
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.31301  0.68630  0.75000  1.0000
+  Na  Na2       1.0  0.03057  0.00000  0.00000  1.0000
+  Na  Na3       1.0  0.03057  0.00000  0.50000  1.0000
+  Na  Na4       1.0  0.62671  0.31370  0.25000  1.0000
+  Mo  Mo1       1.0  0.33649  0.62505  0.25000  1.0000
+  Mo  Mo2       1.0  0.71144  0.37495  0.75000  1.0000
+  O   O1        1.0  0.23797  0.72865  0.44698  1.0000
+  O   O2        1.0  0.23797  0.72865  0.05302  1.0000
+  O   O3        1.0  0.17686  0.28774  0.25000  1.0000
+  O   O4        1.0  0.68457  0.75147  0.25000  1.0000
+  O   O5        1.0  0.50932  0.27135  0.55302  1.0000
+  O   O6        1.0  0.50932  0.27135  0.94698  1.0000
+  O   O7        1.0  0.88912  0.71226  0.75000  1.0000
+  O   O8        1.0  0.93310  0.24853  0.75000  1.0000

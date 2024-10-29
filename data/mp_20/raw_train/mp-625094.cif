@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cd2H4O4
+_chemical_formula_sum              "Cd2 H4 O4"
+_cell_length_a       3.50558
+_cell_length_b       5.76615
+_cell_length_c       6.12708
+_cell_angle_alpha    116.594
+_cell_angle_beta     106.332
+_cell_angle_gamma    90.6149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.17074  0.15485  0.31425  1.0000
+  Cd  Cd2       1.0  0.86375  0.84247  0.70148  1.0000
+  H   H1        1.0  0.54231  0.72527  0.02738  1.0000
+  H   H2        1.0  0.34914  0.30755  0.99483  1.0000
+  H   H3        1.0  0.87869  0.37304  0.71845  1.0000
+  H   H4        1.0  0.16389  0.66322  0.29138  1.0000
+  O   O1        1.0  0.53749  0.88665  0.01213  1.0000
+  O   O2        1.0  0.06960  0.30511  0.99479  1.0000
+  O   O3        1.0  0.79611  0.39744  0.56166  1.0000
+  O   O4        1.0  0.23909  0.83629  0.44790  1.0000

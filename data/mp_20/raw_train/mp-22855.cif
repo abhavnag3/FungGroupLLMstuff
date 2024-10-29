@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg4Cl8
+_chemical_formula_sum              "Hg4 Cl8"
+_cell_length_a       4.36734
+_cell_length_b       6.60372
+_cell_length_c       13.5844
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.55748  0.75000  0.62607  1.0000
+  Hg  Hg2       1.0  0.05748  0.25000  0.87393  1.0000
+  Hg  Hg3       1.0  0.44252  0.25000  0.37393  1.0000
+  Hg  Hg4       1.0  0.94252  0.75000  0.12607  1.0000
+  Cl  Cl1       1.0  0.27547  0.75000  0.99332  1.0000
+  Cl  Cl2       1.0  0.77547  0.25000  0.50668  1.0000
+  Cl  Cl3       1.0  0.72453  0.25000  0.00668  1.0000
+  Cl  Cl4       1.0  0.22453  0.75000  0.49332  1.0000
+  Cl  Cl5       1.0  0.61075  0.75000  0.25925  1.0000
+  Cl  Cl6       1.0  0.11075  0.25000  0.24075  1.0000
+  Cl  Cl7       1.0  0.38925  0.25000  0.74075  1.0000
+  Cl  Cl8       1.0  0.88925  0.75000  0.75925  1.0000

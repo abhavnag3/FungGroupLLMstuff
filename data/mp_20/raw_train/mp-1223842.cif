@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       InBiSe3
+_chemical_formula_sum              "In1 Bi1 Se3"
+_cell_length_a       10.2569
+_cell_length_b       10.2569
+_cell_length_c       10.2569
+_cell_angle_alpha    23.1755
+_cell_angle_beta     23.1755
+_cell_angle_gamma    23.1755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.39834  0.39834  0.39834  1.0000
+  Bi  Bi1       1.0  0.60429  0.60429  0.60429  1.0000
+  Se  Se1       1.0  0.77523  0.77523  0.77523  1.0000
+  Se  Se2       1.0  0.21784  0.21784  0.21784  1.0000
+  Se  Se3       1.0  0.00430  0.00430  0.00430  1.0000

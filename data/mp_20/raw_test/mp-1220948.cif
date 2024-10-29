@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Na3Pr3F12
+_chemical_formula_sum              "Na3 Pr3 F12"
+_cell_length_a       6.20646
+_cell_length_b       7.25659
+_cell_length_c       7.26608
+_cell_angle_alpha    62.7654
+_cell_angle_beta     64.7589
+_cell_angle_gamma    64.7405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.66999  0.46356  0.18660  1.0000
+  Na  Na2       1.0  0.66108  0.97855  0.70595  1.0000
+  Na  Na3       1.0  0.33267  0.42221  0.91317  1.0000
+  Pr  Pr1       1.0  0.00152  0.99548  0.00182  1.0000
+  Pr  Pr2       1.0  0.99833  0.49474  0.50753  1.0000
+  Pr  Pr3       1.0  0.33364  0.91896  0.41316  1.0000
+  F   F1        1.0  0.26014  0.62508  0.13512  1.0000
+  F   F2        1.0  0.28137  0.12437  0.62905  1.0000
+  F   F3        1.0  0.97449  0.37766  0.88770  1.0000
+  F   F4        1.0  0.97011  0.88719  0.39134  1.0000
+  F   F5        1.0  0.75287  0.73065  0.23563  1.0000
+  F   F6        1.0  0.75923  0.23333  0.74302  1.0000
+  F   F7        1.0  0.36083  0.00913  0.03733  1.0000
+  F   F8        1.0  0.36025  0.54225  0.50565  1.0000
+  F   F9        1.0  0.59231  0.70147  0.65991  1.0000
+  F   F10       1.0  0.59431  0.16283  0.19585  1.0000
+  F   F11       1.0  0.05034  0.81319  0.77680  1.0000
+  F   F12       1.0  0.04651  0.28133  0.31239  1.0000

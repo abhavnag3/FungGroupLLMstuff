@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Dy4Ge10Ir6
+_chemical_formula_sum              "Dy4 Ge10 Ir6"
+_cell_length_a       8.39525
+_cell_length_b       8.39525
+_cell_length_c       8.39525
+_cell_angle_alpha    137.89
+_cell_angle_beta     104.511
+_cell_angle_gamma    90.434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.86089  0.63445  0.22644  1.0000
+  Dy  Dy2       1.0  0.13911  0.36555  0.77356  1.0000
+  Dy  Dy3       1.0  0.40802  0.13445  0.27356  1.0000
+  Dy  Dy4       1.0  0.59198  0.86555  0.72644  1.0000
+  Ge  Ge1       1.0  0.50000  0.75000  0.25000  1.0000
+  Ge  Ge2       1.0  0.50000  0.25000  0.75000  1.0000
+  Ge  Ge3       1.0  0.22348  0.97348  0.75000  1.0000
+  Ge  Ge4       1.0  0.77652  0.52652  0.75000  1.0000
+  Ge  Ge5       1.0  0.77652  0.02652  0.25000  1.0000
+  Ge  Ge6       1.0  0.22348  0.47348  0.25000  1.0000
+  Ge  Ge7       1.0  0.06397  0.90183  0.16214  1.0000
+  Ge  Ge8       1.0  0.93603  0.09817  0.83786  1.0000
+  Ge  Ge9       1.0  0.73969  0.40183  0.33786  1.0000
+  Ge  Ge10      1.0  0.26031  0.59817  0.66214  1.0000
+  Ir  Ir1       1.0  0.00000  0.75000  0.75000  1.0000
+  Ir  Ir2       1.0  0.00000  0.25000  0.25000  1.0000
+  Ir  Ir3       1.0  0.24686  0.85794  0.38892  1.0000
+  Ir  Ir4       1.0  0.75314  0.14206  0.61108  1.0000
+  Ir  Ir5       1.0  0.46901  0.35794  0.11108  1.0000
+  Ir  Ir6       1.0  0.53099  0.64206  0.88892  1.0000

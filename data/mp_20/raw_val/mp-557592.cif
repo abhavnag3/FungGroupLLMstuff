@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cr2Ag2P4S12
+_chemical_formula_sum              "Cr2 Ag2 P4 S12"
+_cell_length_a       10.6798
+_cell_length_b       5.96965
+_cell_length_c       7.36758
+_cell_angle_alpha    75.4318
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.91779  0.75000  0.00000  1.0000
+  Cr  Cr2       1.0  0.08221  0.25000  0.00000  1.0000
+  Ag  Ag1       1.0  0.56135  0.75000  0.00000  1.0000
+  Ag  Ag2       1.0  0.43865  0.25000  0.00000  1.0000
+  P   P1        1.0  0.24436  0.79266  0.84437  1.0000
+  P   P2        1.0  0.75564  0.20734  0.15563  1.0000
+  P   P3        1.0  0.75564  0.29266  0.84437  1.0000
+  P   P4        1.0  0.24436  0.70734  0.15563  1.0000
+  S   S1        1.0  0.07428  0.98411  0.79582  1.0000
+  S   S2        1.0  0.76905  0.52082  0.21865  1.0000
+  S   S3        1.0  0.23095  0.47918  0.78136  1.0000
+  S   S4        1.0  0.39306  0.52406  0.26301  1.0000
+  S   S5        1.0  0.92572  0.01589  0.20418  1.0000
+  S   S6        1.0  0.23095  0.02082  0.21865  1.0000
+  S   S7        1.0  0.60694  0.47594  0.73699  1.0000
+  S   S8        1.0  0.92572  0.48411  0.79582  1.0000
+  S   S9        1.0  0.07428  0.51589  0.20418  1.0000
+  S   S10       1.0  0.39306  0.97594  0.73699  1.0000
+  S   S11       1.0  0.60694  0.02406  0.26301  1.0000
+  S   S12       1.0  0.76905  0.97918  0.78136  1.0000

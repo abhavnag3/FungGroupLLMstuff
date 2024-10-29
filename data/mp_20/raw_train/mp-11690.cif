@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Tc4P6
+_chemical_formula_sum              "Tc4 P6"
+_cell_length_a       6.39719
+_cell_length_b       6.39719
+_cell_length_c       9.04489
+_cell_angle_alpha    57.2871
+_cell_angle_beta     57.2871
+_cell_angle_gamma    28.1795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tc  Tc1       1.0  0.63448  0.63448  0.14456  1.0000
+  Tc  Tc2       1.0  0.36552  0.36552  0.85544  1.0000
+  Tc  Tc3       1.0  0.74993  0.74993  0.36329  1.0000
+  Tc  Tc4       1.0  0.25007  0.25007  0.63671  1.0000
+  P   P1        1.0  0.90226  0.90226  0.62860  1.0000
+  P   P2        1.0  0.09774  0.09774  0.37140  1.0000
+  P   P3        1.0  0.58865  0.58865  0.67794  1.0000
+  P   P4        1.0  0.41135  0.41135  0.32206  1.0000
+  P   P5        1.0  0.11036  0.11036  0.95985  1.0000
+  P   P6        1.0  0.88964  0.88964  0.04015  1.0000

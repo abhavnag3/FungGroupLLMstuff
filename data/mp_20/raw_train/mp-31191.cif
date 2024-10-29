@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sc6Co4Ge6
+_chemical_formula_sum              "Sc6 Co4 Ge6"
+_cell_length_a       5.34827
+_cell_length_b       5.34827
+_cell_length_c       13.2911
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    135.601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.57997  0.42003  0.88945  1.0000
+  Sc  Sc2       1.0  0.42003  0.57997  0.11055  1.0000
+  Sc  Sc3       1.0  0.42003  0.57997  0.38945  1.0000
+  Sc  Sc4       1.0  0.57997  0.42003  0.61055  1.0000
+  Sc  Sc5       1.0  0.85343  0.14657  0.75000  1.0000
+  Sc  Sc6       1.0  0.14657  0.85343  0.25000  1.0000
+  Co  Co1       1.0  0.29097  0.70903  0.90204  1.0000
+  Co  Co2       1.0  0.70903  0.29097  0.09796  1.0000
+  Co  Co3       1.0  0.70903  0.29097  0.40203  1.0000
+  Co  Co4       1.0  0.29097  0.70903  0.59796  1.0000
+  Ge  Ge1       1.0  0.87680  0.12320  0.96015  1.0000
+  Ge  Ge2       1.0  0.12320  0.87680  0.03985  1.0000
+  Ge  Ge3       1.0  0.12320  0.87680  0.46015  1.0000
+  Ge  Ge4       1.0  0.87680  0.12320  0.53985  1.0000
+  Ge  Ge5       1.0  0.15355  0.84645  0.75000  1.0000
+  Ge  Ge6       1.0  0.84645  0.15355  0.25000  1.0000

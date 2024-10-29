@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       LiFe7O7F
+_chemical_formula_sum              "Li1 Fe7 O7 F1"
+_cell_length_a       3.56217
+_cell_length_b       3.56217
+_cell_length_c       17.7295
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    118.371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.67060  0.32940  0.50000  1.0000
+  Fe  Fe1       1.0  0.67423  0.32577  0.00000  1.0000
+  Fe  Fe2       1.0  0.67115  0.32884  0.74861  1.0000
+  Fe  Fe3       1.0  0.67115  0.32884  0.25139  1.0000
+  Fe  Fe4       1.0  0.34304  0.65696  0.87532  1.0000
+  Fe  Fe5       1.0  0.33435  0.66565  0.37564  1.0000
+  Fe  Fe6       1.0  0.34304  0.65696  0.12468  1.0000
+  Fe  Fe7       1.0  0.33435  0.66565  0.62436  1.0000
+  O   O1        1.0  0.66487  0.33513  0.62065  1.0000
+  O   O2        1.0  0.67087  0.32913  0.87534  1.0000
+  O   O3        1.0  0.66487  0.33513  0.37935  1.0000
+  O   O4        1.0  0.67087  0.32913  0.12466  1.0000
+  O   O5        1.0  0.32027  0.67973  0.00000  1.0000
+  O   O6        1.0  0.31689  0.68311  0.74947  1.0000
+  O   O7        1.0  0.31689  0.68311  0.25053  1.0000
+  F   F1        1.0  0.32979  0.67021  0.50000  1.0000

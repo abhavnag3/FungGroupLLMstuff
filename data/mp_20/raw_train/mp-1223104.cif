@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La3NdGa4O12
+_chemical_formula_sum              "La3 Nd1 Ga4 O12"
+_cell_length_a       7.86027
+_cell_length_b       5.55603
+_cell_length_c       5.55703
+_cell_angle_alpha    89.9004
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00000  0.52670  0.99339  1.0000
+  La  La2       1.0  0.50000  0.97459  0.49337  1.0000
+  La  La3       1.0  0.50000  0.47229  0.00837  1.0000
+  Nd  Nd1       1.0  0.00000  0.03468  0.50953  1.0000
+  Ga  Ga1       1.0  0.24903  0.50158  0.49983  1.0000
+  Ga  Ga2       1.0  0.75132  0.99949  0.00045  1.0000
+  Ga  Ga3       1.0  0.75097  0.50158  0.49983  1.0000
+  Ga  Ga4       1.0  0.24868  0.99949  0.00045  1.0000
+  O   O1        1.0  0.00000  0.48246  0.42375  1.0000
+  O   O2        1.0  0.00000  0.98734  0.08359  1.0000
+  O   O3        1.0  0.50000  0.51224  0.57689  1.0000
+  O   O4        1.0  0.50000  0.01201  0.92430  1.0000
+  O   O5        1.0  0.20566  0.78206  0.71831  1.0000
+  O   O6        1.0  0.79362  0.27691  0.77619  1.0000
+  O   O7        1.0  0.71005  0.21987  0.27920  1.0000
+  O   O8        1.0  0.29141  0.71893  0.21943  1.0000
+  O   O9        1.0  0.28995  0.21987  0.27920  1.0000
+  O   O10       1.0  0.70859  0.71893  0.21943  1.0000
+  O   O11       1.0  0.79434  0.78206  0.71831  1.0000
+  O   O12       1.0  0.20638  0.27691  0.77619  1.0000

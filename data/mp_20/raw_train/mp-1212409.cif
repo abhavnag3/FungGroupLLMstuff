@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Hf6As6Ru6
+_chemical_formula_sum              "Hf6 As6 Ru6"
+_cell_length_a       7.68187
+_cell_length_b       7.68187
+_cell_length_c       7.68187
+_cell_angle_alpha    128.263
+_cell_angle_beta     120.25
+_cell_angle_gamma    82.9317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.46742  0.69202  0.72460  1.0000
+  Hf  Hf2       1.0  0.53258  0.25718  0.22460  1.0000
+  Hf  Hf3       1.0  0.74862  0.83190  0.58328  1.0000
+  Hf  Hf4       1.0  0.25138  0.83466  0.08328  1.0000
+  Hf  Hf5       1.0  0.05217  0.25779  0.70562  1.0000
+  Hf  Hf6       1.0  0.94783  0.65345  0.20562  1.0000
+  As  As1       1.0  0.27673  0.27692  0.50019  1.0000
+  As  As2       1.0  0.72327  0.22346  0.00019  1.0000
+  As  As3       1.0  0.32866  0.58744  0.24887  1.0000
+  As  As4       1.0  0.67134  0.92021  0.25878  1.0000
+  As  As5       1.0  0.16143  0.92021  0.74887  1.0000
+  As  As6       1.0  0.83857  0.58744  0.75878  1.0000
+  Ru  Ru1       1.0  0.50000  0.49854  0.99854  1.0000
+  Ru  Ru2       1.0  0.00000  0.49854  0.49854  1.0000
+  Ru  Ru3       1.0  0.09450  0.25234  0.10207  1.0000
+  Ru  Ru4       1.0  0.90550  0.00757  0.15784  1.0000
+  Ru  Ru5       1.0  0.34973  0.00757  0.60207  1.0000
+  Ru  Ru6       1.0  0.65027  0.25234  0.65784  1.0000

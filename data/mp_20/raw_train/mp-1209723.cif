@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Np2Tl4F12
+_chemical_formula_sum              "Np2 Tl4 F12"
+_cell_length_a       7.12085
+_cell_length_b       7.12085
+_cell_length_c       7.52813
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.44536  0.55464  0.25000  1.0000
+  Np  Np2       1.0  0.55464  0.44536  0.75000  1.0000
+  Tl  Tl1       1.0  0.84490  0.15510  0.99788  1.0000
+  Tl  Tl2       1.0  0.15510  0.84490  0.00212  1.0000
+  Tl  Tl3       1.0  0.15510  0.84490  0.49788  1.0000
+  Tl  Tl4       1.0  0.84490  0.15510  0.50212  1.0000
+  F   F1        1.0  0.10678  0.51020  0.25000  1.0000
+  F   F2        1.0  0.89321  0.48980  0.75000  1.0000
+  F   F3        1.0  0.48980  0.89321  0.25000  1.0000
+  F   F4        1.0  0.51020  0.10679  0.75000  1.0000
+  F   F5        1.0  0.60047  0.39953  0.04247  1.0000
+  F   F6        1.0  0.39953  0.60047  0.95752  1.0000
+  F   F7        1.0  0.39953  0.60047  0.54247  1.0000
+  F   F8        1.0  0.60047  0.39953  0.45753  1.0000
+  F   F9        1.0  0.21814  0.20102  0.25000  1.0000
+  F   F10       1.0  0.78186  0.79898  0.75000  1.0000
+  F   F11       1.0  0.79898  0.78186  0.25000  1.0000
+  F   F12       1.0  0.20102  0.21814  0.75000  1.0000

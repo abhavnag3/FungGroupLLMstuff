@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Rb4Zn2I8
+_chemical_formula_sum              "Rb4 Zn2 I8"
+_cell_length_a       7.86266
+_cell_length_b       8.41218
+_cell_length_c       10.5991
+_cell_angle_alpha    90
+_cell_angle_beta     109.729
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.30500  0.74972  0.96344  1.0000
+  Rb  Rb2       1.0  0.69500  0.24973  0.03656  1.0000
+  Rb  Rb3       1.0  0.20300  0.74951  0.41428  1.0000
+  Rb  Rb4       1.0  0.79700  0.24951  0.58572  1.0000
+  Zn  Zn1       1.0  0.69704  0.75121  0.78416  1.0000
+  Zn  Zn2       1.0  0.30296  0.25121  0.21584  1.0000
+  I   I1        1.0  0.48385  0.49966  0.72293  1.0000
+  I   I2        1.0  0.51616  0.99965  0.27707  1.0000
+  I   I3        1.0  0.51984  0.50201  0.27832  1.0000
+  I   I4        1.0  0.48016  0.00201  0.72168  1.0000
+  I   I5        1.0  0.86635  0.76225  0.04732  1.0000
+  I   I6        1.0  0.13365  0.26225  0.95268  1.0000
+  I   I7        1.0  0.91987  0.76023  0.64607  1.0000
+  I   I8        1.0  0.08013  0.26023  0.35393  1.0000

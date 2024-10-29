@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Re4Sb2O12
+_chemical_formula_sum              "Re4 Sb2 O12"
+_cell_length_a       8.5035
+_cell_length_b       8.5035
+_cell_length_c       5.5656
+_cell_angle_alpha    88.7729
+_cell_angle_beta     88.7729
+_cell_angle_gamma    34.0883
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.41393  0.94870  0.60926  1.0000
+  Re  Re2       1.0  0.05130  0.58607  0.89074  1.0000
+  Re  Re3       1.0  0.58607  0.05130  0.39074  1.0000
+  Re  Re4       1.0  0.94870  0.41393  0.10927  1.0000
+  Sb  Sb1       1.0  0.30449  0.69551  0.25000  1.0000
+  Sb  Sb2       1.0  0.69551  0.30449  0.75000  1.0000
+  O   O1        1.0  0.48038  0.65817  0.57400  1.0000
+  O   O2        1.0  0.34183  0.51962  0.92600  1.0000
+  O   O3        1.0  0.51962  0.34183  0.42600  1.0000
+  O   O4        1.0  0.65817  0.48038  0.07400  1.0000
+  O   O5        1.0  0.11557  0.16414  0.38099  1.0000
+  O   O6        1.0  0.83586  0.88443  0.11901  1.0000
+  O   O7        1.0  0.73528  0.69669  0.83120  1.0000
+  O   O8        1.0  0.30331  0.26472  0.66880  1.0000
+  O   O9        1.0  0.26472  0.30331  0.16880  1.0000
+  O   O10       1.0  0.69669  0.73528  0.33121  1.0000
+  O   O11       1.0  0.16414  0.11557  0.88099  1.0000
+  O   O12       1.0  0.88443  0.83586  0.61901  1.0000

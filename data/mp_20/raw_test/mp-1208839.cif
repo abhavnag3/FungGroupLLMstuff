@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr4H12Pt2
+_chemical_formula_sum              "Sr4 H12 Pt2"
+_cell_length_a       7.43617
+_cell_length_b       7.43617
+_cell_length_c       5.64518
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    135.41
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.64605  0.35395  0.00000  1.0000
+  Sr  Sr2       1.0  0.35395  0.64605  0.00000  1.0000
+  Sr  Sr3       1.0  0.85395  0.14605  0.50000  1.0000
+  Sr  Sr4       1.0  0.14605  0.85395  0.50000  1.0000
+  H   H1        1.0  0.87882  0.12118  0.00000  1.0000
+  H   H2        1.0  0.12118  0.87882  0.00000  1.0000
+  H   H3        1.0  0.62118  0.37882  0.50000  1.0000
+  H   H4        1.0  0.37882  0.62118  0.50000  1.0000
+  H   H5        1.0  0.00126  0.50126  0.25000  1.0000
+  H   H6        1.0  0.99874  0.49874  0.75000  1.0000
+  H   H7        1.0  0.49874  0.99874  0.75000  1.0000
+  H   H8        1.0  0.50126  0.00126  0.25000  1.0000
+  H   H9        1.0  0.20697  0.20697  0.22020  1.0000
+  H   H10       1.0  0.79303  0.79303  0.77980  1.0000
+  H   H11       1.0  0.29303  0.29303  0.72020  1.0000
+  H   H12       1.0  0.70697  0.70697  0.27980  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pt  Pt2       1.0  0.50000  0.50000  0.50000  1.0000

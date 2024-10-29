@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg6Mo2N8
+_chemical_formula_sum              "Mg6 Mo2 N8"
+_cell_length_a       5.8359
+_cell_length_b       5.8359
+_cell_length_c       6.07059
+_cell_angle_alpha    90.5053
+_cell_angle_beta     90.5053
+_cell_angle_gamma    75.8264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.15043  0.61467  0.16850  1.0000
+  Mg  Mg2       1.0  0.84957  0.38533  0.83150  1.0000
+  Mg  Mg3       1.0  0.38533  0.84957  0.83150  1.0000
+  Mg  Mg4       1.0  0.61467  0.15043  0.16850  1.0000
+  Mg  Mg5       1.0  0.11397  0.11396  0.32394  1.0000
+  Mg  Mg6       1.0  0.88604  0.88604  0.67606  1.0000
+  Mo  Mo1       1.0  0.66981  0.66981  0.32977  1.0000
+  Mo  Mo2       1.0  0.33019  0.33019  0.67023  1.0000
+  N   N1        1.0  0.12353  0.12353  0.68246  1.0000
+  N   N2        1.0  0.87647  0.87647  0.31755  1.0000
+  N   N3        1.0  0.60138  0.15205  0.81974  1.0000
+  N   N4        1.0  0.39862  0.84795  0.18025  1.0000
+  N   N5        1.0  0.84796  0.39862  0.18025  1.0000
+  N   N6        1.0  0.15205  0.60138  0.81974  1.0000
+  N   N7        1.0  0.35618  0.35618  0.36693  1.0000
+  N   N8        1.0  0.64382  0.64382  0.63307  1.0000

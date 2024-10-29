@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BiB3O6
+_chemical_formula_sum              "Bi1 B3 O6"
+_cell_length_a       4.37671
+_cell_length_b       4.42252
+_cell_length_c       6.69079
+_cell_angle_alpha    82.2266
+_cell_angle_beta     77.331
+_cell_angle_gamma    69.6888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.92514  0.08060  0.02152  1.0000
+  B   B1        1.0  0.62434  0.32023  0.54834  1.0000
+  B   B2        1.0  0.22202  0.24439  0.34653  1.0000
+  B   B3        1.0  0.71762  0.74318  0.73809  1.0000
+  O   O1        1.0  0.31068  0.33273  0.50396  1.0000
+  O   O2        1.0  0.59315  0.63638  0.60561  1.0000
+  O   O3        1.0  0.71143  0.06685  0.72103  1.0000
+  O   O4        1.0  0.90119  0.22682  0.36456  1.0000
+  O   O5        1.0  0.40281  0.18297  0.15102  1.0000
+  O   O6        1.0  0.82602  0.58445  0.91544  1.0000

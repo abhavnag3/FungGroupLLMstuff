@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2CrCo3S8
+_chemical_formula_sum              "Mg2 Cr1 Co3 S8"
+_cell_length_a       7.01109
+_cell_length_b       6.9795
+_cell_length_c       7.01027
+_cell_angle_alpha    59.9675
+_cell_angle_beta     60.1109
+_cell_angle_gamma    59.944
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.87533  0.87389  0.87540  1.0000
+  Mg  Mg2       1.0  0.12468  0.12613  0.12459  1.0000
+  Cr  Cr1       1.0  0.49995  1.00000  0.50005  1.0000
+  Co  Co1       1.0  0.50001  0.50001  0.49998  1.0000
+  Co  Co2       1.0  0.50000  0.50000  1.00000  1.0000
+  Co  Co3       1.0  0.00001  0.50000  0.49999  1.0000
+  S   S1        1.0  0.73734  0.72459  0.73758  1.0000
+  S   S2        1.0  0.26230  0.27519  0.70025  1.0000
+  S   S3        1.0  0.26880  0.69304  0.26902  1.0000
+  S   S4        1.0  0.70023  0.27483  0.26234  1.0000
+  S   S5        1.0  0.73121  0.30697  0.73095  1.0000
+  S   S6        1.0  0.29976  0.72514  0.73767  1.0000
+  S   S7        1.0  0.26270  0.27538  0.26244  1.0000
+  S   S8        1.0  0.73771  0.72484  0.29975  1.0000

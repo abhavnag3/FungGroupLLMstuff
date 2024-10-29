@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ti6Ni6
+_chemical_formula_sum              "Ti6 Ni6"
+_cell_length_a       2.73985
+_cell_length_b       4.6904
+_cell_length_c       12.793
+_cell_angle_alpha    89.9941
+_cell_angle_beta     90.0949
+_cell_angle_gamma    94.9605
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.57786  0.79727  0.08242  1.0000
+  Ti  Ti2       1.0  0.42214  0.20273  0.91758  1.0000
+  Ti  Ti3       1.0  0.47902  0.22423  0.25118  1.0000
+  Ti  Ti4       1.0  0.40626  0.19490  0.58509  1.0000
+  Ti  Ti5       1.0  0.59374  0.80510  0.41491  1.0000
+  Ti  Ti6       1.0  0.52098  0.77577  0.74882  1.0000
+  Ni  Ni1       1.0  0.99278  0.67284  0.91517  1.0000
+  Ni  Ni2       1.0  0.98843  0.66606  0.58230  1.0000
+  Ni  Ni3       1.0  0.05377  0.68934  0.24760  1.0000
+  Ni  Ni4       1.0  0.00722  0.32716  0.08483  1.0000
+  Ni  Ni5       1.0  0.01157  0.33394  0.41770  1.0000
+  Ni  Ni6       1.0  0.94623  0.31066  0.75240  1.0000

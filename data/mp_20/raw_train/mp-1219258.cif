@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Si6Mo6W4
+_chemical_formula_sum              "Si6 Mo6 W4"
+_cell_length_a       4.9278
+_cell_length_b       7.29172
+_cell_length_c       7.29172
+_cell_angle_alpha    96.7547
+_cell_angle_beta     109.749
+_cell_angle_gamma    70.2508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.25000  0.00000  0.00000  1.0000
+  Si  Si2       1.0  0.75000  0.00000  0.00000  1.0000
+  Si  Si3       1.0  0.33185  0.50194  0.16565  1.0000
+  Si  Si4       1.0  0.66815  0.49806  0.83435  1.0000
+  Si  Si5       1.0  0.83185  0.83435  0.49806  1.0000
+  Si  Si6       1.0  0.16815  0.16565  0.50194  1.0000
+  Mo  Mo1       1.0  0.72441  0.69768  0.14650  1.0000
+  Mo  Mo2       1.0  0.27559  0.30232  0.85350  1.0000
+  Mo  Mo3       1.0  0.77559  0.14650  0.69768  1.0000
+  Mo  Mo4       1.0  0.22441  0.85350  0.30232  1.0000
+  Mo  Mo5       1.0  0.25000  0.50000  0.50000  1.0000
+  Mo  Mo6       1.0  0.75000  0.50000  0.50000  1.0000
+  W   W1        1.0  0.42404  0.85061  0.69868  1.0000
+  W   W2        1.0  0.57596  0.14939  0.30132  1.0000
+  W   W3        1.0  0.92404  0.30132  0.14939  1.0000
+  W   W4        1.0  0.07596  0.69868  0.85061  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Al4Br12
+_chemical_formula_sum              "Al4 Br12"
+_cell_length_a       7.58205
+_cell_length_b       7.90794
+_cell_length_c       11.2568
+_cell_angle_alpha    81.9362
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.08861  0.19159  0.44923  1.0000
+  Al  Al2       1.0  0.58861  0.80841  0.05076  1.0000
+  Al  Al3       1.0  0.91139  0.80841  0.55076  1.0000
+  Al  Al4       1.0  0.41139  0.19159  0.94923  1.0000
+  Br  Br1       1.0  0.92106  0.39038  0.33799  1.0000
+  Br  Br2       1.0  0.42106  0.60962  0.16201  1.0000
+  Br  Br3       1.0  0.07894  0.60962  0.66201  1.0000
+  Br  Br4       1.0  0.57894  0.39038  0.83799  1.0000
+  Br  Br5       1.0  0.37380  0.24603  0.48703  1.0000
+  Br  Br6       1.0  0.87380  0.75397  0.01297  1.0000
+  Br  Br7       1.0  0.62620  0.75397  0.51297  1.0000
+  Br  Br8       1.0  0.12620  0.24603  0.98703  1.0000
+  Br  Br9       1.0  0.06455  0.92227  0.36497  1.0000
+  Br  Br10      1.0  0.56455  0.07773  0.13503  1.0000
+  Br  Br11      1.0  0.93545  0.07773  0.63503  1.0000
+  Br  Br12      1.0  0.43545  0.92227  0.86497  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pu2B8Os2
+_chemical_formula_sum              "Pu2 B8 Os2"
+_cell_length_a       6.00033
+_cell_length_b       6.00033
+_cell_length_c       3.53845
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    104.052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.30047  0.69953  0.00000  1.0000
+  Pu  Pu2       1.0  0.69953  0.30047  0.00000  1.0000
+  B   B1        1.0  0.38087  0.06376  0.50000  1.0000
+  B   B2        1.0  0.61913  0.93625  0.50000  1.0000
+  B   B3        1.0  0.06376  0.38087  0.50000  1.0000
+  B   B4        1.0  0.93624  0.61913  0.50000  1.0000
+  B   B5        1.0  0.37700  0.37700  0.50000  1.0000
+  B   B6        1.0  0.62300  0.62300  0.50000  1.0000
+  B   B7        1.0  0.09272  0.90728  0.50000  1.0000
+  B   B8        1.0  0.90728  0.09272  0.50000  1.0000
+  Os  Os1       1.0  0.18453  0.18453  0.00000  1.0000
+  Os  Os2       1.0  0.81547  0.81547  0.00000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Lu4Rh4O12
+_chemical_formula_sum              "Lu4 Rh4 O12"
+_cell_length_a       5.23109
+_cell_length_b       5.72116
+_cell_length_c       7.59417
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.52989  0.58421  0.25000  1.0000
+  Lu  Lu2       1.0  0.97011  0.08421  0.25000  1.0000
+  Lu  Lu3       1.0  0.47011  0.41579  0.75000  1.0000
+  Lu  Lu4       1.0  0.02989  0.91579  0.75000  1.0000
+  Rh  Rh1       1.0  0.00000  0.50000  0.00000  1.0000
+  Rh  Rh2       1.0  0.50000  0.00000  0.50000  1.0000
+  Rh  Rh3       1.0  0.00000  0.50000  0.50000  1.0000
+  Rh  Rh4       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.35610  0.93991  0.25000  1.0000
+  O   O2        1.0  0.14390  0.43991  0.25000  1.0000
+  O   O3        1.0  0.64390  0.06009  0.75000  1.0000
+  O   O4        1.0  0.85610  0.56009  0.75000  1.0000
+  O   O5        1.0  0.82580  0.81324  0.06759  1.0000
+  O   O6        1.0  0.67420  0.31323  0.43241  1.0000
+  O   O7        1.0  0.17420  0.18676  0.56759  1.0000
+  O   O8        1.0  0.32580  0.68676  0.93241  1.0000
+  O   O9        1.0  0.17420  0.18676  0.93241  1.0000
+  O   O10       1.0  0.32580  0.68676  0.56759  1.0000
+  O   O11       1.0  0.82580  0.81324  0.43241  1.0000
+  O   O12       1.0  0.67420  0.31323  0.06759  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Co2B6Mo6
+_chemical_formula_sum              "Co2 B6 Mo6"
+_cell_length_a       3.1627
+_cell_length_b       4.52843
+_cell_length_c       10.7906
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    110.439
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.50000  0.00000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.00000  1.0000
+  B   B1        1.0  0.91344  0.82687  0.39702  1.0000
+  B   B2        1.0  0.08656  0.17313  0.60298  1.0000
+  B   B3        1.0  0.91344  0.82687  0.10298  1.0000
+  B   B4        1.0  0.08656  0.17313  0.89702  1.0000
+  B   B5        1.0  0.79143  0.58286  0.25000  1.0000
+  B   B6        1.0  0.20857  0.41714  0.75000  1.0000
+  Mo  Mo1       1.0  0.21208  0.42415  0.39277  1.0000
+  Mo  Mo2       1.0  0.78792  0.57585  0.60723  1.0000
+  Mo  Mo3       1.0  0.21208  0.42415  0.10723  1.0000
+  Mo  Mo4       1.0  0.78792  0.57585  0.89277  1.0000
+  Mo  Mo5       1.0  0.49714  0.99427  0.25000  1.0000
+  Mo  Mo6       1.0  0.50286  0.00573  0.75000  1.0000

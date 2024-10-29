@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K2Os2N2O2F10
+_chemical_formula_sum              "K2 Os2 N2 O2 F10"
+_cell_length_a       4.94221
+_cell_length_b       6.29306
+_cell_length_c       9.49849
+_cell_angle_alpha    90
+_cell_angle_beta     99.1749
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.29190  0.25000  0.88971  1.0000
+  K   K2        1.0  0.70810  0.75000  0.11029  1.0000
+  Os  Os1       1.0  0.90384  0.75000  0.73325  1.0000
+  Os  Os2       1.0  0.09616  0.25000  0.26675  1.0000
+  N   N1        1.0  0.65682  0.75000  0.57844  1.0000
+  N   N2        1.0  0.34318  0.25000  0.42156  1.0000
+  O   O1        1.0  0.49508  0.75000  0.47426  1.0000
+  O   O2        1.0  0.50492  0.25000  0.52574  1.0000
+  F   F1        1.0  0.12659  0.52796  0.66801  1.0000
+  F   F2        1.0  0.87341  0.02796  0.33199  1.0000
+  F   F3        1.0  0.87341  0.47204  0.33199  1.0000
+  F   F4        1.0  0.12659  0.97204  0.66801  1.0000
+  F   F5        1.0  0.72930  0.96804  0.83440  1.0000
+  F   F6        1.0  0.27070  0.46804  0.16560  1.0000
+  F   F7        1.0  0.27070  0.03196  0.16560  1.0000
+  F   F8        1.0  0.72930  0.53196  0.83440  1.0000
+  F   F9        1.0  0.17783  0.75000  0.90658  1.0000
+  F   F10       1.0  0.82217  0.25000  0.09342  1.0000

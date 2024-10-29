@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs2Co2Ni2F12
+_chemical_formula_sum              "Cs2 Co2 Ni2 F12"
+_cell_length_a       7.36368
+_cell_length_b       7.36368
+_cell_length_c       7.36368
+_cell_angle_alpha    119.999
+_cell_angle_beta     119.615
+_cell_angle_gamma    90.3353
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.37207  0.62207  0.75000  1.0000
+  Cs  Cs2       1.0  0.62793  0.37793  0.25000  1.0000
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.00000  1.0000
+  F   F1        1.0  0.31853  0.06853  0.25000  1.0000
+  F   F2        1.0  0.92704  0.67704  0.25000  1.0000
+  F   F3        1.0  0.33040  0.69048  0.26155  1.0000
+  F   F4        1.0  0.92893  0.06886  0.23845  1.0000
+  F   F5        1.0  0.33040  0.06886  0.63993  1.0000
+  F   F6        1.0  0.92893  0.69048  0.86007  1.0000
+  F   F7        1.0  0.68147  0.93147  0.75000  1.0000
+  F   F8        1.0  0.07296  0.32296  0.75000  1.0000
+  F   F9        1.0  0.66960  0.30952  0.73845  1.0000
+  F   F10       1.0  0.07107  0.93114  0.76155  1.0000
+  F   F11       1.0  0.66960  0.93114  0.36007  1.0000
+  F   F12       1.0  0.07107  0.30952  0.13993  1.0000

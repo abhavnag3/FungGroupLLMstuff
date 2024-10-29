@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2TiIn3S8
+_chemical_formula_sum              "Mg2 Ti1 In3 S8"
+_cell_length_a       7.64856
+_cell_length_b       7.59845
+_cell_length_c       7.6484
+_cell_angle_alpha    59.8222
+_cell_angle_beta     59.9853
+_cell_angle_gamma    59.7763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.87424  0.87649  0.87463  1.0000
+  Mg  Mg2       1.0  0.12565  0.12393  0.12536  1.0000
+  Ti  Ti1       1.0  0.50035  0.99969  0.50019  1.0000
+  In  In1       1.0  0.50011  0.49964  0.50005  1.0000
+  In  In2       1.0  0.49961  0.50003  0.00005  1.0000
+  In  In3       1.0  0.00001  0.50012  0.49996  1.0000
+  S   S1        1.0  0.73363  0.75839  0.73372  1.0000
+  S   S2        1.0  0.26636  0.24172  0.72568  1.0000
+  S   S3        1.0  0.25785  0.72666  0.25760  1.0000
+  S   S4        1.0  0.72581  0.24168  0.26592  1.0000
+  S   S5        1.0  0.74201  0.27381  0.74227  1.0000
+  S   S6        1.0  0.27414  0.75845  0.73370  1.0000
+  S   S7        1.0  0.26656  0.24119  0.26661  1.0000
+  S   S8        1.0  0.73368  0.75818  0.27426  1.0000

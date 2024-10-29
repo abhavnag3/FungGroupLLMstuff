@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4Mg4Sn4
+_chemical_formula_sum              "Eu4 Mg4 Sn4"
+_cell_length_a       4.89143
+_cell_length_b       8.04438
+_cell_length_c       8.79054
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.25000  0.01057  0.30818  1.0000
+  Eu  Eu2       1.0  0.25000  0.51057  0.19182  1.0000
+  Eu  Eu3       1.0  0.75000  0.98943  0.69181  1.0000
+  Eu  Eu4       1.0  0.75000  0.48943  0.80819  1.0000
+  Mg  Mg1       1.0  0.25000  0.15286  0.93014  1.0000
+  Mg  Mg2       1.0  0.25000  0.65286  0.56986  1.0000
+  Mg  Mg3       1.0  0.75000  0.84714  0.06986  1.0000
+  Mg  Mg4       1.0  0.75000  0.34714  0.43014  1.0000
+  Sn  Sn1       1.0  0.25000  0.27584  0.60645  1.0000
+  Sn  Sn2       1.0  0.25000  0.77584  0.89355  1.0000
+  Sn  Sn3       1.0  0.75000  0.72416  0.39355  1.0000
+  Sn  Sn4       1.0  0.75000  0.22416  0.10645  1.0000

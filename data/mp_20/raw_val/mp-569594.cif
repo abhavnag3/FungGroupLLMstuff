@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Fe7Mo6
+_chemical_formula_sum              "Fe7 Mo6"
+_cell_length_a       8.94065
+_cell_length_b       8.94065
+_cell_length_c       8.94065
+_cell_angle_alpha    30.8767
+_cell_angle_beta     30.8767
+_cell_angle_gamma    30.8767
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.58913  0.09152  0.09152  1.0000
+  Fe  Fe2       1.0  0.09152  0.09152  0.58913  1.0000
+  Fe  Fe3       1.0  0.90848  0.90848  0.41087  1.0000
+  Fe  Fe4       1.0  0.90848  0.41087  0.90848  1.0000
+  Fe  Fe5       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe6       1.0  0.09152  0.58913  0.09152  1.0000
+  Fe  Fe7       1.0  0.41087  0.90848  0.90848  1.0000
+  Mo  Mo1       1.0  0.34656  0.34656  0.34656  1.0000
+  Mo  Mo2       1.0  0.16589  0.16589  0.16589  1.0000
+  Mo  Mo3       1.0  0.54931  0.54931  0.54931  1.0000
+  Mo  Mo4       1.0  0.65344  0.65344  0.65344  1.0000
+  Mo  Mo5       1.0  0.45069  0.45069  0.45069  1.0000
+  Mo  Mo6       1.0  0.83411  0.83411  0.83411  1.0000

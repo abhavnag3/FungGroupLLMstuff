@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Th4Ta4N12
+_chemical_formula_sum              "Th4 Ta4 N12"
+_cell_length_a       5.69209
+_cell_length_b       5.76957
+_cell_length_c       8.08574
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.50559  0.54320  0.25000  1.0000
+  Th  Th2       1.0  0.99441  0.04320  0.25000  1.0000
+  Th  Th3       1.0  0.49441  0.45680  0.75000  1.0000
+  Th  Th4       1.0  0.00559  0.95680  0.75000  1.0000
+  Ta  Ta1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ta  Ta2       1.0  0.50000  0.00000  0.50000  1.0000
+  Ta  Ta3       1.0  0.00000  0.50000  0.50000  1.0000
+  Ta  Ta4       1.0  0.50000  0.00000  0.00000  1.0000
+  N   N1        1.0  0.40960  0.97826  0.25000  1.0000
+  N   N2        1.0  0.09040  0.47826  0.25000  1.0000
+  N   N3        1.0  0.59040  0.02174  0.75000  1.0000
+  N   N4        1.0  0.90960  0.52174  0.75000  1.0000
+  N   N5        1.0  0.79939  0.80085  0.04714  1.0000
+  N   N6        1.0  0.70061  0.30085  0.45287  1.0000
+  N   N7        1.0  0.20061  0.19915  0.54714  1.0000
+  N   N8        1.0  0.29939  0.69915  0.95286  1.0000
+  N   N9        1.0  0.20061  0.19915  0.95286  1.0000
+  N   N10       1.0  0.29939  0.69915  0.54714  1.0000
+  N   N11       1.0  0.79939  0.80085  0.45287  1.0000
+  N   N12       1.0  0.70061  0.30085  0.04714  1.0000

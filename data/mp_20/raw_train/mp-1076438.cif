@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       La4Co4O10
+_chemical_formula_sum              "La4 Co4 O10"
+_cell_length_a       8.84891
+_cell_length_b       8.84891
+_cell_length_c       8.84891
+_cell_angle_alpha    143.929
+_cell_angle_beta     141.651
+_cell_angle_gamma    53.6633
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.86701  0.38899  0.47671  1.0000
+  La  La2       1.0  0.13299  0.60969  0.52197  1.0000
+  La  La3       1.0  0.41228  0.88899  0.52197  1.0000
+  La  La4       1.0  0.58772  0.10969  0.47671  1.0000
+  Co  Co1       1.0  0.00000  0.98979  0.98979  1.0000
+  Co  Co2       1.0  0.50000  0.48979  0.98979  1.0000
+  Co  Co3       1.0  0.81184  0.78515  0.09699  1.0000
+  Co  Co4       1.0  0.18816  0.28515  0.97331  1.0000
+  O   O1        1.0  0.76240  0.76212  0.48964  1.0000
+  O   O2        1.0  0.23760  0.72724  0.99972  1.0000
+  O   O3        1.0  0.77248  0.26212  0.99972  1.0000
+  O   O4        1.0  0.22752  0.22724  0.48964  1.0000
+  O   O5        1.0  0.77560  0.81637  0.87489  1.0000
+  O   O6        1.0  0.22440  0.09929  0.04077  1.0000
+  O   O7        1.0  0.44148  0.31637  0.04077  1.0000
+  O   O8        1.0  0.55852  0.59929  0.87489  1.0000
+  O   O9        1.0  0.86240  0.15736  0.51976  1.0000
+  O   O10       1.0  0.13760  0.65736  0.29496  1.0000

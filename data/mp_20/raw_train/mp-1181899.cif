@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cd2Br4O8
+_chemical_formula_sum              "Cd2 Br4 O8"
+_cell_length_a       9.51822
+_cell_length_b       3.70354
+_cell_length_c       7.59514
+_cell_angle_alpha    63.5741
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.50000  0.00000  0.00000  1.0000
+  Cd  Cd2       1.0  0.00000  0.00000  0.50000  1.0000
+  Br  Br1       1.0  0.17933  0.56937  0.00194  1.0000
+  Br  Br2       1.0  0.82067  0.43063  0.99806  1.0000
+  Br  Br3       1.0  0.32067  0.56937  0.50194  1.0000
+  Br  Br4       1.0  0.67933  0.43063  0.49806  1.0000
+  O   O1        1.0  0.42215  0.55262  0.31409  1.0000
+  O   O2        1.0  0.57785  0.44738  0.68591  1.0000
+  O   O3        1.0  0.07785  0.55262  0.81409  1.0000
+  O   O4        1.0  0.92215  0.44738  0.18591  1.0000
+  O   O5        1.0  0.14386  0.57789  0.41874  1.0000
+  O   O6        1.0  0.85614  0.42211  0.58126  1.0000
+  O   O7        1.0  0.35614  0.57789  0.91874  1.0000
+  O   O8        1.0  0.64386  0.42211  0.08126  1.0000

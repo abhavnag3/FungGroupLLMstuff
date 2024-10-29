@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Li2S2O8
+_chemical_formula_sum              "K2 Li2 S2 O8"
+_cell_length_a       5.22728
+_cell_length_b       5.22728
+_cell_length_c       8.80271
+_cell_angle_alpha    89.8365
+_cell_angle_beta     89.8365
+_cell_angle_gamma    120.364
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.03873  0.03590  0.50607  1.0000
+  K   K2        1.0  0.03590  0.03873  0.00607  1.0000
+  Li  Li1       1.0  0.36532  0.70479  0.69194  1.0000
+  Li  Li2       1.0  0.70479  0.36532  0.19194  1.0000
+  S   S1        1.0  0.69956  0.36909  0.80219  1.0000
+  S   S2        1.0  0.36909  0.69956  0.30219  1.0000
+  O   O1        1.0  0.97793  0.64437  0.75640  1.0000
+  O   O2        1.0  0.64437  0.97793  0.25640  1.0000
+  O   O3        1.0  0.43665  0.38412  0.74918  1.0000
+  O   O4        1.0  0.38412  0.43665  0.24918  1.0000
+  O   O5        1.0  0.34242  0.68771  0.47107  1.0000
+  O   O6        1.0  0.68771  0.34242  0.97107  1.0000
+  O   O7        1.0  0.10447  0.69495  0.23614  1.0000
+  O   O8        1.0  0.69495  0.10447  0.73614  1.0000

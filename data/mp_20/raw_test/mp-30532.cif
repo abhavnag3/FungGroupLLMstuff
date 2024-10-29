@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tl4Zn2I8
+_chemical_formula_sum              "Tl4 Zn2 I8"
+_cell_length_a       8.27646
+_cell_length_b       7.95845
+_cell_length_c       9.61294
+_cell_angle_alpha    72.0709
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.03530  0.25143  0.43416  1.0000
+  Tl  Tl2       1.0  0.53530  0.74857  0.56584  1.0000
+  Tl  Tl3       1.0  0.01891  0.23176  0.94578  1.0000
+  Tl  Tl4       1.0  0.51891  0.76824  0.05422  1.0000
+  Zn  Zn1       1.0  0.97308  0.78134  0.79911  1.0000
+  Zn  Zn2       1.0  0.47308  0.21865  0.20089  1.0000
+  I   I1        1.0  0.73996  0.02347  0.73065  1.0000
+  I   I2        1.0  0.23996  0.97653  0.26935  1.0000
+  I   I3        1.0  0.24055  0.97128  0.74718  1.0000
+  I   I4        1.0  0.74055  0.02872  0.25282  1.0000
+  I   I5        1.0  0.44326  0.41866  0.37436  1.0000
+  I   I6        1.0  0.94326  0.58134  0.62564  1.0000
+  I   I7        1.0  0.43627  0.40723  0.92419  1.0000
+  I   I8        1.0  0.93627  0.59277  0.07581  1.0000

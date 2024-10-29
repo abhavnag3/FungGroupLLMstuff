@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Sn3SbSe2I5
+_chemical_formula_sum              "Sn3 Sb1 Se2 I5"
+_cell_length_a       7.51955
+_cell_length_b       7.51955
+_cell_length_c       12.718
+_cell_angle_alpha    81.953
+_cell_angle_beta     81.953
+_cell_angle_gamma    33.8327
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.62786  0.62786  0.48219  1.0000
+  Sn  Sn2       1.0  0.36937  0.36937  0.52327  1.0000
+  Sn  Sn3       1.0  0.65185  0.65185  0.82720  1.0000
+  Sb  Sb1       1.0  0.35324  0.35324  0.18138  1.0000
+  Se  Se1       1.0  0.76200  0.76200  0.61608  1.0000
+  Se  Se2       1.0  0.23976  0.23976  0.37907  1.0000
+  I   I1        1.0  0.71470  0.71470  0.13676  1.0000
+  I   I2        1.0  0.29356  0.29356  0.86293  1.0000
+  I   I3        1.0  0.95657  0.95657  0.31268  1.0000
+  I   I4        1.0  0.03874  0.03874  0.66908  1.0000
+  I   I5        1.0  0.99235  0.99235  0.00936  1.0000

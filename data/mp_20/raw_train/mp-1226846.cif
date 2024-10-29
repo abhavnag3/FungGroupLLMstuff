@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cd5Te4S
+_chemical_formula_sum              "Cd5 Te4 S1"
+_cell_length_a       18.9193
+_cell_length_b       18.9193
+_cell_length_c       18.9193
+_cell_angle_alpha    13.9553
+_cell_angle_beta     13.9553
+_cell_angle_gamma    13.9553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.99502  0.99502  0.99502  1.0000
+  Cd  Cd2       1.0  0.60492  0.60492  0.60492  1.0000
+  Cd  Cd3       1.0  0.20234  0.20234  0.20234  1.0000
+  Cd  Cd4       1.0  0.79993  0.79993  0.79993  1.0000
+  Cd  Cd5       1.0  0.39747  0.39747  0.39747  1.0000
+  Te  Te1       1.0  0.55381  0.55381  0.55381  1.0000
+  Te  Te2       1.0  0.15139  0.15139  0.15139  1.0000
+  Te  Te3       1.0  0.74906  0.74906  0.74906  1.0000
+  Te  Te4       1.0  0.34669  0.34669  0.34669  1.0000
+  S   S1        1.0  0.94936  0.94936  0.94936  1.0000

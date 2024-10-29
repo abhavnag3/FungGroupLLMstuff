@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       NaZr2FeF11
+_chemical_formula_sum              "Na1 Zr2 Fe1 F11"
+_cell_length_a       5.77706
+_cell_length_b       5.77706
+_cell_length_c       7.93713
+_cell_angle_alpha    69.1245
+_cell_angle_beta     69.1245
+_cell_angle_gamma    73.0554
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr1       1.0  0.50457  0.50457  0.76503  1.0000
+  Zr  Zr2       1.0  0.49543  0.49543  0.23497  1.0000
+  Fe  Fe1       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.22304  0.80651  0.69163  1.0000
+  F   F2        1.0  0.19349  0.77696  0.30837  1.0000
+  F   F3        1.0  0.77696  0.19349  0.30837  1.0000
+  F   F4        1.0  0.80651  0.22304  0.69163  1.0000
+  F   F5        1.0  0.50000  0.50000  0.50000  1.0000
+  F   F6        1.0  0.66977  0.33022  0.00000  1.0000
+  F   F7        1.0  0.33022  0.66978  0.00000  1.0000
+  F   F8        1.0  0.24688  0.24688  0.35229  1.0000
+  F   F9        1.0  0.75312  0.75312  0.64772  1.0000
+  F   F10       1.0  0.26648  0.26648  0.89105  1.0000
+  F   F11       1.0  0.73352  0.73352  0.10895  1.0000

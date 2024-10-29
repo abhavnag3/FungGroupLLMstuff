@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr3Li3Ni4N4
+_chemical_formula_sum              "Sr3 Li3 Ni4 N4"
+_cell_length_a       9.33644
+_cell_length_b       9.33644
+_cell_length_c       9.33644
+_cell_angle_alpha    154.928
+_cell_angle_beta     135.572
+_cell_angle_gamma    51.6912
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.78185  0.78185  0.00000  1.0000
+  Sr  Sr2       1.0  0.21815  0.21815  0.00000  1.0000
+  Sr  Sr3       1.0  0.00000  0.00000  0.00000  1.0000
+  Li  Li1       1.0  0.61586  0.11586  0.50000  1.0000
+  Li  Li2       1.0  0.38414  0.88414  0.50000  1.0000
+  Li  Li3       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni1       1.0  0.63024  0.38028  0.24996  1.0000
+  Ni  Ni2       1.0  0.13032  0.38028  0.75004  1.0000
+  Ni  Ni3       1.0  0.36976  0.61972  0.75004  1.0000
+  Ni  Ni4       1.0  0.86968  0.61972  0.24996  1.0000
+  N   N1        1.0  0.88360  0.38360  0.50000  1.0000
+  N   N2        1.0  0.11640  0.61640  0.50000  1.0000
+  N   N3        1.0  0.37948  0.37948  0.00000  1.0000
+  N   N4        1.0  0.62052  0.62052  0.00000  1.0000

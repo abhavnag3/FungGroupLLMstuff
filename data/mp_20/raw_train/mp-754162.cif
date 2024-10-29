@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Gd4O8
+_chemical_formula_sum              "Li4 Gd4 O8"
+_cell_length_a       6.21574
+_cell_length_b       6.36667
+_cell_length_c       6.48603
+_cell_angle_alpha    59.9189
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.15835  0.70315  0.57061  1.0000
+  Li  Li2       1.0  0.65836  0.29685  0.92939  1.0000
+  Li  Li3       1.0  0.34164  0.70315  0.07061  1.0000
+  Li  Li4       1.0  0.84164  0.29685  0.42939  1.0000
+  Gd  Gd1       1.0  0.86754  0.76885  0.97461  1.0000
+  Gd  Gd2       1.0  0.63246  0.76885  0.47461  1.0000
+  Gd  Gd3       1.0  0.36754  0.23115  0.52539  1.0000
+  Gd  Gd4       1.0  0.13246  0.23115  0.02539  1.0000
+  O   O1        1.0  0.17807  0.98386  0.85621  1.0000
+  O   O2        1.0  0.32193  0.98386  0.35621  1.0000
+  O   O3        1.0  0.89434  0.54948  0.76299  1.0000
+  O   O4        1.0  0.39434  0.45052  0.73701  1.0000
+  O   O5        1.0  0.60566  0.54948  0.26299  1.0000
+  O   O6        1.0  0.10566  0.45052  0.23701  1.0000
+  O   O7        1.0  0.67807  0.01614  0.64379  1.0000
+  O   O8        1.0  0.82193  0.01614  0.14379  1.0000

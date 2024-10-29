@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tl4Te2Br12
+_chemical_formula_sum              "Tl4 Te2 Br12"
+_cell_length_a       7.62599
+_cell_length_b       7.62599
+_cell_length_c       11.1947
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.50000  0.00000  0.75000  1.0000
+  Tl  Tl2       1.0  0.00000  0.50000  0.75000  1.0000
+  Tl  Tl3       1.0  0.50000  0.00000  0.25000  1.0000
+  Tl  Tl4       1.0  0.00000  0.50000  0.25000  1.0000
+  Te  Te1       1.0  0.50000  0.50000  0.50000  1.0000
+  Te  Te2       1.0  0.00000  0.00000  0.00000  1.0000
+  Br  Br1       1.0  0.19901  0.30463  0.50000  1.0000
+  Br  Br2       1.0  0.80099  0.69537  0.50000  1.0000
+  Br  Br3       1.0  0.80463  0.69901  0.00000  1.0000
+  Br  Br4       1.0  0.30463  0.80099  0.50000  1.0000
+  Br  Br5       1.0  0.69537  0.19901  0.50000  1.0000
+  Br  Br6       1.0  0.30099  0.80463  0.00000  1.0000
+  Br  Br7       1.0  0.00000  0.00000  0.24478  1.0000
+  Br  Br8       1.0  0.50000  0.50000  0.25522  1.0000
+  Br  Br9       1.0  0.00000  0.00000  0.75522  1.0000
+  Br  Br10      1.0  0.50000  0.50000  0.74478  1.0000
+  Br  Br11      1.0  0.19537  0.30099  0.00000  1.0000
+  Br  Br12      1.0  0.69901  0.19537  0.00000  1.0000

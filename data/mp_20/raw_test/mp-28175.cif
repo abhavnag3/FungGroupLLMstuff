@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Pd2Se4Cl12
+_chemical_formula_sum              "Pd2 Se4 Cl12"
+_cell_length_a       9.86033
+_cell_length_b       9.86033
+_cell_length_c       7.70905
+_cell_angle_alpha    80.0915
+_cell_angle_beta     80.0915
+_cell_angle_gamma    53.0091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.83737  0.16264  0.75000  1.0000
+  Pd  Pd2       1.0  0.16263  0.83737  0.25000  1.0000
+  Se  Se1       1.0  0.93081  0.26469  0.93437  1.0000
+  Se  Se2       1.0  0.73531  0.06919  0.56563  1.0000
+  Se  Se3       1.0  0.06919  0.73531  0.06563  1.0000
+  Se  Se4       1.0  0.26469  0.93081  0.43437  1.0000
+  Cl  Cl1       1.0  0.68854  0.52347  0.95617  1.0000
+  Cl  Cl2       1.0  0.47653  0.31146  0.54383  1.0000
+  Cl  Cl3       1.0  0.31146  0.47653  0.04383  1.0000
+  Cl  Cl4       1.0  0.52347  0.68854  0.45617  1.0000
+  Cl  Cl5       1.0  0.08637  0.33493  0.76757  1.0000
+  Cl  Cl6       1.0  0.66507  0.91363  0.73243  1.0000
+  Cl  Cl7       1.0  0.08725  0.76288  0.53475  1.0000
+  Cl  Cl8       1.0  0.23712  0.91275  0.96525  1.0000
+  Cl  Cl9       1.0  0.91275  0.23712  0.46525  1.0000
+  Cl  Cl10      1.0  0.76288  0.08725  0.03475  1.0000
+  Cl  Cl11      1.0  0.33493  0.08637  0.26757  1.0000
+  Cl  Cl12      1.0  0.91363  0.66507  0.23243  1.0000

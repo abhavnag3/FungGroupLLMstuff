@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ba3Mn2RuO9
+_chemical_formula_sum              "Ba3 Mn2 Ru1 O9"
+_cell_length_a       8.02045
+_cell_length_b       8.02045
+_cell_length_c       8.02045
+_cell_angle_alpha    42.6455
+_cell_angle_beta     42.6455
+_cell_angle_gamma    42.6455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.99835  0.99835  0.99835  1.0000
+  Ba  Ba2       1.0  0.21716  0.21716  0.21716  1.0000
+  Ba  Ba3       1.0  0.78296  0.78296  0.78296  1.0000
+  Mn  Mn1       1.0  0.61841  0.61841  0.61841  1.0000
+  Mn  Mn2       1.0  0.50100  0.50100  0.50100  1.0000
+  Ru  Ru1       1.0  0.38155  0.38155  0.38155  1.0000
+  O   O1        1.0  0.70463  0.25665  0.70463  1.0000
+  O   O2        1.0  0.25665  0.70463  0.70463  1.0000
+  O   O3        1.0  0.70463  0.70463  0.25665  1.0000
+  O   O4        1.0  0.29438  0.74201  0.29438  1.0000
+  O   O5        1.0  0.74201  0.29438  0.29438  1.0000
+  O   O6        1.0  0.29438  0.29438  0.74201  1.0000
+  O   O7        1.0  0.00498  0.49946  0.49946  1.0000
+  O   O8        1.0  0.49946  0.49946  0.00498  1.0000
+  O   O9        1.0  0.49946  0.00498  0.49946  1.0000

@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       PrCoGe3
+_chemical_formula_sum              "Pr1 Co1 Ge3"
+_cell_length_a       5.84125
+_cell_length_b       5.84125
+_cell_length_c       5.84125
+_cell_angle_alpha    136.379
+_cell_angle_beta     136.379
+_cell_angle_gamma    63.3952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.43247  0.43247  0.00000  1.0000
+  Co  Co1       1.0  0.76630  0.76630  0.00000  1.0000
+  Ge  Ge1       1.0  0.17421  0.67421  0.50000  1.0000
+  Ge  Ge2       1.0  0.99745  0.99745  0.00000  1.0000
+  Ge  Ge3       1.0  0.67421  0.17421  0.50000  1.0000

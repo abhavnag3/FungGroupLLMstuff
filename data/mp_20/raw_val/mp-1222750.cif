@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li2GeSb2Te5
+_chemical_formula_sum              "Li2 Ge1 Sb2 Te5"
+_cell_length_a       18.1403
+_cell_length_b       18.1403
+_cell_length_c       18.1403
+_cell_angle_alpha    13.7257
+_cell_angle_beta     13.7257
+_cell_angle_gamma    13.7257
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.41175  0.41175  0.41175  1.0000
+  Li  Li2       1.0  0.78668  0.78668  0.78668  1.0000
+  Ge  Ge1       1.0  0.00564  0.00564  0.00564  1.0000
+  Sb  Sb1       1.0  0.19570  0.19570  0.19570  1.0000
+  Sb  Sb2       1.0  0.60258  0.60258  0.60258  1.0000
+  Te  Te1       1.0  0.30140  0.30140  0.30140  1.0000
+  Te  Te2       1.0  0.49693  0.49693  0.49693  1.0000
+  Te  Te3       1.0  0.89968  0.89968  0.89968  1.0000
+  Te  Te4       1.0  0.69877  0.69877  0.69877  1.0000
+  Te  Te5       1.0  0.10087  0.10087  0.10087  1.0000

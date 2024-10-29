@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Y10Ge6C2
+_chemical_formula_sum              "Y10 Ge6 C2"
+_cell_length_a       8.52873
+_cell_length_b       8.52873
+_cell_length_c       6.46213
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.66617  0.33384  0.50000  1.0000
+  Y   Y2        1.0  0.33384  0.66617  0.50000  1.0000
+  Y   Y3        1.0  0.33383  0.66616  0.00000  1.0000
+  Y   Y4        1.0  0.66616  0.33383  0.00000  1.0000
+  Y   Y5        1.0  0.77733  0.77733  0.25000  1.0000
+  Y   Y6        1.0  0.22132  0.00033  0.25000  1.0000
+  Y   Y7        1.0  0.00033  0.22132  0.25000  1.0000
+  Y   Y8        1.0  0.22268  0.22268  0.75000  1.0000
+  Y   Y9        1.0  0.77868  0.99967  0.75000  1.0000
+  Y   Y10       1.0  0.99967  0.77868  0.75000  1.0000
+  Ge  Ge1       1.0  0.40667  0.40667  0.24999  1.0000
+  Ge  Ge2       1.0  0.59279  0.99999  0.25001  1.0000
+  Ge  Ge3       1.0  0.99999  0.59279  0.25001  1.0000
+  Ge  Ge4       1.0  0.59333  0.59333  0.74999  1.0000
+  Ge  Ge5       1.0  0.40721  0.00001  0.75001  1.0000
+  Ge  Ge6       1.0  0.00001  0.40721  0.75001  1.0000
+  C   C1        1.0  0.00001  0.00001  0.49999  1.0000
+  C   C2        1.0  0.99999  0.99999  0.99999  1.0000

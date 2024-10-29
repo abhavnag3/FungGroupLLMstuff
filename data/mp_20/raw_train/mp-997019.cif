@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2Pb2O4
+_chemical_formula_sum              "Ag2 Pb2 O4"
+_cell_length_a       6.75842
+_cell_length_b       6.75842
+_cell_length_c       6.50056
+_cell_angle_alpha    81.8871
+_cell_angle_beta     81.8871
+_cell_angle_gamma    30.5455
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.74968  0.74968  0.19533  1.0000
+  Ag  Ag2       1.0  0.25032  0.25032  0.80467  1.0000
+  Pb  Pb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Pb  Pb2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.91236  0.91236  0.17038  1.0000
+  O   O2        1.0  0.41240  0.41240  0.73794  1.0000
+  O   O3        1.0  0.58760  0.58760  0.26206  1.0000
+  O   O4        1.0  0.08764  0.08764  0.82962  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr4Ge4Pt4
+_chemical_formula_sum              "Sr4 Ge4 Pt4"
+_cell_length_a       6.69206
+_cell_length_b       6.69206
+_cell_length_c       6.69206
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.13584  0.13584  0.13584  1.0000
+  Sr  Sr2       1.0  0.36416  0.86416  0.63584  1.0000
+  Sr  Sr3       1.0  0.63584  0.36416  0.86416  1.0000
+  Sr  Sr4       1.0  0.86416  0.63584  0.36416  1.0000
+  Ge  Ge1       1.0  0.16548  0.33452  0.66548  1.0000
+  Ge  Ge2       1.0  0.33452  0.66548  0.16548  1.0000
+  Ge  Ge3       1.0  0.66548  0.16548  0.33452  1.0000
+  Ge  Ge4       1.0  0.83452  0.83452  0.83452  1.0000
+  Pt  Pt1       1.0  0.58261  0.91739  0.08260  1.0000
+  Pt  Pt2       1.0  0.91739  0.08260  0.58261  1.0000
+  Pt  Pt3       1.0  0.08260  0.58261  0.91739  1.0000
+  Pt  Pt4       1.0  0.41740  0.41740  0.41740  1.0000

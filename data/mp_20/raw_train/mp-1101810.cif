@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ge8W4
+_chemical_formula_sum              "Ge8 W4"
+_cell_length_a       3.49338
+_cell_length_b       6.43418
+_cell_length_c       8.62226
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.25000  0.86557  0.95954  1.0000
+  Ge  Ge2       1.0  0.25000  0.36556  0.54046  1.0000
+  Ge  Ge3       1.0  0.75000  0.13443  0.04046  1.0000
+  Ge  Ge4       1.0  0.75000  0.63443  0.45954  1.0000
+  Ge  Ge5       1.0  0.25000  0.93773  0.36800  1.0000
+  Ge  Ge6       1.0  0.25000  0.43773  0.13200  1.0000
+  Ge  Ge7       1.0  0.75000  0.06227  0.63200  1.0000
+  Ge  Ge8       1.0  0.75000  0.56227  0.86800  1.0000
+  W   W1        1.0  0.25000  0.25064  0.82886  1.0000
+  W   W2        1.0  0.25000  0.75064  0.67114  1.0000
+  W   W3        1.0  0.75000  0.74936  0.17114  1.0000
+  W   W4        1.0  0.75000  0.24936  0.32886  1.0000

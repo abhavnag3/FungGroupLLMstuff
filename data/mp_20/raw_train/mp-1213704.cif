@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs6Li2Pb8
+_chemical_formula_sum              "Cs6 Li2 Pb8"
+_cell_length_a       9.47154
+_cell_length_b       9.47154
+_cell_length_c       10.9027
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    134.159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.23187  0.76813  0.25000  1.0000
+  Cs  Cs2       1.0  0.76813  0.23187  0.75000  1.0000
+  Cs  Cs3       1.0  0.61179  0.38821  0.05421  1.0000
+  Cs  Cs4       1.0  0.38821  0.61179  0.94579  1.0000
+  Cs  Cs5       1.0  0.38821  0.61179  0.55421  1.0000
+  Cs  Cs6       1.0  0.61179  0.38821  0.44579  1.0000
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.50000  1.0000
+  Pb  Pb1       1.0  0.17798  0.26222  0.25000  1.0000
+  Pb  Pb2       1.0  0.82202  0.73778  0.75000  1.0000
+  Pb  Pb3       1.0  0.73778  0.82202  0.25000  1.0000
+  Pb  Pb4       1.0  0.26222  0.17798  0.75000  1.0000
+  Pb  Pb5       1.0  0.83202  0.16798  0.10800  1.0000
+  Pb  Pb6       1.0  0.16798  0.83202  0.89200  1.0000
+  Pb  Pb7       1.0  0.16798  0.83202  0.60800  1.0000
+  Pb  Pb8       1.0  0.83202  0.16798  0.39200  1.0000

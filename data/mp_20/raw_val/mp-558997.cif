@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sm2Mo2Cl2O8
+_chemical_formula_sum              "Sm2 Mo2 Cl2 O8"
+_cell_length_a       6.43232
+_cell_length_b       6.43232
+_cell_length_c       7.00647
+_cell_angle_alpha    76.3856
+_cell_angle_beta     76.3856
+_cell_angle_gamma    71.0618
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.77827  0.77827  0.11320  1.0000
+  Sm  Sm2       1.0  0.22173  0.22173  0.88680  1.0000
+  Mo  Mo1       1.0  0.36256  0.36256  0.26832  1.0000
+  Mo  Mo2       1.0  0.63744  0.63744  0.73169  1.0000
+  Cl  Cl1       1.0  0.98894  0.98894  0.76496  1.0000
+  Cl  Cl2       1.0  0.01106  0.01106  0.23504  1.0000
+  O   O1        1.0  0.88388  0.50983  0.84881  1.0000
+  O   O2        1.0  0.29323  0.29323  0.53067  1.0000
+  O   O3        1.0  0.53977  0.53977  0.20663  1.0000
+  O   O4        1.0  0.70677  0.70677  0.46933  1.0000
+  O   O5        1.0  0.46023  0.46023  0.79338  1.0000
+  O   O6        1.0  0.49017  0.11612  0.15119  1.0000
+  O   O7        1.0  0.11612  0.49017  0.15119  1.0000
+  O   O8        1.0  0.50983  0.88388  0.84881  1.0000

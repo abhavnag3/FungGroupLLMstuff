@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mn4Hg2O8
+_chemical_formula_sum              "Mn4 Hg2 O8"
+_cell_length_a       5.9686
+_cell_length_b       6.60585
+_cell_length_c       5.9686
+_cell_angle_alpha    62.9973
+_cell_angle_beta     90.2892
+_cell_angle_gamma    117.002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.87513  0.25024  0.37458  1.0000
+  Mn  Mn2       1.0  0.37522  0.75003  0.87503  1.0000
+  Mn  Mn3       1.0  0.37495  0.24985  0.37532  1.0000
+  Mn  Mn4       1.0  0.37477  0.74994  0.37506  1.0000
+  Hg  Hg1       1.0  0.99997  0.00000  0.99999  1.0000
+  Hg  Hg2       1.0  0.74998  0.50000  0.75001  1.0000
+  O   O1        1.0  0.14450  0.28905  0.14175  1.0000
+  O   O2        1.0  0.60523  0.21095  0.18079  1.0000
+  O   O3        1.0  0.56918  0.71095  0.14478  1.0000
+  O   O4        1.0  0.14170  0.71092  0.14431  1.0000
+  O   O5        1.0  0.60577  0.21094  0.60823  1.0000
+  O   O6        1.0  0.14462  0.28904  0.56919  1.0000
+  O   O7        1.0  0.18078  0.78904  0.60539  1.0000
+  O   O8        1.0  0.60819  0.78904  0.60558  1.0000

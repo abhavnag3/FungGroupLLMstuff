@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Re2N4
+_chemical_formula_sum              "Li2 Re2 N4"
+_cell_length_a       5.72338
+_cell_length_b       4.68087
+_cell_length_c       9.33847
+_cell_angle_alpha    90
+_cell_angle_beta     144.668
+_cell_angle_gamma    114.137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.50000  0.75000  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.50000  1.0000
+  Re  Re1       1.0  0.00000  0.50000  0.25000  1.0000
+  Re  Re2       1.0  0.00000  0.00000  0.00000  1.0000
+  N   N1        1.0  0.50000  0.04857  0.12500  1.0000
+  N   N2        1.0  0.50000  0.95143  0.62500  1.0000
+  N   N3        1.0  0.40286  0.45143  0.32643  1.0000
+  N   N4        1.0  0.59713  0.54857  0.92357  1.0000

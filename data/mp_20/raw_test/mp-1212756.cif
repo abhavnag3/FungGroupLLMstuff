@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4Br4Cl4
+_chemical_formula_sum              "Eu4 Br4 Cl4"
+_cell_length_a       4.30325
+_cell_length_b       8.0554
+_cell_length_c       9.71765
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.75000  0.80641  0.84769  1.0000
+  Eu  Eu2       1.0  0.25000  0.19359  0.15231  1.0000
+  Eu  Eu3       1.0  0.25000  0.69359  0.34769  1.0000
+  Eu  Eu4       1.0  0.75000  0.30641  0.65231  1.0000
+  Br  Br1       1.0  0.75000  0.99367  0.32207  1.0000
+  Br  Br2       1.0  0.25000  0.00633  0.67793  1.0000
+  Br  Br3       1.0  0.25000  0.50633  0.82207  1.0000
+  Br  Br4       1.0  0.75000  0.49367  0.17793  1.0000
+  Cl  Cl1       1.0  0.75000  0.65997  0.55449  1.0000
+  Cl  Cl2       1.0  0.25000  0.34003  0.44552  1.0000
+  Cl  Cl3       1.0  0.25000  0.84003  0.05448  1.0000
+  Cl  Cl4       1.0  0.75000  0.15996  0.94551  1.0000

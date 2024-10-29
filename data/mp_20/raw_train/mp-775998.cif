@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li4CrBiTe2O12
+_chemical_formula_sum              "Li4 Cr1 Bi1 Te2 O12"
+_cell_length_a       5.22318
+_cell_length_b       5.48819
+_cell_length_c       7.58923
+_cell_angle_alpha    94.0672
+_cell_angle_beta     90.0977
+_cell_angle_gamma    90.1337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50906  0.04362  0.75034  1.0000
+  Li  Li2       1.0  0.49789  0.05672  0.19212  1.0000
+  Li  Li3       1.0  0.99360  0.59488  0.18594  1.0000
+  Li  Li4       1.0  0.00003  0.58723  0.73597  1.0000
+  Cr  Cr1       1.0  0.99910  0.00991  0.99882  1.0000
+  Bi  Bi1       1.0  0.50155  0.50384  0.49428  1.0000
+  Te  Te1       1.0  0.00107  0.00443  0.49969  1.0000
+  Te  Te2       1.0  0.49904  0.49951  0.99843  1.0000
+  O   O1        1.0  0.32127  0.18931  0.95007  1.0000
+  O   O2        1.0  0.67492  0.14937  0.43500  1.0000
+  O   O3        1.0  0.16757  0.30916  0.58304  1.0000
+  O   O4        1.0  0.78792  0.30683  0.07204  1.0000
+  O   O5        1.0  0.64046  0.46689  0.75735  1.0000
+  O   O6        1.0  0.35193  0.48510  0.23807  1.0000
+  O   O7        1.0  0.19586  0.68106  0.94742  1.0000
+  O   O8        1.0  0.85476  0.67677  0.43488  1.0000
+  O   O9        1.0  0.30382  0.82774  0.58610  1.0000
+  O   O10       1.0  0.69519  0.78982  0.06715  1.0000
+  O   O11       1.0  0.87631  0.96904  0.73977  1.0000
+  O   O12       1.0  0.12866  0.99116  0.26231  1.0000

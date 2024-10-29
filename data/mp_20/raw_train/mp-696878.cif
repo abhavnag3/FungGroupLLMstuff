@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       K3CaP2HO8
+_chemical_formula_sum              "K3 Ca1 P2 H1 O8"
+_cell_length_a       5.77568
+_cell_length_b       5.77568
+_cell_length_c       7.52155
+_cell_angle_alpha    86.0006
+_cell_angle_beta     86.0006
+_cell_angle_gamma    60.4197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.00000  0.00000  0.50000  1.0000
+  K   K2        1.0  0.33031  0.33031  0.19049  1.0000
+  K   K3        1.0  0.66969  0.66969  0.80951  1.0000
+  Ca  Ca1       1.0  0.00000  0.00000  0.00000  1.0000
+  P   P1        1.0  0.34025  0.34025  0.74861  1.0000
+  P   P2        1.0  0.65975  0.65975  0.25139  1.0000
+  H   H1        1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.18518  0.18518  0.78091  1.0000
+  O   O2        1.0  0.81482  0.81482  0.21909  1.0000
+  O   O3        1.0  0.37919  0.37919  0.54022  1.0000
+  O   O4        1.0  0.62081  0.62081  0.45978  1.0000
+  O   O5        1.0  0.18223  0.62044  0.82827  1.0000
+  O   O6        1.0  0.62044  0.18223  0.82827  1.0000
+  O   O7        1.0  0.81777  0.37956  0.17173  1.0000
+  O   O8        1.0  0.37956  0.81777  0.17173  1.0000

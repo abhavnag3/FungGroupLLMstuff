@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mg2P2S6
+_chemical_formula_sum              "Mg2 P2 S6"
+_cell_length_a       6.10743
+_cell_length_b       6.10743
+_cell_length_c       7.25099
+_cell_angle_alpha    81.9682
+_cell_angle_beta     81.9682
+_cell_angle_gamma    119.987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.66699  0.33301  0.00000  1.0000
+  Mg  Mg2       1.0  0.33301  0.66699  0.00000  1.0000
+  P   P1        1.0  0.05289  0.05289  0.84133  1.0000
+  P   P2        1.0  0.94711  0.94711  0.15867  1.0000
+  S   S1        1.0  0.75496  0.75496  0.76462  1.0000
+  S   S2        1.0  0.24504  0.24504  0.23538  1.0000
+  S   S3        1.0  0.07826  0.40136  0.76431  1.0000
+  S   S4        1.0  0.40136  0.07826  0.76431  1.0000
+  S   S5        1.0  0.92174  0.59864  0.23569  1.0000
+  S   S6        1.0  0.59864  0.92174  0.23569  1.0000

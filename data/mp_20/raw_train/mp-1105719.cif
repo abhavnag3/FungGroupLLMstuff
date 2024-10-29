@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K4Cr2O2F10
+_chemical_formula_sum              "K4 Cr2 O2 F10"
+_cell_length_a       6.21079
+_cell_length_b       6.21079
+_cell_length_c       8.30278
+_cell_angle_alpha    85.4466
+_cell_angle_beta     85.4466
+_cell_angle_gamma    77.4728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.30430  0.29940  0.02236  1.0000
+  K   K2        1.0  0.70061  0.69570  0.47764  1.0000
+  K   K3        1.0  0.69570  0.70060  0.97764  1.0000
+  K   K4        1.0  0.29940  0.30430  0.52236  1.0000
+  Cr  Cr1       1.0  0.82061  0.17939  0.25000  1.0000
+  Cr  Cr2       1.0  0.17939  0.82061  0.75000  1.0000
+  O   O1        1.0  0.02673  0.97327  0.25000  1.0000
+  O   O2        1.0  0.97327  0.02673  0.75000  1.0000
+  F   F1        1.0  0.85228  0.26893  0.03099  1.0000
+  F   F2        1.0  0.73107  0.14772  0.46901  1.0000
+  F   F3        1.0  0.14772  0.73107  0.96901  1.0000
+  F   F4        1.0  0.26893  0.85228  0.53099  1.0000
+  F   F5        1.0  0.56420  0.43580  0.25000  1.0000
+  F   F6        1.0  0.43580  0.56420  0.75000  1.0000
+  F   F7        1.0  0.61092  0.01616  0.20439  1.0000
+  F   F8        1.0  0.98384  0.38908  0.29561  1.0000
+  F   F9        1.0  0.38908  0.98384  0.79561  1.0000
+  F   F10       1.0  0.01616  0.61092  0.70439  1.0000

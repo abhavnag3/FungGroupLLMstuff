@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       NaZr2TiF11
+_chemical_formula_sum              "Na1 Zr2 Ti1 F11"
+_cell_length_a       5.77835
+_cell_length_b       5.77835
+_cell_length_c       7.9319
+_cell_angle_alpha    69.3037
+_cell_angle_beta     69.3037
+_cell_angle_gamma    73.0886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr1       1.0  0.50433  0.50433  0.76544  1.0000
+  Zr  Zr2       1.0  0.49567  0.49567  0.23456  1.0000
+  Ti  Ti1       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.21956  0.80918  0.69007  1.0000
+  F   F2        1.0  0.19082  0.78044  0.30993  1.0000
+  F   F3        1.0  0.78044  0.19082  0.30993  1.0000
+  F   F4        1.0  0.80918  0.21956  0.69007  1.0000
+  F   F5        1.0  0.50000  0.50000  0.50000  1.0000
+  F   F6        1.0  0.67069  0.32931  0.00000  1.0000
+  F   F7        1.0  0.32931  0.67069  0.00000  1.0000
+  F   F8        1.0  0.24420  0.24420  0.35872  1.0000
+  F   F9        1.0  0.75580  0.75580  0.64128  1.0000
+  F   F10       1.0  0.26573  0.26573  0.88918  1.0000
+  F   F11       1.0  0.73427  0.73427  0.11082  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr3CaNi2W2O12
+_chemical_formula_sum              "Sr3 Ca1 Ni2 W2 O12"
+_cell_length_a       5.62333
+_cell_length_b       5.65114
+_cell_length_c       7.9577
+_cell_angle_alpha    90.0962
+_cell_angle_beta     90.0398
+_cell_angle_gamma    90.1029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.49375  0.97134  0.74913  1.0000
+  Sr  Sr2       1.0  0.00421  0.47585  0.75003  1.0000
+  Sr  Sr3       1.0  0.50413  0.02544  0.25081  1.0000
+  Ca  Ca1       1.0  0.99387  0.53862  0.24843  1.0000
+  Ni  Ni1       1.0  0.99996  0.00135  0.00126  1.0000
+  Ni  Ni2       1.0  0.49974  0.49898  0.49797  1.0000
+  W   W1        1.0  0.49863  0.49953  0.00299  1.0000
+  W   W2        1.0  0.00147  0.99989  0.49746  1.0000
+  O   O1        1.0  0.05874  0.96992  0.25757  1.0000
+  O   O2        1.0  0.55875  0.50212  0.76085  1.0000
+  O   O3        1.0  0.93976  0.01761  0.73928  1.0000
+  O   O4        1.0  0.42119  0.49492  0.24192  1.0000
+  O   O5        1.0  0.21017  0.72803  0.53311  1.0000
+  O   O6        1.0  0.71202  0.76989  0.03276  1.0000
+  O   O7        1.0  0.80017  0.27745  0.45668  1.0000
+  O   O8        1.0  0.29310  0.22527  0.97064  1.0000
+  O   O9        1.0  0.27554  0.20763  0.52616  1.0000
+  O   O10       1.0  0.77549  0.29607  0.04334  1.0000
+  O   O11       1.0  0.72908  0.78766  0.47151  1.0000
+  O   O12       1.0  0.23023  0.71244  0.96811  1.0000

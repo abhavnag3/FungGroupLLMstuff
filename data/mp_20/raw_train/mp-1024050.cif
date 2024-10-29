@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Na4Zn6Se8
+_chemical_formula_sum              "Na4 Zn6 Se8"
+_cell_length_a       9.1193
+_cell_length_b       9.1193
+_cell_length_c       9.1193
+_cell_angle_alpha    141.299
+_cell_angle_beta     108.402
+_cell_angle_gamma    84.4848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.62515  0.73540  0.36055  1.0000
+  Na  Na2       1.0  0.37485  0.26460  0.63945  1.0000
+  Na  Na3       1.0  0.12515  0.76460  0.88974  1.0000
+  Na  Na4       1.0  0.87485  0.23540  0.11026  1.0000
+  Zn  Zn1       1.0  0.75000  0.25000  0.50000  1.0000
+  Zn  Zn2       1.0  0.25000  0.75000  0.50000  1.0000
+  Zn  Zn3       1.0  0.97222  0.75000  0.22222  1.0000
+  Zn  Zn4       1.0  0.52778  0.75000  0.77778  1.0000
+  Zn  Zn5       1.0  0.02778  0.25000  0.77778  1.0000
+  Zn  Zn6       1.0  0.47222  0.25000  0.22222  1.0000
+  Se  Se1       1.0  0.00618  0.86674  0.60039  1.0000
+  Se  Se2       1.0  0.26635  0.40580  0.39961  1.0000
+  Se  Se3       1.0  0.23365  0.63326  0.13944  1.0000
+  Se  Se4       1.0  0.49382  0.09420  0.86056  1.0000
+  Se  Se5       1.0  0.99382  0.13326  0.39961  1.0000
+  Se  Se6       1.0  0.73365  0.59420  0.60039  1.0000
+  Se  Se7       1.0  0.76635  0.36674  0.86056  1.0000
+  Se  Se8       1.0  0.50618  0.90580  0.13944  1.0000

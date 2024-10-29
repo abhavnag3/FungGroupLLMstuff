@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs2Pb4I10
+_chemical_formula_sum              "Cs2 Pb4 I10"
+_cell_length_a       10.6372
+_cell_length_b       10.6372
+_cell_length_c       10.6372
+_cell_angle_alpha    128.761
+_cell_angle_beta     128.761
+_cell_angle_gamma    75.3946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25000  0.25000  0.00000  1.0000
+  Cs  Cs2       1.0  0.75000  0.75000  0.00000  1.0000
+  Pb  Pb1       1.0  0.83336  0.33336  0.16672  1.0000
+  Pb  Pb2       1.0  0.66664  0.83336  0.50000  1.0000
+  Pb  Pb3       1.0  0.33336  0.16664  0.50000  1.0000
+  Pb  Pb4       1.0  0.16664  0.66664  0.83328  1.0000
+  I   I1        1.0  0.00000  0.00000  0.00000  1.0000
+  I   I2        1.0  0.50000  0.50000  0.00000  1.0000
+  I   I3        1.0  0.97293  0.78115  0.50000  1.0000
+  I   I4        1.0  0.78115  0.28115  0.80822  1.0000
+  I   I5        1.0  0.47292  0.97293  0.19178  1.0000
+  I   I6        1.0  0.28115  0.47292  0.50000  1.0000
+  I   I7        1.0  0.71885  0.52707  0.50000  1.0000
+  I   I8        1.0  0.52707  0.02708  0.80822  1.0000
+  I   I9        1.0  0.21885  0.71885  0.19178  1.0000
+  I   I10       1.0  0.02707  0.21885  0.50000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Fe2Co2S8
+_chemical_formula_sum              "Fe2 Co2 S8"
+_cell_length_a       5.46326
+_cell_length_b       5.44195
+_cell_length_c       5.46212
+_cell_angle_alpha    89.798
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.50000  0.00000  0.50000  1.0000
+  Co  Co1       1.0  0.00000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.50000  0.00000  1.0000
+  S   S1        1.0  0.61827  0.88742  0.88135  1.0000
+  S   S2        1.0  0.11827  0.11258  0.61865  1.0000
+  S   S3        1.0  0.38701  0.61861  0.38830  1.0000
+  S   S4        1.0  0.88701  0.38139  0.11170  1.0000
+  S   S5        1.0  0.38173  0.11258  0.11865  1.0000
+  S   S6        1.0  0.88173  0.88742  0.38135  1.0000
+  S   S7        1.0  0.61299  0.38139  0.61170  1.0000
+  S   S8        1.0  0.11299  0.61861  0.88830  1.0000

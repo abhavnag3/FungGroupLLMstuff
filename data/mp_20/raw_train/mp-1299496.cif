@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg4Co2W2O12
+_chemical_formula_sum              "Mg4 Co2 W2 O12"
+_cell_length_a       5.18106
+_cell_length_b       5.32838
+_cell_length_c       7.78691
+_cell_angle_alpha    89.9889
+_cell_angle_beta     90.2709
+_cell_angle_gamma    90.033
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.99433  0.04809  0.26938  1.0000
+  Mg  Mg2       1.0  0.50617  0.54847  0.23054  1.0000
+  Mg  Mg3       1.0  0.00567  0.95191  0.73062  1.0000
+  Mg  Mg4       1.0  0.49382  0.45152  0.76946  1.0000
+  Co  Co1       1.0  0.00000  0.50000  0.50000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.00000  1.0000
+  W   W1        1.0  0.50000  0.00000  0.50000  1.0000
+  W   W2        1.0  1.00000  0.50000  1.00000  1.0000
+  O   O1        1.0  0.66702  0.30039  0.40846  1.0000
+  O   O2        1.0  0.83329  0.80017  0.09170  1.0000
+  O   O3        1.0  0.33298  0.69960  0.59154  1.0000
+  O   O4        1.0  0.16671  0.19983  0.90830  1.0000
+  O   O5        1.0  0.18322  0.17756  0.54943  1.0000
+  O   O6        1.0  0.31691  0.67780  0.95061  1.0000
+  O   O7        1.0  0.81678  0.82244  0.45057  1.0000
+  O   O8        1.0  0.68309  0.32221  0.04939  1.0000
+  O   O9        1.0  0.13153  0.41294  0.23043  1.0000
+  O   O10       1.0  0.36860  0.91300  0.26935  1.0000
+  O   O11       1.0  0.63141  0.08700  0.73066  1.0000
+  O   O12       1.0  0.86847  0.58706  0.76957  1.0000

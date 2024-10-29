@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr3Mn4PbO12
+_chemical_formula_sum              "Pr3 Mn4 Pb1 O12"
+_cell_length_a       7.89606
+_cell_length_b       5.56303
+_cell_length_c       5.60444
+_cell_angle_alpha    89.1397
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.00000  0.98976  0.04046  1.0000
+  Pr  Pr2       1.0  0.50000  0.48867  0.45627  1.0000
+  Pr  Pr3       1.0  0.50000  0.00428  0.96363  1.0000
+  Mn  Mn1       1.0  0.25050  0.99918  0.50217  1.0000
+  Mn  Mn2       1.0  0.75063  0.50006  0.99557  1.0000
+  Mn  Mn3       1.0  0.74950  0.99918  0.50217  1.0000
+  Mn  Mn4       1.0  0.24937  0.50006  0.99557  1.0000
+  Pb  Pb1       1.0  0.00000  0.50503  0.51177  1.0000
+  O   O1        1.0  0.29534  0.21995  0.21768  1.0000
+  O   O2        1.0  0.70095  0.27514  0.71693  1.0000
+  O   O3        1.0  0.78187  0.79771  0.79810  1.0000
+  O   O4        1.0  0.22223  0.72817  0.27875  1.0000
+  O   O5        1.0  0.21813  0.79771  0.79810  1.0000
+  O   O6        1.0  0.77777  0.72817  0.27875  1.0000
+  O   O7        1.0  0.70466  0.21995  0.21768  1.0000
+  O   O8        1.0  0.29905  0.27514  0.71693  1.0000
+  O   O9        1.0  0.00000  0.42392  0.00532  1.0000
+  O   O10       1.0  0.00000  0.05756  0.47574  1.0000
+  O   O11       1.0  0.50000  0.57097  0.01103  1.0000
+  O   O12       1.0  0.50000  0.91937  0.51738  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2Gd2Ti4O12
+_chemical_formula_sum              "Na2 Gd2 Ti4 O12"
+_cell_length_a       5.3814
+_cell_length_b       5.53403
+_cell_length_c       7.66615
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.49552  0.72113  0.50000  1.0000
+  Na  Na2       1.0  0.99552  0.27886  0.00000  1.0000
+  Gd  Gd1       1.0  0.01544  0.18893  0.50000  1.0000
+  Gd  Gd2       1.0  0.51544  0.81107  0.00000  1.0000
+  Ti  Ti1       1.0  0.51216  0.26261  0.75254  1.0000
+  Ti  Ti2       1.0  0.01216  0.73738  0.25254  1.0000
+  Ti  Ti3       1.0  0.51216  0.26261  0.24746  1.0000
+  Ti  Ti4       1.0  0.01216  0.73738  0.74746  1.0000
+  O   O1        1.0  0.92432  0.77117  0.50000  1.0000
+  O   O2        1.0  0.59150  0.27082  0.50000  1.0000
+  O   O3        1.0  0.09150  0.72918  0.00000  1.0000
+  O   O4        1.0  0.42432  0.22883  0.00000  1.0000
+  O   O5        1.0  0.19868  0.45278  0.70156  1.0000
+  O   O6        1.0  0.27577  0.96610  0.28907  1.0000
+  O   O7        1.0  0.77577  0.03390  0.21093  1.0000
+  O   O8        1.0  0.69868  0.54722  0.79844  1.0000
+  O   O9        1.0  0.77577  0.03390  0.78907  1.0000
+  O   O10       1.0  0.69868  0.54722  0.20156  1.0000
+  O   O11       1.0  0.19868  0.45278  0.29844  1.0000
+  O   O12       1.0  0.27577  0.96610  0.71093  1.0000

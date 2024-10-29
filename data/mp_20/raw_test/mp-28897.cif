@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       B4Ir4Pd4
+_chemical_formula_sum              "B4 Ir4 Pd4"
+_cell_length_a       6.77245
+_cell_length_b       6.12249
+_cell_length_c       5.55093
+_cell_angle_alpha    70.7302
+_cell_angle_beta     58.5812
+_cell_angle_gamma    50.6886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.05394  0.97658  0.56469  1.0000
+  B   B2        1.0  0.68531  0.84522  0.19606  1.0000
+  B   B3        1.0  0.40478  0.56469  0.97658  1.0000
+  B   B4        1.0  0.27342  0.19606  0.84522  1.0000
+  Ir  Ir1       1.0  0.10289  0.63237  0.86956  1.0000
+  Ir  Ir2       1.0  0.38044  0.85482  0.14711  1.0000
+  Ir  Ir3       1.0  0.61763  0.14711  0.85482  1.0000
+  Ir  Ir4       1.0  0.39518  0.86956  0.63237  1.0000
+  Pd  Pd1       1.0  0.93934  0.79162  0.38758  1.0000
+  Pd  Pd2       1.0  0.45838  0.31066  0.36854  1.0000
+  Pd  Pd3       1.0  0.86242  0.36854  0.31066  1.0000
+  Pd  Pd4       1.0  0.88146  0.38758  0.79162  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Al2Zn3S6
+_chemical_formula_sum              "Al2 Zn3 S6"
+_cell_length_a       7.26054
+_cell_length_b       7.26054
+_cell_length_c       7.26054
+_cell_angle_alpha    54.1636
+_cell_angle_beta     54.1636
+_cell_angle_gamma    54.1636
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00077  0.00077  0.00077  1.0000
+  Al  Al2       1.0  0.66388  0.66388  0.66388  1.0000
+  Zn  Zn1       1.0  0.81532  0.18100  0.50489  1.0000
+  Zn  Zn2       1.0  0.50489  0.81532  0.18100  1.0000
+  Zn  Zn3       1.0  0.18100  0.50489  0.81532  1.0000
+  S   S1        1.0  0.95225  0.29227  0.63959  1.0000
+  S   S2        1.0  0.63959  0.95225  0.29227  1.0000
+  S   S3        1.0  0.29227  0.63959  0.95225  1.0000
+  S   S4        1.0  0.78844  0.78844  0.78844  1.0000
+  S   S5        1.0  0.45262  0.45262  0.45262  1.0000
+  S   S6        1.0  0.12542  0.12542  0.12542  1.0000

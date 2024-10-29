@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca4Cd8Pd4
+_chemical_formula_sum              "Ca4 Cd8 Pd4"
+_cell_length_a       5.6317
+_cell_length_b       8.05472
+_cell_length_c       8.18882
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.39881  0.53356  0.25000  1.0000
+  Ca  Ca2       1.0  0.10119  0.03356  0.25000  1.0000
+  Ca  Ca3       1.0  0.60119  0.46644  0.75000  1.0000
+  Ca  Ca4       1.0  0.89881  0.96644  0.75000  1.0000
+  Cd  Cd1       1.0  0.90495  0.67182  0.05546  1.0000
+  Cd  Cd2       1.0  0.59505  0.17182  0.44454  1.0000
+  Cd  Cd3       1.0  0.09505  0.32818  0.55546  1.0000
+  Cd  Cd4       1.0  0.40495  0.82818  0.94454  1.0000
+  Cd  Cd5       1.0  0.09505  0.32818  0.94454  1.0000
+  Cd  Cd6       1.0  0.40495  0.82818  0.55546  1.0000
+  Cd  Cd7       1.0  0.90495  0.67182  0.44454  1.0000
+  Cd  Cd8       1.0  0.59505  0.17182  0.05546  1.0000
+  Pd  Pd1       1.0  0.61752  0.87808  0.25000  1.0000
+  Pd  Pd2       1.0  0.88248  0.37808  0.25000  1.0000
+  Pd  Pd3       1.0  0.38248  0.12192  0.75000  1.0000
+  Pd  Pd4       1.0  0.11752  0.62192  0.75000  1.0000

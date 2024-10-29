@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       KTi3AlO8
+_chemical_formula_sum              "K1 Ti3 Al1 O8"
+_cell_length_a       2.9721
+_cell_length_b       7.29487
+_cell_length_c       7.31309
+_cell_angle_alpha    92.431
+_cell_angle_beta     101.667
+_cell_angle_gamma    78.1721
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.15032  0.00552  0.00455  1.0000
+  Ti  Ti1       1.0  0.32749  0.51231  0.16914  1.0000
+  Ti  Ti2       1.0  0.86280  0.80465  0.52370  1.0000
+  Ti  Ti3       1.0  0.14643  0.18521  0.48926  1.0000
+  Al  Al1       1.0  0.67545  0.48383  0.81596  1.0000
+  O   O1        1.0  0.96981  0.37374  0.29069  1.0000
+  O   O2        1.0  0.05345  0.61956  0.70723  1.0000
+  O   O3        1.0  0.67594  0.29930  0.62862  1.0000
+  O   O4        1.0  0.34231  0.70862  0.37299  1.0000
+  O   O5        1.0  0.71102  0.64331  0.04278  1.0000
+  O   O6        1.0  0.30576  0.36196  0.94714  1.0000
+  O   O7        1.0  0.66913  0.05263  0.36208  1.0000
+  O   O8        1.0  0.36011  0.94936  0.64585  1.0000

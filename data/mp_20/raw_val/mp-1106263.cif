@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Gd4Mo4C8
+_chemical_formula_sum              "Gd4 Mo4 C8"
+_cell_length_a       3.44344
+_cell_length_b       5.72745
+_cell_length_c       10.8195
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.25000  0.08505  0.86151  1.0000
+  Gd  Gd2       1.0  0.25000  0.58505  0.63849  1.0000
+  Gd  Gd3       1.0  0.75000  0.91495  0.13849  1.0000
+  Gd  Gd4       1.0  0.75000  0.41495  0.36151  1.0000
+  Mo  Mo1       1.0  0.25000  0.40641  0.10870  1.0000
+  Mo  Mo2       1.0  0.25000  0.90641  0.39130  1.0000
+  Mo  Mo3       1.0  0.75000  0.59359  0.89130  1.0000
+  Mo  Mo4       1.0  0.75000  0.09359  0.60870  1.0000
+  C   C1        1.0  0.25000  0.15855  0.24789  1.0000
+  C   C2        1.0  0.25000  0.65855  0.25211  1.0000
+  C   C3        1.0  0.75000  0.84145  0.75211  1.0000
+  C   C4        1.0  0.75000  0.34145  0.74789  1.0000
+  C   C5        1.0  0.25000  0.71858  0.98132  1.0000
+  C   C6        1.0  0.25000  0.21858  0.51868  1.0000
+  C   C7        1.0  0.75000  0.28142  0.01868  1.0000
+  C   C8        1.0  0.75000  0.78142  0.48132  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tl4C4O8
+_chemical_formula_sum              "Tl4 C4 O8"
+_cell_length_a       6.00621
+_cell_length_b       6.81177
+_cell_length_c       6.94169
+_cell_angle_alpha    80.5243
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.44643  0.80423  0.81542  1.0000
+  Tl  Tl2       1.0  0.05357  0.80423  0.31542  1.0000
+  Tl  Tl3       1.0  0.94643  0.19577  0.68458  1.0000
+  Tl  Tl4       1.0  0.55357  0.19577  0.18458  1.0000
+  C   C1        1.0  0.59207  0.57066  0.44641  1.0000
+  C   C2        1.0  0.09207  0.42934  0.05359  1.0000
+  C   C3        1.0  0.40793  0.42934  0.55359  1.0000
+  C   C4        1.0  0.90793  0.57066  0.94641  1.0000
+  O   O1        1.0  0.75095  0.48885  0.36696  1.0000
+  O   O2        1.0  0.92724  0.75594  0.94657  1.0000
+  O   O3        1.0  0.24905  0.51115  0.63304  1.0000
+  O   O4        1.0  0.25095  0.51115  0.13304  1.0000
+  O   O5        1.0  0.42723  0.24406  0.55343  1.0000
+  O   O6        1.0  0.07276  0.24406  0.05343  1.0000
+  O   O7        1.0  0.74905  0.48885  0.86696  1.0000
+  O   O8        1.0  0.57276  0.75594  0.44657  1.0000

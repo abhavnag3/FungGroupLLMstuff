@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Ca2Mo2O12
+_chemical_formula_sum              "Sr4 Ca2 Mo2 O12"
+_cell_length_a       5.81095
+_cell_length_b       6.13299
+_cell_length_c       8.33586
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50000  0.80315  0.76849  1.0000
+  Sr  Sr2       1.0  0.00000  0.19685  0.26849  1.0000
+  Sr  Sr3       1.0  0.50000  0.80315  0.23151  1.0000
+  Sr  Sr4       1.0  0.00000  0.19685  0.73151  1.0000
+  Ca  Ca1       1.0  0.00000  0.72166  0.50000  1.0000
+  Ca  Ca2       1.0  0.50000  0.27834  0.00000  1.0000
+  Mo  Mo1       1.0  0.50000  0.23533  0.50000  1.0000
+  Mo  Mo2       1.0  0.00000  0.76467  0.00000  1.0000
+  O   O1        1.0  0.50000  0.21776  0.73244  1.0000
+  O   O2        1.0  0.50000  0.21776  0.26756  1.0000
+  O   O3        1.0  0.00000  0.78224  0.76756  1.0000
+  O   O4        1.0  0.00000  0.78224  0.23244  1.0000
+  O   O5        1.0  0.74695  0.43754  0.50000  1.0000
+  O   O6        1.0  0.25305  0.43754  0.50000  1.0000
+  O   O7        1.0  0.73150  0.99368  0.50000  1.0000
+  O   O8        1.0  0.26850  0.99368  0.50000  1.0000
+  O   O9        1.0  0.24695  0.56246  0.00000  1.0000
+  O   O10       1.0  0.75305  0.56246  0.00000  1.0000
+  O   O11       1.0  0.76850  0.00632  0.00000  1.0000
+  O   O12       1.0  0.23150  0.00632  0.00000  1.0000

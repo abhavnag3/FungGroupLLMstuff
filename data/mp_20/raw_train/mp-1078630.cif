@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba2ThCu2S5
+_chemical_formula_sum              "Ba2 Th1 Cu2 S5"
+_cell_length_a       7.16922
+_cell_length_b       7.16922
+_cell_length_c       9.4533
+_cell_angle_alpha    65.4724
+_cell_angle_beta     65.4724
+_cell_angle_gamma    33.5659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.17562  0.17562  0.30756  1.0000
+  Ba  Ba2       1.0  0.82438  0.82438  0.69244  1.0000
+  Th  Th1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.55415  0.55415  0.70168  1.0000
+  Cu  Cu2       1.0  0.44585  0.44585  0.29833  1.0000
+  S   S1        1.0  0.14623  0.14623  0.68742  1.0000
+  S   S2        1.0  0.85377  0.85377  0.31258  1.0000
+  S   S3        1.0  0.38726  0.38726  0.93240  1.0000
+  S   S4        1.0  0.61274  0.61274  0.06760  1.0000
+  S   S5        1.0  0.50000  0.50000  0.50000  1.0000

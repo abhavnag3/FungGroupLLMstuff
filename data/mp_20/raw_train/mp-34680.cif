@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       SrNd5S8
+_chemical_formula_sum              "Sr1 Nd5 S8"
+_cell_length_a       7.48372
+_cell_length_b       7.48372
+_cell_length_c       7.48372
+_cell_angle_alpha    109.484
+_cell_angle_beta     109.484
+_cell_angle_gamma    109.445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Nd  Nd1       1.0  0.49660  0.12192  0.87320  1.0000
+  Nd  Nd2       1.0  0.75000  0.25000  0.50000  1.0000
+  Nd  Nd3       1.0  0.24872  0.62340  0.12680  1.0000
+  Nd  Nd4       1.0  0.37660  0.50340  0.62532  1.0000
+  Nd  Nd5       1.0  0.87808  0.75128  0.37468  1.0000
+  S   S1        1.0  0.61821  0.87195  0.10359  1.0000
+  S   S2        1.0  0.27860  0.02528  0.40466  1.0000
+  S   S3        1.0  0.48538  0.38179  0.25373  1.0000
+  S   S4        1.0  0.12805  0.23164  0.74626  1.0000
+  S   S5        1.0  0.76836  0.51462  0.89641  1.0000
+  S   S6        1.0  0.97472  0.37938  0.25332  1.0000
+  S   S7        1.0  0.12607  0.72140  0.74668  1.0000
+  S   S8        1.0  0.62062  0.87393  0.59534  1.0000

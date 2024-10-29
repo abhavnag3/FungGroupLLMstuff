@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       K2Hg3Ge2S8
+_chemical_formula_sum              "K2 Hg3 Ge2 S8"
+_cell_length_a       6.55277
+_cell_length_b       6.55277
+_cell_length_c       9.88572
+_cell_angle_alpha    86.4715
+_cell_angle_beta     86.4715
+_cell_angle_gamma    83.2626
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.93329  0.63379  0.23012  1.0000
+  K   K2        1.0  0.36621  0.06671  0.76988  1.0000
+  Hg  Hg1       1.0  0.52409  0.47591  0.00000  1.0000
+  Hg  Hg2       1.0  0.84315  0.15685  0.50000  1.0000
+  Hg  Hg3       1.0  0.36005  0.63995  0.50000  1.0000
+  Ge  Ge1       1.0  0.89532  0.56982  0.72523  1.0000
+  Ge  Ge2       1.0  0.43018  0.10468  0.27477  1.0000
+  S   S1        1.0  0.28524  0.24436  0.08131  1.0000
+  S   S2        1.0  0.75564  0.71476  0.91869  1.0000
+  S   S3        1.0  0.84096  0.23588  0.74127  1.0000
+  S   S4        1.0  0.76412  0.15904  0.25873  1.0000
+  S   S5        1.0  0.39355  0.76809  0.26076  1.0000
+  S   S6        1.0  0.27033  0.23005  0.45839  1.0000
+  S   S7        1.0  0.76995  0.72967  0.54161  1.0000
+  S   S8        1.0  0.23191  0.60645  0.73924  1.0000

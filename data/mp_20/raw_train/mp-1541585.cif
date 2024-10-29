@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Mn2As2O7
+_chemical_formula_sum              "Mn2 As2 O7"
+_cell_length_a       4.8924
+_cell_length_b       5.63272
+_cell_length_c       5.63228
+_cell_angle_alpha    105.121
+_cell_angle_beta     97.8389
+_cell_angle_gamma    97.8268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50350  0.69728  0.30569  1.0000
+  Mn  Mn2       1.0  0.50394  0.31402  0.68835  1.0000
+  As  As1       1.0  0.90779  0.22716  0.23199  1.0000
+  As  As2       1.0  0.10052  0.77024  0.77523  1.0000
+  O   O1        1.0  0.71236  0.08398  0.40308  1.0000
+  O   O2        1.0  0.71994  0.38116  0.06449  1.0000
+  O   O3        1.0  0.28812  0.93771  0.62099  1.0000
+  O   O4        1.0  0.29558  0.59888  0.91851  1.0000
+  O   O5        1.0  0.22533  0.40197  0.39139  1.0000
+  O   O6        1.0  0.78168  0.61259  0.60198  1.0000
+  O   O7        1.0  0.00683  0.95921  0.04512  1.0000

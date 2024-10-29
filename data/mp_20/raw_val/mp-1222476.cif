@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Li6Ni2N3
+_chemical_formula_sum              "Li6 Ni2 N3"
+_cell_length_a       6.48078
+_cell_length_b       6.48078
+_cell_length_c       3.52331
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.66572  0.34215  0.50000  1.0000
+  Li  Li2       1.0  0.34215  0.66572  0.50000  1.0000
+  Li  Li3       1.0  0.73826  0.98988  0.50000  1.0000
+  Li  Li4       1.0  0.27480  0.27480  0.50000  1.0000
+  Li  Li5       1.0  0.98988  0.73826  0.50000  1.0000
+  Li  Li6       1.0  0.63155  0.63155  0.00000  1.0000
+  Ni  Ni1       1.0  0.99771  0.36378  0.00000  1.0000
+  Ni  Ni2       1.0  0.36378  0.99771  0.00000  1.0000
+  N   N1        1.0  0.63490  0.63490  0.50000  1.0000
+  N   N2        1.0  0.99849  0.36267  0.50000  1.0000
+  N   N3        1.0  0.36267  0.99849  0.50000  1.0000

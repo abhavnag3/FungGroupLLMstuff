@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr14Ni6
+_chemical_formula_sum              "Pr14 Ni6"
+_cell_length_a       6.39637
+_cell_length_b       9.95602
+_cell_length_c       9.95602
+_cell_angle_alpha    119.968
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.46415  0.33332  0.66668  1.0000
+  Pr  Pr2       1.0  0.96415  0.66668  0.33332  1.0000
+  Pr  Pr3       1.0  0.25036  0.12534  0.87466  1.0000
+  Pr  Pr4       1.0  0.25034  0.74931  0.87465  1.0000
+  Pr  Pr5       1.0  0.25034  0.12535  0.25069  1.0000
+  Pr  Pr6       1.0  0.75036  0.87466  0.12534  1.0000
+  Pr  Pr7       1.0  0.75034  0.25069  0.12535  1.0000
+  Pr  Pr8       1.0  0.75034  0.87465  0.74931  1.0000
+  Pr  Pr9       1.0  0.43587  0.53916  0.46084  1.0000
+  Pr  Pr10      1.0  0.43581  0.92169  0.46084  1.0000
+  Pr  Pr11      1.0  0.43581  0.53916  0.07831  1.0000
+  Pr  Pr12      1.0  0.93587  0.46084  0.53916  1.0000
+  Pr  Pr13      1.0  0.93581  0.07831  0.53916  1.0000
+  Pr  Pr14      1.0  0.93581  0.46084  0.92169  1.0000
+  Ni  Ni1       1.0  0.19009  0.81178  0.18822  1.0000
+  Ni  Ni2       1.0  0.19011  0.37642  0.18820  1.0000
+  Ni  Ni3       1.0  0.19011  0.81180  0.62358  1.0000
+  Ni  Ni4       1.0  0.69009  0.18822  0.81178  1.0000
+  Ni  Ni5       1.0  0.69011  0.62358  0.81180  1.0000
+  Ni  Ni6       1.0  0.69011  0.18820  0.37642  1.0000

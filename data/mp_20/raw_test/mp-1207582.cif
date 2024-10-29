@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Yb4Cr4O12
+_chemical_formula_sum              "Yb4 Cr4 O12"
+_cell_length_a       5.24246
+_cell_length_b       5.45626
+_cell_length_c       7.45927
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.01258  0.44350  0.25000  1.0000
+  Yb  Yb2       1.0  0.98742  0.55650  0.75000  1.0000
+  Yb  Yb3       1.0  0.51258  0.05650  0.75000  1.0000
+  Yb  Yb4       1.0  0.48742  0.94350  0.25000  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.50000  0.50000  0.00000  1.0000
+  Cr  Cr3       1.0  0.00000  0.00000  0.50000  1.0000
+  Cr  Cr4       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.29309  0.20002  0.04319  1.0000
+  O   O2        1.0  0.70691  0.79998  0.95681  1.0000
+  O   O3        1.0  0.79309  0.29998  0.95681  1.0000
+  O   O4        1.0  0.70691  0.79998  0.54319  1.0000
+  O   O5        1.0  0.20691  0.70002  0.04319  1.0000
+  O   O6        1.0  0.29309  0.20002  0.45681  1.0000
+  O   O7        1.0  0.20691  0.70002  0.45681  1.0000
+  O   O8        1.0  0.79309  0.29998  0.54319  1.0000
+  O   O9        1.0  0.58363  0.52384  0.25000  1.0000
+  O   O10       1.0  0.41637  0.47617  0.75000  1.0000
+  O   O11       1.0  0.08363  0.97616  0.75000  1.0000
+  O   O12       1.0  0.91637  0.02383  0.25000  1.0000

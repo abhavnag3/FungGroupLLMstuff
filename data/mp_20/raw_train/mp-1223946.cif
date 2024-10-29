@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2Ga3Ni
+_chemical_formula_sum              "Hf2 Ga3 Ni1"
+_cell_length_a       4.15484
+_cell_length_b       5.34473
+_cell_length_c       5.29615
+_cell_angle_alpha    92.1854
+_cell_angle_beta     113.095
+_cell_angle_gamma    67.1273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.74332  0.71838  0.20502  1.0000
+  Hf  Hf2       1.0  0.24619  0.29751  0.78989  1.0000
+  Ga  Ga1       1.0  0.47359  0.67232  0.61949  1.0000
+  Ga  Ga2       1.0  0.04029  0.13709  0.21767  1.0000
+  Ga  Ga3       1.0  0.94394  0.89535  0.78322  1.0000
+  Ni  Ni1       1.0  0.55268  0.27935  0.38471  1.0000

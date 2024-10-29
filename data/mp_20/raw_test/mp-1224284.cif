@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfZr2UC4
+_chemical_formula_sum              "Hf1 Zr2 U1 C4"
+_cell_length_a       11.2546
+_cell_length_b       11.2546
+_cell_length_c       11.2546
+_cell_angle_alpha    17.1706
+_cell_angle_beta     17.1706
+_cell_angle_gamma    17.1706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.99647  0.99647  0.99647  1.0000
+  Zr  Zr1       1.0  0.50347  0.50347  0.50347  1.0000
+  Zr  Zr2       1.0  0.25035  0.25035  0.25035  1.0000
+  U   U1        1.0  0.74959  0.74959  0.74959  1.0000
+  C   C1        1.0  0.87592  0.87592  0.87592  1.0000
+  C   C2        1.0  0.62555  0.62555  0.62555  1.0000
+  C   C3        1.0  0.37267  0.37267  0.37267  1.0000
+  C   C4        1.0  0.12599  0.12599  0.12599  1.0000

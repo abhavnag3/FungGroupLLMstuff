@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       La4Se8
+_chemical_formula_sum              "La4 Se8"
+_cell_length_a       4.28007
+_cell_length_b       8.56277
+_cell_length_c       8.63809
+_cell_angle_alpha    89.7888
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.22024  0.12777  0.72354  1.0000
+  La  La2       1.0  0.27976  0.62777  0.72354  1.0000
+  La  La3       1.0  0.77976  0.87223  0.27646  1.0000
+  La  La4       1.0  0.72024  0.37223  0.27646  1.0000
+  Se  Se1       1.0  0.67765  0.11724  0.99763  1.0000
+  Se  Se2       1.0  0.17765  0.38276  0.00237  1.0000
+  Se  Se3       1.0  0.82235  0.61724  0.99763  1.0000
+  Se  Se4       1.0  0.75862  0.87491  0.63452  1.0000
+  Se  Se5       1.0  0.25862  0.62509  0.36549  1.0000
+  Se  Se6       1.0  0.32235  0.88276  0.00237  1.0000
+  Se  Se7       1.0  0.74138  0.37490  0.63452  1.0000
+  Se  Se8       1.0  0.24138  0.12510  0.36549  1.0000

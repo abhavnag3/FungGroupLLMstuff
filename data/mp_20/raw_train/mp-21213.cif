@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na2Cr2Ge4O12
+_chemical_formula_sum              "Na2 Cr2 Ge4 O12"
+_cell_length_a       5.55524
+_cell_length_b       6.75508
+_cell_length_c       6.75509
+_cell_angle_alpha    83.1002
+_cell_angle_beta     76.8098
+_cell_angle_gamma    76.8098
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.25000  0.69723  0.30277  1.0000
+  Na  Na2       1.0  0.75000  0.30277  0.69723  1.0000
+  Cr  Cr1       1.0  0.75000  0.91092  0.08908  1.0000
+  Cr  Cr2       1.0  0.25000  0.08908  0.91092  1.0000
+  Ge  Ge1       1.0  0.77396  0.38583  0.19389  1.0000
+  Ge  Ge2       1.0  0.72604  0.80611  0.61417  1.0000
+  Ge  Ge3       1.0  0.22604  0.61417  0.80611  1.0000
+  Ge  Ge4       1.0  0.27396  0.19389  0.38583  1.0000
+  O   O1        1.0  0.49338  0.35069  0.37517  1.0000
+  O   O2        1.0  0.00662  0.62483  0.64931  1.0000
+  O   O3        1.0  0.50662  0.64931  0.62483  1.0000
+  O   O4        1.0  0.99337  0.37517  0.35069  1.0000
+  O   O5        1.0  0.19027  0.08612  0.63223  1.0000
+  O   O6        1.0  0.30973  0.36777  0.91388  1.0000
+  O   O7        1.0  0.80973  0.91388  0.36777  1.0000
+  O   O8        1.0  0.69026  0.63223  0.08612  1.0000
+  O   O9        1.0  0.87059  0.18773  0.02297  1.0000
+  O   O10       1.0  0.62941  0.97703  0.81227  1.0000
+  O   O11       1.0  0.12941  0.81227  0.97703  1.0000
+  O   O12       1.0  0.37059  0.02297  0.18773  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Gd2MnNiO8
+_chemical_formula_sum              "Ca2 Gd2 Mn1 Ni1 O8"
+_cell_length_a       5.3273
+_cell_length_b       5.59231
+_cell_length_c       6.43928
+_cell_angle_alpha    90.4419
+_cell_angle_beta     65.5653
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.35490  0.01441  0.29020  1.0000
+  Ca  Ca2       1.0  0.14478  0.52616  0.71044  1.0000
+  Gd  Gd1       1.0  0.86196  0.47329  0.27609  1.0000
+  Gd  Gd2       1.0  0.63881  0.98173  0.72239  1.0000
+  Mn  Mn1       1.0  0.49900  0.49801  0.00200  1.0000
+  Ni  Ni1       1.0  0.00037  0.99732  0.99927  1.0000
+  O   O1        1.0  0.76824  0.25805  0.95647  1.0000
+  O   O2        1.0  0.72544  0.73774  0.04394  1.0000
+  O   O3        1.0  0.23062  0.73774  0.04394  1.0000
+  O   O4        1.0  0.27529  0.25805  0.95647  1.0000
+  O   O5        1.0  0.17226  0.93534  0.65547  1.0000
+  O   O6        1.0  0.67233  0.56819  0.65535  1.0000
+  O   O7        1.0  0.33638  0.43898  0.32723  1.0000
+  O   O8        1.0  0.81963  0.07499  0.36074  1.0000

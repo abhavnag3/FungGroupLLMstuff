@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Dy2CuGe4O12
+_chemical_formula_sum              "Dy2 Cu1 Ge4 O12"
+_cell_length_a       4.98726
+_cell_length_b       7.28374
+_cell_length_c       8.00867
+_cell_angle_alpha    113.653
+_cell_angle_beta     87.0096
+_cell_angle_gamma    102.978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.95483  0.76957  0.54813  1.0000
+  Dy  Dy2       1.0  0.04517  0.23043  0.45187  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.45959  0.83208  0.22319  1.0000
+  Ge  Ge2       1.0  0.54041  0.16792  0.77681  1.0000
+  Ge  Ge3       1.0  0.41955  0.61692  0.79511  1.0000
+  Ge  Ge4       1.0  0.58045  0.38308  0.20489  1.0000
+  O   O1        1.0  0.22561  0.93322  0.38771  1.0000
+  O   O2        1.0  0.77439  0.06678  0.61229  1.0000
+  O   O3        1.0  0.21153  0.57548  0.60893  1.0000
+  O   O4        1.0  0.78847  0.42452  0.39107  1.0000
+  O   O5        1.0  0.58403  0.65648  0.28996  1.0000
+  O   O6        1.0  0.41597  0.34352  0.71004  1.0000
+  O   O7        1.0  0.26614  0.69209  0.01045  1.0000
+  O   O8        1.0  0.25426  0.22466  0.19360  1.0000
+  O   O9        1.0  0.74574  0.77534  0.80640  1.0000
+  O   O10       1.0  0.24875  0.99209  0.79690  1.0000
+  O   O11       1.0  0.75125  0.00791  0.20310  1.0000
+  O   O12       1.0  0.73386  0.30791  0.98955  1.0000

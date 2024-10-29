@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Ag2F10
+_chemical_formula_sum              "Ca2 Ag2 F10"
+_cell_length_a       5.81748
+_cell_length_b       5.75147
+_cell_length_c       8.12081
+_cell_angle_alpha    96.3234
+_cell_angle_beta     110.445
+_cell_angle_gamma    108.87
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.28777  0.54132  0.74585  1.0000
+  Ca  Ca2       1.0  0.70868  0.45747  0.25003  1.0000
+  Ag  Ag1       1.0  0.99739  0.99786  0.99827  1.0000
+  Ag  Ag2       1.0  0.49938  0.99885  0.49857  1.0000
+  F   F1        1.0  0.35758  0.09952  0.25589  1.0000
+  F   F2        1.0  0.64044  0.89962  0.74028  1.0000
+  F   F3        1.0  0.59302  0.73907  0.37241  1.0000
+  F   F4        1.0  0.86261  0.21084  0.12022  1.0000
+  F   F5        1.0  0.71813  0.67387  0.02118  1.0000
+  F   F6        1.0  0.14622  0.69542  0.46897  1.0000
+  F   F7        1.0  0.27360  0.32077  0.97298  1.0000
+  F   F8        1.0  0.84895  0.30507  0.52648  1.0000
+  F   F9        1.0  0.12824  0.78102  0.87650  1.0000
+  F   F10       1.0  0.40428  0.26019  0.62520  1.0000

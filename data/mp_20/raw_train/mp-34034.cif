@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba8P5Br
+_chemical_formula_sum              "Ba8 P5 Br1"
+_cell_length_a       8.59693
+_cell_length_b       8.59693
+_cell_length_c       8.59693
+_cell_angle_alpha    109.343
+_cell_angle_beta     109.343
+_cell_angle_gamma    109.728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.73536  0.36663  0.24395  1.0000
+  Ba  Ba2       1.0  0.98575  0.74000  0.09869  1.0000
+  Ba  Ba3       1.0  0.64131  0.88706  0.90131  1.0000
+  Ba  Ba4       1.0  0.12268  0.49141  0.75605  1.0000
+  Ba  Ba5       1.0  0.63337  0.87732  0.36873  1.0000
+  Ba  Ba6       1.0  0.50859  0.26464  0.63127  1.0000
+  Ba  Ba7       1.0  0.26000  0.35868  0.24575  1.0000
+  Ba  Ba8       1.0  0.11294  0.01425  0.75425  1.0000
+  P   P1        1.0  0.74787  0.63225  0.62633  1.0000
+  P   P2        1.0  0.36775  0.99408  0.11563  1.0000
+  P   P3        1.0  0.00592  0.12154  0.37367  1.0000
+  P   P4        1.0  0.50000  0.50000  0.00000  1.0000
+  P   P5        1.0  0.87846  0.25213  0.88438  1.0000
+  Br  Br1       1.0  0.25000  0.75000  0.50000  1.0000

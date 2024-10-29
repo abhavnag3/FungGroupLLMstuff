@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Si2Ge2N4O2
+_chemical_formula_sum              "Si2 Ge2 N4 O2"
+_cell_length_a       5.37828
+_cell_length_b       5.37828
+_cell_length_c       5.03396
+_cell_angle_alpha    89.7509
+_cell_angle_beta     89.7509
+_cell_angle_gamma    116.213
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.66833  0.01647  0.59170  1.0000
+  Si  Si2       1.0  0.01647  0.66833  0.59170  1.0000
+  Ge  Ge1       1.0  0.96722  0.32460  0.08665  1.0000
+  Ge  Ge2       1.0  0.32460  0.96722  0.08665  1.0000
+  N   N1        1.0  0.06071  0.65779  0.25238  1.0000
+  N   N2        1.0  0.65779  0.06071  0.25238  1.0000
+  N   N3        1.0  0.88265  0.33716  0.73234  1.0000
+  N   N4        1.0  0.33716  0.88265  0.73234  1.0000
+  O   O1        1.0  0.25976  0.25976  0.13941  1.0000
+  O   O2        1.0  0.80602  0.80602  0.66646  1.0000

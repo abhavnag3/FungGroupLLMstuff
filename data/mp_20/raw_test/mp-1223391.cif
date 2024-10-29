@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       KNiSbO4
+_chemical_formula_sum              "K1 Ni1 Sb1 O4"
+_cell_length_a       3.14854
+_cell_length_b       5.28111
+_cell_length_c       6.50725
+_cell_angle_alpha    84.9488
+_cell_angle_beta     76.002
+_cell_angle_gamma    90.0002
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.74762  0.58173  0.50438  1.0000
+  Ni  Ni1       1.0  0.49711  0.49773  0.00579  1.0000
+  Sb  Sb1       1.0  0.00115  0.00283  0.99780  1.0000
+  O   O1        1.0  0.08077  0.69914  0.83835  1.0000
+  O   O2        1.0  0.58633  0.17675  0.82738  1.0000
+  O   O3        1.0  0.41365  0.82355  0.17286  1.0000
+  O   O4        1.0  0.91923  0.30022  0.16175  1.0000

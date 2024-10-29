@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ti5Al2C3
+_chemical_formula_sum              "Ti5 Al2 C3"
+_cell_length_a       16.3031
+_cell_length_b       16.3031
+_cell_length_c       16.3031
+_cell_angle_alpha    10.8163
+_cell_angle_beta     10.8163
+_cell_angle_gamma    10.8163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ti  Ti2       1.0  0.21519  0.21519  0.21519  1.0000
+  Ti  Ti3       1.0  0.30985  0.30985  0.30985  1.0000
+  Ti  Ti4       1.0  0.69015  0.69015  0.69015  1.0000
+  Ti  Ti5       1.0  0.78481  0.78481  0.78481  1.0000
+  Al  Al1       1.0  0.40390  0.40390  0.40390  1.0000
+  Al  Al2       1.0  0.59610  0.59610  0.59610  1.0000
+  C   C1        1.0  0.13998  0.13998  0.13998  1.0000
+  C   C2        1.0  0.86002  0.86002  0.86002  1.0000
+  C   C3        1.0  0.00000  0.00000  0.00000  1.0000

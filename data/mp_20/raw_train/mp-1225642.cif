@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Eu2Al6Si3Au2
+_chemical_formula_sum              "Eu2 Al6 Si3 Au2"
+_cell_length_a       13.5609
+_cell_length_b       13.5609
+_cell_length_c       13.5609
+_cell_angle_alpha    161.297
+_cell_angle_beta     161.297
+_cell_angle_gamma    26.5704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.15183  0.15183  0.00000  1.0000
+  Eu  Eu2       1.0  0.85138  0.85138  0.00000  1.0000
+  Al  Al1       1.0  0.05382  0.55382  0.50000  1.0000
+  Al  Al2       1.0  0.55382  0.05382  0.50000  1.0000
+  Al  Al3       1.0  0.94411  0.44411  0.50000  1.0000
+  Al  Al4       1.0  0.44411  0.94411  0.50000  1.0000
+  Al  Al5       1.0  0.25120  0.75120  0.50000  1.0000
+  Al  Al6       1.0  0.75120  0.25120  0.50000  1.0000
+  Si  Si1       1.0  0.39353  0.39353  0.00000  1.0000
+  Si  Si2       1.0  0.70067  0.70067  0.00000  1.0000
+  Si  Si3       1.0  0.30173  0.30173  0.00000  1.0000
+  Au  Au1       1.0  0.99708  0.99708  0.00000  1.0000
+  Au  Au2       1.0  0.60551  0.60551  0.00000  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       TaNbCu3O8
+_chemical_formula_sum              "Ta1 Nb1 Cu3 O8"
+_cell_length_a       5.25266
+_cell_length_b       5.49785
+_cell_length_c       6.12654
+_cell_angle_alpha    73.4651
+_cell_angle_beta     82.47
+_cell_angle_gamma    66.3707
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.77779  0.46286  0.35090  1.0000
+  Nb  Nb1       1.0  0.21967  0.53980  0.65165  1.0000
+  Cu  Cu1       1.0  0.99948  0.00097  0.00091  1.0000
+  Cu  Cu2       1.0  0.53966  0.92868  0.75997  1.0000
+  Cu  Cu3       1.0  0.46092  0.07277  0.23910  1.0000
+  O   O1        1.0  0.76202  0.79790  0.10216  1.0000
+  O   O2        1.0  0.24073  0.20008  0.89938  1.0000
+  O   O3        1.0  0.73884  0.25506  0.17039  1.0000
+  O   O4        1.0  0.26140  0.74791  0.83036  1.0000
+  O   O5        1.0  0.82725  0.68600  0.59487  1.0000
+  O   O6        1.0  0.16895  0.31100  0.40126  1.0000
+  O   O7        1.0  0.63731  0.26201  0.63151  1.0000
+  O   O8        1.0  0.36598  0.73494  0.36753  1.0000

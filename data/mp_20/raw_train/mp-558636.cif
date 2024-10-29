@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Al4O8
+_chemical_formula_sum              "Ca2 Al4 O8"
+_cell_length_a       3.80716
+_cell_length_b       5.61105
+_cell_length_c       7.11234
+_cell_angle_alpha    78.8774
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.73169  0.57199  1.0000
+  Ca  Ca2       1.0  0.25000  0.26831  0.42801  1.0000
+  Al  Al1       1.0  0.75000  0.84727  0.12901  1.0000
+  Al  Al2       1.0  0.25000  0.15273  0.87099  1.0000
+  Al  Al3       1.0  0.75000  0.34494  0.11245  1.0000
+  Al  Al4       1.0  0.25000  0.65506  0.88755  1.0000
+  O   O1        1.0  0.25000  0.94141  0.69261  1.0000
+  O   O2        1.0  0.25000  0.85874  0.07116  1.0000
+  O   O3        1.0  0.25000  0.45569  0.69673  1.0000
+  O   O4        1.0  0.75000  0.64270  0.92551  1.0000
+  O   O5        1.0  0.75000  0.54431  0.30327  1.0000
+  O   O6        1.0  0.75000  0.14126  0.92884  1.0000
+  O   O7        1.0  0.25000  0.35730  0.07450  1.0000
+  O   O8        1.0  0.75000  0.05859  0.30739  1.0000

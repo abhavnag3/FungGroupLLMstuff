@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Al4In4O12
+_chemical_formula_sum              "Al4 In4 O12"
+_cell_length_a       5.11989
+_cell_length_b       5.29657
+_cell_length_c       7.48332
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.00000  0.50000  0.00000  1.0000
+  Al  Al2       1.0  0.00000  0.50000  0.50000  1.0000
+  Al  Al3       1.0  0.50000  0.00000  0.00000  1.0000
+  Al  Al4       1.0  0.50000  0.00000  0.50000  1.0000
+  In  In1       1.0  0.01761  0.94517  0.75000  1.0000
+  In  In2       1.0  0.48239  0.44517  0.75000  1.0000
+  In  In3       1.0  0.51761  0.55483  0.25000  1.0000
+  In  In4       1.0  0.98239  0.05483  0.25000  1.0000
+  O   O1        1.0  0.10990  0.45749  0.25000  1.0000
+  O   O2        1.0  0.19840  0.20105  0.55830  1.0000
+  O   O3        1.0  0.19840  0.20105  0.94170  1.0000
+  O   O4        1.0  0.30160  0.70105  0.55830  1.0000
+  O   O5        1.0  0.30160  0.70105  0.94170  1.0000
+  O   O6        1.0  0.39010  0.95749  0.25000  1.0000
+  O   O7        1.0  0.60990  0.04251  0.75000  1.0000
+  O   O8        1.0  0.69840  0.29895  0.05830  1.0000
+  O   O9        1.0  0.69840  0.29895  0.44170  1.0000
+  O   O10       1.0  0.80160  0.79895  0.05830  1.0000
+  O   O11       1.0  0.80160  0.79895  0.44170  1.0000
+  O   O12       1.0  0.89010  0.54251  0.75000  1.0000

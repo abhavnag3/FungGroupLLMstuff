@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Gd4Al2Ge4
+_chemical_formula_sum              "Gd4 Al2 Ge4"
+_cell_length_a       5.89754
+_cell_length_b       5.89754
+_cell_length_c       7.78628
+_cell_angle_alpha    76.7175
+_cell_angle_beta     76.7175
+_cell_angle_gamma    57.7757
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.22516  0.48479  0.64712  1.0000
+  Gd  Gd2       1.0  0.77484  0.51521  0.35288  1.0000
+  Gd  Gd3       1.0  0.48479  0.22516  0.14712  1.0000
+  Gd  Gd4       1.0  0.51521  0.77484  0.85288  1.0000
+  Al  Al1       1.0  0.16327  0.83673  0.25000  1.0000
+  Al  Al2       1.0  0.83673  0.16327  0.75000  1.0000
+  Ge  Ge1       1.0  0.73428  0.99132  0.49817  1.0000
+  Ge  Ge2       1.0  0.26572  0.00868  0.50182  1.0000
+  Ge  Ge3       1.0  0.99132  0.73428  0.99817  1.0000
+  Ge  Ge4       1.0  0.00868  0.26572  0.00183  1.0000

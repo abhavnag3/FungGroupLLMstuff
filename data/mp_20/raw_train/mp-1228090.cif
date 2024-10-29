@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba3SrNd2Ir2O12
+_chemical_formula_sum              "Ba3 Sr1 Nd2 Ir2 O12"
+_cell_length_a       6.02488
+_cell_length_b       6.06584
+_cell_length_c       8.56014
+_cell_angle_alpha    90.5122
+_cell_angle_beta     90.1095
+_cell_angle_gamma    90.3017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.75136  0.74678  0.50247  1.0000
+  Ba  Ba2       1.0  0.25118  0.24660  0.00209  1.0000
+  Ba  Ba3       1.0  0.24894  0.25287  0.49763  1.0000
+  Sr  Sr1       1.0  0.74326  0.75568  0.99427  1.0000
+  Nd  Nd1       1.0  0.75040  0.24994  0.75132  1.0000
+  Nd  Nd2       1.0  0.24927  0.74972  0.24867  1.0000
+  Ir  Ir1       1.0  0.74998  0.24992  0.24838  1.0000
+  Ir  Ir2       1.0  0.25090  0.74967  0.75216  1.0000
+  O   O1        1.0  0.22426  0.72194  0.52007  1.0000
+  O   O2        1.0  0.72452  0.21390  0.01936  1.0000
+  O   O3        1.0  0.00738  0.04625  0.24811  1.0000
+  O   O4        1.0  0.51249  0.54941  0.75404  1.0000
+  O   O5        1.0  0.77599  0.27861  0.48006  1.0000
+  O   O6        1.0  0.28475  0.77781  0.98094  1.0000
+  O   O7        1.0  0.98892  0.95059  0.75658  1.0000
+  O   O8        1.0  0.49251  0.45397  0.25017  1.0000
+  O   O9        1.0  0.45420  0.00535  0.72525  1.0000
+  O   O10       1.0  0.94832  0.50980  0.21797  1.0000
+  O   O11       1.0  0.54693  0.99382  0.27310  1.0000
+  O   O12       1.0  0.04444  0.49737  0.77737  1.0000

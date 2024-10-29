@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Yb2Zn4
+_chemical_formula_sum              "Yb2 Zn4"
+_cell_length_a       5.68923
+_cell_length_b       5.68923
+_cell_length_c       5.68923
+_cell_angle_alpha    132.853
+_cell_angle_beta     100.989
+_cell_angle_gamma    97.4263
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.70054  0.45054  0.25000  1.0000
+  Yb  Yb2       1.0  0.29946  0.54946  0.75000  1.0000
+  Zn  Zn1       1.0  0.72422  0.16418  0.56004  1.0000
+  Zn  Zn2       1.0  0.27578  0.83582  0.43996  1.0000
+  Zn  Zn3       1.0  0.10413  0.16418  0.93996  1.0000
+  Zn  Zn4       1.0  0.89587  0.83582  0.06004  1.0000

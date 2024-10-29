@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ce4Co6Ge10
+_chemical_formula_sum              "Ce4 Co6 Ge10"
+_cell_length_a       5.83159
+_cell_length_b       8.15752
+_cell_length_c       8.15752
+_cell_angle_alpha    73.8618
+_cell_angle_beta     69.0571
+_cell_angle_gamma    69.0571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.36669  0.39467  0.87195  1.0000
+  Ce  Ce2       1.0  0.63331  0.60533  0.12805  1.0000
+  Ce  Ce3       1.0  0.86669  0.87195  0.39467  1.0000
+  Ce  Ce4       1.0  0.13331  0.12805  0.60533  1.0000
+  Co  Co1       1.0  0.25000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.75000  0.00000  0.00000  1.0000
+  Co  Co3       1.0  0.13621  0.47794  0.24964  1.0000
+  Co  Co4       1.0  0.86379  0.52206  0.75036  1.0000
+  Co  Co5       1.0  0.63621  0.24964  0.47794  1.0000
+  Co  Co6       1.0  0.36379  0.75036  0.52206  1.0000
+  Ge  Ge1       1.0  0.25000  0.50000  0.50000  1.0000
+  Ge  Ge2       1.0  0.75000  0.50000  0.50000  1.0000
+  Ge  Ge3       1.0  0.01293  0.23707  0.23707  1.0000
+  Ge  Ge4       1.0  0.48707  0.76293  0.76293  1.0000
+  Ge  Ge5       1.0  0.98707  0.76293  0.76293  1.0000
+  Ge  Ge6       1.0  0.51293  0.23707  0.23707  1.0000
+  Ge  Ge7       1.0  0.10032  0.74569  0.05367  1.0000
+  Ge  Ge8       1.0  0.89968  0.25431  0.94633  1.0000
+  Ge  Ge9       1.0  0.60032  0.05367  0.74569  1.0000
+  Ge  Ge10      1.0  0.39968  0.94633  0.25431  1.0000

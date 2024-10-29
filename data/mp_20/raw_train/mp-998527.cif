@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ni2Bi2O6
+_chemical_formula_sum              "Ni2 Bi2 O6"
+_cell_length_a       5.49763
+_cell_length_b       5.49772
+_cell_length_c       5.82317
+_cell_angle_alpha    118.168
+_cell_angle_beta     61.8326
+_cell_angle_gamma    120.003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.49277  0.50719  0.52161  1.0000
+  Ni  Ni2       1.0  0.99562  0.00441  0.01320  1.0000
+  Bi  Bi1       1.0  0.69706  0.30298  0.90890  1.0000
+  Bi  Bi2       1.0  0.20883  0.79107  0.37340  1.0000
+  O   O1        1.0  0.77232  0.61285  0.73207  1.0000
+  O   O2        1.0  0.10847  0.22770  0.73207  1.0000
+  O   O3        1.0  0.38713  0.89156  0.73213  1.0000
+  O   O4        1.0  0.85155  0.71739  0.21919  1.0000
+  O   O5        1.0  0.28264  0.35340  0.21921  1.0000
+  O   O6        1.0  0.64662  0.14844  0.21919  1.0000

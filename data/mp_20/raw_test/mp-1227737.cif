@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca2ZrTiGe2O10
+_chemical_formula_sum              "Ca2 Zr1 Ti1 Ge2 O10"
+_cell_length_a       5.68196
+_cell_length_b       5.73483
+_cell_length_c       7.40736
+_cell_angle_alpha    104.131
+_cell_angle_beta     104.07
+_cell_angle_gamma    105.889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.18265  0.83303  0.75846  1.0000
+  Ca  Ca2       1.0  0.81735  0.16697  0.24154  1.0000
+  Zr  Zr1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ti  Ti1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ge  Ge1       1.0  0.16804  0.81334  0.24510  1.0000
+  Ge  Ge2       1.0  0.83196  0.18666  0.75490  1.0000
+  O   O1        1.0  0.23015  0.12199  0.40875  1.0000
+  O   O2        1.0  0.14085  0.24661  0.92291  1.0000
+  O   O3        1.0  0.76985  0.87801  0.59125  1.0000
+  O   O4        1.0  0.85915  0.75339  0.07709  1.0000
+  O   O5        1.0  0.61147  0.19150  0.88977  1.0000
+  O   O6        1.0  0.17342  0.60655  0.38831  1.0000
+  O   O7        1.0  0.38853  0.80850  0.11023  1.0000
+  O   O8        1.0  0.82658  0.39345  0.61169  1.0000
+  O   O9        1.0  0.57569  0.42724  0.23795  1.0000
+  O   O10       1.0  0.42431  0.57276  0.76205  1.0000

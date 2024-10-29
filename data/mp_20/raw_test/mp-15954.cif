@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       As8Rh4
+_chemical_formula_sum              "As8 Rh4"
+_cell_length_a       6.16741
+_cell_length_b       6.15045
+_cell_length_c       6.24096
+_cell_angle_alpha    65.8891
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.86964  0.66163  0.68240  1.0000
+  As  As2       1.0  0.36964  0.33837  0.81760  1.0000
+  As  As3       1.0  0.13036  0.33837  0.31760  1.0000
+  As  As4       1.0  0.63036  0.66163  0.18240  1.0000
+  As  As5       1.0  0.12767  0.84486  0.87001  1.0000
+  As  As6       1.0  0.62767  0.15514  0.62999  1.0000
+  As  As7       1.0  0.87233  0.15514  0.12999  1.0000
+  As  As8       1.0  0.37233  0.84486  0.37001  1.0000
+  Rh  Rh1       1.0  0.49964  0.72804  0.78977  1.0000
+  Rh  Rh2       1.0  0.99964  0.27196  0.71023  1.0000
+  Rh  Rh3       1.0  0.50036  0.27196  0.21023  1.0000
+  Rh  Rh4       1.0  0.00036  0.72804  0.28977  1.0000

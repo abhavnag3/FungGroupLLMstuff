@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Bi4PbS7
+_chemical_formula_sum              "Bi4 Pb1 S7"
+_cell_length_a       6.99096
+_cell_length_b       6.99096
+_cell_length_c       12.343
+_cell_angle_alpha    76.1766
+_cell_angle_beta     76.1766
+_cell_angle_gamma    33.795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.87871  0.87870  0.93225  1.0000
+  Bi  Bi2       1.0  0.12023  0.12023  0.06823  1.0000
+  Bi  Bi3       1.0  0.99561  0.99561  0.49864  1.0000
+  Bi  Bi4       1.0  0.68171  0.68171  0.66946  1.0000
+  Pb  Pb1       1.0  0.31983  0.31983  0.31596  1.0000
+  S   S1        1.0  0.26548  0.26548  0.86185  1.0000
+  S   S2        1.0  0.74192  0.74192  0.13531  1.0000
+  S   S3        1.0  0.04027  0.04027  0.71416  1.0000
+  S   S4        1.0  0.97235  0.97235  0.28383  1.0000
+  S   S5        1.0  0.34046  0.34046  0.54928  1.0000
+  S   S6        1.0  0.65011  0.65011  0.46362  1.0000
+  S   S7        1.0  0.51344  0.51344  0.98321  1.0000

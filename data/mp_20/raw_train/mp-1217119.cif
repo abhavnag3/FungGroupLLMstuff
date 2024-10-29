@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ti4Mn2Ni2O12
+_chemical_formula_sum              "Ti4 Mn2 Ni2 O12"
+_cell_length_a       5.13335
+_cell_length_b       5.13346
+_cell_length_c       9.91527
+_cell_angle_alpha    89.9999
+_cell_angle_beta     105.002
+_cell_angle_gamma    120.001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.85614  0.42807  0.28423  1.0000
+  Ti  Ti2       1.0  0.85612  0.92806  0.78420  1.0000
+  Ti  Ti3       1.0  0.14560  0.07280  0.21841  1.0000
+  Ti  Ti4       1.0  0.14558  0.57279  0.71837  1.0000
+  Mn  Mn1       1.0  0.35719  0.17859  0.53573  1.0000
+  Mn  Mn2       1.0  0.35712  0.67855  0.03569  1.0000
+  Ni  Ni1       1.0  0.64855  0.82428  0.47285  1.0000
+  Ni  Ni2       1.0  0.64856  0.32427  0.97286  1.0000
+  O   O1        1.0  0.43685  0.34350  0.12998  1.0000
+  O   O2        1.0  0.43685  0.84346  0.63000  1.0000
+  O   O3        1.0  0.03665  0.69315  0.12998  1.0000
+  O   O4        1.0  0.03664  0.19317  0.63000  1.0000
+  O   O5        1.0  0.78650  0.09336  0.12998  1.0000
+  O   O6        1.0  0.78656  0.59339  0.63000  1.0000
+  O   O7        1.0  0.56277  0.13662  0.36628  1.0000
+  O   O8        1.0  0.56275  0.63661  0.86628  1.0000
+  O   O9        1.0  0.94011  0.80349  0.36628  1.0000
+  O   O10       1.0  0.94013  0.30352  0.86628  1.0000
+  O   O11       1.0  0.22966  0.42615  0.36629  1.0000
+  O   O12       1.0  0.22966  0.92615  0.86629  1.0000

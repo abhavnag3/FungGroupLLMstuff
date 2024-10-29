@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       La4Co2Sn5
+_chemical_formula_sum              "La4 Co2 Sn5"
+_cell_length_a       7.5341
+_cell_length_b       7.5341
+_cell_length_c       11.1581
+_cell_angle_alpha    53.9577
+_cell_angle_beta     53.9577
+_cell_angle_gamma    35.892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.93745  0.93745  0.72229  1.0000
+  La  La2       1.0  0.06255  0.06255  0.27771  1.0000
+  La  La3       1.0  0.33150  0.33150  0.28421  1.0000
+  La  La4       1.0  0.66850  0.66850  0.71579  1.0000
+  Co  Co1       1.0  0.77284  0.77284  0.14066  1.0000
+  Co  Co2       1.0  0.22716  0.22717  0.85934  1.0000
+  Sn  Sn1       1.0  0.65362  0.65362  0.02213  1.0000
+  Sn  Sn2       1.0  0.34638  0.34638  0.97787  1.0000
+  Sn  Sn3       1.0  0.62667  0.62667  0.44203  1.0000
+  Sn  Sn4       1.0  0.37333  0.37333  0.55797  1.0000
+  Sn  Sn5       1.0  0.00000  0.00000  0.00000  1.0000

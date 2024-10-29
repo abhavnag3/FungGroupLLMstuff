@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tm4As4Pd4
+_chemical_formula_sum              "Tm4 As4 Pd4"
+_cell_length_a       4.10295
+_cell_length_b       6.96929
+_cell_length_c       7.9166
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.25000  0.53121  0.30934  1.0000
+  Tm  Tm2       1.0  0.25000  0.03121  0.19067  1.0000
+  Tm  Tm3       1.0  0.75000  0.46879  0.69066  1.0000
+  Tm  Tm4       1.0  0.75000  0.96879  0.80934  1.0000
+  As  As1       1.0  0.25000  0.24739  0.87920  1.0000
+  As  As2       1.0  0.25000  0.74739  0.62080  1.0000
+  As  As3       1.0  0.75000  0.75261  0.12080  1.0000
+  As  As4       1.0  0.75000  0.25261  0.37920  1.0000
+  Pd  Pd1       1.0  0.25000  0.64395  0.93722  1.0000
+  Pd  Pd2       1.0  0.25000  0.14395  0.56278  1.0000
+  Pd  Pd3       1.0  0.75000  0.35605  0.06278  1.0000
+  Pd  Pd4       1.0  0.75000  0.85605  0.43722  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Yb6Dy2Sb6
+_chemical_formula_sum              "Yb6 Dy2 Sb6"
+_cell_length_a       8.11748
+_cell_length_b       8.11748
+_cell_length_c       8.17783
+_cell_angle_alpha    70.5414
+_cell_angle_beta     70.5414
+_cell_angle_gamma    109.094
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.00092  0.35905  0.49524  1.0000
+  Yb  Yb2       1.0  0.49572  0.49574  0.14844  1.0000
+  Yb  Yb3       1.0  0.64452  0.14842  0.35665  1.0000
+  Yb  Yb4       1.0  0.35905  0.00092  0.99524  1.0000
+  Yb  Yb5       1.0  0.49574  0.49572  0.64844  1.0000
+  Yb  Yb6       1.0  0.14842  0.64452  0.85665  1.0000
+  Dy  Dy1       1.0  0.85517  0.00033  0.99951  1.0000
+  Dy  Dy2       1.0  0.00033  0.85517  0.49951  1.0000
+  Sb  Sb1       1.0  0.63348  0.87379  0.75027  1.0000
+  Sb  Sb2       1.0  0.87379  0.63348  0.25027  1.0000
+  Sb  Sb3       1.0  0.23998  0.11850  0.62879  1.0000
+  Sb  Sb4       1.0  0.75661  0.37777  0.87111  1.0000
+  Sb  Sb5       1.0  0.37777  0.75661  0.37111  1.0000
+  Sb  Sb6       1.0  0.11850  0.23998  0.12879  1.0000

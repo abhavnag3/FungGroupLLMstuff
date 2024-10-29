@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Yb2In4Se8
+_chemical_formula_sum              "Yb2 In4 Se8"
+_cell_length_a       6.34673
+_cell_length_b       6.34673
+_cell_length_c       10.7639
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    114.785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.50000  0.50000  0.25000  1.0000
+  Yb  Yb2       1.0  0.50000  0.50000  0.75000  1.0000
+  In  In1       1.0  0.77185  0.22254  0.50000  1.0000
+  In  In2       1.0  0.22815  0.77746  0.50000  1.0000
+  In  In3       1.0  0.77746  0.22815  0.00000  1.0000
+  In  In4       1.0  0.22254  0.77185  0.00000  1.0000
+  Se  Se1       1.0  0.77966  0.64878  0.50000  1.0000
+  Se  Se2       1.0  0.22034  0.35122  0.50000  1.0000
+  Se  Se3       1.0  0.35122  0.22034  0.00000  1.0000
+  Se  Se4       1.0  0.64878  0.77966  0.00000  1.0000
+  Se  Se5       1.0  0.00000  0.50000  0.18680  1.0000
+  Se  Se6       1.0  0.50000  0.00000  0.31320  1.0000
+  Se  Se7       1.0  0.00000  0.50000  0.81320  1.0000
+  Se  Se8       1.0  0.50000  0.00000  0.68680  1.0000

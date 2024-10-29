@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4La2Bi2O12
+_chemical_formula_sum              "Sr4 La2 Bi2 O12"
+_cell_length_a       6.0521
+_cell_length_b       6.21868
+_cell_length_c       8.67375
+_cell_angle_alpha    89.9996
+_cell_angle_beta     89.6909
+_cell_angle_gamma    89.9989
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.51263  0.54819  0.25055  1.0000
+  Sr  Sr2       1.0  0.98734  0.04819  0.24941  1.0000
+  Sr  Sr3       1.0  0.48737  0.45181  0.74945  1.0000
+  Sr  Sr4       1.0  0.01266  0.95181  0.75059  1.0000
+  La  La1       1.0  0.50000  0.00000  0.00000  1.0000
+  La  La2       1.0  0.00000  0.50000  0.50000  1.0000
+  Bi  Bi1       1.0  0.00000  0.50000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.18244  0.21324  0.94183  1.0000
+  O   O2        1.0  0.31757  0.71320  0.55818  1.0000
+  O   O3        1.0  0.81756  0.78676  0.05817  1.0000
+  O   O4        1.0  0.68243  0.28680  0.44182  1.0000
+  O   O5        1.0  0.28687  0.68918  0.94625  1.0000
+  O   O6        1.0  0.21309  0.18917  0.55377  1.0000
+  O   O7        1.0  0.71313  0.31082  0.05375  1.0000
+  O   O8        1.0  0.78691  0.81083  0.44623  1.0000
+  O   O9        1.0  0.39458  0.95581  0.26462  1.0000
+  O   O10       1.0  0.10537  0.45579  0.23540  1.0000
+  O   O11       1.0  0.60542  0.04419  0.73538  1.0000
+  O   O12       1.0  0.89463  0.54421  0.76460  1.0000

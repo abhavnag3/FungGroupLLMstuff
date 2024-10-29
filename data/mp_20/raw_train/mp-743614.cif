@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mo2H4Cl4O6
+_chemical_formula_sum              "Mo2 H4 Cl4 O6"
+_cell_length_a       3.92988
+_cell_length_b       7.88999
+_cell_length_c       9.26397
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.66180  0.79493  0.50000  1.0000
+  Mo  Mo2       1.0  0.33820  0.29493  0.00000  1.0000
+  H   H1        1.0  0.84283  0.45264  0.58489  1.0000
+  H   H2        1.0  0.84283  0.45264  0.41511  1.0000
+  H   H3        1.0  0.15718  0.95264  0.91511  1.0000
+  H   H4        1.0  0.15718  0.95264  0.08489  1.0000
+  Cl  Cl1       1.0  0.74989  0.73617  0.74642  1.0000
+  Cl  Cl2       1.0  0.74989  0.73617  0.25358  1.0000
+  Cl  Cl3       1.0  0.25011  0.23617  0.75358  1.0000
+  Cl  Cl4       1.0  0.25011  0.23617  0.24642  1.0000
+  O   O1        1.0  0.72431  0.49561  0.50000  1.0000
+  O   O2        1.0  0.27569  0.99561  0.00000  1.0000
+  O   O3        1.0  0.69955  0.00979  0.50000  1.0000
+  O   O4        1.0  0.30045  0.50979  0.00000  1.0000
+  O   O5        1.0  0.21485  0.76484  0.50000  1.0000
+  O   O6        1.0  0.78515  0.26484  0.00000  1.0000

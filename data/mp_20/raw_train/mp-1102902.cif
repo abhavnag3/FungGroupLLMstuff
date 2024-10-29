@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Pr2Ni5B4
+_chemical_formula_sum              "Pr2 Ni5 B4"
+_cell_length_a       5.54789
+_cell_length_b       5.54789
+_cell_length_c       6.81422
+_cell_angle_alpha    58.9319
+_cell_angle_beta     58.9319
+_cell_angle_gamma    55.0904
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.27417  0.27417  0.64902  1.0000
+  Pr  Pr2       1.0  0.72583  0.72583  0.35098  1.0000
+  Ni  Ni1       1.0  0.17644  0.67246  0.87224  1.0000
+  Ni  Ni2       1.0  0.67246  0.17644  0.87224  1.0000
+  Ni  Ni3       1.0  0.82356  0.32754  0.12776  1.0000
+  Ni  Ni4       1.0  0.32754  0.82356  0.12776  1.0000
+  Ni  Ni5       1.0  0.00000  0.00000  0.50000  1.0000
+  B   B1        1.0  0.77903  0.77903  0.84042  1.0000
+  B   B2        1.0  0.22097  0.22097  0.15958  1.0000
+  B   B3        1.0  0.40087  0.40087  0.13867  1.0000
+  B   B4        1.0  0.59913  0.59913  0.86133  1.0000

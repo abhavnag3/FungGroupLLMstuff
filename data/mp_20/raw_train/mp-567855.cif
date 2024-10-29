@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Rb4Ge4I12
+_chemical_formula_sum              "Rb4 Ge4 I12"
+_cell_length_a       4.59913
+_cell_length_b       10.4136
+_cell_length_c       17.191
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.99471  0.67011  0.16999  1.0000
+  Rb  Rb2       1.0  0.00529  0.17011  0.33001  1.0000
+  Rb  Rb3       1.0  0.50529  0.32989  0.66999  1.0000
+  Rb  Rb4       1.0  0.49471  0.82989  0.83001  1.0000
+  Ge  Ge1       1.0  0.03401  0.40882  0.93735  1.0000
+  Ge  Ge2       1.0  0.46599  0.59118  0.43735  1.0000
+  Ge  Ge3       1.0  0.53401  0.09118  0.06265  1.0000
+  Ge  Ge4       1.0  0.96599  0.90882  0.56265  1.0000
+  I   I1        1.0  0.01177  0.77165  0.38916  1.0000
+  I   I2        1.0  0.98286  0.92014  0.00012  1.0000
+  I   I3        1.0  0.01714  0.42014  0.49988  1.0000
+  I   I4        1.0  0.51177  0.72835  0.61084  1.0000
+  I   I5        1.0  0.51714  0.07986  0.50012  1.0000
+  I   I6        1.0  0.99201  0.04017  0.70853  1.0000
+  I   I7        1.0  0.48823  0.22835  0.88916  1.0000
+  I   I8        1.0  0.00799  0.54017  0.79147  1.0000
+  I   I9        1.0  0.98823  0.27165  0.11084  1.0000
+  I   I10       1.0  0.48286  0.57986  0.99988  1.0000
+  I   I11       1.0  0.50799  0.95983  0.20853  1.0000
+  I   I12       1.0  0.49201  0.45983  0.29147  1.0000

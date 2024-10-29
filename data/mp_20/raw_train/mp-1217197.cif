@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti3AlNi12
+_chemical_formula_sum              "Ti3 Al1 Ni12"
+_cell_length_a       5.07314
+_cell_length_b       5.07314
+_cell_length_c       8.26353
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.33333  0.66667  0.00000  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.75171  1.0000
+  Ti  Ti3       1.0  0.00000  0.00000  0.24829  1.0000
+  Al  Al1       1.0  0.66667  0.33333  0.50000  1.0000
+  Ni  Ni1       1.0  0.17131  0.82869  0.50000  1.0000
+  Ni  Ni2       1.0  0.17131  0.34263  0.50000  1.0000
+  Ni  Ni3       1.0  0.65737  0.82869  0.50000  1.0000
+  Ni  Ni4       1.0  0.82798  0.17202  0.00000  1.0000
+  Ni  Ni5       1.0  0.82798  0.65597  0.00000  1.0000
+  Ni  Ni6       1.0  0.34403  0.17202  0.00000  1.0000
+  Ni  Ni7       1.0  0.99977  0.49989  0.74945  1.0000
+  Ni  Ni8       1.0  0.50011  0.49989  0.74945  1.0000
+  Ni  Ni9       1.0  0.50011  0.00023  0.74945  1.0000
+  Ni  Ni10      1.0  0.99977  0.49989  0.25055  1.0000
+  Ni  Ni11      1.0  0.50011  0.49989  0.25055  1.0000
+  Ni  Ni12      1.0  0.50011  0.00023  0.25055  1.0000

@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       U7Se12
+_chemical_formula_sum              "U7 Se12"
+_cell_length_a       3.92262
+_cell_length_b       11.4973
+_cell_length_c       11.4973
+_cell_angle_alpha    120
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.75000  0.00000  0.00000  1.0000
+  U   U2        1.0  0.75000  0.42863  0.28582  1.0000
+  U   U3        1.0  0.75000  0.71418  0.14281  1.0000
+  U   U4        1.0  0.75000  0.85719  0.57137  1.0000
+  U   U5        1.0  0.25000  0.55859  0.70759  1.0000
+  U   U6        1.0  0.25000  0.29241  0.85099  1.0000
+  U   U7        1.0  0.25000  0.14901  0.44141  1.0000
+  Se  Se1       1.0  0.75000  0.25169  0.00071  1.0000
+  Se  Se2       1.0  0.75000  0.99930  0.25098  1.0000
+  Se  Se3       1.0  0.75000  0.74902  0.74831  1.0000
+  Se  Se4       1.0  0.25000  0.78849  0.99878  1.0000
+  Se  Se5       1.0  0.25000  0.00122  0.78971  1.0000
+  Se  Se6       1.0  0.25000  0.21029  0.21151  1.0000
+  Se  Se7       1.0  0.75000  0.14495  0.63119  1.0000
+  Se  Se8       1.0  0.75000  0.36881  0.51376  1.0000
+  Se  Se9       1.0  0.75000  0.48624  0.85505  1.0000
+  Se  Se10      1.0  0.25000  0.85569  0.38101  1.0000
+  Se  Se11      1.0  0.25000  0.61899  0.47468  1.0000
+  Se  Se12      1.0  0.25000  0.52532  0.14431  1.0000

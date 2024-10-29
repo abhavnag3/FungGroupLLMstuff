@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li2Zn2B2O6
+_chemical_formula_sum              "Li2 Zn2 B2 O6"
+_cell_length_a       5.15353
+_cell_length_b       5.15353
+_cell_length_c       6.18122
+_cell_angle_alpha    65.3052
+_cell_angle_beta     65.3052
+_cell_angle_gamma    59.5601
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.93456  0.77089  0.68874  1.0000
+  Li  Li2       1.0  0.77089  0.93456  0.18874  1.0000
+  Zn  Zn1       1.0  0.27704  0.10965  0.67032  1.0000
+  Zn  Zn2       1.0  0.10965  0.27704  0.17032  1.0000
+  B   B1        1.0  0.41410  0.59127  0.25131  1.0000
+  B   B2        1.0  0.59127  0.41410  0.75131  1.0000
+  O   O1        1.0  0.13620  0.85316  0.26912  1.0000
+  O   O2        1.0  0.85316  0.13620  0.76912  1.0000
+  O   O3        1.0  0.69073  0.59841  0.21432  1.0000
+  O   O4        1.0  0.40034  0.30485  0.29120  1.0000
+  O   O5        1.0  0.30485  0.40034  0.79120  1.0000
+  O   O6        1.0  0.59841  0.69073  0.71432  1.0000

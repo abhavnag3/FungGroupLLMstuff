@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr6Co2C6N6
+_chemical_formula_sum              "Sr6 Co2 C6 N6"
+_cell_length_a       8.71568
+_cell_length_b       8.71568
+_cell_length_c       5.43335
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.30745  0.93461  0.75000  1.0000
+  Sr  Sr2       1.0  0.06539  0.37284  0.75000  1.0000
+  Sr  Sr3       1.0  0.93461  0.62716  0.25000  1.0000
+  Sr  Sr4       1.0  0.69255  0.06539  0.25000  1.0000
+  Sr  Sr5       1.0  0.62716  0.69255  0.75000  1.0000
+  Sr  Sr6       1.0  0.37284  0.30745  0.25000  1.0000
+  Co  Co1       1.0  0.66667  0.33333  0.75000  1.0000
+  Co  Co2       1.0  0.33333  0.66667  0.25000  1.0000
+  C   C1        1.0  0.45140  0.30292  0.75000  1.0000
+  C   C2        1.0  0.69708  0.14848  0.75000  1.0000
+  C   C3        1.0  0.30292  0.85152  0.25000  1.0000
+  C   C4        1.0  0.54860  0.69708  0.25000  1.0000
+  C   C5        1.0  0.85152  0.54860  0.75000  1.0000
+  C   C6        1.0  0.14848  0.45140  0.25000  1.0000
+  N   N1        1.0  0.29559  0.27248  0.75000  1.0000
+  N   N2        1.0  0.72752  0.02311  0.75000  1.0000
+  N   N3        1.0  0.27248  0.97689  0.25000  1.0000
+  N   N4        1.0  0.02311  0.29559  0.25000  1.0000
+  N   N5        1.0  0.70441  0.72752  0.25000  1.0000
+  N   N6        1.0  0.97689  0.70441  0.75000  1.0000

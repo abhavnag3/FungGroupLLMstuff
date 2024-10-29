@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ta6Re6Si6
+_chemical_formula_sum              "Ta6 Re6 Si6"
+_cell_length_a       7.5586
+_cell_length_b       7.5586
+_cell_length_c       7.5586
+_cell_angle_alpha    127.249
+_cell_angle_beta     124.53
+_cell_angle_gamma    80.089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.55467  0.09554  0.04087  1.0000
+  Ta  Ta2       1.0  0.44533  0.48620  0.54087  1.0000
+  Ta  Ta3       1.0  0.96567  0.49959  0.03392  1.0000
+  Ta  Ta4       1.0  0.03433  0.06825  0.53392  1.0000
+  Ta  Ta5       1.0  0.75349  0.91099  0.65750  1.0000
+  Ta  Ta6       1.0  0.24651  0.90401  0.15750  1.0000
+  Re  Re1       1.0  0.50000  0.24591  0.74591  1.0000
+  Re  Re2       1.0  0.00000  0.24591  0.24591  1.0000
+  Re  Re3       1.0  0.16158  0.74963  0.65708  1.0000
+  Re  Re4       1.0  0.83842  0.49550  0.58805  1.0000
+  Re  Re5       1.0  0.59255  0.74963  0.08805  1.0000
+  Re  Re6       1.0  0.40745  0.49550  0.15708  1.0000
+  Si  Si1       1.0  0.77802  0.53763  0.25961  1.0000
+  Si  Si2       1.0  0.22198  0.48160  0.75961  1.0000
+  Si  Si3       1.0  0.33735  0.82671  0.49879  1.0000
+  Si  Si4       1.0  0.66265  0.16145  0.48936  1.0000
+  Si  Si5       1.0  0.82791  0.82671  0.98936  1.0000
+  Si  Si6       1.0  0.17209  0.16145  0.99879  1.0000

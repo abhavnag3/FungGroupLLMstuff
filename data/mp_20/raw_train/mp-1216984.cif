@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       U12FeNi
+_chemical_formula_sum              "U12 Fe1 Ni1"
+_cell_length_a       5.19789
+_cell_length_b       7.65391
+_cell_length_c       7.65391
+_cell_angle_alpha    96.6209
+_cell_angle_beta     109.85
+_cell_angle_gamma    70.1501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.09382  0.50000  0.68763  1.0000
+  U   U2        1.0  0.90618  0.50000  0.31237  1.0000
+  U   U3        1.0  0.59382  0.31237  0.50000  1.0000
+  U   U4        1.0  0.40618  0.68763  0.50000  1.0000
+  U   U5        1.0  0.27889  0.11504  0.67873  1.0000
+  U   U6        1.0  0.71520  0.88496  0.32127  1.0000
+  U   U7        1.0  0.78480  0.32127  0.88496  1.0000
+  U   U8        1.0  0.22111  0.67873  0.11504  1.0000
+  U   U9        1.0  0.60016  0.67873  0.88496  1.0000
+  U   U10       1.0  0.39393  0.32127  0.11504  1.0000
+  U   U11       1.0  0.89984  0.88496  0.67873  1.0000
+  U   U12       1.0  0.10607  0.11504  0.32127  1.0000
+  Fe  Fe1       1.0  0.25000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.75000  0.00000  0.00000  1.0000

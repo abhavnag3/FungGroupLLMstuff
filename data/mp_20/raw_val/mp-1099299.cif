@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mg6CdSn
+_chemical_formula_sum              "Mg6 Cd1 Sn1"
+_cell_length_a       6.40734
+_cell_length_b       6.40734
+_cell_length_c       5.2096
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    121.505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.16563  0.33680  0.00000  1.0000
+  Mg  Mg2       1.0  0.66320  0.83437  0.00000  1.0000
+  Mg  Mg3       1.0  0.66721  0.33279  0.00000  1.0000
+  Mg  Mg4       1.0  0.33650  0.17007  0.50000  1.0000
+  Mg  Mg5       1.0  0.82993  0.66350  0.50000  1.0000
+  Mg  Mg6       1.0  0.83154  0.16846  0.50000  1.0000
+  Cd  Cd1       1.0  0.34447  0.65553  0.50000  1.0000
+  Sn  Sn1       1.0  0.16151  0.83849  0.00000  1.0000

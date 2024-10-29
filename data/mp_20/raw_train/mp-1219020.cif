@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       SmTiCo11
+_chemical_formula_sum              "Sm1 Ti1 Co11"
+_cell_length_a       4.68033
+_cell_length_b       6.35838
+_cell_length_c       6.35838
+_cell_angle_alpha    97.4445
+_cell_angle_beta     111.595
+_cell_angle_gamma    68.405
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00701  0.99299  0.00701  1.0000
+  Ti  Ti1       1.0  0.63064  0.36936  0.63064  1.0000
+  Co  Co1       1.0  0.72996  0.77004  0.22996  1.0000
+  Co  Co2       1.0  0.27695  0.22305  0.77695  1.0000
+  Co  Co3       1.0  0.49851  0.77856  0.77558  1.0000
+  Co  Co4       1.0  0.49851  0.22442  0.22144  1.0000
+  Co  Co5       1.0  0.49963  0.99466  0.49838  1.0000
+  Co  Co6       1.0  0.00409  0.99466  0.49838  1.0000
+  Co  Co7       1.0  0.49963  0.50162  0.00534  1.0000
+  Co  Co8       1.0  0.00409  0.50162  0.00534  1.0000
+  Co  Co9       1.0  0.35438  0.64562  0.35438  1.0000
+  Co  Co10      1.0  0.99830  0.36146  0.35805  1.0000
+  Co  Co11      1.0  0.99830  0.64195  0.63854  1.0000

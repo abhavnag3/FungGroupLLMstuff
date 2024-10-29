@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Si4Pd4
+_chemical_formula_sum              "Zr4 Si4 Pd4"
+_cell_length_a       3.90953
+_cell_length_b       6.67872
+_cell_length_c       7.67577
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25000  0.02583  0.32006  1.0000
+  Zr  Zr2       1.0  0.25000  0.52583  0.17994  1.0000
+  Zr  Zr3       1.0  0.75000  0.97417  0.67994  1.0000
+  Zr  Zr4       1.0  0.75000  0.47417  0.82006  1.0000
+  Si  Si1       1.0  0.25000  0.26310  0.62266  1.0000
+  Si  Si2       1.0  0.25000  0.76310  0.87734  1.0000
+  Si  Si3       1.0  0.75000  0.73690  0.37734  1.0000
+  Si  Si4       1.0  0.75000  0.23690  0.12266  1.0000
+  Pd  Pd1       1.0  0.25000  0.14373  0.93836  1.0000
+  Pd  Pd2       1.0  0.25000  0.64373  0.56164  1.0000
+  Pd  Pd3       1.0  0.75000  0.85627  0.06164  1.0000
+  Pd  Pd4       1.0  0.75000  0.35627  0.43836  1.0000

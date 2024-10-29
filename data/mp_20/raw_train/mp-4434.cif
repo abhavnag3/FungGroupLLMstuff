@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tb4Al4O12
+_chemical_formula_sum              "Tb4 Al4 O12"
+_cell_length_a       5.23635
+_cell_length_b       5.37614
+_cell_length_c       7.46483
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.01236  0.05148  0.25000  1.0000
+  Tb  Tb2       1.0  0.51236  0.44852  0.75000  1.0000
+  Tb  Tb3       1.0  0.48764  0.55148  0.25000  1.0000
+  Tb  Tb4       1.0  0.98764  0.94852  0.75000  1.0000
+  Al  Al1       1.0  0.50000  0.00000  0.00000  1.0000
+  Al  Al2       1.0  0.00000  0.50000  0.00000  1.0000
+  Al  Al3       1.0  0.00000  0.50000  0.50000  1.0000
+  Al  Al4       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.29166  0.29199  0.45579  1.0000
+  O   O2        1.0  0.79166  0.20801  0.54421  1.0000
+  O   O3        1.0  0.20834  0.79199  0.04421  1.0000
+  O   O4        1.0  0.70834  0.70801  0.95579  1.0000
+  O   O5        1.0  0.70834  0.70801  0.54421  1.0000
+  O   O6        1.0  0.20834  0.79199  0.45579  1.0000
+  O   O7        1.0  0.79166  0.20801  0.95579  1.0000
+  O   O8        1.0  0.29166  0.29199  0.04421  1.0000
+  O   O9        1.0  0.91651  0.47888  0.25000  1.0000
+  O   O10       1.0  0.41651  0.02112  0.75000  1.0000
+  O   O11       1.0  0.58349  0.97888  0.25000  1.0000
+  O   O12       1.0  0.08349  0.52112  0.75000  1.0000

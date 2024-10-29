@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Mg2Sn2O6
+_chemical_formula_sum              "Mg2 Sn2 O6"
+_cell_length_a       5.66371
+_cell_length_b       5.66371
+_cell_length_c       5.66371
+_cell_angle_alpha    56.2466
+_cell_angle_beta     56.2466
+_cell_angle_gamma    56.2466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.35684  0.35684  0.35684  1.0000
+  Mg  Mg2       1.0  0.64316  0.64316  0.64316  1.0000
+  Sn  Sn1       1.0  0.14698  0.14698  0.14698  1.0000
+  Sn  Sn2       1.0  0.85302  0.85302  0.85302  1.0000
+  O   O1        1.0  0.44850  0.75601  0.04825  1.0000
+  O   O2        1.0  0.75601  0.04825  0.44850  1.0000
+  O   O3        1.0  0.95175  0.55149  0.24399  1.0000
+  O   O4        1.0  0.04825  0.44851  0.75601  1.0000
+  O   O5        1.0  0.24399  0.95175  0.55149  1.0000
+  O   O6        1.0  0.55149  0.24399  0.95175  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ta4Co4Te8
+_chemical_formula_sum              "Ta4 Co4 Te8"
+_cell_length_a       6.34012
+_cell_length_b       7.79036
+_cell_length_c       8.53988
+_cell_angle_alpha    65.4569
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.97858  0.30909  0.48550  1.0000
+  Ta  Ta2       1.0  0.47858  0.19091  0.51450  1.0000
+  Ta  Ta3       1.0  0.02142  0.69091  0.51450  1.0000
+  Ta  Ta4       1.0  0.52142  0.80909  0.48550  1.0000
+  Co  Co1       1.0  0.84958  0.94265  0.60039  1.0000
+  Co  Co2       1.0  0.15042  0.05735  0.39961  1.0000
+  Co  Co3       1.0  0.65042  0.44266  0.60039  1.0000
+  Co  Co4       1.0  0.34958  0.55734  0.39961  1.0000
+  Te  Te1       1.0  0.25676  0.36003  0.72037  1.0000
+  Te  Te2       1.0  0.24324  0.86003  0.72037  1.0000
+  Te  Te3       1.0  0.75676  0.13997  0.27963  1.0000
+  Te  Te4       1.0  0.74324  0.63997  0.27963  1.0000
+  Te  Te5       1.0  0.25087  0.90105  0.20008  1.0000
+  Te  Te6       1.0  0.75087  0.59895  0.79992  1.0000
+  Te  Te7       1.0  0.74913  0.09895  0.79992  1.0000
+  Te  Te8       1.0  0.24913  0.40105  0.20008  1.0000

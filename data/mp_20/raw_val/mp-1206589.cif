@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Dy4Fe2Si4
+_chemical_formula_sum              "Dy4 Fe2 Si4"
+_cell_length_a       5.64349
+_cell_length_b       5.64349
+_cell_length_c       9.9826
+_cell_angle_alpha    62.9428
+_cell_angle_beta     62.9428
+_cell_angle_gamma    43.0276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.99915  0.99915  0.32851  1.0000
+  Dy  Dy2       1.0  0.00085  0.00085  0.67149  1.0000
+  Dy  Dy3       1.0  0.81155  0.81155  0.10935  1.0000
+  Dy  Dy4       1.0  0.18845  0.18845  0.89065  1.0000
+  Fe  Fe1       1.0  0.72798  0.72798  0.62309  1.0000
+  Fe  Fe2       1.0  0.27202  0.27202  0.37691  1.0000
+  Si  Si1       1.0  0.65520  0.65520  0.43569  1.0000
+  Si  Si2       1.0  0.34480  0.34480  0.56431  1.0000
+  Si  Si3       1.0  0.50080  0.50080  0.12604  1.0000
+  Si  Si4       1.0  0.49920  0.49920  0.87396  1.0000

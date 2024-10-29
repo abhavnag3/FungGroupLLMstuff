@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li3Mg5Bi3Pb
+_chemical_formula_sum              "Li3 Mg5 Bi3 Pb1"
+_cell_length_a       15.9239
+_cell_length_b       15.9239
+_cell_length_c       15.9239
+_cell_angle_alpha    17.6745
+_cell_angle_beta     17.6745
+_cell_angle_gamma    17.6745
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.37507  0.37507  0.37507  1.0000
+  Li  Li2       1.0  0.12514  0.12514  0.12514  1.0000
+  Li  Li3       1.0  0.87502  0.87502  0.87502  1.0000
+  Mg  Mg1       1.0  0.49952  0.49952  0.49952  1.0000
+  Mg  Mg2       1.0  0.25044  0.25044  0.25044  1.0000
+  Mg  Mg3       1.0  0.00006  0.00006  0.00006  1.0000
+  Mg  Mg4       1.0  0.74980  0.74980  0.74980  1.0000
+  Mg  Mg5       1.0  0.62556  0.62556  0.62556  1.0000
+  Bi  Bi1       1.0  0.06252  0.06252  0.06252  1.0000
+  Bi  Bi2       1.0  0.81259  0.81259  0.81259  1.0000
+  Bi  Bi3       1.0  0.56192  0.56192  0.56192  1.0000
+  Pb  Pb1       1.0  0.31235  0.31235  0.31235  1.0000

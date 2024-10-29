@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Dy4Zn4Rh4
+_chemical_formula_sum              "Dy4 Zn4 Rh4"
+_cell_length_a       4.05092
+_cell_length_b       6.93961
+_cell_length_c       8.13661
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.25000  0.53880  0.18407  1.0000
+  Dy  Dy2       1.0  0.75000  0.46120  0.81593  1.0000
+  Dy  Dy3       1.0  0.25000  0.03880  0.31593  1.0000
+  Dy  Dy4       1.0  0.75000  0.96120  0.68407  1.0000
+  Zn  Zn1       1.0  0.25000  0.13700  0.93637  1.0000
+  Zn  Zn2       1.0  0.75000  0.86300  0.06363  1.0000
+  Zn  Zn3       1.0  0.25000  0.63700  0.56363  1.0000
+  Zn  Zn4       1.0  0.75000  0.36300  0.43637  1.0000
+  Rh  Rh1       1.0  0.75000  0.74502  0.37669  1.0000
+  Rh  Rh2       1.0  0.25000  0.25498  0.62331  1.0000
+  Rh  Rh3       1.0  0.75000  0.24502  0.12331  1.0000
+  Rh  Rh4       1.0  0.25000  0.75498  0.87669  1.0000

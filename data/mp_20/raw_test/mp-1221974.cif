@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mg2Mn2Te8
+_chemical_formula_sum              "Mg2 Mn2 Te8"
+_cell_length_a       7.02093
+_cell_length_b       7.01882
+_cell_length_c       7.0345
+_cell_angle_alpha    89.9411
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.50000  0.00000  0.50000  1.0000
+  Mg  Mg2       1.0  0.00000  0.50000  0.50000  1.0000
+  Mn  Mn1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mn  Mn2       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.88108  0.61851  0.89050  1.0000
+  Te  Te2       1.0  0.38108  0.88149  0.10950  1.0000
+  Te  Te3       1.0  0.11173  0.11193  0.62077  1.0000
+  Te  Te4       1.0  0.61173  0.38807  0.37923  1.0000
+  Te  Te5       1.0  0.11892  0.38149  0.10950  1.0000
+  Te  Te6       1.0  0.61892  0.11851  0.89050  1.0000
+  Te  Te7       1.0  0.88827  0.88807  0.37923  1.0000
+  Te  Te8       1.0  0.38827  0.61193  0.62077  1.0000

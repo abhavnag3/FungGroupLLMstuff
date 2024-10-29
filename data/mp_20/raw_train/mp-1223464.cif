@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       KCrSnS4
+_chemical_formula_sum              "K1 Cr1 Sn1 S4"
+_cell_length_a       3.68376
+_cell_length_b       7.89863
+_cell_length_c       6.27876
+_cell_angle_alpha    74.4859
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.50000  0.49571  0.65879  1.0000
+  Cr  Cr1       1.0  0.50000  0.00423  0.50109  1.0000
+  Sn  Sn1       1.0  0.00000  0.99631  0.00223  1.0000
+  S   S1        1.0  0.00000  0.82719  0.41308  1.0000
+  S   S2        1.0  0.50000  0.81443  0.87724  1.0000
+  S   S3        1.0  0.00000  0.17759  0.59406  1.0000
+  S   S4        1.0  0.50000  0.18367  0.12047  1.0000

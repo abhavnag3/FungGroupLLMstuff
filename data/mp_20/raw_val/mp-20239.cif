@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr4Mn2Cu2S2O6
+_chemical_formula_sum              "Sr4 Mn2 Cu2 S2 O6"
+_cell_length_a       3.91261
+_cell_length_b       3.91261
+_cell_length_c       16.1031
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.50000  0.18748  1.0000
+  Sr  Sr2       1.0  0.50000  0.00000  0.81252  1.0000
+  Sr  Sr3       1.0  0.00000  0.50000  0.41730  1.0000
+  Sr  Sr4       1.0  0.50000  0.00000  0.58270  1.0000
+  Mn  Mn1       1.0  0.50000  0.00000  0.30581  1.0000
+  Mn  Mn2       1.0  0.00000  0.50000  0.69419  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.00000  1.0000
+  S   S1        1.0  0.50000  0.00000  0.08642  1.0000
+  S   S2        1.0  0.00000  0.50000  0.91358  1.0000
+  O   O1        1.0  0.00000  0.00000  0.28539  1.0000
+  O   O2        1.0  0.50000  0.50000  0.28539  1.0000
+  O   O3        1.0  0.50000  0.50000  0.71461  1.0000
+  O   O4        1.0  0.00000  0.00000  0.71461  1.0000
+  O   O5        1.0  0.50000  0.00000  0.43178  1.0000
+  O   O6        1.0  0.00000  0.50000  0.56822  1.0000

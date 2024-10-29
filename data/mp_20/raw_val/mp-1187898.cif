@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       YbGdZn2
+_chemical_formula_sum              "Yb1 Gd1 Zn2"
+_cell_length_a       4.96654
+_cell_length_b       4.99961
+_cell_length_c       4.89626
+_cell_angle_alpha    61.1189
+_cell_angle_beta     59.9836
+_cell_angle_gamma    59.0498
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.75001  0.75000  0.74999  1.0000
+  Gd  Gd1       1.0  0.24997  0.25001  0.25001  1.0000
+  Zn  Zn1       1.0  0.99980  0.00011  0.00030  1.0000
+  Zn  Zn2       1.0  0.50021  0.49989  0.49970  1.0000

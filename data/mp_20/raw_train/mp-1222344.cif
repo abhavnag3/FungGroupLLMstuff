@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li2Ta2Ge2O10
+_chemical_formula_sum              "Li2 Ta2 Ge2 O10"
+_cell_length_a       5.62143
+_cell_length_b       5.62143
+_cell_length_c       7.5682
+_cell_angle_alpha    70.3816
+_cell_angle_beta     70.3816
+_cell_angle_gamma    94.0233
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.30941  0.69272  0.71821  1.0000
+  Li  Li2       1.0  0.69272  0.30941  0.21821  1.0000
+  Ta  Ta1       1.0  0.99506  0.00435  0.49740  1.0000
+  Ta  Ta2       1.0  0.00435  0.99506  0.99740  1.0000
+  Ge  Ge1       1.0  0.35926  0.64018  0.25336  1.0000
+  Ge  Ge2       1.0  0.64018  0.35926  0.75336  1.0000
+  O   O1        1.0  0.23890  0.76468  0.44401  1.0000
+  O   O2        1.0  0.23452  0.76341  0.06304  1.0000
+  O   O3        1.0  0.76341  0.23452  0.56304  1.0000
+  O   O4        1.0  0.76468  0.23890  0.94401  1.0000
+  O   O5        1.0  0.69734  0.69979  0.64736  1.0000
+  O   O6        1.0  0.29968  0.30334  0.84741  1.0000
+  O   O7        1.0  0.30334  0.29968  0.34741  1.0000
+  O   O8        1.0  0.69979  0.69734  0.14736  1.0000
+  O   O9        1.0  0.06678  0.93257  0.74822  1.0000
+  O   O10       1.0  0.93257  0.06678  0.24822  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si4Rh4
+_chemical_formula_sum              "Si4 Rh4"
+_cell_length_a       4.60255
+_cell_length_b       4.62172
+_cell_length_c       5.62735
+_cell_angle_alpha    64.8642
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.35292  0.78740  0.94201  1.0000
+  Si  Si2       1.0  0.85292  0.21260  0.55799  1.0000
+  Si  Si3       1.0  0.64708  0.21260  0.05799  1.0000
+  Si  Si4       1.0  0.14708  0.78740  0.44201  1.0000
+  Rh  Rh1       1.0  0.35634  0.29977  0.38125  1.0000
+  Rh  Rh2       1.0  0.85634  0.70023  0.11875  1.0000
+  Rh  Rh3       1.0  0.64366  0.70023  0.61876  1.0000
+  Rh  Rh4       1.0  0.14366  0.29977  0.88124  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeRh2Se4
+_chemical_formula_sum              "Fe1 Rh2 Se4"
+_cell_length_a       3.67351
+_cell_length_b       6.26576
+_cell_length_c       6.48655
+_cell_angle_alpha    115.872
+_cell_angle_beta     73.6236
+_cell_angle_gamma    90.0647
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.72219  0.29473  0.51833  1.0000
+  Rh  Rh1       1.0  0.24392  0.70650  0.46989  1.0000
+  Rh  Rh2       1.0  0.97684  0.99893  0.00949  1.0000
+  Se  Se1       1.0  0.09975  0.54079  0.76452  1.0000
+  Se  Se2       1.0  0.86207  0.45115  0.23271  1.0000
+  Se  Se3       1.0  0.61750  0.02349  0.72675  1.0000
+  Se  Se4       1.0  0.34272  0.98441  0.27831  1.0000

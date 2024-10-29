@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ce4S8
+_chemical_formula_sum              "Ce4 S8"
+_cell_length_a       4.03679
+_cell_length_b       8.00992
+_cell_length_c       8.04619
+_cell_angle_alpha    89.8237
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.71765  0.63030  0.27767  1.0000
+  Ce  Ce2       1.0  0.21765  0.86970  0.72233  1.0000
+  Ce  Ce3       1.0  0.28235  0.36970  0.72233  1.0000
+  Ce  Ce4       1.0  0.78235  0.13030  0.27767  1.0000
+  S   S1        1.0  0.16134  0.60870  0.00204  1.0000
+  S   S2        1.0  0.66134  0.89130  0.99796  1.0000
+  S   S3        1.0  0.83866  0.39130  0.99796  1.0000
+  S   S4        1.0  0.33866  0.10870  0.00204  1.0000
+  S   S5        1.0  0.76103  0.12454  0.63601  1.0000
+  S   S6        1.0  0.26103  0.37546  0.36399  1.0000
+  S   S7        1.0  0.23897  0.87546  0.36399  1.0000
+  S   S8        1.0  0.73897  0.62454  0.63601  1.0000

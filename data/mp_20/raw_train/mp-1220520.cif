@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Nd12Rh3
+_chemical_formula_sum              "Nd12 Rh3"
+_cell_length_a       10.0262
+_cell_length_b       6.48629
+_cell_length_c       7.29105
+_cell_angle_alpha    89.5302
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.00000  0.15584  0.47515  1.0000
+  Nd  Nd2       1.0  0.00000  0.35199  0.96071  1.0000
+  Nd  Nd3       1.0  0.50000  0.86049  0.53515  1.0000
+  Nd  Nd4       1.0  0.50000  0.65193  0.03348  1.0000
+  Nd  Nd5       1.0  0.18295  0.66698  0.31876  1.0000
+  Nd  Nd6       1.0  0.81932  0.84090  0.82172  1.0000
+  Nd  Nd7       1.0  0.68619  0.33775  0.67776  1.0000
+  Nd  Nd8       1.0  0.31967  0.17512  0.17907  1.0000
+  Nd  Nd9       1.0  0.31382  0.33775  0.67776  1.0000
+  Nd  Nd10      1.0  0.68033  0.17512  0.17907  1.0000
+  Nd  Nd11      1.0  0.81705  0.66698  0.31876  1.0000
+  Nd  Nd12      1.0  0.18068  0.84090  0.82172  1.0000
+  Rh  Rh1       1.0  0.00000  0.57992  0.61623  1.0000
+  Rh  Rh2       1.0  0.50000  0.07631  0.88020  1.0000
+  Rh  Rh3       1.0  0.50000  0.44002  0.38247  1.0000

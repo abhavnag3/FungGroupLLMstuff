@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       YbCu5S4
+_chemical_formula_sum              "Yb1 Cu5 S4"
+_cell_length_a       7.35492
+_cell_length_b       7.35492
+_cell_length_c       6.55657
+_cell_angle_alpha    64.1367
+_cell_angle_beta     64.1367
+_cell_angle_gamma    30.1051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.18647  0.18647  0.14638  1.0000
+  Cu  Cu3       1.0  0.68514  0.68514  0.64697  1.0000
+  Cu  Cu4       1.0  0.81353  0.81353  0.85362  1.0000
+  Cu  Cu5       1.0  0.31486  0.31486  0.35303  1.0000
+  S   S1        1.0  0.87497  0.87497  0.45142  1.0000
+  S   S2        1.0  0.37723  0.37723  0.96413  1.0000
+  S   S3        1.0  0.12502  0.12503  0.54858  1.0000
+  S   S4        1.0  0.62277  0.62277  0.03587  1.0000

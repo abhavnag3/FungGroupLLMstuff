@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li14Ge4
+_chemical_formula_sum              "Li14 Ge4"
+_cell_length_a       8.05964
+_cell_length_b       8.05964
+_cell_length_c       4.48147
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    110.271
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50142  0.81667  0.50000  1.0000
+  Li  Li2       1.0  0.49858  0.18333  0.50000  1.0000
+  Li  Li3       1.0  0.81667  0.50142  0.50000  1.0000
+  Li  Li4       1.0  0.18333  0.49858  0.50000  1.0000
+  Li  Li5       1.0  0.00000  0.00000  0.00000  1.0000
+  Li  Li6       1.0  0.50000  0.50000  0.50000  1.0000
+  Li  Li7       1.0  0.33998  0.33998  0.00000  1.0000
+  Li  Li8       1.0  0.66002  0.66002  0.00000  1.0000
+  Li  Li9       1.0  0.82705  0.17295  0.50000  1.0000
+  Li  Li10      1.0  0.17295  0.82705  0.50000  1.0000
+  Li  Li11      1.0  0.02035  0.34325  0.00000  1.0000
+  Li  Li12      1.0  0.97965  0.65675  0.00000  1.0000
+  Li  Li13      1.0  0.34325  0.02035  0.00000  1.0000
+  Li  Li14      1.0  0.65675  0.97965  0.00000  1.0000
+  Ge  Ge1       1.0  0.84451  0.84451  0.50000  1.0000
+  Ge  Ge2       1.0  0.15549  0.15549  0.50000  1.0000
+  Ge  Ge3       1.0  0.32156  0.67844  0.00000  1.0000
+  Ge  Ge4       1.0  0.67844  0.32156  0.00000  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ti5CN4
+_chemical_formula_sum              "Ti5 C1 N4"
+_cell_length_a       12.4377
+_cell_length_b       12.4377
+_cell_length_c       12.4377
+_cell_angle_alpha    13.9556
+_cell_angle_beta     13.9556
+_cell_angle_gamma    13.9556
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.60028  0.60028  0.60028  1.0000
+  Ti  Ti2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ti  Ti3       1.0  0.39972  0.39972  0.39972  1.0000
+  Ti  Ti4       1.0  0.19977  0.19977  0.19977  1.0000
+  Ti  Ti5       1.0  0.80023  0.80023  0.80023  1.0000
+  C   C1        1.0  0.50000  0.50000  0.50000  1.0000
+  N   N1        1.0  0.09928  0.09928  0.09928  1.0000
+  N   N2        1.0  0.70003  0.70003  0.70003  1.0000
+  N   N3        1.0  0.29997  0.29997  0.29997  1.0000
+  N   N4        1.0  0.90072  0.90072  0.90072  1.0000

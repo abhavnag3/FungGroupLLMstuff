@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       CuGePSe
+_chemical_formula_sum              "Cu1 Ge1 P1 Se1"
+_cell_length_a       6.756
+_cell_length_b       6.756
+_cell_length_c       6.756
+_cell_angle_alpha    33.6197
+_cell_angle_beta     33.6197
+_cell_angle_gamma    33.6197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00184  0.00184  0.00184  1.0000
+  Ge  Ge1       1.0  0.50199  0.50199  0.50199  1.0000
+  P   P1        1.0  0.11883  0.11883  0.11883  1.0000
+  Se  Se1       1.0  0.62734  0.62734  0.62734  1.0000

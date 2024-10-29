@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       MgCo4Cu3O12
+_chemical_formula_sum              "Mg1 Co4 Cu3 O12"
+_cell_length_a       6.2383
+_cell_length_b       6.2383
+_cell_length_c       6.2383
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.00000  0.50000  0.00000  1.0000
+  Co  Co2       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co3       1.0  0.50000  0.50000  0.50000  1.0000
+  Co  Co4       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu1       1.0  0.50000  0.00000  0.50000  1.0000
+  Cu  Cu2       1.0  0.50000  0.50000  0.00000  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.30565  0.13373  0.82807  1.0000
+  O   O2        1.0  0.69434  0.86627  0.17193  1.0000
+  O   O3        1.0  0.69434  0.52242  0.82807  1.0000
+  O   O4        1.0  0.47758  0.17193  0.30566  1.0000
+  O   O5        1.0  0.17193  0.30566  0.47758  1.0000
+  O   O6        1.0  0.82807  0.30566  0.13373  1.0000
+  O   O7        1.0  0.86627  0.17193  0.69434  1.0000
+  O   O8        1.0  0.82807  0.69434  0.52242  1.0000
+  O   O9        1.0  0.30566  0.47758  0.17193  1.0000
+  O   O10       1.0  0.52242  0.82807  0.69434  1.0000
+  O   O11       1.0  0.17193  0.69434  0.86627  1.0000
+  O   O12       1.0  0.13373  0.82807  0.30566  1.0000

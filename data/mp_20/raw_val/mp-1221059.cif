@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Na2Sb2W2O12
+_chemical_formula_sum              "Na2 Sb2 W2 O12"
+_cell_length_a       7.35427
+_cell_length_b       7.35427
+_cell_length_c       7.35427
+_cell_angle_alpha    120.748
+_cell_angle_beta     119.309
+_cell_angle_gamma    89.9553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.50000  0.50000  1.0000
+  Na  Na2       1.0  0.50000  0.50000  0.00000  1.0000
+  Sb  Sb1       1.0  0.00000  0.50000  0.00000  1.0000
+  Sb  Sb2       1.0  0.00000  0.00000  0.50000  1.0000
+  W   W1        1.0  0.50000  0.00000  0.50000  1.0000
+  W   W2        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.32067  0.06982  0.63547  1.0000
+  O   O2        1.0  0.32067  0.68520  0.25085  1.0000
+  O   O3        1.0  0.30438  0.05437  0.25000  1.0000
+  O   O4        1.0  0.93435  0.68520  0.86453  1.0000
+  O   O5        1.0  0.93435  0.06982  0.24915  1.0000
+  O   O6        1.0  0.91940  0.66940  0.25000  1.0000
+  O   O7        1.0  0.67933  0.93018  0.36453  1.0000
+  O   O8        1.0  0.67933  0.31480  0.74915  1.0000
+  O   O9        1.0  0.69563  0.94563  0.75000  1.0000
+  O   O10       1.0  0.06565  0.31480  0.13547  1.0000
+  O   O11       1.0  0.06565  0.93018  0.75085  1.0000
+  O   O12       1.0  0.08060  0.33060  0.75000  1.0000

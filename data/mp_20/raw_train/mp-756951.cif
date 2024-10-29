@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Li2Sb2O6
+_chemical_formula_sum              "Li2 Sb2 O6"
+_cell_length_a       5.40736
+_cell_length_b       5.40736
+_cell_length_c       5.21453
+_cell_angle_alpha    82.6411
+_cell_angle_beta     82.6411
+_cell_angle_gamma    122.75
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.65249  0.34751  0.00000  1.0000
+  Li  Li2       1.0  0.34751  0.65249  0.00000  1.0000
+  Sb  Sb1       1.0  0.83806  0.16194  0.50000  1.0000
+  Sb  Sb2       1.0  0.16194  0.83806  0.50000  1.0000
+  O   O1        1.0  0.79519  0.79519  0.71358  1.0000
+  O   O2        1.0  0.20480  0.20480  0.28642  1.0000
+  O   O3        1.0  0.44081  0.04131  0.73356  1.0000
+  O   O4        1.0  0.95869  0.55919  0.26644  1.0000
+  O   O5        1.0  0.55919  0.95869  0.26644  1.0000
+  O   O6        1.0  0.04131  0.44081  0.73356  1.0000

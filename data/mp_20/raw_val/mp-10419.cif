@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na8Re2N6
+_chemical_formula_sum              "Na8 Re2 N6"
+_cell_length_a       6.28895
+_cell_length_b       6.28895
+_cell_length_c       8.9302
+_cell_angle_alpha    68.2754
+_cell_angle_beta     68.2754
+_cell_angle_gamma    57.9933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.37404  0.00306  0.86463  1.0000
+  Na  Na2       1.0  0.56398  0.20559  0.47296  1.0000
+  Na  Na3       1.0  0.46704  0.74264  0.54307  1.0000
+  Na  Na4       1.0  0.74264  0.46704  0.04306  1.0000
+  Na  Na5       1.0  0.63115  0.95988  0.13851  1.0000
+  Na  Na6       1.0  0.95988  0.63115  0.63851  1.0000
+  Na  Na7       1.0  0.20559  0.56398  0.97296  1.0000
+  Na  Na8       1.0  0.00306  0.37404  0.36463  1.0000
+  Re  Re1       1.0  0.15561  0.86418  0.24999  1.0000
+  Re  Re2       1.0  0.86418  0.15561  0.74999  1.0000
+  N   N1        1.0  0.45484  0.62409  0.31149  1.0000
+  N   N2        1.0  0.62409  0.45484  0.81149  1.0000
+  N   N3        1.0  0.86064  0.83092  0.35419  1.0000
+  N   N4        1.0  0.83092  0.86064  0.85420  1.0000
+  N   N5        1.0  0.14738  0.17336  0.13307  1.0000
+  N   N6        1.0  0.17336  0.14738  0.63307  1.0000

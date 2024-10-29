@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Lu6Ni4Ge6
+_chemical_formula_sum              "Lu6 Ni4 Ge6"
+_cell_length_a       5.45661
+_cell_length_b       5.45661
+_cell_length_c       13.8364
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    135.216
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.58665  0.41335  0.60937  1.0000
+  Lu  Lu2       1.0  0.41335  0.58665  0.39063  1.0000
+  Lu  Lu3       1.0  0.41335  0.58665  0.10937  1.0000
+  Lu  Lu4       1.0  0.58665  0.41335  0.89063  1.0000
+  Lu  Lu5       1.0  0.13608  0.86392  0.25000  1.0000
+  Lu  Lu6       1.0  0.86392  0.13608  0.75000  1.0000
+  Ni  Ni1       1.0  0.29784  0.70215  0.60059  1.0000
+  Ni  Ni2       1.0  0.70215  0.29785  0.39941  1.0000
+  Ni  Ni3       1.0  0.70215  0.29785  0.10060  1.0000
+  Ni  Ni4       1.0  0.29784  0.70215  0.89941  1.0000
+  Ge  Ge1       1.0  0.87765  0.12235  0.53841  1.0000
+  Ge  Ge2       1.0  0.12235  0.87765  0.46159  1.0000
+  Ge  Ge3       1.0  0.16015  0.83985  0.75000  1.0000
+  Ge  Ge4       1.0  0.83985  0.16015  0.25000  1.0000
+  Ge  Ge5       1.0  0.87765  0.12235  0.96159  1.0000
+  Ge  Ge6       1.0  0.12235  0.87765  0.03841  1.0000

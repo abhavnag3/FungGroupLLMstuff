@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Er4Te2O12
+_chemical_formula_sum              "Er4 Te2 O12"
+_cell_length_a       4.9699
+_cell_length_b       4.9699
+_cell_length_c       10.0196
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.50000  0.50000  0.33458  1.0000
+  Er  Er2       1.0  0.50000  0.50000  0.66542  1.0000
+  Er  Er3       1.0  0.00000  0.00000  0.16542  1.0000
+  Er  Er4       1.0  0.00000  0.00000  0.83458  1.0000
+  Te  Te1       1.0  0.50000  0.50000  0.00000  1.0000
+  Te  Te2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.68395  0.68395  0.14725  1.0000
+  O   O2        1.0  0.68395  0.68395  0.85275  1.0000
+  O   O3        1.0  0.72046  0.72046  0.50000  1.0000
+  O   O4        1.0  0.77954  0.22046  0.00000  1.0000
+  O   O5        1.0  0.81605  0.18395  0.35275  1.0000
+  O   O6        1.0  0.81605  0.18395  0.64725  1.0000
+  O   O7        1.0  0.18395  0.81605  0.35275  1.0000
+  O   O8        1.0  0.18395  0.81605  0.64725  1.0000
+  O   O9        1.0  0.22046  0.77954  0.00000  1.0000
+  O   O10       1.0  0.27954  0.27954  0.50000  1.0000
+  O   O11       1.0  0.31605  0.31605  0.14725  1.0000
+  O   O12       1.0  0.31605  0.31605  0.85275  1.0000

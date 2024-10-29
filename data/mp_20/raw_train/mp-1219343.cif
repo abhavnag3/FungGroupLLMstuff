@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Sc2Cu2Se4
+_chemical_formula_sum              "Sc2 Cu2 Se4"
+_cell_length_a       7.42914
+_cell_length_b       7.42914
+_cell_length_c       6.72261
+_cell_angle_alpha    63.5501
+_cell_angle_beta     63.5501
+_cell_angle_gamma    30.5565
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.24289  0.24289  0.76735  1.0000
+  Sc  Sc2       1.0  0.75711  0.75711  0.23265  1.0000
+  Cu  Cu1       1.0  0.56025  0.56025  0.10688  1.0000
+  Cu  Cu2       1.0  0.43975  0.43975  0.89312  1.0000
+  Se  Se1       1.0  0.63183  0.63183  0.69522  1.0000
+  Se  Se2       1.0  0.12738  0.12738  0.21378  1.0000
+  Se  Se3       1.0  0.36817  0.36817  0.30478  1.0000
+  Se  Se4       1.0  0.87262  0.87262  0.78622  1.0000

@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Na8Fe2O8
+_chemical_formula_sum              "Na8 Fe2 O8"
+_cell_length_a       5.82862
+_cell_length_b       5.82906
+_cell_length_c       8.3723
+_cell_angle_alpha    87.8334
+_cell_angle_beta     108.179
+_cell_angle_gamma    110.781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.41398  0.21617  0.37147  1.0000
+  Na  Na2       1.0  0.58601  0.78383  0.62853  1.0000
+  Na  Na3       1.0  0.79183  0.74374  0.01897  1.0000
+  Na  Na4       1.0  0.20817  0.25626  0.98103  1.0000
+  Na  Na5       1.0  0.95055  0.72445  0.43232  1.0000
+  Na  Na6       1.0  0.04945  0.27555  0.56768  1.0000
+  Na  Na7       1.0  0.75957  0.23697  0.16932  1.0000
+  Na  Na8       1.0  0.24043  0.76303  0.83068  1.0000
+  Fe  Fe1       1.0  0.59400  0.27974  0.74991  1.0000
+  Fe  Fe2       1.0  0.40600  0.72026  0.25009  1.0000
+  O   O1        1.0  0.23801  0.89247  0.10161  1.0000
+  O   O2        1.0  0.76199  0.10753  0.89839  1.0000
+  O   O3        1.0  0.68719  0.97179  0.38328  1.0000
+  O   O4        1.0  0.31281  0.02821  0.61672  1.0000
+  O   O5        1.0  0.43658  0.47458  0.80145  1.0000
+  O   O6        1.0  0.56342  0.52541  0.19855  1.0000
+  O   O7        1.0  0.17138  0.50151  0.33770  1.0000
+  O   O8        1.0  0.82862  0.49849  0.66231  1.0000

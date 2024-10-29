@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba3Mg3O6
+_chemical_formula_sum              "Ba3 Mg3 O6"
+_cell_length_a       5.97544
+_cell_length_b       5.97544
+_cell_length_c       6.83851
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.65365  0.16667  1.0000
+  Ba  Ba2       1.0  0.34635  0.34635  0.50000  1.0000
+  Ba  Ba3       1.0  0.65365  0.00000  0.83333  1.0000
+  Mg  Mg1       1.0  0.00000  0.57476  0.66667  1.0000
+  Mg  Mg2       1.0  0.42524  0.42523  0.00000  1.0000
+  Mg  Mg3       1.0  0.57476  0.00000  0.33333  1.0000
+  O   O1        1.0  0.29760  0.86902  0.54012  1.0000
+  O   O2        1.0  0.13098  0.42858  0.87346  1.0000
+  O   O3        1.0  0.57142  0.70240  0.20679  1.0000
+  O   O4        1.0  0.42858  0.13098  0.12654  1.0000
+  O   O5        1.0  0.70240  0.57142  0.79321  1.0000
+  O   O6        1.0  0.86902  0.29760  0.45988  1.0000

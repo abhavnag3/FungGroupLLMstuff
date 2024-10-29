@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr4Li2Re2N8
+_chemical_formula_sum              "Sr4 Li2 Re2 N8"
+_cell_length_a       5.91009
+_cell_length_b       6.20549
+_cell_length_c       6.94102
+_cell_angle_alpha    73.6434
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000  0.26179  0.05566  1.0000
+  Sr  Sr2       1.0  0.75000  0.73821  0.94434  1.0000
+  Sr  Sr3       1.0  0.75000  0.78048  0.43144  1.0000
+  Sr  Sr4       1.0  0.25000  0.21952  0.56856  1.0000
+  Li  Li1       1.0  0.75000  0.30650  0.30931  1.0000
+  Li  Li2       1.0  0.25000  0.69350  0.69069  1.0000
+  Re  Re1       1.0  0.25000  0.71806  0.20177  1.0000
+  Re  Re2       1.0  0.75000  0.28194  0.79823  1.0000
+  N   N1        1.0  0.50479  0.46975  0.74837  1.0000
+  N   N2        1.0  0.00479  0.53025  0.25163  1.0000
+  N   N3        1.0  0.49521  0.53025  0.25163  1.0000
+  N   N4        1.0  0.99521  0.46975  0.74837  1.0000
+  N   N5        1.0  0.75000  0.09762  0.62832  1.0000
+  N   N6        1.0  0.25000  0.90238  0.37168  1.0000
+  N   N7        1.0  0.75000  0.11710  0.06369  1.0000
+  N   N8        1.0  0.25000  0.88290  0.93631  1.0000

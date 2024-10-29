@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ta3Fe3O12
+_chemical_formula_sum              "Ta3 Fe3 O12"
+_cell_length_a       4.73996
+_cell_length_b       4.73996
+_cell_length_c       9.23303
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.5409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.00000  0.00000  0.33739  1.0000
+  Ta  Ta2       1.0  0.50000  0.50000  0.15748  1.0000
+  Ta  Ta3       1.0  0.00000  0.00000  0.67848  1.0000
+  Fe  Fe1       1.0  0.50000  0.50000  0.50373  1.0000
+  Fe  Fe2       1.0  0.00000  0.00000  0.00026  1.0000
+  Fe  Fe3       1.0  0.50000  0.50000  0.82729  1.0000
+  O   O1        1.0  0.80334  0.19666  0.83022  1.0000
+  O   O2        1.0  0.19666  0.80334  0.83022  1.0000
+  O   O3        1.0  0.30186  0.30186  0.32919  1.0000
+  O   O4        1.0  0.69814  0.69814  0.32919  1.0000
+  O   O5        1.0  0.19861  0.80139  0.17135  1.0000
+  O   O6        1.0  0.80139  0.19861  0.17135  1.0000
+  O   O7        1.0  0.70065  0.70065  0.66455  1.0000
+  O   O8        1.0  0.29935  0.29935  0.66455  1.0000
+  O   O9        1.0  0.80745  0.19255  0.49737  1.0000
+  O   O10       1.0  0.19255  0.80745  0.49737  1.0000
+  O   O11       1.0  0.30262  0.30262  0.00499  1.0000
+  O   O12       1.0  0.69738  0.69738  0.00499  1.0000

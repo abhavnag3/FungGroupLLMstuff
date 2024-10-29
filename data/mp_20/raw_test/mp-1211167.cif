@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       LiCr4GaS8
+_chemical_formula_sum              "Li1 Cr4 Ga1 S8"
+_cell_length_a       7.13413
+_cell_length_b       7.13413
+_cell_length_c       7.13413
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr1       1.0  0.37089  0.37089  0.37089  1.0000
+  Cr  Cr2       1.0  0.37089  0.37089  0.88733  1.0000
+  Cr  Cr3       1.0  0.37089  0.88733  0.37089  1.0000
+  Cr  Cr4       1.0  0.88733  0.37089  0.37089  1.0000
+  Ga  Ga1       1.0  0.75000  0.75000  0.75000  1.0000
+  S   S1        1.0  0.13704  0.13704  0.13704  1.0000
+  S   S2        1.0  0.13704  0.13704  0.58887  1.0000
+  S   S3        1.0  0.13704  0.58887  0.13704  1.0000
+  S   S4        1.0  0.58887  0.13704  0.13704  1.0000
+  S   S5        1.0  0.61519  0.61519  0.61519  1.0000
+  S   S6        1.0  0.61519  0.61519  0.15443  1.0000
+  S   S7        1.0  0.61519  0.15443  0.61519  1.0000
+  S   S8        1.0  0.15443  0.61519  0.61519  1.0000

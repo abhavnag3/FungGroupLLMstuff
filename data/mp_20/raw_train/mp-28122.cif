@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li2Gd2Cl8
+_chemical_formula_sum              "Li2 Gd2 Cl8"
+_cell_length_a       8.08114
+_cell_length_b       8.08114
+_cell_length_c       8.08114
+_cell_angle_alpha    132.415
+_cell_angle_beta     132.415
+_cell_angle_gamma    69.5744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.75000  0.25000  0.50000  1.0000
+  Li  Li2       1.0  0.00000  0.00000  0.00000  1.0000
+  Gd  Gd1       1.0  0.50000  0.50000  0.00000  1.0000
+  Gd  Gd2       1.0  0.25000  0.75000  0.50000  1.0000
+  Cl  Cl1       1.0  0.54697  0.50184  0.38815  1.0000
+  Cl  Cl2       1.0  0.90881  0.79697  0.54513  1.0000
+  Cl  Cl3       1.0  0.63632  0.09119  0.88815  1.0000
+  Cl  Cl4       1.0  0.49817  0.88632  0.04513  1.0000
+  Cl  Cl5       1.0  0.84119  0.45303  0.95487  1.0000
+  Cl  Cl6       1.0  0.20303  0.74816  0.11185  1.0000
+  Cl  Cl7       1.0  0.11368  0.15881  0.61185  1.0000
+  Cl  Cl8       1.0  0.25183  0.36368  0.45487  1.0000

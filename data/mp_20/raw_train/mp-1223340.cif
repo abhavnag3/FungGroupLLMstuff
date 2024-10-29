@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La4Cu2Te8
+_chemical_formula_sum              "La4 Cu2 Te8"
+_cell_length_a       8.55256
+_cell_length_b       6.53895
+_cell_length_c       7.74718
+_cell_angle_alpha    89.7724
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.05632  0.49922  0.22759  1.0000
+  La  La2       1.0  0.94097  0.00472  0.76299  1.0000
+  La  La3       1.0  0.44097  0.99528  0.23702  1.0000
+  La  La4       1.0  0.55632  0.50079  0.77241  1.0000
+  Cu  Cu1       1.0  0.20315  0.68296  0.58641  1.0000
+  Cu  Cu2       1.0  0.70315  0.31704  0.41359  1.0000
+  Te  Te1       1.0  0.41052  0.50982  0.38389  1.0000
+  Te  Te2       1.0  0.59355  0.01957  0.61585  1.0000
+  Te  Te3       1.0  0.09355  0.98043  0.38415  1.0000
+  Te  Te4       1.0  0.91052  0.49018  0.61611  1.0000
+  Te  Te5       1.0  0.24857  0.74866  0.91378  1.0000
+  Te  Te6       1.0  0.74857  0.25134  0.08622  1.0000
+  Te  Te7       1.0  0.74892  0.75284  0.07625  1.0000
+  Te  Te8       1.0  0.24892  0.24716  0.92375  1.0000

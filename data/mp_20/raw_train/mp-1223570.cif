@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       K8SrTe6
+_chemical_formula_sum              "K8 Sr1 Te6"
+_cell_length_a       10.1822
+_cell_length_b       10.1822
+_cell_length_c       10.1822
+_cell_angle_alpha    95.4427
+_cell_angle_beta     95.4427
+_cell_angle_gamma    144.125
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.96308  0.15491  0.63271  1.0000
+  K   K2        1.0  0.52220  0.33037  0.36729  1.0000
+  K   K3        1.0  0.47780  0.84509  0.80817  1.0000
+  K   K4        1.0  0.03692  0.66963  0.19183  1.0000
+  K   K5        1.0  0.66963  0.03692  0.19183  1.0000
+  K   K6        1.0  0.84509  0.47780  0.80817  1.0000
+  K   K7        1.0  0.33037  0.52220  0.36729  1.0000
+  K   K8        1.0  0.15491  0.96308  0.63271  1.0000
+  Sr  Sr1       1.0  0.50000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.50000  0.00000  0.50000  1.0000
+  Te  Te2       1.0  0.00000  0.50000  0.50000  1.0000
+  Te  Te3       1.0  0.88444  0.88444  0.30108  1.0000
+  Te  Te4       1.0  0.58337  0.58337  0.69892  1.0000
+  Te  Te5       1.0  0.41663  0.11556  0.00000  1.0000
+  Te  Te6       1.0  0.11556  0.41663  0.00000  1.0000

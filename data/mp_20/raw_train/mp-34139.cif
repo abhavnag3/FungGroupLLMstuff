@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mn4Cr2O8
+_chemical_formula_sum              "Mn4 Cr2 O8"
+_cell_length_a       5.99174
+_cell_length_b       6.08701
+_cell_length_c       5.99219
+_cell_angle_alpha    118.242
+_cell_angle_beta     91.1579
+_cell_angle_gamma    118.234
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.37588  0.75080  0.12465  1.0000
+  Mn  Mn2       1.0  0.75507  0.49986  0.24560  1.0000
+  Mn  Mn3       1.0  0.87455  0.25108  0.62582  1.0000
+  Mn  Mn4       1.0  0.99554  0.99978  0.00462  1.0000
+  Cr  Cr1       1.0  0.37415  0.24978  0.62531  1.0000
+  Cr  Cr2       1.0  0.37563  0.74996  0.62427  1.0000
+  O   O1        1.0  0.59404  0.75245  0.37097  1.0000
+  O   O2        1.0  0.62755  0.24746  0.40764  1.0000
+  O   O3        1.0  0.15765  0.74763  0.87778  1.0000
+  O   O4        1.0  0.12079  0.25236  0.84400  1.0000
+  O   O5        1.0  0.16969  0.79384  0.38849  1.0000
+  O   O6        1.0  0.13851  0.29406  0.41980  1.0000
+  O   O7        1.0  0.58040  0.70540  0.86058  1.0000
+  O   O8        1.0  0.61055  0.20555  0.83048  1.0000

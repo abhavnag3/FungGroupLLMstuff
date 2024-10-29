@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2Cr3NiS8
+_chemical_formula_sum              "Mg2 Cr3 Ni1 S8"
+_cell_length_a       7.16646
+_cell_length_b       7.16586
+_cell_length_c       7.18333
+_cell_angle_alpha    59.9574
+_cell_angle_beta     59.943
+_cell_angle_gamma    60.1316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.87538  0.87528  0.87560  1.0000
+  Mg  Mg2       1.0  0.12462  0.12469  0.12445  1.0000
+  Cr  Cr1       1.0  0.49999  0.50000  0.99996  1.0000
+  Cr  Cr2       1.0  0.99999  0.50000  0.50002  1.0000
+  Cr  Cr3       1.0  0.50000  0.00001  0.50003  1.0000
+  Ni  Ni1       1.0  0.49998  0.50012  0.49985  1.0000
+  S   S1        1.0  0.73731  0.73735  0.73703  1.0000
+  S   S2        1.0  0.26803  0.26798  0.70514  1.0000
+  S   S3        1.0  0.26660  0.70620  0.26655  1.0000
+  S   S4        1.0  0.70593  0.26706  0.26705  1.0000
+  S   S5        1.0  0.73340  0.29378  0.73346  1.0000
+  S   S6        1.0  0.29408  0.73290  0.73297  1.0000
+  S   S7        1.0  0.26269  0.26261  0.26302  1.0000
+  S   S8        1.0  0.73200  0.73201  0.29488  1.0000

@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       LiNbTe3O12
+_chemical_formula_sum              "Li1 Nb1 Te3 O12"
+_cell_length_a       5.15628
+_cell_length_b       5.3772
+_cell_length_c       7.45863
+_cell_angle_alpha    86.9478
+_cell_angle_beta     89.9948
+_cell_angle_gamma    89.9223
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00229  0.46087  0.22697  1.0000
+  Nb  Nb1       1.0  0.99731  0.00778  0.99483  1.0000
+  Te  Te1       1.0  0.49615  0.50881  0.99939  1.0000
+  Te  Te2       1.0  0.99973  0.00267  0.50420  1.0000
+  Te  Te3       1.0  0.50223  0.50686  0.50693  1.0000
+  O   O1        1.0  0.68928  0.19702  0.57059  1.0000
+  O   O2        1.0  0.89333  0.01510  0.26047  1.0000
+  O   O3        1.0  0.68481  0.81203  0.95183  1.0000
+  O   O4        1.0  0.81388  0.69223  0.56800  1.0000
+  O   O5        1.0  0.19388  0.69072  0.06574  1.0000
+  O   O6        1.0  0.62852  0.50859  0.25665  1.0000
+  O   O7        1.0  0.37006  0.50753  0.75062  1.0000
+  O   O8        1.0  0.80609  0.32692  0.95735  1.0000
+  O   O9        1.0  0.19034  0.31843  0.43818  1.0000
+  O   O10       1.0  0.30593  0.21143  0.06023  1.0000
+  O   O11       1.0  0.11801  0.00871  0.74535  1.0000
+  O   O12       1.0  0.30816  0.80989  0.43548  1.0000

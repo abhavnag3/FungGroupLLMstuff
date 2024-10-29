@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tb10Ni4Bi2
+_chemical_formula_sum              "Tb10 Ni4 Bi2"
+_cell_length_a       8.72545
+_cell_length_b       8.72545
+_cell_length_c       8.72545
+_cell_angle_alpha    127.542
+_cell_angle_beta     127.542
+_cell_angle_gamma    77.3681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.00000  0.00000  0.00000  1.0000
+  Tb  Tb2       1.0  0.50000  0.50000  0.00000  1.0000
+  Tb  Tb3       1.0  0.78984  0.28984  0.81256  1.0000
+  Tb  Tb4       1.0  0.21016  0.71016  0.18744  1.0000
+  Tb  Tb5       1.0  0.47728  0.97728  0.18744  1.0000
+  Tb  Tb6       1.0  0.28984  0.47728  0.50000  1.0000
+  Tb  Tb7       1.0  0.02272  0.21016  0.50000  1.0000
+  Tb  Tb8       1.0  0.52272  0.02272  0.81256  1.0000
+  Tb  Tb9       1.0  0.71016  0.52272  0.50000  1.0000
+  Tb  Tb10      1.0  0.97728  0.78984  0.50000  1.0000
+  Ni  Ni1       1.0  0.13307  0.63307  0.76614  1.0000
+  Ni  Ni2       1.0  0.86693  0.36693  0.23386  1.0000
+  Ni  Ni3       1.0  0.63307  0.86693  0.50000  1.0000
+  Ni  Ni4       1.0  0.36693  0.13307  0.50000  1.0000
+  Bi  Bi1       1.0  0.25000  0.25000  0.00000  1.0000
+  Bi  Bi2       1.0  0.75000  0.75000  0.00000  1.0000

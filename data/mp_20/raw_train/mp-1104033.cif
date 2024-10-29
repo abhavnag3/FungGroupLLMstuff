@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Nb6Cr7
+_chemical_formula_sum              "Nb6 Cr7"
+_cell_length_a       4.91692
+_cell_length_b       4.91691
+_cell_length_c       9.67173
+_cell_angle_alpha    75.2744
+_cell_angle_beta     75.2744
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.83262  0.83262  0.50215  1.0000
+  Nb  Nb2       1.0  0.16738  0.16738  0.49785  1.0000
+  Nb  Nb3       1.0  0.64940  0.64940  0.05181  1.0000
+  Nb  Nb4       1.0  0.35060  0.35060  0.94819  1.0000
+  Nb  Nb5       1.0  0.54743  0.54743  0.35772  1.0000
+  Nb  Nb6       1.0  0.45257  0.45257  0.64228  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.90511  0.40993  0.77986  1.0000
+  Cr  Cr3       1.0  0.40993  0.90511  0.77986  1.0000
+  Cr  Cr4       1.0  0.90511  0.90511  0.77986  1.0000
+  Cr  Cr5       1.0  0.09489  0.59007  0.22014  1.0000
+  Cr  Cr6       1.0  0.59007  0.09489  0.22014  1.0000
+  Cr  Cr7       1.0  0.09489  0.09489  0.22014  1.0000

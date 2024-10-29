@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg2V2Si2O10
+_chemical_formula_sum              "Mg2 V2 Si2 O10"
+_cell_length_a       5.29208
+_cell_length_b       5.29208
+_cell_length_c       6.98676
+_cell_angle_alpha    75.6109
+_cell_angle_beta     75.6109
+_cell_angle_gamma    104.415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.82650  0.16750  0.76569  1.0000
+  Mg  Mg2       1.0  0.16750  0.82650  0.26569  1.0000
+  V   V1        1.0  0.50072  0.49954  0.50830  1.0000
+  V   V2        1.0  0.49954  0.50072  0.00830  1.0000
+  Si  Si1       1.0  0.17482  0.82621  0.75561  1.0000
+  Si  Si2       1.0  0.82621  0.17482  0.25561  1.0000
+  O   O1        1.0  0.40283  0.83105  0.87737  1.0000
+  O   O2        1.0  0.16488  0.59281  0.63611  1.0000
+  O   O3        1.0  0.59281  0.16488  0.13611  1.0000
+  O   O4        1.0  0.83105  0.40283  0.37737  1.0000
+  O   O5        1.0  0.77113  0.87289  0.42094  1.0000
+  O   O6        1.0  0.13377  0.22145  0.09787  1.0000
+  O   O7        1.0  0.22145  0.13377  0.59787  1.0000
+  O   O8        1.0  0.87289  0.77113  0.92094  1.0000
+  O   O9        1.0  0.41864  0.58502  0.25588  1.0000
+  O   O10       1.0  0.58502  0.41864  0.75588  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       As3Pd4Pb
+_chemical_formula_sum              "As3 Pd4 Pb1"
+_cell_length_a       3.93572
+_cell_length_b       7.12972
+_cell_length_c       6.27725
+_cell_angle_alpha    63.8863
+_cell_angle_beta     89.987
+_cell_angle_gamma    106.016
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.37495  0.75000  0.94122  1.0000
+  As  As2       1.0  0.16616  0.33258  0.50251  1.0000
+  As  As3       1.0  0.58358  0.16742  0.08508  1.0000
+  Pd  Pd1       1.0  0.75101  0.50273  0.17819  1.0000
+  Pd  Pd2       1.0  0.21908  0.43768  0.84602  1.0000
+  Pd  Pd3       1.0  0.53140  0.06232  0.53371  1.0000
+  Pd  Pd4       1.0  0.99829  0.99727  0.93092  1.0000
+  Pb  Pb1       1.0  0.87552  0.75000  0.48236  1.0000

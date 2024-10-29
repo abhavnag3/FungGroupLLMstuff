@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Zr6U4Ge8
+_chemical_formula_sum              "Zr6 U4 Ge8"
+_cell_length_a       7.43212
+_cell_length_b       7.23268
+_cell_length_c       7.41371
+_cell_angle_alpha    70.5193
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.67089  0.74953  0.25203  1.0000
+  Zr  Zr2       1.0  0.32911  0.25046  0.74797  1.0000
+  Zr  Zr3       1.0  0.17089  0.75047  0.74797  1.0000
+  Zr  Zr4       1.0  0.82911  0.24953  0.25203  1.0000
+  Zr  Zr5       1.0  0.00000  0.00000  0.00000  1.0000
+  Zr  Zr6       1.0  0.50000  0.50000  0.00000  1.0000
+  U   U1        1.0  0.66909  0.93822  0.68305  1.0000
+  U   U2        1.0  0.33091  0.06178  0.31695  1.0000
+  U   U3        1.0  0.16909  0.56178  0.31695  1.0000
+  U   U4        1.0  0.83091  0.43822  0.68305  1.0000
+  Ge  Ge1       1.0  0.96278  0.85584  0.41530  1.0000
+  Ge  Ge2       1.0  0.03722  0.14417  0.58470  1.0000
+  Ge  Ge3       1.0  0.46278  0.64416  0.58470  1.0000
+  Ge  Ge4       1.0  0.53722  0.35584  0.41530  1.0000
+  Ge  Ge5       1.0  0.86611  0.63631  0.98950  1.0000
+  Ge  Ge6       1.0  0.13389  0.36369  0.01050  1.0000
+  Ge  Ge7       1.0  0.36611  0.86369  0.01050  1.0000
+  Ge  Ge8       1.0  0.63389  0.13631  0.98950  1.0000

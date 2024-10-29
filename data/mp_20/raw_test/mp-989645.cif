@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Y2W2N6
+_chemical_formula_sum              "Y2 W2 N6"
+_cell_length_a       3.65097
+_cell_length_b       5.76671
+_cell_length_c       8.01113
+_cell_angle_alpha    71.9701
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.25000  0.29576  0.40314  1.0000
+  Y   Y2        1.0  0.75000  0.70424  0.59686  1.0000
+  W   W1        1.0  0.25000  0.11445  0.81942  1.0000
+  W   W2        1.0  0.75000  0.88555  0.18058  1.0000
+  N   N1        1.0  0.75000  0.06184  0.33770  1.0000
+  N   N2        1.0  0.75000  0.57310  0.34520  1.0000
+  N   N3        1.0  0.25000  0.93816  0.66230  1.0000
+  N   N4        1.0  0.25000  0.42690  0.65480  1.0000
+  N   N5        1.0  0.25000  0.87076  0.08958  1.0000
+  N   N6        1.0  0.75000  0.12924  0.91042  1.0000

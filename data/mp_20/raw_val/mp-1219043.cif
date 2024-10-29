@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sn4Sb2Se4I6
+_chemical_formula_sum              "Sn4 Sb2 Se4 I6"
+_cell_length_a       7.80904
+_cell_length_b       7.80904
+_cell_length_c       19.0384
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    147.686
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.87684  0.12316  0.50327  1.0000
+  Sn  Sn2       1.0  0.13738  0.86262  0.51482  1.0000
+  Sn  Sn3       1.0  0.86262  0.13738  0.01482  1.0000
+  Sn  Sn4       1.0  0.12317  0.87684  0.00327  1.0000
+  Sb  Sb1       1.0  0.20938  0.79062  0.29499  1.0000
+  Sb  Sb2       1.0  0.79062  0.20938  0.79499  1.0000
+  Se  Se1       1.0  0.27998  0.72002  0.41909  1.0000
+  Se  Se2       1.0  0.72367  0.27633  0.58092  1.0000
+  Se  Se3       1.0  0.27633  0.72367  0.08092  1.0000
+  Se  Se4       1.0  0.72002  0.27998  0.91909  1.0000
+  I   I1        1.0  0.57347  0.42653  0.34280  1.0000
+  I   I2        1.0  0.44529  0.55471  0.60897  1.0000
+  I   I3        1.0  0.55471  0.44529  0.10897  1.0000
+  I   I4        1.0  0.42653  0.57347  0.84280  1.0000
+  I   I5        1.0  0.84157  0.15843  0.25124  1.0000
+  I   I6        1.0  0.15843  0.84157  0.75124  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Tb3Cu4Ge4
+_chemical_formula_sum              "Tb3 Cu4 Ge4"
+_cell_length_a       8.02814
+_cell_length_b       8.02814
+_cell_length_c       8.02814
+_cell_angle_alpha    149.565
+_cell_angle_beta     130.881
+_cell_angle_gamma    58.8893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.86953  0.86952  0.00000  1.0000
+  Tb  Tb2       1.0  0.13048  0.13048  0.00000  1.0000
+  Tb  Tb3       1.0  0.50000  0.00000  0.50000  1.0000
+  Cu  Cu1       1.0  0.85745  0.66845  0.18900  1.0000
+  Cu  Cu2       1.0  0.14255  0.33155  0.81100  1.0000
+  Cu  Cu3       1.0  0.47945  0.66845  0.81100  1.0000
+  Cu  Cu4       1.0  0.52055  0.33155  0.18900  1.0000
+  Ge  Ge1       1.0  0.28317  0.78317  0.50000  1.0000
+  Ge  Ge2       1.0  0.80888  0.50000  0.30888  1.0000
+  Ge  Ge3       1.0  0.19112  0.50000  0.69112  1.0000
+  Ge  Ge4       1.0  0.71683  0.21683  0.50000  1.0000

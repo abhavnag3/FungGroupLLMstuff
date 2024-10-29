@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb4Al4Cu4
+_chemical_formula_sum              "Nb4 Al4 Cu4"
+_cell_length_a       4.98938
+_cell_length_b       5.07848
+_cell_length_c       8.10199
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.592
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.66992  0.33496  0.56234  1.0000
+  Nb  Nb2       1.0  0.32622  0.66311  0.43324  1.0000
+  Nb  Nb3       1.0  0.32622  0.66311  0.06676  1.0000
+  Nb  Nb4       1.0  0.66992  0.33496  0.93766  1.0000
+  Al  Al1       1.0  0.98969  0.99484  0.48649  1.0000
+  Al  Al2       1.0  0.98969  0.99484  0.01351  1.0000
+  Al  Al3       1.0  0.18090  0.34781  0.75000  1.0000
+  Al  Al4       1.0  0.18089  0.83308  0.75000  1.0000
+  Cu  Cu1       1.0  0.67159  0.83580  0.75000  1.0000
+  Cu  Cu2       1.0  0.82518  0.65200  0.25000  1.0000
+  Cu  Cu3       1.0  0.82520  0.17319  0.25000  1.0000
+  Cu  Cu4       1.0  0.34459  0.17230  0.25000  1.0000

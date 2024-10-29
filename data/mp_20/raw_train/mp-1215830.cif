@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       YVFe11H
+_chemical_formula_sum              "Y1 V1 Fe11 H1"
+_cell_length_a       4.71661
+_cell_length_b       6.42964
+_cell_length_c       6.42964
+_cell_angle_alpha    97.8219
+_cell_angle_beta     111.518
+_cell_angle_gamma    68.4825
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00534  0.99466  0.00534  1.0000
+  V   V1        1.0  0.63081  0.36919  0.63081  1.0000
+  Fe  Fe1       1.0  0.72755  0.77245  0.22755  1.0000
+  Fe  Fe2       1.0  0.27185  0.22815  0.77185  1.0000
+  Fe  Fe3       1.0  0.49917  0.77584  0.77418  1.0000
+  Fe  Fe4       1.0  0.49917  0.22582  0.22416  1.0000
+  Fe  Fe5       1.0  0.50091  0.99943  0.50113  1.0000
+  Fe  Fe6       1.0  0.00079  0.99943  0.50113  1.0000
+  Fe  Fe7       1.0  0.50091  0.49887  0.00057  1.0000
+  Fe  Fe8       1.0  0.00079  0.49887  0.00057  1.0000
+  Fe  Fe9       1.0  0.36383  0.63617  0.36383  1.0000
+  Fe  Fe10      1.0  0.99910  0.36007  0.35827  1.0000
+  Fe  Fe11      1.0  0.99910  0.64173  0.63993  1.0000
+  H   H1        1.0  0.50068  0.99932  0.00068  1.0000

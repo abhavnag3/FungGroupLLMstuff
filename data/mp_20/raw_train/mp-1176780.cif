@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li2Co2S4
+_chemical_formula_sum              "Li2 Co2 S4"
+_cell_length_a       3.40753
+_cell_length_b       5.68733
+_cell_length_c       5.90215
+_cell_angle_alpha    89.9759
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25822  0.50000  0.75000  1.0000
+  Li  Li2       1.0  0.74177  0.50000  0.25000  1.0000
+  Co  Co1       1.0  0.74935  0.00000  0.25000  1.0000
+  Co  Co2       1.0  0.25066  0.00000  0.75000  1.0000
+  S   S1        1.0  0.24915  0.20171  0.08260  1.0000
+  S   S2        1.0  0.75085  0.20171  0.58261  1.0000
+  S   S3        1.0  0.75085  0.79829  0.91740  1.0000
+  S   S4        1.0  0.24915  0.79829  0.41740  1.0000

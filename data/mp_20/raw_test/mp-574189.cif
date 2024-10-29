@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pb4I8
+_chemical_formula_sum              "Pb4 I8"
+_cell_length_a       29.8846
+_cell_length_b       29.8846
+_cell_length_c       29.8846
+_cell_angle_alpha    8.9616
+_cell_angle_beta     8.9616
+_cell_angle_gamma    8.9616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.08331  0.08331  0.08331  1.0000
+  Pb  Pb2       1.0  0.00000  0.00000  0.00000  1.0000
+  Pb  Pb3       1.0  0.91669  0.91669  0.91669  1.0000
+  Pb  Pb4       1.0  0.50000  0.50000  0.50000  1.0000
+  I   I1        1.0  0.35426  0.35426  0.35426  1.0000
+  I   I2        1.0  0.18760  0.18760  0.18760  1.0000
+  I   I3        1.0  0.81240  0.81240  0.81240  1.0000
+  I   I4        1.0  0.27094  0.27094  0.27094  1.0000
+  I   I5        1.0  0.64574  0.64574  0.64574  1.0000
+  I   I6        1.0  0.72906  0.72906  0.72906  1.0000
+  I   I7        1.0  0.56242  0.56242  0.56242  1.0000
+  I   I8        1.0  0.43758  0.43758  0.43758  1.0000

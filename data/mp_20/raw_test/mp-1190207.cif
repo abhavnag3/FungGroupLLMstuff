@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Nb6Fe6Ge6
+_chemical_formula_sum              "Nb6 Fe6 Ge6"
+_cell_length_a       6.56749
+_cell_length_b       7.10824
+_cell_length_c       7.42332
+_cell_angle_alpha    118.606
+_cell_angle_beta     116.254
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.89733  0.94441  0.38882  1.0000
+  Nb  Nb2       1.0  0.50851  0.05559  0.61118  1.0000
+  Nb  Nb3       1.0  0.50634  0.53259  0.56518  1.0000
+  Nb  Nb4       1.0  0.94116  0.46741  0.43482  1.0000
+  Nb  Nb5       1.0  0.09121  0.74955  0.99910  1.0000
+  Nb  Nb6       1.0  0.09211  0.25045  0.00090  1.0000
+  Fe  Fe1       1.0  0.25193  0.91282  0.74988  1.0000
+  Fe  Fe2       1.0  0.50205  0.08718  0.25012  1.0000
+  Fe  Fe3       1.0  0.25193  0.33706  0.74988  1.0000
+  Fe  Fe4       1.0  0.50205  0.66294  0.25012  1.0000
+  Fe  Fe5       1.0  0.75051  0.50000  0.00000  1.0000
+  Fe  Fe6       1.0  0.75051  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.17242  0.67173  0.33473  1.0000
+  Ge  Ge2       1.0  0.83769  0.32827  0.66527  1.0000
+  Ge  Ge3       1.0  0.17242  0.16300  0.33473  1.0000
+  Ge  Ge4       1.0  0.83769  0.83700  0.66527  1.0000
+  Ge  Ge5       1.0  0.46821  0.72215  0.94430  1.0000
+  Ge  Ge6       1.0  0.52391  0.27785  0.05570  1.0000

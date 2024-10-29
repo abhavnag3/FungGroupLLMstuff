@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sb2Mo4S4
+_chemical_formula_sum              "Sb2 Mo4 S4"
+_cell_length_a       3.20361
+_cell_length_b       6.61612
+_cell_length_c       9.52775
+_cell_angle_alpha    73.971
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.75000  0.99618  0.66119  1.0000
+  Sb  Sb2       1.0  0.25000  0.00382  0.33881  1.0000
+  Mo  Mo1       1.0  0.75000  0.89458  0.11487  1.0000
+  Mo  Mo2       1.0  0.75000  0.66170  0.52082  1.0000
+  Mo  Mo3       1.0  0.25000  0.10542  0.88513  1.0000
+  Mo  Mo4       1.0  0.25000  0.33830  0.47918  1.0000
+  S   S1        1.0  0.25000  0.73771  0.99296  1.0000
+  S   S2        1.0  0.25000  0.47031  0.68868  1.0000
+  S   S3        1.0  0.75000  0.26229  0.00704  1.0000
+  S   S4        1.0  0.75000  0.52969  0.31132  1.0000

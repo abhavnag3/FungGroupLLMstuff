@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       PHPb2F10
+_chemical_formula_sum              "P1 H1 Pb2 F10"
+_cell_length_a       4.65817
+_cell_length_b       4.84348
+_cell_length_c       8.92981
+_cell_angle_alpha    86.1755
+_cell_angle_beta     76.6412
+_cell_angle_gamma    81.7875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.00000  0.50000  0.00000  1.0000
+  H   H1        1.0  0.50000  0.50000  0.50000  1.0000
+  Pb  Pb1       1.0  0.32493  0.03187  0.31428  1.0000
+  Pb  Pb2       1.0  0.67507  0.96813  0.68573  1.0000
+  F   F1        1.0  0.67993  0.70072  0.03439  1.0000
+  F   F2        1.0  0.84378  0.24071  0.09624  1.0000
+  F   F3        1.0  0.06660  0.59661  0.15977  1.0000
+  F   F4        1.0  0.38804  0.52716  0.39662  1.0000
+  F   F5        1.0  0.78893  0.97874  0.41456  1.0000
+  F   F6        1.0  0.21106  0.02126  0.58544  1.0000
+  F   F7        1.0  0.61196  0.47284  0.60338  1.0000
+  F   F8        1.0  0.93340  0.40339  0.84023  1.0000
+  F   F9        1.0  0.15622  0.75929  0.90376  1.0000
+  F   F10       1.0  0.32007  0.29928  0.96561  1.0000

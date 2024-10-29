@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Dy4Mn4Si4
+_chemical_formula_sum              "Dy4 Mn4 Si4"
+_cell_length_a       4.09982
+_cell_length_b       6.98747
+_cell_length_c       7.55018
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.25000  0.00758  0.81402  1.0000
+  Dy  Dy2       1.0  0.75000  0.99242  0.18598  1.0000
+  Dy  Dy3       1.0  0.25000  0.50758  0.68598  1.0000
+  Dy  Dy4       1.0  0.75000  0.49242  0.31402  1.0000
+  Mn  Mn1       1.0  0.75000  0.86219  0.55878  1.0000
+  Mn  Mn2       1.0  0.25000  0.13781  0.44122  1.0000
+  Mn  Mn3       1.0  0.75000  0.36219  0.94122  1.0000
+  Mn  Mn4       1.0  0.25000  0.63781  0.05878  1.0000
+  Si  Si1       1.0  0.25000  0.28905  0.11008  1.0000
+  Si  Si2       1.0  0.75000  0.71095  0.88992  1.0000
+  Si  Si3       1.0  0.25000  0.78905  0.38993  1.0000
+  Si  Si4       1.0  0.75000  0.21095  0.61008  1.0000

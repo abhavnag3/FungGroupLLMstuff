@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       LiNiP2S6
+_chemical_formula_sum              "Li1 Ni1 P2 S6"
+_cell_length_a       5.89584
+_cell_length_b       5.89584
+_cell_length_c       6.9637
+_cell_angle_alpha    82.4156
+_cell_angle_beta     82.4156
+_cell_angle_gamma    120.345
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.33332  0.66668  0.00000  1.0000
+  Ni  Ni1       1.0  0.66509  0.33491  0.00000  1.0000
+  P   P1        1.0  0.05297  0.05430  0.83776  1.0000
+  P   P2        1.0  0.94570  0.94703  0.16224  1.0000
+  S   S1        1.0  0.04463  0.39621  0.76394  1.0000
+  S   S2        1.0  0.42916  0.10745  0.77073  1.0000
+  S   S3        1.0  0.89254  0.57084  0.22927  1.0000
+  S   S4        1.0  0.60379  0.95537  0.23606  1.0000
+  S   S5        1.0  0.27680  0.24400  0.23568  1.0000
+  S   S6        1.0  0.75600  0.72320  0.76432  1.0000

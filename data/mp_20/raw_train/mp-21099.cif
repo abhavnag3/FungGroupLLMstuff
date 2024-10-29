@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       K2PbS2O8
+_chemical_formula_sum              "K2 Pb1 S2 O8"
+_cell_length_a       7.78517
+_cell_length_b       7.78517
+_cell_length_c       7.78517
+_cell_angle_alpha    42.1066
+_cell_angle_beta     42.1066
+_cell_angle_gamma    42.1066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.79627  0.79627  0.79627  1.0000
+  K   K2        1.0  0.20372  0.20372  0.20372  1.0000
+  Pb  Pb1       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.59906  0.59906  0.59906  1.0000
+  S   S2        1.0  0.40094  0.40094  0.40094  1.0000
+  O   O1        1.0  0.72071  0.72071  0.28319  1.0000
+  O   O2        1.0  0.28319  0.72071  0.72071  1.0000
+  O   O3        1.0  0.72071  0.28319  0.72071  1.0000
+  O   O4        1.0  0.27929  0.71681  0.27929  1.0000
+  O   O5        1.0  0.27929  0.27929  0.71681  1.0000
+  O   O6        1.0  0.33126  0.33126  0.33126  1.0000
+  O   O7        1.0  0.66874  0.66874  0.66874  1.0000
+  O   O8        1.0  0.71681  0.27929  0.27929  1.0000

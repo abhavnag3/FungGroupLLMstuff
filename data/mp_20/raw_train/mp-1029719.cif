@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca6Mo2N6
+_chemical_formula_sum              "Ca6 Mo2 N6"
+_cell_length_a       7.50813
+_cell_length_b       7.50813
+_cell_length_c       5.09638
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.89729  0.64926  0.25000  1.0000
+  Ca  Ca2       1.0  0.75198  0.10271  0.25000  1.0000
+  Ca  Ca3       1.0  0.35074  0.24802  0.25000  1.0000
+  Ca  Ca4       1.0  0.10271  0.35074  0.75000  1.0000
+  Ca  Ca5       1.0  0.24802  0.89729  0.75000  1.0000
+  Ca  Ca6       1.0  0.64926  0.75198  0.75000  1.0000
+  Mo  Mo1       1.0  0.66667  0.33333  0.75000  1.0000
+  Mo  Mo2       1.0  0.33333  0.66667  0.25000  1.0000
+  N   N1        1.0  0.88563  0.60572  0.75000  1.0000
+  N   N2        1.0  0.72009  0.11437  0.75000  1.0000
+  N   N3        1.0  0.39428  0.27991  0.75000  1.0000
+  N   N4        1.0  0.11437  0.39428  0.25000  1.0000
+  N   N5        1.0  0.27991  0.88563  0.25000  1.0000
+  N   N6        1.0  0.60572  0.72009  0.25000  1.0000

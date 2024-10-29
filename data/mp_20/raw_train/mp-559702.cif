@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Pr2Ta2Cl2O7
+_chemical_formula_sum              "Pr2 Ta2 Cl2 O7"
+_cell_length_a       8.06277
+_cell_length_b       8.06277
+_cell_length_c       6.97424
+_cell_angle_alpha    67.084
+_cell_angle_beta     67.084
+_cell_angle_gamma    28.4662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.69173  0.69173  0.83508  1.0000
+  Pr  Pr2       1.0  0.30827  0.30827  0.16492  1.0000
+  Ta  Ta1       1.0  0.03433  0.03433  0.20156  1.0000
+  Ta  Ta2       1.0  0.96567  0.96567  0.79844  1.0000
+  Cl  Cl1       1.0  0.32138  0.32138  0.56590  1.0000
+  Cl  Cl2       1.0  0.67862  0.67862  0.43410  1.0000
+  O   O1        1.0  0.54456  0.54456  0.16515  1.0000
+  O   O2        1.0  0.45544  0.45545  0.83485  1.0000
+  O   O3        1.0  0.08026  0.08026  0.84761  1.0000
+  O   O4        1.0  0.00000  0.00000  0.50000  1.0000
+  O   O5        1.0  0.17360  0.17360  0.07017  1.0000
+  O   O6        1.0  0.91974  0.91974  0.15239  1.0000
+  O   O7        1.0  0.82640  0.82640  0.92983  1.0000

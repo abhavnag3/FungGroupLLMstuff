@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       La4B4Cl5
+_chemical_formula_sum              "La4 B4 Cl5"
+_cell_length_a       8.66856
+_cell_length_b       8.66856
+_cell_length_c       9.37609
+_cell_angle_alpha    60.4293
+_cell_angle_beta     60.4293
+_cell_angle_gamma    28.6338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.16006  0.16006  0.76327  1.0000
+  La  La2       1.0  0.56045  0.56045  0.20235  1.0000
+  La  La3       1.0  0.43955  0.43955  0.79765  1.0000
+  La  La4       1.0  0.83994  0.83994  0.23673  1.0000
+  B   B1        1.0  0.02398  0.02398  0.07682  1.0000
+  B   B2        1.0  0.68537  0.31463  0.00000  1.0000
+  B   B3        1.0  0.97602  0.97602  0.92318  1.0000
+  B   B4        1.0  0.31463  0.68537  0.00000  1.0000
+  Cl  Cl1       1.0  0.24741  0.24741  0.15167  1.0000
+  Cl  Cl2       1.0  0.00000  0.00000  0.50000  1.0000
+  Cl  Cl3       1.0  0.35119  0.35119  0.44334  1.0000
+  Cl  Cl4       1.0  0.64881  0.64881  0.55666  1.0000
+  Cl  Cl5       1.0  0.75259  0.75259  0.84833  1.0000

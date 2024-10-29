@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Pu4Si8Tc6
+_chemical_formula_sum              "Pu4 Si8 Tc6"
+_cell_length_a       8.1174
+_cell_length_b       5.55295
+_cell_length_c       6.65249
+_cell_angle_alpha    74.9421
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.55330  0.07658  0.26983  1.0000
+  Pu  Pu2       1.0  0.05330  0.42342  0.73017  1.0000
+  Pu  Pu3       1.0  0.44670  0.92343  0.73017  1.0000
+  Pu  Pu4       1.0  0.94670  0.57657  0.26983  1.0000
+  Si  Si1       1.0  0.74912  0.22311  0.58358  1.0000
+  Si  Si2       1.0  0.24912  0.27689  0.41642  1.0000
+  Si  Si3       1.0  0.25088  0.77689  0.41642  1.0000
+  Si  Si4       1.0  0.75088  0.72311  0.58358  1.0000
+  Si  Si5       1.0  0.10295  0.87124  0.86637  1.0000
+  Si  Si6       1.0  0.60295  0.62876  0.13363  1.0000
+  Si  Si7       1.0  0.39705  0.37124  0.86637  1.0000
+  Si  Si8       1.0  0.89705  0.12876  0.13363  1.0000
+  Tc  Tc1       1.0  0.50000  0.50000  0.50000  1.0000
+  Tc  Tc2       1.0  0.00000  0.00000  0.50000  1.0000
+  Tc  Tc3       1.0  0.80580  0.87804  0.89842  1.0000
+  Tc  Tc4       1.0  0.30580  0.62196  0.10158  1.0000
+  Tc  Tc5       1.0  0.69420  0.37804  0.89842  1.0000
+  Tc  Tc6       1.0  0.19420  0.12196  0.10158  1.0000

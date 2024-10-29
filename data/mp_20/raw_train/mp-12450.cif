@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2Nd4Os2O12
+_chemical_formula_sum              "Li2 Nd4 Os2 O12"
+_cell_length_a       5.85007
+_cell_length_b       5.47632
+_cell_length_c       9.49085
+_cell_angle_alpha    55.3537
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.00000  0.00000  0.00000  1.0000
+  Li  Li2       1.0  0.50000  0.00000  0.50000  1.0000
+  Nd  Nd1       1.0  0.07138  0.76893  0.74864  1.0000
+  Nd  Nd2       1.0  0.57138  0.23106  0.75136  1.0000
+  Nd  Nd3       1.0  0.42862  0.76893  0.24864  1.0000
+  Nd  Nd4       1.0  0.92862  0.23107  0.25136  1.0000
+  Os  Os1       1.0  0.50000  0.50000  0.00000  1.0000
+  Os  Os2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.28819  0.26571  0.55497  1.0000
+  O   O2        1.0  0.78819  0.73429  0.94503  1.0000
+  O   O3        1.0  0.71181  0.73429  0.44503  1.0000
+  O   O4        1.0  0.21181  0.26571  0.05497  1.0000
+  O   O5        1.0  0.03345  0.64213  0.25636  1.0000
+  O   O6        1.0  0.53345  0.35787  0.24364  1.0000
+  O   O7        1.0  0.31506  0.84529  0.95104  1.0000
+  O   O8        1.0  0.81506  0.15471  0.54896  1.0000
+  O   O9        1.0  0.68494  0.15471  0.04896  1.0000
+  O   O10       1.0  0.18494  0.84529  0.45104  1.0000
+  O   O11       1.0  0.46655  0.64213  0.75636  1.0000
+  O   O12       1.0  0.96655  0.35787  0.74364  1.0000

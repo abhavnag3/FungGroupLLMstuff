@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ca2MnWO6
+_chemical_formula_sum              "Ca2 Mn1 W1 O6"
+_cell_length_a       5.62731
+_cell_length_b       5.63498
+_cell_length_c       5.70404
+_cell_angle_alpha    60.6299
+_cell_angle_beta     60.5644
+_cell_angle_gamma    60.0456
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.72482  0.74409  0.81107  1.0000
+  Ca  Ca2       1.0  0.22504  0.24086  0.30408  1.0000
+  Mn  Mn1       1.0  0.49486  0.51270  0.50013  1.0000
+  W   W1        1.0  0.00291  0.01838  0.97945  1.0000
+  O   O1        1.0  0.67493  0.26148  0.19973  1.0000
+  O   O2        1.0  0.33973  0.81374  0.71073  1.0000
+  O   O3        1.0  0.86380  0.69333  0.18817  1.0000
+  O   O4        1.0  0.25037  0.86970  0.19958  1.0000
+  O   O5        1.0  0.79336  0.16122  0.71281  1.0000
+  O   O6        1.0  0.14109  0.35337  0.73042  1.0000

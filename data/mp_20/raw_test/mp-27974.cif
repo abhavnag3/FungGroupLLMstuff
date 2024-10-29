@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pu2Br6
+_chemical_formula_sum              "Pu2 Br6"
+_cell_length_a       7.56927
+_cell_length_b       7.56927
+_cell_length_c       9.19537
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    149.007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.26125  0.73875  0.25000  1.0000
+  Pu  Pu2       1.0  0.73875  0.26125  0.75000  1.0000
+  Br  Br1       1.0  0.65855  0.34146  0.43132  1.0000
+  Br  Br2       1.0  0.34146  0.65855  0.56868  1.0000
+  Br  Br3       1.0  0.09844  0.90156  0.75000  1.0000
+  Br  Br4       1.0  0.90156  0.09844  0.25000  1.0000
+  Br  Br5       1.0  0.65855  0.34146  0.06868  1.0000
+  Br  Br6       1.0  0.34146  0.65855  0.93132  1.0000

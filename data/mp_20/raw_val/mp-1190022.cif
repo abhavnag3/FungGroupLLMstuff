@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Yb10Cu2Sn6
+_chemical_formula_sum              "Yb10 Cu2 Sn6"
+_cell_length_a       9.39227
+_cell_length_b       9.39228
+_cell_length_c       6.54214
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.74413  0.74413  0.25000  1.0000
+  Yb  Yb2       1.0  0.25587  0.00000  0.25000  1.0000
+  Yb  Yb3       1.0  0.00000  0.25587  0.25000  1.0000
+  Yb  Yb4       1.0  0.25587  0.25587  0.75000  1.0000
+  Yb  Yb5       1.0  0.74413  0.00000  0.75000  1.0000
+  Yb  Yb6       1.0  0.00000  0.74413  0.75000  1.0000
+  Yb  Yb7       1.0  0.66667  0.33333  0.50000  1.0000
+  Yb  Yb8       1.0  0.33333  0.66667  0.50000  1.0000
+  Yb  Yb9       1.0  0.33333  0.66667  0.00000  1.0000
+  Yb  Yb10      1.0  0.66667  0.33333  0.00000  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cu  Cu2       1.0  0.00000  0.00000  0.00000  1.0000
+  Sn  Sn1       1.0  0.40323  0.40323  0.25000  1.0000
+  Sn  Sn2       1.0  0.59677  0.00000  0.25000  1.0000
+  Sn  Sn3       1.0  0.00000  0.59677  0.25000  1.0000
+  Sn  Sn4       1.0  0.59677  0.59677  0.75000  1.0000
+  Sn  Sn5       1.0  0.40323  0.00000  0.75000  1.0000
+  Sn  Sn6       1.0  0.00000  0.40323  0.75000  1.0000

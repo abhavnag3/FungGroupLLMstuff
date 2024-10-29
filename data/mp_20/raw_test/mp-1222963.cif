@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       LaFe6Co6B6
+_chemical_formula_sum              "La1 Fe6 Co6 B6"
+_cell_length_a       6.03324
+_cell_length_b       6.03324
+_cell_length_c       6.03324
+_cell_angle_alpha    104.083
+_cell_angle_beta     104.083
+_cell_angle_gamma    104.083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00000  0.00000  0.00000  1.0000
+  Fe  Fe1       1.0  0.13231  0.86769  0.50000  1.0000
+  Fe  Fe2       1.0  0.50000  0.13231  0.86769  1.0000
+  Fe  Fe3       1.0  0.86769  0.50000  0.13231  1.0000
+  Fe  Fe4       1.0  0.50000  0.86769  0.13231  1.0000
+  Fe  Fe5       1.0  0.13231  0.50000  0.86769  1.0000
+  Fe  Fe6       1.0  0.86769  0.13231  0.50000  1.0000
+  Co  Co1       1.0  0.54103  0.81325  0.54103  1.0000
+  Co  Co2       1.0  0.54103  0.54103  0.81324  1.0000
+  Co  Co3       1.0  0.81324  0.54103  0.54103  1.0000
+  Co  Co4       1.0  0.45897  0.18676  0.45897  1.0000
+  Co  Co5       1.0  0.45897  0.45897  0.18676  1.0000
+  Co  Co6       1.0  0.18676  0.45897  0.45897  1.0000
+  B   B1        1.0  0.76763  0.32602  0.76763  1.0000
+  B   B2        1.0  0.76763  0.76763  0.32602  1.0000
+  B   B3        1.0  0.32602  0.76763  0.76763  1.0000
+  B   B4        1.0  0.23237  0.67398  0.23237  1.0000
+  B   B5        1.0  0.23237  0.23237  0.67398  1.0000
+  B   B6        1.0  0.67398  0.23237  0.23237  1.0000

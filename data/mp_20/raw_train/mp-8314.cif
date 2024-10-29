@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cs4Na2As2O8
+_chemical_formula_sum              "Cs4 Na2 As2 O8"
+_cell_length_a       6.27764
+_cell_length_b       6.17929
+_cell_length_c       8.41886
+_cell_angle_alpha    87.4998
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25000  0.16092  0.81438  1.0000
+  Cs  Cs2       1.0  0.75000  0.83908  0.18562  1.0000
+  Cs  Cs3       1.0  0.25000  0.70448  0.50936  1.0000
+  Cs  Cs4       1.0  0.75000  0.29552  0.49064  1.0000
+  Na  Na1       1.0  0.75000  0.36149  0.97609  1.0000
+  Na  Na2       1.0  0.25000  0.63851  0.02391  1.0000
+  As  As1       1.0  0.25000  0.21246  0.23999  1.0000
+  As  As2       1.0  0.75000  0.78754  0.76001  1.0000
+  O   O1        1.0  0.97165  0.64840  0.83388  1.0000
+  O   O2        1.0  0.47165  0.35160  0.16612  1.0000
+  O   O3        1.0  0.02835  0.35160  0.16612  1.0000
+  O   O4        1.0  0.52835  0.64840  0.83388  1.0000
+  O   O5        1.0  0.75000  0.04987  0.82553  1.0000
+  O   O6        1.0  0.75000  0.79292  0.55450  1.0000
+  O   O7        1.0  0.25000  0.95013  0.17447  1.0000
+  O   O8        1.0  0.25000  0.20708  0.44550  1.0000

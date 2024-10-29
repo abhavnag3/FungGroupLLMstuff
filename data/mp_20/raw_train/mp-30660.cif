@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga10Pd2
+_chemical_formula_sum              "Ga10 Pd2"
+_cell_length_a       6.84331
+_cell_length_b       6.84331
+_cell_length_c       6.84331
+_cell_angle_alpha    123.095
+_cell_angle_beta     123.095
+_cell_angle_gamma    84.7175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ga  Ga3       1.0  0.78527  0.28527  0.79166  1.0000
+  Ga  Ga4       1.0  0.28527  0.49361  0.50000  1.0000
+  Ga  Ga5       1.0  0.99361  0.78527  0.50000  1.0000
+  Ga  Ga6       1.0  0.71473  0.50639  0.50000  1.0000
+  Ga  Ga7       1.0  0.00639  0.21473  0.50000  1.0000
+  Ga  Ga8       1.0  0.50639  0.00639  0.79166  1.0000
+  Ga  Ga9       1.0  0.21473  0.71473  0.20834  1.0000
+  Ga  Ga10      1.0  0.49361  0.99361  0.20834  1.0000
+  Pd  Pd1       1.0  0.25000  0.25000  0.00000  1.0000
+  Pd  Pd2       1.0  0.75000  0.75000  0.00000  1.0000

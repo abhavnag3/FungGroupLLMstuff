@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       FeCu6GeS8
+_chemical_formula_sum              "Fe1 Cu6 Ge1 S8"
+_cell_length_a       7.41271
+_cell_length_b       7.41271
+_cell_length_c       7.41271
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu1       1.0  0.50489  0.50489  0.99511  1.0000
+  Cu  Cu2       1.0  0.99511  0.99511  0.50489  1.0000
+  Cu  Cu3       1.0  0.99511  0.50489  0.50489  1.0000
+  Cu  Cu4       1.0  0.50489  0.99511  0.99511  1.0000
+  Cu  Cu5       1.0  0.99511  0.50489  0.99511  1.0000
+  Cu  Cu6       1.0  0.50489  0.99511  0.50489  1.0000
+  Ge  Ge1       1.0  0.50000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.87865  0.87865  0.36405  1.0000
+  S   S2        1.0  0.37516  0.37516  0.87453  1.0000
+  S   S3        1.0  0.87865  0.87865  0.87865  1.0000
+  S   S4        1.0  0.37516  0.37516  0.37516  1.0000
+  S   S5        1.0  0.36405  0.87865  0.87865  1.0000
+  S   S6        1.0  0.87453  0.37516  0.37516  1.0000
+  S   S7        1.0  0.87865  0.36405  0.87865  1.0000
+  S   S8        1.0  0.37516  0.87453  0.37516  1.0000

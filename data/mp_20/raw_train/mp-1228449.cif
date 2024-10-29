@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ba2TaCu2Pb2ClO8
+_chemical_formula_sum              "Ba2 Ta1 Cu2 Pb2 Cl1 O8"
+_cell_length_a       3.98711
+_cell_length_b       3.98711
+_cell_length_c       16.0383
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.0048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.49201  0.49201  0.34936  1.0000
+  Ba  Ba2       1.0  0.49201  0.49201  0.65064  1.0000
+  Ta  Ta1       1.0  0.98638  0.98638  0.50000  1.0000
+  Cu  Cu1       1.0  0.99832  0.99832  0.22151  1.0000
+  Cu  Cu2       1.0  0.99832  0.99832  0.77849  1.0000
+  Pb  Pb1       1.0  0.49974  0.49974  0.11919  1.0000
+  Pb  Pb2       1.0  0.49974  0.49974  0.88081  1.0000
+  Cl  Cl1       1.0  0.99943  0.99943  0.00000  1.0000
+  O   O1        1.0  0.98725  0.98725  0.37623  1.0000
+  O   O2        1.0  0.98725  0.98725  0.62377  1.0000
+  O   O3        1.0  0.99927  0.49875  0.21065  1.0000
+  O   O4        1.0  0.49875  0.99927  0.21065  1.0000
+  O   O5        1.0  0.99927  0.49875  0.78935  1.0000
+  O   O6        1.0  0.49875  0.99927  0.78935  1.0000
+  O   O7        1.0  0.97687  0.48365  0.50000  1.0000
+  O   O8        1.0  0.48365  0.97687  0.50000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li5Nb2Cu3O10
+_chemical_formula_sum              "Li5 Nb2 Cu3 O10"
+_cell_length_a       5.26907
+_cell_length_b       5.77923
+_cell_length_c       7.7247
+_cell_angle_alpha    100.857
+_cell_angle_beta     105.624
+_cell_angle_gamma    106.122
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.22020  0.86834  0.37544  1.0000
+  Li  Li2       1.0  0.41063  0.32940  0.80569  1.0000
+  Li  Li3       1.0  0.50000  0.50000  0.50000  1.0000
+  Li  Li4       1.0  0.58937  0.67060  0.19431  1.0000
+  Li  Li5       1.0  0.77981  0.13166  0.62456  1.0000
+  Nb  Nb1       1.0  0.10865  0.72623  0.70332  1.0000
+  Nb  Nb2       1.0  0.89135  0.27377  0.29668  1.0000
+  Cu  Cu1       1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu2       1.0  0.69715  0.87734  0.90028  1.0000
+  Cu  Cu3       1.0  0.30285  0.12266  0.09972  1.0000
+  O   O1        1.0  0.07175  0.03484  0.82705  1.0000
+  O   O2        1.0  0.33216  0.64660  0.93103  1.0000
+  O   O3        1.0  0.13891  0.34161  0.55052  1.0000
+  O   O4        1.0  0.21675  0.52515  0.24911  1.0000
+  O   O5        1.0  0.45107  0.87496  0.65160  1.0000
+  O   O6        1.0  0.54893  0.12504  0.34840  1.0000
+  O   O7        1.0  0.78325  0.47485  0.75089  1.0000
+  O   O8        1.0  0.86108  0.65839  0.44948  1.0000
+  O   O9        1.0  0.66784  0.35341  0.06897  1.0000
+  O   O10       1.0  0.92825  0.96516  0.17295  1.0000

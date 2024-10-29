@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nb4Co4P4
+_chemical_formula_sum              "Nb4 Co4 P4"
+_cell_length_a       3.60489
+_cell_length_b       6.14123
+_cell_length_c       6.96272
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.25000  0.02582  0.82686  1.0000
+  Nb  Nb2       1.0  0.25000  0.52582  0.67314  1.0000
+  Nb  Nb3       1.0  0.75000  0.97418  0.17314  1.0000
+  Nb  Nb4       1.0  0.75000  0.47418  0.32686  1.0000
+  Co  Co1       1.0  0.25000  0.14665  0.43835  1.0000
+  Co  Co2       1.0  0.25000  0.64665  0.06165  1.0000
+  Co  Co3       1.0  0.75000  0.85335  0.56165  1.0000
+  Co  Co4       1.0  0.75000  0.35335  0.93835  1.0000
+  P   P1        1.0  0.25000  0.77894  0.38019  1.0000
+  P   P2        1.0  0.25000  0.27893  0.11981  1.0000
+  P   P3        1.0  0.75000  0.22107  0.61981  1.0000
+  P   P4        1.0  0.75000  0.72107  0.88019  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li2Cd2B2O6
+_chemical_formula_sum              "Li2 Cd2 B2 O6"
+_cell_length_a       5.27411
+_cell_length_b       5.30721
+_cell_length_c       6.25962
+_cell_angle_alpha    90.0868
+_cell_angle_beta     68.2119
+_cell_angle_gamma    61.0434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.56810  0.36353  0.66399  1.0000
+  Li  Li2       1.0  0.43190  0.63647  0.33601  1.0000
+  Cd  Cd1       1.0  0.84207  0.74319  0.76980  1.0000
+  Cd  Cd2       1.0  0.15793  0.25681  0.23020  1.0000
+  B   B1        1.0  0.80213  0.93208  0.26824  1.0000
+  B   B2        1.0  0.19787  0.06792  0.73176  1.0000
+  O   O1        1.0  0.62778  0.85951  0.18395  1.0000
+  O   O2        1.0  0.37222  0.14049  0.81605  1.0000
+  O   O3        1.0  0.95862  0.28706  0.68039  1.0000
+  O   O4        1.0  0.04138  0.71294  0.31961  1.0000
+  O   O5        1.0  0.72788  0.22133  0.30635  1.0000
+  O   O6        1.0  0.27212  0.77867  0.69365  1.0000

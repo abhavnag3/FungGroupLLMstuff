@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K4Si2As4
+_chemical_formula_sum              "K4 Si2 As4"
+_cell_length_a       8.24892
+_cell_length_b       8.24892
+_cell_length_c       8.24892
+_cell_angle_alpha    134.057
+_cell_angle_beta     129.219
+_cell_angle_gamma    70.8735
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.02177  0.85688  0.16489  1.0000
+  K   K2        1.0  0.69199  0.35688  0.33511  1.0000
+  K   K3        1.0  0.30801  0.64312  0.66489  1.0000
+  K   K4        1.0  0.97823  0.14312  0.83511  1.0000
+  Si  Si1       1.0  0.50000  0.25000  0.75000  1.0000
+  Si  Si2       1.0  0.50000  0.75000  0.25000  1.0000
+  As  As1       1.0  0.76607  0.60091  0.16516  1.0000
+  As  As2       1.0  0.43574  0.10090  0.33484  1.0000
+  As  As3       1.0  0.56426  0.89909  0.66516  1.0000
+  As  As4       1.0  0.23393  0.39909  0.83484  1.0000

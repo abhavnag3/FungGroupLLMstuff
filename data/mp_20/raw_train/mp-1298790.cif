@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mn4Cu2O8
+_chemical_formula_sum              "Mn4 Cu2 O8"
+_cell_length_a       5.96788
+_cell_length_b       5.94031
+_cell_length_c       5.93477
+_cell_angle_alpha    59.128
+_cell_angle_beta     60.0367
+_cell_angle_gamma    59.8369
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50001  0.99996  0.50003  1.0000
+  Mn  Mn2       1.0  0.99991  0.50003  0.50003  1.0000
+  Mn  Mn3       1.0  0.50000  0.50004  0.99995  1.0000
+  Mn  Mn4       1.0  0.50000  0.50002  0.50004  1.0000
+  Cu  Cu1       1.0  0.12204  0.12771  0.12700  1.0000
+  Cu  Cu2       1.0  0.87799  0.87232  0.87302  1.0000
+  O   O1        1.0  0.73844  0.73491  0.73485  1.0000
+  O   O2        1.0  0.26280  0.26059  0.71657  1.0000
+  O   O3        1.0  0.25865  0.71750  0.26227  1.0000
+  O   O4        1.0  0.70805  0.26772  0.26421  1.0000
+  O   O5        1.0  0.74141  0.28222  0.73784  1.0000
+  O   O6        1.0  0.29183  0.73233  0.73586  1.0000
+  O   O7        1.0  0.26160  0.26514  0.26521  1.0000
+  O   O8        1.0  0.73727  0.73951  0.28315  1.0000

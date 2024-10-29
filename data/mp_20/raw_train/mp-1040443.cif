@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K2Ba2Bi2Te2O12
+_chemical_formula_sum              "K2 Ba2 Bi2 Te2 O12"
+_cell_length_a       6.04757
+_cell_length_b       6.07679
+_cell_length_c       8.58621
+_cell_angle_alpha    89.9906
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.25000  0.75635  0.00061  1.0000
+  K   K2        1.0  0.75000  0.24365  0.99939  1.0000
+  Ba  Ba1       1.0  0.25000  0.75441  0.49979  1.0000
+  Ba  Ba2       1.0  0.75000  0.24559  0.50021  1.0000
+  Bi  Bi1       1.0  0.75000  0.74776  0.76509  1.0000
+  Bi  Bi2       1.0  0.25000  0.25224  0.23491  1.0000
+  Te  Te1       1.0  0.25000  0.25207  0.74516  1.0000
+  Te  Te2       1.0  0.75000  0.74793  0.25484  1.0000
+  O   O1        1.0  0.25000  0.28938  0.97030  1.0000
+  O   O2        1.0  0.25000  0.21936  0.51369  1.0000
+  O   O3        1.0  0.75000  0.78064  0.48631  1.0000
+  O   O4        1.0  0.75000  0.71062  0.02970  1.0000
+  O   O5        1.0  0.47978  0.48074  0.71910  1.0000
+  O   O6        1.0  0.01930  0.02394  0.75284  1.0000
+  O   O7        1.0  0.48070  0.02394  0.75284  1.0000
+  O   O8        1.0  0.02022  0.48074  0.71910  1.0000
+  O   O9        1.0  0.98070  0.97606  0.24716  1.0000
+  O   O10       1.0  0.52022  0.51926  0.28090  1.0000
+  O   O11       1.0  0.97978  0.51926  0.28090  1.0000
+  O   O12       1.0  0.51930  0.97606  0.24716  1.0000

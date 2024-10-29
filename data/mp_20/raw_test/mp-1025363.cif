@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy2Mo2C3
+_chemical_formula_sum              "Dy2 Mo2 C3"
+_cell_length_a       6.11793
+_cell_length_b       6.11793
+_cell_length_c       5.73307
+_cell_angle_alpha    68.4446
+_cell_angle_beta     68.4446
+_cell_angle_gamma    31.7896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.61029  0.61029  0.17495  1.0000
+  Dy  Dy2       1.0  0.38971  0.38971  0.82505  1.0000
+  Mo  Mo1       1.0  0.84298  0.84298  0.32653  1.0000
+  Mo  Mo2       1.0  0.15702  0.15702  0.67347  1.0000
+  C   C1        1.0  0.75096  0.75096  0.73356  1.0000
+  C   C2        1.0  0.24904  0.24904  0.26644  1.0000
+  C   C3        1.0  0.00000  0.00000  0.00000  1.0000

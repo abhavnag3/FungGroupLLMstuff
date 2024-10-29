@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       La4Cu4Te4S4
+_chemical_formula_sum              "La4 Cu4 Te4 S4"
+_cell_length_a       7.78923
+_cell_length_b       6.49874
+_cell_length_c       7.52292
+_cell_angle_alpha    85.4792
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.52802  0.35698  0.27529  1.0000
+  La  La2       1.0  0.02802  0.64302  0.22471  1.0000
+  La  La3       1.0  0.47198  0.64302  0.72471  1.0000
+  La  La4       1.0  0.97198  0.35698  0.77529  1.0000
+  Cu  Cu1       1.0  0.34214  0.07020  0.95830  1.0000
+  Cu  Cu2       1.0  0.15786  0.07020  0.45830  1.0000
+  Cu  Cu3       1.0  0.65786  0.92980  0.04170  1.0000
+  Cu  Cu4       1.0  0.84214  0.92980  0.54170  1.0000
+  Te  Te1       1.0  0.89349  0.12292  0.22141  1.0000
+  Te  Te2       1.0  0.39349  0.87708  0.27859  1.0000
+  Te  Te3       1.0  0.60651  0.12292  0.72141  1.0000
+  Te  Te4       1.0  0.10651  0.87708  0.77859  1.0000
+  S   S1        1.0  0.72860  0.59245  0.99985  1.0000
+  S   S2        1.0  0.22860  0.40755  0.50015  1.0000
+  S   S3        1.0  0.77140  0.59245  0.49985  1.0000
+  S   S4        1.0  0.27140  0.40755  0.00015  1.0000

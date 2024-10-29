@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Na4MgSi2Se6
+_chemical_formula_sum              "Na4 Mg1 Si2 Se6"
+_cell_length_a       7.11882
+_cell_length_b       7.11882
+_cell_length_c       7.10435
+_cell_angle_alpha    81.0016
+_cell_angle_beta     81.0016
+_cell_angle_gamma    114.06
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.51188  0.48812  0.50000  1.0000
+  Na  Na2       1.0  0.35832  0.64168  0.00000  1.0000
+  Na  Na3       1.0  0.68236  0.31765  0.00000  1.0000
+  Na  Na4       1.0  0.04639  0.95361  0.00000  1.0000
+  Mg  Mg1       1.0  0.87224  0.12776  0.50000  1.0000
+  Si  Si1       1.0  0.35480  0.96046  0.44567  1.0000
+  Si  Si2       1.0  0.03954  0.64520  0.55433  1.0000
+  Se  Se1       1.0  0.26070  0.19754  0.26939  1.0000
+  Se  Se2       1.0  0.80246  0.73930  0.73061  1.0000
+  Se  Se3       1.0  0.47177  0.05831  0.71500  1.0000
+  Se  Se4       1.0  0.94169  0.52823  0.28500  1.0000
+  Se  Se5       1.0  0.61955  0.91853  0.25466  1.0000
+  Se  Se6       1.0  0.08147  0.38044  0.74534  1.0000

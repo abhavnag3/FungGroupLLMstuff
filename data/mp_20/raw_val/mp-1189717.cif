@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Eu3Al9Pd6
+_chemical_formula_sum              "Eu3 Al9 Pd6"
+_cell_length_a       4.34043
+_cell_length_b       9.66922
+_cell_length_c       9.6685
+_cell_angle_alpha    120.002
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.50000  0.33332  0.66673  1.0000
+  Eu  Eu2       1.0  0.50000  0.66659  0.33327  1.0000
+  Eu  Eu3       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al1       1.0  0.50000  0.30246  0.00000  1.0000
+  Al  Al2       1.0  0.50000  0.69755  0.69756  1.0000
+  Al  Al3       1.0  0.50000  0.99999  0.30244  1.0000
+  Al  Al4       1.0  0.50000  0.69754  0.00000  1.0000
+  Al  Al5       1.0  0.50000  0.30245  0.30245  1.0000
+  Al  Al6       1.0  0.50000  0.00000  0.69756  1.0000
+  Al  Al7       1.0  0.00000  0.50000  0.00000  1.0000
+  Al  Al8       1.0  0.00000  0.50000  0.50000  1.0000
+  Al  Al9       1.0  0.00000  1.00000  0.50000  1.0000
+  Pd  Pd1       1.0  0.00000  0.18399  0.36798  1.0000
+  Pd  Pd2       1.0  0.00000  0.18397  0.81602  1.0000
+  Pd  Pd3       1.0  0.00000  0.63205  0.81602  1.0000
+  Pd  Pd4       1.0  0.00000  0.81601  0.63202  1.0000
+  Pd  Pd5       1.0  0.00000  0.36795  0.18398  1.0000
+  Pd  Pd6       1.0  0.00000  0.81603  0.18398  1.0000

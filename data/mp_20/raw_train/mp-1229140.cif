@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ag2SnBiSe4
+_chemical_formula_sum              "Ag2 Sn1 Bi1 Se4"
+_cell_length_a       13.8281
+_cell_length_b       13.8281
+_cell_length_c       13.8281
+_cell_angle_alpha    17.1454
+_cell_angle_beta     17.1454
+_cell_angle_gamma    17.1454
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.50656  0.50656  0.50656  1.0000
+  Ag  Ag2       1.0  0.24174  0.24174  0.24174  1.0000
+  Sn  Sn1       1.0  0.75672  0.75672  0.75672  1.0000
+  Bi  Bi1       1.0  0.99610  0.99610  0.99610  1.0000
+  Se  Se1       1.0  0.87467  0.87467  0.87467  1.0000
+  Se  Se2       1.0  0.62067  0.62067  0.62067  1.0000
+  Se  Se3       1.0  0.37452  0.37452  0.37452  1.0000
+  Se  Se4       1.0  0.12903  0.12903  0.12903  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca4Sb2Mo2O12
+_chemical_formula_sum              "Ca4 Sb2 Mo2 O12"
+_cell_length_a       8.03674
+_cell_length_b       5.55375
+_cell_length_c       5.75111
+_cell_angle_alpha    89.9018
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.25000  0.48502  0.43364  1.0000
+  Ca  Ca2       1.0  0.75000  0.51498  0.56636  1.0000
+  Ca  Ca3       1.0  0.25000  0.00671  0.95231  1.0000
+  Ca  Ca4       1.0  0.75000  0.99329  0.04769  1.0000
+  Sb  Sb1       1.0  0.50000  0.00000  0.50000  1.0000
+  Sb  Sb2       1.0  0.00000  0.00000  0.50000  1.0000
+  Mo  Mo1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mo  Mo2       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.55324  0.70536  0.31608  1.0000
+  O   O2        1.0  0.94542  0.81917  0.79083  1.0000
+  O   O3        1.0  0.05324  0.29464  0.68392  1.0000
+  O   O4        1.0  0.44542  0.18083  0.20917  1.0000
+  O   O5        1.0  0.55458  0.81917  0.79083  1.0000
+  O   O6        1.0  0.05458  0.18083  0.20917  1.0000
+  O   O7        1.0  0.75000  0.10446  0.46046  1.0000
+  O   O8        1.0  0.94676  0.70536  0.31608  1.0000
+  O   O9        1.0  0.25000  0.60955  0.04439  1.0000
+  O   O10       1.0  0.44676  0.29464  0.68392  1.0000
+  O   O11       1.0  0.25000  0.89554  0.53954  1.0000
+  O   O12       1.0  0.75000  0.39045  0.95561  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiP4W3
+_chemical_formula_sum              "Ti1 P4 W3"
+_cell_length_a       3.2802
+_cell_length_b       5.7523
+_cell_length_c       6.29908
+_cell_angle_alpha    89.8136
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.50000  0.50920  0.30932  1.0000
+  P   P1        1.0  0.50000  0.68940  0.93078  1.0000
+  P   P2        1.0  0.50000  0.19057  0.56597  1.0000
+  P   P3        1.0  0.00000  0.31040  0.06700  1.0000
+  P   P4        1.0  0.00000  0.81402  0.43763  1.0000
+  W   W1        1.0  0.50000  0.00763  0.18954  1.0000
+  W   W2        1.0  0.00000  0.48887  0.68830  1.0000
+  W   W3        1.0  0.00000  0.98992  0.81147  1.0000

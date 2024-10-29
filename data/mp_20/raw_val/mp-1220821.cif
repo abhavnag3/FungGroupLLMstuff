@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       NaBi3Br2O4
+_chemical_formula_sum              "Na1 Bi3 Br2 O4"
+_cell_length_a       6.99969
+_cell_length_b       6.99969
+_cell_length_c       5.63169
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    132.535
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.34538  0.65462  0.50000  1.0000
+  Bi  Bi1       1.0  0.83840  0.16160  0.00000  1.0000
+  Bi  Bi2       1.0  0.16248  0.83752  0.00000  1.0000
+  Bi  Bi3       1.0  0.66189  0.33811  0.50000  1.0000
+  Br  Br1       1.0  0.49685  0.50315  0.00000  1.0000
+  Br  Br2       1.0  0.00240  0.99760  0.50000  1.0000
+  O   O1        1.0  0.50555  0.00925  0.75708  1.0000
+  O   O2        1.0  0.99074  0.49445  0.24292  1.0000
+  O   O3        1.0  0.99074  0.49445  0.75708  1.0000
+  O   O4        1.0  0.50555  0.00925  0.24292  1.0000

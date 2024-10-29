@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2Pr2Mg2Ru2O12
+_chemical_formula_sum              "Sr2 Pr2 Mg2 Ru2 O12"
+_cell_length_a       5.67837
+_cell_length_b       5.60188
+_cell_length_c       9.69145
+_cell_angle_alpha    54.8573
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.22022  0.24480  0.25075  1.0000
+  Sr  Sr2       1.0  0.77978  0.24480  0.75075  1.0000
+  Pr  Pr1       1.0  0.29907  0.76146  0.75107  1.0000
+  Pr  Pr2       1.0  0.70093  0.76146  0.25107  1.0000
+  Mg  Mg1       1.0  0.75639  0.49972  0.00104  1.0000
+  Mg  Mg2       1.0  0.24361  0.49972  0.50104  1.0000
+  Ru  Ru1       1.0  0.75240  0.00006  0.49974  1.0000
+  Ru  Ru2       1.0  0.24760  0.00006  0.99974  1.0000
+  O   O1        1.0  0.76325  0.33117  0.25631  1.0000
+  O   O2        1.0  0.23675  0.33117  0.75631  1.0000
+  O   O3        1.0  0.72732  0.69327  0.74374  1.0000
+  O   O4        1.0  0.27268  0.69327  0.24374  1.0000
+  O   O5        1.0  0.95107  0.75815  0.45644  1.0000
+  O   O6        1.0  0.04893  0.75815  0.95644  1.0000
+  O   O7        1.0  0.53297  0.23469  0.53638  1.0000
+  O   O8        1.0  0.46703  0.23469  0.03637  1.0000
+  O   O9        1.0  0.03652  0.15369  0.54348  1.0000
+  O   O10       1.0  0.96348  0.15369  0.04348  1.0000
+  O   O11       1.0  0.47828  0.82300  0.46105  1.0000
+  O   O12       1.0  0.52172  0.82300  0.96105  1.0000

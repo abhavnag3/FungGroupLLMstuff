@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ca2Zn3Ga
+_chemical_formula_sum              "Ca2 Zn3 Ga1"
+_cell_length_a       5.78596
+_cell_length_b       5.78596
+_cell_length_c       7.37821
+_cell_angle_alpha    50.8622
+_cell_angle_beta     50.8622
+_cell_angle_gamma    46.314
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.45574  0.45575  0.79466  1.0000
+  Ca  Ca2       1.0  0.54354  0.54354  0.20508  1.0000
+  Zn  Zn1       1.0  0.16440  0.16440  0.38743  1.0000
+  Zn  Zn2       1.0  0.16545  0.16545  0.78211  1.0000
+  Zn  Zn3       1.0  0.83526  0.83526  0.22176  1.0000
+  Ga  Ga1       1.0  0.83560  0.83560  0.60896  1.0000

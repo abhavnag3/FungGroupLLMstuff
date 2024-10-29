@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Rb4Ge4Br12
+_chemical_formula_sum              "Rb4 Ge4 Br12"
+_cell_length_a       7.7826
+_cell_length_b       8.36804
+_cell_length_c       11.4055
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.97493  0.42247  0.74941  1.0000
+  Rb  Rb2       1.0  0.47493  0.07752  0.24941  1.0000
+  Rb  Rb3       1.0  0.52507  0.92248  0.74941  1.0000
+  Rb  Rb4       1.0  0.02507  0.57752  0.24941  1.0000
+  Ge  Ge1       1.0  0.48372  0.46922  0.51906  1.0000
+  Ge  Ge2       1.0  0.51628  0.53078  0.01906  1.0000
+  Ge  Ge3       1.0  0.01628  0.96922  0.51906  1.0000
+  Ge  Ge4       1.0  0.98372  0.03078  0.01906  1.0000
+  Br  Br1       1.0  0.32368  0.78128  0.03743  1.0000
+  Br  Br2       1.0  0.17632  0.28128  0.03743  1.0000
+  Br  Br3       1.0  0.82368  0.71872  0.53743  1.0000
+  Br  Br4       1.0  0.29275  0.81627  0.46886  1.0000
+  Br  Br5       1.0  0.20725  0.31627  0.46886  1.0000
+  Br  Br6       1.0  0.79275  0.68373  0.96886  1.0000
+  Br  Br7       1.0  0.42815  0.49888  0.74044  1.0000
+  Br  Br8       1.0  0.70725  0.18373  0.96886  1.0000
+  Br  Br9       1.0  0.92815  0.00112  0.24044  1.0000
+  Br  Br10      1.0  0.57185  0.50112  0.24044  1.0000
+  Br  Br11      1.0  0.07185  0.99888  0.74044  1.0000
+  Br  Br12      1.0  0.67632  0.21872  0.53743  1.0000

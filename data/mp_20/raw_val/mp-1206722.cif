@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ce3Si4Ni4
+_chemical_formula_sum              "Ce3 Si4 Ni4"
+_cell_length_a       12.1172
+_cell_length_b       12.1172
+_cell_length_c       12.1172
+_cell_angle_alpha    161.089
+_cell_angle_beta     160.756
+_cell_angle_gamma    27.1083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.35065  0.85066  0.50000  1.0000
+  Ce  Ce2       1.0  0.64934  0.14935  0.50000  1.0000
+  Ce  Ce3       1.0  0.00000  0.00000  0.00000  1.0000
+  Si  Si1       1.0  0.19753  0.69753  0.50000  1.0000
+  Si  Si2       1.0  0.80247  0.30247  0.50000  1.0000
+  Si  Si3       1.0  0.44920  0.44920  0.00000  1.0000
+  Si  Si4       1.0  0.55080  0.55080  0.00000  1.0000
+  Ni  Ni1       1.0  0.09740  0.59740  0.50000  1.0000
+  Ni  Ni2       1.0  0.90260  0.40260  0.50000  1.0000
+  Ni  Ni3       1.0  0.24955  0.24955  0.00000  1.0000
+  Ni  Ni4       1.0  0.75045  0.75045  0.00000  1.0000

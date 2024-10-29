@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Lu4Co4Sn4
+_chemical_formula_sum              "Lu4 Co4 Sn4"
+_cell_length_a       4.45036
+_cell_length_b       6.92237
+_cell_length_c       7.56072
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.25000  0.98685  0.29780  1.0000
+  Lu  Lu2       1.0  0.25000  0.48685  0.20220  1.0000
+  Lu  Lu3       1.0  0.75000  0.01315  0.70220  1.0000
+  Lu  Lu4       1.0  0.75000  0.51315  0.79780  1.0000
+  Co  Co1       1.0  0.25000  0.19625  0.91647  1.0000
+  Co  Co2       1.0  0.25000  0.69625  0.58353  1.0000
+  Co  Co3       1.0  0.75000  0.80375  0.08353  1.0000
+  Co  Co4       1.0  0.75000  0.30375  0.41647  1.0000
+  Sn  Sn1       1.0  0.25000  0.30633  0.58783  1.0000
+  Sn  Sn2       1.0  0.25000  0.80633  0.91217  1.0000
+  Sn  Sn3       1.0  0.75000  0.69367  0.41217  1.0000
+  Sn  Sn4       1.0  0.75000  0.19368  0.08783  1.0000

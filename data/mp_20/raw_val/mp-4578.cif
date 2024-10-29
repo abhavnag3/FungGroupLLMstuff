@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr4Ge2S8
+_chemical_formula_sum              "Sr4 Ge2 S8"
+_cell_length_a       6.77127
+_cell_length_b       6.79485
+_cell_length_c       8.28602
+_cell_angle_alpha    72.0296
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75000  0.23826  0.56545  1.0000
+  Sr  Sr2       1.0  0.25000  0.76174  0.43455  1.0000
+  Sr  Sr3       1.0  0.75000  0.27798  0.05329  1.0000
+  Sr  Sr4       1.0  0.25000  0.72202  0.94671  1.0000
+  Ge  Ge1       1.0  0.75000  0.73045  0.19812  1.0000
+  Ge  Ge2       1.0  0.25000  0.26955  0.80188  1.0000
+  S   S1        1.0  0.50272  0.49037  0.74147  1.0000
+  S   S2        1.0  0.00272  0.50963  0.25853  1.0000
+  S   S3        1.0  0.49728  0.50963  0.25853  1.0000
+  S   S4        1.0  0.99728  0.49037  0.74147  1.0000
+  S   S5        1.0  0.75000  0.92250  0.37319  1.0000
+  S   S6        1.0  0.25000  0.07750  0.62681  1.0000
+  S   S7        1.0  0.25000  0.09500  0.07688  1.0000
+  S   S8        1.0  0.75000  0.90500  0.92312  1.0000

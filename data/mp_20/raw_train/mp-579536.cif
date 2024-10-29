@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cs2Cu4I2Cl4
+_chemical_formula_sum              "Cs2 Cu4 I2 Cl4"
+_cell_length_a       5.55818
+_cell_length_b       7.76227
+_cell_length_c       8.8304
+_cell_angle_alpha    69.7966
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.75000  0.32804  0.36586  1.0000
+  Cs  Cs2       1.0  0.25000  0.67196  0.63414  1.0000
+  Cu  Cu1       1.0  0.49587  0.11432  0.85321  1.0000
+  Cu  Cu2       1.0  0.00413  0.11432  0.85321  1.0000
+  Cu  Cu3       1.0  0.99587  0.88568  0.14679  1.0000
+  Cu  Cu4       1.0  0.50413  0.88568  0.14679  1.0000
+  I   I1        1.0  0.25000  0.19446  0.08167  1.0000
+  I   I2        1.0  0.75000  0.80554  0.91833  1.0000
+  Cl  Cl1       1.0  0.25000  0.13121  0.62795  1.0000
+  Cl  Cl2       1.0  0.25000  0.62412  0.25328  1.0000
+  Cl  Cl3       1.0  0.75000  0.86879  0.37205  1.0000
+  Cl  Cl4       1.0  0.75000  0.37588  0.74672  1.0000

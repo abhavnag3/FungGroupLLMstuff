@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Er4O8
+_chemical_formula_sum              "Li4 Er4 O8"
+_cell_length_a       6.16563
+_cell_length_b       6.13916
+_cell_length_c       6.20262
+_cell_angle_alpha    60.8907
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.34918  0.71589  0.05291  1.0000
+  Li  Li2       1.0  0.84918  0.28411  0.44709  1.0000
+  Li  Li3       1.0  0.65082  0.28411  0.94708  1.0000
+  Li  Li4       1.0  0.15082  0.71589  0.55292  1.0000
+  Er  Er1       1.0  0.87072  0.76364  0.98255  1.0000
+  Er  Er2       1.0  0.62928  0.76364  0.48255  1.0000
+  Er  Er3       1.0  0.12928  0.23636  0.01745  1.0000
+  Er  Er4       1.0  0.37072  0.23636  0.51745  1.0000
+  O   O1        1.0  0.66441  0.00430  0.66635  1.0000
+  O   O2        1.0  0.61059  0.54462  0.26518  1.0000
+  O   O3        1.0  0.16441  0.99570  0.83365  1.0000
+  O   O4        1.0  0.33559  0.99570  0.33365  1.0000
+  O   O5        1.0  0.38941  0.45538  0.73482  1.0000
+  O   O6        1.0  0.11059  0.45538  0.23482  1.0000
+  O   O7        1.0  0.88941  0.54462  0.76518  1.0000
+  O   O8        1.0  0.83559  0.00430  0.16635  1.0000

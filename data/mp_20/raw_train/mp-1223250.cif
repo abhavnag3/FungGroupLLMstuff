@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       La2MnFeSe2O3
+_chemical_formula_sum              "La2 Mn1 Fe1 Se2 O3"
+_cell_length_a       4.18091
+_cell_length_b       9.98377
+_cell_length_c       4.11613
+_cell_angle_alpha    78.1022
+_cell_angle_beta     89.9975
+_cell_angle_gamma    77.9058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.68704  0.62590  0.68704  1.0000
+  La  La2       1.0  0.31296  0.37410  0.31296  1.0000
+  Mn  Mn1       1.0  1.00000  0.00000  0.50000  1.0000
+  Fe  Fe1       1.0  0.50000  0.00000  0.00000  1.0000
+  Se  Se1       1.0  0.09941  0.80102  0.09934  1.0000
+  Se  Se2       1.0  0.90060  0.19898  0.90066  1.0000
+  O   O1        1.0  0.50000  0.00000  0.50000  1.0000
+  O   O2        1.0  0.74995  0.50009  0.24995  1.0000
+  O   O3        1.0  0.25005  0.49991  0.75005  1.0000

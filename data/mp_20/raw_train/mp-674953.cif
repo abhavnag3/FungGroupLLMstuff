@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu4Ge2Te6
+_chemical_formula_sum              "Cu4 Ge2 Te6"
+_cell_length_a       7.35251
+_cell_length_b       7.35251
+_cell_length_c       7.38236
+_cell_angle_alpha    80.4503
+_cell_angle_beta     80.4503
+_cell_angle_gamma    119.953
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.99103  0.15982  0.00538  1.0000
+  Cu  Cu2       1.0  0.33451  0.83495  0.00227  1.0000
+  Cu  Cu3       1.0  0.15982  0.99103  0.50538  1.0000
+  Cu  Cu4       1.0  0.83495  0.33451  0.50227  1.0000
+  Ge  Ge1       1.0  0.67733  0.50557  0.99110  1.0000
+  Ge  Ge2       1.0  0.50557  0.67733  0.49110  1.0000
+  Te  Te1       1.0  0.05493  0.88894  0.87372  1.0000
+  Te  Te2       1.0  0.70671  0.19991  0.87131  1.0000
+  Te  Te3       1.0  0.35520  0.53563  0.88432  1.0000
+  Te  Te4       1.0  0.53563  0.35520  0.38432  1.0000
+  Te  Te5       1.0  0.19990  0.70671  0.37131  1.0000
+  Te  Te6       1.0  0.88894  0.05493  0.37372  1.0000

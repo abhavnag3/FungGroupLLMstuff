@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tb2Sn2Ge2
+_chemical_formula_sum              "Tb2 Sn2 Ge2"
+_cell_length_a       8.47985
+_cell_length_b       8.47985
+_cell_length_c       4.10969
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    150.795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.90561  0.09439  0.75000  1.0000
+  Tb  Tb2       1.0  0.09439  0.90561  0.25000  1.0000
+  Sn  Sn1       1.0  0.25506  0.74494  0.75000  1.0000
+  Sn  Sn2       1.0  0.74494  0.25506  0.25000  1.0000
+  Ge  Ge1       1.0  0.55291  0.44709  0.75000  1.0000
+  Ge  Ge2       1.0  0.44709  0.55291  0.25000  1.0000

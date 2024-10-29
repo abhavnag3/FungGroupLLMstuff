@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Li2Ti2V3O10
+_chemical_formula_sum              "Li2 Ti2 V3 O10"
+_cell_length_a       5.21917
+_cell_length_b       5.16613
+_cell_length_c       7.73765
+_cell_angle_alpha    77.8796
+_cell_angle_beta     104.24
+_cell_angle_gamma    103.401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.21145  0.55173  0.39404  1.0000
+  Li  Li2       1.0  0.78320  0.44709  0.60898  1.0000
+  Ti  Ti1       1.0  0.12605  0.00738  0.68741  1.0000
+  Ti  Ti2       1.0  0.86860  0.98925  0.31668  1.0000
+  V   V1        1.0  0.99781  0.50315  0.99497  1.0000
+  V   V2        1.0  0.69294  0.95966  0.89469  1.0000
+  V   V3        1.0  0.31279  0.04478  0.10810  1.0000
+  O   O1        1.0  0.06139  0.21572  0.86319  1.0000
+  O   O2        1.0  0.05157  0.77210  0.50701  1.0000
+  O   O3        1.0  0.31373  0.79137  0.94576  1.0000
+  O   O4        1.0  0.20636  0.27584  0.21299  1.0000
+  O   O5        1.0  0.47942  0.15375  0.68500  1.0000
+  O   O6        1.0  0.51048  0.83758  0.31182  1.0000
+  O   O7        1.0  0.80617  0.71387  0.78026  1.0000
+  O   O8        1.0  0.68064  0.21427  0.06695  1.0000
+  O   O9        1.0  0.94433  0.22849  0.48657  1.0000
+  O   O10       1.0  0.95307  0.79397  0.13558  1.0000

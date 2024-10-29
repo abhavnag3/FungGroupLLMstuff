@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca2ZrTiSi2O10
+_chemical_formula_sum              "Ca2 Zr1 Ti1 Si2 O10"
+_cell_length_a       5.5541
+_cell_length_b       5.62227
+_cell_length_c       7.31171
+_cell_angle_alpha    104.1
+_cell_angle_beta     103.887
+_cell_angle_gamma    105.787
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.17708  0.84063  0.26109  1.0000
+  Ca  Ca2       1.0  0.82292  0.15937  0.73891  1.0000
+  Zr  Zr1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ti  Ti1       1.0  0.50000  0.50000  0.50000  1.0000
+  Si  Si1       1.0  0.17108  0.81160  0.74520  1.0000
+  Si  Si2       1.0  0.82892  0.18840  0.25480  1.0000
+  O   O1        1.0  0.57784  0.42017  0.73673  1.0000
+  O   O2        1.0  0.42216  0.57983  0.26327  1.0000
+  O   O3        1.0  0.87530  0.74852  0.58586  1.0000
+  O   O4        1.0  0.76389  0.89393  0.09956  1.0000
+  O   O5        1.0  0.12470  0.25148  0.41414  1.0000
+  O   O6        1.0  0.23611  0.10607  0.90044  1.0000
+  O   O7        1.0  0.82897  0.39223  0.12564  1.0000
+  O   O8        1.0  0.38678  0.80859  0.62310  1.0000
+  O   O9        1.0  0.17103  0.60777  0.87436  1.0000
+  O   O10       1.0  0.61322  0.19141  0.37690  1.0000

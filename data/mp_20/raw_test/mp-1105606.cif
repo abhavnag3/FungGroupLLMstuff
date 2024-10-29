@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti6Ge6Ir6
+_chemical_formula_sum              "Ti6 Ge6 Ir6"
+_cell_length_a       7.53762
+_cell_length_b       7.53762
+_cell_length_c       7.53762
+_cell_angle_alpha    128.179
+_cell_angle_beta     120.707
+_cell_angle_gamma    82.6021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.44687  0.40276  0.45590  1.0000
+  Ti  Ti2       1.0  0.55314  0.00903  0.95590  1.0000
+  Ti  Ti3       1.0  0.02469  0.00698  0.48230  1.0000
+  Ti  Ti4       1.0  0.97531  0.45761  0.98230  1.0000
+  Ti  Ti5       1.0  0.25019  0.57902  0.82882  1.0000
+  Ti  Ti6       1.0  0.74981  0.57863  0.32882  1.0000
+  Ge  Ge1       1.0  0.16968  0.67092  0.50562  1.0000
+  Ge  Ge2       1.0  0.83032  0.33594  0.50124  1.0000
+  Ge  Ge3       1.0  0.66530  0.67092  0.00124  1.0000
+  Ge  Ge4       1.0  0.33470  0.33594  0.00562  1.0000
+  Ge  Ge5       1.0  0.21144  0.96162  0.25019  1.0000
+  Ge  Ge6       1.0  0.78856  0.03875  0.75019  1.0000
+  Ir  Ir1       1.0  0.41892  0.75095  0.41815  1.0000
+  Ir  Ir2       1.0  0.58108  0.99923  0.33203  1.0000
+  Ir  Ir3       1.0  0.83280  0.75095  0.83203  1.0000
+  Ir  Ir4       1.0  0.16720  0.99923  0.91815  1.0000
+  Ir  Ir5       1.0  0.00000  0.25576  0.25576  1.0000
+  Ir  Ir6       1.0  0.50000  0.25576  0.75576  1.0000

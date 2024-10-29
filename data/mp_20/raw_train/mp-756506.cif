@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       V4Ni2O12
+_chemical_formula_sum              "V4 Ni2 O12"
+_cell_length_a       5.8565
+_cell_length_b       6.7801
+_cell_length_c       6.78004
+_cell_angle_alpha    95.9286
+_cell_angle_beta     74.5708
+_cell_angle_gamma    105.429
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.75592  0.20460  0.61220  1.0000
+  V   V2        1.0  0.74407  0.61221  0.20461  1.0000
+  V   V3        1.0  0.25592  0.38775  0.79538  1.0000
+  V   V4        1.0  0.24408  0.79539  0.38776  1.0000
+  Ni  Ni1       1.0  0.75003  0.08423  0.08422  1.0000
+  Ni  Ni2       1.0  0.24998  0.91582  0.91580  1.0000
+  O   O1        1.0  0.63683  0.03454  0.80735  1.0000
+  O   O2        1.0  0.13687  0.19270  0.96549  1.0000
+  O   O3        1.0  0.86317  0.80734  0.03454  1.0000
+  O   O4        1.0  0.36313  0.96547  0.19270  1.0000
+  O   O5        1.0  0.77456  0.08758  0.38034  1.0000
+  O   O6        1.0  0.72544  0.38034  0.08758  1.0000
+  O   O7        1.0  0.27461  0.61973  0.91238  1.0000
+  O   O8        1.0  0.22538  0.91238  0.61973  1.0000
+  O   O9        1.0  0.55466  0.37102  0.64841  1.0000
+  O   O10       1.0  0.05455  0.35151  0.62896  1.0000
+  O   O11       1.0  0.94535  0.64842  0.37102  1.0000
+  O   O12       1.0  0.44545  0.62897  0.35151  1.0000

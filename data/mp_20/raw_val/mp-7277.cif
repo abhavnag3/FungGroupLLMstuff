@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tl4Ge2S6
+_chemical_formula_sum              "Tl4 Ge2 S6"
+_cell_length_a       6.93493
+_cell_length_b       7.08853
+_cell_length_c       8.58422
+_cell_angle_alpha    88.9138
+_cell_angle_beta     111.924
+_cell_angle_gamma    113.317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.27812  0.68617  0.89016  1.0000
+  Tl  Tl2       1.0  0.72188  0.31383  0.10984  1.0000
+  Tl  Tl3       1.0  0.86291  0.04081  0.67300  1.0000
+  Tl  Tl4       1.0  0.13709  0.95919  0.32700  1.0000
+  Ge  Ge1       1.0  0.42993  0.55119  0.31708  1.0000
+  Ge  Ge2       1.0  0.57007  0.44881  0.68292  1.0000
+  S   S1        1.0  0.50822  0.87243  0.26618  1.0000
+  S   S2        1.0  0.49177  0.12757  0.73382  1.0000
+  S   S3        1.0  0.74952  0.68996  0.90650  1.0000
+  S   S4        1.0  0.24084  0.46558  0.49554  1.0000
+  S   S5        1.0  0.75916  0.53443  0.50446  1.0000
+  S   S6        1.0  0.25048  0.31004  0.09351  1.0000

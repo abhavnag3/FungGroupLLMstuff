@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti6Fe6Si6
+_chemical_formula_sum              "Ti6 Fe6 Si6"
+_cell_length_a       7.12129
+_cell_length_b       7.12129
+_cell_length_c       7.12129
+_cell_angle_alpha    127.859
+_cell_angle_beta     121.669
+_cell_angle_gamma    82.0254
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.74664  0.08056  0.83392  1.0000
+  Ti  Ti2       1.0  0.47644  0.96154  0.98510  1.0000
+  Ti  Ti3       1.0  0.52356  0.50866  0.48510  1.0000
+  Ti  Ti4       1.0  0.94585  0.89647  0.45062  1.0000
+  Ti  Ti5       1.0  0.25336  0.08728  0.33392  1.0000
+  Ti  Ti6       1.0  0.05415  0.50477  0.95062  1.0000
+  Fe  Fe1       1.0  0.50000  0.74868  0.24868  1.0000
+  Fe  Fe2       1.0  0.00000  0.74868  0.74868  1.0000
+  Fe  Fe3       1.0  0.91033  0.25556  0.41258  1.0000
+  Fe  Fe4       1.0  0.65703  0.50226  0.91258  1.0000
+  Fe  Fe5       1.0  0.34297  0.25556  0.84523  1.0000
+  Fe  Fe6       1.0  0.08967  0.50226  0.34523  1.0000
+  Si  Si1       1.0  0.28021  0.52313  0.74292  1.0000
+  Si  Si2       1.0  0.15905  0.17239  0.99650  1.0000
+  Si  Si3       1.0  0.67589  0.17239  0.51334  1.0000
+  Si  Si4       1.0  0.32411  0.83745  0.49650  1.0000
+  Si  Si5       1.0  0.71979  0.46270  0.24292  1.0000
+  Si  Si6       1.0  0.84095  0.83745  0.01334  1.0000

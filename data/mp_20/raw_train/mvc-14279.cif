@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn2Sb2F10
+_chemical_formula_sum              "Zn2 Sb2 F10"
+_cell_length_a       5.64176
+_cell_length_b       5.64176
+_cell_length_c       8.97959
+_cell_angle_alpha    66.1858
+_cell_angle_beta     66.1858
+_cell_angle_gamma    70.6058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.49696  0.49858  0.74325  1.0000
+  Zn  Zn2       1.0  0.49858  0.49696  0.24325  1.0000
+  Sb  Sb1       1.0  0.01554  0.97738  0.98894  1.0000
+  Sb  Sb2       1.0  0.97738  0.01554  0.48895  1.0000
+  F   F1        1.0  0.14400  0.85730  0.19102  1.0000
+  F   F2        1.0  0.85730  0.14400  0.69102  1.0000
+  F   F3        1.0  0.20155  0.32394  0.36892  1.0000
+  F   F4        1.0  0.68990  0.77737  0.16865  1.0000
+  F   F5        1.0  0.75852  0.29940  0.08599  1.0000
+  F   F6        1.0  0.63090  0.30719  0.45648  1.0000
+  F   F7        1.0  0.30719  0.63090  0.95648  1.0000
+  F   F8        1.0  0.29940  0.75852  0.58599  1.0000
+  F   F9        1.0  0.32394  0.20155  0.86892  1.0000
+  F   F10       1.0  0.77737  0.68990  0.66865  1.0000

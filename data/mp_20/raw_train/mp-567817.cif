@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf2Ge2Te8
+_chemical_formula_sum              "Hf2 Ge2 Te8"
+_cell_length_a       8.52705
+_cell_length_b       8.52705
+_cell_length_c       11.1088
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    152.739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.65316  0.34684  0.27203  1.0000
+  Hf  Hf2       1.0  0.34684  0.65316  0.77202  1.0000
+  Ge  Ge1       1.0  0.77123  0.22877  0.46092  1.0000
+  Ge  Ge2       1.0  0.22877  0.77123  0.96091  1.0000
+  Te  Te1       1.0  0.72530  0.27470  0.69833  1.0000
+  Te  Te2       1.0  0.62168  0.37832  0.00095  1.0000
+  Te  Te3       1.0  0.27470  0.72530  0.19833  1.0000
+  Te  Te4       1.0  0.02220  0.97780  0.24107  1.0000
+  Te  Te5       1.0  0.89646  0.10354  0.95887  1.0000
+  Te  Te6       1.0  0.10354  0.89646  0.45887  1.0000
+  Te  Te7       1.0  0.97780  0.02220  0.74107  1.0000
+  Te  Te8       1.0  0.37832  0.62168  0.50095  1.0000

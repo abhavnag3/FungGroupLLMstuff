@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K6Pt4O8
+_chemical_formula_sum              "K6 Pt4 O8"
+_cell_length_a       5.61683
+_cell_length_b       5.61683
+_cell_length_c       11.7959
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    113.493
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.35183  0.64817  0.93227  1.0000
+  K   K2        1.0  0.64817  0.35183  0.43227  1.0000
+  K   K3        1.0  0.64817  0.35183  0.06773  1.0000
+  K   K4        1.0  0.35183  0.64817  0.56773  1.0000
+  K   K5        1.0  0.71061  0.28939  0.75000  1.0000
+  K   K6        1.0  0.28939  0.71061  0.25000  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pt  Pt2       1.0  0.00000  0.00000  0.50000  1.0000
+  Pt  Pt3       1.0  0.07814  0.92186  0.75000  1.0000
+  Pt  Pt4       1.0  0.92186  0.07814  0.25000  1.0000
+  O   O1        1.0  0.71051  0.87258  0.11587  1.0000
+  O   O2        1.0  0.28950  0.12742  0.61587  1.0000
+  O   O3        1.0  0.87258  0.71051  0.88413  1.0000
+  O   O4        1.0  0.12742  0.28950  0.38413  1.0000
+  O   O5        1.0  0.28950  0.12742  0.88413  1.0000
+  O   O6        1.0  0.71051  0.87258  0.38413  1.0000
+  O   O7        1.0  0.12742  0.28950  0.11587  1.0000
+  O   O8        1.0  0.87258  0.71051  0.61587  1.0000

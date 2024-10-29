@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Na2U2O7
+_chemical_formula_sum              "Na2 U2 O7"
+_cell_length_a       3.98335
+_cell_length_b       6.49756
+_cell_length_c       6.90842
+_cell_angle_alpha    69.5505
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.00000  0.50912  0.49850  1.0000
+  Na  Na2       1.0  0.50000  0.50121  0.99606  1.0000
+  U   U1        1.0  0.00000  0.99892  0.01513  1.0000
+  U   U2        1.0  0.50000  0.98657  0.49002  1.0000
+  O   O1        1.0  0.50000  0.29734  0.41108  1.0000
+  O   O2        1.0  0.00000  0.30406  0.88578  1.0000
+  O   O3        1.0  0.50000  0.67393  0.59330  1.0000
+  O   O4        1.0  0.00000  0.69217  0.11662  1.0000
+  O   O5        1.0  0.50000  0.04301  0.14759  1.0000
+  O   O6        1.0  0.00000  0.95959  0.38755  1.0000
+  O   O7        1.0  0.50000  0.96307  0.81536  1.0000

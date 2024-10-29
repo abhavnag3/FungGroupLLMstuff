@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti3Sn3O12
+_chemical_formula_sum              "Ti3 Sn3 O12"
+_cell_length_a       5.68487
+_cell_length_b       5.68487
+_cell_length_c       7.44589
+_cell_angle_alpha    71.9408
+_cell_angle_beta     71.9408
+_cell_angle_gamma    72.1434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.67603  0.67603  0.31426  1.0000
+  Ti  Ti2       1.0  0.65497  0.65497  0.81928  1.0000
+  Ti  Ti3       1.0  0.99483  0.99483  0.00030  1.0000
+  Sn  Sn1       1.0  0.33686  0.33686  0.16621  1.0000
+  Sn  Sn2       1.0  0.33217  0.33217  0.67107  1.0000
+  Sn  Sn3       1.0  0.99861  0.99861  0.50178  1.0000
+  O   O1        1.0  0.63339  0.01617  0.67730  1.0000
+  O   O2        1.0  0.96652  0.37343  0.33903  1.0000
+  O   O3        1.0  0.09368  0.09368  0.71531  1.0000
+  O   O4        1.0  0.44721  0.44721  0.36697  1.0000
+  O   O5        1.0  0.77095  0.77095  0.04407  1.0000
+  O   O6        1.0  0.89945  0.89945  0.28891  1.0000
+  O   O7        1.0  0.57139  0.57139  0.62809  1.0000
+  O   O8        1.0  0.22029  0.22029  0.97423  1.0000
+  O   O9        1.0  0.37343  0.96652  0.33903  1.0000
+  O   O10       1.0  0.70477  0.30929  0.98843  1.0000
+  O   O11       1.0  0.01617  0.63339  0.67730  1.0000
+  O   O12       1.0  0.30929  0.70477  0.98843  1.0000

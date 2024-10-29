@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Dy4Sn10
+_chemical_formula_sum              "Dy4 Sn10"
+_cell_length_a       4.37669
+_cell_length_b       4.45981
+_cell_length_c       19.1661
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.00000  0.50000  0.87082  1.0000
+  Dy  Dy2       1.0  0.00000  0.00000  0.30108  1.0000
+  Dy  Dy3       1.0  0.50000  0.50000  0.69892  1.0000
+  Dy  Dy4       1.0  0.50000  0.00000  0.12918  1.0000
+  Sn  Sn1       1.0  0.00000  0.00000  0.73517  1.0000
+  Sn  Sn2       1.0  0.50000  0.00000  0.42464  1.0000
+  Sn  Sn3       1.0  0.50000  0.00000  0.84354  1.0000
+  Sn  Sn4       1.0  0.50000  0.00000  0.57668  1.0000
+  Sn  Sn5       1.0  0.50000  0.50000  0.26483  1.0000
+  Sn  Sn6       1.0  0.00000  0.50000  0.42332  1.0000
+  Sn  Sn7       1.0  0.00000  0.50000  0.57536  1.0000
+  Sn  Sn8       1.0  0.00000  0.50000  0.15646  1.0000
+  Sn  Sn9       1.0  0.00000  0.00000  0.99843  1.0000
+  Sn  Sn10      1.0  0.50000  0.50000  0.00157  1.0000

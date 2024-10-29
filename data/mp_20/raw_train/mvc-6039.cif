@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Zn2MoWO6
+_chemical_formula_sum              "Zn2 Mo1 W1 O6"
+_cell_length_a       5.64388
+_cell_length_b       5.63668
+_cell_length_c       7.8838
+_cell_angle_alpha    85.1912
+_cell_angle_beta     137.105
+_cell_angle_gamma    123.542
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.99989  0.54126  0.26819  1.0000
+  Zn  Zn2       1.0  0.97622  0.53503  0.76885  1.0000
+  Mo  Mo1       1.0  0.99372  0.97838  0.49339  1.0000
+  W   W1        1.0  0.99328  0.97994  0.99424  1.0000
+  O   O1        1.0  0.26820  0.09056  0.37262  1.0000
+  O   O2        1.0  0.72520  0.81717  0.61930  1.0000
+  O   O3        1.0  0.35298  0.46710  0.09439  1.0000
+  O   O4        1.0  0.38475  0.84032  0.75938  1.0000
+  O   O5        1.0  0.60111  0.10959  0.21899  1.0000
+  O   O6        1.0  0.67810  0.49718  0.89385  1.0000

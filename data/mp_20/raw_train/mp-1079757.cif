@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       La4In2Ni4
+_chemical_formula_sum              "La4 In2 Ni4"
+_cell_length_a       3.81913
+_cell_length_b       7.5897
+_cell_length_c       7.8243
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.50000  0.66859  0.81997  1.0000
+  La  La2       1.0  0.50000  0.33141  0.18004  1.0000
+  La  La3       1.0  0.50000  0.83141  0.31996  1.0000
+  La  La4       1.0  0.50000  0.16859  0.68003  1.0000
+  In  In1       1.0  0.00000  0.50000  0.50000  1.0000
+  In  In2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.00000  0.13773  0.39627  1.0000
+  Ni  Ni2       1.0  0.00000  0.86227  0.60373  1.0000
+  Ni  Ni3       1.0  0.00000  0.36227  0.89627  1.0000
+  Ni  Ni4       1.0  0.00000  0.63773  0.10373  1.0000

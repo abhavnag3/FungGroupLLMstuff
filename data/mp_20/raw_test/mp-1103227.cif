@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf4Co4Si4
+_chemical_formula_sum              "Hf4 Co4 Si4"
+_cell_length_a       3.82711
+_cell_length_b       6.38345
+_cell_length_c       7.09873
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.25000  0.01087  0.30938  1.0000
+  Hf  Hf2       1.0  0.25000  0.51087  0.19062  1.0000
+  Hf  Hf3       1.0  0.75000  0.98913  0.69063  1.0000
+  Hf  Hf4       1.0  0.75000  0.48913  0.80937  1.0000
+  Co  Co1       1.0  0.25000  0.14665  0.93388  1.0000
+  Co  Co2       1.0  0.25000  0.64665  0.56612  1.0000
+  Co  Co3       1.0  0.75000  0.85335  0.06612  1.0000
+  Co  Co4       1.0  0.75000  0.35335  0.43388  1.0000
+  Si  Si1       1.0  0.25000  0.28085  0.60945  1.0000
+  Si  Si2       1.0  0.25000  0.78085  0.89055  1.0000
+  Si  Si3       1.0  0.75000  0.71915  0.39055  1.0000
+  Si  Si4       1.0  0.75000  0.21915  0.10944  1.0000

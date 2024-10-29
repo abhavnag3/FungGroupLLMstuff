@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sc7NiBr12
+_chemical_formula_sum              "Sc7 Ni1 Br12"
+_cell_length_a       8.74674
+_cell_length_b       8.74674
+_cell_length_c       8.74674
+_cell_angle_alpha    107.397
+_cell_angle_beta     107.397
+_cell_angle_gamma    107.397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.50000  0.50000  0.50000  1.0000
+  Sc  Sc2       1.0  0.10064  0.02943  0.30564  1.0000
+  Sc  Sc3       1.0  0.02943  0.30564  0.10064  1.0000
+  Sc  Sc4       1.0  0.30564  0.10064  0.02943  1.0000
+  Sc  Sc5       1.0  0.89935  0.97057  0.69436  1.0000
+  Sc  Sc6       1.0  0.97057  0.69436  0.89935  1.0000
+  Sc  Sc7       1.0  0.69436  0.89935  0.97057  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  Br  Br1       1.0  0.07394  0.68338  0.22051  1.0000
+  Br  Br2       1.0  0.68338  0.22051  0.07394  1.0000
+  Br  Br3       1.0  0.22051  0.07394  0.68338  1.0000
+  Br  Br4       1.0  0.92606  0.31662  0.77949  1.0000
+  Br  Br5       1.0  0.31662  0.77949  0.92606  1.0000
+  Br  Br6       1.0  0.77949  0.92606  0.31662  1.0000
+  Br  Br7       1.0  0.45975  0.15800  0.38475  1.0000
+  Br  Br8       1.0  0.15800  0.38475  0.45975  1.0000
+  Br  Br9       1.0  0.38475  0.45975  0.15800  1.0000
+  Br  Br10      1.0  0.54025  0.84200  0.61525  1.0000
+  Br  Br11      1.0  0.84200  0.61525  0.54025  1.0000
+  Br  Br12      1.0  0.61525  0.54025  0.84200  1.0000

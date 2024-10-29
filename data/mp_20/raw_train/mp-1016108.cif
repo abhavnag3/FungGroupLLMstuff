@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti4Zn4N8
+_chemical_formula_sum              "Ti4 Zn4 N8"
+_cell_length_a       5.2481
+_cell_length_b       5.70014
+_cell_length_c       6.5819
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.99620  0.08303  0.37426  1.0000
+  Ti  Ti2       1.0  0.49620  0.91697  0.62574  1.0000
+  Ti  Ti3       1.0  0.49620  0.41697  0.87426  1.0000
+  Ti  Ti4       1.0  0.99620  0.58303  0.12574  1.0000
+  Zn  Zn1       1.0  0.99709  0.08726  0.87612  1.0000
+  Zn  Zn2       1.0  0.49709  0.91274  0.12388  1.0000
+  Zn  Zn3       1.0  0.49709  0.41274  0.37612  1.0000
+  Zn  Zn4       1.0  0.99709  0.58726  0.62388  1.0000
+  N   N1        1.0  0.36516  0.06988  0.38599  1.0000
+  N   N2        1.0  0.86516  0.93012  0.61401  1.0000
+  N   N3        1.0  0.86516  0.43012  0.88599  1.0000
+  N   N4        1.0  0.36516  0.56988  0.11401  1.0000
+  N   N5        1.0  0.39155  0.09034  0.86432  1.0000
+  N   N6        1.0  0.89155  0.90966  0.13568  1.0000
+  N   N7        1.0  0.89155  0.40966  0.36432  1.0000
+  N   N8        1.0  0.39155  0.59034  0.63568  1.0000

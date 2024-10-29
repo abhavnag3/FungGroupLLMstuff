@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       NiTe8Mo6
+_chemical_formula_sum              "Ni1 Te8 Mo6"
+_cell_length_a       7.15493
+_cell_length_b       7.1831
+_cell_length_c       7.23751
+_cell_angle_alpha    91.223
+_cell_angle_beta     95.4604
+_cell_angle_gamma    90.0477
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.82793  0.93167  0.50722  1.0000
+  Te  Te1       1.0  0.79247  0.77351  0.80591  1.0000
+  Te  Te2       1.0  0.20503  0.22873  0.21085  1.0000
+  Te  Te3       1.0  0.90259  0.25590  0.63766  1.0000
+  Te  Te4       1.0  0.10603  0.75084  0.37447  1.0000
+  Te  Te5       1.0  0.26937  0.62647  0.86673  1.0000
+  Te  Te6       1.0  0.73140  0.37348  0.12920  1.0000
+  Te  Te7       1.0  0.58788  0.88701  0.24363  1.0000
+  Te  Te8       1.0  0.38874  0.11949  0.73933  1.0000
+  Mo  Mo1       1.0  0.59046  0.44362  0.74744  1.0000
+  Mo  Mo2       1.0  0.41398  0.54669  0.24633  1.0000
+  Mo  Mo3       1.0  0.75651  0.57096  0.45767  1.0000
+  Mo  Mo4       1.0  0.24812  0.42351  0.54181  1.0000
+  Mo  Mo5       1.0  0.45988  0.76029  0.57697  1.0000
+  Mo  Mo6       1.0  0.54779  0.24330  0.42320  1.0000

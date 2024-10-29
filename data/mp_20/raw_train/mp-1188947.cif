@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Nd6In10
+_chemical_formula_sum              "Nd6 In10"
+_cell_length_a       6.60093
+_cell_length_b       6.60093
+_cell_length_c       10.5909
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    101.857
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.63224  0.63224  0.25000  1.0000
+  Nd  Nd2       1.0  0.36775  0.36775  0.75000  1.0000
+  Nd  Nd3       1.0  0.20257  0.79743  0.50000  1.0000
+  Nd  Nd4       1.0  0.20257  0.79743  0.00000  1.0000
+  Nd  Nd5       1.0  0.79743  0.20257  0.50000  1.0000
+  Nd  Nd6       1.0  0.79743  0.20257  0.00000  1.0000
+  In  In1       1.0  0.01334  0.01334  0.25000  1.0000
+  In  In2       1.0  0.98666  0.98666  0.75000  1.0000
+  In  In3       1.0  0.30881  0.30881  0.04952  1.0000
+  In  In4       1.0  0.69119  0.69119  0.95048  1.0000
+  In  In5       1.0  0.30881  0.30881  0.45048  1.0000
+  In  In6       1.0  0.69119  0.69119  0.54952  1.0000
+  In  In7       1.0  0.50267  0.07447  0.25000  1.0000
+  In  In8       1.0  0.92553  0.49734  0.75000  1.0000
+  In  In9       1.0  0.49734  0.92553  0.75000  1.0000
+  In  In10      1.0  0.07447  0.50267  0.25000  1.0000

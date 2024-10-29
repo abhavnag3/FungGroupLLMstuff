@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ho6Pd8
+_chemical_formula_sum              "Ho6 Pd8"
+_cell_length_a       7.85076
+_cell_length_b       7.85076
+_cell_length_c       7.85076
+_cell_angle_alpha    114.291
+_cell_angle_beta     114.291
+_cell_angle_gamma    114.291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.97466  0.59601  0.72229  1.0000
+  Ho  Ho2       1.0  0.72229  0.97466  0.59601  1.0000
+  Ho  Ho3       1.0  0.59601  0.72229  0.97466  1.0000
+  Ho  Ho4       1.0  0.02534  0.40399  0.27771  1.0000
+  Ho  Ho5       1.0  0.27771  0.02534  0.40399  1.0000
+  Ho  Ho6       1.0  0.40399  0.27771  0.02534  1.0000
+  Pd  Pd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pd  Pd2       1.0  0.50000  0.50000  0.50000  1.0000
+  Pd  Pd3       1.0  0.93746  0.77310  0.44834  1.0000
+  Pd  Pd4       1.0  0.44834  0.93746  0.77310  1.0000
+  Pd  Pd5       1.0  0.77310  0.44834  0.93746  1.0000
+  Pd  Pd6       1.0  0.06253  0.22690  0.55166  1.0000
+  Pd  Pd7       1.0  0.55166  0.06254  0.22690  1.0000
+  Pd  Pd8       1.0  0.22690  0.55166  0.06253  1.0000

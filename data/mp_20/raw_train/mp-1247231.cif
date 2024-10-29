@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Lu3Mg2TiS8
+_chemical_formula_sum              "Lu3 Mg2 Ti1 S8"
+_cell_length_a       7.71434
+_cell_length_b       7.62491
+_cell_length_c       7.71378
+_cell_angle_alpha    59.613
+_cell_angle_beta     60.0016
+_cell_angle_gamma    59.6196
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.50001  0.50001  0.49998  1.0000
+  Lu  Lu2       1.0  0.50000  0.49999  0.00000  1.0000
+  Lu  Lu3       1.0  0.99999  0.50000  0.50001  1.0000
+  Mg  Mg1       1.0  0.87517  0.87444  0.87524  1.0000
+  Mg  Mg2       1.0  0.12482  0.12557  0.12478  1.0000
+  Ti  Ti1       1.0  0.50001  0.00000  0.49999  1.0000
+  S   S1        1.0  0.73527  0.75828  0.73543  1.0000
+  S   S2        1.0  0.26473  0.24174  0.72896  1.0000
+  S   S3        1.0  0.25571  0.73251  0.25588  1.0000
+  S   S4        1.0  0.72903  0.24164  0.26466  1.0000
+  S   S5        1.0  0.74428  0.26749  0.74411  1.0000
+  S   S6        1.0  0.27098  0.75835  0.73534  1.0000
+  S   S7        1.0  0.26474  0.24170  0.26459  1.0000
+  S   S8        1.0  0.73528  0.75828  0.27104  1.0000

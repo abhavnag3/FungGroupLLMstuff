@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Mn4Al4
+_chemical_formula_sum              "Zr4 Mn4 Al4"
+_cell_length_a       5.14539
+_cell_length_b       5.24881
+_cell_length_c       8.45426
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.67
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.66800  0.33401  0.55684  1.0000
+  Zr  Zr2       1.0  0.33660  0.66830  0.42890  1.0000
+  Zr  Zr3       1.0  0.33660  0.66830  0.07110  1.0000
+  Zr  Zr4       1.0  0.66800  0.33401  0.94316  1.0000
+  Mn  Mn1       1.0  0.66444  0.83221  0.75000  1.0000
+  Mn  Mn2       1.0  0.82298  0.65058  0.25000  1.0000
+  Mn  Mn3       1.0  0.82298  0.17237  0.25000  1.0000
+  Mn  Mn4       1.0  0.34777  0.17390  0.25000  1.0000
+  Al  Al1       1.0  0.99233  0.99617  0.49109  1.0000
+  Al  Al2       1.0  0.99233  0.99617  0.00891  1.0000
+  Al  Al3       1.0  0.17398  0.34302  0.75000  1.0000
+  Al  Al4       1.0  0.17399  0.83097  0.75000  1.0000

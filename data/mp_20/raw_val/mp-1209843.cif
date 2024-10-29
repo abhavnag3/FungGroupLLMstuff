@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nd4Al4Rh4
+_chemical_formula_sum              "Nd4 Al4 Rh4"
+_cell_length_a       4.29635
+_cell_length_b       7.08864
+_cell_length_c       8.09311
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.25000  0.53408  0.18037  1.0000
+  Nd  Nd2       1.0  0.75000  0.46592  0.81963  1.0000
+  Nd  Nd3       1.0  0.75000  0.96592  0.68037  1.0000
+  Nd  Nd4       1.0  0.25000  0.03408  0.31963  1.0000
+  Al  Al1       1.0  0.25000  0.63613  0.56151  1.0000
+  Al  Al2       1.0  0.75000  0.36387  0.43850  1.0000
+  Al  Al3       1.0  0.75000  0.86387  0.06150  1.0000
+  Al  Al4       1.0  0.25000  0.13613  0.93849  1.0000
+  Rh  Rh1       1.0  0.25000  0.77252  0.88313  1.0000
+  Rh  Rh2       1.0  0.75000  0.22748  0.11687  1.0000
+  Rh  Rh3       1.0  0.75000  0.72748  0.38313  1.0000
+  Rh  Rh4       1.0  0.25000  0.27252  0.61687  1.0000

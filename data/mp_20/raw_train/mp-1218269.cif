@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       SrLa3Cu4O10
+_chemical_formula_sum              "Sr1 La3 Cu4 O10"
+_cell_length_a       3.90308
+_cell_length_b       5.48735
+_cell_length_c       10.6279
+_cell_angle_alpha    89.8541
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.50000  0.19777  0.13830  1.0000
+  La  La1       1.0  0.50000  0.80645  0.86583  1.0000
+  La  La2       1.0  0.50000  0.68981  0.35629  1.0000
+  La  La3       1.0  0.50000  0.30704  0.63871  1.0000
+  Cu  Cu1       1.0  0.00000  0.21077  0.39233  1.0000
+  Cu  Cu2       1.0  0.00000  0.79073  0.60567  1.0000
+  Cu  Cu3       1.0  0.00000  0.71178  0.10869  1.0000
+  Cu  Cu4       1.0  0.00000  0.28988  0.89378  1.0000
+  O   O1        1.0  0.50000  0.21339  0.40194  1.0000
+  O   O2        1.0  0.50000  0.78516  0.60328  1.0000
+  O   O3        1.0  0.50000  0.70976  0.10158  1.0000
+  O   O4        1.0  0.50000  0.28843  0.88823  1.0000
+  O   O5        1.0  0.00000  0.49741  0.50211  1.0000
+  O   O6        1.0  0.00000  0.98540  0.99044  1.0000
+  O   O7        1.0  0.00000  0.45245  0.22639  1.0000
+  O   O8        1.0  0.00000  0.56529  0.78499  1.0000
+  O   O9        1.0  0.00000  0.93205  0.28950  1.0000
+  O   O10       1.0  0.00000  0.06642  0.71195  1.0000

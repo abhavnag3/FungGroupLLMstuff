@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cs2Ho2Co2Se6
+_chemical_formula_sum              "Cs2 Ho2 Co2 Se6"
+_cell_length_a       8.38403
+_cell_length_b       8.38403
+_cell_length_c       10.8633
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    151.637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.25964  0.74036  0.75000  1.0000
+  Cs  Cs2       1.0  0.74036  0.25964  0.25000  1.0000
+  Ho  Ho1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ho  Ho2       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co1       1.0  0.46616  0.53384  0.25000  1.0000
+  Co  Co2       1.0  0.53384  0.46616  0.75000  1.0000
+  Se  Se1       1.0  0.94711  0.05289  0.75000  1.0000
+  Se  Se2       1.0  0.05289  0.94711  0.25000  1.0000
+  Se  Se3       1.0  0.61431  0.38569  0.93481  1.0000
+  Se  Se4       1.0  0.38569  0.61431  0.06519  1.0000
+  Se  Se5       1.0  0.38569  0.61431  0.43481  1.0000
+  Se  Se6       1.0  0.61431  0.38569  0.56519  1.0000

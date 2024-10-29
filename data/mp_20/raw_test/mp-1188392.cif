@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4In4S8
+_chemical_formula_sum              "Li4 In4 S8"
+_cell_length_a       6.55523
+_cell_length_b       7.01609
+_cell_length_c       8.1555
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.57083  0.58897  0.11647  1.0000
+  Li  Li2       1.0  0.07083  0.41103  0.88353  1.0000
+  Li  Li3       1.0  0.07083  0.91103  0.61647  1.0000
+  Li  Li4       1.0  0.57083  0.08897  0.38353  1.0000
+  In  In1       1.0  0.06275  0.91874  0.12431  1.0000
+  In  In2       1.0  0.56275  0.08126  0.87569  1.0000
+  In  In3       1.0  0.56275  0.58126  0.62431  1.0000
+  In  In4       1.0  0.06275  0.41874  0.37569  1.0000
+  S   S1        1.0  0.19238  0.08468  0.37456  1.0000
+  S   S2        1.0  0.69238  0.91533  0.62544  1.0000
+  S   S3        1.0  0.69238  0.41532  0.87456  1.0000
+  S   S4        1.0  0.19238  0.58467  0.12544  1.0000
+  S   S5        1.0  0.68124  0.92162  0.13138  1.0000
+  S   S6        1.0  0.18124  0.07838  0.86862  1.0000
+  S   S7        1.0  0.18124  0.57838  0.63138  1.0000
+  S   S8        1.0  0.68124  0.42162  0.36862  1.0000

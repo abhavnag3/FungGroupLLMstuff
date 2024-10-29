@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ti8Sn12
+_chemical_formula_sum              "Ti8 Sn12"
+_cell_length_a       10.4879
+_cell_length_b       10.4879
+_cell_length_c       7.05846
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.08081  0.91919  0.95195  1.0000
+  Ti  Ti2       1.0  0.58670  0.91330  0.75000  1.0000
+  Ti  Ti3       1.0  0.91330  0.58670  0.25000  1.0000
+  Ti  Ti4       1.0  0.41330  0.08670  0.25000  1.0000
+  Ti  Ti5       1.0  0.58081  0.41919  0.54805  1.0000
+  Ti  Ti6       1.0  0.08670  0.41330  0.75000  1.0000
+  Ti  Ti7       1.0  0.91919  0.08081  0.04805  1.0000
+  Ti  Ti8       1.0  0.41919  0.58081  0.45195  1.0000
+  Sn  Sn1       1.0  0.22460  0.77539  0.92705  1.0000
+  Sn  Sn2       1.0  0.87797  0.12203  0.42595  1.0000
+  Sn  Sn3       1.0  0.72461  0.27540  0.57295  1.0000
+  Sn  Sn4       1.0  0.27540  0.72460  0.42705  1.0000
+  Sn  Sn5       1.0  0.77070  0.72930  0.25000  1.0000
+  Sn  Sn6       1.0  0.12203  0.87797  0.57405  1.0000
+  Sn  Sn7       1.0  0.37797  0.62203  0.07405  1.0000
+  Sn  Sn8       1.0  0.72930  0.77069  0.75000  1.0000
+  Sn  Sn9       1.0  0.77539  0.22460  0.07295  1.0000
+  Sn  Sn10      1.0  0.27070  0.22931  0.25000  1.0000
+  Sn  Sn11      1.0  0.22931  0.27070  0.75000  1.0000
+  Sn  Sn12      1.0  0.62203  0.37797  0.92595  1.0000

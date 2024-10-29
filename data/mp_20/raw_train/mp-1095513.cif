@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr4Cd4Au4
+_chemical_formula_sum              "Sr4 Cd4 Au4"
+_cell_length_a       4.56985
+_cell_length_b       7.91869
+_cell_length_c       9.02089
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25000  0.03383  0.31568  1.0000
+  Sr  Sr2       1.0  0.25000  0.53383  0.18432  1.0000
+  Sr  Sr3       1.0  0.75000  0.96617  0.68432  1.0000
+  Sr  Sr4       1.0  0.75000  0.46617  0.81568  1.0000
+  Cd  Cd1       1.0  0.25000  0.14538  0.93638  1.0000
+  Cd  Cd2       1.0  0.25000  0.64538  0.56362  1.0000
+  Cd  Cd3       1.0  0.75000  0.85462  0.06362  1.0000
+  Cd  Cd4       1.0  0.75000  0.35462  0.43638  1.0000
+  Au  Au1       1.0  0.25000  0.26436  0.62404  1.0000
+  Au  Au2       1.0  0.25000  0.76436  0.87596  1.0000
+  Au  Au3       1.0  0.75000  0.73564  0.37596  1.0000
+  Au  Au4       1.0  0.75000  0.23564  0.12404  1.0000

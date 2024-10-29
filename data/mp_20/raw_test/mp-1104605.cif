@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Nd10Ir4
+_chemical_formula_sum              "Nd10 Ir4"
+_cell_length_a       8.97897
+_cell_length_b       8.97897
+_cell_length_c       7.34978
+_cell_angle_alpha    83.4697
+_cell_angle_beta     83.4697
+_cell_angle_gamma    43.8527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.01803  0.79651  0.91973  1.0000
+  Nd  Nd2       1.0  0.20349  0.98197  0.58027  1.0000
+  Nd  Nd3       1.0  0.98197  0.20349  0.08027  1.0000
+  Nd  Nd4       1.0  0.79651  0.01803  0.41973  1.0000
+  Nd  Nd5       1.0  0.34974  0.21506  0.81573  1.0000
+  Nd  Nd6       1.0  0.78494  0.65026  0.68427  1.0000
+  Nd  Nd7       1.0  0.65026  0.78494  0.18427  1.0000
+  Nd  Nd8       1.0  0.21506  0.34974  0.31572  1.0000
+  Nd  Nd9       1.0  0.56713  0.43287  0.75000  1.0000
+  Nd  Nd10      1.0  0.43287  0.56713  0.25000  1.0000
+  Ir  Ir1       1.0  0.17898  0.59821  0.57392  1.0000
+  Ir  Ir2       1.0  0.40179  0.82102  0.92608  1.0000
+  Ir  Ir3       1.0  0.82102  0.40179  0.42608  1.0000
+  Ir  Ir4       1.0  0.59821  0.17898  0.07392  1.0000

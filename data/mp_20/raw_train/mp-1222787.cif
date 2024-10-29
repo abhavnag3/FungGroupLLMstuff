@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       La2Ti2Nb2O12
+_chemical_formula_sum              "La2 Ti2 Nb2 O12"
+_cell_length_a       7.19785
+_cell_length_b       7.19785
+_cell_length_c       5.32186
+_cell_angle_alpha    70.5382
+_cell_angle_beta     70.5382
+_cell_angle_gamma    76.8538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.18913  0.81087  0.50000  1.0000
+  La  La2       1.0  0.81157  0.18843  0.00000  1.0000
+  Ti  Ti1       1.0  0.65114  0.81654  0.79987  1.0000
+  Ti  Ti2       1.0  0.18346  0.34886  0.20013  1.0000
+  Nb  Nb1       1.0  0.35049  0.18858  0.69575  1.0000
+  Nb  Nb2       1.0  0.81142  0.64951  0.30425  1.0000
+  O   O1        1.0  0.89856  0.82145  0.90096  1.0000
+  O   O2        1.0  0.17855  0.10144  0.09904  1.0000
+  O   O3        1.0  0.09993  0.17990  0.59551  1.0000
+  O   O4        1.0  0.82010  0.90007  0.40449  1.0000
+  O   O5        1.0  0.55609  0.72222  0.20965  1.0000
+  O   O6        1.0  0.27778  0.44391  0.79035  1.0000
+  O   O7        1.0  0.44077  0.28003  0.28251  1.0000
+  O   O8        1.0  0.71997  0.55923  0.71749  1.0000
+  O   O9        1.0  0.11510  0.59671  0.27840  1.0000
+  O   O10       1.0  0.40329  0.88490  0.72160  1.0000
+  O   O11       1.0  0.88795  0.39530  0.22217  1.0000
+  O   O12       1.0  0.60470  0.11206  0.77783  1.0000

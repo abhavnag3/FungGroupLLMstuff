@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb4Ge3Au5
+_chemical_formula_sum              "Yb4 Ge3 Au5"
+_cell_length_a       5.81275
+_cell_length_b       5.81275
+_cell_length_c       10.6494
+_cell_angle_alpha    84.5732
+_cell_angle_beta     84.5732
+_cell_angle_gamma    45.9476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.68428  0.68428  0.68852  1.0000
+  Yb  Yb2       1.0  0.18693  0.18693  0.18130  1.0000
+  Yb  Yb3       1.0  0.39388  0.39387  0.90018  1.0000
+  Yb  Yb4       1.0  0.89485  0.89485  0.39716  1.0000
+  Ge  Ge1       1.0  0.17625  0.17625  0.48754  1.0000
+  Ge  Ge2       1.0  0.98552  0.98552  0.66942  1.0000
+  Ge  Ge3       1.0  0.48469  0.48469  0.18564  1.0000
+  Au  Au1       1.0  0.68463  0.68463  0.98990  1.0000
+  Au  Au2       1.0  0.38468  0.38468  0.60608  1.0000
+  Au  Au3       1.0  0.90318  0.90318  0.11240  1.0000
+  Au  Au4       1.0  0.09626  0.09626  0.87629  1.0000
+  Au  Au5       1.0  0.60605  0.60605  0.38677  1.0000

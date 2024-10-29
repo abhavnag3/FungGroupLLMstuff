@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho4Ga4Pt4
+_chemical_formula_sum              "Ho4 Ga4 Pt4"
+_cell_length_a       4.45683
+_cell_length_b       6.88037
+_cell_length_c       7.64251
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.25000  0.01490  0.79848  1.0000
+  Ho  Ho2       1.0  0.25000  0.51489  0.70152  1.0000
+  Ho  Ho3       1.0  0.75000  0.98511  0.20152  1.0000
+  Ho  Ho4       1.0  0.75000  0.48511  0.29848  1.0000
+  Ga  Ga1       1.0  0.25000  0.18324  0.42166  1.0000
+  Ga  Ga2       1.0  0.25000  0.68324  0.07834  1.0000
+  Ga  Ga3       1.0  0.75000  0.81676  0.57834  1.0000
+  Ga  Ga4       1.0  0.75000  0.31676  0.92166  1.0000
+  Pt  Pt1       1.0  0.25000  0.78511  0.40637  1.0000
+  Pt  Pt2       1.0  0.25000  0.28511  0.09362  1.0000
+  Pt  Pt3       1.0  0.75000  0.21489  0.59362  1.0000
+  Pt  Pt4       1.0  0.75000  0.71489  0.90638  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       La12Os4
+_chemical_formula_sum              "La12 Os4"
+_cell_length_a       6.61813
+_cell_length_b       7.49141
+_cell_length_c       10.1166
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.32612  0.67025  0.07025  1.0000
+  La  La2       1.0  0.17388  0.17025  0.42975  1.0000
+  La  La3       1.0  0.67388  0.32975  0.57025  1.0000
+  La  La4       1.0  0.82612  0.82975  0.92975  1.0000
+  La  La5       1.0  0.67388  0.32975  0.92975  1.0000
+  La  La6       1.0  0.82612  0.82975  0.57025  1.0000
+  La  La7       1.0  0.32612  0.67025  0.42975  1.0000
+  La  La8       1.0  0.17388  0.17025  0.07025  1.0000
+  La  La9       1.0  0.84839  0.54452  0.25000  1.0000
+  La  La10      1.0  0.65161  0.04452  0.25000  1.0000
+  La  La11      1.0  0.15161  0.45548  0.75000  1.0000
+  La  La12      1.0  0.34839  0.95548  0.75000  1.0000
+  Os  Os1       1.0  0.05292  0.88098  0.25000  1.0000
+  Os  Os2       1.0  0.44708  0.38098  0.25000  1.0000
+  Os  Os3       1.0  0.94708  0.11902  0.75000  1.0000
+  Os  Os4       1.0  0.55292  0.61902  0.75000  1.0000

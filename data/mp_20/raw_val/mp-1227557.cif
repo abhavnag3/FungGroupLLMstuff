@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Bi2Te4Pb4Au2S6
+_chemical_formula_sum              "Bi2 Te4 Pb4 Au2 S6"
+_cell_length_a       4.18142
+_cell_length_b       9.66655
+_cell_length_c       12.2989
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.25000  0.33526  0.42151  1.0000
+  Bi  Bi2       1.0  0.75000  0.66474  0.92151  1.0000
+  Te  Te1       1.0  0.75000  0.99163  0.39453  1.0000
+  Te  Te2       1.0  0.75000  0.99153  0.10447  1.0000
+  Te  Te3       1.0  0.25000  0.00847  0.60447  1.0000
+  Te  Te4       1.0  0.25000  0.00837  0.89453  1.0000
+  Pb  Pb1       1.0  0.25000  0.31923  0.07860  1.0000
+  Pb  Pb2       1.0  0.75000  0.68077  0.57861  1.0000
+  Pb  Pb3       1.0  0.75000  0.65425  0.25057  1.0000
+  Pb  Pb4       1.0  0.25000  0.34575  0.75057  1.0000
+  Au  Au1       1.0  0.25000  0.99678  0.24967  1.0000
+  Au  Au2       1.0  0.75000  0.00322  0.74967  1.0000
+  S   S1        1.0  0.75000  0.36401  0.25961  1.0000
+  S   S2        1.0  0.25000  0.63599  0.75961  1.0000
+  S   S3        1.0  0.75000  0.38298  0.57499  1.0000
+  S   S4        1.0  0.75000  0.38988  0.91604  1.0000
+  S   S5        1.0  0.25000  0.61012  0.41604  1.0000
+  S   S6        1.0  0.25000  0.61702  0.07499  1.0000

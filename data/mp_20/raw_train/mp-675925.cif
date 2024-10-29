@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ce4Pb2S8
+_chemical_formula_sum              "Ce4 Pb2 S8"
+_cell_length_a       7.55003
+_cell_length_b       7.55003
+_cell_length_c       7.55003
+_cell_angle_alpha    109.535
+_cell_angle_beta     109.535
+_cell_angle_gamma    109.344
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.87500  0.49274  0.11774  1.0000
+  Ce  Ce2       1.0  0.37500  0.75726  0.88226  1.0000
+  Ce  Ce3       1.0  0.24274  0.12500  0.61774  1.0000
+  Ce  Ce4       1.0  0.50726  0.62500  0.38226  1.0000
+  Pb  Pb1       1.0  0.75000  0.25000  0.50000  1.0000
+  Pb  Pb2       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.61191  0.01699  0.74744  1.0000
+  S   S2        1.0  0.76699  0.86191  0.24744  1.0000
+  S   S3        1.0  0.98301  0.73045  0.59492  1.0000
+  S   S4        1.0  0.26956  0.86447  0.25256  1.0000
+  S   S5        1.0  0.13809  0.38553  0.90508  1.0000
+  S   S6        1.0  0.13553  0.38809  0.40508  1.0000
+  S   S7        1.0  0.48045  0.23301  0.09492  1.0000
+  S   S8        1.0  0.61447  0.51955  0.75256  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cs6Ho2O6
+_chemical_formula_sum              "Cs6 Ho2 O6"
+_cell_length_a       7.61533
+_cell_length_b       7.61533
+_cell_length_c       7.61882
+_cell_angle_alpha    84.0304
+_cell_angle_beta     84.0304
+_cell_angle_gamma    115.871
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.63864  0.63864  0.65145  1.0000
+  Cs  Cs2       1.0  0.79502  0.20498  0.50000  1.0000
+  Cs  Cs3       1.0  0.20498  0.79502  0.50000  1.0000
+  Cs  Cs4       1.0  0.73777  0.26223  0.00000  1.0000
+  Cs  Cs5       1.0  0.26223  0.73777  0.00000  1.0000
+  Cs  Cs6       1.0  0.36136  0.36136  0.34855  1.0000
+  Ho  Ho1       1.0  0.82738  0.82738  0.14883  1.0000
+  Ho  Ho2       1.0  0.17262  0.17262  0.85117  1.0000
+  O   O1        1.0  0.90226  0.90226  0.85415  1.0000
+  O   O2        1.0  0.83560  0.56554  0.26509  1.0000
+  O   O3        1.0  0.56554  0.83560  0.26509  1.0000
+  O   O4        1.0  0.43446  0.16440  0.73491  1.0000
+  O   O5        1.0  0.16440  0.43446  0.73491  1.0000
+  O   O6        1.0  0.09774  0.09774  0.14585  1.0000

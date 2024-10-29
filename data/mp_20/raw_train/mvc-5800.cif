@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg4Ni2Ir2O12
+_chemical_formula_sum              "Mg4 Ni2 Ir2 O12"
+_cell_length_a       5.32234
+_cell_length_b       5.10961
+_cell_length_c       9.10403
+_cell_angle_alpha    55.9046
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.93582  0.23551  0.75147  1.0000
+  Mg  Mg2       1.0  0.43582  0.76449  0.74853  1.0000
+  Mg  Mg3       1.0  0.56418  0.23551  0.25146  1.0000
+  Mg  Mg4       1.0  0.06418  0.76449  0.24854  1.0000
+  Ni  Ni1       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ir  Ir1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ir  Ir2       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.43171  0.60442  0.25829  1.0000
+  O   O2        1.0  0.18108  0.88215  0.92985  1.0000
+  O   O3        1.0  0.19134  0.25213  0.57546  1.0000
+  O   O4        1.0  0.69134  0.74787  0.92455  1.0000
+  O   O5        1.0  0.68108  0.11785  0.57015  1.0000
+  O   O6        1.0  0.93171  0.39558  0.24171  1.0000
+  O   O7        1.0  0.06829  0.60442  0.75829  1.0000
+  O   O8        1.0  0.31892  0.88215  0.42985  1.0000
+  O   O9        1.0  0.30866  0.25213  0.07545  1.0000
+  O   O10       1.0  0.81892  0.11785  0.07015  1.0000
+  O   O11       1.0  0.80866  0.74787  0.42455  1.0000
+  O   O12       1.0  0.56829  0.39558  0.74171  1.0000

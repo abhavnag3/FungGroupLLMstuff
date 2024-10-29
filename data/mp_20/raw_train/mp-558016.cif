@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ca2Mg2As2O8F2
+_chemical_formula_sum              "Ca2 Mg2 As2 O8 F2"
+_cell_length_a       5.66172
+_cell_length_b       5.66172
+_cell_length_c       7.20674
+_cell_angle_alpha    76.1393
+_cell_angle_beta     76.1393
+_cell_angle_gamma    106.192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.83539  0.17024  0.24243  1.0000
+  Ca  Ca2       1.0  0.17024  0.83539  0.74243  1.0000
+  Mg  Mg1       1.0  0.50298  0.50465  0.00047  1.0000
+  Mg  Mg2       1.0  0.50465  0.50298  0.50047  1.0000
+  As  As1       1.0  0.82384  0.18189  0.74938  1.0000
+  As  As2       1.0  0.18189  0.82384  0.24938  1.0000
+  O   O1        1.0  0.24379  0.12205  0.07812  1.0000
+  O   O2        1.0  0.60292  0.17455  0.62027  1.0000
+  O   O3        1.0  0.83084  0.40280  0.87919  1.0000
+  O   O4        1.0  0.76465  0.88593  0.92280  1.0000
+  O   O5        1.0  0.17455  0.60292  0.12027  1.0000
+  O   O6        1.0  0.40280  0.83084  0.37919  1.0000
+  O   O7        1.0  0.12205  0.24379  0.57812  1.0000
+  O   O8        1.0  0.88593  0.76465  0.42280  1.0000
+  F   F1        1.0  0.42292  0.58757  0.74954  1.0000
+  F   F2        1.0  0.58757  0.42292  0.24954  1.0000

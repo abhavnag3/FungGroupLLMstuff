@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Fe2Se2Br14
+_chemical_formula_sum              "Fe2 Se2 Br14"
+_cell_length_a       6.75377
+_cell_length_b       6.86173
+_cell_length_c       14.7351
+_cell_angle_alpha    78.379
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.50150  0.44640  0.14019  1.0000
+  Fe  Fe2       1.0  0.49850  0.44640  0.64019  1.0000
+  Se  Se1       1.0  0.91505  0.15337  0.30359  1.0000
+  Se  Se2       1.0  0.08495  0.15337  0.80359  1.0000
+  Br  Br1       1.0  0.15488  0.47220  0.13328  1.0000
+  Br  Br2       1.0  0.87459  0.27823  0.90741  1.0000
+  Br  Br3       1.0  0.30917  0.95849  0.91017  1.0000
+  Br  Br4       1.0  0.69083  0.95849  0.41017  1.0000
+  Br  Br5       1.0  0.38844  0.11934  0.64114  1.0000
+  Br  Br6       1.0  0.37685  0.51624  0.78106  1.0000
+  Br  Br7       1.0  0.61156  0.11934  0.14114  1.0000
+  Br  Br8       1.0  0.89127  0.89405  0.76339  1.0000
+  Br  Br9       1.0  0.64268  0.66498  0.01258  1.0000
+  Br  Br10      1.0  0.62315  0.51624  0.28106  1.0000
+  Br  Br11      1.0  0.35732  0.66498  0.51258  1.0000
+  Br  Br12      1.0  0.10873  0.89405  0.26339  1.0000
+  Br  Br13      1.0  0.12541  0.27822  0.40741  1.0000
+  Br  Br14      1.0  0.84512  0.47220  0.63328  1.0000

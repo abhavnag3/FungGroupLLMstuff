@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sm12Ir4
+_chemical_formula_sum              "Sm12 Ir4"
+_cell_length_a       6.48669
+_cell_length_b       7.32172
+_cell_length_c       9.70592
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.14082  0.03587  0.25000  1.0000
+  Sm  Sm2       1.0  0.64082  0.46414  0.75000  1.0000
+  Sm  Sm3       1.0  0.35918  0.53587  0.25000  1.0000
+  Sm  Sm4       1.0  0.85918  0.96413  0.75000  1.0000
+  Sm  Sm5       1.0  0.67220  0.17598  0.06496  1.0000
+  Sm  Sm6       1.0  0.17220  0.32402  0.93504  1.0000
+  Sm  Sm7       1.0  0.82780  0.67598  0.43504  1.0000
+  Sm  Sm8       1.0  0.32780  0.82402  0.56496  1.0000
+  Sm  Sm9       1.0  0.32780  0.82402  0.93504  1.0000
+  Sm  Sm10      1.0  0.82780  0.67598  0.06496  1.0000
+  Sm  Sm11      1.0  0.17220  0.32402  0.56496  1.0000
+  Sm  Sm12      1.0  0.67220  0.17598  0.43504  1.0000
+  Ir  Ir1       1.0  0.94303  0.38134  0.25000  1.0000
+  Ir  Ir2       1.0  0.44303  0.11865  0.75000  1.0000
+  Ir  Ir3       1.0  0.55697  0.88135  0.25000  1.0000
+  Ir  Ir4       1.0  0.05697  0.61865  0.75000  1.0000

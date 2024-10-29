@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tb6Co4Ge6
+_chemical_formula_sum              "Tb6 Co4 Ge6"
+_cell_length_a       5.67588
+_cell_length_b       5.67588
+_cell_length_c       14.0325
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    137.015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.58176  0.41824  0.39052  1.0000
+  Tb  Tb2       1.0  0.41824  0.58176  0.60948  1.0000
+  Tb  Tb3       1.0  0.58176  0.41824  0.10948  1.0000
+  Tb  Tb4       1.0  0.41824  0.58176  0.89052  1.0000
+  Tb  Tb5       1.0  0.85938  0.14062  0.25000  1.0000
+  Tb  Tb6       1.0  0.14062  0.85938  0.75000  1.0000
+  Co  Co1       1.0  0.28840  0.71160  0.40628  1.0000
+  Co  Co2       1.0  0.71160  0.28840  0.59372  1.0000
+  Co  Co3       1.0  0.28840  0.71160  0.09372  1.0000
+  Co  Co4       1.0  0.71160  0.28840  0.90628  1.0000
+  Ge  Ge1       1.0  0.16295  0.83705  0.25000  1.0000
+  Ge  Ge2       1.0  0.83705  0.16295  0.75000  1.0000
+  Ge  Ge3       1.0  0.87246  0.12754  0.45989  1.0000
+  Ge  Ge4       1.0  0.12754  0.87246  0.54011  1.0000
+  Ge  Ge5       1.0  0.87246  0.12754  0.04011  1.0000
+  Ge  Ge6       1.0  0.12754  0.87246  0.95989  1.0000

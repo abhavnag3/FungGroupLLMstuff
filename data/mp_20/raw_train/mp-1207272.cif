@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pr4Ge4Ru2
+_chemical_formula_sum              "Pr4 Ge4 Ru2"
+_cell_length_a       6.08579
+_cell_length_b       6.08579
+_cell_length_c       10.6497
+_cell_angle_alpha    62.6027
+_cell_angle_beta     62.6027
+_cell_angle_gamma    42.529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.00054  0.00054  0.32660  1.0000
+  Pr  Pr2       1.0  0.99946  0.99946  0.67340  1.0000
+  Pr  Pr3       1.0  0.81595  0.81595  0.10798  1.0000
+  Pr  Pr4       1.0  0.18405  0.18405  0.89202  1.0000
+  Ge  Ge1       1.0  0.65561  0.65561  0.43159  1.0000
+  Ge  Ge2       1.0  0.34439  0.34439  0.56841  1.0000
+  Ge  Ge3       1.0  0.50165  0.50165  0.12795  1.0000
+  Ge  Ge4       1.0  0.49835  0.49835  0.87205  1.0000
+  Ru  Ru1       1.0  0.72838  0.72838  0.62018  1.0000
+  Ru  Ru2       1.0  0.27162  0.27162  0.37982  1.0000

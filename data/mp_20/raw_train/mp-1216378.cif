@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       V3Cr3Si12
+_chemical_formula_sum              "V3 Cr3 Si12"
+_cell_length_a       12.6826
+_cell_length_b       4.48929
+_cell_length_c       4.49876
+_cell_angle_alpha    60.1753
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.24992  0.00000  0.50000  1.0000
+  V   V2        1.0  0.58364  0.50000  0.50000  1.0000
+  V   V3        1.0  0.08310  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.91592  0.50000  0.00000  1.0000
+  Cr  Cr2       1.0  0.41626  0.50000  0.00000  1.0000
+  Cr  Cr3       1.0  0.75119  0.00000  0.50000  1.0000
+  Si  Si1       1.0  0.91603  0.83757  0.32991  1.0000
+  Si  Si2       1.0  0.41686  0.83466  0.32762  1.0000
+  Si  Si3       1.0  0.75043  0.32996  0.83624  1.0000
+  Si  Si4       1.0  0.25073  0.32599  0.83824  1.0000
+  Si  Si5       1.0  0.58346  0.83621  0.83409  1.0000
+  Si  Si6       1.0  0.08247  0.83426  0.83940  1.0000
+  Si  Si7       1.0  0.91603  0.16243  0.67009  1.0000
+  Si  Si8       1.0  0.41686  0.16534  0.67238  1.0000
+  Si  Si9       1.0  0.75043  0.67004  0.16376  1.0000
+  Si  Si10      1.0  0.25073  0.67402  0.16176  1.0000
+  Si  Si11      1.0  0.58346  0.16379  0.16591  1.0000
+  Si  Si12      1.0  0.08247  0.16574  0.16060  1.0000

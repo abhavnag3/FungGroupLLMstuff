@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ho6Ga2S12
+_chemical_formula_sum              "Ho6 Ga2 S12"
+_cell_length_a       8.51618
+_cell_length_b       8.51618
+_cell_length_c       6.46154
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    102.504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.28475  0.08495  0.22288  1.0000
+  Ho  Ho2       1.0  0.91505  0.71525  0.22288  1.0000
+  Ho  Ho3       1.0  0.71525  0.91505  0.72288  1.0000
+  Ho  Ho4       1.0  0.08495  0.28475  0.72288  1.0000
+  Ho  Ho5       1.0  0.40163  0.59837  0.14333  1.0000
+  Ho  Ho6       1.0  0.59837  0.40163  0.64333  1.0000
+  Ga  Ga1       1.0  0.20173  0.79827  0.76041  1.0000
+  Ga  Ga2       1.0  0.79827  0.20173  0.26041  1.0000
+  S   S1        1.0  0.56652  0.10168  0.44292  1.0000
+  S   S2        1.0  0.89832  0.43348  0.44292  1.0000
+  S   S3        1.0  0.43348  0.89832  0.94292  1.0000
+  S   S4        1.0  0.10168  0.56652  0.94292  1.0000
+  S   S5        1.0  0.63570  0.68925  0.43300  1.0000
+  S   S6        1.0  0.31075  0.36430  0.43300  1.0000
+  S   S7        1.0  0.36430  0.31075  0.93300  1.0000
+  S   S8        1.0  0.68925  0.63570  0.93300  1.0000
+  S   S9        1.0  0.21764  0.78236  0.40842  1.0000
+  S   S10       1.0  0.78236  0.21764  0.90841  1.0000
+  S   S11       1.0  0.95951  0.04049  0.40526  1.0000
+  S   S12       1.0  0.04049  0.95951  0.90526  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ca4Ni3C5
+_chemical_formula_sum              "Ca4 Ni3 C5"
+_cell_length_a       5.86943
+_cell_length_b       5.86943
+_cell_length_c       9.7909
+_cell_angle_alpha    68.3885
+_cell_angle_beta     68.3885
+_cell_angle_gamma    37.4141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.10127  0.10127  0.60123  1.0000
+  Ca  Ca2       1.0  0.74422  0.74422  0.83681  1.0000
+  Ca  Ca3       1.0  0.25578  0.25578  0.16319  1.0000
+  Ca  Ca4       1.0  0.89873  0.89873  0.39877  1.0000
+  Ni  Ni1       1.0  0.54151  0.54152  0.16361  1.0000
+  Ni  Ni2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni3       1.0  0.45848  0.45848  0.83639  1.0000
+  C   C1        1.0  0.39804  0.39804  0.68900  1.0000
+  C   C2        1.0  0.50000  0.50000  0.00000  1.0000
+  C   C3        1.0  0.67292  0.67292  0.38976  1.0000
+  C   C4        1.0  0.32708  0.32708  0.61024  1.0000
+  C   C5        1.0  0.60196  0.60196  0.31100  1.0000

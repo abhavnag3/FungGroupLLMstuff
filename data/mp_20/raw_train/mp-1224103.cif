@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       In2CuTe3Br
+_chemical_formula_sum              "In2 Cu1 Te3 Br1"
+_cell_length_a       6.22517
+_cell_length_b       6.2064
+_cell_length_c       7.55744
+_cell_angle_alpha    67.0362
+_cell_angle_beta     65.7272
+_cell_angle_gamma    90.6983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.99747  0.98410  0.98929  1.0000
+  In  In2       1.0  0.73345  0.24818  0.52121  1.0000
+  Cu  Cu1       1.0  0.52736  0.52128  0.98780  1.0000
+  Te  Te1       1.0  0.90068  0.41391  0.74767  1.0000
+  Te  Te2       1.0  0.37868  0.82564  0.74170  1.0000
+  Te  Te3       1.0  0.57943  0.62015  0.27050  1.0000
+  Br  Br1       1.0  0.13293  0.13673  0.24183  1.0000

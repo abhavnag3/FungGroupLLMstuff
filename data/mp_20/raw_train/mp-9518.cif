@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Nd2Zn2P2O2
+_chemical_formula_sum              "Nd2 Zn2 P2 O2"
+_cell_length_a       10.6611
+_cell_length_b       10.6611
+_cell_length_c       10.6611
+_cell_angle_alpha    21.6378
+_cell_angle_beta     21.6378
+_cell_angle_gamma    21.6378
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.61870  0.61869  0.61869  1.0000
+  Nd  Nd2       1.0  0.38131  0.38131  0.38131  1.0000
+  Zn  Zn1       1.0  0.19612  0.19612  0.19612  1.0000
+  Zn  Zn2       1.0  0.80388  0.80388  0.80388  1.0000
+  P   P1        1.0  0.11418  0.11418  0.11418  1.0000
+  P   P2        1.0  0.88582  0.88582  0.88582  1.0000
+  O   O1        1.0  0.69493  0.69493  0.69493  1.0000
+  O   O2        1.0  0.30507  0.30507  0.30507  1.0000

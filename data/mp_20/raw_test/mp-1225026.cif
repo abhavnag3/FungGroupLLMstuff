@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Fe12B2C2
+_chemical_formula_sum              "Fe12 B2 C2"
+_cell_length_a       4.44879
+_cell_length_b       5.21218
+_cell_length_c       6.6603
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.61831  0.52287  0.00000  1.0000
+  Fe  Fe2       1.0  0.38169  0.02287  0.00000  1.0000
+  Fe  Fe3       1.0  0.90748  0.46455  0.50000  1.0000
+  Fe  Fe4       1.0  0.09252  0.96455  0.50000  1.0000
+  Fe  Fe5       1.0  0.09538  0.67906  0.80653  1.0000
+  Fe  Fe6       1.0  0.90461  0.17906  0.19347  1.0000
+  Fe  Fe7       1.0  0.41214  0.32519  0.31485  1.0000
+  Fe  Fe8       1.0  0.58786  0.82519  0.68515  1.0000
+  Fe  Fe9       1.0  0.41214  0.32519  0.68515  1.0000
+  Fe  Fe10      1.0  0.58786  0.82519  0.31485  1.0000
+  Fe  Fe11      1.0  0.09538  0.67906  0.19347  1.0000
+  Fe  Fe12      1.0  0.90461  0.17906  0.80653  1.0000
+  B   B1        1.0  0.81956  0.88146  0.00000  1.0000
+  B   B2        1.0  0.18044  0.38146  0.00000  1.0000
+  C   C1        1.0  0.68532  0.12262  0.50000  1.0000
+  C   C2        1.0  0.31468  0.62262  0.50000  1.0000

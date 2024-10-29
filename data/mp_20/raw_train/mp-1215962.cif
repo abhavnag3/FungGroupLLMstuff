@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       YbIn7Cu5
+_chemical_formula_sum              "Yb1 In7 Cu5"
+_cell_length_a       7.26278
+_cell_length_b       7.26278
+_cell_length_c       7.26278
+_cell_angle_alpha    134.544
+_cell_angle_beta     99.124
+_cell_angle_gamma    98.0463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.00278  0.00278  0.00000  1.0000
+  In  In1       1.0  0.65895  0.65895  0.00000  1.0000
+  In  In2       1.0  0.33196  0.33196  0.00000  1.0000
+  In  In3       1.0  0.32804  0.98750  0.34054  1.0000
+  In  In4       1.0  0.64695  0.98750  0.65946  1.0000
+  In  In5       1.0  0.77328  0.27328  0.50000  1.0000
+  In  In6       1.0  0.81053  0.51221  0.29832  1.0000
+  In  In7       1.0  0.21390  0.51221  0.70168  1.0000
+  Cu  Cu1       1.0  0.49438  0.49697  0.48776  1.0000
+  Cu  Cu2       1.0  0.49438  0.00661  0.99740  1.0000
+  Cu  Cu3       1.0  0.00921  0.49697  0.00260  1.0000
+  Cu  Cu4       1.0  0.00921  0.00661  0.51224  1.0000
+  Cu  Cu5       1.0  0.22644  0.72644  0.50000  1.0000

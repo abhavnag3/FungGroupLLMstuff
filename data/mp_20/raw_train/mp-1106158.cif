@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy4Ge4Pd8
+_chemical_formula_sum              "Dy4 Ge4 Pd8"
+_cell_length_a       5.64078
+_cell_length_b       7.14161
+_cell_length_c       7.36773
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.35565  0.75000  0.02403  1.0000
+  Dy  Dy2       1.0  0.14435  0.75000  0.52402  1.0000
+  Dy  Dy3       1.0  0.64435  0.25000  0.97598  1.0000
+  Dy  Dy4       1.0  0.85565  0.25000  0.47597  1.0000
+  Ge  Ge1       1.0  0.64103  0.75000  0.37903  1.0000
+  Ge  Ge2       1.0  0.85897  0.75000  0.87903  1.0000
+  Ge  Ge3       1.0  0.35897  0.25000  0.62097  1.0000
+  Ge  Ge4       1.0  0.14103  0.25000  0.12097  1.0000
+  Pd  Pd1       1.0  0.91207  0.55143  0.18326  1.0000
+  Pd  Pd2       1.0  0.58793  0.94857  0.68326  1.0000
+  Pd  Pd3       1.0  0.08793  0.05143  0.81674  1.0000
+  Pd  Pd4       1.0  0.41207  0.44857  0.31674  1.0000
+  Pd  Pd5       1.0  0.08793  0.44857  0.81674  1.0000
+  Pd  Pd6       1.0  0.41207  0.05143  0.31674  1.0000
+  Pd  Pd7       1.0  0.91207  0.94857  0.18326  1.0000
+  Pd  Pd8       1.0  0.58793  0.55143  0.68326  1.0000

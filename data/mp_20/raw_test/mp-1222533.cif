@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Li4SiGe3O10
+_chemical_formula_sum              "Li4 Si1 Ge3 O10"
+_cell_length_a       5.06452
+_cell_length_b       6.21472
+_cell_length_c       8.11903
+_cell_angle_alpha    89.5302
+_cell_angle_beta     72.2441
+_cell_angle_gamma    89.6192
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.51698  0.64469  0.89010  1.0000
+  Li  Li2       1.0  0.41540  0.35222  0.10938  1.0000
+  Li  Li3       1.0  0.02535  0.35894  0.88430  1.0000
+  Li  Li4       1.0  0.91600  0.65037  0.10005  1.0000
+  Si  Si1       1.0  0.23207  0.84451  0.70818  1.0000
+  Ge  Ge1       1.0  0.93994  0.15804  0.29178  1.0000
+  Ge  Ge2       1.0  0.72870  0.15174  0.70759  1.0000
+  Ge  Ge3       1.0  0.43910  0.84072  0.29907  1.0000
+  O   O1        1.0  0.54171  0.90454  0.73103  1.0000
+  O   O2        1.0  0.29931  0.09896  0.27211  1.0000
+  O   O3        1.0  0.05940  0.07630  0.73398  1.0000
+  O   O4        1.0  0.80089  0.89855  0.27153  1.0000
+  O   O5        1.0  0.11163  0.66493  0.85376  1.0000
+  O   O6        1.0  0.97676  0.34441  0.13045  1.0000
+  O   O7        1.0  0.61523  0.34181  0.86473  1.0000
+  O   O8        1.0  0.46891  0.65564  0.13944  1.0000
+  O   O9        1.0  0.27019  0.75342  0.51265  1.0000
+  O   O10       1.0  0.76643  0.26020  0.49989  1.0000

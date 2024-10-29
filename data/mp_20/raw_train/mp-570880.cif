@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ru4Cl12
+_chemical_formula_sum              "Ru4 Cl12"
+_cell_length_a       5.67556
+_cell_length_b       6.59305
+_cell_length_c       11.3081
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.75057  0.74479  0.00000  1.0000
+  Ru  Ru2       1.0  0.25057  0.25521  0.50000  1.0000
+  Ru  Ru3       1.0  0.24943  0.74479  0.00000  1.0000
+  Ru  Ru4       1.0  0.74943  0.25521  0.50000  1.0000
+  Cl  Cl1       1.0  0.50000  0.54421  0.50000  1.0000
+  Cl  Cl2       1.0  0.00000  0.39914  0.35476  1.0000
+  Cl  Cl3       1.0  0.50000  0.03290  0.00000  1.0000
+  Cl  Cl4       1.0  0.00000  0.88905  0.14579  1.0000
+  Cl  Cl5       1.0  0.00000  0.39914  0.64524  1.0000
+  Cl  Cl6       1.0  0.00000  0.88905  0.85421  1.0000
+  Cl  Cl7       1.0  0.50000  0.60086  0.14524  1.0000
+  Cl  Cl8       1.0  0.50000  0.11095  0.64579  1.0000
+  Cl  Cl9       1.0  0.00000  0.45579  0.00000  1.0000
+  Cl  Cl10      1.0  0.00000  0.96710  0.50000  1.0000
+  Cl  Cl11      1.0  0.50000  0.60086  0.85476  1.0000
+  Cl  Cl12      1.0  0.50000  0.11095  0.35421  1.0000

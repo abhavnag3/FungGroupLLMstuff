@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       K2ZrB2O6
+_chemical_formula_sum              "K2 Zr1 B2 O6"
+_cell_length_a       6.73869
+_cell_length_b       6.73869
+_cell_length_c       6.73869
+_cell_angle_alpha    46.7968
+_cell_angle_beta     46.7968
+_cell_angle_gamma    46.7968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.78958  0.78958  0.78958  1.0000
+  K   K2        1.0  0.21042  0.21042  0.21042  1.0000
+  Zr  Zr1       1.0  0.00000  0.00000  0.00000  1.0000
+  B   B1        1.0  0.59730  0.59730  0.59730  1.0000
+  B   B2        1.0  0.40270  0.40270  0.40270  1.0000
+  O   O1        1.0  0.29733  0.74624  0.74624  1.0000
+  O   O2        1.0  0.25376  0.25376  0.70267  1.0000
+  O   O3        1.0  0.25376  0.70267  0.25376  1.0000
+  O   O4        1.0  0.70267  0.25376  0.25376  1.0000
+  O   O5        1.0  0.74624  0.74624  0.29733  1.0000
+  O   O6        1.0  0.74624  0.29733  0.74624  1.0000

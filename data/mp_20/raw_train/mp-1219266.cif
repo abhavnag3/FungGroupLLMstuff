@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si4Ni2Pd2
+_chemical_formula_sum              "Si4 Ni2 Pd2"
+_cell_length_a       3.41687
+_cell_length_b       5.4288
+_cell_length_c       5.90946
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.50000  0.32391  0.69286  1.0000
+  Si  Si2       1.0  0.50000  0.82391  0.30714  1.0000
+  Si  Si3       1.0  0.00000  0.67879  0.84859  1.0000
+  Si  Si4       1.0  0.00000  0.17879  0.15141  1.0000
+  Ni  Ni1       1.0  0.50000  0.49293  0.05419  1.0000
+  Ni  Ni2       1.0  0.50000  0.99293  0.94581  1.0000
+  Pd  Pd1       1.0  0.00000  0.50436  0.43186  1.0000
+  Pd  Pd2       1.0  0.00000  0.00436  0.56814  1.0000

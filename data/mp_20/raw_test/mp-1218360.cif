@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Sr3CaMn2FeO10
+_chemical_formula_sum              "Sr3 Ca1 Mn2 Fe1 O10"
+_cell_length_a       3.85918
+_cell_length_b       3.85907
+_cell_length_c       14.2358
+_cell_angle_alpha    82.2024
+_cell_angle_beta     82.2025
+_cell_angle_gamma    90.015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.57048  0.57048  0.85919  1.0000
+  Sr  Sr2       1.0  0.42999  0.43001  0.13988  1.0000
+  Sr  Sr3       1.0  0.70403  0.70405  0.59211  1.0000
+  Ca  Ca1       1.0  0.29939  0.29940  0.40141  1.0000
+  Mn  Mn1       1.0  0.14227  0.14217  0.71533  1.0000
+  Mn  Mn2       1.0  0.85742  0.85743  0.28451  1.0000
+  Fe  Fe1       1.0  0.00016  0.00018  0.99979  1.0000
+  O   O1        1.0  0.64061  0.14074  0.71932  1.0000
+  O   O2        1.0  0.14073  0.64060  0.71932  1.0000
+  O   O3        1.0  0.35686  0.85688  0.28562  1.0000
+  O   O4        1.0  0.85689  0.35686  0.28562  1.0000
+  O   O5        1.0  0.07194  0.07195  0.85595  1.0000
+  O   O6        1.0  0.92787  0.92786  0.14495  1.0000
+  O   O7        1.0  0.21253  0.21256  0.57564  1.0000
+  O   O8        1.0  0.78942  0.78942  0.42005  1.0000
+  O   O9        1.0  0.99969  0.49971  0.00065  1.0000
+  O   O10       1.0  0.49971  0.99970  0.00065  1.0000

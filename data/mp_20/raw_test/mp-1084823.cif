@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr2CrSbO6
+_chemical_formula_sum              "Sr2 Cr1 Sb1 O6"
+_cell_length_a       5.64154
+_cell_length_b       5.64601
+_cell_length_c       5.64775
+_cell_angle_alpha    60.5524
+_cell_angle_beta     60.0346
+_cell_angle_gamma    60.0276
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25030  0.74572  0.75366  1.0000
+  Sr  Sr2       1.0  0.74965  0.25430  0.24636  1.0000
+  Cr  Cr1       1.0  0.99993  0.50015  0.49997  1.0000
+  Sb  Sb1       1.0  0.50008  0.99990  0.99988  1.0000
+  O   O1        1.0  0.74816  0.81068  0.69306  1.0000
+  O   O2        1.0  0.25196  0.18920  0.30690  1.0000
+  O   O3        1.0  0.28305  0.72069  0.21611  1.0000
+  O   O4        1.0  0.78016  0.72070  0.21609  1.0000
+  O   O5        1.0  0.71686  0.27933  0.78399  1.0000
+  O   O6        1.0  0.21985  0.27933  0.78398  1.0000

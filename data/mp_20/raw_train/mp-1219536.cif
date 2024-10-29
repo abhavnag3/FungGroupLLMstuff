@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Re2Ge2As2
+_chemical_formula_sum              "Re2 Ge2 As2"
+_cell_length_a       4.87238
+_cell_length_b       4.87238
+_cell_length_c       7.80523
+_cell_angle_alpha    61.0283
+_cell_angle_beta     61.0283
+_cell_angle_gamma    38.8012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.16055  0.16055  0.78922  1.0000
+  Re  Re2       1.0  0.83945  0.83945  0.21078  1.0000
+  Ge  Ge1       1.0  0.39666  0.39666  0.89587  1.0000
+  Ge  Ge2       1.0  0.60334  0.60334  0.10413  1.0000
+  As  As1       1.0  0.85890  0.85889  0.52753  1.0000
+  As  As2       1.0  0.14111  0.14111  0.47247  1.0000

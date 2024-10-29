@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sn4P4S12
+_chemical_formula_sum              "Sn4 P4 S12"
+_cell_length_a       7.68465
+_cell_length_b       6.6558
+_cell_length_c       11.8457
+_cell_angle_alpha    56.1791
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.12956  0.74524  0.55107  1.0000
+  Sn  Sn2       1.0  0.87044  0.74524  0.05107  1.0000
+  Sn  Sn3       1.0  0.39972  0.19515  0.04371  1.0000
+  Sn  Sn4       1.0  0.60028  0.19515  0.54370  1.0000
+  P   P1        1.0  0.64974  0.87394  0.31294  1.0000
+  P   P2        1.0  0.35026  0.87394  0.81295  1.0000
+  P   P3        1.0  0.86511  0.12743  0.18151  1.0000
+  P   P4        1.0  0.13489  0.12743  0.68151  1.0000
+  S   S1        1.0  0.42668  0.72166  0.71009  1.0000
+  S   S2        1.0  0.57332  0.72166  0.21009  1.0000
+  S   S3        1.0  0.54656  0.09451  0.79693  1.0000
+  S   S4        1.0  0.45344  0.09451  0.29693  1.0000
+  S   S5        1.0  0.24829  0.35279  0.49665  1.0000
+  S   S6        1.0  0.75171  0.35279  0.99665  1.0000
+  S   S7        1.0  0.04670  0.29953  0.76838  1.0000
+  S   S8        1.0  0.95330  0.29953  0.26837  1.0000
+  S   S9        1.0  0.94836  0.90157  0.68882  1.0000
+  S   S10       1.0  0.05164  0.90157  0.18882  1.0000
+  S   S11       1.0  0.25995  0.64307  0.00321  1.0000
+  S   S12       1.0  0.74005  0.64307  0.50321  1.0000

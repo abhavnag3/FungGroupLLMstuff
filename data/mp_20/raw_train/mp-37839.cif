@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li7RuO6
+_chemical_formula_sum              "Li7 Ru1 O6"
+_cell_length_a       5.35637
+_cell_length_b       5.43398
+_cell_length_c       5.83879
+_cell_angle_alpha    90.8435
+_cell_angle_beta     115.954
+_cell_angle_gamma    119.465
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.39186  0.85772  0.62583  1.0000
+  Li  Li2       1.0  0.73376  0.35569  0.03624  1.0000
+  Li  Li3       1.0  0.85472  0.76162  0.34662  1.0000
+  Li  Li4       1.0  0.15062  0.25420  0.63193  1.0000
+  Li  Li5       1.0  0.29323  0.63561  0.99821  1.0000
+  Li  Li6       1.0  0.59557  0.10491  0.35763  1.0000
+  Li  Li7       1.0  0.70487  0.50808  0.62080  1.0000
+  Ru  Ru1       1.0  0.00638  0.00959  0.00514  1.0000
+  O   O1        1.0  0.15327  0.78211  0.23074  1.0000
+  O   O2        1.0  0.55402  0.63303  0.80246  1.0000
+  O   O3        1.0  0.12115  0.90191  0.74689  1.0000
+  O   O4        1.0  0.85867  0.09078  0.23667  1.0000
+  O   O5        1.0  0.46637  0.37096  0.22304  1.0000
+  O   O6        1.0  0.84250  0.23179  0.75980  1.0000

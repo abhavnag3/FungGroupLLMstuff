@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       In2Ag2P4S12
+_chemical_formula_sum              "In2 Ag2 P4 S12"
+_cell_length_a       6.25919
+_cell_length_b       6.25919
+_cell_length_c       14.37
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.00000  0.00000  0.25000  1.0000
+  In  In2       1.0  0.00000  0.00000  0.75000  1.0000
+  Ag  Ag1       1.0  0.66667  0.33333  0.25000  1.0000
+  Ag  Ag2       1.0  0.33333  0.66667  0.75000  1.0000
+  P   P1        1.0  0.66667  0.33333  0.67131  1.0000
+  P   P2        1.0  0.66667  0.33333  0.82869  1.0000
+  P   P3        1.0  0.33333  0.66667  0.32869  1.0000
+  P   P4        1.0  0.33333  0.66667  0.17131  1.0000
+  S   S1        1.0  0.97143  0.31730  0.86861  1.0000
+  S   S2        1.0  0.34586  0.31730  0.63139  1.0000
+  S   S3        1.0  0.97143  0.65414  0.63139  1.0000
+  S   S4        1.0  0.68270  0.02857  0.63139  1.0000
+  S   S5        1.0  0.31730  0.34586  0.13139  1.0000
+  S   S6        1.0  0.65414  0.97143  0.13139  1.0000
+  S   S7        1.0  0.02857  0.68270  0.13139  1.0000
+  S   S8        1.0  0.65414  0.68270  0.36861  1.0000
+  S   S9        1.0  0.02857  0.34586  0.36861  1.0000
+  S   S10       1.0  0.31730  0.97143  0.36861  1.0000
+  S   S11       1.0  0.68270  0.65414  0.86861  1.0000
+  S   S12       1.0  0.34586  0.02857  0.86861  1.0000

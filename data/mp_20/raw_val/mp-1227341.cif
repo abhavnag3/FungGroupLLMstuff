@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ca2ScP3Pt7
+_chemical_formula_sum              "Ca2 Sc1 P3 Pt7"
+_cell_length_a       14.0531
+_cell_length_b       14.0531
+_cell_length_c       14.0531
+_cell_angle_alpha    163.355
+_cell_angle_beta     163.355
+_cell_angle_gamma    23.624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.66659  0.66659  0.00000  1.0000
+  Ca  Ca2       1.0  0.33341  0.33341  0.00000  1.0000
+  Sc  Sc1       1.0  0.50000  0.50000  0.00000  1.0000
+  P   P1        1.0  0.87715  0.87715  0.00000  1.0000
+  P   P2        1.0  0.12285  0.12285  0.00000  1.0000
+  P   P3        1.0  0.25000  0.75000  0.50000  1.0000
+  Pt  Pt1       1.0  0.42730  0.92730  0.50000  1.0000
+  Pt  Pt2       1.0  0.92572  0.42572  0.50000  1.0000
+  Pt  Pt3       1.0  0.57428  0.07428  0.50000  1.0000
+  Pt  Pt4       1.0  0.07270  0.57270  0.50000  1.0000
+  Pt  Pt5       1.0  0.79338  0.79338  0.00000  1.0000
+  Pt  Pt6       1.0  0.20662  0.20662  0.00000  1.0000
+  Pt  Pt7       1.0  0.00000  0.00000  0.00000  1.0000

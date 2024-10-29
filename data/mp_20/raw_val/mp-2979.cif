@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zn4Ge4N8
+_chemical_formula_sum              "Zn4 Ge4 N8"
+_cell_length_a       5.24963
+_cell_length_b       5.51051
+_cell_length_c       6.49693
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.99956  0.58425  0.87533  1.0000
+  Zn  Zn2       1.0  0.49956  0.91575  0.37533  1.0000
+  Zn  Zn3       1.0  0.49956  0.41574  0.12467  1.0000
+  Zn  Zn4       1.0  0.99956  0.08425  0.62467  1.0000
+  Ge  Ge1       1.0  0.00017  0.07636  0.12548  1.0000
+  Ge  Ge2       1.0  0.50017  0.92364  0.87452  1.0000
+  Ge  Ge3       1.0  0.50017  0.42364  0.62548  1.0000
+  Ge  Ge4       1.0  0.00017  0.57636  0.37452  1.0000
+  N   N1        1.0  0.39259  0.59827  0.85965  1.0000
+  N   N2        1.0  0.89259  0.40173  0.14035  1.0000
+  N   N3        1.0  0.89259  0.90173  0.35965  1.0000
+  N   N4        1.0  0.39259  0.09827  0.64035  1.0000
+  N   N5        1.0  0.35868  0.56579  0.39008  1.0000
+  N   N6        1.0  0.35868  0.06579  0.10992  1.0000
+  N   N7        1.0  0.85868  0.93421  0.89008  1.0000
+  N   N8        1.0  0.85868  0.43421  0.60992  1.0000

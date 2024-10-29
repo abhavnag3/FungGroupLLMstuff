@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li5Ni5O9F
+_chemical_formula_sum              "Li5 Ni5 O9 F1"
+_cell_length_a       4.98331
+_cell_length_b       5.78872
+_cell_length_c       6.56466
+_cell_angle_alpha    102.982
+_cell_angle_beta     98.2918
+_cell_angle_gamma    106.487
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.79455  0.10131  0.59828  1.0000
+  Li  Li2       1.0  0.61679  0.70240  0.20489  1.0000
+  Li  Li3       1.0  0.39819  0.30222  0.80082  1.0000
+  Li  Li4       1.0  0.19533  0.90239  0.40301  1.0000
+  Li  Li5       1.0  0.99370  0.49047  0.99863  1.0000
+  Ni  Ni1       1.0  0.80224  0.60228  0.59937  1.0000
+  Ni  Ni2       1.0  0.60607  0.20861  0.19952  1.0000
+  Ni  Ni3       1.0  0.40198  0.80273  0.79216  1.0000
+  Ni  Ni4       1.0  0.20361  0.40137  0.39635  1.0000
+  Ni  Ni5       1.0  0.99046  0.00250  0.00053  1.0000
+  O   O1        1.0  0.91136  0.05710  0.28273  1.0000
+  O   O2        1.0  0.92438  0.54306  0.31222  1.0000
+  O   O3        1.0  0.67241  0.12851  0.89626  1.0000
+  O   O4        1.0  0.70100  0.67762  0.89785  1.0000
+  O   O5        1.0  0.49277  0.27212  0.49173  1.0000
+  O   O6        1.0  0.51798  0.73439  0.50293  1.0000
+  O   O7        1.0  0.27602  0.32110  0.09848  1.0000
+  O   O8        1.0  0.10182  0.47767  0.69177  1.0000
+  O   O9        1.0  0.09947  0.93689  0.72441  1.0000
+  F   F1        1.0  0.29989  0.83528  0.10807  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       BaNi2P2O8
+_chemical_formula_sum              "Ba1 Ni2 P2 O8"
+_cell_length_a       4.85254
+_cell_length_b       8.40549
+_cell_length_c       4.85254
+_cell_angle_alpha    90
+_cell_angle_beta     60
+_cell_angle_gamma    73.2227
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.33766  0.49352  0.83117  1.0000
+  Ni  Ni2       1.0  0.66234  0.50648  0.16883  1.0000
+  P   P1        1.0  0.85523  0.71716  0.57239  1.0000
+  P   P2        1.0  0.14478  0.28284  0.42761  1.0000
+  O   O1        1.0  0.72659  0.91012  0.63671  1.0000
+  O   O2        1.0  0.27341  0.08988  0.36329  1.0000
+  O   O3        1.0  0.80018  0.34618  0.75983  1.0000
+  O   O4        1.0  0.09381  0.34618  0.14636  1.0000
+  O   O5        1.0  0.41365  0.34618  0.43999  1.0000
+  O   O6        1.0  0.19982  0.65382  0.24017  1.0000
+  O   O7        1.0  0.90619  0.65382  0.85364  1.0000
+  O   O8        1.0  0.58635  0.65382  0.56001  1.0000

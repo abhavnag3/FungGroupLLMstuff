@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       K4Cd2Sn2
+_chemical_formula_sum              "K4 Cd2 Sn2"
+_cell_length_a       7.00598
+_cell_length_b       7.00598
+_cell_length_c       6.57136
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    103.746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.01893  0.68102  0.75000  1.0000
+  K   K2        1.0  0.31898  0.98107  0.25000  1.0000
+  K   K3        1.0  0.68266  0.03981  0.75000  1.0000
+  K   K4        1.0  0.96019  0.31734  0.25000  1.0000
+  Cd  Cd1       1.0  0.49201  0.50799  0.50000  1.0000
+  Cd  Cd2       1.0  0.49201  0.50799  0.00000  1.0000
+  Sn  Sn1       1.0  0.23166  0.23644  0.75000  1.0000
+  Sn  Sn2       1.0  0.76357  0.76834  0.25000  1.0000

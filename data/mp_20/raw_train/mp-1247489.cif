@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2VIn3S8
+_chemical_formula_sum              "Mg2 V1 In3 S8"
+_cell_length_a       7.62239
+_cell_length_b       7.57441
+_cell_length_c       7.63214
+_cell_angle_alpha    60.0217
+_cell_angle_beta     60.053
+_cell_angle_gamma    59.615
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.87592  0.87246  0.87582  1.0000
+  Mg  Mg2       1.0  0.12409  0.12749  0.12420  1.0000
+  V   V1        1.0  0.49999  0.00001  0.50000  1.0000
+  In  In1       1.0  0.49997  0.50005  0.49997  1.0000
+  In  In2       1.0  0.50005  0.49997  0.99999  1.0000
+  In  In3       1.0  0.99997  0.50001  0.49998  1.0000
+  S   S1        1.0  0.73056  0.76235  0.73081  1.0000
+  S   S2        1.0  0.26919  0.23643  0.72457  1.0000
+  S   S3        1.0  0.25696  0.72903  0.25803  1.0000
+  S   S4        1.0  0.72391  0.23791  0.26876  1.0000
+  S   S5        1.0  0.74298  0.27093  0.74196  1.0000
+  S   S6        1.0  0.27612  0.76210  0.73131  1.0000
+  S   S7        1.0  0.26945  0.23759  0.26926  1.0000
+  S   S8        1.0  0.73084  0.76367  0.27535  1.0000

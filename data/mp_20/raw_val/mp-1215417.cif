@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zn2Cu4Ge2Se4S4
+_chemical_formula_sum              "Zn2 Cu4 Ge2 Se4 S4"
+_cell_length_a       6.3776
+_cell_length_b       6.72165
+_cell_length_c       7.74632
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.00795  0.14347  0.50000  1.0000
+  Zn  Zn2       1.0  0.50795  0.85653  0.00000  1.0000
+  Cu  Cu1       1.0  0.49609  0.31274  0.74795  1.0000
+  Cu  Cu2       1.0  0.49609  0.31274  0.25205  1.0000
+  Cu  Cu3       1.0  0.99609  0.68726  0.75205  1.0000
+  Cu  Cu4       1.0  0.99609  0.68726  0.24795  1.0000
+  Ge  Ge1       1.0  0.50666  0.84087  0.50000  1.0000
+  Ge  Ge2       1.0  0.00666  0.15913  0.00000  1.0000
+  Se  Se1       1.0  0.87604  0.33926  0.75159  1.0000
+  Se  Se2       1.0  0.87604  0.33926  0.24841  1.0000
+  Se  Se3       1.0  0.37604  0.66074  0.74841  1.0000
+  Se  Se4       1.0  0.37604  0.66074  0.25159  1.0000
+  S   S1        1.0  0.86833  0.82082  0.50000  1.0000
+  S   S2        1.0  0.36833  0.17918  0.00000  1.0000
+  S   S3        1.0  0.38179  0.15781  0.50000  1.0000
+  S   S4        1.0  0.88179  0.84219  0.00000  1.0000

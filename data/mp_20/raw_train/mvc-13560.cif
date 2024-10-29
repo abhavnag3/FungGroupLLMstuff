@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       CaV4S8
+_chemical_formula_sum              "Ca1 V4 S8"
+_cell_length_a       7.90478
+_cell_length_b       7.90478
+_cell_length_c       7.90478
+_cell_angle_alpha    49.0298
+_cell_angle_beta     49.0298
+_cell_angle_gamma    49.0298
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50000  0.50000  0.50000  1.0000
+  V   V1        1.0  0.00000  0.50000  0.50000  1.0000
+  V   V2        1.0  0.50000  0.00000  0.50000  1.0000
+  V   V3        1.0  0.50000  0.50000  0.00000  1.0000
+  V   V4        1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.26025  0.76572  0.76572  1.0000
+  S   S2        1.0  0.23428  0.23428  0.73975  1.0000
+  S   S3        1.0  0.73975  0.23428  0.23428  1.0000
+  S   S4        1.0  0.23428  0.73975  0.23428  1.0000
+  S   S5        1.0  0.26486  0.26486  0.26486  1.0000
+  S   S6        1.0  0.73514  0.73514  0.73514  1.0000
+  S   S7        1.0  0.76572  0.26025  0.76572  1.0000
+  S   S8        1.0  0.76571  0.76572  0.26025  1.0000

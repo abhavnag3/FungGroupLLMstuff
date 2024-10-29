@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr2Zn2Bi4O12
+_chemical_formula_sum              "Pr2 Zn2 Bi4 O12"
+_cell_length_a       5.7154
+_cell_length_b       6.49597
+_cell_length_c       8.63524
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.03902  0.66618  0.00000  1.0000
+  Pr  Pr2       1.0  0.53902  0.33382  0.50000  1.0000
+  Zn  Zn1       1.0  0.52895  0.40216  0.00000  1.0000
+  Zn  Zn2       1.0  0.02895  0.59784  0.50000  1.0000
+  Bi  Bi1       1.0  0.00686  0.21861  0.75832  1.0000
+  Bi  Bi2       1.0  0.00686  0.21861  0.24168  1.0000
+  Bi  Bi3       1.0  0.50686  0.78139  0.25832  1.0000
+  Bi  Bi4       1.0  0.50686  0.78139  0.74168  1.0000
+  O   O1        1.0  0.13053  0.26708  0.50000  1.0000
+  O   O2        1.0  0.16058  0.91379  0.81471  1.0000
+  O   O3        1.0  0.16058  0.91379  0.18529  1.0000
+  O   O4        1.0  0.30727  0.45770  0.17336  1.0000
+  O   O5        1.0  0.30727  0.45770  0.82664  1.0000
+  O   O6        1.0  0.35279  0.69065  0.50000  1.0000
+  O   O7        1.0  0.63053  0.73292  0.00000  1.0000
+  O   O8        1.0  0.66058  0.08621  0.68529  1.0000
+  O   O9        1.0  0.66058  0.08621  0.31471  1.0000
+  O   O10       1.0  0.80727  0.54230  0.67336  1.0000
+  O   O11       1.0  0.80727  0.54230  0.32664  1.0000
+  O   O12       1.0  0.85279  0.30935  0.00000  1.0000

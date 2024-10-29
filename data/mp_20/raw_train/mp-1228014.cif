@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CaTi2PbO6
+_chemical_formula_sum              "Ca1 Ti2 Pb1 O6"
+_cell_length_a       3.81842
+_cell_length_b       5.85142
+_cell_length_c       5.85142
+_cell_angle_alpha    81.8293
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.94636  0.94636  1.0000
+  Ti  Ti1       1.0  0.50000  0.47996  0.98616  1.0000
+  Ti  Ti2       1.0  0.50000  0.98616  0.47996  1.0000
+  Pb  Pb1       1.0  0.00000  0.46949  0.46949  1.0000
+  O   O1        1.0  0.50000  0.24943  0.82110  1.0000
+  O   O2        1.0  0.50000  0.82110  0.24943  1.0000
+  O   O3        1.0  0.00000  0.53446  0.03740  1.0000
+  O   O4        1.0  0.00000  0.03740  0.53446  1.0000
+  O   O5        1.0  0.50000  0.30229  0.30229  1.0000
+  O   O6        1.0  0.50000  0.76535  0.76535  1.0000

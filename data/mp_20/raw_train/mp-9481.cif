@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tc4S8
+_chemical_formula_sum              "Tc4 S8"
+_cell_length_a       6.40803
+_cell_length_b       6.51724
+_cell_length_c       7.53993
+_cell_angle_alpha    66.7892
+_cell_angle_beta     77.824
+_cell_angle_gamma    61.1746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tc  Tc1       1.0  0.51145  0.28545  0.50211  1.0000
+  Tc  Tc2       1.0  0.48855  0.71455  0.49789  1.0000
+  Tc  Tc3       1.0  0.93810  0.30941  0.50777  1.0000
+  Tc  Tc4       1.0  0.06190  0.69059  0.49223  1.0000
+  S   S1        1.0  0.32258  0.16997  0.32965  1.0000
+  S   S2        1.0  0.67742  0.83003  0.67035  1.0000
+  S   S3        1.0  0.85922  0.15159  0.30680  1.0000
+  S   S4        1.0  0.14078  0.84841  0.69320  1.0000
+  S   S5        1.0  0.36266  0.66936  0.25074  1.0000
+  S   S6        1.0  0.63734  0.33064  0.74926  1.0000
+  S   S7        1.0  0.82495  0.70092  0.27494  1.0000
+  S   S8        1.0  0.17505  0.29908  0.72506  1.0000

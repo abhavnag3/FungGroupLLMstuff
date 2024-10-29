@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Fe9B4Ir3
+_chemical_formula_sum              "Fe9 B4 Ir3"
+_cell_length_a       6.94478
+_cell_length_b       4.46856
+_cell_length_c       5.43959
+_cell_angle_alpha    89.9558
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.18456  0.64646  0.32496  1.0000
+  Fe  Fe2       1.0  0.81147  0.85879  0.81800  1.0000
+  Fe  Fe3       1.0  0.69378  0.35924  0.67677  1.0000
+  Fe  Fe4       1.0  0.30553  0.14272  0.17851  1.0000
+  Fe  Fe5       1.0  0.30622  0.35924  0.67677  1.0000
+  Fe  Fe6       1.0  0.69447  0.14272  0.17851  1.0000
+  Fe  Fe7       1.0  0.81544  0.64646  0.32496  1.0000
+  Fe  Fe8       1.0  0.18853  0.85879  0.81800  1.0000
+  Fe  Fe9       1.0  0.00000  0.12603  0.47255  1.0000
+  B   B1        1.0  0.00000  0.91556  0.11850  1.0000
+  B   B2        1.0  0.00000  0.57594  0.61928  1.0000
+  B   B3        1.0  0.50000  0.08555  0.88386  1.0000
+  B   B4        1.0  0.50000  0.41455  0.38072  1.0000
+  Ir  Ir1       1.0  0.00000  0.36469  0.97249  1.0000
+  Ir  Ir2       1.0  0.50000  0.87146  0.52599  1.0000
+  Ir  Ir3       1.0  0.50000  0.63182  0.03012  1.0000

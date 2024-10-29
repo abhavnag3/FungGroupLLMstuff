@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoNi2Se4
+_chemical_formula_sum              "Co1 Ni2 Se4"
+_cell_length_a       6.18899
+_cell_length_b       6.18899
+_cell_length_c       6.16497
+_cell_angle_alpha    62.2859
+_cell_angle_beta     62.2859
+_cell_angle_gamma    34.1528
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni1       1.0  0.73593  0.73593  0.28964  1.0000
+  Ni  Ni2       1.0  0.26407  0.26407  0.71036  1.0000
+  Se  Se1       1.0  0.88578  0.88578  0.45108  1.0000
+  Se  Se2       1.0  0.11422  0.11422  0.54892  1.0000
+  Se  Se3       1.0  0.63274  0.63274  0.02056  1.0000
+  Se  Se4       1.0  0.36726  0.36726  0.97944  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr8Se8O4
+_chemical_formula_sum              "Pr8 Se8 O4"
+_cell_length_a       7.41069
+_cell_length_b       7.42273
+_cell_length_c       8.94899
+_cell_angle_alpha    80.2603
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.05207  0.74633  0.14288  1.0000
+  Pr  Pr2       1.0  0.55207  0.75367  0.85712  1.0000
+  Pr  Pr3       1.0  0.94793  0.25367  0.85712  1.0000
+  Pr  Pr4       1.0  0.44793  0.24632  0.14288  1.0000
+  Pr  Pr5       1.0  0.14780  0.67327  0.57456  1.0000
+  Pr  Pr6       1.0  0.64780  0.82673  0.42544  1.0000
+  Pr  Pr7       1.0  0.85220  0.32673  0.42544  1.0000
+  Pr  Pr8       1.0  0.35220  0.17327  0.57456  1.0000
+  Se  Se1       1.0  0.72230  0.97120  0.07687  1.0000
+  Se  Se2       1.0  0.62911  0.43033  0.67984  1.0000
+  Se  Se3       1.0  0.37089  0.56967  0.32016  1.0000
+  Se  Se4       1.0  0.87089  0.93033  0.67984  1.0000
+  Se  Se5       1.0  0.22230  0.52880  0.92313  1.0000
+  Se  Se6       1.0  0.27770  0.02880  0.92313  1.0000
+  Se  Se7       1.0  0.77770  0.47120  0.07687  1.0000
+  Se  Se8       1.0  0.12911  0.06967  0.32016  1.0000
+  O   O1        1.0  0.08509  0.35061  0.61421  1.0000
+  O   O2        1.0  0.41491  0.85061  0.61421  1.0000
+  O   O3        1.0  0.91491  0.64939  0.38579  1.0000
+  O   O4        1.0  0.58509  0.14939  0.38579  1.0000

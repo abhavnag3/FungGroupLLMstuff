@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Tb2Ge2S8
+_chemical_formula_sum              "K2 Tb2 Ge2 S8"
+_cell_length_a       6.73268
+_cell_length_b       6.55904
+_cell_length_c       8.78293
+_cell_angle_alpha    72.7097
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.87987  0.73060  0.06599  1.0000
+  K   K2        1.0  0.37987  0.26940  0.93401  1.0000
+  Tb  Tb1       1.0  0.36172  0.22790  0.44969  1.0000
+  Tb  Tb2       1.0  0.86172  0.77209  0.55031  1.0000
+  Ge  Ge1       1.0  0.89695  0.22564  0.67237  1.0000
+  Ge  Ge2       1.0  0.39695  0.77436  0.32763  1.0000
+  S   S1        1.0  0.63311  0.02511  0.28211  1.0000
+  S   S2        1.0  0.89887  0.43009  0.83083  1.0000
+  S   S3        1.0  0.46896  0.56536  0.57203  1.0000
+  S   S4        1.0  0.96896  0.43464  0.42797  1.0000
+  S   S5        1.0  0.39887  0.56991  0.16917  1.0000
+  S   S6        1.0  0.62626  0.02019  0.69835  1.0000
+  S   S7        1.0  0.13311  0.97489  0.71789  1.0000
+  S   S8        1.0  0.12626  0.97981  0.30165  1.0000

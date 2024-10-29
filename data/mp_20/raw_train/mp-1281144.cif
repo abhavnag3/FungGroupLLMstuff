@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Y2Mn2Co2O10
+_chemical_formula_sum              "Ba2 Y2 Mn2 Co2 O10"
+_cell_length_a       5.59492
+_cell_length_b       5.60106
+_cell_length_c       8.70796
+_cell_angle_alpha    70.7437
+_cell_angle_beta     70.9798
+_cell_angle_gamma    88.7406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00774  0.00608  0.98935  1.0000
+  Ba  Ba2       1.0  0.50363  0.50047  0.99015  1.0000
+  Y   Y1        1.0  0.24970  0.24946  0.50208  1.0000
+  Y   Y2        1.0  0.74904  0.74895  0.50141  1.0000
+  Mn  Mn1       1.0  0.36338  0.86279  0.27377  1.0000
+  Mn  Mn2       1.0  0.87260  0.37415  0.25319  1.0000
+  Co  Co1       1.0  0.13138  0.63195  0.73684  1.0000
+  Co  Co2       1.0  0.63301  0.12245  0.74425  1.0000
+  O   O1        1.0  0.49735  0.99869  0.00287  1.0000
+  O   O2        1.0  0.00191  0.50864  0.98969  1.0000
+  O   O3        1.0  0.41474  0.91626  0.68524  1.0000
+  O   O4        1.0  0.89928  0.40012  0.68571  1.0000
+  O   O5        1.0  0.92387  0.89424  0.68263  1.0000
+  O   O6        1.0  0.39107  0.42414  0.68596  1.0000
+  O   O7        1.0  0.58177  0.08155  0.31543  1.0000
+  O   O8        1.0  0.10242  0.60261  0.31601  1.0000
+  O   O9        1.0  0.09622  0.08278  0.32110  1.0000
+  O   O10       1.0  0.58091  0.59465  0.32431  1.0000

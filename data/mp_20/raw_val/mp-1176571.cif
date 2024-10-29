@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       LiTiV2O6
+_chemical_formula_sum              "Li1 Ti1 V2 O6"
+_cell_length_a       2.97928
+_cell_length_b       6.57662
+_cell_length_c       6.00034
+_cell_angle_alpha    101.844
+_cell_angle_beta     89.1368
+_cell_angle_gamma    103.166
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.66506  0.33570  0.83568  1.0000
+  Ti  Ti1       1.0  0.34086  0.69303  0.63681  1.0000
+  V   V1        1.0  0.95547  0.97329  0.02613  1.0000
+  V   V2        1.0  0.67834  0.33336  0.33458  1.0000
+  O   O1        1.0  0.48798  0.98973  0.79677  1.0000
+  O   O2        1.0  0.83957  0.66795  0.43278  1.0000
+  O   O3        1.0  0.16187  0.29519  0.10010  1.0000
+  O   O4        1.0  0.83819  0.67684  0.87022  1.0000
+  O   O5        1.0  0.18824  0.36993  0.57288  1.0000
+  O   O6        1.0  0.51049  0.99710  0.23204  1.0000

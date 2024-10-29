@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       K4U2Te6
+_chemical_formula_sum              "K4 U2 Te6"
+_cell_length_a       8.0841
+_cell_length_b       8.0841
+_cell_length_c       8.67536
+_cell_angle_alpha    80.9406
+_cell_angle_beta     80.9406
+_cell_angle_gamma    120.034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.34526  0.65474  0.50000  1.0000
+  K   K2        1.0  0.65474  0.34526  0.50000  1.0000
+  K   K3        1.0  0.00000  0.00000  0.50000  1.0000
+  K   K4        1.0  0.50000  0.50000  0.00000  1.0000
+  U   U1        1.0  0.16798  0.83202  0.00000  1.0000
+  U   U2        1.0  0.83202  0.16798  0.00000  1.0000
+  Te  Te1       1.0  0.79909  0.79909  0.20997  1.0000
+  Te  Te2       1.0  0.42713  0.05510  0.21329  1.0000
+  Te  Te3       1.0  0.05510  0.42713  0.21329  1.0000
+  Te  Te4       1.0  0.57287  0.94490  0.78671  1.0000
+  Te  Te5       1.0  0.94490  0.57287  0.78671  1.0000
+  Te  Te6       1.0  0.20091  0.20091  0.79003  1.0000

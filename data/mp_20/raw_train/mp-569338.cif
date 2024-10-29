@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Yb4Al4Pd4
+_chemical_formula_sum              "Yb4 Al4 Pd4"
+_cell_length_a       4.25594
+_cell_length_b       7.17761
+_cell_length_c       7.91239
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.25000  0.02708  0.32282  1.0000
+  Yb  Yb2       1.0  0.25000  0.52708  0.17718  1.0000
+  Yb  Yb3       1.0  0.75000  0.97292  0.67718  1.0000
+  Yb  Yb4       1.0  0.75000  0.47292  0.82282  1.0000
+  Al  Al1       1.0  0.25000  0.14146  0.93612  1.0000
+  Al  Al2       1.0  0.25000  0.64146  0.56388  1.0000
+  Al  Al3       1.0  0.75000  0.85854  0.06388  1.0000
+  Al  Al4       1.0  0.75000  0.35854  0.43611  1.0000
+  Pd  Pd1       1.0  0.25000  0.28287  0.61838  1.0000
+  Pd  Pd2       1.0  0.25000  0.78287  0.88162  1.0000
+  Pd  Pd3       1.0  0.75000  0.71712  0.38162  1.0000
+  Pd  Pd4       1.0  0.75000  0.21713  0.11838  1.0000

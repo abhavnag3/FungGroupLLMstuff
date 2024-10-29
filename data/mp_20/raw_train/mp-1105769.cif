@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K2Na2Nb2O2F10
+_chemical_formula_sum              "K2 Na2 Nb2 O2 F10"
+_cell_length_a       6.07874
+_cell_length_b       6.07874
+_cell_length_c       8.63966
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.50000  0.50000  0.50000  1.0000
+  K   K2        1.0  0.00000  0.00000  0.50000  1.0000
+  Na  Na1       1.0  0.00000  0.50000  0.76785  1.0000
+  Na  Na2       1.0  0.50000  0.00000  0.23215  1.0000
+  Nb  Nb1       1.0  0.00000  0.50000  0.23716  1.0000
+  Nb  Nb2       1.0  0.50000  0.00000  0.76284  1.0000
+  O   O1        1.0  0.00000  0.50000  0.03388  1.0000
+  O   O2        1.0  0.50000  0.00000  0.96612  1.0000
+  F   F1        1.0  0.00000  0.50000  0.49004  1.0000
+  F   F2        1.0  0.50000  0.00000  0.50996  1.0000
+  F   F3        1.0  0.22881  0.27119  0.27531  1.0000
+  F   F4        1.0  0.77119  0.27119  0.27531  1.0000
+  F   F5        1.0  0.22881  0.72881  0.27531  1.0000
+  F   F6        1.0  0.77119  0.72881  0.27531  1.0000
+  F   F7        1.0  0.27119  0.22881  0.72469  1.0000
+  F   F8        1.0  0.72881  0.22881  0.72469  1.0000
+  F   F9        1.0  0.27119  0.77119  0.72469  1.0000
+  F   F10       1.0  0.72881  0.77119  0.72469  1.0000

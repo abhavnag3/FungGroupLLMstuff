@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Hf2Cr2Cu2S8
+_chemical_formula_sum              "Hf2 Cr2 Cu2 S8"
+_cell_length_a       7.06387
+_cell_length_b       6.06793
+_cell_length_c       5.94503
+_cell_angle_alpha    92.4086
+_cell_angle_beta     89.9986
+_cell_angle_gamma    89.9997
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.23822  0.50000  0.50002  1.0000
+  Hf  Hf2       1.0  0.51412  0.00001  0.50002  1.0000
+  Cr  Cr1       1.0  0.74854  0.50000  0.50001  1.0000
+  Cr  Cr2       1.0  0.00179  0.99994  0.50003  1.0000
+  Cu  Cu1       1.0  0.99424  0.00002  0.99996  1.0000
+  Cu  Cu2       1.0  0.50482  0.00002  0.99999  1.0000
+  S   S1        1.0  0.98638  0.31417  0.26677  1.0000
+  S   S2        1.0  0.50552  0.32977  0.25437  1.0000
+  S   S3        1.0  0.24433  0.83137  0.24957  1.0000
+  S   S4        1.0  0.76290  0.81625  0.25694  1.0000
+  S   S5        1.0  0.24432  0.16863  0.75041  1.0000
+  S   S6        1.0  0.76290  0.18374  0.74304  1.0000
+  S   S7        1.0  0.50552  0.67023  0.74565  1.0000
+  S   S8        1.0  0.98638  0.68585  0.73321  1.0000

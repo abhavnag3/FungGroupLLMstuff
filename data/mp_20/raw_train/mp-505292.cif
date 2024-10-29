@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Nd3Cu4Ge4
+_chemical_formula_sum              "Nd3 Cu4 Ge4"
+_cell_length_a       8.21181
+_cell_length_b       8.21181
+_cell_length_c       8.21181
+_cell_angle_alpha    149.447
+_cell_angle_beta     131.504
+_cell_angle_gamma    58.4104
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.36771  0.86771  0.50000  1.0000
+  Nd  Nd2       1.0  0.00000  0.00000  0.00000  1.0000
+  Nd  Nd3       1.0  0.63229  0.13229  0.50000  1.0000
+  Cu  Cu1       1.0  0.35238  0.66642  0.68596  1.0000
+  Cu  Cu2       1.0  0.64762  0.33358  0.31404  1.0000
+  Cu  Cu3       1.0  0.01954  0.33358  0.68596  1.0000
+  Cu  Cu4       1.0  0.98046  0.66642  0.31404  1.0000
+  Ge  Ge1       1.0  0.31118  0.50000  0.81118  1.0000
+  Ge  Ge2       1.0  0.21619  0.21619  0.00000  1.0000
+  Ge  Ge3       1.0  0.78381  0.78381  0.00000  1.0000
+  Ge  Ge4       1.0  0.68882  0.50000  0.18882  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na8Mg2O6
+_chemical_formula_sum              "Na8 Mg2 O6"
+_cell_length_a       6.33278
+_cell_length_b       6.33278
+_cell_length_c       8.11419
+_cell_angle_alpha    70.2997
+_cell_angle_beta     70.2997
+_cell_angle_gamma    55.9407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.48592  0.92173  0.83901  1.0000
+  Na  Na2       1.0  0.92174  0.48592  0.33901  1.0000
+  Na  Na3       1.0  0.26813  0.97183  0.53802  1.0000
+  Na  Na4       1.0  0.03116  0.73261  0.93183  1.0000
+  Na  Na5       1.0  0.97183  0.26813  0.03803  1.0000
+  Na  Na6       1.0  0.73261  0.03116  0.43183  1.0000
+  Na  Na7       1.0  0.12095  0.44827  0.63757  1.0000
+  Na  Na8       1.0  0.44827  0.12095  0.13757  1.0000
+  Mg  Mg1       1.0  0.66329  0.38056  0.75274  1.0000
+  Mg  Mg2       1.0  0.38056  0.66329  0.25274  1.0000
+  O   O1        1.0  0.67892  0.68587  0.60210  1.0000
+  O   O2        1.0  0.68587  0.67892  0.10210  1.0000
+  O   O3        1.0  0.35856  0.34664  0.84774  1.0000
+  O   O4        1.0  0.34664  0.35856  0.34774  1.0000
+  O   O5        1.0  0.00630  0.11413  0.80336  1.0000
+  O   O6        1.0  0.11413  0.00630  0.30336  1.0000

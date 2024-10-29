@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Yb4Fe4O12
+_chemical_formula_sum              "Yb4 Fe4 O12"
+_cell_length_a       5.28954
+_cell_length_b       5.40804
+_cell_length_c       7.53636
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.01175  0.94768  0.75000  1.0000
+  Yb  Yb2       1.0  0.51175  0.55232  0.25000  1.0000
+  Yb  Yb3       1.0  0.48825  0.44768  0.75000  1.0000
+  Yb  Yb4       1.0  0.98825  0.05232  0.25000  1.0000
+  Fe  Fe1       1.0  0.00000  0.50000  0.50000  1.0000
+  Fe  Fe2       1.0  0.50000  0.00000  0.50000  1.0000
+  Fe  Fe3       1.0  0.50000  0.00000  0.00000  1.0000
+  Fe  Fe4       1.0  0.00000  0.50000  0.00000  1.0000
+  O   O1        1.0  0.70666  0.29322  0.45860  1.0000
+  O   O2        1.0  0.20666  0.20678  0.54140  1.0000
+  O   O3        1.0  0.79334  0.79322  0.04140  1.0000
+  O   O4        1.0  0.29334  0.70678  0.95860  1.0000
+  O   O5        1.0  0.29334  0.70678  0.54140  1.0000
+  O   O6        1.0  0.79334  0.79322  0.45860  1.0000
+  O   O7        1.0  0.20666  0.20678  0.95860  1.0000
+  O   O8        1.0  0.70666  0.29322  0.04140  1.0000
+  O   O9        1.0  0.07904  0.48168  0.25000  1.0000
+  O   O10       1.0  0.57904  0.01832  0.75000  1.0000
+  O   O11       1.0  0.42096  0.98168  0.25000  1.0000
+  O   O12       1.0  0.92096  0.51832  0.75000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Tm2Ru2O12
+_chemical_formula_sum              "Sr4 Tm2 Ru2 O12"
+_cell_length_a       5.81812
+_cell_length_b       5.79597
+_cell_length_c       10.0243
+_cell_angle_alpha    54.9217
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.02925  0.24333  0.75093  1.0000
+  Sr  Sr2       1.0  0.52925  0.75667  0.74907  1.0000
+  Sr  Sr3       1.0  0.97075  0.75667  0.24907  1.0000
+  Sr  Sr4       1.0  0.47075  0.24333  0.25093  1.0000
+  Tm  Tm1       1.0  0.00000  0.50000  0.00000  1.0000
+  Tm  Tm2       1.0  0.50000  0.50000  0.50000  1.0000
+  Ru  Ru1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ru  Ru2       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.29580  0.76570  0.96469  1.0000
+  O   O2        1.0  0.79580  0.23430  0.53531  1.0000
+  O   O3        1.0  0.70420  0.23430  0.03531  1.0000
+  O   O4        1.0  0.20420  0.76570  0.46470  1.0000
+  O   O5        1.0  0.77160  0.83392  0.96420  1.0000
+  O   O6        1.0  0.27160  0.16608  0.53580  1.0000
+  O   O7        1.0  0.22840  0.16608  0.03580  1.0000
+  O   O8        1.0  0.72840  0.83392  0.46420  1.0000
+  O   O9        1.0  0.48536  0.30412  0.76343  1.0000
+  O   O10       1.0  0.98536  0.69588  0.73657  1.0000
+  O   O11       1.0  0.51464  0.69588  0.23657  1.0000
+  O   O12       1.0  0.01464  0.30412  0.26343  1.0000

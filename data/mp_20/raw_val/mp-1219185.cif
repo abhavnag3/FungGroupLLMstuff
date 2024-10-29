@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Sm2Si3Ge
+_chemical_formula_sum              "Sm2 Si3 Ge1"
+_cell_length_a       4.02906
+_cell_length_b       4.07672
+_cell_length_c       8.1392
+_cell_angle_alpha    75.4966
+_cell_angle_beta     75.6698
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.87845  0.62845  0.74311  1.0000
+  Sm  Sm2       1.0  0.12309  0.37309  0.25382  1.0000
+  Si  Si1       1.0  0.46281  0.21282  0.57437  1.0000
+  Si  Si2       1.0  0.54174  0.79174  0.41652  1.0000
+  Si  Si3       1.0  0.69969  0.94969  0.10062  1.0000
+  Ge  Ge1       1.0  0.29422  0.04422  0.91156  1.0000

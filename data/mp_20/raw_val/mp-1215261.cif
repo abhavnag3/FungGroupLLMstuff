@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4V4Fe4
+_chemical_formula_sum              "Zr4 V4 Fe4"
+_cell_length_a       5.12191
+_cell_length_b       5.1081
+_cell_length_c       8.19397
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    59.9105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.33396  0.33209  0.56933  1.0000
+  Zr  Zr2       1.0  0.66734  0.66531  0.44292  1.0000
+  Zr  Zr3       1.0  0.66734  0.66531  0.05708  1.0000
+  Zr  Zr4       1.0  0.33396  0.33209  0.93067  1.0000
+  V   V1        1.0  0.66371  0.17006  0.25000  1.0000
+  V   V2        1.0  0.16623  0.17006  0.25000  1.0000
+  V   V3        1.0  0.00192  0.99615  0.51777  1.0000
+  V   V4        1.0  0.00192  0.99615  0.98223  1.0000
+  Fe  Fe1       1.0  0.82637  0.34726  0.75000  1.0000
+  Fe  Fe2       1.0  0.34421  0.82758  0.75000  1.0000
+  Fe  Fe3       1.0  0.82820  0.82758  0.75000  1.0000
+  Fe  Fe4       1.0  0.16482  0.67036  0.25000  1.0000

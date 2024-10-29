@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Er10Sb2Pd4
+_chemical_formula_sum              "Er10 Sb2 Pd4"
+_cell_length_a       8.72513
+_cell_length_b       8.72513
+_cell_length_c       8.72513
+_cell_angle_alpha    127.752
+_cell_angle_beta     127.752
+_cell_angle_gamma    77.0269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.00000  0.00000  0.00000  1.0000
+  Er  Er2       1.0  0.50000  0.50000  0.00000  1.0000
+  Er  Er3       1.0  0.79892  0.29892  0.81246  1.0000
+  Er  Er4       1.0  0.20108  0.70108  0.18754  1.0000
+  Er  Er5       1.0  0.48646  0.98646  0.18754  1.0000
+  Er  Er6       1.0  0.29892  0.48646  0.50000  1.0000
+  Er  Er7       1.0  0.01354  0.20108  0.50000  1.0000
+  Er  Er8       1.0  0.51354  0.01354  0.81246  1.0000
+  Er  Er9       1.0  0.70108  0.51354  0.50000  1.0000
+  Er  Er10      1.0  0.98646  0.79892  0.50000  1.0000
+  Sb  Sb1       1.0  0.25000  0.25000  0.00000  1.0000
+  Sb  Sb2       1.0  0.75000  0.75000  0.00000  1.0000
+  Pd  Pd1       1.0  0.13711  0.63711  0.77421  1.0000
+  Pd  Pd2       1.0  0.86289  0.36289  0.22579  1.0000
+  Pd  Pd3       1.0  0.63711  0.86289  0.50000  1.0000
+  Pd  Pd4       1.0  0.36289  0.13711  0.50000  1.0000

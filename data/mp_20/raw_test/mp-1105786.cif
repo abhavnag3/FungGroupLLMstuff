@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Dy14Rh6
+_chemical_formula_sum              "Dy14 Rh6"
+_cell_length_a       9.80025
+_cell_length_b       9.80025
+_cell_length_c       6.15442
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.66667  0.33333  0.53501  1.0000
+  Dy  Dy2       1.0  0.33333  0.66667  0.03501  1.0000
+  Dy  Dy3       1.0  0.87546  0.75092  0.74227  1.0000
+  Dy  Dy4       1.0  0.24907  0.12454  0.74227  1.0000
+  Dy  Dy5       1.0  0.87546  0.12454  0.74227  1.0000
+  Dy  Dy6       1.0  0.12454  0.24908  0.24227  1.0000
+  Dy  Dy7       1.0  0.75092  0.87546  0.24227  1.0000
+  Dy  Dy8       1.0  0.12454  0.87546  0.24227  1.0000
+  Dy  Dy9       1.0  0.45933  0.91866  0.54728  1.0000
+  Dy  Dy10      1.0  0.08134  0.54067  0.54728  1.0000
+  Dy  Dy11      1.0  0.45933  0.54067  0.54728  1.0000
+  Dy  Dy12      1.0  0.54067  0.08134  0.04728  1.0000
+  Dy  Dy13      1.0  0.91866  0.45933  0.04728  1.0000
+  Dy  Dy14      1.0  0.54067  0.45933  0.04728  1.0000
+  Rh  Rh1       1.0  0.18961  0.37922  0.81235  1.0000
+  Rh  Rh2       1.0  0.62079  0.81039  0.81235  1.0000
+  Rh  Rh3       1.0  0.18961  0.81039  0.81235  1.0000
+  Rh  Rh4       1.0  0.81039  0.62079  0.31235  1.0000
+  Rh  Rh5       1.0  0.37922  0.18961  0.31235  1.0000
+  Rh  Rh6       1.0  0.81039  0.18961  0.31235  1.0000

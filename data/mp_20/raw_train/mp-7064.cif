@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Er2Si2O7
+_chemical_formula_sum              "Er2 Si2 O7"
+_cell_length_a       5.65667
+_cell_length_b       5.65667
+_cell_length_c       4.77438
+_cell_angle_alpha    82.7092
+_cell_angle_beta     82.7092
+_cell_angle_gamma    105.371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.30804  0.69196  0.00000  1.0000
+  Er  Er2       1.0  0.69196  0.30804  0.00000  1.0000
+  Si  Si1       1.0  0.21877  0.21877  0.58965  1.0000
+  Si  Si2       1.0  0.78123  0.78123  0.41035  1.0000
+  O   O1        1.0  0.91516  0.61461  0.21895  1.0000
+  O   O2        1.0  0.38539  0.08484  0.78105  1.0000
+  O   O3        1.0  0.08484  0.38539  0.78105  1.0000
+  O   O4        1.0  0.61461  0.91516  0.21895  1.0000
+  O   O5        1.0  0.00000  0.00000  0.50000  1.0000
+  O   O6        1.0  0.61701  0.61701  0.71425  1.0000
+  O   O7        1.0  0.38299  0.38299  0.28575  1.0000

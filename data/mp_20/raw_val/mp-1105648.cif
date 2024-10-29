@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Zn8Br4N4
+_chemical_formula_sum              "Zn8 Br4 N4"
+_cell_length_a       6.15008
+_cell_length_b       6.27977
+_cell_length_c       7.71804
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.09275  0.86787  0.68230  1.0000
+  Zn  Zn2       1.0  0.59276  0.13213  0.31770  1.0000
+  Zn  Zn3       1.0  0.59276  0.63213  0.18230  1.0000
+  Zn  Zn4       1.0  0.09275  0.36787  0.81770  1.0000
+  Zn  Zn5       1.0  0.40539  0.01877  0.96822  1.0000
+  Zn  Zn6       1.0  0.90539  0.98123  0.03178  1.0000
+  Zn  Zn7       1.0  0.90539  0.48123  0.46822  1.0000
+  Zn  Zn8       1.0  0.40539  0.51877  0.53178  1.0000
+  Br  Br1       1.0  0.12499  0.08095  0.38031  1.0000
+  Br  Br2       1.0  0.62499  0.91905  0.61969  1.0000
+  Br  Br3       1.0  0.62499  0.41906  0.88031  1.0000
+  Br  Br4       1.0  0.12499  0.58095  0.11969  1.0000
+  N   N1        1.0  0.12492  0.56786  0.62714  1.0000
+  N   N2        1.0  0.62492  0.43214  0.37286  1.0000
+  N   N3        1.0  0.62492  0.93214  0.12714  1.0000
+  N   N4        1.0  0.12492  0.06786  0.87286  1.0000

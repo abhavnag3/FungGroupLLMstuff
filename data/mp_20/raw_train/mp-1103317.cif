@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sb4Rh4S4
+_chemical_formula_sum              "Sb4 Rh4 S4"
+_cell_length_a       6.10151
+_cell_length_b       6.10151
+_cell_length_c       6.10151
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.87868  0.37868  0.12132  1.0000
+  Sb  Sb2       1.0  0.37868  0.12132  0.87868  1.0000
+  Sb  Sb3       1.0  0.12132  0.87868  0.37868  1.0000
+  Sb  Sb4       1.0  0.62132  0.62132  0.62132  1.0000
+  Rh  Rh1       1.0  0.51273  0.01273  0.48727  1.0000
+  Rh  Rh2       1.0  0.01273  0.48727  0.51273  1.0000
+  Rh  Rh3       1.0  0.48727  0.51273  0.01273  1.0000
+  Rh  Rh4       1.0  0.98727  0.98727  0.98727  1.0000
+  S   S1        1.0  0.11765  0.61765  0.88235  1.0000
+  S   S2        1.0  0.61765  0.88235  0.11765  1.0000
+  S   S3        1.0  0.88235  0.11765  0.61765  1.0000
+  S   S4        1.0  0.38235  0.38235  0.38235  1.0000

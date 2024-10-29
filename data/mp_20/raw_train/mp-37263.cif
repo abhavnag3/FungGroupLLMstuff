@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Nd4Te8
+_chemical_formula_sum              "Ca2 Nd4 Te8"
+_cell_length_a       8.29391
+_cell_length_b       8.29391
+_cell_length_c       8.29391
+_cell_angle_alpha    109.77
+_cell_angle_beta     109.77
+_cell_angle_gamma    108.875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.25000  0.50000  1.0000
+  Ca  Ca2       1.0  0.00000  0.00000  0.00000  1.0000
+  Nd  Nd1       1.0  0.37500  0.75063  0.87563  1.0000
+  Nd  Nd2       1.0  0.50063  0.62500  0.37563  1.0000
+  Nd  Nd3       1.0  0.87500  0.49937  0.12437  1.0000
+  Nd  Nd4       1.0  0.24937  0.12500  0.62437  1.0000
+  Te  Te1       1.0  0.26909  0.87186  0.24745  1.0000
+  Te  Te2       1.0  0.77164  0.87440  0.25255  1.0000
+  Te  Te3       1.0  0.12560  0.37814  0.89724  1.0000
+  Te  Te4       1.0  0.97836  0.73091  0.60276  1.0000
+  Te  Te5       1.0  0.62186  0.51909  0.74745  1.0000
+  Te  Te6       1.0  0.48091  0.22836  0.10276  1.0000
+  Te  Te7       1.0  0.12814  0.37560  0.39724  1.0000
+  Te  Te8       1.0  0.62440  0.02164  0.75255  1.0000

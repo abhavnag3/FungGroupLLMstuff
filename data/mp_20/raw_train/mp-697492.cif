@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       BaV2Cu3H2O10
+_chemical_formula_sum              "Ba1 V2 Cu3 H2 O10"
+_cell_length_a       5.96573
+_cell_length_b       5.96573
+_cell_length_c       7.84576
+_cell_angle_alpha    65.9495
+_cell_angle_beta     114.05
+_cell_angle_gamma    119.75
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.00000  0.50000  1.0000
+  V   V1        1.0  0.41441  0.58559  0.73037  1.0000
+  V   V2        1.0  0.58559  0.41441  0.26963  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu3       1.0  0.50000  0.00000  0.00000  1.0000
+  H   H1        1.0  0.73866  0.26134  0.72649  1.0000
+  H   H2        1.0  0.26134  0.73865  0.27351  1.0000
+  O   O1        1.0  0.79110  0.20890  0.87598  1.0000
+  O   O2        1.0  0.20890  0.79110  0.12402  1.0000
+  O   O3        1.0  0.76680  0.71885  0.81603  1.0000
+  O   O4        1.0  0.28115  0.23320  0.81603  1.0000
+  O   O5        1.0  0.23319  0.28115  0.18397  1.0000
+  O   O6        1.0  0.71885  0.76680  0.18397  1.0000
+  O   O7        1.0  0.27879  0.72122  0.79787  1.0000
+  O   O8        1.0  0.72121  0.27879  0.20213  1.0000
+  O   O9        1.0  0.66844  0.33156  0.51583  1.0000
+  O   O10       1.0  0.33156  0.66844  0.48417  1.0000

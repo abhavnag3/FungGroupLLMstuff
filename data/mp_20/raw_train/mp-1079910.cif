@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si4Tc4
+_chemical_formula_sum              "Si4 Tc4"
+_cell_length_a       4.78511
+_cell_length_b       4.78511
+_cell_length_c       4.78511
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.65519  0.15519  0.34481  1.0000
+  Si  Si2       1.0  0.15519  0.34481  0.65519  1.0000
+  Si  Si3       1.0  0.34481  0.65519  0.15519  1.0000
+  Si  Si4       1.0  0.84481  0.84481  0.84481  1.0000
+  Tc  Tc1       1.0  0.36495  0.86494  0.63506  1.0000
+  Tc  Tc2       1.0  0.86494  0.63506  0.36495  1.0000
+  Tc  Tc3       1.0  0.63506  0.36495  0.86494  1.0000
+  Tc  Tc4       1.0  0.13506  0.13506  0.13506  1.0000

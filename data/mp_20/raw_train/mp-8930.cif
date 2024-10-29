@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K4Ge2As4
+_chemical_formula_sum              "K4 Ge2 As4"
+_cell_length_a       8.33596
+_cell_length_b       8.33596
+_cell_length_c       8.33596
+_cell_angle_alpha    132.819
+_cell_angle_beta     129.605
+_cell_angle_gamma    71.508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.30780  0.64211  0.66569  1.0000
+  K   K2        1.0  0.69220  0.35789  0.33431  1.0000
+  K   K3        1.0  0.02358  0.85789  0.16569  1.0000
+  K   K4        1.0  0.97642  0.14211  0.83431  1.0000
+  Ge  Ge1       1.0  0.50000  0.25000  0.75000  1.0000
+  Ge  Ge2       1.0  0.50000  0.75000  0.25000  1.0000
+  As  As1       1.0  0.56685  0.89616  0.67069  1.0000
+  As  As2       1.0  0.43315  0.10384  0.32931  1.0000
+  As  As3       1.0  0.77453  0.60384  0.17069  1.0000
+  As  As4       1.0  0.22547  0.39616  0.82931  1.0000

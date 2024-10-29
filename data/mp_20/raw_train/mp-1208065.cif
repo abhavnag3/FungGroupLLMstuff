@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       TlHg5Br11
+_chemical_formula_sum              "Tl1 Hg5 Br11"
+_cell_length_a       10.1899
+_cell_length_b       10.1899
+_cell_length_c       6.96008
+_cell_angle_alpha    72.3146
+_cell_angle_beta     72.3146
+_cell_angle_gamma    101.211
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.00000  0.00000  0.00000  1.0000
+  Hg  Hg1       1.0  0.34889  0.01541  0.31515  1.0000
+  Hg  Hg2       1.0  0.65111  0.98459  0.68485  1.0000
+  Hg  Hg3       1.0  0.98459  0.65111  0.68485  1.0000
+  Hg  Hg4       1.0  0.01541  0.34889  0.31515  1.0000
+  Hg  Hg5       1.0  0.50000  0.50000  0.00000  1.0000
+  Br  Br1       1.0  0.64836  0.64836  0.60895  1.0000
+  Br  Br2       1.0  0.35164  0.35164  0.39105  1.0000
+  Br  Br3       1.0  0.70382  0.13990  0.30165  1.0000
+  Br  Br4       1.0  0.29618  0.86010  0.69835  1.0000
+  Br  Br5       1.0  0.86010  0.29618  0.69835  1.0000
+  Br  Br6       1.0  0.13990  0.70382  0.30165  1.0000
+  Br  Br7       1.0  0.00000  0.00000  0.50000  1.0000
+  Br  Br8       1.0  0.58199  0.83095  0.07316  1.0000
+  Br  Br9       1.0  0.41801  0.16905  0.92683  1.0000
+  Br  Br10      1.0  0.16905  0.41801  0.92683  1.0000
+  Br  Br11      1.0  0.83095  0.58199  0.07316  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K2V2Cu4S8
+_chemical_formula_sum              "K2 V2 Cu4 S8"
+_cell_length_a       9.4191
+_cell_length_b       9.4191
+_cell_length_c       7.43462
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.655
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.91796  0.55365  0.25000  1.0000
+  K   K2        1.0  0.55365  0.91796  0.75000  1.0000
+  V   V1        1.0  0.86847  0.08707  0.25000  1.0000
+  V   V2        1.0  0.08707  0.86847  0.75000  1.0000
+  Cu  Cu1       1.0  0.99449  0.99449  0.50000  1.0000
+  Cu  Cu2       1.0  0.99449  0.99449  0.00000  1.0000
+  Cu  Cu3       1.0  0.36964  0.58500  0.25000  1.0000
+  Cu  Cu4       1.0  0.58500  0.36964  0.75000  1.0000
+  S   S1        1.0  0.32116  0.10313  0.50834  1.0000
+  S   S2        1.0  0.10313  0.32116  0.49166  1.0000
+  S   S3        1.0  0.53634  0.94955  0.25000  1.0000
+  S   S4        1.0  0.94955  0.53634  0.75000  1.0000
+  S   S5        1.0  0.73566  0.75054  0.25000  1.0000
+  S   S6        1.0  0.75054  0.73566  0.75000  1.0000
+  S   S7        1.0  0.32116  0.10313  0.99166  1.0000
+  S   S8        1.0  0.10313  0.32116  0.00834  1.0000

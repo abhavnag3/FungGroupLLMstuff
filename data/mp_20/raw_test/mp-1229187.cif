@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ag4Sn2Hg3Se9
+_chemical_formula_sum              "Ag4 Sn2 Hg3 Se9"
+_cell_length_a       7.5763
+_cell_length_b       7.58816
+_cell_length_c       10.6982
+_cell_angle_alpha    90.1009
+_cell_angle_beta     90.584
+_cell_angle_gamma    119.775
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.68198  0.67570  0.90200  1.0000
+  Ag  Ag2       1.0  0.68800  0.34420  0.23860  1.0000
+  Ag  Ag3       1.0  0.01120  0.67879  0.57950  1.0000
+  Ag  Ag4       1.0  0.67860  0.01060  0.57930  1.0000
+  Sn  Sn1       1.0  0.00808  0.00636  0.24190  1.0000
+  Sn  Sn2       1.0  0.34673  0.34669  0.58776  1.0000
+  Hg  Hg1       1.0  0.36593  0.02053  0.91374  1.0000
+  Hg  Hg2       1.0  0.00587  0.35703  0.91421  1.0000
+  Hg  Hg3       1.0  0.34576  0.70109  0.23001  1.0000
+  Se  Se1       1.0  0.67364  0.67316  0.65341  1.0000
+  Se  Se2       1.0  0.34398  0.33813  0.33203  1.0000
+  Se  Se3       1.0  0.01047  0.00923  0.99871  1.0000
+  Se  Se4       1.0  0.35694  0.67842  0.98524  1.0000
+  Se  Se5       1.0  0.69404  0.01801  0.32844  1.0000
+  Se  Se6       1.0  0.01752  0.34562  0.65528  1.0000
+  Se  Se7       1.0  0.34575  0.01742  0.65485  1.0000
+  Se  Se8       1.0  0.67994  0.35666  0.99493  1.0000
+  Se  Se9       1.0  0.00959  0.68638  0.32810  1.0000

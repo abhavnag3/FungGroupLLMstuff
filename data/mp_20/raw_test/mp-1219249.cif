@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Si3P3Ir
+_chemical_formula_sum              "Si3 P3 Ir1"
+_cell_length_a       4.92949
+_cell_length_b       4.94763
+_cell_length_c       5.50811
+_cell_angle_alpha    108.706
+_cell_angle_beta     107.911
+_cell_angle_gamma    95.3586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.41332  0.40198  0.63893  1.0000
+  Si  Si2       1.0  0.59420  0.59047  0.36404  1.0000
+  Si  Si3       1.0  0.28930  0.84325  0.84245  1.0000
+  P   P1        1.0  0.15867  0.70628  0.15496  1.0000
+  P   P2        1.0  0.84561  0.29303  0.84964  1.0000
+  P   P3        1.0  0.70702  0.16045  0.15002  1.0000
+  Ir  Ir1       1.0  0.99767  0.99874  0.49996  1.0000

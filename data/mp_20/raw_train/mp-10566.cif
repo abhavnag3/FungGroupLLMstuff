@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Lu6B2C6
+_chemical_formula_sum              "Lu6 B2 C6"
+_cell_length_a       3.53599
+_cell_length_b       3.53599
+_cell_length_c       15.7078
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.3915
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.58354  0.41646  0.39583  1.0000
+  Lu  Lu2       1.0  0.41646  0.58354  0.89583  1.0000
+  Lu  Lu3       1.0  0.41646  0.58354  0.60417  1.0000
+  Lu  Lu4       1.0  0.58354  0.41646  0.10417  1.0000
+  Lu  Lu5       1.0  0.91027  0.08973  0.75000  1.0000
+  Lu  Lu6       1.0  0.08973  0.91027  0.25000  1.0000
+  B   B1        1.0  0.00000  0.00000  0.50000  1.0000
+  B   B2        1.0  0.00000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.09551  0.90449  0.41231  1.0000
+  C   C2        1.0  0.90449  0.09551  0.91231  1.0000
+  C   C3        1.0  0.90449  0.09551  0.58769  1.0000
+  C   C4        1.0  0.09551  0.90449  0.08769  1.0000
+  C   C5        1.0  0.59809  0.40191  0.25000  1.0000
+  C   C6        1.0  0.40191  0.59809  0.75000  1.0000

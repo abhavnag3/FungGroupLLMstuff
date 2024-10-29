@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ho2Cu6Te6
+_chemical_formula_sum              "Ho2 Cu6 Te6"
+_cell_length_a       8.21804
+_cell_length_b       8.21804
+_cell_length_c       8.21804
+_cell_angle_alpha    53.7409
+_cell_angle_beta     53.7409
+_cell_angle_gamma    53.7409
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.83355  0.83355  0.83355  1.0000
+  Ho  Ho2       1.0  0.16645  0.16645  0.16645  1.0000
+  Cu  Cu1       1.0  0.28277  0.96634  0.62665  1.0000
+  Cu  Cu2       1.0  0.62665  0.28277  0.96634  1.0000
+  Cu  Cu3       1.0  0.96634  0.62665  0.28277  1.0000
+  Cu  Cu4       1.0  0.03366  0.37335  0.71723  1.0000
+  Cu  Cu5       1.0  0.37335  0.71723  0.03366  1.0000
+  Cu  Cu6       1.0  0.71723  0.03366  0.37335  1.0000
+  Te  Te1       1.0  0.08856  0.74485  0.41823  1.0000
+  Te  Te2       1.0  0.74485  0.41823  0.08856  1.0000
+  Te  Te3       1.0  0.41823  0.08856  0.74485  1.0000
+  Te  Te4       1.0  0.58177  0.91144  0.25515  1.0000
+  Te  Te5       1.0  0.25515  0.58177  0.91144  1.0000
+  Te  Te6       1.0  0.91144  0.25515  0.58177  1.0000

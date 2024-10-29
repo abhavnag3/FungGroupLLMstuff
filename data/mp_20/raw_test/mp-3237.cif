@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Na4Cu2F8
+_chemical_formula_sum              "Na4 Cu2 F8"
+_cell_length_a       9.39536
+_cell_length_b       3.35432
+_cell_length_c       5.70278
+_cell_angle_alpha    86.7001
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.81784  0.51858  0.58343  1.0000
+  Na  Na2       1.0  0.31784  0.48142  0.91657  1.0000
+  Na  Na3       1.0  0.68216  0.51858  0.08343  1.0000
+  Na  Na4       1.0  0.18216  0.48142  0.41657  1.0000
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.50000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.69081  0.01164  0.37590  1.0000
+  F   F2        1.0  0.19081  0.98836  0.12410  1.0000
+  F   F3        1.0  0.30919  0.98836  0.62410  1.0000
+  F   F4        1.0  0.80919  0.01164  0.87590  1.0000
+  F   F5        1.0  0.95019  0.58360  0.23762  1.0000
+  F   F6        1.0  0.45019  0.41640  0.26238  1.0000
+  F   F7        1.0  0.54981  0.58360  0.73762  1.0000
+  F   F8        1.0  0.04981  0.41640  0.76238  1.0000

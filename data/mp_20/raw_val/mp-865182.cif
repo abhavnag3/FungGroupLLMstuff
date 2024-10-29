@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Gd4S2Cl8
+_chemical_formula_sum              "Gd4 S2 Cl8"
+_cell_length_a       8.29962
+_cell_length_b       8.29962
+_cell_length_c       6.96032
+_cell_angle_alpha    82.6485
+_cell_angle_beta     82.6485
+_cell_angle_gamma    45.4108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.31311  0.90183  0.92226  1.0000
+  Gd  Gd2       1.0  0.90183  0.31311  0.42226  1.0000
+  Gd  Gd3       1.0  0.68689  0.09817  0.07774  1.0000
+  Gd  Gd4       1.0  0.09817  0.68689  0.57774  1.0000
+  S   S1        1.0  0.93634  0.06366  0.75000  1.0000
+  S   S2        1.0  0.06366  0.93634  0.25000  1.0000
+  Cl  Cl1       1.0  0.48881  0.69044  0.57757  1.0000
+  Cl  Cl2       1.0  0.69044  0.48881  0.07757  1.0000
+  Cl  Cl3       1.0  0.13744  0.30009  0.68099  1.0000
+  Cl  Cl4       1.0  0.30009  0.13744  0.18099  1.0000
+  Cl  Cl5       1.0  0.69991  0.86256  0.81901  1.0000
+  Cl  Cl6       1.0  0.86256  0.69991  0.31901  1.0000
+  Cl  Cl7       1.0  0.30956  0.51119  0.92243  1.0000
+  Cl  Cl8       1.0  0.51119  0.30956  0.42243  1.0000

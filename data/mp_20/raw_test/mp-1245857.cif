@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Ca7Mg2N6
+_chemical_formula_sum              "Ca7 Mg2 N6"
+_cell_length_a       7.03588
+_cell_length_b       12.6604
+_cell_length_c       6.42327
+_cell_angle_alpha    90
+_cell_angle_beta     88.0044
+_cell_angle_gamma    25.8808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ca  Ca2       1.0  0.00000  0.37755  0.50000  1.0000
+  Ca  Ca3       1.0  0.00000  0.62245  0.50000  1.0000
+  Ca  Ca4       1.0  0.69961  0.97767  0.82513  1.0000
+  Ca  Ca5       1.0  0.69961  0.32272  0.82513  1.0000
+  Ca  Ca6       1.0  0.30039  0.02233  0.17487  1.0000
+  Ca  Ca7       1.0  0.30039  0.67728  0.17487  1.0000
+  Mg  Mg1       1.0  0.24191  0.87905  0.67306  1.0000
+  Mg  Mg2       1.0  0.75809  0.12095  0.32694  1.0000
+  N   N1        1.0  0.47974  0.90508  0.80371  1.0000
+  N   N2        1.0  0.47974  0.61518  0.80371  1.0000
+  N   N3        1.0  0.52026  0.09492  0.19629  1.0000
+  N   N4        1.0  0.52026  0.38482  0.19629  1.0000
+  N   N5        1.0  0.48909  0.75546  0.34079  1.0000
+  N   N6        1.0  0.51092  0.24454  0.65921  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La2H6O6
+_chemical_formula_sum              "La2 H6 O6"
+_cell_length_a       6.55984
+_cell_length_b       6.55984
+_cell_length_c       3.86368
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.33333  0.66667  0.25000  1.0000
+  La  La2       1.0  0.66667  0.33333  0.75000  1.0000
+  H   H1        1.0  0.86271  0.72376  0.25000  1.0000
+  H   H2        1.0  0.86104  0.13729  0.25000  1.0000
+  H   H3        1.0  0.27624  0.13896  0.25000  1.0000
+  H   H4        1.0  0.13729  0.27624  0.75000  1.0000
+  H   H5        1.0  0.13896  0.86271  0.75000  1.0000
+  H   H6        1.0  0.72376  0.86104  0.75000  1.0000
+  O   O1        1.0  0.91736  0.60981  0.25000  1.0000
+  O   O2        1.0  0.69244  0.08264  0.25000  1.0000
+  O   O3        1.0  0.39019  0.30756  0.25000  1.0000
+  O   O4        1.0  0.08264  0.39019  0.75000  1.0000
+  O   O5        1.0  0.30756  0.91736  0.75000  1.0000
+  O   O6        1.0  0.60981  0.69244  0.75000  1.0000

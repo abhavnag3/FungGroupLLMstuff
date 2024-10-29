@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Lu6Al2O12
+_chemical_formula_sum              "Lu6 Al2 O12"
+_cell_length_a       6.2987
+_cell_length_b       6.2987
+_cell_length_c       6.2987
+_cell_angle_alpha    92.012
+_cell_angle_beta     92.012
+_cell_angle_gamma    92.012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.74640  0.93045  0.43753  1.0000
+  Lu  Lu2       1.0  0.06955  0.56247  0.25360  1.0000
+  Lu  Lu3       1.0  0.56247  0.25360  0.06955  1.0000
+  Lu  Lu4       1.0  0.43753  0.74640  0.93045  1.0000
+  Lu  Lu5       1.0  0.93045  0.43753  0.74640  1.0000
+  Lu  Lu6       1.0  0.25360  0.06955  0.56247  1.0000
+  Al  Al1       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al2       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.70372  0.92984  0.07617  1.0000
+  O   O2        1.0  0.07016  0.92383  0.29628  1.0000
+  O   O3        1.0  0.41461  0.54194  0.20491  1.0000
+  O   O4        1.0  0.92383  0.29628  0.07016  1.0000
+  O   O5        1.0  0.45806  0.79509  0.58539  1.0000
+  O   O6        1.0  0.79509  0.58539  0.45806  1.0000
+  O   O7        1.0  0.20491  0.41461  0.54194  1.0000
+  O   O8        1.0  0.54194  0.20491  0.41461  1.0000
+  O   O9        1.0  0.07617  0.70372  0.92984  1.0000
+  O   O10       1.0  0.58539  0.45806  0.79509  1.0000
+  O   O11       1.0  0.92984  0.07617  0.70372  1.0000
+  O   O12       1.0  0.29628  0.07016  0.92383  1.0000

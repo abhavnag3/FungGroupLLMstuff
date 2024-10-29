@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sr3CaCu2O6
+_chemical_formula_sum              "Sr3 Ca1 Cu2 O6"
+_cell_length_a       6.80543
+_cell_length_b       6.80543
+_cell_length_c       6.96655
+_cell_angle_alpha    75.1825
+_cell_angle_beta     75.1825
+_cell_angle_gamma    33.629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.14742  0.14742  0.67634  1.0000
+  Sr  Sr2       1.0  0.85238  0.85238  0.82658  1.0000
+  Sr  Sr3       1.0  0.85173  0.85173  0.32166  1.0000
+  Ca  Ca1       1.0  0.14587  0.14587  0.17702  1.0000
+  Cu  Cu1       1.0  0.49940  0.49939  0.00615  1.0000
+  Cu  Cu2       1.0  0.50099  0.50099  0.49364  1.0000
+  O   O1        1.0  0.34538  0.34538  0.57793  1.0000
+  O   O2        1.0  0.33997  0.33997  0.07952  1.0000
+  O   O3        1.0  0.65498  0.65498  0.41163  1.0000
+  O   O4        1.0  0.65497  0.65497  0.93327  1.0000
+  O   O5        1.0  0.00374  0.00374  0.49053  1.0000
+  O   O6        1.0  0.00318  0.00318  0.00574  1.0000

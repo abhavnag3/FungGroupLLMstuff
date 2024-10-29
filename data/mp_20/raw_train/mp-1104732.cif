@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zr4Cu2Si8
+_chemical_formula_sum              "Zr4 Cu2 Si8"
+_cell_length_a       16.6265
+_cell_length_b       16.6265
+_cell_length_c       3.68265
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    167.197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.67606  0.32394  0.75000  1.0000
+  Zr  Zr2       1.0  0.32394  0.67606  0.25000  1.0000
+  Zr  Zr3       1.0  0.95338  0.04662  0.75000  1.0000
+  Zr  Zr4       1.0  0.04662  0.95338  0.25000  1.0000
+  Cu  Cu1       1.0  0.25008  0.74992  0.75000  1.0000
+  Cu  Cu2       1.0  0.74992  0.25008  0.25000  1.0000
+  Si  Si1       1.0  0.52387  0.47613  0.75000  1.0000
+  Si  Si2       1.0  0.47613  0.52387  0.25000  1.0000
+  Si  Si3       1.0  0.38817  0.61183  0.75000  1.0000
+  Si  Si4       1.0  0.61183  0.38817  0.25000  1.0000
+  Si  Si5       1.0  0.11214  0.88786  0.75000  1.0000
+  Si  Si6       1.0  0.88786  0.11214  0.25000  1.0000
+  Si  Si7       1.0  0.79711  0.20289  0.75000  1.0000
+  Si  Si8       1.0  0.20289  0.79711  0.25000  1.0000

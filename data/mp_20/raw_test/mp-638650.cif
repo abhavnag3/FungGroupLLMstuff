@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr7FeI12
+_chemical_formula_sum              "Pr7 Fe1 I12"
+_cell_length_a       10.0235
+_cell_length_b       10.0235
+_cell_length_c       10.0235
+_cell_angle_alpha    107.267
+_cell_angle_beta     107.267
+_cell_angle_gamma    107.267
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.80082  0.52981  0.59894  1.0000
+  Pr  Pr2       1.0  0.52981  0.59894  0.80082  1.0000
+  Pr  Pr3       1.0  0.19918  0.47019  0.40106  1.0000
+  Pr  Pr4       1.0  0.47019  0.40106  0.19918  1.0000
+  Pr  Pr5       1.0  0.00000  0.00000  0.00000  1.0000
+  Pr  Pr6       1.0  0.59894  0.80082  0.52981  1.0000
+  Pr  Pr7       1.0  0.40106  0.19918  0.47019  1.0000
+  Fe  Fe1       1.0  0.50000  0.50000  0.50000  1.0000
+  I   I1        1.0  0.72962  0.18497  0.57562  1.0000
+  I   I2        1.0  0.97204  0.89162  0.65667  1.0000
+  I   I3        1.0  0.57562  0.72962  0.18497  1.0000
+  I   I4        1.0  0.10838  0.34333  0.02796  1.0000
+  I   I5        1.0  0.65667  0.97204  0.89162  1.0000
+  I   I6        1.0  0.89162  0.65667  0.97204  1.0000
+  I   I7        1.0  0.02796  0.10838  0.34333  1.0000
+  I   I8        1.0  0.81503  0.42438  0.27038  1.0000
+  I   I9        1.0  0.34333  0.02796  0.10838  1.0000
+  I   I10       1.0  0.27038  0.81503  0.42438  1.0000
+  I   I11       1.0  0.18497  0.57562  0.72962  1.0000
+  I   I12       1.0  0.42438  0.27038  0.81503  1.0000

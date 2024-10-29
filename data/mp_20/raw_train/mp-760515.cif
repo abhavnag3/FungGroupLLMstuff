@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ba3Sr4O7
+_chemical_formula_sum              "Ba3 Sr4 O7"
+_cell_length_a       13.7699
+_cell_length_b       13.7699
+_cell_length_c       13.7699
+_cell_angle_alpha    164.12
+_cell_angle_beta     157.39
+_cell_angle_gamma    27.751
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.85520  0.35519  0.50000  1.0000
+  Ba  Ba2       1.0  0.14481  0.64480  0.50000  1.0000
+  Ba  Ba3       1.0  0.00000  0.50000  0.50000  1.0000
+  Sr  Sr1       1.0  0.28493  0.78493  0.50000  1.0000
+  Sr  Sr2       1.0  0.71507  0.21507  0.50000  1.0000
+  Sr  Sr3       1.0  0.42821  0.92821  0.50000  1.0000
+  Sr  Sr4       1.0  0.57179  0.07179  0.50000  1.0000
+  O   O1        1.0  0.64042  0.64042  0.00000  1.0000
+  O   O2        1.0  0.35958  0.35958  0.00000  1.0000
+  O   O3        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O4        1.0  0.22238  0.22238  0.00000  1.0000
+  O   O5        1.0  0.77762  0.77762  0.00000  1.0000
+  O   O6        1.0  0.07368  0.07368  0.00000  1.0000
+  O   O7        1.0  0.92632  0.92632  0.00000  1.0000

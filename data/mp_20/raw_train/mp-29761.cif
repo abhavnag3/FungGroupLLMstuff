@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       UCO5
+_chemical_formula_sum              "U1 C1 O5"
+_cell_length_a       5.82616
+_cell_length_b       5.82616
+_cell_length_c       5.82616
+_cell_angle_alpha    136.181
+_cell_angle_beta     130.365
+_cell_angle_gamma    68.3346
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.00000  0.99392  0.99392  1.0000
+  C   C1        1.0  0.50000  0.38085  0.88085  1.0000
+  O   O1        1.0  0.81443  0.81119  0.99676  1.0000
+  O   O2        1.0  0.50000  0.08053  0.58053  1.0000
+  O   O3        1.0  0.18557  0.18232  0.99676  1.0000
+  O   O4        1.0  0.26419  0.51024  0.77443  1.0000
+  O   O5        1.0  0.73581  0.51024  0.24605  1.0000

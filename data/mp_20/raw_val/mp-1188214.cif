@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ce4Si10Rh6
+_chemical_formula_sum              "Ce4 Si10 Rh6"
+_cell_length_a       8.20458
+_cell_length_b       8.20458
+_cell_length_c       8.20458
+_cell_angle_alpha    138.148
+_cell_angle_beta     105.262
+_cell_angle_gamma    89.5358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.86394  0.63222  0.23171  1.0000
+  Ce  Ce2       1.0  0.13606  0.36778  0.76829  1.0000
+  Ce  Ce3       1.0  0.40051  0.13222  0.26829  1.0000
+  Ce  Ce4       1.0  0.59949  0.86778  0.73171  1.0000
+  Si  Si1       1.0  0.50000  0.75000  0.25000  1.0000
+  Si  Si2       1.0  0.50000  0.25000  0.75000  1.0000
+  Si  Si3       1.0  0.22503  0.97503  0.75000  1.0000
+  Si  Si4       1.0  0.77497  0.52497  0.75000  1.0000
+  Si  Si5       1.0  0.77497  0.02497  0.25000  1.0000
+  Si  Si6       1.0  0.22503  0.47503  0.25000  1.0000
+  Si  Si7       1.0  0.04537  0.89279  0.15258  1.0000
+  Si  Si8       1.0  0.95463  0.10721  0.84742  1.0000
+  Si  Si9       1.0  0.74021  0.39279  0.34742  1.0000
+  Si  Si10      1.0  0.25979  0.60721  0.65258  1.0000
+  Rh  Rh1       1.0  0.00000  0.75000  0.75000  1.0000
+  Rh  Rh2       1.0  0.00000  0.25000  0.25000  1.0000
+  Rh  Rh3       1.0  0.24997  0.86174  0.38823  1.0000
+  Rh  Rh4       1.0  0.75003  0.13826  0.61177  1.0000
+  Rh  Rh5       1.0  0.47351  0.36174  0.11177  1.0000
+  Rh  Rh6       1.0  0.52649  0.63826  0.88823  1.0000

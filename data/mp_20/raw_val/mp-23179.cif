@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ni4Bi12
+_chemical_formula_sum              "Ni4 Bi12"
+_cell_length_a       4.15882
+_cell_length_b       8.90949
+_cell_length_c       11.5469
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.25000  0.08909  0.48102  1.0000
+  Ni  Ni2       1.0  0.75000  0.91091  0.51898  1.0000
+  Ni  Ni3       1.0  0.25000  0.58909  0.01898  1.0000
+  Ni  Ni4       1.0  0.75000  0.41091  0.98102  1.0000
+  Bi  Bi1       1.0  0.75000  0.20171  0.60944  1.0000
+  Bi  Bi2       1.0  0.25000  0.79829  0.39056  1.0000
+  Bi  Bi3       1.0  0.75000  0.70171  0.89056  1.0000
+  Bi  Bi4       1.0  0.25000  0.29829  0.10944  1.0000
+  Bi  Bi5       1.0  0.75000  0.11972  0.90775  1.0000
+  Bi  Bi6       1.0  0.25000  0.88028  0.09224  1.0000
+  Bi  Bi7       1.0  0.75000  0.61972  0.59225  1.0000
+  Bi  Bi8       1.0  0.25000  0.38028  0.40775  1.0000
+  Bi  Bi9       1.0  0.25000  0.41054  0.82273  1.0000
+  Bi  Bi10      1.0  0.75000  0.58946  0.17727  1.0000
+  Bi  Bi11      1.0  0.25000  0.91054  0.67727  1.0000
+  Bi  Bi12      1.0  0.75000  0.08946  0.32273  1.0000

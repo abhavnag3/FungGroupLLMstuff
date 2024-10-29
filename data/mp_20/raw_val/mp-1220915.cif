@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Na3Sm3F12
+_chemical_formula_sum              "Na3 Sm3 F12"
+_cell_length_a       6.13257
+_cell_length_b       7.12323
+_cell_length_c       7.12925
+_cell_angle_alpha    62.1252
+_cell_angle_beta     64.5935
+_cell_angle_gamma    64.6239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.66515  0.49270  0.15637  1.0000
+  Na  Na2       1.0  0.66353  0.01125  0.67537  1.0000
+  Na  Na3       1.0  0.33125  0.42320  0.91210  1.0000
+  Sm  Sm1       1.0  0.00181  0.99864  0.99843  1.0000
+  Sm  Sm2       1.0  0.99806  0.49753  0.50410  1.0000
+  Sm  Sm3       1.0  0.33447  0.92037  0.41195  1.0000
+  F   F1        1.0  0.36269  0.00464  0.03682  1.0000
+  F   F2        1.0  0.36033  0.54591  0.49882  1.0000
+  F   F3        1.0  0.59736  0.16101  0.19831  1.0000
+  F   F4        1.0  0.59508  0.70710  0.65436  1.0000
+  F   F5        1.0  0.04437  0.27808  0.31783  1.0000
+  F   F6        1.0  0.04770  0.82247  0.77109  1.0000
+  F   F7        1.0  0.25318  0.62660  0.12970  1.0000
+  F   F8        1.0  0.27558  0.12913  0.62667  1.0000
+  F   F9        1.0  0.98209  0.37901  0.88155  1.0000
+  F   F10       1.0  0.97690  0.88671  0.38421  1.0000
+  F   F11       1.0  0.75471  0.73464  0.23295  1.0000
+  F   F12       1.0  0.75576  0.24400  0.74638  1.0000

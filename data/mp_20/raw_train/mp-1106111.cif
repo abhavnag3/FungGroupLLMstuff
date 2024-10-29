@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ni10Ge6
+_chemical_formula_sum              "Ni10 Ge6"
+_cell_length_a       6.36502
+_cell_length_b       6.39789
+_cell_length_c       6.39789
+_cell_angle_alpha    116.624
+_cell_angle_beta     116.457
+_cell_angle_gamma    63.543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.60269  0.89465  0.74855  1.0000
+  Ni  Ni2       1.0  0.39732  0.74855  0.89465  1.0000
+  Ni  Ni3       1.0  0.90057  0.26284  0.41533  1.0000
+  Ni  Ni4       1.0  0.09943  0.41533  0.26284  1.0000
+  Ni  Ni5       1.0  0.23702  0.58903  0.07513  1.0000
+  Ni  Ni6       1.0  0.76298  0.07513  0.58903  1.0000
+  Ni  Ni7       1.0  0.17394  0.16967  0.82894  1.0000
+  Ni  Ni8       1.0  0.82606  0.82894  0.16967  1.0000
+  Ni  Ni9       1.0  0.34200  0.99558  0.33831  1.0000
+  Ni  Ni10      1.0  0.65800  0.33831  0.99558  1.0000
+  Ge  Ge1       1.0  0.00000  0.97754  0.97754  1.0000
+  Ge  Ge2       1.0  0.29474  0.36799  0.66402  1.0000
+  Ge  Ge3       1.0  0.70526  0.66402  0.36799  1.0000
+  Ge  Ge4       1.0  0.50000  0.19926  0.19926  1.0000
+  Ge  Ge5       1.0  0.19992  0.80230  0.49286  1.0000
+  Ge  Ge6       1.0  0.80008  0.49286  0.80230  1.0000

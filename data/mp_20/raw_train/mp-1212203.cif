@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ho10Sb2Pd4
+_chemical_formula_sum              "Ho10 Sb2 Pd4"
+_cell_length_a       8.73311
+_cell_length_b       8.73311
+_cell_length_c       8.73311
+_cell_angle_alpha    127.476
+_cell_angle_beta     127.476
+_cell_angle_gamma    77.4758
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ho  Ho2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ho  Ho3       1.0  0.79916  0.29916  0.81347  1.0000
+  Ho  Ho4       1.0  0.20084  0.70084  0.18653  1.0000
+  Ho  Ho5       1.0  0.48569  0.98569  0.18653  1.0000
+  Ho  Ho6       1.0  0.29916  0.48569  0.50000  1.0000
+  Ho  Ho7       1.0  0.01431  0.20084  0.50000  1.0000
+  Ho  Ho8       1.0  0.51431  0.01431  0.81347  1.0000
+  Ho  Ho9       1.0  0.70084  0.51431  0.50000  1.0000
+  Ho  Ho10      1.0  0.98569  0.79916  0.50000  1.0000
+  Sb  Sb1       1.0  0.25000  0.25000  0.00000  1.0000
+  Sb  Sb2       1.0  0.75000  0.75000  0.00000  1.0000
+  Pd  Pd1       1.0  0.13734  0.63734  0.77468  1.0000
+  Pd  Pd2       1.0  0.86266  0.36266  0.22532  1.0000
+  Pd  Pd3       1.0  0.63734  0.86266  0.50000  1.0000
+  Pd  Pd4       1.0  0.36266  0.13734  0.50000  1.0000

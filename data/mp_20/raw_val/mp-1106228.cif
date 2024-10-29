@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Tb7NiI12
+_chemical_formula_sum              "Tb7 Ni1 I12"
+_cell_length_a       9.70656
+_cell_length_b       9.70656
+_cell_length_c       9.70656
+_cell_angle_alpha    107.417
+_cell_angle_beta     107.417
+_cell_angle_gamma    107.417
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.90031  0.96878  0.70105  1.0000
+  Tb  Tb2       1.0  0.70105  0.90031  0.96877  1.0000
+  Tb  Tb3       1.0  0.96878  0.70105  0.90031  1.0000
+  Tb  Tb4       1.0  0.09969  0.03122  0.29896  1.0000
+  Tb  Tb5       1.0  0.29896  0.09969  0.03122  1.0000
+  Tb  Tb6       1.0  0.03122  0.29896  0.09969  1.0000
+  Tb  Tb7       1.0  0.50000  0.50000  0.50000  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.00000  1.0000
+  I   I1        1.0  0.92464  0.31967  0.77162  1.0000
+  I   I2        1.0  0.77162  0.92464  0.31967  1.0000
+  I   I3        1.0  0.31967  0.77162  0.92464  1.0000
+  I   I4        1.0  0.07536  0.68033  0.22839  1.0000
+  I   I5        1.0  0.22839  0.07536  0.68033  1.0000
+  I   I6        1.0  0.68033  0.22838  0.07536  1.0000
+  I   I7        1.0  0.52802  0.84460  0.60818  1.0000
+  I   I8        1.0  0.60818  0.52802  0.84460  1.0000
+  I   I9        1.0  0.84460  0.60818  0.52802  1.0000
+  I   I10       1.0  0.47198  0.15540  0.39182  1.0000
+  I   I11       1.0  0.39182  0.47198  0.15540  1.0000
+  I   I12       1.0  0.15540  0.39182  0.47198  1.0000

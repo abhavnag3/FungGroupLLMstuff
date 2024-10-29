@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Gd6In2O12
+_chemical_formula_sum              "Gd6 In2 O12"
+_cell_length_a       7.30682
+_cell_length_b       7.30682
+_cell_length_c       5.67917
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    103.003
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.09030  0.29988  0.46931  1.0000
+  Gd  Gd2       1.0  0.29988  0.09030  0.96931  1.0000
+  Gd  Gd3       1.0  0.60095  0.39905  0.42025  1.0000
+  Gd  Gd4       1.0  0.39905  0.60095  0.92025  1.0000
+  Gd  Gd5       1.0  0.70012  0.90970  0.46931  1.0000
+  Gd  Gd6       1.0  0.90970  0.70012  0.96931  1.0000
+  In  In1       1.0  0.81002  0.18998  0.98555  1.0000
+  In  In2       1.0  0.18998  0.81002  0.48555  1.0000
+  O   O1        1.0  0.32251  0.35712  0.19574  1.0000
+  O   O2        1.0  0.35712  0.32251  0.69574  1.0000
+  O   O3        1.0  0.56679  0.10242  0.19124  1.0000
+  O   O4        1.0  0.10241  0.56679  0.69124  1.0000
+  O   O5        1.0  0.97224  0.02776  0.15868  1.0000
+  O   O6        1.0  0.78147  0.21854  0.63025  1.0000
+  O   O7        1.0  0.21854  0.78146  0.13025  1.0000
+  O   O8        1.0  0.02776  0.97224  0.65868  1.0000
+  O   O9        1.0  0.89758  0.43321  0.19124  1.0000
+  O   O10       1.0  0.43321  0.89758  0.69124  1.0000
+  O   O11       1.0  0.67749  0.64289  0.69574  1.0000
+  O   O12       1.0  0.64289  0.67749  0.19574  1.0000

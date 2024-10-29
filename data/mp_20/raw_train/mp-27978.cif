@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pu2I6
+_chemical_formula_sum              "Pu2 I6"
+_cell_length_a       8.18203
+_cell_length_b       8.18203
+_cell_length_c       10.0106
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    149.929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.26082  0.73918  0.25000  1.0000
+  Pu  Pu2       1.0  0.73918  0.26082  0.75000  1.0000
+  I   I1        1.0  0.65781  0.34219  0.43101  1.0000
+  I   I2        1.0  0.34219  0.65781  0.56898  1.0000
+  I   I3        1.0  0.09526  0.90474  0.75000  1.0000
+  I   I4        1.0  0.90474  0.09526  0.25000  1.0000
+  I   I5        1.0  0.65781  0.34219  0.06899  1.0000
+  I   I6        1.0  0.34219  0.65781  0.93102  1.0000

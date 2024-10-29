@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li5Mn5O9F
+_chemical_formula_sum              "Li5 Mn5 O9 F1"
+_cell_length_a       5.22176
+_cell_length_b       5.36142
+_cell_length_c       7.89259
+_cell_angle_alpha    105.695
+_cell_angle_beta     104.527
+_cell_angle_gamma    101.638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.69469  0.41993  0.90861  1.0000
+  Li  Li2       1.0  0.11073  0.20070  0.70051  1.0000
+  Li  Li3       1.0  0.49796  0.97532  0.48404  1.0000
+  Li  Li4       1.0  0.90035  0.80006  0.30795  1.0000
+  Li  Li5       1.0  0.30072  0.60937  0.10332  1.0000
+  Mn  Mn1       1.0  0.38508  0.79724  0.80320  1.0000
+  Mn  Mn2       1.0  0.79605  0.58646  0.59828  1.0000
+  Mn  Mn3       1.0  0.20292  0.39946  0.39837  1.0000
+  Mn  Mn4       1.0  0.60763  0.19297  0.19773  1.0000
+  Mn  Mn5       1.0  0.00359  0.99070  0.00687  1.0000
+  O   O1        1.0  0.01871  0.59357  0.83528  1.0000
+  O   O2        1.0  0.37102  0.16670  0.94960  1.0000
+  O   O3        1.0  0.44892  0.44878  0.64948  1.0000
+  O   O4        1.0  0.86683  0.20603  0.43341  1.0000
+  O   O5        1.0  0.13417  0.79700  0.57079  1.0000
+  O   O6        1.0  0.28888  0.01588  0.25530  1.0000
+  O   O7        1.0  0.54455  0.59487  0.36751  1.0000
+  O   O8        1.0  0.62849  0.78882  0.02834  1.0000
+  O   O9        1.0  0.94878  0.38993  0.16378  1.0000
+  F   F1        1.0  0.74992  0.02622  0.73763  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cu4Si2NiS7
+_chemical_formula_sum              "Cu4 Si2 Ni1 S7"
+_cell_length_a       6.34371
+_cell_length_b       6.34371
+_cell_length_c       8.17118
+_cell_angle_alpha    82.0642
+_cell_angle_beta     82.0642
+_cell_angle_gamma    49.1879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.12075  0.15903  0.06540  1.0000
+  Cu  Cu2       1.0  0.84097  0.87925  0.93460  1.0000
+  Cu  Cu3       1.0  0.70504  0.71513  0.36074  1.0000
+  Cu  Cu4       1.0  0.28487  0.29496  0.63926  1.0000
+  Si  Si1       1.0  0.58308  0.56589  0.78222  1.0000
+  Si  Si2       1.0  0.43411  0.41692  0.21778  1.0000
+  Ni  Ni1       1.0  0.99955  0.00045  0.50000  1.0000
+  S   S1        1.0  0.94191  0.48789  0.85091  1.0000
+  S   S2        1.0  0.38772  0.88818  0.58560  1.0000
+  S   S3        1.0  0.67894  0.19504  0.71293  1.0000
+  S   S4        1.0  0.26849  0.73151  0.00000  1.0000
+  S   S5        1.0  0.80496  0.32106  0.28707  1.0000
+  S   S6        1.0  0.51211  0.05809  0.14909  1.0000
+  S   S7        1.0  0.11182  0.61228  0.41440  1.0000

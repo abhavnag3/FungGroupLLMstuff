@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Rb2UH4Cl4O4
+_chemical_formula_sum              "Rb2 U1 H4 Cl4 O4"
+_cell_length_a       7.24457
+_cell_length_b       7.16283
+_cell_length_c       7.54344
+_cell_angle_alpha    91.8982
+_cell_angle_beta     99.8108
+_cell_angle_gamma    119.866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.07236  0.24597  0.25266  1.0000
+  Rb  Rb2       1.0  0.92764  0.75403  0.74734  1.0000
+  U   U1        1.0  0.50000  0.00000  0.50000  1.0000
+  H   H1        1.0  0.63199  0.77188  0.06616  1.0000
+  H   H2        1.0  0.36801  0.22812  0.93385  1.0000
+  H   H3        1.0  0.77378  0.68237  0.15658  1.0000
+  H   H4        1.0  0.22622  0.31762  0.84342  1.0000
+  Cl  Cl1       1.0  0.69121  0.22825  0.83149  1.0000
+  Cl  Cl2       1.0  0.30879  0.77175  0.16850  1.0000
+  Cl  Cl3       1.0  0.33496  0.62337  0.63851  1.0000
+  Cl  Cl4       1.0  0.66504  0.37663  0.36149  1.0000
+  O   O1        1.0  0.77515  0.78554  0.07470  1.0000
+  O   O2        1.0  0.22485  0.21446  0.92530  1.0000
+  O   O3        1.0  0.25661  0.00898  0.51437  1.0000
+  O   O4        1.0  0.74339  0.99102  0.48563  1.0000

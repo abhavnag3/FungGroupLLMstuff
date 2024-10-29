@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Si4Pt4
+_chemical_formula_sum              "Si4 Pt4"
+_cell_length_a       3.63933
+_cell_length_b       5.65135
+_cell_length_c       5.97821
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Si  Si1       1.0  0.25000  0.67845  0.08331  1.0000
+  Si  Si2       1.0  0.75000  0.32155  0.91669  1.0000
+  Si  Si3       1.0  0.25000  0.17845  0.41669  1.0000
+  Si  Si4       1.0  0.75000  0.82155  0.58331  1.0000
+  Pt  Pt1       1.0  0.25000  0.49477  0.69338  1.0000
+  Pt  Pt2       1.0  0.75000  0.50523  0.30662  1.0000
+  Pt  Pt3       1.0  0.25000  0.99477  0.80662  1.0000
+  Pt  Pt4       1.0  0.75000  0.00523  0.19338  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ho4Al4Fe4
+_chemical_formula_sum              "Ho4 Al4 Fe4"
+_cell_length_a       5.30286
+_cell_length_b       5.37508
+_cell_length_c       8.68733
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.66805  0.33389  0.55437  1.0000
+  Ho  Ho2       1.0  0.33700  0.66856  0.42602  1.0000
+  Ho  Ho3       1.0  0.33700  0.66856  0.07398  1.0000
+  Ho  Ho4       1.0  0.66805  0.33389  0.94563  1.0000
+  Al  Al1       1.0  0.99013  0.99538  0.48453  1.0000
+  Al  Al2       1.0  0.99013  0.99538  0.01547  1.0000
+  Al  Al3       1.0  0.17402  0.33997  0.75000  1.0000
+  Al  Al4       1.0  0.17389  0.83409  0.75000  1.0000
+  Fe  Fe1       1.0  0.66588  0.83301  0.75000  1.0000
+  Fe  Fe2       1.0  0.82411  0.64297  0.25000  1.0000
+  Fe  Fe3       1.0  0.82404  0.18051  0.25000  1.0000
+  Fe  Fe4       1.0  0.34771  0.17380  0.25000  1.0000

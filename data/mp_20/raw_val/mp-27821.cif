@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ag3P11
+_chemical_formula_sum              "Ag3 P11"
+_cell_length_a       7.58336
+_cell_length_b       7.58336
+_cell_length_c       6.68123
+_cell_angle_alpha    65.5225
+_cell_angle_beta     65.5225
+_cell_angle_gamma    60.5973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.29133  0.29133  0.97417  1.0000
+  Ag  Ag2       1.0  0.58955  0.58955  0.19640  1.0000
+  Ag  Ag3       1.0  0.99931  0.99931  0.99763  1.0000
+  P   P1        1.0  0.81111  0.81111  0.95428  1.0000
+  P   P2        1.0  0.49240  0.49240  0.94494  1.0000
+  P   P3        1.0  0.08193  0.08193  0.27367  1.0000
+  P   P4        1.0  0.26482  0.77556  0.46926  1.0000
+  P   P5        1.0  0.77556  0.26482  0.46926  1.0000
+  P   P6        1.0  0.61405  0.91053  0.49741  1.0000
+  P   P7        1.0  0.91053  0.61405  0.49741  1.0000
+  P   P8        1.0  0.61005  0.05530  0.72883  1.0000
+  P   P9        1.0  0.05530  0.61005  0.72883  1.0000
+  P   P10       1.0  0.35123  0.80883  0.73377  1.0000
+  P   P11       1.0  0.80883  0.35123  0.73377  1.0000

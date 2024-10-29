@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       TiZnBi2O6
+_chemical_formula_sum              "Ti1 Zn1 Bi2 O6"
+_cell_length_a       3.82988
+_cell_length_b       3.82988
+_cell_length_c       9.96227
+_cell_angle_alpha    88.5863
+_cell_angle_beta     88.5863
+_cell_angle_gamma    89.3726
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.48843  0.48843  0.76495  1.0000
+  Zn  Zn1       1.0  0.47935  0.47935  0.27966  1.0000
+  Bi  Bi1       1.0  0.05957  0.05956  0.54870  1.0000
+  Bi  Bi2       1.0  0.99076  0.99076  0.07995  1.0000
+  O   O1        1.0  0.98170  0.48123  0.19921  1.0000
+  O   O2        1.0  0.48123  0.98170  0.19921  1.0000
+  O   O3        1.0  0.98073  0.46450  0.70609  1.0000
+  O   O4        1.0  0.46450  0.98073  0.70609  1.0000
+  O   O5        1.0  0.44413  0.44413  0.47861  1.0000
+  O   O6        1.0  0.48660  0.48660  0.93652  1.0000

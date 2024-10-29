@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2MnAl3S8
+_chemical_formula_sum              "Mg2 Mn1 Al3 S8"
+_cell_length_a       7.24722
+_cell_length_b       7.26008
+_cell_length_c       7.24249
+_cell_angle_alpha    60.0935
+_cell_angle_beta     60.0019
+_cell_angle_gamma    60.0484
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.87513  0.87469  0.87507  1.0000
+  Mg  Mg2       1.0  0.12489  0.12526  0.12493  1.0000
+  Mn  Mn1       1.0  0.50001  0.00005  0.49995  1.0000
+  Al  Al1       1.0  0.49997  0.50003  0.50003  1.0000
+  Al  Al2       1.0  0.49997  0.50002  0.99997  1.0000
+  Al  Al3       1.0  0.99997  0.49999  0.50004  1.0000
+  S   S1        1.0  0.73990  0.73393  0.73999  1.0000
+  S   S2        1.0  0.26067  0.26517  0.71344  1.0000
+  S   S3        1.0  0.26189  0.71420  0.26196  1.0000
+  S   S4        1.0  0.71365  0.26566  0.26028  1.0000
+  S   S5        1.0  0.73811  0.28575  0.73806  1.0000
+  S   S6        1.0  0.28642  0.73436  0.73968  1.0000
+  S   S7        1.0  0.26007  0.26606  0.26002  1.0000
+  S   S8        1.0  0.73934  0.73483  0.28658  1.0000

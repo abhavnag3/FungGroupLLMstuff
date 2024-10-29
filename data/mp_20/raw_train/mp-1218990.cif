@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       SmY4Se5
+_chemical_formula_sum              "Sm1 Y4 Se5"
+_cell_length_a       16.82
+_cell_length_b       16.82
+_cell_length_c       16.82
+_cell_angle_alpha    14.0888
+_cell_angle_beta     14.0888
+_cell_angle_gamma    14.0888
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Y   Y1        1.0  0.59977  0.59977  0.59977  1.0000
+  Y   Y2        1.0  0.20004  0.20004  0.20004  1.0000
+  Y   Y3        1.0  0.79996  0.79996  0.79996  1.0000
+  Y   Y4        1.0  0.40023  0.40023  0.40023  1.0000
+  Se  Se1       1.0  0.70134  0.70134  0.70134  1.0000
+  Se  Se2       1.0  0.10011  0.10011  0.10011  1.0000
+  Se  Se3       1.0  0.50000  0.50000  0.50000  1.0000
+  Se  Se4       1.0  0.29866  0.29866  0.29866  1.0000
+  Se  Se5       1.0  0.89989  0.89989  0.89989  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       ErAl7Fe5
+_chemical_formula_sum              "Er1 Al7 Fe5"
+_cell_length_a       6.60725
+_cell_length_b       6.60725
+_cell_length_c       6.60725
+_cell_angle_alpha    135.376
+_cell_angle_beta     98.3871
+_cell_angle_gamma    98.1872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.00456  0.00000  0.00456  1.0000
+  Al  Al1       1.0  0.66029  0.00000  0.66029  1.0000
+  Al  Al2       1.0  0.33869  0.00000  0.33869  1.0000
+  Al  Al3       1.0  0.33390  0.34234  0.99156  1.0000
+  Al  Al4       1.0  0.64922  0.65766  0.99156  1.0000
+  Al  Al5       1.0  0.77461  0.50000  0.27461  1.0000
+  Al  Al6       1.0  0.79468  0.28994  0.50474  1.0000
+  Al  Al7       1.0  0.21480  0.71006  0.50474  1.0000
+  Fe  Fe1       1.0  0.49930  0.49777  0.49564  1.0000
+  Fe  Fe2       1.0  0.49930  0.00366  0.00153  1.0000
+  Fe  Fe3       1.0  0.99787  0.99634  0.49564  1.0000
+  Fe  Fe4       1.0  0.99787  0.50223  0.00153  1.0000
+  Fe  Fe5       1.0  0.23491  0.50000  0.73491  1.0000

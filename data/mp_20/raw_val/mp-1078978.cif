@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Yb4Cd2Ge4
+_chemical_formula_sum              "Yb4 Cd2 Ge4"
+_cell_length_a       7.3416
+_cell_length_b       7.3416
+_cell_length_c       4.38278
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.67351  0.17351  0.50000  1.0000
+  Yb  Yb2       1.0  0.32649  0.82649  0.50000  1.0000
+  Yb  Yb3       1.0  0.17351  0.32649  0.50000  1.0000
+  Yb  Yb4       1.0  0.82649  0.67351  0.50000  1.0000
+  Cd  Cd1       1.0  0.50000  0.50000  0.00000  1.0000
+  Cd  Cd2       1.0  0.00000  0.00000  0.00000  1.0000
+  Ge  Ge1       1.0  0.12382  0.62382  0.00000  1.0000
+  Ge  Ge2       1.0  0.87618  0.37618  0.00000  1.0000
+  Ge  Ge3       1.0  0.62382  0.87618  0.00000  1.0000
+  Ge  Ge4       1.0  0.37618  0.12382  0.00000  1.0000

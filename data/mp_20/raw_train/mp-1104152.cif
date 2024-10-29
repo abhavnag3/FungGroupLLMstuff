@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tb4Fe2C8
+_chemical_formula_sum              "Tb4 Fe2 C8"
+_cell_length_a       5.05
+_cell_length_b       6.62854
+_cell_length_c       6.62854
+_cell_angle_alpha    68.8305
+_cell_angle_beta     67.6088
+_cell_angle_gamma    67.6088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.64436  0.19777  0.51350  1.0000
+  Tb  Tb2       1.0  0.35564  0.80223  0.48650  1.0000
+  Tb  Tb3       1.0  0.14436  0.51350  0.19777  1.0000
+  Tb  Tb4       1.0  0.85564  0.48650  0.80223  1.0000
+  Fe  Fe1       1.0  0.25000  0.00000  0.00000  1.0000
+  Fe  Fe2       1.0  0.75000  0.00000  0.00000  1.0000
+  C   C1        1.0  0.87219  0.79157  0.46405  1.0000
+  C   C2        1.0  0.12781  0.20843  0.53595  1.0000
+  C   C3        1.0  0.37219  0.46405  0.79157  1.0000
+  C   C4        1.0  0.62781  0.53595  0.20843  1.0000
+  C   C5        1.0  0.92239  0.91333  0.24189  1.0000
+  C   C6        1.0  0.07761  0.08667  0.75811  1.0000
+  C   C7        1.0  0.42239  0.24189  0.91333  1.0000
+  C   C8        1.0  0.57761  0.75811  0.08667  1.0000

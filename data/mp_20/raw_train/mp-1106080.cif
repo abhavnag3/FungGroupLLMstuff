@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba6Ir2C6N6
+_chemical_formula_sum              "Ba6 Ir2 C6 N6"
+_cell_length_a       9.32464
+_cell_length_b       9.32464
+_cell_length_c       5.85041
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.30639  0.92846  0.25000  1.0000
+  Ba  Ba2       1.0  0.62207  0.69361  0.25000  1.0000
+  Ba  Ba3       1.0  0.07154  0.37793  0.25000  1.0000
+  Ba  Ba4       1.0  0.69361  0.07154  0.75000  1.0000
+  Ba  Ba5       1.0  0.37793  0.30639  0.75000  1.0000
+  Ba  Ba6       1.0  0.92846  0.62207  0.75000  1.0000
+  Ir  Ir1       1.0  0.66667  0.33333  0.25000  1.0000
+  Ir  Ir2       1.0  0.33333  0.66667  0.75000  1.0000
+  C   C1        1.0  0.44638  0.29859  0.25000  1.0000
+  C   C2        1.0  0.85221  0.55362  0.25000  1.0000
+  C   C3        1.0  0.70141  0.14779  0.25000  1.0000
+  C   C4        1.0  0.55362  0.70141  0.75000  1.0000
+  C   C5        1.0  0.14779  0.44638  0.75000  1.0000
+  C   C6        1.0  0.29859  0.85221  0.75000  1.0000
+  N   N1        1.0  0.30238  0.27273  0.25000  1.0000
+  N   N2        1.0  0.97035  0.69762  0.25000  1.0000
+  N   N3        1.0  0.72727  0.02965  0.25000  1.0000
+  N   N4        1.0  0.69762  0.72727  0.75000  1.0000
+  N   N5        1.0  0.02965  0.30238  0.75000  1.0000
+  N   N6        1.0  0.27273  0.97035  0.75000  1.0000

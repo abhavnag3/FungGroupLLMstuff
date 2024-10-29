@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pr4U2Te10
+_chemical_formula_sum              "Pr4 U2 Te10"
+_cell_length_a       9.86549
+_cell_length_b       9.86549
+_cell_length_c       8.90382
+_cell_angle_alpha    89.1457
+_cell_angle_beta     89.1457
+_cell_angle_gamma    37.0775
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25027  0.24977  0.26630  1.0000
+  Pr  Pr2       1.0  0.57993  0.59123  0.26191  1.0000
+  Pr  Pr3       1.0  0.75023  0.74974  0.73370  1.0000
+  Pr  Pr4       1.0  0.40877  0.42007  0.73809  1.0000
+  U   U1        1.0  0.93102  0.90721  0.26143  1.0000
+  U   U2        1.0  0.09279  0.06898  0.73857  1.0000
+  Te  Te1       1.0  0.24635  0.24669  0.63915  1.0000
+  Te  Te2       1.0  0.91457  0.92215  0.62830  1.0000
+  Te  Te3       1.0  0.59041  0.57790  0.63691  1.0000
+  Te  Te4       1.0  0.75331  0.75365  0.36085  1.0000
+  Te  Te5       1.0  0.42210  0.40959  0.36309  1.0000
+  Te  Te6       1.0  0.07785  0.08543  0.37170  1.0000
+  Te  Te7       1.0  0.42093  0.93498  0.99861  1.0000
+  Te  Te8       1.0  0.06502  0.57907  0.00139  1.0000
+  Te  Te9       1.0  0.75019  0.24981  0.00000  1.0000
+  Te  Te10      1.0  0.24628  0.75372  0.00000  1.0000

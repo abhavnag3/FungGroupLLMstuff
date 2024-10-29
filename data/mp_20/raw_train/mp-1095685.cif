@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Tm3Fe4Ge4
+_chemical_formula_sum              "Tm3 Fe4 Ge4"
+_cell_length_a       7.77621
+_cell_length_b       7.77621
+_cell_length_c       7.77621
+_cell_angle_alpha    149.172
+_cell_angle_beta     128.42
+_cell_angle_gamma    61.3059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.50000  0.00000  0.50000  1.0000
+  Tm  Tm2       1.0  0.87315  0.87315  0.00000  1.0000
+  Tm  Tm3       1.0  0.12685  0.12685  0.00000  1.0000
+  Fe  Fe1       1.0  0.49460  0.67626  0.81834  1.0000
+  Fe  Fe2       1.0  0.85792  0.67626  0.18166  1.0000
+  Fe  Fe3       1.0  0.14208  0.32374  0.81834  1.0000
+  Fe  Fe4       1.0  0.50540  0.32374  0.18166  1.0000
+  Ge  Ge1       1.0  0.27794  0.77794  0.50000  1.0000
+  Ge  Ge2       1.0  0.72206  0.22206  0.50000  1.0000
+  Ge  Ge3       1.0  0.80298  0.50000  0.30298  1.0000
+  Ge  Ge4       1.0  0.19702  0.50000  0.69702  1.0000

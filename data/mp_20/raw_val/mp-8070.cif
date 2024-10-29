@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Be2Si2O8
+_chemical_formula_sum              "Li4 Be2 Si2 O8"
+_cell_length_a       4.98086
+_cell_length_b       4.74382
+_cell_length_c       7.75648
+_cell_angle_alpha    52.3015
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.17470  0.50097  0.50050  1.0000
+  Li  Li2       1.0  0.82530  0.50097  0.00050  1.0000
+  Li  Li3       1.0  0.33550  0.24901  0.25262  1.0000
+  Li  Li4       1.0  0.66450  0.24901  0.75262  1.0000
+  Be  Be1       1.0  0.31994  0.73965  0.75167  1.0000
+  Be  Be2       1.0  0.68006  0.73965  0.25167  1.0000
+  Si  Si1       1.0  0.17993  0.98835  0.00285  1.0000
+  Si  Si2       1.0  0.82007  0.98835  0.50285  1.0000
+  O   O1        1.0  0.20040  0.67391  0.97182  1.0000
+  O   O2        1.0  0.69988  0.36218  0.28313  1.0000
+  O   O3        1.0  0.86167  0.04777  0.03368  1.0000
+  O   O4        1.0  0.79960  0.67391  0.47182  1.0000
+  O   O5        1.0  0.13833  0.04777  0.53368  1.0000
+  O   O6        1.0  0.35898  0.86316  0.21873  1.0000
+  O   O7        1.0  0.64102  0.86316  0.71873  1.0000
+  O   O8        1.0  0.30012  0.36218  0.78313  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Eu4F12
+_chemical_formula_sum              "Eu4 F12"
+_cell_length_a       4.46966
+_cell_length_b       6.68343
+_cell_length_c       7.12519
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.94252  0.63387  0.75000  1.0000
+  Eu  Eu2       1.0  0.44252  0.86613  0.25000  1.0000
+  Eu  Eu3       1.0  0.55748  0.13387  0.75000  1.0000
+  Eu  Eu4       1.0  0.05748  0.36613  0.25000  1.0000
+  F   F1        1.0  0.39086  0.16455  0.43446  1.0000
+  F   F2        1.0  0.89086  0.33545  0.56554  1.0000
+  F   F3        1.0  0.10914  0.66455  0.06553  1.0000
+  F   F4        1.0  0.60914  0.83545  0.93446  1.0000
+  F   F5        1.0  0.57840  0.52041  0.25000  1.0000
+  F   F6        1.0  0.07840  0.97959  0.75000  1.0000
+  F   F7        1.0  0.92160  0.02041  0.25000  1.0000
+  F   F8        1.0  0.42160  0.47959  0.75000  1.0000
+  F   F9        1.0  0.39086  0.16455  0.06553  1.0000
+  F   F10       1.0  0.89086  0.33545  0.93446  1.0000
+  F   F11       1.0  0.10914  0.66455  0.43446  1.0000
+  F   F12       1.0  0.60914  0.83545  0.56554  1.0000

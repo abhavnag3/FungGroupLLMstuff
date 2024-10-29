@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Yb2Bi4
+_chemical_formula_sum              "Yb2 Bi4"
+_cell_length_a       8.86159
+_cell_length_b       8.86159
+_cell_length_c       4.59637
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    148.918
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.59822  0.40178  0.25000  1.0000
+  Yb  Yb2       1.0  0.40178  0.59822  0.75000  1.0000
+  Bi  Bi1       1.0  0.93437  0.06563  0.25000  1.0000
+  Bi  Bi2       1.0  0.06563  0.93437  0.75000  1.0000
+  Bi  Bi3       1.0  0.24102  0.75898  0.25000  1.0000
+  Bi  Bi4       1.0  0.75898  0.24102  0.75000  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li4Co2OF7
+_chemical_formula_sum              "Li4 Co2 O1 F7"
+_cell_length_a       6.03101
+_cell_length_b       5.99353
+_cell_length_c       5.96392
+_cell_angle_alpha    59.047
+_cell_angle_beta     120.453
+_cell_angle_gamma    120.088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.98666  0.00044  0.98091  1.0000
+  Li  Li2       1.0  0.76430  0.25128  0.26735  1.0000
+  Li  Li3       1.0  0.37327  0.62297  0.12450  1.0000
+  Li  Li4       1.0  0.38114  0.12363  0.63299  1.0000
+  Co  Co1       1.0  0.85659  0.64799  0.60363  1.0000
+  Co  Co2       1.0  0.37998  0.63293  0.61503  1.0000
+  O   O1        1.0  0.63569  0.84055  0.40707  1.0000
+  F   F1        1.0  0.62771  0.36978  0.86743  1.0000
+  F   F2        1.0  0.12485  0.87253  0.38825  1.0000
+  F   F3        1.0  0.11259  0.41011  0.84261  1.0000
+  F   F4        1.0  0.12742  0.85772  0.86680  1.0000
+  F   F5        1.0  0.59522  0.85569  0.86611  1.0000
+  F   F6        1.0  0.15596  0.38136  0.39421  1.0000
+  F   F7        1.0  0.62860  0.38301  0.39312  1.0000

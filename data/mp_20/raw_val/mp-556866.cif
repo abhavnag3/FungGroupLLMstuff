@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag4Hg2S2I4
+_chemical_formula_sum              "Ag4 Hg2 S2 I4"
+_cell_length_a       8.03896
+_cell_length_b       8.03896
+_cell_length_c       7.31768
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    122.913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.50579  0.18250  0.22978  1.0000
+  Ag  Ag2       1.0  0.18250  0.50579  0.22978  1.0000
+  Ag  Ag3       1.0  0.81750  0.49421  0.72978  1.0000
+  Ag  Ag4       1.0  0.49420  0.81750  0.72978  1.0000
+  Hg  Hg1       1.0  0.02444  0.02444  0.58581  1.0000
+  Hg  Hg2       1.0  0.97556  0.97556  0.08581  1.0000
+  S   S1        1.0  0.20293  0.20293  0.31487  1.0000
+  S   S2        1.0  0.79707  0.79707  0.81487  1.0000
+  I   I1        1.0  0.45645  0.13801  0.83278  1.0000
+  I   I2        1.0  0.13801  0.45645  0.83278  1.0000
+  I   I3        1.0  0.54355  0.86199  0.33278  1.0000
+  I   I4        1.0  0.86199  0.54355  0.33278  1.0000

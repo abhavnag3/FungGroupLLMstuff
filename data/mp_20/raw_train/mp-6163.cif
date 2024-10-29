@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cs4Na2Ga2F12
+_chemical_formula_sum              "Cs4 Na2 Ga2 F12"
+_cell_length_a       10.913
+_cell_length_b       10.913
+_cell_length_c       10.913
+_cell_angle_alpha    33.8022
+_cell_angle_beta     33.8022
+_cell_angle_gamma    33.8022
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.71847  0.71847  0.71847  1.0000
+  Cs  Cs2       1.0  0.28153  0.28152  0.28153  1.0000
+  Cs  Cs3       1.0  0.87198  0.87198  0.87198  1.0000
+  Cs  Cs4       1.0  0.12802  0.12802  0.12802  1.0000
+  Na  Na1       1.0  0.40301  0.40302  0.40302  1.0000
+  Na  Na2       1.0  0.59698  0.59698  0.59698  1.0000
+  Ga  Ga1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ga  Ga2       1.0  0.50000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.18146  0.18146  0.74488  1.0000
+  F   F2        1.0  0.74488  0.18146  0.18146  1.0000
+  F   F3        1.0  0.18146  0.74488  0.18146  1.0000
+  F   F4        1.0  0.81854  0.25512  0.81854  1.0000
+  F   F5        1.0  0.81854  0.81854  0.25512  1.0000
+  F   F6        1.0  0.25512  0.81854  0.81854  1.0000
+  F   F7        1.0  0.39661  0.39661  0.81986  1.0000
+  F   F8        1.0  0.81986  0.39661  0.39661  1.0000
+  F   F9        1.0  0.18014  0.60339  0.60339  1.0000
+  F   F10       1.0  0.60339  0.60339  0.18014  1.0000
+  F   F11       1.0  0.60339  0.18014  0.60339  1.0000
+  F   F12       1.0  0.39661  0.81986  0.39661  1.0000

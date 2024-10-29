@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       La4Sn10
+_chemical_formula_sum              "La4 Sn10"
+_cell_length_a       17.9814
+_cell_length_b       17.9814
+_cell_length_c       4.74317
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    164.961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.29721  0.70279  0.00000  1.0000
+  La  La2       1.0  0.70279  0.29720  0.00000  1.0000
+  La  La3       1.0  0.43215  0.56785  0.00000  1.0000
+  La  La4       1.0  0.56785  0.43215  0.00000  1.0000
+  Sn  Sn1       1.0  0.22120  0.77880  0.50000  1.0000
+  Sn  Sn2       1.0  0.77880  0.22120  0.50000  1.0000
+  Sn  Sn3       1.0  0.13795  0.86205  0.00000  1.0000
+  Sn  Sn4       1.0  0.86205  0.13795  0.00000  1.0000
+  Sn  Sn5       1.0  0.36204  0.63796  0.50000  1.0000
+  Sn  Sn6       1.0  0.63796  0.36204  0.50000  1.0000
+  Sn  Sn7       1.0  0.07170  0.92830  0.50000  1.0000
+  Sn  Sn8       1.0  0.92830  0.07170  0.50000  1.0000
+  Sn  Sn9       1.0  0.00000  0.00000  0.00000  1.0000
+  Sn  Sn10      1.0  0.50000  0.50000  0.50000  1.0000

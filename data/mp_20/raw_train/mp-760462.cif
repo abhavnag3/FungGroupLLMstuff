@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li5TiSi2O8
+_chemical_formula_sum              "Li5 Ti1 Si2 O8"
+_cell_length_a       5.33272
+_cell_length_b       5.33272
+_cell_length_c       6.24773
+_cell_angle_alpha    88.5611
+_cell_angle_beta     88.5611
+_cell_angle_gamma    91.5928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.80854  0.83163  0.26743  1.0000
+  Li  Li2       1.0  0.69884  0.30116  0.00000  1.0000
+  Li  Li3       1.0  0.32697  0.67303  0.50000  1.0000
+  Li  Li4       1.0  0.67967  0.32033  0.50000  1.0000
+  Li  Li5       1.0  0.16837  0.19146  0.73257  1.0000
+  Ti  Ti1       1.0  0.32421  0.67579  0.00000  1.0000
+  Si  Si1       1.0  0.81439  0.82925  0.74854  1.0000
+  Si  Si2       1.0  0.17075  0.18561  0.25146  1.0000
+  O   O1        1.0  0.69015  0.69867  0.98044  1.0000
+  O   O2        1.0  0.69263  0.69428  0.54466  1.0000
+  O   O3        1.0  0.22560  0.87433  0.23915  1.0000
+  O   O4        1.0  0.86861  0.20146  0.25033  1.0000
+  O   O5        1.0  0.12567  0.77440  0.76085  1.0000
+  O   O6        1.0  0.79854  0.13139  0.74967  1.0000
+  O   O7        1.0  0.30133  0.30985  0.01956  1.0000
+  O   O8        1.0  0.30572  0.30737  0.45534  1.0000

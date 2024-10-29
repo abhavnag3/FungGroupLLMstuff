@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cs4Na2Ti2F12
+_chemical_formula_sum              "Cs4 Na2 Ti2 F12"
+_cell_length_a       11.0936
+_cell_length_b       11.0936
+_cell_length_c       11.0936
+_cell_angle_alpha    33.4598
+_cell_angle_beta     33.4598
+_cell_angle_gamma    33.4598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.71844  0.71844  0.71844  1.0000
+  Cs  Cs2       1.0  0.28156  0.28156  0.28156  1.0000
+  Cs  Cs3       1.0  0.87201  0.87201  0.87201  1.0000
+  Cs  Cs4       1.0  0.12799  0.12799  0.12799  1.0000
+  Na  Na1       1.0  0.40278  0.40278  0.40278  1.0000
+  Na  Na2       1.0  0.59722  0.59722  0.59722  1.0000
+  Ti  Ti1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ti  Ti2       1.0  0.50000  0.50000  0.50000  1.0000
+  F   F1        1.0  0.18553  0.18553  0.73936  1.0000
+  F   F2        1.0  0.73936  0.18553  0.18553  1.0000
+  F   F3        1.0  0.18553  0.73936  0.18553  1.0000
+  F   F4        1.0  0.81447  0.26064  0.81447  1.0000
+  F   F5        1.0  0.81447  0.81447  0.26064  1.0000
+  F   F6        1.0  0.26064  0.81447  0.81447  1.0000
+  F   F7        1.0  0.39552  0.39552  0.82522  1.0000
+  F   F8        1.0  0.82522  0.39552  0.39552  1.0000
+  F   F9        1.0  0.17478  0.60448  0.60448  1.0000
+  F   F10       1.0  0.60448  0.60448  0.17478  1.0000
+  F   F11       1.0  0.60448  0.17478  0.60448  1.0000
+  F   F12       1.0  0.39552  0.82522  0.39552  1.0000

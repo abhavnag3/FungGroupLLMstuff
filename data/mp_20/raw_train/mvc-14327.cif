@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn2Co2F10
+_chemical_formula_sum              "Zn2 Co2 F10"
+_cell_length_a       5.32057
+_cell_length_b       5.30145
+_cell_length_c       7.48753
+_cell_angle_alpha    97.7051
+_cell_angle_beta     110.683
+_cell_angle_gamma    108.255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.28211  0.52946  0.75458  1.0000
+  Zn  Zn2       1.0  0.72516  0.47088  0.25649  1.0000
+  Co  Co1       1.0  0.99553  0.99830  0.00057  1.0000
+  Co  Co2       1.0  0.50000  0.00210  0.50070  1.0000
+  F   F1        1.0  0.37384  0.12660  0.25001  1.0000
+  F   F2        1.0  0.62186  0.87724  0.75208  1.0000
+  F   F3        1.0  0.58515  0.73565  0.37704  1.0000
+  F   F4        1.0  0.85842  0.21195  0.12604  1.0000
+  F   F5        1.0  0.75041  0.67659  0.04751  1.0000
+  F   F6        1.0  0.13649  0.71432  0.45748  1.0000
+  F   F7        1.0  0.23104  0.31960  0.95183  1.0000
+  F   F8        1.0  0.86780  0.29303  0.54589  1.0000
+  F   F9        1.0  0.13345  0.78562  0.87419  1.0000
+  F   F10       1.0  0.42034  0.27231  0.62673  1.0000

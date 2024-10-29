@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Eu2B5Os3
+_chemical_formula_sum              "Eu2 B5 Os3"
+_cell_length_a       5.7452
+_cell_length_b       5.7452
+_cell_length_c       8.07616
+_cell_angle_alpha    57.5633
+_cell_angle_beta     57.5633
+_cell_angle_gamma    41.5339
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.38329  0.94342  0.23551  1.0000
+  Eu  Eu2       1.0  0.05658  0.61671  0.76449  1.0000
+  B   B1        1.0  0.72580  0.27420  0.50000  1.0000
+  B   B2        1.0  0.07236  0.63638  0.31244  1.0000
+  B   B3        1.0  0.52440  0.53169  0.87922  1.0000
+  B   B4        1.0  0.36362  0.92764  0.68756  1.0000
+  B   B5        1.0  0.46831  0.47560  0.12078  1.0000
+  Os  Os1       1.0  0.86747  0.39926  0.59550  1.0000
+  Os  Os2       1.0  0.00243  0.99757  0.00000  1.0000
+  Os  Os3       1.0  0.60074  0.13253  0.40450  1.0000

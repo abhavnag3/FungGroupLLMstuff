@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al3ZnCr8
+_chemical_formula_sum              "Al3 Zn1 Cr8"
+_cell_length_a       2.97594
+_cell_length_b       2.97594
+_cell_length_c       17.2206
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.50000  0.50000  0.25061  1.0000
+  Al  Al2       1.0  0.00000  0.00000  0.50000  1.0000
+  Al  Al3       1.0  0.50000  0.50000  0.74939  1.0000
+  Zn  Zn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.09230  1.0000
+  Cr  Cr2       1.0  0.00000  0.00000  0.34179  1.0000
+  Cr  Cr3       1.0  0.50000  0.50000  0.59175  1.0000
+  Cr  Cr4       1.0  0.00000  0.00000  0.84237  1.0000
+  Cr  Cr5       1.0  0.00000  0.00000  0.15762  1.0000
+  Cr  Cr6       1.0  0.50000  0.50000  0.40825  1.0000
+  Cr  Cr7       1.0  0.00000  0.00000  0.65821  1.0000
+  Cr  Cr8       1.0  0.50000  0.50000  0.90770  1.0000

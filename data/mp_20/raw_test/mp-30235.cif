@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Lu6Ge6Ir4
+_chemical_formula_sum              "Lu6 Ge6 Ir4"
+_cell_length_a       5.56828
+_cell_length_b       5.56828
+_cell_length_c       14.1116
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    134.749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.41572  0.58428  0.38971  1.0000
+  Lu  Lu2       1.0  0.41572  0.58428  0.11029  1.0000
+  Lu  Lu3       1.0  0.85686  0.14314  0.75000  1.0000
+  Lu  Lu4       1.0  0.14314  0.85686  0.25000  1.0000
+  Lu  Lu5       1.0  0.58428  0.41572  0.61029  1.0000
+  Lu  Lu6       1.0  0.58428  0.41572  0.88971  1.0000
+  Ge  Ge1       1.0  0.87833  0.12167  0.53515  1.0000
+  Ge  Ge2       1.0  0.87833  0.12167  0.96485  1.0000
+  Ge  Ge3       1.0  0.84810  0.15190  0.25000  1.0000
+  Ge  Ge4       1.0  0.12167  0.87833  0.03515  1.0000
+  Ge  Ge5       1.0  0.12167  0.87833  0.46485  1.0000
+  Ge  Ge6       1.0  0.15190  0.84810  0.75000  1.0000
+  Ir  Ir1       1.0  0.29975  0.70025  0.60321  1.0000
+  Ir  Ir2       1.0  0.70025  0.29975  0.10321  1.0000
+  Ir  Ir3       1.0  0.29975  0.70025  0.89679  1.0000
+  Ir  Ir4       1.0  0.70025  0.29975  0.39679  1.0000

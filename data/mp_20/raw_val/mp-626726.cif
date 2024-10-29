@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ba2H8O6
+_chemical_formula_sum              "Ba2 H8 O6"
+_cell_length_a       4.22437
+_cell_length_b       6.4648
+_cell_length_c       7.21609
+_cell_angle_alpha    69.7765
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.25000  0.85385  0.28084  1.0000
+  Ba  Ba2       1.0  0.75000  0.14615  0.71916  1.0000
+  H   H1        1.0  0.75000  0.65333  0.05638  1.0000
+  H   H2        1.0  0.25000  0.34667  0.94362  1.0000
+  H   H3        1.0  0.75000  0.22748  0.16472  1.0000
+  H   H4        1.0  0.25000  0.77252  0.83528  1.0000
+  H   H5        1.0  0.56089  0.68392  0.66046  1.0000
+  H   H6        1.0  0.93911  0.68392  0.66046  1.0000
+  H   H7        1.0  0.43911  0.31608  0.33954  1.0000
+  H   H8        1.0  0.06089  0.31608  0.33954  1.0000
+  O   O1        1.0  0.75000  0.61362  0.61890  1.0000
+  O   O2        1.0  0.25000  0.38638  0.38110  1.0000
+  O   O3        1.0  0.75000  0.79846  0.06770  1.0000
+  O   O4        1.0  0.25000  0.20154  0.93230  1.0000
+  O   O5        1.0  0.75000  0.17176  0.30856  1.0000
+  O   O6        1.0  0.25000  0.82824  0.69144  1.0000

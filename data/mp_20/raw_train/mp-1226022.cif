@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Eu4Ga8P8
+_chemical_formula_sum              "Eu4 Ga8 P8"
+_cell_length_a       3.95677
+_cell_length_b       9.40404
+_cell_length_c       12.1923
+_cell_angle_alpha    95.6405
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.00000  0.19491  0.27946  1.0000
+  Eu  Eu2       1.0  0.00000  0.80509  0.72054  1.0000
+  Eu  Eu3       1.0  0.50000  0.00000  0.00000  1.0000
+  Eu  Eu4       1.0  0.50000  0.50000  0.50000  1.0000
+  Ga  Ga1       1.0  0.50000  0.39509  0.05634  1.0000
+  Ga  Ga2       1.0  0.50000  0.60491  0.94366  1.0000
+  Ga  Ga3       1.0  0.50000  0.88746  0.43420  1.0000
+  Ga  Ga4       1.0  0.50000  0.11254  0.56580  1.0000
+  Ga  Ga5       1.0  0.00000  0.59744  0.27959  1.0000
+  Ga  Ga6       1.0  0.00000  0.40256  0.72041  1.0000
+  Ga  Ga7       1.0  0.00000  0.80272  0.17262  1.0000
+  Ga  Ga8       1.0  0.00000  0.19728  0.82738  1.0000
+  P   P1        1.0  0.50000  0.44242  0.25665  1.0000
+  P   P2        1.0  0.50000  0.55758  0.74335  1.0000
+  P   P3        1.0  0.00000  0.26423  0.53729  1.0000
+  P   P4        1.0  0.00000  0.73577  0.46271  1.0000
+  P   P5        1.0  0.50000  0.94495  0.23920  1.0000
+  P   P6        1.0  0.50000  0.05506  0.76080  1.0000
+  P   P7        1.0  0.00000  0.23922  0.02691  1.0000
+  P   P8        1.0  0.00000  0.76078  0.97309  1.0000

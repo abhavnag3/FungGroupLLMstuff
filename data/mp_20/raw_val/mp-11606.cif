@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       K2Ho4Cu2S8
+_chemical_formula_sum              "K2 Ho4 Cu2 S8"
+_cell_length_a       7.01913
+_cell_length_b       7.01913
+_cell_length_c       13.6952
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    147.381
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.10968  0.89032  0.25000  1.0000
+  K   K2        1.0  0.89032  0.10968  0.75000  1.0000
+  Ho  Ho1       1.0  0.63419  0.36581  0.93666  1.0000
+  Ho  Ho2       1.0  0.36581  0.63419  0.43666  1.0000
+  Ho  Ho3       1.0  0.63419  0.36581  0.56334  1.0000
+  Ho  Ho4       1.0  0.36581  0.63419  0.06334  1.0000
+  Cu  Cu1       1.0  0.16286  0.83714  0.75000  1.0000
+  Cu  Cu2       1.0  0.83714  0.16286  0.25000  1.0000
+  S   S1        1.0  0.00000  0.00000  0.50000  1.0000
+  S   S2        1.0  0.00000  0.00000  0.00000  1.0000
+  S   S3        1.0  0.73738  0.26262  0.11036  1.0000
+  S   S4        1.0  0.26262  0.73738  0.88964  1.0000
+  S   S5        1.0  0.56886  0.43114  0.75000  1.0000
+  S   S6        1.0  0.73738  0.26262  0.38964  1.0000
+  S   S7        1.0  0.43114  0.56886  0.25000  1.0000
+  S   S8        1.0  0.26262  0.73738  0.61036  1.0000

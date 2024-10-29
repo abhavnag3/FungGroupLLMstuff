@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       NaCu2H3S2O10
+_chemical_formula_sum              "Na1 Cu2 H3 S2 O10"
+_cell_length_a       5.47612
+_cell_length_b       5.47612
+_cell_length_c       7.6837
+_cell_angle_alpha    66.0518
+_cell_angle_beta     66.0518
+_cell_angle_gamma    70.4769
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.50013  0.50013  0.49987  1.0000
+  Cu  Cu1       1.0  0.50289  0.99583  0.99814  1.0000
+  Cu  Cu2       1.0  0.99583  0.50289  0.99814  1.0000
+  H   H1        1.0  0.29274  0.29274  0.22326  1.0000
+  H   H2        1.0  0.70814  0.70814  0.77912  1.0000
+  H   H3        1.0  0.48267  0.48267  0.00831  1.0000
+  S   S1        1.0  0.90997  0.90997  0.29931  1.0000
+  S   S2        1.0  0.09043  0.09043  0.70026  1.0000
+  O   O1        1.0  0.79211  0.79211  0.51558  1.0000
+  O   O2        1.0  0.20812  0.20812  0.48382  1.0000
+  O   O3        1.0  0.34210  0.34210  0.07454  1.0000
+  O   O4        1.0  0.65673  0.65673  0.92754  1.0000
+  O   O5        1.0  0.82636  0.21731  0.24270  1.0000
+  O   O6        1.0  0.21731  0.82636  0.24270  1.0000
+  O   O7        1.0  0.17412  0.78316  0.75700  1.0000
+  O   O8        1.0  0.78316  0.17412  0.75700  1.0000
+  O   O9        1.0  0.80819  0.80819  0.19343  1.0000
+  O   O10       1.0  0.19209  0.19209  0.80619  1.0000

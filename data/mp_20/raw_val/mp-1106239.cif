@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn4Bi4O12
+_chemical_formula_sum              "Mn4 Bi4 O12"
+_cell_length_a       5.61453
+_cell_length_b       5.61453
+_cell_length_c       9.98449
+_cell_angle_alpha    72.4353
+_cell_angle_beta     72.4353
+_cell_angle_gamma    60.8068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.22733  0.78129  0.75687  1.0000
+  Mn  Mn2       1.0  0.78129  0.22733  0.25687  1.0000
+  Mn  Mn3       1.0  0.50317  0.00761  0.00670  1.0000
+  Mn  Mn4       1.0  0.00761  0.50317  0.50670  1.0000
+  Bi  Bi1       1.0  0.34882  0.92723  0.37844  1.0000
+  Bi  Bi2       1.0  0.92723  0.34882  0.87844  1.0000
+  Bi  Bi3       1.0  0.07987  0.65447  0.13245  1.0000
+  Bi  Bi4       1.0  0.65447  0.07987  0.63245  1.0000
+  O   O1        1.0  0.27917  0.91914  0.92679  1.0000
+  O   O2        1.0  0.91914  0.27917  0.42679  1.0000
+  O   O3        1.0  0.09283  0.73027  0.58682  1.0000
+  O   O4        1.0  0.73028  0.09283  0.08682  1.0000
+  O   O5        1.0  0.70160  0.60204  0.14140  1.0000
+  O   O6        1.0  0.60204  0.70160  0.64140  1.0000
+  O   O7        1.0  0.41598  0.29389  0.37805  1.0000
+  O   O8        1.0  0.29388  0.41598  0.87805  1.0000
+  O   O9        1.0  0.90752  0.81663  0.34243  1.0000
+  O   O10       1.0  0.81663  0.90752  0.84243  1.0000
+  O   O11       1.0  0.18860  0.12390  0.16933  1.0000
+  O   O12       1.0  0.12390  0.18860  0.66932  1.0000

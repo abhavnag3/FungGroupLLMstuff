@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       V4O4F4
+_chemical_formula_sum              "V4 O4 F4"
+_cell_length_a       5.22628
+_cell_length_b       4.67496
+_cell_length_c       5.71342
+_cell_angle_alpha    90
+_cell_angle_beta     87.6243
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.22308  0.48154  0.65606  1.0000
+  V   V2        1.0  0.22308  0.01846  0.15605  1.0000
+  V   V3        1.0  0.77692  0.98154  0.84394  1.0000
+  V   V4        1.0  0.77692  0.51846  0.34395  1.0000
+  O   O1        1.0  0.08137  0.21997  0.87938  1.0000
+  O   O2        1.0  0.08137  0.28003  0.37938  1.0000
+  O   O3        1.0  0.91863  0.71997  0.62062  1.0000
+  O   O4        1.0  0.91863  0.78003  0.12062  1.0000
+  F   F1        1.0  0.41763  0.76882  0.88756  1.0000
+  F   F2        1.0  0.41763  0.73118  0.38756  1.0000
+  F   F3        1.0  0.58237  0.26882  0.61244  1.0000
+  F   F4        1.0  0.58237  0.23118  0.11244  1.0000

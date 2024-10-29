@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ce5Nd5Si6
+_chemical_formula_sum              "Ce5 Nd5 Si6"
+_cell_length_a       7.7346
+_cell_length_b       7.7346
+_cell_length_c       8.77342
+_cell_angle_alpha    64.1395
+_cell_angle_beta     64.1395
+_cell_angle_gamma    90.1917
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.48861  0.48153  0.02657  1.0000
+  Ce  Ce2       1.0  0.98153  0.98861  0.02657  1.0000
+  Ce  Ce3       1.0  0.67825  0.53633  0.28552  1.0000
+  Ce  Ce4       1.0  0.03633  0.17825  0.28552  1.0000
+  Ce  Ce5       1.0  0.53780  0.03780  0.28567  1.0000
+  Nd  Nd1       1.0  0.17973  0.67973  0.29202  1.0000
+  Nd  Nd2       1.0  0.32848  0.46663  0.70558  1.0000
+  Nd  Nd3       1.0  0.96663  0.82848  0.70558  1.0000
+  Nd  Nd4       1.0  0.46787  0.96787  0.70271  1.0000
+  Nd  Nd5       1.0  0.82237  0.32237  0.70986  1.0000
+  Si  Si1       1.0  0.61472  0.88594  0.99724  1.0000
+  Si  Si2       1.0  0.38594  0.11472  0.99724  1.0000
+  Si  Si3       1.0  0.88825  0.38825  0.99792  1.0000
+  Si  Si4       1.0  0.11647  0.61647  0.99773  1.0000
+  Si  Si5       1.0  0.25418  0.25285  0.49214  1.0000
+  Si  Si6       1.0  0.75285  0.75418  0.49214  1.0000

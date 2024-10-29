@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ce2Au12
+_chemical_formula_sum              "Ce2 Au12"
+_cell_length_a       5.55227
+_cell_length_b       5.55227
+_cell_length_c       9.31448
+_cell_angle_alpha    82.3461
+_cell_angle_beta     82.3461
+_cell_angle_gamma    89.6581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.31518  0.68482  0.75000  1.0000
+  Ce  Ce2       1.0  0.68482  0.31518  0.25000  1.0000
+  Au  Au1       1.0  0.04161  0.15611  0.86416  1.0000
+  Au  Au2       1.0  0.84389  0.95839  0.63584  1.0000
+  Au  Au3       1.0  0.95839  0.84389  0.13584  1.0000
+  Au  Au4       1.0  0.15611  0.04161  0.36416  1.0000
+  Au  Au5       1.0  0.77819  0.61762  0.91873  1.0000
+  Au  Au6       1.0  0.38238  0.22181  0.58127  1.0000
+  Au  Au7       1.0  0.22181  0.38238  0.08127  1.0000
+  Au  Au8       1.0  0.61762  0.77819  0.41873  1.0000
+  Au  Au9       1.0  0.83502  0.45847  0.62839  1.0000
+  Au  Au10      1.0  0.54153  0.16498  0.87161  1.0000
+  Au  Au11      1.0  0.16498  0.54153  0.37161  1.0000
+  Au  Au12      1.0  0.45847  0.83502  0.12839  1.0000

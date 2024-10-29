@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ge4H16
+_chemical_formula_sum              "Ge4 H16"
+_cell_length_a       7.90888
+_cell_length_b       8.73282
+_cell_length_c       4.84417
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.50844  0.85614  0.14861  1.0000
+  Ge  Ge2       1.0  0.99156  0.14386  0.64861  1.0000
+  Ge  Ge3       1.0  0.00844  0.64386  0.85139  1.0000
+  Ge  Ge4       1.0  0.49156  0.35614  0.35139  1.0000
+  H   H1        1.0  0.37484  0.82327  0.36954  1.0000
+  H   H2        1.0  0.12516  0.17674  0.86954  1.0000
+  H   H3        1.0  0.87484  0.67673  0.63046  1.0000
+  H   H4        1.0  0.62516  0.32327  0.13046  1.0000
+  H   H5        1.0  0.67311  0.90282  0.29150  1.0000
+  H   H6        1.0  0.82689  0.09718  0.79150  1.0000
+  H   H7        1.0  0.17311  0.59718  0.70850  1.0000
+  H   H8        1.0  0.32689  0.40281  0.20850  1.0000
+  H   H9        1.0  0.53796  0.71094  0.97725  1.0000
+  H   H10       1.0  0.96204  0.28906  0.47725  1.0000
+  H   H11       1.0  0.03796  0.78906  0.02275  1.0000
+  H   H12       1.0  0.46204  0.21094  0.52275  1.0000
+  H   H13       1.0  0.45145  0.98641  0.95818  1.0000
+  H   H14       1.0  0.04855  0.01359  0.45818  1.0000
+  H   H15       1.0  0.95145  0.51359  0.04182  1.0000
+  H   H16       1.0  0.54855  0.48641  0.54182  1.0000

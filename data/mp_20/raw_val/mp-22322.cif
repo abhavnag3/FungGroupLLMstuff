@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4In4Pd4
+_chemical_formula_sum              "Eu4 In4 Pd4"
+_cell_length_a       4.50946
+_cell_length_b       7.51366
+_cell_length_c       8.64743
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.25000  0.53469  0.17894  1.0000
+  Eu  Eu2       1.0  0.75000  0.46531  0.82106  1.0000
+  Eu  Eu3       1.0  0.25000  0.03469  0.32106  1.0000
+  Eu  Eu4       1.0  0.75000  0.96531  0.67894  1.0000
+  In  In1       1.0  0.25000  0.14629  0.93785  1.0000
+  In  In2       1.0  0.75000  0.35371  0.43785  1.0000
+  In  In3       1.0  0.25000  0.64629  0.56215  1.0000
+  In  In4       1.0  0.75000  0.85371  0.06215  1.0000
+  Pd  Pd1       1.0  0.75000  0.23164  0.12529  1.0000
+  Pd  Pd2       1.0  0.25000  0.26836  0.62530  1.0000
+  Pd  Pd3       1.0  0.75000  0.73164  0.37471  1.0000
+  Pd  Pd4       1.0  0.25000  0.76836  0.87470  1.0000

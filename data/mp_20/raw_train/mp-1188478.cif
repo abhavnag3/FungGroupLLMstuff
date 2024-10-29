@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sm4Ni14
+_chemical_formula_sum              "Sm4 Ni14"
+_cell_length_a       4.95483
+_cell_length_b       4.95483
+_cell_length_c       12.5497
+_cell_angle_alpha    78.6146
+_cell_angle_beta     78.6146
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.94929  0.94929  0.15213  1.0000
+  Sm  Sm2       1.0  0.05071  0.05071  0.84787  1.0000
+  Sm  Sm3       1.0  0.85263  0.85263  0.44211  1.0000
+  Sm  Sm4       1.0  0.14737  0.14737  0.55789  1.0000
+  Ni  Ni1       1.0  0.50000  0.50000  0.50000  1.0000
+  Ni  Ni2       1.0  0.72167  0.72167  0.83498  1.0000
+  Ni  Ni3       1.0  0.27833  0.27833  0.16502  1.0000
+  Ni  Ni4       1.0  0.61200  0.61200  0.16399  1.0000
+  Ni  Ni5       1.0  0.38800  0.38800  0.83601  1.0000
+  Ni  Ni6       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni7       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni8       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni9       1.0  0.39098  0.39098  0.32781  1.0000
+  Ni  Ni10      1.0  0.89023  0.39098  0.32781  1.0000
+  Ni  Ni11      1.0  0.39098  0.89023  0.32781  1.0000
+  Ni  Ni12      1.0  0.60902  0.60902  0.67219  1.0000
+  Ni  Ni13      1.0  0.10977  0.60902  0.67219  1.0000
+  Ni  Ni14      1.0  0.60902  0.10977  0.67219  1.0000

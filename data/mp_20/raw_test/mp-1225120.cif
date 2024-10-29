@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Er2Cu6S6
+_chemical_formula_sum              "Er2 Cu6 S6"
+_cell_length_a       7.3966
+_cell_length_b       7.3966
+_cell_length_c       7.3966
+_cell_angle_alpha    53.5492
+_cell_angle_beta     53.5492
+_cell_angle_gamma    53.5492
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.83351  0.83351  0.83351  1.0000
+  Er  Er2       1.0  0.16649  0.16649  0.16649  1.0000
+  Cu  Cu1       1.0  0.28630  0.96039  0.62330  1.0000
+  Cu  Cu2       1.0  0.62330  0.28630  0.96039  1.0000
+  Cu  Cu3       1.0  0.96039  0.62330  0.28630  1.0000
+  Cu  Cu4       1.0  0.03961  0.37670  0.71370  1.0000
+  Cu  Cu5       1.0  0.37670  0.71370  0.03961  1.0000
+  Cu  Cu6       1.0  0.71370  0.03961  0.37670  1.0000
+  S   S1        1.0  0.08318  0.75048  0.41824  1.0000
+  S   S2        1.0  0.75048  0.41824  0.08318  1.0000
+  S   S3        1.0  0.41824  0.08318  0.75048  1.0000
+  S   S4        1.0  0.58176  0.91682  0.24952  1.0000
+  S   S5        1.0  0.24952  0.58176  0.91682  1.0000
+  S   S6        1.0  0.91682  0.24952  0.58176  1.0000

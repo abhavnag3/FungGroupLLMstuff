@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Rb2Nb2As2Cl2O10
+_chemical_formula_sum              "Rb2 Nb2 As2 Cl2 O10"
+_cell_length_a       6.7844
+_cell_length_b       6.7844
+_cell_length_c       7.88619
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rb  Rb1       1.0  0.50000  0.50000  0.50000  1.0000
+  Rb  Rb2       1.0  0.00000  0.00000  0.50000  1.0000
+  Nb  Nb1       1.0  0.50000  0.00000  0.89903  1.0000
+  Nb  Nb2       1.0  0.00000  0.50000  0.10097  1.0000
+  As  As1       1.0  0.00000  0.00000  0.00000  1.0000
+  As  As2       1.0  0.50000  0.50000  0.00000  1.0000
+  Cl  Cl1       1.0  0.00000  0.50000  0.44288  1.0000
+  Cl  Cl2       1.0  0.50000  0.00000  0.55712  1.0000
+  O   O1        1.0  0.00000  0.80229  0.13625  1.0000
+  O   O2        1.0  0.50000  0.69771  0.86375  1.0000
+  O   O3        1.0  0.00000  0.19771  0.13625  1.0000
+  O   O4        1.0  0.69771  0.50000  0.13625  1.0000
+  O   O5        1.0  0.19771  0.00000  0.86375  1.0000
+  O   O6        1.0  0.80229  0.00000  0.86375  1.0000
+  O   O7        1.0  0.50000  0.30229  0.86375  1.0000
+  O   O8        1.0  0.30229  0.50000  0.13625  1.0000
+  O   O9        1.0  0.00000  0.50000  0.87979  1.0000
+  O   O10       1.0  0.50000  0.00000  0.12021  1.0000

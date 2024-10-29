@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ni4P12
+_chemical_formula_sum              "Ni4 P12"
+_cell_length_a       6.77588
+_cell_length_b       6.77588
+_cell_length_c       6.77588
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.00000  1.0000
+  Ni  Ni3       1.0  0.50000  0.00000  0.00000  1.0000
+  Ni  Ni4       1.0  0.50000  0.50000  0.50000  1.0000
+  P   P1        1.0  0.85698  0.64392  0.50091  1.0000
+  P   P2        1.0  0.85698  0.35607  0.21306  1.0000
+  P   P3        1.0  0.14302  0.64392  0.78694  1.0000
+  P   P4        1.0  0.35607  0.49909  0.14302  1.0000
+  P   P5        1.0  0.14302  0.35607  0.49909  1.0000
+  P   P6        1.0  0.64392  0.78694  0.14302  1.0000
+  P   P7        1.0  0.21306  0.85698  0.35607  1.0000
+  P   P8        1.0  0.64392  0.50091  0.85698  1.0000
+  P   P9        1.0  0.78694  0.14302  0.64392  1.0000
+  P   P10       1.0  0.35607  0.21306  0.85698  1.0000
+  P   P11       1.0  0.50091  0.85698  0.64392  1.0000
+  P   P12       1.0  0.49909  0.14302  0.35607  1.0000

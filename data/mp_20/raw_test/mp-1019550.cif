@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Be4Ge4N8
+_chemical_formula_sum              "Be4 Ge4 N8"
+_cell_length_a       4.87163
+_cell_length_b       5.18053
+_cell_length_c       5.95142
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.99075  0.58107  0.87483  1.0000
+  Be  Be2       1.0  0.49075  0.41893  0.12517  1.0000
+  Be  Be3       1.0  0.49075  0.91893  0.37483  1.0000
+  Be  Be4       1.0  0.99075  0.08107  0.62517  1.0000
+  Ge  Ge1       1.0  0.99036  0.59037  0.37541  1.0000
+  Ge  Ge2       1.0  0.49036  0.40963  0.62459  1.0000
+  Ge  Ge3       1.0  0.49036  0.90963  0.87541  1.0000
+  Ge  Ge4       1.0  0.99036  0.09037  0.12459  1.0000
+  N   N1        1.0  0.37732  0.58925  0.36642  1.0000
+  N   N2        1.0  0.87732  0.41075  0.63358  1.0000
+  N   N3        1.0  0.87732  0.91075  0.86642  1.0000
+  N   N4        1.0  0.37732  0.08925  0.13358  1.0000
+  N   N5        1.0  0.35557  0.57286  0.88400  1.0000
+  N   N6        1.0  0.85557  0.42714  0.11600  1.0000
+  N   N7        1.0  0.85557  0.92714  0.38400  1.0000
+  N   N8        1.0  0.35557  0.07286  0.61600  1.0000

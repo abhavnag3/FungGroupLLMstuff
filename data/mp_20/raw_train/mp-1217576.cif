@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TbBiTe3
+_chemical_formula_sum              "Tb1 Bi1 Te3"
+_cell_length_a       10.8473
+_cell_length_b       10.8473
+_cell_length_c       10.8473
+_cell_angle_alpha    23.486
+_cell_angle_beta     23.486
+_cell_angle_gamma    23.486
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.60144  0.60144  0.60144  1.0000
+  Bi  Bi1       1.0  0.39934  0.39934  0.39934  1.0000
+  Te  Te1       1.0  0.99633  0.99633  0.99633  1.0000
+  Te  Te2       1.0  0.78634  0.78634  0.78634  1.0000
+  Te  Te3       1.0  0.21655  0.21655  0.21655  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2Cr3GaS8
+_chemical_formula_sum              "Mg2 Cr3 Ga1 S8"
+_cell_length_a       7.25436
+_cell_length_b       7.25455
+_cell_length_c       7.25452
+_cell_angle_alpha    59.9181
+_cell_angle_beta     59.9164
+_cell_angle_gamma    59.9178
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.87549  0.87553  0.87552  1.0000
+  Mg  Mg2       1.0  0.12450  0.12450  0.12449  1.0000
+  Cr  Cr1       1.0  0.50011  0.49983  0.99993  1.0000
+  Cr  Cr2       1.0  0.99991  0.49994  0.50003  1.0000
+  Cr  Cr3       1.0  0.50004  0.00011  0.50008  1.0000
+  Ga  Ga1       1.0  0.50002  0.50002  0.49996  1.0000
+  S   S1        1.0  0.73658  0.73662  0.73659  1.0000
+  S   S2        1.0  0.25965  0.25961  0.71201  1.0000
+  S   S3        1.0  0.25963  0.71205  0.25965  1.0000
+  S   S4        1.0  0.71199  0.25964  0.25963  1.0000
+  S   S5        1.0  0.74035  0.28802  0.74037  1.0000
+  S   S6        1.0  0.28796  0.74035  0.74037  1.0000
+  S   S7        1.0  0.26339  0.26342  0.26341  1.0000
+  S   S8        1.0  0.74040  0.74034  0.28797  1.0000

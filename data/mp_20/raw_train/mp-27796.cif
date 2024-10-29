@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li8H10Rh2
+_chemical_formula_sum              "Li8 H10 Rh2"
+_cell_length_a       5.02712
+_cell_length_b       5.02712
+_cell_length_c       9.29237
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    134.43
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.57930  0.42070  0.38541  1.0000
+  Li  Li2       1.0  0.86953  0.13047  0.40814  1.0000
+  Li  Li3       1.0  0.86953  0.13047  0.09186  1.0000
+  Li  Li4       1.0  0.13047  0.86953  0.90814  1.0000
+  Li  Li5       1.0  0.42070  0.57930  0.61459  1.0000
+  Li  Li6       1.0  0.42070  0.57930  0.88541  1.0000
+  Li  Li7       1.0  0.57930  0.42070  0.11459  1.0000
+  Li  Li8       1.0  0.13047  0.86953  0.59186  1.0000
+  H   H1        1.0  0.73332  0.26668  0.25000  1.0000
+  H   H2        1.0  0.26668  0.73332  0.75000  1.0000
+  H   H3        1.0  0.63572  0.36428  0.60909  1.0000
+  H   H4        1.0  0.36428  0.63572  0.39091  1.0000
+  H   H5        1.0  0.36428  0.63572  0.10909  1.0000
+  H   H6        1.0  0.63572  0.36428  0.89091  1.0000
+  H   H7        1.0  0.90417  0.09583  0.62009  1.0000
+  H   H8        1.0  0.09583  0.90417  0.37991  1.0000
+  H   H9        1.0  0.90417  0.09583  0.87991  1.0000
+  H   H10       1.0  0.09583  0.90417  0.12009  1.0000
+  Rh  Rh1       1.0  0.23211  0.76788  0.25000  1.0000
+  Rh  Rh2       1.0  0.76789  0.23211  0.75000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co2Ni2As4S4
+_chemical_formula_sum              "Co2 Ni2 As4 S4"
+_cell_length_a       5.6328
+_cell_length_b       5.62266
+_cell_length_c       5.62893
+_cell_angle_alpha    89.8475
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.49242  0.50645  0.74236  1.0000
+  Co  Co2       1.0  0.99242  0.49355  0.25764  1.0000
+  Ni  Ni1       1.0  0.50803  0.99161  0.24199  1.0000
+  Ni  Ni2       1.0  0.00803  0.00839  0.75801  1.0000
+  As  As1       1.0  0.11905  0.87366  0.36890  1.0000
+  As  As2       1.0  0.61905  0.12634  0.63110  1.0000
+  As  As3       1.0  0.87581  0.61618  0.87389  1.0000
+  As  As4       1.0  0.37581  0.38382  0.12611  1.0000
+  S   S1        1.0  0.88511  0.12226  0.13605  1.0000
+  S   S2        1.0  0.38511  0.87774  0.86395  1.0000
+  S   S3        1.0  0.11958  0.38777  0.62956  1.0000
+  S   S4        1.0  0.61958  0.61223  0.37044  1.0000

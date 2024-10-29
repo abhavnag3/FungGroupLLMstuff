@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Cs2Sb2Te2O12
+_chemical_formula_sum              "Cs2 Sb2 Te2 O12"
+_cell_length_a       7.32879
+_cell_length_b       7.32879
+_cell_length_c       7.32879
+_cell_angle_alpha    120.374
+_cell_angle_beta     119.758
+_cell_angle_gamma    89.8869
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.37409  0.62409  0.75000  1.0000
+  Cs  Cs2       1.0  0.62591  0.37591  0.25000  1.0000
+  Sb  Sb1       1.0  0.00000  0.00000  0.50000  1.0000
+  Sb  Sb2       1.0  0.00000  0.50000  0.00000  1.0000
+  Te  Te1       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.32078  0.07079  0.25000  1.0000
+  O   O2        1.0  0.92609  0.67609  0.25000  1.0000
+  O   O3        1.0  0.32737  0.68309  0.25582  1.0000
+  O   O4        1.0  0.92727  0.07155  0.24418  1.0000
+  O   O5        1.0  0.32737  0.07155  0.64428  1.0000
+  O   O6        1.0  0.92727  0.68309  0.85572  1.0000
+  O   O7        1.0  0.67922  0.92922  0.75000  1.0000
+  O   O8        1.0  0.07391  0.32391  0.75000  1.0000
+  O   O9        1.0  0.67263  0.31691  0.74418  1.0000
+  O   O10       1.0  0.07273  0.92845  0.75582  1.0000
+  O   O11       1.0  0.67263  0.92845  0.35572  1.0000
+  O   O12       1.0  0.07273  0.31691  0.14428  1.0000

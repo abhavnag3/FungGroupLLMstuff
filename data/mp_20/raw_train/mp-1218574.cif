@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr4Hf3TiO12
+_chemical_formula_sum              "Sr4 Hf3 Ti1 O12"
+_cell_length_a       5.73241
+_cell_length_b       8.23336
+_cell_length_c       5.73758
+_cell_angle_alpha    89.9623
+_cell_angle_beta     90.0207
+_cell_angle_gamma    90.0181
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.49351  0.24302  0.50408  1.0000
+  Sr  Sr2       1.0  0.99215  0.24309  0.99684  1.0000
+  Sr  Sr3       1.0  0.50649  0.75698  0.49592  1.0000
+  Sr  Sr4       1.0  0.00785  0.75691  0.00316  1.0000
+  Hf  Hf1       1.0  0.00000  0.50000  0.50000  1.0000
+  Hf  Hf2       1.0  0.50000  0.50000  0.00000  1.0000
+  Hf  Hf3       1.0  0.00000  0.00000  0.50000  1.0000
+  Ti  Ti1       1.0  0.50000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.72015  0.01363  0.26755  1.0000
+  O   O2        1.0  0.19343  0.48966  0.19317  1.0000
+  O   O3        1.0  0.30697  0.51233  0.69354  1.0000
+  O   O4        1.0  0.76772  0.99018  0.77984  1.0000
+  O   O5        1.0  0.27985  0.98637  0.73245  1.0000
+  O   O6        1.0  0.80657  0.51034  0.80683  1.0000
+  O   O7        1.0  0.69303  0.48767  0.30646  1.0000
+  O   O8        1.0  0.23228  0.00982  0.22016  1.0000
+  O   O9        1.0  0.00416  0.24927  0.52706  1.0000
+  O   O10       1.0  0.49850  0.24353  0.97580  1.0000
+  O   O11       1.0  0.99584  0.75073  0.47294  1.0000
+  O   O12       1.0  0.50150  0.75647  0.02420  1.0000

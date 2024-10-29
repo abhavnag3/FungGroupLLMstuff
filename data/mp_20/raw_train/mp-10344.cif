@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba4Pr2Nb2O12
+_chemical_formula_sum              "Ba4 Pr2 Nb2 O12"
+_cell_length_a       6.15465
+_cell_length_b       6.18162
+_cell_length_c       10.6314
+_cell_angle_alpha    54.8441
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.51513  0.75667  0.74887  1.0000
+  Ba  Ba2       1.0  0.98487  0.75667  0.24887  1.0000
+  Ba  Ba3       1.0  0.01513  0.24333  0.75113  1.0000
+  Ba  Ba4       1.0  0.48487  0.24333  0.25113  1.0000
+  Pr  Pr1       1.0  0.50000  0.50000  0.50000  1.0000
+  Pr  Pr2       1.0  0.00000  0.50000  0.00000  1.0000
+  Nb  Nb1       1.0  0.50000  0.00000  0.00000  1.0000
+  Nb  Nb2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.99044  0.70560  0.72933  1.0000
+  O   O2        1.0  0.49044  0.29440  0.77067  1.0000
+  O   O3        1.0  0.00956  0.29440  0.27067  1.0000
+  O   O4        1.0  0.50956  0.70560  0.22933  1.0000
+  O   O5        1.0  0.78728  0.21318  0.53442  1.0000
+  O   O6        1.0  0.28728  0.78682  0.96558  1.0000
+  O   O7        1.0  0.21272  0.78682  0.46558  1.0000
+  O   O8        1.0  0.71272  0.21318  0.03442  1.0000
+  O   O9        1.0  0.24857  0.17371  0.03562  1.0000
+  O   O10       1.0  0.74857  0.82629  0.46438  1.0000
+  O   O11       1.0  0.75143  0.82629  0.96438  1.0000
+  O   O12       1.0  0.25143  0.17371  0.53562  1.0000

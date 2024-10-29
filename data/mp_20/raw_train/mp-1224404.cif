@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge2Mo2As2
+_chemical_formula_sum              "Ge2 Mo2 As2"
+_cell_length_a       4.93762
+_cell_length_b       4.93762
+_cell_length_c       7.73086
+_cell_angle_alpha    62.231
+_cell_angle_beta     62.231
+_cell_angle_gamma    39.0212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.39606  0.39606  0.89681  1.0000
+  Ge  Ge2       1.0  0.60394  0.60394  0.10319  1.0000
+  Mo  Mo1       1.0  0.15445  0.15445  0.79865  1.0000
+  Mo  Mo2       1.0  0.84555  0.84555  0.20135  1.0000
+  As  As1       1.0  0.85445  0.85445  0.53631  1.0000
+  As  As2       1.0  0.14555  0.14555  0.46369  1.0000

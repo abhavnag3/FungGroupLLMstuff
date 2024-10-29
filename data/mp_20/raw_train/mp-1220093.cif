@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       NiH6N2Cl2
+_chemical_formula_sum              "Ni1 H6 N2 Cl2"
+_cell_length_a       3.77208
+_cell_length_b       5.91313
+_cell_length_c       5.91313
+_cell_angle_alpha    87.5359
+_cell_angle_beta     88.1001
+_cell_angle_gamma    91.8999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.00000  0.00445  0.00445  1.0000
+  H   H1        1.0  0.78680  0.80946  0.38318  1.0000
+  H   H2        1.0  0.21320  0.38318  0.80946  1.0000
+  H   H3        1.0  0.20076  0.74689  0.34422  1.0000
+  H   H4        1.0  0.10788  0.21161  0.60562  1.0000
+  H   H5        1.0  0.79924  0.34422  0.74689  1.0000
+  H   H6        1.0  0.89212  0.60562  0.21161  1.0000
+  N   N1        1.0  0.03174  0.26207  0.76317  1.0000
+  N   N2        1.0  0.96826  0.76317  0.26207  1.0000
+  Cl  Cl1       1.0  0.50000  0.81024  0.81024  1.0000
+  Cl  Cl2       1.0  0.50000  0.19708  0.19708  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       LiCuRu2Rh2O8
+_chemical_formula_sum              "Li1 Cu1 Ru2 Rh2 O8"
+_cell_length_a       6.14588
+_cell_length_b       6.14588
+_cell_length_c       6.14588
+_cell_angle_alpha    125.161
+_cell_angle_beta     118.743
+_cell_angle_gamma    86.7463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.37991  0.37991  0.00000  1.0000
+  Cu  Cu1       1.0  0.13196  0.63196  0.50000  1.0000
+  Ru  Ru1       1.0  0.75002  0.02724  0.27722  1.0000
+  Ru  Ru2       1.0  0.75002  0.47280  0.72278  1.0000
+  Rh  Rh1       1.0  0.75161  0.99893  0.75268  1.0000
+  Rh  Rh2       1.0  0.24626  0.99893  0.24732  1.0000
+  O   O1        1.0  0.98280  0.76631  0.21649  1.0000
+  O   O2        1.0  0.54982  0.76631  0.78351  1.0000
+  O   O3        1.0  0.97839  0.73917  0.76078  1.0000
+  O   O4        1.0  0.97839  0.21760  0.23922  1.0000
+  O   O5        1.0  0.48201  0.23087  0.25114  1.0000
+  O   O6        1.0  0.97973  0.23087  0.74886  1.0000
+  O   O7        1.0  0.51955  0.25019  0.73064  1.0000
+  O   O8        1.0  0.51955  0.78890  0.26936  1.0000

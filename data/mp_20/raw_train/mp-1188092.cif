@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pu4W4C8
+_chemical_formula_sum              "Pu4 W4 C8"
+_cell_length_a       3.29176
+_cell_length_b       5.69825
+_cell_length_c       10.936
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.25000  0.08501  0.86028  1.0000
+  Pu  Pu2       1.0  0.25000  0.58501  0.63972  1.0000
+  Pu  Pu3       1.0  0.75000  0.91499  0.13972  1.0000
+  Pu  Pu4       1.0  0.75000  0.41499  0.36028  1.0000
+  W   W1        1.0  0.25000  0.41310  0.10694  1.0000
+  W   W2        1.0  0.25000  0.91310  0.39306  1.0000
+  W   W3        1.0  0.75000  0.58690  0.89306  1.0000
+  W   W4        1.0  0.75000  0.08690  0.60694  1.0000
+  C   C1        1.0  0.25000  0.16166  0.24539  1.0000
+  C   C2        1.0  0.25000  0.66166  0.25461  1.0000
+  C   C3        1.0  0.75000  0.83834  0.75461  1.0000
+  C   C4        1.0  0.75000  0.33834  0.74539  1.0000
+  C   C5        1.0  0.25000  0.73606  0.98931  1.0000
+  C   C6        1.0  0.25000  0.23606  0.51069  1.0000
+  C   C7        1.0  0.75000  0.26394  0.01069  1.0000
+  C   C8        1.0  0.75000  0.76394  0.48931  1.0000

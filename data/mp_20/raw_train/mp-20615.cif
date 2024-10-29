@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Eu4Ge4Pd4
+_chemical_formula_sum              "Eu4 Ge4 Pd4"
+_cell_length_a       6.07003
+_cell_length_b       6.19558
+_cell_length_c       8.03389
+_cell_angle_alpha    63.1076
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.36531  0.20179  0.61789  1.0000
+  Eu  Eu2       1.0  0.86531  0.79821  0.88211  1.0000
+  Eu  Eu3       1.0  0.63469  0.79821  0.38211  1.0000
+  Eu  Eu4       1.0  0.13469  0.20179  0.11789  1.0000
+  Ge  Ge1       1.0  0.36575  0.77072  0.04943  1.0000
+  Ge  Ge2       1.0  0.86575  0.22928  0.45057  1.0000
+  Ge  Ge3       1.0  0.63425  0.22928  0.95057  1.0000
+  Ge  Ge4       1.0  0.13425  0.77072  0.54943  1.0000
+  Pd  Pd1       1.0  0.10162  0.60972  0.31270  1.0000
+  Pd  Pd2       1.0  0.60162  0.39028  0.18730  1.0000
+  Pd  Pd3       1.0  0.89838  0.39028  0.68730  1.0000
+  Pd  Pd4       1.0  0.39838  0.60972  0.81270  1.0000

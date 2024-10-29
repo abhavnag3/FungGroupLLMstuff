@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mg4Fe2Sb2O12
+_chemical_formula_sum              "Mg4 Fe2 Sb2 O12"
+_cell_length_a       7.64595
+_cell_length_b       5.21612
+_cell_length_c       5.39303
+_cell_angle_alpha    89.1721
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.75000  0.47977  0.56997  1.0000
+  Mg  Mg2       1.0  0.25000  0.52023  0.43003  1.0000
+  Mg  Mg3       1.0  0.75000  0.98829  0.03510  1.0000
+  Mg  Mg4       1.0  0.25000  0.01171  0.96490  1.0000
+  Fe  Fe1       1.0  0.50000  0.50000  0.00000  1.0000
+  Fe  Fe2       1.0  0.00000  0.50000  0.00000  1.0000
+  Sb  Sb1       1.0  0.50000  0.00000  0.50000  1.0000
+  Sb  Sb2       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.43074  0.68152  0.67719  1.0000
+  O   O2        1.0  0.06924  0.82824  0.18877  1.0000
+  O   O3        1.0  0.93074  0.31848  0.32281  1.0000
+  O   O4        1.0  0.56924  0.17176  0.81123  1.0000
+  O   O5        1.0  0.43076  0.82824  0.18877  1.0000
+  O   O6        1.0  0.93076  0.17176  0.81123  1.0000
+  O   O7        1.0  0.25000  0.13905  0.57370  1.0000
+  O   O8        1.0  0.06926  0.68152  0.67719  1.0000
+  O   O9        1.0  0.75000  0.62070  0.92898  1.0000
+  O   O10       1.0  0.56926  0.31848  0.32281  1.0000
+  O   O11       1.0  0.75000  0.86095  0.42630  1.0000
+  O   O12       1.0  0.25000  0.37930  0.07102  1.0000

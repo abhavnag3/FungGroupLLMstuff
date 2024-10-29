@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Mn2Zn4N6
+_chemical_formula_sum              "Mn2 Zn4 N6"
+_cell_length_a       5.53392
+_cell_length_b       5.53392
+_cell_length_c       5.24222
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.851
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.83552  0.83552  0.96122  1.0000
+  Mn  Mn2       1.0  0.16448  0.16448  0.46122  1.0000
+  Zn  Zn1       1.0  0.83182  0.50233  0.47327  1.0000
+  Zn  Zn2       1.0  0.50233  0.83182  0.47327  1.0000
+  Zn  Zn3       1.0  0.16818  0.49767  0.97327  1.0000
+  Zn  Zn4       1.0  0.49767  0.16818  0.97327  1.0000
+  N   N1        1.0  0.83481  0.53095  0.86130  1.0000
+  N   N2        1.0  0.53095  0.83481  0.86130  1.0000
+  N   N3        1.0  0.16519  0.46906  0.36130  1.0000
+  N   N4        1.0  0.46905  0.16519  0.36130  1.0000
+  N   N5        1.0  0.86166  0.86166  0.31401  1.0000
+  N   N6        1.0  0.13834  0.13834  0.81401  1.0000

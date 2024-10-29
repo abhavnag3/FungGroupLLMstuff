@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       SrGeP2O8
+_chemical_formula_sum              "Sr1 Ge1 P2 O8"
+_cell_length_a       4.74765
+_cell_length_b       4.74765
+_cell_length_c       7.49772
+_cell_angle_alpha    86.7321
+_cell_angle_beta     86.7321
+_cell_angle_gamma    65.4134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ge  Ge1       1.0  0.00000  0.00000  0.00000  1.0000
+  P   P1        1.0  0.36526  0.36526  0.79386  1.0000
+  P   P2        1.0  0.63474  0.63474  0.20614  1.0000
+  O   O1        1.0  0.23045  0.23045  0.94999  1.0000
+  O   O2        1.0  0.76955  0.76955  0.05001  1.0000
+  O   O3        1.0  0.30796  0.30796  0.60488  1.0000
+  O   O4        1.0  0.69204  0.69204  0.39513  1.0000
+  O   O5        1.0  0.23058  0.72649  0.81380  1.0000
+  O   O6        1.0  0.72649  0.23058  0.81380  1.0000
+  O   O7        1.0  0.76942  0.27351  0.18620  1.0000
+  O   O8        1.0  0.27351  0.76942  0.18620  1.0000

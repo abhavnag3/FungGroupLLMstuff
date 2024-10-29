@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Th10Pb6
+_chemical_formula_sum              "Th10 Pb6"
+_cell_length_a       6.57867
+_cell_length_b       9.53661
+_cell_length_c       9.53698
+_cell_angle_alpha    119.999
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Th  Th1       1.0  0.50000  0.33336  0.66674  1.0000
+  Th  Th2       1.0  0.50000  0.66662  0.33326  1.0000
+  Th  Th3       1.0  1.00000  0.66664  0.33326  1.0000
+  Th  Th4       1.0  1.00000  0.33338  0.66674  1.0000
+  Th  Th5       1.0  0.75000  0.25242  0.00000  1.0000
+  Th  Th6       1.0  0.75000  0.74763  0.74766  1.0000
+  Th  Th7       1.0  0.75000  0.99997  0.25234  1.0000
+  Th  Th8       1.0  0.25000  0.74759  0.00000  1.0000
+  Th  Th9       1.0  0.25000  0.25237  0.25234  1.0000
+  Th  Th10      1.0  0.25000  0.00003  0.74766  1.0000
+  Pb  Pb1       1.0  0.74999  0.61217  0.00000  1.0000
+  Pb  Pb2       1.0  0.75000  0.38783  0.38783  1.0000
+  Pb  Pb3       1.0  0.75000  0.99999  0.61216  1.0000
+  Pb  Pb4       1.0  0.24999  0.38783  0.00000  1.0000
+  Pb  Pb5       1.0  0.25000  0.61217  0.61216  1.0000
+  Pb  Pb6       1.0  0.25000  0.00001  0.38783  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ba2LuReO6
+_chemical_formula_sum              "Ba2 Lu1 Re1 O6"
+_cell_length_a       5.92324
+_cell_length_b       5.92324
+_cell_length_c       5.92516
+_cell_angle_alpha    60.0122
+_cell_angle_beta     60.0122
+_cell_angle_gamma    60.0043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.74979  0.74979  0.74972  1.0000
+  Ba  Ba2       1.0  0.25021  0.25021  0.25028  1.0000
+  Lu  Lu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Re  Re1       1.0  0.50000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.26201  0.26201  0.74967  1.0000
+  O   O2        1.0  0.73799  0.73799  0.25033  1.0000
+  O   O3        1.0  0.74405  0.26762  0.73183  1.0000
+  O   O4        1.0  0.25595  0.73238  0.26817  1.0000
+  O   O5        1.0  0.73238  0.25595  0.26817  1.0000
+  O   O6        1.0  0.26762  0.74405  0.73183  1.0000

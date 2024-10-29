@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg2Cr2F10
+_chemical_formula_sum              "Mg2 Cr2 F10"
+_cell_length_a       5.28549
+_cell_length_b       5.28549
+_cell_length_c       7.39606
+_cell_angle_alpha    69.4387
+_cell_angle_beta     69.4387
+_cell_angle_gamma    72.5083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.52382  0.47617  0.75000  1.0000
+  Mg  Mg2       1.0  0.47618  0.52382  0.25000  1.0000
+  Cr  Cr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr2       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.11120  0.88880  0.25000  1.0000
+  F   F2        1.0  0.88880  0.11120  0.75000  1.0000
+  F   F3        1.0  0.22007  0.27762  0.37025  1.0000
+  F   F4        1.0  0.72238  0.77993  0.12975  1.0000
+  F   F5        1.0  0.70843  0.31543  0.04557  1.0000
+  F   F6        1.0  0.68457  0.29157  0.45443  1.0000
+  F   F7        1.0  0.29157  0.68457  0.95443  1.0000
+  F   F8        1.0  0.31543  0.70843  0.54557  1.0000
+  F   F9        1.0  0.27762  0.22007  0.87025  1.0000
+  F   F10       1.0  0.77993  0.72238  0.62975  1.0000

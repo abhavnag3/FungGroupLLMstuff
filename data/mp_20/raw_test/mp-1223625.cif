@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       KBa3Fe8As8
+_chemical_formula_sum              "K1 Ba3 Fe8 As8"
+_cell_length_a       7.16215
+_cell_length_b       8.71998
+_cell_length_c       7.8587
+_cell_angle_alpha    64.3257
+_cell_angle_beta     73.7261
+_cell_angle_gamma    97.2212
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.00000  0.00000  0.00000  1.0000
+  Ba  Ba1       1.0  0.99996  0.49356  0.75339  1.0000
+  Ba  Ba2       1.0  0.00000  0.00000  0.50000  1.0000
+  Ba  Ba3       1.0  0.00004  0.50644  0.24661  1.0000
+  Fe  Fe1       1.0  0.50031  0.62524  0.31307  1.0000
+  Fe  Fe2       1.0  0.50054  0.62533  0.81352  1.0000
+  Fe  Fe3       1.0  0.49976  0.12479  0.06234  1.0000
+  Fe  Fe4       1.0  0.49970  0.12482  0.56246  1.0000
+  Fe  Fe5       1.0  0.49969  0.37476  0.68693  1.0000
+  Fe  Fe6       1.0  0.49946  0.37467  0.18648  1.0000
+  Fe  Fe7       1.0  0.50030  0.87518  0.43754  1.0000
+  Fe  Fe8       1.0  0.50024  0.87521  0.93766  1.0000
+  As  As1       1.0  0.30280  0.32708  0.50960  1.0000
+  As  As2       1.0  0.30212  0.32759  0.01125  1.0000
+  As  As3       1.0  0.30052  0.82364  0.26396  1.0000
+  As  As4       1.0  0.30096  0.82385  0.76274  1.0000
+  As  As5       1.0  0.69720  0.67292  0.49040  1.0000
+  As  As6       1.0  0.69788  0.67241  0.98875  1.0000
+  As  As7       1.0  0.69904  0.17615  0.23726  1.0000
+  As  As8       1.0  0.69948  0.17636  0.73604  1.0000

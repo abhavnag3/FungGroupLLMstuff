@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy4B8Ru4
+_chemical_formula_sum              "Dy4 B8 Ru4"
+_cell_length_a       5.91799
+_cell_length_b       5.33574
+_cell_length_c       6.36608
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.01024  0.25000  0.33734  1.0000
+  Dy  Dy2       1.0  0.51024  0.25000  0.16266  1.0000
+  Dy  Dy3       1.0  0.98976  0.75000  0.66266  1.0000
+  Dy  Dy4       1.0  0.48976  0.75000  0.83734  1.0000
+  B   B1        1.0  0.36953  0.08437  0.53861  1.0000
+  B   B2        1.0  0.86952  0.41563  0.96139  1.0000
+  B   B3        1.0  0.63048  0.58437  0.46139  1.0000
+  B   B4        1.0  0.13048  0.91563  0.03861  1.0000
+  B   B5        1.0  0.63048  0.91563  0.46139  1.0000
+  B   B6        1.0  0.13048  0.58437  0.03861  1.0000
+  B   B7        1.0  0.36953  0.41563  0.53861  1.0000
+  B   B8        1.0  0.86952  0.08437  0.96139  1.0000
+  Ru  Ru1       1.0  0.18183  0.25000  0.81822  1.0000
+  Ru  Ru2       1.0  0.68183  0.25000  0.68178  1.0000
+  Ru  Ru3       1.0  0.81817  0.75000  0.18178  1.0000
+  Ru  Ru4       1.0  0.31817  0.75000  0.31822  1.0000

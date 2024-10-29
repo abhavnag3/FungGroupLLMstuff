@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Re2NiMo2S8
+_chemical_formula_sum              "Re2 Ni1 Mo2 S8"
+_cell_length_a       6.82543
+_cell_length_b       6.82543
+_cell_length_c       6.82543
+_cell_angle_alpha    120.508
+_cell_angle_beta     119.425
+_cell_angle_gamma    90.0612
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.39515  0.18680  0.79165  1.0000
+  Re  Re2       1.0  0.39515  0.60350  0.20835  1.0000
+  Ni  Ni1       1.0  0.99977  0.99977  0.00000  1.0000
+  Mo  Mo1       1.0  0.80974  0.60276  0.20698  1.0000
+  Mo  Mo2       1.0  0.39577  0.60276  0.79302  1.0000
+  S   S1        1.0  0.59582  0.86901  0.72681  1.0000
+  S   S2        1.0  0.14220  0.86901  0.27319  1.0000
+  S   S3        1.0  0.13663  0.40111  0.26448  1.0000
+  S   S4        1.0  0.13663  0.87214  0.73552  1.0000
+  S   S5        1.0  0.09393  0.36262  0.73131  1.0000
+  S   S6        1.0  0.63130  0.36262  0.26869  1.0000
+  S   S7        1.0  0.63396  0.90679  0.27284  1.0000
+  S   S8        1.0  0.63396  0.36112  0.72716  1.0000

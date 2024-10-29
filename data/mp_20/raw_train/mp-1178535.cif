@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ba3Y2O6
+_chemical_formula_sum              "Ba3 Y2 O6"
+_cell_length_a       11.3469
+_cell_length_b       11.3469
+_cell_length_c       11.3469
+_cell_angle_alpha    157.564
+_cell_angle_beta     157.564
+_cell_angle_gamma    31.9387
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.68315  0.68315  0.00000  1.0000
+  Ba  Ba2       1.0  0.50000  0.50000  0.00000  1.0000
+  Ba  Ba3       1.0  0.31685  0.31685  0.00000  1.0000
+  Y   Y1        1.0  0.89833  0.89833  0.00000  1.0000
+  Y   Y2        1.0  0.10167  0.10167  0.00000  1.0000
+  O   O1        1.0  0.08281  0.58281  0.50000  1.0000
+  O   O2        1.0  0.41719  0.91719  0.50000  1.0000
+  O   O3        1.0  0.80059  0.80059  0.00000  1.0000
+  O   O4        1.0  0.19941  0.19941  0.00000  1.0000
+  O   O5        1.0  0.91719  0.41719  0.50000  1.0000
+  O   O6        1.0  0.58281  0.08281  0.50000  1.0000

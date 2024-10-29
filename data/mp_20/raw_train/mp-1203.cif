@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ti5O5
+_chemical_formula_sum              "Ti5 O5"
+_cell_length_a       5.11555
+_cell_length_b       5.11555
+_cell_length_c       5.8459
+_cell_angle_alpha    74.2369
+_cell_angle_beta     74.2369
+_cell_angle_gamma    48.1516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.35047  0.35047  0.32552  1.0000
+  Ti  Ti2       1.0  0.64953  0.64953  0.67448  1.0000
+  Ti  Ti3       1.0  0.33742  0.33742  0.82763  1.0000
+  Ti  Ti4       1.0  0.66258  0.66258  0.17237  1.0000
+  Ti  Ti5       1.0  0.00000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.50000  0.50000  0.00000  1.0000
+  O   O2        1.0  0.17180  0.17180  0.16863  1.0000
+  O   O3        1.0  0.82820  0.82820  0.83137  1.0000
+  O   O4        1.0  0.17102  0.17102  0.65658  1.0000
+  O   O5        1.0  0.82898  0.82898  0.34342  1.0000

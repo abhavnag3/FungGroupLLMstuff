@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Nd4Se8
+_chemical_formula_sum              "Nd4 Se8"
+_cell_length_a       4.2004
+_cell_length_b       8.44363
+_cell_length_c       8.55242
+_cell_angle_alpha    89.7979
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.27730  0.62672  0.72542  1.0000
+  Nd  Nd2       1.0  0.72270  0.37328  0.27458  1.0000
+  Nd  Nd3       1.0  0.22270  0.12672  0.72542  1.0000
+  Nd  Nd4       1.0  0.77730  0.87328  0.27458  1.0000
+  Se  Se1       1.0  0.18530  0.38111  0.00208  1.0000
+  Se  Se2       1.0  0.75695  0.87472  0.63221  1.0000
+  Se  Se3       1.0  0.24305  0.12528  0.36779  1.0000
+  Se  Se4       1.0  0.25695  0.62528  0.36779  1.0000
+  Se  Se5       1.0  0.68530  0.11889  0.99792  1.0000
+  Se  Se6       1.0  0.74305  0.37472  0.63221  1.0000
+  Se  Se7       1.0  0.81470  0.61889  0.99792  1.0000
+  Se  Se8       1.0  0.31470  0.88111  0.00208  1.0000

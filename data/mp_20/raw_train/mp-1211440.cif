@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       K4Pb2Cl12
+_chemical_formula_sum              "K4 Pb2 Cl12"
+_cell_length_a       7.35372
+_cell_length_b       7.34561
+_cell_length_c       12.7029
+_cell_angle_alpha    55.1987
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.04004  0.73572  0.75487  1.0000
+  K   K2        1.0  0.95996  0.26428  0.24513  1.0000
+  K   K3        1.0  0.54004  0.26428  0.74513  1.0000
+  K   K4        1.0  0.45996  0.73572  0.25487  1.0000
+  Pb  Pb1       1.0  0.50000  0.00000  0.50000  1.0000
+  Pb  Pb2       1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.29310  0.69371  0.52482  1.0000
+  Cl  Cl2       1.0  0.70690  0.30629  0.47518  1.0000
+  Cl  Cl3       1.0  0.79310  0.30629  0.97518  1.0000
+  Cl  Cl4       1.0  0.20690  0.69371  0.02482  1.0000
+  Cl  Cl5       1.0  0.78317  0.77371  0.52206  1.0000
+  Cl  Cl6       1.0  0.21683  0.22629  0.47794  1.0000
+  Cl  Cl7       1.0  0.28317  0.22629  0.97794  1.0000
+  Cl  Cl8       1.0  0.71683  0.77371  0.02206  1.0000
+  Cl  Cl9       1.0  0.49657  0.80381  0.74420  1.0000
+  Cl  Cl10      1.0  0.50343  0.19619  0.25580  1.0000
+  Cl  Cl11      1.0  0.99657  0.19619  0.75580  1.0000
+  Cl  Cl12      1.0  0.00343  0.80381  0.24420  1.0000

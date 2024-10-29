@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ta4Tl4Se12
+_chemical_formula_sum              "Ta4 Tl4 Se12"
+_cell_length_a       3.65071
+_cell_length_b       9.84224
+_cell_length_c       15.3457
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.25000  0.15830  0.42799  1.0000
+  Ta  Ta2       1.0  0.75000  0.84170  0.57201  1.0000
+  Ta  Ta3       1.0  0.25000  0.65830  0.07201  1.0000
+  Ta  Ta4       1.0  0.75000  0.34170  0.92799  1.0000
+  Tl  Tl1       1.0  0.75000  0.99913  0.17198  1.0000
+  Tl  Tl2       1.0  0.25000  0.00087  0.82802  1.0000
+  Tl  Tl3       1.0  0.75000  0.49913  0.32802  1.0000
+  Tl  Tl4       1.0  0.25000  0.50087  0.67198  1.0000
+  Se  Se1       1.0  0.25000  0.02885  0.59645  1.0000
+  Se  Se2       1.0  0.75000  0.97115  0.40355  1.0000
+  Se  Se3       1.0  0.25000  0.52885  0.90355  1.0000
+  Se  Se4       1.0  0.75000  0.47115  0.09645  1.0000
+  Se  Se5       1.0  0.25000  0.24378  0.28146  1.0000
+  Se  Se6       1.0  0.75000  0.75622  0.71854  1.0000
+  Se  Se7       1.0  0.25000  0.74378  0.21854  1.0000
+  Se  Se8       1.0  0.75000  0.25622  0.78146  1.0000
+  Se  Se9       1.0  0.25000  0.18894  0.99782  1.0000
+  Se  Se10      1.0  0.75000  0.81106  0.00218  1.0000
+  Se  Se11      1.0  0.25000  0.68894  0.50218  1.0000
+  Se  Se12      1.0  0.75000  0.31106  0.49782  1.0000

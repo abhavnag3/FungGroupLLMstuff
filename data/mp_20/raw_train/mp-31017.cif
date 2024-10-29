@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ce4B2N5
+_chemical_formula_sum              "Ce4 B2 N5"
+_cell_length_a       6.32166
+_cell_length_b       6.32166
+_cell_length_c       8.91975
+_cell_angle_alpha    52.4176
+_cell_angle_beta     52.4176
+_cell_angle_gamma    32.5809
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.07466  0.07466  0.65216  1.0000
+  Ce  Ce2       1.0  0.92534  0.92534  0.34784  1.0000
+  Ce  Ce3       1.0  0.68739  0.68739  0.88724  1.0000
+  Ce  Ce4       1.0  0.31260  0.31261  0.11276  1.0000
+  B   B1        1.0  0.41114  0.41114  0.60955  1.0000
+  B   B2        1.0  0.58886  0.58886  0.39045  1.0000
+  N   N1        1.0  0.29160  0.29160  0.60332  1.0000
+  N   N2        1.0  0.70840  0.70840  0.39668  1.0000
+  N   N3        1.0  0.00000  0.00000  0.00000  1.0000
+  N   N4        1.0  0.37965  0.37965  0.80118  1.0000
+  N   N5        1.0  0.62035  0.62035  0.19882  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       TlCr5Se8
+_chemical_formula_sum              "Tl1 Cr5 Se8"
+_cell_length_a       9.69331
+_cell_length_b       9.69331
+_cell_length_c       9.08445
+_cell_angle_alpha    74.9325
+_cell_angle_beta     74.9325
+_cell_angle_gamma    21.8881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cr  Cr1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr2       1.0  0.84227  0.84227  0.47496  1.0000
+  Cr  Cr3       1.0  0.79575  0.79575  0.83333  1.0000
+  Cr  Cr4       1.0  0.20425  0.20425  0.16667  1.0000
+  Cr  Cr5       1.0  0.15773  0.15773  0.52504  1.0000
+  Se  Se1       1.0  0.07581  0.07581  0.34746  1.0000
+  Se  Se2       1.0  0.67066  0.67066  0.01118  1.0000
+  Se  Se3       1.0  0.32934  0.32934  0.98882  1.0000
+  Se  Se4       1.0  0.58378  0.58378  0.67635  1.0000
+  Se  Se5       1.0  0.41622  0.41622  0.32365  1.0000
+  Se  Se6       1.0  0.26174  0.26174  0.65568  1.0000
+  Se  Se7       1.0  0.73826  0.73826  0.34432  1.0000
+  Se  Se8       1.0  0.92419  0.92419  0.65254  1.0000

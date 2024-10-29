@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Mn2Ni2Bi4O12
+_chemical_formula_sum              "Mn2 Ni2 Bi4 O12"
+_cell_length_a       5.54025
+_cell_length_b       5.54025
+_cell_length_c       9.67017
+_cell_angle_alpha    74.372
+_cell_angle_beta     74.372
+_cell_angle_gamma    59.6255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.25042  0.25367  0.25086  1.0000
+  Mn  Mn2       1.0  0.74633  0.74958  0.74914  1.0000
+  Ni  Ni1       1.0  0.00610  0.99390  0.00000  1.0000
+  Ni  Ni2       1.0  0.48567  0.51433  0.50000  1.0000
+  Bi  Bi1       1.0  0.16092  0.10902  0.62572  1.0000
+  Bi  Bi2       1.0  0.89098  0.83908  0.37428  1.0000
+  Bi  Bi3       1.0  0.32930  0.40483  0.87662  1.0000
+  Bi  Bi4       1.0  0.59517  0.67070  0.12338  1.0000
+  O   O1        1.0  0.14502  0.03923  0.16922  1.0000
+  O   O2        1.0  0.96077  0.85498  0.83078  1.0000
+  O   O3        1.0  0.35819  0.46838  0.32969  1.0000
+  O   O4        1.0  0.53162  0.64181  0.67031  1.0000
+  O   O5        1.0  0.87802  0.44110  0.36951  1.0000
+  O   O6        1.0  0.55890  0.12198  0.63049  1.0000
+  O   O7        1.0  0.06070  0.62640  0.59069  1.0000
+  O   O8        1.0  0.37360  0.93930  0.40931  1.0000
+  O   O9        1.0  0.13190  0.56911  0.09360  1.0000
+  O   O10       1.0  0.43089  0.86810  0.90640  1.0000
+  O   O11       1.0  0.93926  0.37676  0.86593  1.0000
+  O   O12       1.0  0.62324  0.06074  0.13407  1.0000

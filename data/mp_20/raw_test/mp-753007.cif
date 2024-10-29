@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Mn6O5F7
+_chemical_formula_sum              "Mn6 O5 F7"
+_cell_length_a       5.63054
+_cell_length_b       5.73634
+_cell_length_c       7.30659
+_cell_angle_alpha    74.0228
+_cell_angle_beta     74.2493
+_cell_angle_gamma    72.4272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.70280  0.67619  0.83740  1.0000
+  Mn  Mn2       1.0  0.31055  0.36500  0.66829  1.0000
+  Mn  Mn3       1.0  0.67385  0.61774  0.31301  1.0000
+  Mn  Mn4       1.0  0.30636  0.33406  0.17350  1.0000
+  Mn  Mn5       1.0  0.99735  0.99561  0.49502  1.0000
+  Mn  Mn6       1.0  0.00568  0.00678  0.99882  1.0000
+  O   O1        1.0  0.02670  0.66362  0.66345  1.0000
+  O   O2        1.0  0.21253  0.24642  0.95845  1.0000
+  O   O3        1.0  0.80024  0.76872  0.03029  1.0000
+  O   O4        1.0  0.41331  0.42775  0.38024  1.0000
+  O   O5        1.0  0.96770  0.32979  0.33364  1.0000
+  F   F1        1.0  0.38392  0.93669  0.33259  1.0000
+  F   F2        1.0  0.90542  0.87636  0.30099  1.0000
+  F   F3        1.0  0.58501  0.57610  0.64129  1.0000
+  F   F4        1.0  0.08312  0.10661  0.69907  1.0000
+  F   F5        1.0  0.61392  0.06108  0.66728  1.0000
+  F   F6        1.0  0.33400  0.71371  0.99037  1.0000
+  F   F7        1.0  0.67755  0.29778  0.01630  1.0000

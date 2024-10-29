@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Eu2Ga4Ge8
+_chemical_formula_sum              "Eu2 Ga4 Ge8"
+_cell_length_a       6.15496
+_cell_length_b       6.15496
+_cell_length_c       13.0894
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    139.962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.79687  0.20313  0.25000  1.0000
+  Eu  Eu2       1.0  0.20313  0.79687  0.75000  1.0000
+  Ga  Ga1       1.0  0.25553  0.74447  0.04875  1.0000
+  Ga  Ga2       1.0  0.74447  0.25554  0.95125  1.0000
+  Ga  Ga3       1.0  0.25553  0.74447  0.45125  1.0000
+  Ga  Ga4       1.0  0.74447  0.25554  0.54875  1.0000
+  Ge  Ge1       1.0  0.46906  0.53094  0.09379  1.0000
+  Ge  Ge2       1.0  0.53094  0.46906  0.90621  1.0000
+  Ge  Ge3       1.0  0.46906  0.53094  0.40621  1.0000
+  Ge  Ge4       1.0  0.53094  0.46906  0.59379  1.0000
+  Ge  Ge5       1.0  0.07196  0.92804  0.15390  1.0000
+  Ge  Ge6       1.0  0.92804  0.07196  0.84610  1.0000
+  Ge  Ge7       1.0  0.07196  0.92804  0.34609  1.0000
+  Ge  Ge8       1.0  0.92804  0.07196  0.65391  1.0000

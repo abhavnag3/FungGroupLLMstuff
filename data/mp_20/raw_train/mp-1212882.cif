@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy10Bi2Pd4
+_chemical_formula_sum              "Dy10 Bi2 Pd4"
+_cell_length_a       8.8029
+_cell_length_b       8.8029
+_cell_length_c       8.8029
+_cell_angle_alpha    127.097
+_cell_angle_beta     127.097
+_cell_angle_gamma    78.0931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.00000  0.00000  0.00000  1.0000
+  Dy  Dy2       1.0  0.50000  0.50000  0.00000  1.0000
+  Dy  Dy3       1.0  0.79479  0.29479  0.80962  1.0000
+  Dy  Dy4       1.0  0.20521  0.70521  0.19038  1.0000
+  Dy  Dy5       1.0  0.48517  0.98517  0.19038  1.0000
+  Dy  Dy6       1.0  0.29479  0.48517  0.50000  1.0000
+  Dy  Dy7       1.0  0.01483  0.20521  0.50000  1.0000
+  Dy  Dy8       1.0  0.51483  0.01483  0.80962  1.0000
+  Dy  Dy9       1.0  0.70521  0.51483  0.50000  1.0000
+  Dy  Dy10      1.0  0.98517  0.79479  0.50000  1.0000
+  Bi  Bi1       1.0  0.25000  0.25000  0.00000  1.0000
+  Bi  Bi2       1.0  0.75000  0.75000  0.00000  1.0000
+  Pd  Pd1       1.0  0.13657  0.63657  0.77314  1.0000
+  Pd  Pd2       1.0  0.86343  0.36343  0.22686  1.0000
+  Pd  Pd3       1.0  0.63657  0.86343  0.50000  1.0000
+  Pd  Pd4       1.0  0.36343  0.13657  0.50000  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       SrTiFe3Bi3O12
+_chemical_formula_sum              "Sr1 Ti1 Fe3 Bi3 O12"
+_cell_length_a       9.87098
+_cell_length_b       9.87098
+_cell_length_c       9.87098
+_cell_angle_alpha    33.1607
+_cell_angle_beta     33.1607
+_cell_angle_gamma    33.1607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.36575  0.36575  0.36575  1.0000
+  Ti  Ti1       1.0  0.98953  0.98953  0.98953  1.0000
+  Fe  Fe1       1.0  0.74162  0.74162  0.74162  1.0000
+  Fe  Fe2       1.0  0.24566  0.24566  0.24566  1.0000
+  Fe  Fe3       1.0  0.49383  0.49383  0.49383  1.0000
+  Bi  Bi1       1.0  0.85384  0.85384  0.85384  1.0000
+  Bi  Bi2       1.0  0.10341  0.10342  0.10342  1.0000
+  Bi  Bi3       1.0  0.60386  0.60386  0.60386  1.0000
+  O   O1        1.0  0.62566  0.19190  0.05623  1.0000
+  O   O2        1.0  0.11275  0.70032  0.56305  1.0000
+  O   O3        1.0  0.05623  0.62566  0.19190  1.0000
+  O   O4        1.0  0.56305  0.11275  0.70032  1.0000
+  O   O5        1.0  0.19190  0.05623  0.62566  1.0000
+  O   O6        1.0  0.70032  0.56305  0.11275  1.0000
+  O   O7        1.0  0.46136  0.85986  0.31037  1.0000
+  O   O8        1.0  0.93931  0.35517  0.83249  1.0000
+  O   O9        1.0  0.31037  0.46136  0.85986  1.0000
+  O   O10       1.0  0.83249  0.93931  0.35517  1.0000
+  O   O11       1.0  0.85987  0.31037  0.46136  1.0000
+  O   O12       1.0  0.35517  0.83249  0.93931  1.0000

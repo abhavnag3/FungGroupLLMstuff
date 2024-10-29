@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Si4Mo4
+_chemical_formula_sum              "Zr4 Si4 Mo4"
+_cell_length_a       3.55133
+_cell_length_b       7.00036
+_cell_length_c       8.24073
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25000  0.04273  0.33188  1.0000
+  Zr  Zr2       1.0  0.25000  0.54273  0.16812  1.0000
+  Zr  Zr3       1.0  0.75000  0.95727  0.66812  1.0000
+  Zr  Zr4       1.0  0.75000  0.45727  0.83188  1.0000
+  Si  Si1       1.0  0.25000  0.25734  0.63674  1.0000
+  Si  Si2       1.0  0.25000  0.75734  0.86326  1.0000
+  Si  Si3       1.0  0.75000  0.74266  0.36326  1.0000
+  Si  Si4       1.0  0.75000  0.24266  0.13674  1.0000
+  Mo  Mo1       1.0  0.25000  0.13191  0.93849  1.0000
+  Mo  Mo2       1.0  0.25000  0.63191  0.56151  1.0000
+  Mo  Mo3       1.0  0.75000  0.86809  0.06151  1.0000
+  Mo  Mo4       1.0  0.75000  0.36809  0.43849  1.0000

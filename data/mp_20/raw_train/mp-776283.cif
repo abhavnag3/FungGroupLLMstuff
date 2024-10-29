@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4NbCo3O8
+_chemical_formula_sum              "Li4 Nb1 Co3 O8"
+_cell_length_a       5.13304
+_cell_length_b       5.63832
+_cell_length_c       6.53821
+_cell_angle_alpha    89.9295
+_cell_angle_beta     89.5844
+_cell_angle_gamma    89.967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.99259  0.90756  0.38971  1.0000
+  Li  Li2       1.0  0.49914  0.57903  0.86268  1.0000
+  Li  Li3       1.0  0.99346  0.43971  0.12527  1.0000
+  Li  Li4       1.0  0.49925  0.09313  0.62379  1.0000
+  Nb  Nb1       1.0  0.50471  0.08384  0.12400  1.0000
+  Co  Co1       1.0  0.98933  0.90832  0.85519  1.0000
+  Co  Co2       1.0  0.50440  0.57445  0.39030  1.0000
+  Co  Co3       1.0  0.99379  0.41443  0.62770  1.0000
+  O   O1        1.0  0.38236  0.92769  0.88958  1.0000
+  O   O2        1.0  0.39012  0.91891  0.35918  1.0000
+  O   O3        1.0  0.88396  0.58214  0.86379  1.0000
+  O   O4        1.0  0.88166  0.57549  0.38854  1.0000
+  O   O5        1.0  0.36295  0.41746  0.62598  1.0000
+  O   O6        1.0  0.39060  0.40170  0.12883  1.0000
+  O   O7        1.0  0.88631  0.09666  0.62330  1.0000
+  O   O8        1.0  0.87177  0.07951  0.12215  1.0000

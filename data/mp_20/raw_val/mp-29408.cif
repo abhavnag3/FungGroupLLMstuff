@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Al2Se2Br14
+_chemical_formula_sum              "Al2 Se2 Br14"
+_cell_length_a       6.8214
+_cell_length_b       7.12417
+_cell_length_c       15.2987
+_cell_angle_alpha    74.7792
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.99828  0.69869  0.66285  1.0000
+  Al  Al2       1.0  0.00172  0.69869  0.16285  1.0000
+  Se  Se1       1.0  0.59736  0.99714  0.50357  1.0000
+  Se  Se2       1.0  0.40264  0.99714  0.00357  1.0000
+  Br  Br1       1.0  0.39921  0.89454  0.39766  1.0000
+  Br  Br2       1.0  0.39810  0.24284  0.53621  1.0000
+  Br  Br3       1.0  0.17961  0.20209  0.90080  1.0000
+  Br  Br4       1.0  0.82039  0.20209  0.40080  1.0000
+  Br  Br5       1.0  0.12117  0.00737  0.16303  1.0000
+  Br  Br6       1.0  0.60190  0.24284  0.03621  1.0000
+  Br  Br7       1.0  0.12890  0.64010  0.02992  1.0000
+  Br  Br8       1.0  0.87109  0.64010  0.52992  1.0000
+  Br  Br9       1.0  0.66324  0.67705  0.16602  1.0000
+  Br  Br10      1.0  0.33676  0.67705  0.66602  1.0000
+  Br  Br11      1.0  0.12967  0.47548  0.28983  1.0000
+  Br  Br12      1.0  0.87033  0.47548  0.78983  1.0000
+  Br  Br13      1.0  0.60079  0.89454  0.89766  1.0000
+  Br  Br14      1.0  0.87883  0.00737  0.66303  1.0000

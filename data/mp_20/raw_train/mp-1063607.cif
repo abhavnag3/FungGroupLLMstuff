@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cr4Pd4O8
+_chemical_formula_sum              "Cr4 Pd4 O8"
+_cell_length_a       3.00605
+_cell_length_b       10.376
+_cell_length_c       6.33181
+_cell_angle_alpha    105.713
+_cell_angle_beta     89.9998
+_cell_angle_gamma    89.9999
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  1.00000  0.74950  0.50021  1.0000
+  Cr  Cr2       1.0  0.50000  0.00050  0.49979  1.0000
+  Cr  Cr3       1.0  1.00000  0.24936  0.50009  1.0000
+  Cr  Cr4       1.0  0.50000  0.50064  0.49990  1.0000
+  Pd  Pd1       1.0  0.00000  0.49967  0.99897  1.0000
+  Pd  Pd2       1.0  0.50000  0.75032  0.00103  1.0000
+  Pd  Pd3       1.0  0.00000  0.99968  0.99897  1.0000
+  Pd  Pd4       1.0  0.50000  0.25033  0.00103  1.0000
+  O   O1        1.0  0.50000  0.69508  0.66846  1.0000
+  O   O2        1.0  0.00001  0.94446  0.66616  1.0000
+  O   O3        1.0  0.50000  0.19505  0.66847  1.0000
+  O   O4        1.0  0.00001  0.44445  0.66614  1.0000
+  O   O5        1.0  0.50000  0.80554  0.33385  1.0000
+  O   O6        1.0  1.00000  0.05492  0.33153  1.0000
+  O   O7        1.0  0.49999  0.30555  0.33386  1.0000
+  O   O8        1.0  1.00000  0.55495  0.33153  1.0000

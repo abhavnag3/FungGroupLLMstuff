@@ -1,0 +1,42 @@
+data_image0
+_chemical_formula_structural       Cs4SrSn3Se9
+_chemical_formula_sum              "Cs4 Sr1 Sn3 Se9"
+_cell_length_a       9.27852
+_cell_length_b       9.27852
+_cell_length_c       9.27852
+_cell_angle_alpha    107.94
+_cell_angle_beta     107.94
+_cell_angle_gamma    107.94
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.61295  0.72530  0.18631  1.0000
+  Cs  Cs2       1.0  0.18631  0.61295  0.72530  1.0000
+  Cs  Cs3       1.0  0.72530  0.18631  0.61295  1.0000
+  Cs  Cs4       1.0  0.85689  0.85689  0.85689  1.0000
+  Sr  Sr1       1.0  0.31587  0.31587  0.31587  1.0000
+  Sn  Sn1       1.0  0.20440  0.78930  0.33483  1.0000
+  Sn  Sn2       1.0  0.33483  0.20440  0.78930  1.0000
+  Sn  Sn3       1.0  0.78930  0.33483  0.20440  1.0000
+  Se  Se1       1.0  0.91968  0.54260  0.08959  1.0000
+  Se  Se2       1.0  0.08959  0.91968  0.54260  1.0000
+  Se  Se3       1.0  0.54260  0.08959  0.91968  1.0000
+  Se  Se4       1.0  0.42246  0.70872  0.48232  1.0000
+  Se  Se5       1.0  0.48232  0.42246  0.70872  1.0000
+  Se  Se6       1.0  0.70872  0.48232  0.42246  1.0000
+  Se  Se7       1.0  0.30351  0.95230  0.18322  1.0000
+  Se  Se8       1.0  0.18322  0.30351  0.95230  1.0000
+  Se  Se9       1.0  0.95230  0.18322  0.30351  1.0000

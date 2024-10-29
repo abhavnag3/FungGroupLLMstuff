@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Gd6Bi2O6
+_chemical_formula_sum              "Gd6 Bi2 O6"
+_cell_length_a       7.03995
+_cell_length_b       7.03995
+_cell_length_c       12.0859
+_cell_angle_alpha    62.7185
+_cell_angle_beta     62.7185
+_cell_angle_gamma    32.3404
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.12263  0.12263  0.55997  1.0000
+  Gd  Gd2       1.0  0.87737  0.87737  0.44004  1.0000
+  Gd  Gd3       1.0  0.34607  0.34608  0.20473  1.0000
+  Gd  Gd4       1.0  0.65392  0.65392  0.79527  1.0000
+  Gd  Gd5       1.0  0.87144  0.87144  0.90380  1.0000
+  Gd  Gd6       1.0  0.12856  0.12856  0.09620  1.0000
+  Bi  Bi1       1.0  0.38267  0.38267  0.67835  1.0000
+  Bi  Bi2       1.0  0.61733  0.61733  0.32165  1.0000
+  O   O1        1.0  0.30850  0.30850  0.40724  1.0000
+  O   O2        1.0  0.69150  0.69150  0.59276  1.0000
+  O   O3        1.0  0.33553  0.33553  0.01630  1.0000
+  O   O4        1.0  0.66447  0.66447  0.98370  1.0000
+  O   O5        1.0  0.93843  0.93843  0.19334  1.0000
+  O   O6        1.0  0.06157  0.06157  0.80666  1.0000

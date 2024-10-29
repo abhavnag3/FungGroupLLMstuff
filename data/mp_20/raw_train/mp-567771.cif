@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       BaSi6N8
+_chemical_formula_sum              "Ba1 Si6 N8"
+_cell_length_a       6.64143
+_cell_length_b       6.64143
+_cell_length_c       6.64143
+_cell_angle_alpha    136.968
+_cell_angle_beta     106.018
+_cell_angle_gamma    89.6036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.00000  0.16619  0.16619  1.0000
+  Si  Si1       1.0  0.54067  0.49137  0.35301  1.0000
+  Si  Si2       1.0  0.45933  0.81234  0.95071  1.0000
+  Si  Si3       1.0  0.86164  0.81234  0.35301  1.0000
+  Si  Si4       1.0  0.13836  0.49137  0.95071  1.0000
+  Si  Si5       1.0  0.62826  0.27562  0.64736  1.0000
+  Si  Si6       1.0  0.37174  0.01910  0.64736  1.0000
+  N   N1        1.0  0.31805  0.62003  0.30199  1.0000
+  N   N2        1.0  0.11856  0.09852  0.62072  1.0000
+  N   N3        1.0  0.88144  0.50216  0.97996  1.0000
+  N   N4        1.0  0.78565  0.70751  0.49316  1.0000
+  N   N5        1.0  0.47780  0.09852  0.97996  1.0000
+  N   N6        1.0  0.52221  0.50216  0.62072  1.0000
+  N   N7        1.0  0.21435  0.70751  0.92185  1.0000
+  N   N8        1.0  0.68195  0.98394  0.30199  1.0000

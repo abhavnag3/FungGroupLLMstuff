@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       LuMo6Se8
+_chemical_formula_sum              "Lu1 Mo6 Se8"
+_cell_length_a       6.75872
+_cell_length_b       6.75872
+_cell_length_c       6.75872
+_cell_angle_alpha    89.6203
+_cell_angle_beta     89.6203
+_cell_angle_gamma    89.6203
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Mo  Mo1       1.0  0.76709  0.57768  0.44214  1.0000
+  Mo  Mo2       1.0  0.44214  0.76709  0.57768  1.0000
+  Mo  Mo3       1.0  0.57768  0.44214  0.76709  1.0000
+  Mo  Mo4       1.0  0.23291  0.42233  0.55786  1.0000
+  Mo  Mo5       1.0  0.55786  0.23291  0.42232  1.0000
+  Mo  Mo6       1.0  0.42233  0.55786  0.23291  1.0000
+  Se  Se1       1.0  0.76602  0.76602  0.76602  1.0000
+  Se  Se2       1.0  0.23398  0.23398  0.23398  1.0000
+  Se  Se3       1.0  0.24334  0.63134  0.87771  1.0000
+  Se  Se4       1.0  0.87771  0.24334  0.63134  1.0000
+  Se  Se5       1.0  0.63134  0.87771  0.24334  1.0000
+  Se  Se6       1.0  0.75666  0.36866  0.12229  1.0000
+  Se  Se7       1.0  0.12229  0.75666  0.36866  1.0000
+  Se  Se8       1.0  0.36866  0.12229  0.75666  1.0000

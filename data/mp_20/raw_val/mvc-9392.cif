@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pr2Mg2Mo4O12
+_chemical_formula_sum              "Pr2 Mg2 Mo4 O12"
+_cell_length_a       5.69176
+_cell_length_b       5.47868
+_cell_length_c       9.74372
+_cell_angle_alpha    56.056
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.19474  0.74083  0.25063  1.0000
+  Pr  Pr2       1.0  0.80526  0.74083  0.75063  1.0000
+  Mg  Mg1       1.0  0.70178  0.26529  0.25032  1.0000
+  Mg  Mg2       1.0  0.29822  0.26529  0.75032  1.0000
+  Mo  Mo1       1.0  0.74692  0.00083  0.00045  1.0000
+  Mo  Mo2       1.0  0.74342  0.50169  0.50027  1.0000
+  Mo  Mo3       1.0  0.25308  0.00083  0.50045  1.0000
+  Mo  Mo4       1.0  0.25658  0.50169  0.00027  1.0000
+  O   O1        1.0  0.66907  0.14320  0.74844  1.0000
+  O   O2        1.0  0.45505  0.71831  0.06880  1.0000
+  O   O3        1.0  0.46070  0.37260  0.43190  1.0000
+  O   O4        1.0  0.93109  0.25952  0.42981  1.0000
+  O   O5        1.0  0.94263  0.60524  0.06595  1.0000
+  O   O6        1.0  0.20243  0.89253  0.75339  1.0000
+  O   O7        1.0  0.33093  0.14320  0.24844  1.0000
+  O   O8        1.0  0.53930  0.37260  0.93190  1.0000
+  O   O9        1.0  0.54495  0.71831  0.56880  1.0000
+  O   O10       1.0  0.06891  0.25952  0.92981  1.0000
+  O   O11       1.0  0.05737  0.60524  0.56595  1.0000
+  O   O12       1.0  0.79757  0.89253  0.25339  1.0000

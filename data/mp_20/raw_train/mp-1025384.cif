@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pr2Re2Si2C
+_chemical_formula_sum              "Pr2 Re2 Si2 C1"
+_cell_length_a       5.98053
+_cell_length_b       5.98053
+_cell_length_c       7.2344
+_cell_angle_alpha    54.6809
+_cell_angle_beta     54.6809
+_cell_angle_gamma    40
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.42881  0.42881  0.30466  1.0000
+  Pr  Pr2       1.0  0.57119  0.57119  0.69534  1.0000
+  Re  Re1       1.0  0.79698  0.79698  0.08726  1.0000
+  Re  Re2       1.0  0.20302  0.20302  0.91274  1.0000
+  Si  Si1       1.0  0.84763  0.84763  0.70346  1.0000
+  Si  Si2       1.0  0.15237  0.15237  0.29654  1.0000
+  C   C1        1.0  0.00000  0.00000  0.00000  1.0000

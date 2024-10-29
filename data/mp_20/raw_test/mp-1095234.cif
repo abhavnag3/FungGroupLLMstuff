@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Dy2Nb2O8
+_chemical_formula_sum              "Dy2 Nb2 O8"
+_cell_length_a       5.25284
+_cell_length_b       5.25284
+_cell_length_c       6.70253
+_cell_angle_alpha    113.07
+_cell_angle_beta     113.07
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.62500  0.87500  0.25000  1.0000
+  Dy  Dy2       1.0  0.37500  0.12500  0.75000  1.0000
+  Nb  Nb1       1.0  0.12500  0.37500  0.25000  1.0000
+  Nb  Nb2       1.0  0.87500  0.62500  0.75000  1.0000
+  O   O1        1.0  0.78230  0.46195  0.07192  1.0000
+  O   O2        1.0  0.28963  0.10997  0.07192  1.0000
+  O   O3        1.0  0.96195  0.78963  0.57192  1.0000
+  O   O4        1.0  0.60997  0.28230  0.57192  1.0000
+  O   O5        1.0  0.21770  0.53805  0.92808  1.0000
+  O   O6        1.0  0.71037  0.89003  0.92808  1.0000
+  O   O7        1.0  0.03805  0.21037  0.42808  1.0000
+  O   O8        1.0  0.39003  0.71770  0.42808  1.0000

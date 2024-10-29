@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       La4Mo2O12
+_chemical_formula_sum              "La4 Mo2 O12"
+_cell_length_a       6.22355
+_cell_length_b       5.64176
+_cell_length_c       9.37119
+_cell_angle_alpha    58.1613
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.58321  0.78887  0.24435  1.0000
+  La  La2       1.0  0.08321  0.21113  0.25565  1.0000
+  La  La3       1.0  0.91679  0.78887  0.74435  1.0000
+  La  La4       1.0  0.41679  0.21113  0.75565  1.0000
+  Mo  Mo1       1.0  0.50000  0.50000  0.00000  1.0000
+  Mo  Mo2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.06713  0.41902  0.72337  1.0000
+  O   O2        1.0  0.26407  0.72031  0.41665  1.0000
+  O   O3        1.0  0.34556  0.16360  0.04951  1.0000
+  O   O4        1.0  0.84556  0.83640  0.45049  1.0000
+  O   O5        1.0  0.76407  0.27969  0.08335  1.0000
+  O   O6        1.0  0.56713  0.58098  0.77663  1.0000
+  O   O7        1.0  0.93287  0.58098  0.27663  1.0000
+  O   O8        1.0  0.73593  0.27969  0.58335  1.0000
+  O   O9        1.0  0.65444  0.83640  0.95049  1.0000
+  O   O10       1.0  0.15444  0.16360  0.54951  1.0000
+  O   O11       1.0  0.23593  0.72031  0.91665  1.0000
+  O   O12       1.0  0.43287  0.41902  0.22337  1.0000

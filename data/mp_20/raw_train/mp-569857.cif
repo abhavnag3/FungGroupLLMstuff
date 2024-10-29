@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       K8P12
+_chemical_formula_sum              "K8 P12"
+_cell_length_a       12.0605
+_cell_length_b       10.3558
+_cell_length_c       8.57298
+_cell_angle_alpha    78.5382
+_cell_angle_beta     57.3023
+_cell_angle_gamma    44.1595
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.37541  0.37541  0.12459  1.0000
+  K   K2        1.0  0.12459  0.12459  0.37541  1.0000
+  K   K3        1.0  0.63668  0.63668  0.36332  1.0000
+  K   K4        1.0  0.36332  0.36332  0.63668  1.0000
+  K   K5        1.0  0.88668  0.88668  0.61332  1.0000
+  K   K6        1.0  0.12541  0.12541  0.87459  1.0000
+  K   K7        1.0  0.87459  0.87459  0.12541  1.0000
+  K   K8        1.0  0.61332  0.61332  0.88668  1.0000
+  P   P1        1.0  0.20525  0.79917  0.64950  1.0000
+  P   P2        1.0  0.60525  0.89475  0.60525  1.0000
+  P   P3        1.0  0.35525  0.64475  0.35525  1.0000
+  P   P4        1.0  0.45083  0.04475  0.90392  1.0000
+  P   P5        1.0  0.64475  0.35525  0.64475  1.0000
+  P   P6        1.0  0.34608  0.64950  0.79917  1.0000
+  P   P7        1.0  0.90392  0.60050  0.45083  1.0000
+  P   P8        1.0  0.89475  0.60525  0.89475  1.0000
+  P   P9        1.0  0.64950  0.34608  0.20525  1.0000
+  P   P10       1.0  0.04475  0.45083  0.60050  1.0000
+  P   P11       1.0  0.79917  0.20525  0.34608  1.0000
+  P   P12       1.0  0.60050  0.90392  0.04475  1.0000

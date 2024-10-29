@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tm4Mn2C8
+_chemical_formula_sum              "Tm4 Mn2 C8"
+_cell_length_a       6.50726
+_cell_length_b       6.50726
+_cell_length_c       6.50726
+_cell_angle_alpha    134.933
+_cell_angle_beta     109.261
+_cell_angle_gamma    87.929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.50787  0.35431  0.15356  1.0000
+  Tm  Tm2       1.0  0.49213  0.64568  0.84644  1.0000
+  Tm  Tm3       1.0  0.20076  0.85432  0.34644  1.0000
+  Tm  Tm4       1.0  0.79924  0.14569  0.65356  1.0000
+  Mn  Mn1       1.0  0.00000  0.25000  0.25000  1.0000
+  Mn  Mn2       1.0  0.00000  0.75000  0.75000  1.0000
+  C   C1        1.0  0.25219  0.07945  0.17274  1.0000
+  C   C2        1.0  0.74781  0.92055  0.82726  1.0000
+  C   C3        1.0  0.90670  0.57945  0.32726  1.0000
+  C   C4        1.0  0.09329  0.42055  0.67274  1.0000
+  C   C5        1.0  0.47383  0.12976  0.34406  1.0000
+  C   C6        1.0  0.52617  0.87023  0.65594  1.0000
+  C   C7        1.0  0.78570  0.62977  0.15594  1.0000
+  C   C8        1.0  0.21430  0.37023  0.84406  1.0000

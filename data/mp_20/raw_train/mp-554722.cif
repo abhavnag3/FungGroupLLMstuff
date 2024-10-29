@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Y6Ga2O12
+_chemical_formula_sum              "Y6 Ga2 O12"
+_cell_length_a       7.16709
+_cell_length_b       7.16709
+_cell_length_c       5.45711
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    102.882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.08822  0.29847  0.46847  1.0000
+  Y   Y2        1.0  0.70153  0.91178  0.46847  1.0000
+  Y   Y3        1.0  0.39801  0.60199  0.92218  1.0000
+  Y   Y4        1.0  0.60199  0.39801  0.42218  1.0000
+  Y   Y5        1.0  0.91178  0.70153  0.96847  1.0000
+  Y   Y6        1.0  0.29847  0.08822  0.96847  1.0000
+  Ga  Ga1       1.0  0.19451  0.80549  0.49904  1.0000
+  Ga  Ga2       1.0  0.80549  0.19451  0.99904  1.0000
+  O   O1        1.0  0.32317  0.35629  0.19694  1.0000
+  O   O2        1.0  0.78515  0.21485  0.66136  1.0000
+  O   O3        1.0  0.57761  0.10684  0.17822  1.0000
+  O   O4        1.0  0.67683  0.64371  0.69694  1.0000
+  O   O5        1.0  0.42240  0.89316  0.67822  1.0000
+  O   O6        1.0  0.35629  0.32317  0.69694  1.0000
+  O   O7        1.0  0.89316  0.42240  0.17822  1.0000
+  O   O8        1.0  0.95964  0.04036  0.13939  1.0000
+  O   O9        1.0  0.10684  0.57761  0.67822  1.0000
+  O   O10       1.0  0.04036  0.95964  0.63939  1.0000
+  O   O11       1.0  0.64371  0.67683  0.19694  1.0000
+  O   O12       1.0  0.21485  0.78515  0.16136  1.0000

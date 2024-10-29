@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Na4Pt2S4
+_chemical_formula_sum              "Na4 Pt2 S4"
+_cell_length_a       5.55127
+_cell_length_b       5.55127
+_cell_length_c       10.9606
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    142.232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.82827  0.17173  0.09410  1.0000
+  Na  Na2       1.0  0.17173  0.82827  0.59410  1.0000
+  Na  Na3       1.0  0.56908  0.43092  0.87735  1.0000
+  Na  Na4       1.0  0.43092  0.56908  0.37735  1.0000
+  Pt  Pt1       1.0  0.13458  0.86542  0.25397  1.0000
+  Pt  Pt2       1.0  0.86542  0.13458  0.75397  1.0000
+  S   S1        1.0  0.44817  0.55183  0.63674  1.0000
+  S   S2        1.0  0.55183  0.44817  0.13674  1.0000
+  S   S3        1.0  0.28287  0.71713  0.87183  1.0000
+  S   S4        1.0  0.71713  0.28287  0.37183  1.0000

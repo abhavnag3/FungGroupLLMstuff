@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr4Li2Mg2Si6
+_chemical_formula_sum              "Sr4 Li2 Mg2 Si6"
+_cell_length_a       10.0131
+_cell_length_b       10.0131
+_cell_length_c       7.18534
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    153.309
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.44419  0.55581  0.75199  1.0000
+  Sr  Sr2       1.0  0.55581  0.44419  0.25199  1.0000
+  Sr  Sr3       1.0  0.65394  0.34606  0.73884  1.0000
+  Sr  Sr4       1.0  0.34606  0.65394  0.23884  1.0000
+  Li  Li1       1.0  0.80961  0.19040  0.94935  1.0000
+  Li  Li2       1.0  0.19039  0.80961  0.44935  1.0000
+  Mg  Mg1       1.0  0.19088  0.80912  0.05638  1.0000
+  Mg  Mg2       1.0  0.80912  0.19088  0.55639  1.0000
+  Si  Si1       1.0  0.27837  0.72163  0.75104  1.0000
+  Si  Si2       1.0  0.72163  0.27837  0.25104  1.0000
+  Si  Si3       1.0  0.94678  0.05322  0.41787  1.0000
+  Si  Si4       1.0  0.05259  0.94741  0.58452  1.0000
+  Si  Si5       1.0  0.94741  0.05259  0.08452  1.0000
+  Si  Si6       1.0  0.05322  0.94678  0.91787  1.0000

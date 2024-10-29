@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2Co2Si4
+_chemical_formula_sum              "Mn2 Co2 Si4"
+_cell_length_a       4.43739
+_cell_length_b       4.49414
+_cell_length_c       4.50507
+_cell_angle_alpha    89.3937
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.63781  0.89334  0.87125  1.0000
+  Mn  Mn2       1.0  0.13781  0.10666  0.12875  1.0000
+  Co  Co1       1.0  0.36424  0.38991  0.63644  1.0000
+  Co  Co2       1.0  0.86424  0.61009  0.36356  1.0000
+  Si  Si1       1.0  0.65746  0.08808  0.35092  1.0000
+  Si  Si2       1.0  0.15746  0.91192  0.64908  1.0000
+  Si  Si3       1.0  0.34049  0.58831  0.15743  1.0000
+  Si  Si4       1.0  0.84049  0.41169  0.84257  1.0000

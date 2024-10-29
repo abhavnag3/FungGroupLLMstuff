@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ca2Sn2Ge4O12
+_chemical_formula_sum              "Ca2 Sn2 Ge4 O12"
+_cell_length_a       7.37298
+_cell_length_b       7.37298
+_cell_length_c       5.61184
+_cell_angle_alpha    80.6411
+_cell_angle_beta     80.6411
+_cell_angle_gamma    85.1978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.68818  0.31182  0.75000  1.0000
+  Ca  Ca2       1.0  0.31182  0.68818  0.25000  1.0000
+  Sn  Sn1       1.0  0.10922  0.89078  0.75000  1.0000
+  Sn  Sn2       1.0  0.89078  0.10922  0.25000  1.0000
+  Ge  Ge1       1.0  0.19422  0.38953  0.76653  1.0000
+  Ge  Ge2       1.0  0.61047  0.80578  0.73347  1.0000
+  Ge  Ge3       1.0  0.80578  0.61047  0.23347  1.0000
+  Ge  Ge4       1.0  0.38953  0.19422  0.26653  1.0000
+  O   O1        1.0  0.37821  0.31947  0.52512  1.0000
+  O   O2        1.0  0.68053  0.62179  0.97488  1.0000
+  O   O3        1.0  0.62179  0.68053  0.47488  1.0000
+  O   O4        1.0  0.31947  0.37821  0.02512  1.0000
+  O   O5        1.0  0.61938  0.15764  0.13833  1.0000
+  O   O6        1.0  0.84236  0.38062  0.36167  1.0000
+  O   O7        1.0  0.38062  0.84236  0.86167  1.0000
+  O   O8        1.0  0.15764  0.61938  0.63833  1.0000
+  O   O9        1.0  0.99688  0.26798  0.84252  1.0000
+  O   O10       1.0  0.73202  0.00312  0.65748  1.0000
+  O   O11       1.0  0.00312  0.73202  0.15748  1.0000
+  O   O12       1.0  0.26798  0.99688  0.34253  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Pr2Ge2Se8
+_chemical_formula_sum              "K2 Pr2 Ge2 Se8"
+_cell_length_a       7.15459
+_cell_length_b       6.97773
+_cell_length_c       9.1958
+_cell_angle_alpha    72.3943
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.49567  0.25586  0.93698  1.0000
+  K   K2        1.0  0.99567  0.74414  0.06302  1.0000
+  Pr  Pr1       1.0  0.50111  0.22886  0.44771  1.0000
+  Pr  Pr2       1.0  0.00111  0.77114  0.55229  1.0000
+  Ge  Ge1       1.0  0.96820  0.22211  0.67711  1.0000
+  Ge  Ge2       1.0  0.46820  0.77789  0.32289  1.0000
+  Se  Se1       1.0  0.24229  0.01695  0.71128  1.0000
+  Se  Se2       1.0  0.72948  0.97012  0.72828  1.0000
+  Se  Se3       1.0  0.46386  0.57752  0.15796  1.0000
+  Se  Se4       1.0  0.96386  0.42248  0.84204  1.0000
+  Se  Se5       1.0  0.90269  0.42690  0.42348  1.0000
+  Se  Se6       1.0  0.40269  0.57310  0.57652  1.0000
+  Se  Se7       1.0  0.22948  0.02988  0.27172  1.0000
+  Se  Se8       1.0  0.74229  0.98305  0.28872  1.0000

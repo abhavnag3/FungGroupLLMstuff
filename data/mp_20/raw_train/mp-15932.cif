@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sm4Cr4S12
+_chemical_formula_sum              "Sm4 Cr4 S12"
+_cell_length_a       3.76185
+_cell_length_b       7.7952
+_cell_length_c       12.9023
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.25000  0.08556  0.82724  1.0000
+  Sm  Sm2       1.0  0.75000  0.91444  0.17277  1.0000
+  Sm  Sm3       1.0  0.25000  0.58556  0.67276  1.0000
+  Sm  Sm4       1.0  0.75000  0.41444  0.32723  1.0000
+  Cr  Cr1       1.0  0.25000  0.33578  0.05023  1.0000
+  Cr  Cr2       1.0  0.75000  0.66422  0.94977  1.0000
+  Cr  Cr3       1.0  0.25000  0.83578  0.44977  1.0000
+  Cr  Cr4       1.0  0.75000  0.16422  0.55023  1.0000
+  S   S1        1.0  0.25000  0.49222  0.89305  1.0000
+  S   S2        1.0  0.75000  0.50778  0.10695  1.0000
+  S   S3        1.0  0.25000  0.99222  0.60695  1.0000
+  S   S4        1.0  0.75000  0.00778  0.39305  1.0000
+  S   S5        1.0  0.25000  0.34284  0.49223  1.0000
+  S   S6        1.0  0.75000  0.65716  0.50777  1.0000
+  S   S7        1.0  0.25000  0.84284  0.00777  1.0000
+  S   S8        1.0  0.75000  0.15716  0.99223  1.0000
+  S   S9        1.0  0.75000  0.30608  0.71364  1.0000
+  S   S10       1.0  0.25000  0.69392  0.28636  1.0000
+  S   S11       1.0  0.75000  0.80608  0.78636  1.0000
+  S   S12       1.0  0.25000  0.19392  0.21364  1.0000

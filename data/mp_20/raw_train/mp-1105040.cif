@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ta6Zn7
+_chemical_formula_sum              "Ta6 Zn7"
+_cell_length_a       9.61748
+_cell_length_b       9.61748
+_cell_length_c       9.61748
+_cell_angle_alpha    30.54
+_cell_angle_beta     30.54
+_cell_angle_gamma    30.54
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.83535  0.83535  0.83535  1.0000
+  Ta  Ta2       1.0  0.16466  0.16465  0.16465  1.0000
+  Ta  Ta3       1.0  0.65020  0.65020  0.65020  1.0000
+  Ta  Ta4       1.0  0.34980  0.34980  0.34980  1.0000
+  Ta  Ta5       1.0  0.54529  0.54529  0.54529  1.0000
+  Ta  Ta6       1.0  0.45471  0.45471  0.45471  1.0000
+  Zn  Zn1       1.0  0.00000  0.00000  0.00000  1.0000
+  Zn  Zn2       1.0  0.90650  0.41454  0.90650  1.0000
+  Zn  Zn3       1.0  0.90650  0.90650  0.41454  1.0000
+  Zn  Zn4       1.0  0.41454  0.90650  0.90650  1.0000
+  Zn  Zn5       1.0  0.09350  0.58546  0.09350  1.0000
+  Zn  Zn6       1.0  0.09350  0.09350  0.58546  1.0000
+  Zn  Zn7       1.0  0.58546  0.09350  0.09350  1.0000

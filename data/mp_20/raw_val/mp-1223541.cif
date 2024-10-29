@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       K2Al2Si2O8
+_chemical_formula_sum              "K2 Al2 Si2 O8"
+_cell_length_a       5.21854
+_cell_length_b       5.23984
+_cell_length_c       8.84936
+_cell_angle_alpha    90.6355
+_cell_angle_beta     89.6087
+_cell_angle_gamma    119.789
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.00313  0.00259  0.25892  1.0000
+  K   K2        1.0  0.00194  0.99946  0.75905  1.0000
+  Al  Al1       1.0  0.33968  0.67044  0.45319  1.0000
+  Al  Al2       1.0  0.67481  0.33643  0.95307  1.0000
+  Si  Si1       1.0  0.34123  0.67196  0.07118  1.0000
+  Si  Si2       1.0  0.67303  0.33519  0.57081  1.0000
+  O   O1        1.0  0.60528  0.98588  0.00739  1.0000
+  O   O2        1.0  0.01642  0.61888  0.02025  1.0000
+  O   O3        1.0  0.38841  0.40111  0.01109  1.0000
+  O   O4        1.0  0.40003  0.01523  0.51768  1.0000
+  O   O5        1.0  0.98681  0.38347  0.50295  1.0000
+  O   O6        1.0  0.61821  0.60295  0.51825  1.0000
+  O   O7        1.0  0.35697  0.68467  0.25531  1.0000
+  O   O8        1.0  0.69116  0.34113  0.75543  1.0000

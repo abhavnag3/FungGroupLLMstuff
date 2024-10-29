@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sr2FeWO6
+_chemical_formula_sum              "Sr2 Fe1 W1 O6"
+_cell_length_a       5.66469
+_cell_length_b       5.67479
+_cell_length_c       5.71645
+_cell_angle_alpha    119.087
+_cell_angle_beta     119.021
+_cell_angle_gamma    91.1606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75011  0.25001  0.50026  1.0000
+  Sr  Sr2       1.0  0.24994  0.74999  0.49975  1.0000
+  Fe  Fe1       1.0  0.49998  0.50005  0.99991  1.0000
+  W   W1        1.0  0.99996  0.99998  0.99991  1.0000
+  O   O1        1.0  0.23708  0.23617  0.47436  1.0000
+  O   O2        1.0  0.76292  0.76378  0.52569  1.0000
+  O   O3        1.0  0.71060  0.80438  0.99939  1.0000
+  O   O4        1.0  0.28944  0.19566  0.00066  1.0000
+  O   O5        1.0  0.81102  0.28312  0.00090  1.0000
+  O   O6        1.0  0.18897  0.71685  0.99915  1.0000

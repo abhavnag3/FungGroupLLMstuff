@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       SrCaI4
+_chemical_formula_sum              "Sr1 Ca1 I4"
+_cell_length_a       4.68277
+_cell_length_b       7.49414
+_cell_length_c       8.14385
+_cell_angle_alpha    89.8454
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca1       1.0  0.50000  0.00000  0.50000  1.0000
+  I   I1        1.0  0.00000  0.23518  0.65436  1.0000
+  I   I2        1.0  0.50000  0.24188  0.17971  1.0000
+  I   I3        1.0  0.50000  0.75812  0.82029  1.0000
+  I   I4        1.0  0.00000  0.76482  0.34564  1.0000

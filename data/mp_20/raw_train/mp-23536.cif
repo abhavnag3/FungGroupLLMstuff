@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       SbI3Cl8
+_chemical_formula_sum              "Sb1 I3 Cl8"
+_cell_length_a       7.5772
+_cell_length_b       7.83465
+_cell_length_c       8.12521
+_cell_angle_alpha    94.5072
+_cell_angle_beta     93.6038
+_cell_angle_gamma    101.105
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.00000  0.50000  0.50000  1.0000
+  I   I1        1.0  0.00000  0.00000  0.00000  1.0000
+  I   I2        1.0  0.67854  0.76220  0.83670  1.0000
+  I   I3        1.0  0.32146  0.23780  0.16330  1.0000
+  Cl  Cl1       1.0  0.73085  0.30700  0.55917  1.0000
+  Cl  Cl2       1.0  0.26915  0.69300  0.44083  1.0000
+  Cl  Cl3       1.0  0.50963  0.76374  0.07483  1.0000
+  Cl  Cl4       1.0  0.49037  0.23626  0.92517  1.0000
+  Cl  Cl5       1.0  0.84996  0.75707  0.53883  1.0000
+  Cl  Cl6       1.0  0.15004  0.24293  0.46117  1.0000
+  Cl  Cl7       1.0  0.89618  0.46751  0.21445  1.0000
+  Cl  Cl8       1.0  0.10382  0.53250  0.78555  1.0000

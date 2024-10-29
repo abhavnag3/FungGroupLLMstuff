@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd4Te3Se
+_chemical_formula_sum              "Cd4 Te3 Se1"
+_cell_length_a       15.2767
+_cell_length_b       15.2767
+_cell_length_c       15.2767
+_cell_angle_alpha    17.4045
+_cell_angle_beta     17.4045
+_cell_angle_gamma    17.4045
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.00338  0.00338  0.00338  1.0000
+  Cd  Cd2       1.0  0.74647  0.74647  0.74647  1.0000
+  Cd  Cd3       1.0  0.49900  0.49900  0.49900  1.0000
+  Cd  Cd4       1.0  0.25108  0.25108  0.25108  1.0000
+  Te  Te1       1.0  0.81008  0.81008  0.81008  1.0000
+  Te  Te2       1.0  0.56236  0.56236  0.56236  1.0000
+  Te  Te3       1.0  0.31447  0.31447  0.31447  1.0000
+  Se  Se1       1.0  0.06315  0.06315  0.06315  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BaGa2GeS6
+_chemical_formula_sum              "Ba1 Ga2 Ge1 S6"
+_cell_length_a       6.30377
+_cell_length_b       6.35149
+_cell_length_c       6.40037
+_cell_angle_alpha    100.45
+_cell_angle_beta     101.083
+_cell_angle_gamma    99.8118
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.05673  0.05687  0.06053  1.0000
+  Ga  Ga1       1.0  0.51582  0.66511  0.24398  1.0000
+  Ga  Ga2       1.0  0.24750  0.52525  0.65941  1.0000
+  Ge  Ge1       1.0  0.66326  0.24383  0.52012  1.0000
+  S   S1        1.0  0.92653  0.47123  0.79128  1.0000
+  S   S2        1.0  0.79698  0.93690  0.48176  1.0000
+  S   S3        1.0  0.47728  0.79477  0.93155  1.0000
+  S   S4        1.0  0.33588  0.18399  0.60893  1.0000
+  S   S5        1.0  0.61523  0.32840  0.19170  1.0000
+  S   S6        1.0  0.17963  0.60851  0.32556  1.0000

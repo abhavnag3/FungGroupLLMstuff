@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Mg4Tc2O8
+_chemical_formula_sum              "Mg4 Tc2 O8"
+_cell_length_a       6.10768
+_cell_length_b       6.10768
+_cell_length_c       6.10768
+_cell_angle_alpha    120.557
+_cell_angle_beta     119.325
+_cell_angle_gamma    90.106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.61281  0.86281  0.75000  1.0000
+  Mg  Mg2       1.0  0.38719  0.13719  0.25000  1.0000
+  Mg  Mg3       1.0  0.00000  0.50000  0.00000  1.0000
+  Mg  Mg4       1.0  0.00000  0.00000  0.50000  1.0000
+  Tc  Tc1       1.0  0.50000  0.50000  0.00000  1.0000
+  Tc  Tc2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.24682  0.72488  0.97806  1.0000
+  O   O2        1.0  0.24760  0.26524  0.98236  1.0000
+  O   O3        1.0  0.24682  0.26876  0.52194  1.0000
+  O   O4        1.0  0.78288  0.26524  0.51764  1.0000
+  O   O5        1.0  0.21712  0.73476  0.48236  1.0000
+  O   O6        1.0  0.75240  0.73476  0.01764  1.0000
+  O   O7        1.0  0.75318  0.73124  0.47806  1.0000
+  O   O8        1.0  0.75318  0.27513  0.02194  1.0000

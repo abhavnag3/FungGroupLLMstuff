@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Pr4Pb2S8
+_chemical_formula_sum              "Pr4 Pb2 S8"
+_cell_length_a       7.57115
+_cell_length_b       7.57115
+_cell_length_c       7.57115
+_cell_angle_alpha    109.413
+_cell_angle_beta     109.413
+_cell_angle_gamma    109.588
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.62500  0.00748  0.88248  1.0000
+  Pr  Pr2       1.0  0.99252  0.87500  0.61752  1.0000
+  Pr  Pr3       1.0  0.12500  0.74252  0.11752  1.0000
+  Pr  Pr4       1.0  0.25748  0.37500  0.38248  1.0000
+  Pb  Pb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Pb  Pb2       1.0  0.75000  0.25000  0.50000  1.0000
+  S   S1        1.0  0.36392  0.11597  0.09686  1.0000
+  S   S2        1.0  0.36597  0.11392  0.59686  1.0000
+  S   S3        1.0  0.73294  0.63608  0.75205  1.0000
+  S   S4        1.0  0.88403  0.98089  0.24795  1.0000
+  S   S5        1.0  0.51706  0.76911  0.40314  1.0000
+  S   S6        1.0  0.88608  0.48294  0.25205  1.0000
+  S   S7        1.0  0.23089  0.63403  0.74795  1.0000
+  S   S8        1.0  0.01911  0.26706  0.90314  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn2Bi4O8
+_chemical_formula_sum              "Zn2 Bi4 O8"
+_cell_length_a       3.48653
+_cell_length_b       6.69721
+_cell_length_c       10.3156
+_cell_angle_alpha    101.603
+_cell_angle_beta     99.3752
+_cell_angle_gamma    104.328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.96752  0.28306  0.72896  1.0000
+  Zn  Zn2       1.0  0.03248  0.71695  0.27104  1.0000
+  Bi  Bi1       1.0  0.21928  0.84492  0.61228  1.0000
+  Bi  Bi2       1.0  0.19922  0.30495  0.06828  1.0000
+  Bi  Bi3       1.0  0.80078  0.69505  0.93172  1.0000
+  Bi  Bi4       1.0  0.78072  0.15508  0.38772  1.0000
+  O   O1        1.0  0.15336  0.02479  0.25511  1.0000
+  O   O2        1.0  0.18545  0.59942  0.77990  1.0000
+  O   O3        1.0  0.81455  0.40058  0.22010  1.0000
+  O   O4        1.0  0.84664  0.97521  0.74489  1.0000
+  O   O5        1.0  0.62976  0.82208  0.40545  1.0000
+  O   O6        1.0  0.64551  0.35559  0.90770  1.0000
+  O   O7        1.0  0.37024  0.17793  0.59455  1.0000
+  O   O8        1.0  0.35449  0.64441  0.09230  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       LaPrNi10
+_chemical_formula_sum              "La1 Pr1 Ni10"
+_cell_length_a       3.94423
+_cell_length_b       4.99585
+_cell_length_c       8.62642
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pr  Pr1       1.0  0.00000  0.50000  0.50000  1.0000
+  Ni  Ni1       1.0  0.00000  0.00000  0.33279  1.0000
+  Ni  Ni2       1.0  0.00000  0.50000  0.83353  1.0000
+  Ni  Ni3       1.0  0.00000  0.50000  0.16647  1.0000
+  Ni  Ni4       1.0  0.00000  0.00000  0.66721  1.0000
+  Ni  Ni5       1.0  0.50000  0.00000  0.50000  1.0000
+  Ni  Ni6       1.0  0.50000  0.50000  0.00000  1.0000
+  Ni  Ni7       1.0  0.50000  0.25057  0.25105  1.0000
+  Ni  Ni8       1.0  0.50000  0.74943  0.74895  1.0000
+  Ni  Ni9       1.0  0.50000  0.74943  0.25105  1.0000
+  Ni  Ni10      1.0  0.50000  0.25057  0.74895  1.0000

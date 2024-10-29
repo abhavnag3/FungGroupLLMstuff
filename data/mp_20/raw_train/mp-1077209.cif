@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Tm2Cu4
+_chemical_formula_sum              "Tm2 Cu4"
+_cell_length_a       5.35637
+_cell_length_b       5.35637
+_cell_length_c       5.35637
+_cell_angle_alpha    132.813
+_cell_angle_beta     103.001
+_cell_angle_gamma    95.4749
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.70708  0.45708  0.25000  1.0000
+  Tm  Tm2       1.0  0.29292  0.54292  0.75000  1.0000
+  Cu  Cu1       1.0  0.88307  0.83466  0.04842  1.0000
+  Cu  Cu2       1.0  0.11693  0.16534  0.95158  1.0000
+  Cu  Cu3       1.0  0.71376  0.16534  0.54842  1.0000
+  Cu  Cu4       1.0  0.28624  0.83466  0.45158  1.0000

@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       V6InS8
+_chemical_formula_sum              "V6 In1 S8"
+_cell_length_a       9.18631
+_cell_length_b       9.18631
+_cell_length_c       3.2365
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  V   V1        1.0  0.29395  0.45053  0.26051  1.0000
+  V   V2        1.0  0.54947  0.84342  0.26051  1.0000
+  V   V3        1.0  0.15658  0.70605  0.26051  1.0000
+  V   V4        1.0  0.04065  0.21609  0.75943  1.0000
+  V   V5        1.0  0.78391  0.82456  0.75943  1.0000
+  V   V6        1.0  0.17544  0.95935  0.75943  1.0000
+  In  In1       1.0  0.66667  0.33333  0.36876  1.0000
+  S   S1        1.0  0.61637  0.62995  0.25859  1.0000
+  S   S2        1.0  0.37005  0.98642  0.25859  1.0000
+  S   S3        1.0  0.01358  0.38363  0.25859  1.0000
+  S   S4        1.0  0.71770  0.03831  0.76162  1.0000
+  S   S5        1.0  0.96169  0.67939  0.76162  1.0000
+  S   S6        1.0  0.32061  0.28230  0.76162  1.0000
+  S   S7        1.0  0.00000  0.00000  0.25945  1.0000
+  S   S8        1.0  0.33333  0.66667  0.76033  1.0000

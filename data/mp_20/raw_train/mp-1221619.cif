@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mn2Fe2Si4
+_chemical_formula_sum              "Mn2 Fe2 Si4"
+_cell_length_a       4.48608
+_cell_length_b       4.48206
+_cell_length_c       4.48727
+_cell_angle_alpha    89.7725
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.63668  0.13446  0.38892  1.0000
+  Mn  Mn2       1.0  0.13668  0.86554  0.61108  1.0000
+  Fe  Fe1       1.0  0.36357  0.36075  0.88556  1.0000
+  Fe  Fe2       1.0  0.86357  0.63925  0.11444  1.0000
+  Si  Si1       1.0  0.65655  0.65333  0.59402  1.0000
+  Si  Si2       1.0  0.15655  0.34667  0.40598  1.0000
+  Si  Si3       1.0  0.34321  0.83937  0.09302  1.0000
+  Si  Si4       1.0  0.84321  0.16063  0.90697  1.0000

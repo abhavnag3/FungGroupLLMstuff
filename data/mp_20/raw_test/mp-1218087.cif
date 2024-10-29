@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ta3Mn8Al
+_chemical_formula_sum              "Ta3 Mn8 Al1"
+_cell_length_a       4.77158
+_cell_length_b       4.77158
+_cell_length_c       7.87484
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.00000  0.00000  0.55843  1.0000
+  Ta  Ta2       1.0  0.00000  0.00000  0.93510  1.0000
+  Ta  Ta3       1.0  0.66667  0.33333  0.07516  1.0000
+  Mn  Mn1       1.0  0.33333  0.66667  0.49827  1.0000
+  Mn  Mn2       1.0  0.33333  0.66667  0.99398  1.0000
+  Mn  Mn3       1.0  0.16171  0.83829  0.25160  1.0000
+  Mn  Mn4       1.0  0.16171  0.32342  0.25160  1.0000
+  Mn  Mn5       1.0  0.67658  0.83829  0.25160  1.0000
+  Mn  Mn6       1.0  0.50681  0.49319  0.74906  1.0000
+  Mn  Mn7       1.0  0.50681  0.01362  0.74906  1.0000
+  Mn  Mn8       1.0  0.98638  0.49319  0.74906  1.0000
+  Al  Al1       1.0  0.66667  0.33333  0.43707  1.0000

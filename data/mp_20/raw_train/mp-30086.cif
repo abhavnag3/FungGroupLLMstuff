@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ge4Cl16
+_chemical_formula_sum              "Ge4 Cl16"
+_cell_length_a       7.02818
+_cell_length_b       10.5837
+_cell_length_c       10.6745
+_cell_angle_alpha    77.1675
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.07304  0.25199  0.85925  1.0000
+  Ge  Ge2       1.0  0.57304  0.74801  0.64075  1.0000
+  Ge  Ge3       1.0  0.92696  0.74801  0.14075  1.0000
+  Ge  Ge4       1.0  0.42696  0.25199  0.35925  1.0000
+  Cl  Cl1       1.0  0.36001  0.19731  0.91020  1.0000
+  Cl  Cl2       1.0  0.86001  0.80269  0.58980  1.0000
+  Cl  Cl3       1.0  0.63999  0.80269  0.08980  1.0000
+  Cl  Cl4       1.0  0.13999  0.19731  0.41020  1.0000
+  Cl  Cl5       1.0  0.56844  0.29893  0.51990  1.0000
+  Cl  Cl6       1.0  0.06844  0.70107  0.98010  1.0000
+  Cl  Cl7       1.0  0.43156  0.70107  0.48010  1.0000
+  Cl  Cl8       1.0  0.93156  0.29893  0.01990  1.0000
+  Cl  Cl9       1.0  0.42912  0.41685  0.20201  1.0000
+  Cl  Cl10      1.0  0.92912  0.58315  0.29799  1.0000
+  Cl  Cl11      1.0  0.57088  0.58315  0.79799  1.0000
+  Cl  Cl12      1.0  0.07088  0.41685  0.70201  1.0000
+  Cl  Cl13      1.0  0.57132  0.09501  0.30448  1.0000
+  Cl  Cl14      1.0  0.07132  0.90499  0.19552  1.0000
+  Cl  Cl15      1.0  0.42868  0.90499  0.69552  1.0000
+  Cl  Cl16      1.0  0.92868  0.09501  0.80448  1.0000

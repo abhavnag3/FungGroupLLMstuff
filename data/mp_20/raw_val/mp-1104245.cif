@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Yb3Ga8Rh3
+_chemical_formula_sum              "Yb3 Ga8 Rh3"
+_cell_length_a       8.24888
+_cell_length_b       8.24888
+_cell_length_c       8.24888
+_cell_angle_alpha    150.111
+_cell_angle_beta     107.409
+_cell_angle_gamma    80.4341
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Yb  Yb1       1.0  0.50000  0.50000  0.00000  1.0000
+  Yb  Yb2       1.0  0.17422  0.17422  0.00000  1.0000
+  Yb  Yb3       1.0  0.82578  0.82578  0.00000  1.0000
+  Ga  Ga1       1.0  0.08886  0.37897  0.70989  1.0000
+  Ga  Ga2       1.0  0.91114  0.62103  0.29011  1.0000
+  Ga  Ga3       1.0  0.66909  0.37897  0.29011  1.0000
+  Ga  Ga4       1.0  0.33091  0.62103  0.70989  1.0000
+  Ga  Ga5       1.0  0.80388  0.16700  0.63688  1.0000
+  Ga  Ga6       1.0  0.19612  0.83300  0.36312  1.0000
+  Ga  Ga7       1.0  0.53012  0.16700  0.36312  1.0000
+  Ga  Ga8       1.0  0.46988  0.83300  0.63688  1.0000
+  Rh  Rh1       1.0  0.00000  0.50000  0.50000  1.0000
+  Rh  Rh2       1.0  0.78184  0.00000  0.78184  1.0000
+  Rh  Rh3       1.0  0.21816  0.00000  0.21816  1.0000

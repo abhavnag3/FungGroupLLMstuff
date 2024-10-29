@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Na4Fe2O6
+_chemical_formula_sum              "Na4 Fe2 O6"
+_cell_length_a       5.37308
+_cell_length_b       5.37292
+_cell_length_c       5.77601
+_cell_angle_alpha    80.8255
+_cell_angle_beta     99.1717
+_cell_angle_gamma    59.9021
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.15861  0.15859  0.50001  1.0000
+  Na  Na2       1.0  0.84139  0.84139  0.50000  1.0000
+  Na  Na3       1.0  0.50000  0.50000  0.50000  1.0000
+  Na  Na4       1.0  0.00000  1.00000  1.00000  1.0000
+  Fe  Fe1       1.0  0.66659  0.66663  0.99999  1.0000
+  Fe  Fe2       1.0  0.33339  0.33342  0.00001  1.0000
+  O   O1        1.0  0.30798  0.69201  0.79499  1.0000
+  O   O2        1.0  0.07204  0.54939  0.20241  1.0000
+  O   O3        1.0  0.45061  0.92797  0.20240  1.0000
+  O   O4        1.0  0.92796  0.45060  0.79760  1.0000
+  O   O5        1.0  0.54940  0.07203  0.79759  1.0000
+  O   O6        1.0  0.69202  0.30798  0.20501  1.0000

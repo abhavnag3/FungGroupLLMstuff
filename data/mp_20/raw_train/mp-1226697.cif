@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       CeYFe17
+_chemical_formula_sum              "Ce1 Y1 Fe17"
+_cell_length_a       6.4295
+_cell_length_b       6.4295
+_cell_length_c       6.4295
+_cell_angle_alpha    82.5162
+_cell_angle_beta     82.5162
+_cell_angle_gamma    82.5162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.65712  0.65712  0.65712  1.0000
+  Y   Y1        1.0  0.34055  0.34055  0.34055  1.0000
+  Fe  Fe1       1.0  0.34377  0.84336  0.34377  1.0000
+  Fe  Fe2       1.0  0.34377  0.34377  0.84336  1.0000
+  Fe  Fe3       1.0  0.84336  0.34377  0.34377  1.0000
+  Fe  Fe4       1.0  0.65608  0.15556  0.65608  1.0000
+  Fe  Fe5       1.0  0.65608  0.65608  0.15557  1.0000
+  Fe  Fe6       1.0  0.15556  0.65608  0.65608  1.0000
+  Fe  Fe7       1.0  0.70746  0.29327  0.00006  1.0000
+  Fe  Fe8       1.0  0.00006  0.70746  0.29327  1.0000
+  Fe  Fe9       1.0  0.29327  0.00006  0.70746  1.0000
+  Fe  Fe10      1.0  0.00006  0.29327  0.70746  1.0000
+  Fe  Fe11      1.0  0.70746  0.00006  0.29327  1.0000
+  Fe  Fe12      1.0  0.29327  0.70746  0.00006  1.0000
+  Fe  Fe13      1.0  0.00139  0.00139  0.49975  1.0000
+  Fe  Fe14      1.0  0.49975  0.00139  0.00139  1.0000
+  Fe  Fe15      1.0  0.00139  0.49975  0.00139  1.0000
+  Fe  Fe16      1.0  0.90285  0.90285  0.90285  1.0000
+  Fe  Fe17      1.0  0.09673  0.09673  0.09673  1.0000

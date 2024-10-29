@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ba2Ca2Ce2Zr2O12
+_chemical_formula_sum              "Ba2 Ca2 Ce2 Zr2 O12"
+_cell_length_a       5.9736
+_cell_length_b       6.04686
+_cell_length_c       8.54403
+_cell_angle_alpha    90.2707
+_cell_angle_beta     90.2468
+_cell_angle_gamma    89.9996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.50653  0.53185  0.25019  1.0000
+  Ba  Ba2       1.0  0.49347  0.46815  0.74981  1.0000
+  Ca  Ca1       1.0  0.99276  0.03689  0.25221  1.0000
+  Ca  Ca2       1.0  0.00724  0.96311  0.74779  1.0000
+  Ce  Ce1       1.0  0.00000  0.50000  0.00000  1.0000
+  Ce  Ce2       1.0  0.50000  0.00000  0.50000  1.0000
+  Zr  Zr1       1.0  0.50000  0.00000  0.00000  1.0000
+  Zr  Zr2       1.0  0.00000  0.50000  0.50000  1.0000
+  O   O1        1.0  0.21171  0.19464  0.93788  1.0000
+  O   O2        1.0  0.28500  0.70279  0.52917  1.0000
+  O   O3        1.0  0.78829  0.80536  0.06212  1.0000
+  O   O4        1.0  0.71500  0.29721  0.47083  1.0000
+  O   O5        1.0  0.29775  0.71683  0.96642  1.0000
+  O   O6        1.0  0.19111  0.20764  0.55949  1.0000
+  O   O7        1.0  0.70225  0.28317  0.03358  1.0000
+  O   O8        1.0  0.80889  0.79236  0.44051  1.0000
+  O   O9        1.0  0.39306  0.00048  0.24156  1.0000
+  O   O10       1.0  0.06474  0.43514  0.25852  1.0000
+  O   O11       1.0  0.60694  0.99952  0.75844  1.0000
+  O   O12       1.0  0.93526  0.56486  0.74148  1.0000

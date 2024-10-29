@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlGaCu2Se2S2
+_chemical_formula_sum              "Al1 Ga1 Cu2 Se2 S2"
+_cell_length_a       5.50919
+_cell_length_b       5.49824
+_cell_length_c       6.70623
+_cell_angle_alpha    65.7683
+_cell_angle_beta     65.7171
+_cell_angle_gamma    89.9313
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.50683  0.50683  0.98633  1.0000
+  Ga  Ga1       1.0  0.24544  0.74544  0.50912  1.0000
+  Cu  Cu1       1.0  0.73705  0.23705  0.52590  1.0000
+  Cu  Cu2       1.0  0.01102  0.01102  0.97796  1.0000
+  Se  Se1       1.0  0.12119  0.12944  0.24767  1.0000
+  Se  Se2       1.0  0.63114  0.62290  0.24767  1.0000
+  S   S1        1.0  0.37571  0.86888  0.75268  1.0000
+  S   S2        1.0  0.87161  0.37844  0.75268  1.0000

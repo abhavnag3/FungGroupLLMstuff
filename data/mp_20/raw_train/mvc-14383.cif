@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       CaCr2F12
+_chemical_formula_sum              "Ca1 Cr2 F12"
+_cell_length_a       11.4201
+_cell_length_b       5.64981
+_cell_length_c       5.71144
+_cell_angle_alpha    57.7336
+_cell_angle_beta     57.6142
+_cell_angle_gamma    57.1886
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.75000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.01018  0.98881  0.99601  1.0000
+  Cr  Cr2       1.0  0.48982  0.01119  0.00399  1.0000
+  F   F1        1.0  0.15587  0.12568  0.78310  1.0000
+  F   F2        1.0  0.65689  0.12527  0.78264  1.0000
+  F   F3        1.0  0.05918  0.78873  0.31182  1.0000
+  F   F4        1.0  0.56184  0.78272  0.31317  1.0000
+  F   F5        1.0  0.10737  0.68412  0.87540  1.0000
+  F   F6        1.0  0.60907  0.68317  0.87691  1.0000
+  F   F7        1.0  0.44082  0.21127  0.68818  1.0000
+  F   F8        1.0  0.93816  0.21728  0.68683  1.0000
+  F   F9        1.0  0.34413  0.87432  0.21690  1.0000
+  F   F10       1.0  0.84311  0.87473  0.21736  1.0000
+  F   F11       1.0  0.39263  0.31588  0.12460  1.0000
+  F   F12       1.0  0.89093  0.31683  0.12309  1.0000

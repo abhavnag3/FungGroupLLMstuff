@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       La8S8O4
+_chemical_formula_sum              "La8 S8 O4"
+_cell_length_a       7.37316
+_cell_length_b       7.23037
+_cell_length_c       8.70066
+_cell_angle_alpha    81.454
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.44421  0.24797  0.13680  1.0000
+  La  La2       1.0  0.05579  0.74797  0.13680  1.0000
+  La  La3       1.0  0.86295  0.31262  0.41965  1.0000
+  La  La4       1.0  0.63705  0.81262  0.41965  1.0000
+  La  La5       1.0  0.36295  0.18738  0.58035  1.0000
+  La  La6       1.0  0.13705  0.68738  0.58035  1.0000
+  La  La7       1.0  0.94421  0.25203  0.86320  1.0000
+  La  La8       1.0  0.55579  0.75203  0.86320  1.0000
+  S   S1        1.0  0.77426  0.47251  0.07923  1.0000
+  S   S2        1.0  0.72574  0.97251  0.07923  1.0000
+  S   S3        1.0  0.14464  0.06294  0.32340  1.0000
+  S   S4        1.0  0.35536  0.56294  0.32340  1.0000
+  S   S5        1.0  0.64464  0.43706  0.67660  1.0000
+  S   S6        1.0  0.85536  0.93706  0.67660  1.0000
+  S   S7        1.0  0.27426  0.02749  0.92077  1.0000
+  S   S8        1.0  0.22574  0.52749  0.92077  1.0000
+  O   O1        1.0  0.58485  0.14955  0.38264  1.0000
+  O   O2        1.0  0.91515  0.64955  0.38264  1.0000
+  O   O3        1.0  0.08485  0.35045  0.61736  1.0000
+  O   O4        1.0  0.41515  0.85045  0.61736  1.0000

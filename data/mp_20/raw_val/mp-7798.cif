@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg4Ge4N8
+_chemical_formula_sum              "Mg4 Ge4 N8"
+_cell_length_a       5.22589
+_cell_length_b       5.55122
+_cell_length_c       6.6677
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.00016  0.58485  0.87665  1.0000
+  Mg  Mg2       1.0  0.50016  0.91515  0.37665  1.0000
+  Mg  Mg3       1.0  0.50016  0.41515  0.12335  1.0000
+  Mg  Mg4       1.0  0.00016  0.08485  0.62335  1.0000
+  Ge  Ge1       1.0  0.00745  0.07335  0.12574  1.0000
+  Ge  Ge2       1.0  0.50745  0.92665  0.87426  1.0000
+  Ge  Ge3       1.0  0.50745  0.42665  0.62574  1.0000
+  Ge  Ge4       1.0  0.00745  0.57335  0.37426  1.0000
+  N   N1        1.0  0.40537  0.60061  0.85641  1.0000
+  N   N2        1.0  0.90537  0.39939  0.14359  1.0000
+  N   N3        1.0  0.90537  0.89939  0.35641  1.0000
+  N   N4        1.0  0.40537  0.10061  0.64359  1.0000
+  N   N5        1.0  0.36701  0.56010  0.39313  1.0000
+  N   N6        1.0  0.36701  0.06010  0.10687  1.0000
+  N   N7        1.0  0.86701  0.93990  0.89313  1.0000
+  N   N8        1.0  0.86701  0.43990  0.60687  1.0000

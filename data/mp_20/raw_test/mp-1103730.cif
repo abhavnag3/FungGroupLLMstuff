@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Na4MgGe2Se6
+_chemical_formula_sum              "Na4 Mg1 Ge2 Se6"
+_cell_length_a       7.19404
+_cell_length_b       7.19404
+_cell_length_c       7.15297
+_cell_angle_alpha    81.0093
+_cell_angle_beta     81.0093
+_cell_angle_gamma    114.149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.51930  0.48070  0.00000  1.0000
+  Na  Na2       1.0  0.67231  0.32769  0.50000  1.0000
+  Na  Na3       1.0  0.98116  0.01884  0.50000  1.0000
+  Na  Na4       1.0  0.34786  0.65214  0.50000  1.0000
+  Mg  Mg1       1.0  0.15663  0.84337  0.00000  1.0000
+  Ge  Ge1       1.0  0.66949  0.00292  0.05709  1.0000
+  Ge  Ge2       1.0  0.99708  0.33051  0.94291  1.0000
+  Se  Se1       1.0  0.77180  0.76323  0.23630  1.0000
+  Se  Se2       1.0  0.23677  0.22820  0.76370  1.0000
+  Se  Se3       1.0  0.55013  0.90587  0.77839  1.0000
+  Se  Se4       1.0  0.09413  0.44987  0.22161  1.0000
+  Se  Se5       1.0  0.40007  0.05025  0.25130  1.0000
+  Se  Se6       1.0  0.94976  0.59993  0.74870  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       KLaW2O8
+_chemical_formula_sum              "K1 La1 W2 O8"
+_cell_length_a       7.20793
+_cell_length_b       7.20793
+_cell_length_c       7.20793
+_cell_angle_alpha    134.733
+_cell_angle_beta     134.733
+_cell_angle_gamma    65.9448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.75000  0.25000  0.50000  1.0000
+  La  La1       1.0  0.50000  0.50000  0.00000  1.0000
+  W   W1        1.0  0.25000  0.75000  0.50000  1.0000
+  W   W2        1.0  0.00000  0.00000  0.00000  1.0000
+  O   O1        1.0  0.76903  0.15849  0.08353  1.0000
+  O   O2        1.0  0.07496  0.68550  0.91647  1.0000
+  O   O3        1.0  0.92373  0.53913  0.13802  1.0000
+  O   O4        1.0  0.40111  0.78572  0.86198  1.0000
+  O   O5        1.0  0.46087  0.59889  0.38460  1.0000
+  O   O6        1.0  0.21428  0.07627  0.61540  1.0000
+  O   O7        1.0  0.31450  0.23097  0.38946  1.0000
+  O   O8        1.0  0.84151  0.92504  0.61054  1.0000

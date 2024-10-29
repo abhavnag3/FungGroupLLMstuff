@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Eu10Pt4
+_chemical_formula_sum              "Eu10 Pt4"
+_cell_length_a       9.06903
+_cell_length_b       9.06903
+_cell_length_c       7.83223
+_cell_angle_alpha    83.0239
+_cell_angle_beta     83.0239
+_cell_angle_gamma    44.0035
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.01903  0.79837  0.42020  1.0000
+  Eu  Eu2       1.0  0.20163  0.98097  0.07980  1.0000
+  Eu  Eu3       1.0  0.98097  0.20163  0.57980  1.0000
+  Eu  Eu4       1.0  0.79837  0.01903  0.92020  1.0000
+  Eu  Eu5       1.0  0.36110  0.20352  0.31822  1.0000
+  Eu  Eu6       1.0  0.79648  0.63890  0.18178  1.0000
+  Eu  Eu7       1.0  0.63890  0.79648  0.68178  1.0000
+  Eu  Eu8       1.0  0.20352  0.36110  0.81822  1.0000
+  Eu  Eu9       1.0  0.57888  0.42112  0.25000  1.0000
+  Eu  Eu10      1.0  0.42112  0.57888  0.75000  1.0000
+  Pt  Pt1       1.0  0.18340  0.59769  0.08071  1.0000
+  Pt  Pt2       1.0  0.40231  0.81660  0.41929  1.0000
+  Pt  Pt3       1.0  0.81660  0.40231  0.91929  1.0000
+  Pt  Pt4       1.0  0.59769  0.18340  0.58071  1.0000

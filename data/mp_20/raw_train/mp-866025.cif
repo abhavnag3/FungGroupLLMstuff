@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       CsCr5Te8
+_chemical_formula_sum              "Cs1 Cr5 Te8"
+_cell_length_a       10.4732
+_cell_length_b       10.4732
+_cell_length_c       9.68912
+_cell_angle_alpha    76.2025
+_cell_angle_beta     76.2025
+_cell_angle_gamma    22.2583
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.50000  0.50000  0.50000  1.0000
+  Cr  Cr1       1.0  0.65974  0.65974  0.01158  1.0000
+  Cr  Cr2       1.0  0.34026  0.34026  0.98842  1.0000
+  Cr  Cr3       1.0  0.70386  0.70386  0.66913  1.0000
+  Cr  Cr4       1.0  0.29614  0.29614  0.33087  1.0000
+  Cr  Cr5       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te1       1.0  0.76062  0.76062  0.15813  1.0000
+  Te  Te2       1.0  0.23938  0.23938  0.84187  1.0000
+  Te  Te3       1.0  0.42742  0.42742  0.15950  1.0000
+  Te  Te4       1.0  0.57258  0.57258  0.84050  1.0000
+  Te  Te5       1.0  0.90944  0.90944  0.83503  1.0000
+  Te  Te6       1.0  0.09056  0.09056  0.16497  1.0000
+  Te  Te7       1.0  0.82806  0.82806  0.49174  1.0000
+  Te  Te8       1.0  0.17194  0.17194  0.50826  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ca2Tm4S8
+_chemical_formula_sum              "Ca2 Tm4 S8"
+_cell_length_a       6.66068
+_cell_length_b       6.66068
+_cell_length_c       13.1854
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.88615  0.11385  0.01526  1.0000
+  Ca  Ca2       1.0  0.11385  0.88615  0.51526  1.0000
+  Tm  Tm1       1.0  0.35778  0.64222  0.32451  1.0000
+  Tm  Tm2       1.0  0.64222  0.35778  0.82451  1.0000
+  Tm  Tm3       1.0  0.62593  0.37407  0.18118  1.0000
+  Tm  Tm4       1.0  0.37407  0.62593  0.68118  1.0000
+  S   S1        1.0  0.54095  0.45905  0.99860  1.0000
+  S   S2        1.0  0.45905  0.54095  0.49860  1.0000
+  S   S3        1.0  0.73641  0.26359  0.63754  1.0000
+  S   S4        1.0  0.26359  0.73641  0.13754  1.0000
+  S   S5        1.0  0.72007  0.27993  0.37029  1.0000
+  S   S6        1.0  0.27993  0.72007  0.87029  1.0000
+  S   S7        1.0  0.98604  0.01396  0.23992  1.0000
+  S   S8        1.0  0.01396  0.98604  0.73992  1.0000

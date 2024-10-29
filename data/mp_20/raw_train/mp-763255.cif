@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Li2Co2Si2O8
+_chemical_formula_sum              "Li2 Co2 Si2 O8"
+_cell_length_a       5.21504
+_cell_length_b       5.08816
+_cell_length_c       8.35243
+_cell_angle_alpha    52.9823
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.32809  0.74158  0.75875  1.0000
+  Li  Li2       1.0  0.67191  0.74158  0.25876  1.0000
+  Co  Co1       1.0  0.67907  0.24310  0.76160  1.0000
+  Co  Co2       1.0  0.32094  0.24309  0.26160  1.0000
+  Si  Si1       1.0  0.81197  0.99658  0.50840  1.0000
+  Si  Si2       1.0  0.18803  0.99658  0.00840  1.0000
+  O   O1        1.0  0.87823  0.96227  0.99212  1.0000
+  O   O2        1.0  0.34300  0.07568  0.81219  1.0000
+  O   O3        1.0  0.68972  0.65665  0.70792  1.0000
+  O   O4        1.0  0.75128  0.29992  0.52339  1.0000
+  O   O5        1.0  0.12177  0.96227  0.49212  1.0000
+  O   O6        1.0  0.65700  0.07568  0.31218  1.0000
+  O   O7        1.0  0.31028  0.65665  0.20792  1.0000
+  O   O8        1.0  0.24872  0.29992  0.02339  1.0000

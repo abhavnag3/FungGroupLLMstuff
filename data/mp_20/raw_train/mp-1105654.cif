@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ti6Si6Os6
+_chemical_formula_sum              "Ti6 Si6 Os6"
+_cell_length_a       7.40241
+_cell_length_b       7.40241
+_cell_length_c       7.40241
+_cell_angle_alpha    127.863
+_cell_angle_beta     122.605
+_cell_angle_gamma    81.2215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.44747  0.40400  0.45653  1.0000
+  Ti  Ti2       1.0  0.55253  0.00905  0.95653  1.0000
+  Ti  Ti3       1.0  0.02746  0.00556  0.47809  1.0000
+  Ti  Ti4       1.0  0.97254  0.45063  0.97809  1.0000
+  Ti  Ti5       1.0  0.24676  0.58061  0.83385  1.0000
+  Ti  Ti6       1.0  0.75324  0.58708  0.33385  1.0000
+  Si  Si1       1.0  0.21783  0.96077  0.24294  1.0000
+  Si  Si2       1.0  0.78217  0.02511  0.74294  1.0000
+  Si  Si3       1.0  0.17307  0.67192  0.51034  1.0000
+  Si  Si4       1.0  0.82693  0.33727  0.49885  1.0000
+  Si  Si5       1.0  0.66157  0.67192  0.99885  1.0000
+  Si  Si6       1.0  0.33843  0.33727  0.01034  1.0000
+  Os  Os1       1.0  0.00000  0.25508  0.25508  1.0000
+  Os  Os2       1.0  0.50000  0.25508  0.75508  1.0000
+  Os  Os3       1.0  0.40898  0.74989  0.41242  1.0000
+  Os  Os4       1.0  0.59102  0.00343  0.34090  1.0000
+  Os  Os5       1.0  0.83747  0.74989  0.84090  1.0000
+  Os  Os6       1.0  0.16253  0.00343  0.91242  1.0000

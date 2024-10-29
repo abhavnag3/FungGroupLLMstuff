@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ca6As6Pt6
+_chemical_formula_sum              "Ca6 As6 Pt6"
+_cell_length_a       22.3788
+_cell_length_b       22.3788
+_cell_length_c       22.3788
+_cell_angle_alpha    169.158
+_cell_angle_beta     169.158
+_cell_angle_gamma    15.3563
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.50044  0.00044  0.50000  1.0000
+  Ca  Ca2       1.0  0.75044  0.75044  0.00000  1.0000
+  Ca  Ca3       1.0  0.33416  0.83416  0.50000  1.0000
+  Ca  Ca4       1.0  0.58416  0.58416  0.00000  1.0000
+  Ca  Ca5       1.0  0.66695  0.16695  0.50000  1.0000
+  Ca  Ca6       1.0  0.91695  0.91695  0.00000  1.0000
+  As  As1       1.0  0.80633  0.30633  0.50000  1.0000
+  As  As2       1.0  0.22286  0.22286  0.00000  1.0000
+  As  As3       1.0  0.97286  0.47286  0.50000  1.0000
+  As  As4       1.0  0.05633  0.05633  0.00000  1.0000
+  As  As5       1.0  0.39001  0.39001  0.00000  1.0000
+  As  As6       1.0  0.14001  0.64001  0.50000  1.0000
+  Pt  Pt1       1.0  0.11180  0.11180  0.00000  1.0000
+  Pt  Pt2       1.0  0.86179  0.36179  0.50000  1.0000
+  Pt  Pt3       1.0  0.02796  0.52795  0.50000  1.0000
+  Pt  Pt4       1.0  0.44550  0.44549  0.00000  1.0000
+  Pt  Pt5       1.0  0.19550  0.69549  0.50000  1.0000
+  Pt  Pt6       1.0  0.27796  0.27796  0.00000  1.0000

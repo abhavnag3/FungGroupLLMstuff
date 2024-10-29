@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tl2Au2Cl8
+_chemical_formula_sum              "Tl2 Au2 Cl8"
+_cell_length_a       6.92908
+_cell_length_b       6.92908
+_cell_length_c       10.2205
+_cell_angle_alpha    79.7669
+_cell_angle_beta     79.7669
+_cell_angle_gamma    50.7555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.22703  0.77297  0.75000  1.0000
+  Tl  Tl2       1.0  0.77297  0.22703  0.25000  1.0000
+  Au  Au1       1.0  0.50000  0.00000  0.00000  1.0000
+  Au  Au2       1.0  0.00000  0.50000  0.50000  1.0000
+  Cl  Cl1       1.0  0.19419  0.27221  0.85190  1.0000
+  Cl  Cl2       1.0  0.72779  0.80581  0.64810  1.0000
+  Cl  Cl3       1.0  0.80581  0.72779  0.14810  1.0000
+  Cl  Cl4       1.0  0.27221  0.19419  0.35190  1.0000
+  Cl  Cl5       1.0  0.19737  0.67837  0.43209  1.0000
+  Cl  Cl6       1.0  0.32163  0.80263  0.06791  1.0000
+  Cl  Cl7       1.0  0.80262  0.32163  0.56791  1.0000
+  Cl  Cl8       1.0  0.67837  0.19737  0.93209  1.0000

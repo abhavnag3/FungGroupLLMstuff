@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Ce4U2Se8
+_chemical_formula_sum              "Ce4 U2 Se8"
+_cell_length_a       7.67267
+_cell_length_b       7.67267
+_cell_length_c       7.67267
+_cell_angle_alpha    109.346
+_cell_angle_beta     109.346
+_cell_angle_gamma    109.721
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.62500  0.00100  0.87600  1.0000
+  Ce  Ce2       1.0  0.99900  0.87500  0.62400  1.0000
+  Ce  Ce3       1.0  0.12500  0.74900  0.12400  1.0000
+  Ce  Ce4       1.0  0.25100  0.37500  0.37600  1.0000
+  U   U1        1.0  0.50000  0.50000  0.00000  1.0000
+  U   U2        1.0  0.75000  0.25000  0.50000  1.0000
+  Se  Se1       1.0  0.52850  0.77851  0.39900  1.0000
+  Se  Se2       1.0  0.87049  0.97149  0.24999  1.0000
+  Se  Se3       1.0  0.72150  0.62051  0.75001  1.0000
+  Se  Se4       1.0  0.02851  0.27850  0.89900  1.0000
+  Se  Se5       1.0  0.87051  0.47150  0.25001  1.0000
+  Se  Se6       1.0  0.37949  0.12951  0.10100  1.0000
+  Se  Se7       1.0  0.22149  0.62049  0.74999  1.0000
+  Se  Se8       1.0  0.37951  0.12949  0.60100  1.0000

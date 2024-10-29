@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Zr6CI12
+_chemical_formula_sum              "Zr6 C1 I12"
+_cell_length_a       9.34505
+_cell_length_b       9.34505
+_cell_length_c       9.34505
+_cell_angle_alpha    106.772
+_cell_angle_beta     106.772
+_cell_angle_gamma    106.772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.91529  0.97541  0.73751  1.0000
+  Zr  Zr2       1.0  0.73751  0.91528  0.97541  1.0000
+  Zr  Zr3       1.0  0.97541  0.73751  0.91529  1.0000
+  Zr  Zr4       1.0  0.08471  0.02459  0.26249  1.0000
+  Zr  Zr5       1.0  0.26249  0.08471  0.02459  1.0000
+  Zr  Zr6       1.0  0.02459  0.26249  0.08471  1.0000
+  C   C1        1.0  0.00000  0.00000  0.00000  1.0000
+  I   I1        1.0  0.43550  0.13936  0.36200  1.0000
+  I   I2        1.0  0.13936  0.36200  0.43550  1.0000
+  I   I3        1.0  0.63800  0.56451  0.86064  1.0000
+  I   I4        1.0  0.56451  0.86064  0.63800  1.0000
+  I   I5        1.0  0.86064  0.63800  0.56451  1.0000
+  I   I6        1.0  0.36200  0.43550  0.13936  1.0000
+  I   I7        1.0  0.77638  0.92199  0.30379  1.0000
+  I   I8        1.0  0.30379  0.77638  0.92199  1.0000
+  I   I9        1.0  0.92199  0.30379  0.77638  1.0000
+  I   I10       1.0  0.22363  0.07802  0.69621  1.0000
+  I   I11       1.0  0.69621  0.22362  0.07802  1.0000
+  I   I12       1.0  0.07802  0.69621  0.22362  1.0000

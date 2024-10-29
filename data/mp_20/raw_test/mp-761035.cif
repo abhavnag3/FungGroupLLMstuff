@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag2Ru2O8
+_chemical_formula_sum              "Ag2 Ru2 O8"
+_cell_length_a       7.03978
+_cell_length_b       7.03978
+_cell_length_c       7.03978
+_cell_angle_alpha    135.94
+_cell_angle_beta     135.94
+_cell_angle_gamma    64.0736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.50000  0.50000  0.00000  1.0000
+  Ag  Ag2       1.0  0.25000  0.75000  0.50000  1.0000
+  Ru  Ru1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ru  Ru2       1.0  0.75000  0.25000  0.50000  1.0000
+  O   O1        1.0  0.68066  0.06812  0.91015  1.0000
+  O   O2        1.0  0.59203  0.47948  0.41015  1.0000
+  O   O3        1.0  0.52052  0.93066  0.11254  1.0000
+  O   O4        1.0  0.93188  0.84203  0.61254  1.0000
+  O   O5        1.0  0.22948  0.31934  0.38746  1.0000
+  O   O6        1.0  0.81812  0.40797  0.88746  1.0000
+  O   O7        1.0  0.06934  0.18188  0.58985  1.0000
+  O   O8        1.0  0.15797  0.77052  0.08985  1.0000

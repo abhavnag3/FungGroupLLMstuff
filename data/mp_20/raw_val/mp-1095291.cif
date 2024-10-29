@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Li4Sn2Se6
+_chemical_formula_sum              "Li4 Sn2 Se6"
+_cell_length_a       7.35719
+_cell_length_b       7.35719
+_cell_length_c       7.96406
+_cell_angle_alpha    63.3599
+_cell_angle_beta     63.3599
+_cell_angle_gamma    59.8006
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.37602  0.50559  0.65608  1.0000
+  Li  Li2       1.0  0.50559  0.37602  0.15608  1.0000
+  Li  Li3       1.0  0.03099  0.21227  0.61445  1.0000
+  Li  Li4       1.0  0.21227  0.03099  0.11445  1.0000
+  Sn  Sn1       1.0  0.67575  0.84009  0.65597  1.0000
+  Sn  Sn2       1.0  0.84009  0.67575  0.15597  1.0000
+  Se  Se1       1.0  0.97481  0.82210  0.76766  1.0000
+  Se  Se2       1.0  0.82210  0.97481  0.26766  1.0000
+  Se  Se3       1.0  0.66573  0.46415  0.77891  1.0000
+  Se  Se4       1.0  0.46415  0.66573  0.27891  1.0000
+  Se  Se5       1.0  0.32002  0.15102  0.74512  1.0000
+  Se  Se6       1.0  0.15102  0.32002  0.24512  1.0000

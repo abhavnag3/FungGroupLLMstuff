@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ba2Mg2H8
+_chemical_formula_sum              "Ba2 Mg2 H8"
+_cell_length_a       7.20063
+_cell_length_b       7.20063
+_cell_length_c       5.70762
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    146.087
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.63743  0.36257  0.75000  1.0000
+  Ba  Ba2       1.0  0.36257  0.63743  0.25000  1.0000
+  Mg  Mg1       1.0  0.90502  0.09498  0.75000  1.0000
+  Mg  Mg2       1.0  0.09497  0.90502  0.25000  1.0000
+  H   H1        1.0  0.81111  0.18889  0.99038  1.0000
+  H   H2        1.0  0.18889  0.81111  0.00962  1.0000
+  H   H3        1.0  0.81111  0.18889  0.50962  1.0000
+  H   H4        1.0  0.18889  0.81111  0.49038  1.0000
+  H   H5        1.0  0.41896  0.58104  0.75000  1.0000
+  H   H6        1.0  0.58104  0.41896  0.25000  1.0000
+  H   H7        1.0  0.00000  0.00000  0.00000  1.0000
+  H   H8        1.0  0.00000  0.00000  0.50000  1.0000

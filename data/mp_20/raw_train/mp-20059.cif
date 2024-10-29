@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zr4Mn4Ge4
+_chemical_formula_sum              "Zr4 Mn4 Ge4"
+_cell_length_a       3.79979
+_cell_length_b       6.74314
+_cell_length_c       7.8399
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.25000  0.53307  0.67897  1.0000
+  Zr  Zr2       1.0  0.25000  0.03307  0.82103  1.0000
+  Zr  Zr3       1.0  0.75000  0.96693  0.17897  1.0000
+  Zr  Zr4       1.0  0.75000  0.46693  0.32103  1.0000
+  Mn  Mn1       1.0  0.75000  0.86628  0.56178  1.0000
+  Mn  Mn2       1.0  0.25000  0.13373  0.43822  1.0000
+  Mn  Mn3       1.0  0.75000  0.36627  0.93822  1.0000
+  Mn  Mn4       1.0  0.25000  0.63372  0.06178  1.0000
+  Ge  Ge1       1.0  0.75000  0.73799  0.87582  1.0000
+  Ge  Ge2       1.0  0.25000  0.76201  0.37582  1.0000
+  Ge  Ge3       1.0  0.25000  0.26201  0.12418  1.0000
+  Ge  Ge4       1.0  0.75000  0.23799  0.62418  1.0000

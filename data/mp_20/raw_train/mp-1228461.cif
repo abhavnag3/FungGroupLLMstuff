@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       Ba3TiMoO8
+_chemical_formula_sum              "Ba3 Ti1 Mo1 O8"
+_cell_length_a       6.04879
+_cell_length_b       6.04879
+_cell_length_c       8.00745
+_cell_angle_alpha    90
+_cell_angle_beta     112.191
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.97762  0.01119  0.96643  1.0000
+  Ba  Ba2       1.0  0.60335  0.19833  0.40503  1.0000
+  Ba  Ba3       1.0  0.41208  0.79396  0.61812  1.0000
+  Ti  Ti1       1.0  0.18832  0.40584  0.78248  1.0000
+  Mo  Mo1       1.0  0.81685  0.59157  0.22528  1.0000
+  O   O1        1.0  0.45697  0.27152  0.69211  1.0000
+  O   O2        1.0  0.96363  0.27152  0.69211  1.0000
+  O   O3        1.0  0.96363  0.76486  0.69211  1.0000
+  O   O4        1.0  0.54341  0.72830  0.30448  1.0000
+  O   O5        1.0  0.03278  0.72830  0.30448  1.0000
+  O   O6        1.0  0.03278  0.23893  0.30448  1.0000
+  O   O7        1.0  0.35656  0.32172  0.03484  1.0000
+  O   O8        1.0  0.65204  0.67398  0.97806  1.0000

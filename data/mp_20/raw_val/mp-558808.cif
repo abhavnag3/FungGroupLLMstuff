@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li2Al2Si4O12
+_chemical_formula_sum              "Li2 Al2 Si4 O12"
+_cell_length_a       5.0386
+_cell_length_b       7.70105
+_cell_length_c       8.70549
+_cell_angle_alpha    114.101
+_cell_angle_beta     90.0685
+_cell_angle_gamma    90.146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.36144  0.89222  0.70982  1.0000
+  Li  Li2       1.0  0.86467  0.07067  0.28039  1.0000
+  Al  Al1       1.0  0.35491  0.08930  0.10383  1.0000
+  Al  Al2       1.0  0.87147  0.06489  0.62226  1.0000
+  Si  Si1       1.0  0.31239  0.50839  0.11540  1.0000
+  Si  Si2       1.0  0.37173  0.92841  0.38348  1.0000
+  Si  Si3       1.0  0.81568  0.49442  0.89794  1.0000
+  Si  Si4       1.0  0.85443  0.89870  0.89412  1.0000
+  O   O1        1.0  0.01789  0.55017  0.05862  1.0000
+  O   O2        1.0  0.30714  0.32995  0.16661  1.0000
+  O   O3        1.0  0.18892  0.96464  0.54953  1.0000
+  O   O4        1.0  0.90331  0.30556  0.74070  1.0000
+  O   O5        1.0  0.66885  0.01970  0.44290  1.0000
+  O   O6        1.0  0.40472  0.69941  0.27834  1.0000
+  O   O7        1.0  0.17186  0.95364  0.91711  1.0000
+  O   O8        1.0  0.73203  0.94503  0.74003  1.0000
+  O   O9        1.0  0.51699  0.47128  0.95974  1.0000
+  O   O10       1.0  0.81061  0.67206  0.83952  1.0000
+  O   O11       1.0  0.69483  0.02199  0.07022  1.0000
+  O   O12       1.0  0.23575  0.02767  0.26764  1.0000

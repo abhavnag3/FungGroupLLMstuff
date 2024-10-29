@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ce2Ti4O12
+_chemical_formula_sum              "Ce2 Ti4 O12"
+_cell_length_a       5.18473
+_cell_length_b       6.88804
+_cell_length_c       6.88804
+_cell_angle_alpha    78.0278
+_cell_angle_beta     70.9514
+_cell_angle_gamma    70.9514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.25000  0.80818  0.19182  1.0000
+  Ce  Ce2       1.0  0.75000  0.19182  0.80818  1.0000
+  Ti  Ti1       1.0  0.94570  0.35158  0.19017  1.0000
+  Ti  Ti2       1.0  0.55430  0.80983  0.64842  1.0000
+  Ti  Ti3       1.0  0.05430  0.64842  0.80983  1.0000
+  Ti  Ti4       1.0  0.44570  0.19017  0.35158  1.0000
+  O   O1        1.0  0.45608  0.88577  0.39364  1.0000
+  O   O2        1.0  0.04392  0.60636  0.11423  1.0000
+  O   O3        1.0  0.54392  0.11423  0.60636  1.0000
+  O   O4        1.0  0.95608  0.39364  0.88577  1.0000
+  O   O5        1.0  0.04031  0.27850  0.45109  1.0000
+  O   O6        1.0  0.45969  0.54891  0.72150  1.0000
+  O   O7        1.0  0.95969  0.72150  0.54891  1.0000
+  O   O8        1.0  0.54031  0.45109  0.27850  1.0000
+  O   O9        1.0  0.86637  0.08792  0.18796  1.0000
+  O   O10       1.0  0.63363  0.81204  0.91208  1.0000
+  O   O11       1.0  0.13363  0.91208  0.81204  1.0000
+  O   O12       1.0  0.36637  0.18796  0.08792  1.0000

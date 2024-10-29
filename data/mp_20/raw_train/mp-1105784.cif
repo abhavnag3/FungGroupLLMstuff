@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy4Si4Pd8
+_chemical_formula_sum              "Dy4 Si4 Pd8"
+_cell_length_a       5.5444
+_cell_length_b       6.96499
+_cell_length_c       7.35395
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.35585  0.75000  0.02991  1.0000
+  Dy  Dy2       1.0  0.14415  0.75000  0.52991  1.0000
+  Dy  Dy3       1.0  0.64415  0.25000  0.97009  1.0000
+  Dy  Dy4       1.0  0.85585  0.25000  0.47009  1.0000
+  Si  Si1       1.0  0.64511  0.75000  0.37851  1.0000
+  Si  Si2       1.0  0.85489  0.75000  0.87851  1.0000
+  Si  Si3       1.0  0.35489  0.25000  0.62149  1.0000
+  Si  Si4       1.0  0.14511  0.25000  0.12149  1.0000
+  Pd  Pd1       1.0  0.90626  0.55111  0.17805  1.0000
+  Pd  Pd2       1.0  0.59374  0.94889  0.67805  1.0000
+  Pd  Pd3       1.0  0.09374  0.05111  0.82195  1.0000
+  Pd  Pd4       1.0  0.40626  0.44889  0.32195  1.0000
+  Pd  Pd5       1.0  0.09374  0.44889  0.82195  1.0000
+  Pd  Pd6       1.0  0.40626  0.05111  0.32195  1.0000
+  Pd  Pd7       1.0  0.90626  0.94889  0.17805  1.0000
+  Pd  Pd8       1.0  0.59374  0.55111  0.67805  1.0000

@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr6Rh2N6
+_chemical_formula_sum              "Sr6 Rh2 N6"
+_cell_length_a       7.72757
+_cell_length_b       7.72796
+_cell_length_c       5.35454
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    119.985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.90743  0.63629  0.25000  1.0000
+  Sr  Sr2       1.0  0.72881  0.09263  0.25000  1.0000
+  Sr  Sr3       1.0  0.36386  0.27107  0.25000  1.0000
+  Sr  Sr4       1.0  0.09257  0.36371  0.75000  1.0000
+  Sr  Sr5       1.0  0.27119  0.90736  0.75000  1.0000
+  Sr  Sr6       1.0  0.63614  0.72893  0.75000  1.0000
+  Rh  Rh1       1.0  0.66655  0.33327  0.75000  1.0000
+  Rh  Rh2       1.0  0.33345  0.66673  0.25000  1.0000
+  N   N1        1.0  0.89473  0.59742  0.75000  1.0000
+  N   N2        1.0  0.70271  0.10522  0.75000  1.0000
+  N   N3        1.0  0.40251  0.29727  0.75000  1.0000
+  N   N4        1.0  0.10527  0.40259  0.25000  1.0000
+  N   N5        1.0  0.29729  0.89478  0.25000  1.0000
+  N   N6        1.0  0.59749  0.70273  0.25000  1.0000

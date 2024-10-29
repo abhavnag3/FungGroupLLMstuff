@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sr6Tl10
+_chemical_formula_sum              "Sr6 Tl10"
+_cell_length_a       6.88908
+_cell_length_b       6.88908
+_cell_length_c       11.5855
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    102.84
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.60859  0.60859  0.75000  1.0000
+  Sr  Sr2       1.0  0.39141  0.39141  0.25000  1.0000
+  Sr  Sr3       1.0  0.79322  0.20678  0.00000  1.0000
+  Sr  Sr4       1.0  0.79322  0.20678  0.50000  1.0000
+  Sr  Sr5       1.0  0.20678  0.79322  0.00000  1.0000
+  Sr  Sr6       1.0  0.20678  0.79322  0.50000  1.0000
+  Tl  Tl1       1.0  0.01368  0.01368  0.25000  1.0000
+  Tl  Tl2       1.0  0.98632  0.98632  0.75000  1.0000
+  Tl  Tl3       1.0  0.91747  0.52129  0.25000  1.0000
+  Tl  Tl4       1.0  0.47871  0.08253  0.75000  1.0000
+  Tl  Tl5       1.0  0.08253  0.47871  0.75000  1.0000
+  Tl  Tl6       1.0  0.52129  0.91747  0.25000  1.0000
+  Tl  Tl7       1.0  0.69301  0.69301  0.04208  1.0000
+  Tl  Tl8       1.0  0.30699  0.30699  0.95792  1.0000
+  Tl  Tl9       1.0  0.69301  0.69301  0.45792  1.0000
+  Tl  Tl10      1.0  0.30699  0.30699  0.54208  1.0000

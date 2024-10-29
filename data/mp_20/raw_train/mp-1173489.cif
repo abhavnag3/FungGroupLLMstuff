@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Nb2ZnPb3O9
+_chemical_formula_sum              "Nb2 Zn1 Pb3 O9"
+_cell_length_a       4.19145
+_cell_length_b       12.5243
+_cell_length_c       5.81841
+_cell_angle_alpha    44.6609
+_cell_angle_beta     89.1557
+_cell_angle_gamma    89.2281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.45670  0.64996  0.51470  1.0000
+  Nb  Nb2       1.0  0.45539  0.33629  0.49318  1.0000
+  Zn  Zn1       1.0  0.46634  0.98860  0.48004  1.0000
+  Pb  Pb1       1.0  0.88453  0.98542  0.96379  1.0000
+  Pb  Pb2       1.0  0.94271  0.26953  0.08288  1.0000
+  Pb  Pb3       1.0  0.93102  0.70876  0.91178  1.0000
+  O   O1        1.0  0.98873  0.99683  0.52611  1.0000
+  O   O2        1.0  0.00996  0.33853  0.49641  1.0000
+  O   O3        1.0  0.01037  0.66024  0.50660  1.0000
+  O   O4        1.0  0.51671  0.18408  0.97900  1.0000
+  O   O5        1.0  0.53134  0.81994  0.02623  1.0000
+  O   O6        1.0  0.52188  0.49972  0.00306  1.0000
+  O   O7        1.0  0.52928  0.17655  0.50643  1.0000
+  O   O8        1.0  0.51911  0.50113  0.49558  1.0000
+  O   O9        1.0  0.52455  0.81395  0.51421  1.0000

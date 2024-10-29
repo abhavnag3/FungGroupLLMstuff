@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cu4Si2Te6
+_chemical_formula_sum              "Cu4 Si2 Te6"
+_cell_length_a       7.31123
+_cell_length_b       7.31123
+_cell_length_c       7.30721
+_cell_angle_alpha    80.5734
+_cell_angle_beta     80.5734
+_cell_angle_gamma    120.137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.16618  0.99134  0.00390  1.0000
+  Cu  Cu2       1.0  0.84301  0.33772  0.00094  1.0000
+  Cu  Cu3       1.0  0.99134  0.16618  0.50390  1.0000
+  Cu  Cu4       1.0  0.33772  0.84301  0.50094  1.0000
+  Si  Si1       1.0  0.51480  0.68076  0.98740  1.0000
+  Si  Si2       1.0  0.68076  0.51480  0.48740  1.0000
+  Te  Te1       1.0  0.54411  0.36996  0.87443  1.0000
+  Te  Te2       1.0  0.88531  0.04827  0.87710  1.0000
+  Te  Te3       1.0  0.04827  0.88531  0.37710  1.0000
+  Te  Te4       1.0  0.21670  0.70788  0.87267  1.0000
+  Te  Te5       1.0  0.36996  0.54411  0.37443  1.0000
+  Te  Te6       1.0  0.70788  0.21670  0.37267  1.0000

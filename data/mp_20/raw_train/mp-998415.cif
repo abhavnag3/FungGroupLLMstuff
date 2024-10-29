@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       CsSeBr3
+_chemical_formula_sum              "Cs1 Se1 Br3"
+_cell_length_a       5.57502
+_cell_length_b       5.55964
+_cell_length_c       5.56046
+_cell_angle_alpha    89.9114
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.50000  0.99915  0.99515  1.0000
+  Se  Se1       1.0  0.00000  0.50309  0.48584  1.0000
+  Br  Br1       1.0  0.50000  0.50489  0.48629  1.0000
+  Br  Br2       1.0  0.00000  0.49968  0.98560  1.0000
+  Br  Br3       1.0  0.00000  0.00318  0.48712  1.0000

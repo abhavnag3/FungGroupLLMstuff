@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Sr2Ni10P6
+_chemical_formula_sum              "Sr2 Ni10 P6"
+_cell_length_a       6.14519
+_cell_length_b       6.14519
+_cell_length_c       11.6124
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    145.852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.16175  0.83825  0.25000  1.0000
+  Sr  Sr2       1.0  0.83825  0.16175  0.75000  1.0000
+  Ni  Ni1       1.0  0.44972  0.55028  0.35493  1.0000
+  Ni  Ni2       1.0  0.44972  0.55028  0.14507  1.0000
+  Ni  Ni3       1.0  0.80208  0.19792  0.06811  1.0000
+  Ni  Ni4       1.0  0.19792  0.80208  0.93189  1.0000
+  Ni  Ni5       1.0  0.19792  0.80208  0.56811  1.0000
+  Ni  Ni6       1.0  0.80208  0.19792  0.43189  1.0000
+  Ni  Ni7       1.0  0.00000  0.00000  0.50000  1.0000
+  Ni  Ni8       1.0  0.00000  0.00000  0.00000  1.0000
+  Ni  Ni9       1.0  0.55028  0.44972  0.85493  1.0000
+  Ni  Ni10      1.0  0.55028  0.44972  0.64507  1.0000
+  P   P1        1.0  0.88457  0.11543  0.25000  1.0000
+  P   P2        1.0  0.11543  0.88457  0.75000  1.0000
+  P   P3        1.0  0.38144  0.61856  0.96285  1.0000
+  P   P4        1.0  0.61856  0.38144  0.03714  1.0000
+  P   P5        1.0  0.61856  0.38144  0.46286  1.0000
+  P   P6        1.0  0.38144  0.61856  0.53714  1.0000

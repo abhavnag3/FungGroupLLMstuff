@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       B2H12N2
+_chemical_formula_sum              "B2 H12 N2"
+_cell_length_a       5.50333
+_cell_length_b       4.51179
+_cell_length_c       4.70141
+_cell_angle_alpha    87.858
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.12200  0.84407  0.83997  1.0000
+  B   B2        1.0  0.62200  0.15593  0.16003  1.0000
+  H   H1        1.0  0.36544  0.76581  0.47204  1.0000
+  H   H2        1.0  0.86544  0.23419  0.52796  1.0000
+  H   H3        1.0  0.35549  0.47774  0.70113  1.0000
+  H   H4        1.0  0.85549  0.52226  0.29887  1.0000
+  H   H5        1.0  0.51194  0.77414  0.77591  1.0000
+  H   H6        1.0  0.01194  0.22586  0.22409  1.0000
+  H   H7        1.0  0.13449  0.77573  0.09238  1.0000
+  H   H8        1.0  0.63449  0.22427  0.90762  1.0000
+  H   H9        1.0  0.13005  0.11250  0.80891  1.0000
+  H   H10       1.0  0.63005  0.88750  0.19109  1.0000
+  H   H11       1.0  0.93661  0.74562  0.73727  1.0000
+  H   H12       1.0  0.43661  0.25438  0.26273  1.0000
+  N   N1        1.0  0.35232  0.70635  0.68553  1.0000
+  N   N2        1.0  0.85232  0.29365  0.31447  1.0000

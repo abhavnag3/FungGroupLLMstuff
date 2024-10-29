@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tb4B8Ru4
+_chemical_formula_sum              "Tb4 B8 Ru4"
+_cell_length_a       5.35174
+_cell_length_b       5.93962
+_cell_length_c       6.3703
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.25000  0.00948  0.33803  1.0000
+  Tb  Tb2       1.0  0.25000  0.50948  0.16197  1.0000
+  Tb  Tb3       1.0  0.75000  0.99052  0.66197  1.0000
+  Tb  Tb4       1.0  0.75000  0.49052  0.83803  1.0000
+  B   B1        1.0  0.08471  0.37021  0.53899  1.0000
+  B   B2        1.0  0.41529  0.87021  0.96101  1.0000
+  B   B3        1.0  0.58471  0.62979  0.46101  1.0000
+  B   B4        1.0  0.91529  0.12979  0.03899  1.0000
+  B   B5        1.0  0.91529  0.62979  0.46101  1.0000
+  B   B6        1.0  0.58471  0.12979  0.03899  1.0000
+  B   B7        1.0  0.41529  0.37021  0.53899  1.0000
+  B   B8        1.0  0.08471  0.87021  0.96101  1.0000
+  Ru  Ru1       1.0  0.25000  0.18119  0.81899  1.0000
+  Ru  Ru2       1.0  0.25000  0.68119  0.68101  1.0000
+  Ru  Ru3       1.0  0.75000  0.81881  0.18101  1.0000
+  Ru  Ru4       1.0  0.75000  0.31881  0.31899  1.0000

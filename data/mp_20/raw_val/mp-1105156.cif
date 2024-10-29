@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Eu4Si10Pt6
+_chemical_formula_sum              "Eu4 Si10 Pt6"
+_cell_length_a       8.36856
+_cell_length_b       8.36856
+_cell_length_c       8.36856
+_cell_angle_alpha    137.337
+_cell_angle_beta     105.071
+_cell_angle_gamma    90.2656
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.10401  0.87065  0.23336  1.0000
+  Eu  Eu2       1.0  0.89599  0.12935  0.76664  1.0000
+  Eu  Eu3       1.0  0.63728  0.37065  0.26664  1.0000
+  Eu  Eu4       1.0  0.36272  0.62935  0.73336  1.0000
+  Si  Si1       1.0  0.00000  0.75000  0.75000  1.0000
+  Si  Si2       1.0  0.00000  0.25000  0.25000  1.0000
+  Si  Si3       1.0  0.27014  0.02014  0.75000  1.0000
+  Si  Si4       1.0  0.72986  0.47986  0.75000  1.0000
+  Si  Si5       1.0  0.72986  0.97986  0.25000  1.0000
+  Si  Si6       1.0  0.27014  0.52014  0.25000  1.0000
+  Si  Si7       1.0  0.76075  0.61167  0.14908  1.0000
+  Si  Si8       1.0  0.23925  0.38833  0.85092  1.0000
+  Si  Si9       1.0  0.46259  0.11167  0.35092  1.0000
+  Si  Si10      1.0  0.53741  0.88833  0.64908  1.0000
+  Pt  Pt1       1.0  0.50000  0.75000  0.25000  1.0000
+  Pt  Pt2       1.0  0.50000  0.25000  0.75000  1.0000
+  Pt  Pt3       1.0  0.02332  0.63566  0.38766  1.0000
+  Pt  Pt4       1.0  0.97668  0.36434  0.61234  1.0000
+  Pt  Pt5       1.0  0.24799  0.13566  0.11234  1.0000
+  Pt  Pt6       1.0  0.75201  0.86434  0.88766  1.0000

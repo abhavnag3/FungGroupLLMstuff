@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       K2Na2Zn2O4
+_chemical_formula_sum              "K2 Na2 Zn2 O4"
+_cell_length_a       6.05322
+_cell_length_b       6.05322
+_cell_length_c       5.6199
+_cell_angle_alpha    69.5464
+_cell_angle_beta     69.5464
+_cell_angle_gamma    108.046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.12381  0.87619  0.75000  1.0000
+  K   K2        1.0  0.87619  0.12381  0.25000  1.0000
+  Na  Na1       1.0  0.22944  0.77056  0.25000  1.0000
+  Na  Na2       1.0  0.77056  0.22944  0.75000  1.0000
+  Zn  Zn1       1.0  0.48968  0.51032  0.75000  1.0000
+  Zn  Zn2       1.0  0.51032  0.48968  0.25000  1.0000
+  O   O1        1.0  0.57356  0.78795  0.86724  1.0000
+  O   O2        1.0  0.21205  0.42644  0.63276  1.0000
+  O   O3        1.0  0.78796  0.57356  0.36724  1.0000
+  O   O4        1.0  0.42644  0.21205  0.13276  1.0000

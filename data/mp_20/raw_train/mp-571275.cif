@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cs4U2Hg4Se10
+_chemical_formula_sum              "Cs4 U2 Hg4 Se10"
+_cell_length_a       4.37681
+_cell_length_b       10.4506
+_cell_length_c       16.9205
+_cell_angle_alpha    65.4337
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.68647  0.76938  0.94583  1.0000
+  Cs  Cs2       1.0  0.68647  0.23062  0.55417  1.0000
+  Cs  Cs3       1.0  0.31353  0.76938  0.44583  1.0000
+  Cs  Cs4       1.0  0.31353  0.23062  0.05417  1.0000
+  U   U1        1.0  0.79456  0.50000  0.75000  1.0000
+  U   U2        1.0  0.20544  0.50000  0.25000  1.0000
+  Hg  Hg1       1.0  0.37260  0.82986  0.70279  1.0000
+  Hg  Hg2       1.0  0.37260  0.17014  0.79721  1.0000
+  Hg  Hg3       1.0  0.62740  0.82986  0.20279  1.0000
+  Hg  Hg4       1.0  0.62740  0.17014  0.29721  1.0000
+  Se  Se1       1.0  0.81920  0.21786  0.88230  1.0000
+  Se  Se2       1.0  0.70438  0.55377  0.34342  1.0000
+  Se  Se3       1.0  0.29562  0.44623  0.65658  1.0000
+  Se  Se4       1.0  0.18080  0.78214  0.11770  1.0000
+  Se  Se5       1.0  0.18080  0.21786  0.38230  1.0000
+  Se  Se6       1.0  0.70438  0.44623  0.15658  1.0000
+  Se  Se7       1.0  0.08003  0.00000  0.75000  1.0000
+  Se  Se8       1.0  0.29562  0.55377  0.84342  1.0000
+  Se  Se9       1.0  0.81920  0.78214  0.61770  1.0000
+  Se  Se10      1.0  0.91997  0.00000  0.25000  1.0000

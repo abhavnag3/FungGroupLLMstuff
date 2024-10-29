@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Y2Cu6S6
+_chemical_formula_sum              "Y2 Cu6 S6"
+_cell_length_a       6.67275
+_cell_length_b       6.6726
+_cell_length_c       7.43976
+_cell_angle_alpha    63.3495
+_cell_angle_beta     89.9964
+_cell_angle_gamma    59.9998
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00018  0.99964  0.00052  1.0000
+  Y   Y2        1.0  0.33316  0.33369  0.99948  1.0000
+  Cu  Cu1       1.0  0.45199  0.41986  0.37047  1.0000
+  Cu  Cu2       1.0  0.79021  0.75781  0.37039  1.0000
+  Cu  Cu3       1.0  0.12812  0.08171  0.37038  1.0000
+  Cu  Cu4       1.0  0.20521  0.25163  0.62962  1.0000
+  Cu  Cu5       1.0  0.54312  0.57553  0.62961  1.0000
+  Cu  Cu6       1.0  0.88134  0.91348  0.62953  1.0000
+  S   S1        1.0  0.24914  0.83565  0.74784  1.0000
+  S   S2        1.0  0.91515  0.50126  0.74784  1.0000
+  S   S3        1.0  0.58357  0.16724  0.74789  1.0000
+  S   S4        1.0  0.74976  0.16609  0.25211  1.0000
+  S   S5        1.0  0.41818  0.83207  0.25216  1.0000
+  S   S6        1.0  0.08419  0.49768  0.25216  1.0000

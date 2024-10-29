@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Li4Ce4Si8
+_chemical_formula_sum              "Li4 Ce4 Si8"
+_cell_length_a       3.87028
+_cell_length_b       7.66709
+_cell_length_c       10.4803
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.25000  0.99451  0.39029  1.0000
+  Li  Li2       1.0  0.25000  0.49451  0.10971  1.0000
+  Li  Li3       1.0  0.75000  0.00549  0.60971  1.0000
+  Li  Li4       1.0  0.75000  0.50549  0.89029  1.0000
+  Ce  Ce1       1.0  0.25000  0.13825  0.86400  1.0000
+  Ce  Ce2       1.0  0.25000  0.63825  0.63600  1.0000
+  Ce  Ce3       1.0  0.75000  0.86175  0.13600  1.0000
+  Ce  Ce4       1.0  0.75000  0.36175  0.36400  1.0000
+  Si  Si1       1.0  0.25000  0.23106  0.56951  1.0000
+  Si  Si2       1.0  0.25000  0.73106  0.93049  1.0000
+  Si  Si3       1.0  0.75000  0.76894  0.43049  1.0000
+  Si  Si4       1.0  0.75000  0.26894  0.06951  1.0000
+  Si  Si5       1.0  0.25000  0.66350  0.32095  1.0000
+  Si  Si6       1.0  0.25000  0.16350  0.17905  1.0000
+  Si  Si7       1.0  0.75000  0.33650  0.67905  1.0000
+  Si  Si8       1.0  0.75000  0.83650  0.82095  1.0000

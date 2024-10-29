@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ca2CrWO6
+_chemical_formula_sum              "Ca2 Cr1 W1 O6"
+_cell_length_a       5.50975
+_cell_length_b       5.5154
+_cell_length_c       5.53345
+_cell_angle_alpha    91.3649
+_cell_angle_beta     118.898
+_cell_angle_gamma    119.273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.47755  0.23017  0.74189  1.0000
+  Ca  Ca2       1.0  0.51334  0.76716  0.24143  1.0000
+  Cr  Cr1       1.0  0.98458  0.50301  0.48399  1.0000
+  W   W1        1.0  0.98467  0.00311  0.98397  1.0000
+  O   O1        1.0  0.06501  0.34386  0.21421  1.0000
+  O   O2        1.0  0.88505  0.66249  0.73593  1.0000
+  O   O3        1.0  0.01160  0.81922  0.30088  1.0000
+  O   O4        1.0  0.48675  0.22065  0.17292  1.0000
+  O   O5        1.0  0.47973  0.78869  0.79790  1.0000
+  O   O6        1.0  0.95891  0.19023  0.66733  1.0000

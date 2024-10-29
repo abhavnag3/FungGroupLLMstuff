@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       YFe11Re
+_chemical_formula_sum              "Y1 Fe11 Re1"
+_cell_length_a       4.68799
+_cell_length_b       6.45738
+_cell_length_c       6.45738
+_cell_angle_alpha    98.0276
+_cell_angle_beta     111.284
+_cell_angle_gamma    68.7158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00512  0.99488  0.00512  1.0000
+  Fe  Fe1       1.0  0.72850  0.77150  0.22850  1.0000
+  Fe  Fe2       1.0  0.27109  0.22892  0.77109  1.0000
+  Fe  Fe3       1.0  0.49845  0.77712  0.77403  1.0000
+  Fe  Fe4       1.0  0.49845  0.22597  0.22288  1.0000
+  Fe  Fe5       1.0  0.50040  0.99903  0.49996  1.0000
+  Fe  Fe6       1.0  0.00053  0.99903  0.49996  1.0000
+  Fe  Fe7       1.0  0.50040  0.50004  0.00097  1.0000
+  Fe  Fe8       1.0  0.00052  0.50004  0.00097  1.0000
+  Fe  Fe9       1.0  0.36029  0.63971  0.36029  1.0000
+  Fe  Fe10      1.0  0.99914  0.36018  0.35846  1.0000
+  Fe  Fe11      1.0  0.99914  0.64154  0.63982  1.0000
+  Re  Re1       1.0  0.63796  0.36204  0.63796  1.0000

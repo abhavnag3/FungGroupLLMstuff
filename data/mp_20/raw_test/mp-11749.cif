@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Tm10Si4Sb4
+_chemical_formula_sum              "Tm10 Si4 Sb4"
+_cell_length_a       8.416
+_cell_length_b       8.416
+_cell_length_c       7.75859
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    125.281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tm  Tm1       1.0  0.54015  0.78978  0.16445  1.0000
+  Tm  Tm2       1.0  0.28978  0.04015  0.33555  1.0000
+  Tm  Tm3       1.0  0.21022  0.45985  0.83555  1.0000
+  Tm  Tm4       1.0  0.95985  0.71022  0.66445  1.0000
+  Tm  Tm5       1.0  0.71022  0.95985  0.66445  1.0000
+  Tm  Tm6       1.0  0.45985  0.21022  0.83555  1.0000
+  Tm  Tm7       1.0  0.78978  0.54015  0.16445  1.0000
+  Tm  Tm8       1.0  0.04015  0.28978  0.33555  1.0000
+  Tm  Tm9       1.0  0.50000  0.50000  0.50000  1.0000
+  Tm  Tm10      1.0  0.00000  0.00000  0.00000  1.0000
+  Si  Si1       1.0  0.63343  0.63343  0.86779  1.0000
+  Si  Si2       1.0  0.13343  0.13343  0.63221  1.0000
+  Si  Si3       1.0  0.86657  0.86657  0.36779  1.0000
+  Si  Si4       1.0  0.36657  0.36657  0.13220  1.0000
+  Sb  Sb1       1.0  0.29389  0.70611  0.50000  1.0000
+  Sb  Sb2       1.0  0.20611  0.79389  0.00000  1.0000
+  Sb  Sb3       1.0  0.70611  0.29389  0.50000  1.0000
+  Sb  Sb4       1.0  0.79389  0.20611  0.00000  1.0000

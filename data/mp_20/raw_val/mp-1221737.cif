@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Mn3Fe9P6
+_chemical_formula_sum              "Mn3 Fe9 P6"
+_cell_length_a       3.38555
+_cell_length_b       5.90005
+_cell_length_c       10.2532
+_cell_angle_alpha    89.8499
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.50000  0.40809  0.99935  1.0000
+  Mn  Mn2       1.0  0.50000  0.90946  0.50190  1.0000
+  Mn  Mn3       1.0  0.50000  0.79695  0.20509  1.0000
+  Fe  Fe1       1.0  0.50000  0.29684  0.70413  1.0000
+  Fe  Fe2       1.0  0.50000  0.29530  0.29662  1.0000
+  Fe  Fe3       1.0  0.50000  0.79567  0.79497  1.0000
+  Fe  Fe4       1.0  0.00000  0.74628  0.99865  1.0000
+  Fe  Fe5       1.0  0.00000  0.24635  0.50112  1.0000
+  Fe  Fe6       1.0  0.00000  0.62618  0.37394  1.0000
+  Fe  Fe7       1.0  0.00000  0.12804  0.87184  1.0000
+  Fe  Fe8       1.0  0.00000  0.12698  0.12655  1.0000
+  Fe  Fe9       1.0  0.00000  0.62737  0.62755  1.0000
+  P   P1        1.0  0.00000  0.00214  0.33571  1.0000
+  P   P2        1.0  0.00000  0.50138  0.83261  1.0000
+  P   P3        1.0  0.00000  0.50194  0.16728  1.0000
+  P   P4        1.0  0.00000  0.00206  0.66767  1.0000
+  P   P5        1.0  0.50000  0.99496  0.99358  1.0000
+  P   P6        1.0  0.50000  0.49421  0.50144  1.0000

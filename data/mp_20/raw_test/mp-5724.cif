@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Al2P2O8
+_chemical_formula_sum              "Al2 P2 O8"
+_cell_length_a       8.46243
+_cell_length_b       5.10649
+_cell_length_c       5.13273
+_cell_angle_alpha    61.1947
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.06731  0.60253  0.64721  1.0000
+  Al  Al2       1.0  0.56731  0.39747  0.35279  1.0000
+  P   P1        1.0  0.44180  0.72560  0.69450  1.0000
+  P   P2        1.0  0.94180  0.27440  0.30550  1.0000
+  O   O1        1.0  0.54705  0.53755  0.60280  1.0000
+  O   O2        1.0  0.04704  0.46245  0.39720  1.0000
+  O   O3        1.0  0.46577  0.05986  0.48019  1.0000
+  O   O4        1.0  0.96577  0.94014  0.51981  1.0000
+  O   O5        1.0  0.26789  0.64845  0.68598  1.0000
+  O   O6        1.0  0.76789  0.35154  0.31402  1.0000
+  O   O7        1.0  0.98689  0.34135  0.98926  1.0000
+  O   O8        1.0  0.48689  0.65865  0.01074  1.0000

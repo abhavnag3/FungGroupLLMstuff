@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       U6Ga4Ge6
+_chemical_formula_sum              "U6 Ga4 Ge6"
+_cell_length_a       7.79163
+_cell_length_b       7.79163
+_cell_length_c       7.79163
+_cell_angle_alpha    120.371
+_cell_angle_beta     120.371
+_cell_angle_gamma    89.3589
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.36283  0.17451  0.50000  1.0000
+  U   U2        1.0  0.67451  0.86283  0.50000  1.0000
+  U   U3        1.0  0.17451  0.67451  0.81169  1.0000
+  U   U4        1.0  0.86283  0.36283  0.18831  1.0000
+  U   U5        1.0  0.74919  0.74919  0.00000  1.0000
+  U   U6        1.0  0.24919  0.24919  0.00000  1.0000
+  Ga  Ga1       1.0  0.69295  0.47335  0.50000  1.0000
+  Ga  Ga2       1.0  0.97335  0.19295  0.50000  1.0000
+  Ga  Ga3       1.0  0.47335  0.97335  0.78040  1.0000
+  Ga  Ga4       1.0  0.19295  0.69295  0.21960  1.0000
+  Ge  Ge1       1.0  0.35281  0.55441  0.50000  1.0000
+  Ge  Ge2       1.0  0.05441  0.85281  0.50000  1.0000
+  Ge  Ge3       1.0  0.55441  0.05441  0.20159  1.0000
+  Ge  Ge4       1.0  0.85281  0.35281  0.79841  1.0000
+  Ge  Ge5       1.0  0.99929  0.99929  0.00000  1.0000
+  Ge  Ge6       1.0  0.49929  0.49929  0.00000  1.0000

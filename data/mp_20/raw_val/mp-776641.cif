@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Na10Co2O8
+_chemical_formula_sum              "Na10 Co2 O8"
+_cell_length_a       5.92145
+_cell_length_b       6.07294
+_cell_length_c       7.67072
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.93241  0.06830  0.31640  1.0000
+  Na  Na2       1.0  0.93241  0.06830  0.68360  1.0000
+  Na  Na3       1.0  0.74866  0.61141  0.69917  1.0000
+  Na  Na4       1.0  0.74866  0.61141  0.30083  1.0000
+  Na  Na5       1.0  0.74617  0.32532  0.00000  1.0000
+  Na  Na6       1.0  0.43241  0.93170  0.81640  1.0000
+  Na  Na7       1.0  0.43241  0.93170  0.18360  1.0000
+  Na  Na8       1.0  0.24866  0.38859  0.80083  1.0000
+  Na  Na9       1.0  0.24866  0.38859  0.19917  1.0000
+  Na  Na10      1.0  0.24617  0.67468  0.50000  1.0000
+  Co  Co1       1.0  0.99503  0.82591  0.00000  1.0000
+  Co  Co2       1.0  0.49503  0.17409  0.50000  1.0000
+  O   O1        1.0  0.68906  0.74098  0.00000  1.0000
+  O   O2        1.0  0.59686  0.87150  0.50000  1.0000
+  O   O3        1.0  0.60139  0.26736  0.27906  1.0000
+  O   O4        1.0  0.60139  0.26736  0.72094  1.0000
+  O   O5        1.0  0.18906  0.25902  0.50000  1.0000
+  O   O6        1.0  0.09686  0.12850  0.00000  1.0000
+  O   O7        1.0  0.10139  0.73264  0.77906  1.0000
+  O   O8        1.0  0.10139  0.73264  0.22094  1.0000

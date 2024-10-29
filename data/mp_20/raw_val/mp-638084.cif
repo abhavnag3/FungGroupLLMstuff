@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Dy4Ni4Ge8
+_chemical_formula_sum              "Dy4 Ni4 Ge8"
+_cell_length_a       9.26582
+_cell_length_b       9.26582
+_cell_length_c       9.26582
+_cell_angle_alpha    153.904
+_cell_angle_beta     125.087
+_cell_angle_gamma    61.7792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.29498  0.79498  0.50000  1.0000
+  Dy  Dy2       1.0  0.73443  0.00000  0.73443  1.0000
+  Dy  Dy3       1.0  0.26557  0.00000  0.26557  1.0000
+  Dy  Dy4       1.0  0.70502  0.20502  0.50000  1.0000
+  Ni  Ni1       1.0  0.60071  0.35118  0.24954  1.0000
+  Ni  Ni2       1.0  0.89836  0.64882  0.24954  1.0000
+  Ni  Ni3       1.0  0.39929  0.64882  0.75047  1.0000
+  Ni  Ni4       1.0  0.10164  0.35118  0.75047  1.0000
+  Ge  Ge1       1.0  0.96240  0.80491  0.15749  1.0000
+  Ge  Ge2       1.0  0.91961  0.41961  0.50000  1.0000
+  Ge  Ge3       1.0  0.03760  0.19509  0.84251  1.0000
+  Ge  Ge4       1.0  0.35258  0.19509  0.15749  1.0000
+  Ge  Ge5       1.0  0.64742  0.80491  0.84251  1.0000
+  Ge  Ge6       1.0  0.57736  0.57736  0.00000  1.0000
+  Ge  Ge7       1.0  0.08039  0.58039  0.50000  1.0000
+  Ge  Ge8       1.0  0.42264  0.42264  0.00000  1.0000

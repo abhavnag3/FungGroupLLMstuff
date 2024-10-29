@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tb2Cl4F2
+_chemical_formula_sum              "Tb2 Cl4 F2"
+_cell_length_a       5.3497
+_cell_length_b       5.3497
+_cell_length_c       6.8613
+_cell_angle_alpha    73.6607
+_cell_angle_beta     73.6607
+_cell_angle_gamma    66.3933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.76703  0.23297  0.75000  1.0000
+  Tb  Tb2       1.0  0.23297  0.76703  0.25000  1.0000
+  Cl  Cl1       1.0  0.28344  0.33896  0.60601  1.0000
+  Cl  Cl2       1.0  0.71656  0.66104  0.39399  1.0000
+  Cl  Cl3       1.0  0.33896  0.28344  0.10601  1.0000
+  Cl  Cl4       1.0  0.66104  0.71656  0.89399  1.0000
+  F   F1        1.0  0.00000  0.00000  0.00000  1.0000
+  F   F2        1.0  0.00000  0.00000  0.50000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg6Fe2O8
+_chemical_formula_sum              "Mg6 Fe2 O8"
+_cell_length_a       3.04265
+_cell_length_b       10.0996
+_cell_length_c       5.21415
+_cell_angle_alpha    93.8185
+_cell_angle_beta     89.9573
+_cell_angle_gamma    98.6386
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.25001  0.50001  0.75008  1.0000
+  Mg  Mg2       1.0  0.74995  0.50000  0.24996  1.0000
+  Mg  Mg3       1.0  0.12566  0.25372  0.38179  1.0000
+  Mg  Mg4       1.0  0.62598  0.25363  0.88190  1.0000
+  Mg  Mg5       1.0  0.37400  0.74633  0.11794  1.0000
+  Mg  Mg6       1.0  0.87441  0.74627  0.61825  1.0000
+  Fe  Fe1       1.0  0.50001  0.00002  0.50004  1.0000
+  Fe  Fe2       1.0  0.99991  0.00002  0.99991  1.0000
+  O   O1        1.0  0.43372  0.86609  0.79617  1.0000
+  O   O2        1.0  0.93342  0.86693  0.29651  1.0000
+  O   O3        1.0  0.06671  0.13302  0.70351  1.0000
+  O   O4        1.0  0.56631  0.13388  0.20388  1.0000
+  O   O5        1.0  0.31466  0.62309  0.43349  1.0000
+  O   O6        1.0  0.81472  0.62305  0.93363  1.0000
+  O   O7        1.0  0.18528  0.37697  0.06636  1.0000
+  O   O8        1.0  0.68524  0.37696  0.56657  1.0000

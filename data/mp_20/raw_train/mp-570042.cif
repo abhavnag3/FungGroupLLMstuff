@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pr4Al4Pt4
+_chemical_formula_sum              "Pr4 Al4 Pt4"
+_cell_length_a       4.5207
+_cell_length_b       7.22507
+_cell_length_c       7.90113
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.25000  0.52817  0.81757  1.0000
+  Pr  Pr2       1.0  0.25000  0.02817  0.68243  1.0000
+  Pr  Pr3       1.0  0.75000  0.97183  0.31757  1.0000
+  Pr  Pr4       1.0  0.75000  0.47183  0.18243  1.0000
+  Al  Al1       1.0  0.25000  0.14630  0.06714  1.0000
+  Al  Al2       1.0  0.75000  0.35370  0.56714  1.0000
+  Al  Al3       1.0  0.25000  0.64629  0.43286  1.0000
+  Al  Al4       1.0  0.75000  0.85371  0.93286  1.0000
+  Pt  Pt1       1.0  0.25000  0.78533  0.11076  1.0000
+  Pt  Pt2       1.0  0.25000  0.28533  0.38924  1.0000
+  Pt  Pt3       1.0  0.75000  0.71467  0.61076  1.0000
+  Pt  Pt4       1.0  0.75000  0.21467  0.88924  1.0000

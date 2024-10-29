@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Gd4Zn2Pt2O12
+_chemical_formula_sum              "Gd4 Zn2 Pt2 O12"
+_cell_length_a       5.80119
+_cell_length_b       5.41822
+_cell_length_c       9.5109
+_cell_angle_alpha    55.1398
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.42797  0.22998  0.74652  1.0000
+  Gd  Gd2       1.0  0.57203  0.77003  0.25348  1.0000
+  Gd  Gd3       1.0  0.92797  0.77003  0.75348  1.0000
+  Gd  Gd4       1.0  0.07203  0.22998  0.24652  1.0000
+  Zn  Zn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Zn  Zn2       1.0  0.50000  0.50000  0.00000  1.0000
+  Pt  Pt1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pt  Pt2       1.0  0.50000  0.00000  0.50000  1.0000
+  O   O1        1.0  0.04828  0.36701  0.75396  1.0000
+  O   O2        1.0  0.95172  0.63299  0.24604  1.0000
+  O   O3        1.0  0.54828  0.63299  0.74604  1.0000
+  O   O4        1.0  0.45172  0.36701  0.25396  1.0000
+  O   O5        1.0  0.70290  0.87885  0.93534  1.0000
+  O   O6        1.0  0.29710  0.12115  0.06466  1.0000
+  O   O7        1.0  0.20290  0.12115  0.56466  1.0000
+  O   O8        1.0  0.79710  0.87885  0.43534  1.0000
+  O   O9        1.0  0.19135  0.74683  0.94473  1.0000
+  O   O10       1.0  0.80865  0.25317  0.05527  1.0000
+  O   O11       1.0  0.69135  0.25317  0.55527  1.0000
+  O   O12       1.0  0.30865  0.74683  0.44473  1.0000

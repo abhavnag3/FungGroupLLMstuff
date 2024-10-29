@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       SrCa2Fe6As6
+_chemical_formula_sum              "Sr1 Ca2 Fe6 As6"
+_cell_length_a       5.65299
+_cell_length_b       6.0603
+_cell_length_c       8.30695
+_cell_angle_alpha    75.1248
+_cell_angle_beta     70.1075
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ca  Ca1       1.0  0.33262  0.66438  0.33476  1.0000
+  Ca  Ca2       1.0  0.66738  0.33562  0.66524  1.0000
+  Fe  Fe1       1.0  0.41836  0.83381  0.66451  1.0000
+  Fe  Fe2       1.0  0.75003  0.50000  0.00000  1.0000
+  Fe  Fe3       1.0  0.08286  0.16619  0.33549  1.0000
+  Fe  Fe4       1.0  0.24997  0.50000  0.00000  1.0000
+  Fe  Fe5       1.0  0.58164  0.16619  0.33549  1.0000
+  Fe  Fe6       1.0  0.91714  0.83381  0.66451  1.0000
+  As  As1       1.0  0.12009  0.52343  0.75981  1.0000
+  As  As2       1.0  0.45195  0.18895  0.09610  1.0000
+  As  As3       1.0  0.78648  0.85223  0.42704  1.0000
+  As  As4       1.0  0.54805  0.81105  0.90390  1.0000
+  As  As5       1.0  0.87991  0.47656  0.24019  1.0000
+  As  As6       1.0  0.21352  0.14777  0.57296  1.0000

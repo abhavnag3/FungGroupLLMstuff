@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Li4FeBiTe2O12
+_chemical_formula_sum              "Li4 Fe1 Bi1 Te2 O12"
+_cell_length_a       5.24111
+_cell_length_b       5.49953
+_cell_length_c       7.62376
+_cell_angle_alpha    86.096
+_cell_angle_beta     89.9811
+_cell_angle_gamma    89.7893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.50684  0.08764  0.31171  1.0000
+  Li  Li2       1.0  0.49775  0.09022  0.76389  1.0000
+  Li  Li3       1.0  0.99219  0.53731  0.74779  1.0000
+  Li  Li4       1.0  0.00201  0.55734  0.30799  1.0000
+  Fe  Fe1       1.0  0.50055  0.51649  0.50245  1.0000
+  Bi  Bi1       1.0  0.99925  0.00280  0.00520  1.0000
+  Te  Te1       1.0  0.00120  0.00132  0.50169  1.0000
+  Te  Te2       1.0  0.49924  0.50405  0.00066  1.0000
+  O   O1        1.0  0.64897  0.17789  0.06690  1.0000
+  O   O2        1.0  0.30343  0.18063  0.55089  1.0000
+  O   O3        1.0  0.80343  0.29086  0.43656  1.0000
+  O   O4        1.0  0.19945  0.32392  0.91228  1.0000
+  O   O5        1.0  0.37075  0.49242  0.23591  1.0000
+  O   O6        1.0  0.62401  0.46989  0.76196  1.0000
+  O   O7        1.0  0.82243  0.65241  0.06713  1.0000
+  O   O8        1.0  0.17786  0.68881  0.54844  1.0000
+  O   O9        1.0  0.71275  0.80596  0.42956  1.0000
+  O   O10       1.0  0.33180  0.80798  0.91626  1.0000
+  O   O11       1.0  0.14691  0.98341  0.26162  1.0000
+  O   O12       1.0  0.85916  0.97102  0.74230  1.0000

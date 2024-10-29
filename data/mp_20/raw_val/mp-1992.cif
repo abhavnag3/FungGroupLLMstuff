@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Pu10Ru6
+_chemical_formula_sum              "Pu10 Ru6"
+_cell_length_a       8.161
+_cell_length_b       8.161
+_cell_length_c       8.161
+_cell_angle_alpha    96.9289
+_cell_angle_beta     96.9289
+_cell_angle_gamma    139.352
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.71809  0.58796  0.30604  1.0000
+  Pu  Pu2       1.0  0.28191  0.41204  0.69396  1.0000
+  Pu  Pu3       1.0  0.58796  0.28191  0.86987  1.0000
+  Pu  Pu4       1.0  0.41204  0.71809  0.13013  1.0000
+  Pu  Pu5       1.0  0.08796  0.21809  0.30604  1.0000
+  Pu  Pu6       1.0  0.78191  0.08796  0.86987  1.0000
+  Pu  Pu7       1.0  0.21809  0.91204  0.13013  1.0000
+  Pu  Pu8       1.0  0.91204  0.78191  0.69396  1.0000
+  Pu  Pu9       1.0  0.75000  0.25000  0.50000  1.0000
+  Pu  Pu10      1.0  0.25000  0.75000  0.50000  1.0000
+  Ru  Ru1       1.0  0.14722  0.64722  0.79444  1.0000
+  Ru  Ru2       1.0  0.35278  0.14722  0.50000  1.0000
+  Ru  Ru3       1.0  0.64722  0.85278  0.50000  1.0000
+  Ru  Ru4       1.0  0.85278  0.35278  0.20556  1.0000
+  Ru  Ru5       1.0  0.75000  0.75000  0.00000  1.0000
+  Ru  Ru6       1.0  0.25000  0.25000  0.00000  1.0000

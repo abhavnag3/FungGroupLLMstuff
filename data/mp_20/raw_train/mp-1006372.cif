@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag2S2O8
+_chemical_formula_sum              "Ag2 S2 O8"
+_cell_length_a       4.79814
+_cell_length_b       4.89141
+_cell_length_c       8.38229
+_cell_angle_alpha    79.9153
+_cell_angle_beta     75.8081
+_cell_angle_gamma    62.7815
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.50000  0.50000  0.50000  1.0000
+  S   S1        1.0  0.84366  0.61602  0.74895  1.0000
+  S   S2        1.0  0.15634  0.38398  0.25105  1.0000
+  O   O1        1.0  0.74914  0.81388  0.88664  1.0000
+  O   O2        1.0  0.08538  0.29529  0.78226  1.0000
+  O   O3        1.0  0.53644  0.62108  0.73164  1.0000
+  O   O4        1.0  0.97956  0.74240  0.59008  1.0000
+  O   O5        1.0  0.02044  0.25760  0.40992  1.0000
+  O   O6        1.0  0.46356  0.37893  0.26836  1.0000
+  O   O7        1.0  0.91462  0.70471  0.21774  1.0000
+  O   O8        1.0  0.25086  0.18612  0.11336  1.0000

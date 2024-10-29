@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       CdCuP2O7
+_chemical_formula_sum              "Cd1 Cu1 P2 O7"
+_cell_length_a       5.57273
+_cell_length_b       5.57273
+_cell_length_c       4.61789
+_cell_angle_alpha    79.707
+_cell_angle_beta     79.707
+_cell_angle_gamma    102.89
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.69239  0.30761  0.50000  1.0000
+  Cu  Cu1       1.0  0.30972  0.69028  0.50000  1.0000
+  P   P1        1.0  0.21104  0.19831  0.09043  1.0000
+  P   P2        1.0  0.80169  0.78896  0.90957  1.0000
+  O   O1        1.0  0.08005  0.34538  0.28214  1.0000
+  O   O2        1.0  0.65462  0.91995  0.71786  1.0000
+  O   O3        1.0  0.01261  0.98739  0.00000  1.0000
+  O   O4        1.0  0.37065  0.05237  0.25809  1.0000
+  O   O5        1.0  0.94763  0.62935  0.74191  1.0000
+  O   O6        1.0  0.36461  0.37961  0.78702  1.0000
+  O   O7        1.0  0.62039  0.63539  0.21299  1.0000

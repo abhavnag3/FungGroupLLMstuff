@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sr2Cu8Sn4
+_chemical_formula_sum              "Sr2 Cu8 Sn4"
+_cell_length_a       7.00318
+_cell_length_b       7.00318
+_cell_length_c       7.00318
+_cell_angle_alpha    108.23
+_cell_angle_beta     108.23
+_cell_angle_gamma    111.983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.75000  0.75000  0.00000  1.0000
+  Sr  Sr2       1.0  0.25000  0.25000  0.00000  1.0000
+  Cu  Cu1       1.0  0.47456  0.97456  0.77113  1.0000
+  Cu  Cu2       1.0  0.20343  0.70343  0.22887  1.0000
+  Cu  Cu3       1.0  0.70343  0.47457  0.50000  1.0000
+  Cu  Cu4       1.0  0.97457  0.20343  0.50000  1.0000
+  Cu  Cu5       1.0  0.52543  0.02544  0.22887  1.0000
+  Cu  Cu6       1.0  0.79657  0.29657  0.77113  1.0000
+  Cu  Cu7       1.0  0.29657  0.52543  0.50000  1.0000
+  Cu  Cu8       1.0  0.02543  0.79657  0.50000  1.0000
+  Sn  Sn1       1.0  0.16062  0.66062  0.82125  1.0000
+  Sn  Sn2       1.0  0.83938  0.33938  0.17875  1.0000
+  Sn  Sn3       1.0  0.33938  0.16062  0.50000  1.0000
+  Sn  Sn4       1.0  0.66062  0.83938  0.50000  1.0000

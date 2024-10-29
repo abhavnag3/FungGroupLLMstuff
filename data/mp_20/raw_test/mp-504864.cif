@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       YCuW2O8
+_chemical_formula_sum              "Y1 Cu1 W2 O8"
+_cell_length_a       5.1498
+_cell_length_b       6.05982
+_cell_length_c       6.18357
+_cell_angle_alpha    108.648
+_cell_angle_beta     91.8492
+_cell_angle_gamma    113.863
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.00000  0.50000  0.00000  1.0000
+  Cu  Cu1       1.0  0.50000  0.50000  0.50000  1.0000
+  W   W1        1.0  0.75063  0.01317  0.33551  1.0000
+  W   W2        1.0  0.24937  0.98683  0.66449  1.0000
+  O   O1        1.0  0.48437  0.76208  0.08138  1.0000
+  O   O2        1.0  0.97829  0.24431  0.21399  1.0000
+  O   O3        1.0  0.46259  0.79669  0.52552  1.0000
+  O   O4        1.0  0.02731  0.19245  0.66949  1.0000
+  O   O5        1.0  0.02171  0.75569  0.78602  1.0000
+  O   O6        1.0  0.51563  0.23792  0.91862  1.0000
+  O   O7        1.0  0.53741  0.20331  0.47448  1.0000
+  O   O8        1.0  0.97269  0.80755  0.33051  1.0000

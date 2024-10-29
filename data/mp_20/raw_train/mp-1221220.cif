@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na4AlFe3O8
+_chemical_formula_sum              "Na4 Al1 Fe3 O8"
+_cell_length_a       5.43911
+_cell_length_b       5.7561
+_cell_length_c       7.1161
+_cell_angle_alpha    89.9899
+_cell_angle_beta     89.975
+_cell_angle_gamma    89.9099
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.51177  0.92027  0.37441  1.0000
+  Na  Na2       1.0  0.00873  0.08185  0.62054  1.0000
+  Na  Na3       1.0  0.00983  0.58372  0.88388  1.0000
+  Na  Na4       1.0  0.51237  0.41042  0.12152  1.0000
+  Al  Al1       1.0  0.02107  0.06517  0.12603  1.0000
+  Fe  Fe1       1.0  0.02123  0.56710  0.36795  1.0000
+  Fe  Fe2       1.0  0.52137  0.43554  0.62655  1.0000
+  Fe  Fe3       1.0  0.52101  0.93597  0.87865  1.0000
+  O   O1        1.0  0.94097  0.88578  0.32245  1.0000
+  O   O2        1.0  0.44069  0.11457  0.65996  1.0000
+  O   O3        1.0  0.43916  0.61541  0.84298  1.0000
+  O   O4        1.0  0.94129  0.36311  0.16559  1.0000
+  O   O5        1.0  0.36830  0.54678  0.40438  1.0000
+  O   O6        1.0  0.86824  0.46393  0.59339  1.0000
+  O   O7        1.0  0.86506  0.96639  0.92072  1.0000
+  O   O8        1.0  0.34491  0.04399  0.09098  1.0000

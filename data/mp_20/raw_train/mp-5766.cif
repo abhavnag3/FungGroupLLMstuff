@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ce4Cu4S8
+_chemical_formula_sum              "Ce4 Cu4 S8"
+_cell_length_a       7.19879
+_cell_length_b       6.45763
+_cell_length_c       6.89906
+_cell_angle_alpha    82.1966
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.55191  0.68900  0.19952  1.0000
+  Ce  Ce2       1.0  0.05191  0.31100  0.30048  1.0000
+  Ce  Ce3       1.0  0.44809  0.31100  0.80048  1.0000
+  Ce  Ce4       1.0  0.94809  0.68900  0.69952  1.0000
+  Cu  Cu1       1.0  0.83370  0.06924  0.96109  1.0000
+  Cu  Cu2       1.0  0.16630  0.93076  0.03891  1.0000
+  Cu  Cu3       1.0  0.33370  0.93076  0.53891  1.0000
+  Cu  Cu4       1.0  0.66630  0.06924  0.46109  1.0000
+  S   S1        1.0  0.88358  0.90949  0.28325  1.0000
+  S   S2        1.0  0.38358  0.09051  0.21675  1.0000
+  S   S3        1.0  0.11642  0.09051  0.71675  1.0000
+  S   S4        1.0  0.61642  0.90949  0.78325  1.0000
+  S   S5        1.0  0.72659  0.41225  0.49997  1.0000
+  S   S6        1.0  0.77341  0.41225  0.99997  1.0000
+  S   S7        1.0  0.27341  0.58775  0.50003  1.0000
+  S   S8        1.0  0.22659  0.58775  0.00003  1.0000

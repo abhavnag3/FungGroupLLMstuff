@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Nb2Al2Cl16
+_chemical_formula_sum              "Nb2 Al2 Cl16"
+_cell_length_a       9.92949
+_cell_length_b       9.92949
+_cell_length_c       8.74169
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    128.385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.88666  0.11334  0.25000  1.0000
+  Nb  Nb2       1.0  0.11334  0.88666  0.75000  1.0000
+  Al  Al1       1.0  0.31399  0.68601  0.75000  1.0000
+  Al  Al2       1.0  0.68601  0.31399  0.25000  1.0000
+  Cl  Cl1       1.0  0.37656  0.62344  0.54562  1.0000
+  Cl  Cl2       1.0  0.62344  0.37656  0.45438  1.0000
+  Cl  Cl3       1.0  0.42264  0.96134  0.75000  1.0000
+  Cl  Cl4       1.0  0.96134  0.42264  0.25000  1.0000
+  Cl  Cl5       1.0  0.57736  0.03866  0.25000  1.0000
+  Cl  Cl6       1.0  0.03866  0.57736  0.75000  1.0000
+  Cl  Cl7       1.0  0.23969  0.17052  0.75000  1.0000
+  Cl  Cl8       1.0  0.17052  0.23969  0.25000  1.0000
+  Cl  Cl9       1.0  0.76031  0.82948  0.25000  1.0000
+  Cl  Cl10      1.0  0.82948  0.76031  0.75000  1.0000
+  Cl  Cl11      1.0  0.13345  0.86655  0.48738  1.0000
+  Cl  Cl12      1.0  0.86655  0.13345  0.51262  1.0000
+  Cl  Cl13      1.0  0.86655  0.13345  0.98738  1.0000
+  Cl  Cl14      1.0  0.13345  0.86655  0.01262  1.0000
+  Cl  Cl15      1.0  0.37656  0.62344  0.95438  1.0000
+  Cl  Cl16      1.0  0.62344  0.37656  0.04562  1.0000

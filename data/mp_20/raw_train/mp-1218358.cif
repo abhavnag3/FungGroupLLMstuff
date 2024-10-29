@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sr2Ca2Ti4O12
+_chemical_formula_sum              "Sr2 Ca2 Ti4 O12"
+_cell_length_a       5.52465
+_cell_length_b       5.52903
+_cell_length_c       7.81389
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sr  Sr1       1.0  0.25436  0.98528  0.50000  1.0000
+  Sr  Sr2       1.0  0.74564  0.48528  0.50000  1.0000
+  Ca  Ca1       1.0  0.24841  0.01740  0.00000  1.0000
+  Ca  Ca2       1.0  0.75159  0.51740  0.00000  1.0000
+  Ti  Ti1       1.0  0.25137  0.49869  0.75486  1.0000
+  Ti  Ti2       1.0  0.74863  0.99869  0.24514  1.0000
+  Ti  Ti3       1.0  0.25137  0.49869  0.24514  1.0000
+  Ti  Ti4       1.0  0.74863  0.99869  0.75486  1.0000
+  O   O1        1.0  0.02515  0.77639  0.78580  1.0000
+  O   O2        1.0  0.97485  0.27639  0.21420  1.0000
+  O   O3        1.0  0.47655  0.22690  0.27008  1.0000
+  O   O4        1.0  0.52345  0.72691  0.72992  1.0000
+  O   O5        1.0  0.47655  0.22690  0.72992  1.0000
+  O   O6        1.0  0.52345  0.72691  0.27008  1.0000
+  O   O7        1.0  0.02515  0.77639  0.21420  1.0000
+  O   O8        1.0  0.97485  0.27639  0.78580  1.0000
+  O   O9        1.0  0.31399  0.49010  0.00000  1.0000
+  O   O10       1.0  0.68601  0.99010  0.00000  1.0000
+  O   O11       1.0  0.20684  0.50324  0.50000  1.0000
+  O   O12       1.0  0.79316  0.00324  0.50000  1.0000

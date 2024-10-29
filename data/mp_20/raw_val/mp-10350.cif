@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Ba2Nd2Cu2B2O10
+_chemical_formula_sum              "Ba2 Nd2 Cu2 B2 O10"
+_cell_length_a       5.55493
+_cell_length_b       5.55493
+_cell_length_c       7.65796
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.50000  0.50000  0.51241  1.0000
+  Ba  Ba2       1.0  0.00000  0.00000  0.51241  1.0000
+  Nd  Nd1       1.0  0.50000  0.50000  0.00475  1.0000
+  Nd  Nd2       1.0  0.00000  0.00000  0.00475  1.0000
+  Cu  Cu1       1.0  0.00000  0.50000  0.78398  1.0000
+  Cu  Cu2       1.0  0.50000  0.00000  0.78398  1.0000
+  B   B1        1.0  0.50000  0.00000  0.26388  1.0000
+  B   B2        1.0  0.00000  0.50000  0.26388  1.0000
+  O   O1        1.0  0.34485  0.15515  0.17613  1.0000
+  O   O2        1.0  0.15515  0.65515  0.17613  1.0000
+  O   O3        1.0  0.00000  0.50000  0.44607  1.0000
+  O   O4        1.0  0.50000  0.00000  0.44607  1.0000
+  O   O5        1.0  0.84485  0.34485  0.17613  1.0000
+  O   O6        1.0  0.65515  0.84485  0.17613  1.0000
+  O   O7        1.0  0.25242  0.75242  0.79903  1.0000
+  O   O8        1.0  0.24758  0.25242  0.79903  1.0000
+  O   O9        1.0  0.75242  0.74758  0.79903  1.0000
+  O   O10       1.0  0.74758  0.24758  0.79903  1.0000

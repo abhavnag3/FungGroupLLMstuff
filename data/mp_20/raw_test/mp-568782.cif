@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       DyP2Pt8
+_chemical_formula_sum              "Dy1 P2 Pt8"
+_cell_length_a       6.3404
+_cell_length_b       6.3404
+_cell_length_c       9.40935
+_cell_angle_alpha    54.8366
+_cell_angle_beta     54.8366
+_cell_angle_gamma    37.3458
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.50000  0.50000  0.50000  1.0000
+  P   P1        1.0  0.05836  0.05836  0.70944  1.0000
+  P   P2        1.0  0.94164  0.94164  0.29056  1.0000
+  Pt  Pt1       1.0  0.22363  0.22363  0.41371  1.0000
+  Pt  Pt2       1.0  0.82301  0.82301  0.84413  1.0000
+  Pt  Pt3       1.0  0.17699  0.17699  0.15587  1.0000
+  Pt  Pt4       1.0  0.16633  0.16633  0.84790  1.0000
+  Pt  Pt5       1.0  0.47496  0.47496  0.86890  1.0000
+  Pt  Pt6       1.0  0.52504  0.52504  0.13110  1.0000
+  Pt  Pt7       1.0  0.77637  0.77637  0.58629  1.0000
+  Pt  Pt8       1.0  0.83367  0.83367  0.15210  1.0000

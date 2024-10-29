@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       SmAl9Fe3
+_chemical_formula_sum              "Sm1 Al9 Fe3"
+_cell_length_a       6.79781
+_cell_length_b       6.79781
+_cell_length_c       6.71135
+_cell_angle_alpha    82.16
+_cell_angle_beta     82.16
+_cell_angle_gamma    136.273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00000  0.00000  0.00000  1.0000
+  Al  Al1       1.0  0.28960  0.51705  0.21523  1.0000
+  Al  Al2       1.0  0.71040  0.48295  0.78477  1.0000
+  Al  Al3       1.0  0.48295  0.71040  0.78477  1.0000
+  Al  Al4       1.0  0.51705  0.28960  0.21523  1.0000
+  Al  Al5       1.0  0.35426  0.99959  0.66241  1.0000
+  Al  Al6       1.0  0.64573  0.00041  0.33759  1.0000
+  Al  Al7       1.0  0.00041  0.64573  0.33759  1.0000
+  Al  Al8       1.0  0.99959  0.35426  0.66241  1.0000
+  Al  Al9       1.0  0.00000  0.00000  0.50000  1.0000
+  Fe  Fe1       1.0  0.50000  0.50000  0.50000  1.0000
+  Fe  Fe2       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe3       1.0  0.50000  0.00000  0.00000  1.0000

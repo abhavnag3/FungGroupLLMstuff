@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Na2Ca3Ta2O9
+_chemical_formula_sum              "Na2 Ca3 Ta2 O9"
+_cell_length_a       8.82212
+_cell_length_b       8.82212
+_cell_length_c       8.82212
+_cell_angle_alpha    37.6143
+_cell_angle_beta     37.6143
+_cell_angle_gamma    37.6143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.19951  0.19951  0.19951  1.0000
+  Na  Na2       1.0  0.80049  0.80049  0.80049  1.0000
+  Ca  Ca1       1.0  0.37145  0.37145  0.37145  1.0000
+  Ca  Ca2       1.0  0.50000  0.50000  0.50000  1.0000
+  Ca  Ca3       1.0  0.62855  0.62855  0.62855  1.0000
+  Ta  Ta1       1.0  0.06409  0.06409  0.06409  1.0000
+  Ta  Ta2       1.0  0.93591  0.93591  0.93591  1.0000
+  O   O1        1.0  0.34285  0.18653  0.78674  1.0000
+  O   O2        1.0  0.81347  0.65715  0.21326  1.0000
+  O   O3        1.0  0.78674  0.34285  0.18653  1.0000
+  O   O4        1.0  0.21326  0.81347  0.65715  1.0000
+  O   O5        1.0  0.18653  0.78674  0.34285  1.0000
+  O   O6        1.0  0.25843  0.00000  0.74157  1.0000
+  O   O7        1.0  0.74157  0.25843  0.00000  1.0000
+  O   O8        1.0  1.00000  0.74157  0.25843  1.0000
+  O   O9        1.0  0.65715  0.21326  0.81347  1.0000

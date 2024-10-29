@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       La2Re4Si4
+_chemical_formula_sum              "La2 Re4 Si4"
+_cell_length_a       10.9913
+_cell_length_b       10.9913
+_cell_length_c       10.9913
+_cell_angle_alpha    158.163
+_cell_angle_beta     157.676
+_cell_angle_gamma    31.4281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.91331  0.66331  0.25000  1.0000
+  La  La2       1.0  0.08669  0.33669  0.75000  1.0000
+  Re  Re1       1.0  0.21130  0.96130  0.25000  1.0000
+  Re  Re2       1.0  0.28554  0.53555  0.75000  1.0000
+  Re  Re3       1.0  0.78870  0.03870  0.75000  1.0000
+  Re  Re4       1.0  0.71445  0.46445  0.25000  1.0000
+  Si  Si1       1.0  0.52846  0.77846  0.75000  1.0000
+  Si  Si2       1.0  0.47154  0.22154  0.25000  1.0000
+  Si  Si3       1.0  0.35376  0.10376  0.25000  1.0000
+  Si  Si4       1.0  0.64624  0.89624  0.75000  1.0000

@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       SmFe11Mo
+_chemical_formula_sum              "Sm1 Fe11 Mo1"
+_cell_length_a       4.6951
+_cell_length_b       6.48229
+_cell_length_c       6.48229
+_cell_angle_alpha    97.8147
+_cell_angle_beta     111.3
+_cell_angle_gamma    68.7001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sm  Sm1       1.0  0.00632  0.99367  0.00633  1.0000
+  Fe  Fe1       1.0  0.73181  0.76838  0.23161  1.0000
+  Fe  Fe2       1.0  0.27048  0.22934  0.77066  1.0000
+  Fe  Fe3       1.0  0.49814  0.77651  0.77303  1.0000
+  Fe  Fe4       1.0  0.49814  0.22697  0.22348  1.0000
+  Fe  Fe5       1.0  0.50053  0.99821  0.50005  1.0000
+  Fe  Fe6       1.0  0.00146  0.99813  0.50009  1.0000
+  Fe  Fe7       1.0  0.50053  0.49995  0.00179  1.0000
+  Fe  Fe8       1.0  0.00146  0.49991  0.00187  1.0000
+  Fe  Fe9       1.0  0.35922  0.64048  0.35952  1.0000
+  Fe  Fe10      1.0  0.99920  0.36010  0.35848  1.0000
+  Fe  Fe11      1.0  0.99920  0.64152  0.63990  1.0000
+  Mo  Mo1       1.0  0.63351  0.36681  0.63319  1.0000

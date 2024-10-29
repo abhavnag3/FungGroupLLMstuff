@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mg4Ti4N8
+_chemical_formula_sum              "Mg4 Ti4 N8"
+_cell_length_a       4.28325
+_cell_length_b       6.12445
+_cell_length_c       7.12062
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.75000  0.58395  0.11990  1.0000
+  Mg  Mg2       1.0  0.25000  0.41605  0.88010  1.0000
+  Mg  Mg3       1.0  0.25000  0.91605  0.61990  1.0000
+  Mg  Mg4       1.0  0.75000  0.08395  0.38010  1.0000
+  Ti  Ti1       1.0  0.75000  0.57696  0.62808  1.0000
+  Ti  Ti2       1.0  0.25000  0.42304  0.37192  1.0000
+  Ti  Ti3       1.0  0.25000  0.92304  0.12808  1.0000
+  Ti  Ti4       1.0  0.75000  0.07696  0.87192  1.0000
+  N   N1        1.0  0.25000  0.57134  0.61183  1.0000
+  N   N2        1.0  0.75000  0.42866  0.38817  1.0000
+  N   N3        1.0  0.75000  0.92866  0.11183  1.0000
+  N   N4        1.0  0.25000  0.07134  0.88817  1.0000
+  N   N5        1.0  0.25000  0.59695  0.14001  1.0000
+  N   N6        1.0  0.75000  0.40305  0.85999  1.0000
+  N   N7        1.0  0.75000  0.90305  0.64001  1.0000
+  N   N8        1.0  0.25000  0.09695  0.35999  1.0000

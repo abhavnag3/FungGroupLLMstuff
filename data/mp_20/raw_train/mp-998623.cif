@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       TlCdF3
+_chemical_formula_sum              "Tl1 Cd1 F3"
+_cell_length_a       4.49442
+_cell_length_b       4.49706
+_cell_length_c       4.49812
+_cell_angle_alpha    89.893
+_cell_angle_beta     89.76
+_cell_angle_gamma    89.9481
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.99446  0.99327  0.98502  1.0000
+  Cd  Cd1       1.0  0.48818  0.49871  0.49510  1.0000
+  F   F1        1.0  0.48252  0.99963  0.49919  1.0000
+  F   F2        1.0  0.98753  0.50910  0.51377  1.0000
+  F   F3        1.0  0.48731  0.49929  0.99693  1.0000

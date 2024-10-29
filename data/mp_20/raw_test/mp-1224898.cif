@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ga2Ag2Ge4Se12
+_chemical_formula_sum              "Ga2 Ag2 Ge4 Se12"
+_cell_length_a       7.34109
+_cell_length_b       7.34109
+_cell_length_c       12.7978
+_cell_angle_alpha    81.9438
+_cell_angle_beta     81.9438
+_cell_angle_gamma    120.385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.25073  0.00173  0.49950  1.0000
+  Ga  Ga2       1.0  0.00173  0.25073  0.99950  1.0000
+  Ag  Ag1       1.0  0.26477  0.85771  0.08168  1.0000
+  Ag  Ag2       1.0  0.85771  0.26477  0.58168  1.0000
+  Ge  Ge1       1.0  0.75490  0.26120  0.27340  1.0000
+  Ge  Ge2       1.0  0.28279  0.28507  0.72683  1.0000
+  Ge  Ge3       1.0  0.26120  0.75490  0.77340  1.0000
+  Ge  Ge4       1.0  0.28507  0.28279  0.22683  1.0000
+  Se  Se1       1.0  0.60663  0.03861  0.45626  1.0000
+  Se  Se2       1.0  0.24979  0.31631  0.54284  1.0000
+  Se  Se3       1.0  0.03861  0.60663  0.95626  1.0000
+  Se  Se4       1.0  0.31631  0.24979  0.04284  1.0000
+  Se  Se5       1.0  0.14085  0.51116  0.26099  1.0000
+  Se  Se6       1.0  0.52203  0.65234  0.73988  1.0000
+  Se  Se7       1.0  0.51116  0.14085  0.76099  1.0000
+  Se  Se8       1.0  0.65234  0.52203  0.23988  1.0000
+  Se  Se9       1.0  0.67732  0.02368  0.15175  1.0000
+  Se  Se10      1.0  0.93051  0.07988  0.84767  1.0000
+  Se  Se11      1.0  0.02367  0.67732  0.65175  1.0000
+  Se  Se12      1.0  0.07988  0.93051  0.34767  1.0000
